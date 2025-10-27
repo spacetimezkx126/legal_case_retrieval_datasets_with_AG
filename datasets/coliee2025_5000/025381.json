@@ -1,0 +1,35 @@
+{
+    "Case ID": "025381",
+    "Different Crime": [
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "cause_incident": [
+                "trademark infringement"
+            ],
+            "rule_regulation": [
+                "Federal Courts Rules (Rules 466-472)"
+            ],
+            "aggravating_factors": [
+                "deliberate defiance"
+            ],
+            "mitigating_factors": [
+                "first offenses",
+                "guilty pleas"
+            ],
+            "decision_reasoning": [
+                "knowingly violated permanent injunction",
+                "delayed compliance for over a year"
+            ],
+            "result_of_case": [
+                "solicitor-client costs ($62,000)",
+                "fine ($50,000 reducible to $10,000)",
+                "suspended 14-day imprisonment"
+            ],
+            "procedure_followed": [
+                "Plaintiff sought enforcement of the original judgment",
+                "defendant pleaded guilty to contempt"
+            ]
+        }
+    ]
+}

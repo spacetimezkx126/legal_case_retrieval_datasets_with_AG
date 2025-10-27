@@ -1,0 +1,40 @@
+{
+    "Case ID": "048571",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 87(3) of the Immigration and Refugee Protection Regulations",
+                "s. 72(1) of the Act"
+            ],
+            "decision_outcome": [
+                "refusal",
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations",
+                "Act"
+            ],
+            "judicial_authority": [
+                "Officer",
+                "concurring officer"
+            ],
+            "material_misrepresentation": [
+                "inability to demonstrate financial self-sufficiency over two years in Canada as a visitor"
+            ],
+            "balance_of_convenience": [
+                "unlikely to become economically established due to lack of initiative or motivation"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "family support and provincial endorsement"
+            ],
+            "appeal_outcome": [
+                "no reviewable error found"
+            ]
+        }
+    ]
+}

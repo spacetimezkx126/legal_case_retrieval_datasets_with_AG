@@ -1,0 +1,32 @@
+{
+    "Case ID": "032396",
+    "Different Crime": [
+        {
+            "Crime Name": "Contractual Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Commercial Arbitration Act",
+                "Article 8(1) of the Commercial Arbitration Code",
+                "s. 50(1)(b) of the Federal Court Act"
+            ],
+            "application_details": [
+                "Defendant initially moved for a stay but filed its defense later."
+            ],
+            "decision_reasoning": [
+                "court analyzed whether the defense filing constituted a waiver of arbitration rights under Article 8 and considered equitable factors."
+            ],
+            "conclusion_outcome": [
+                "court granted a partial stay of proceedings"
+            ],
+            "cause_of_action": [
+                "Dispute over obligations under a charter party agreement"
+            ],
+            "procedure_followed": [
+                "Defendant's motion for a stay was adjourned multiple times due to insufficient evidence. After filing a defense, the defendant appealed the denial of its stay request."
+            ],
+            "result_of_case": [
+                "Court allowed the appeal partially, granting a stay for arbitration under discretionary powers despite strict statutory requirements."
+            ]
+        }
+    ]
+}

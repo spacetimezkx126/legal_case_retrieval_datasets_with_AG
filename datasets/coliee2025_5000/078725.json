@@ -1,0 +1,83 @@
+{
+    "Case ID": "078725",
+    "Different Crime": [
+        {
+            "Crime Name": "Entering into a marriage of convenience",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility finding",
+                "inconsistent testimony"
+            ],
+            "refugee_status_eligibility": [
+                "doubts about credibility and fear of persecution"
+            ],
+            "evidence_assessment": [
+                "medical evidence corroborated torture claims",
+                "not decisive"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "RPD's decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness standard under Dunsmuir and Khosa"
+            ]
+        },
+        {
+            "Crime Name": "Failure to claim refugee status in Trinidad or the U.S.",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "negative credibility findings",
+                "subjective fear findings"
+            ],
+            "reasonableness_standard": [
+                "credibility findings reviewed on reasonableness standard",
+                "justification, transparency, intelligibility"
+            ],
+            "inconsistencies_in_testimony": [
+                "inconsistent testimony"
+            ],
+            "evidence_assessment": [
+                "medical evidence corroborated some claims",
+                "insufficient to outweigh other adverse factors"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "RPD's decision upheld"
+            ],
+            "burden_of_proof": [
+                "totality of evidence considered"
+            ]
+        },
+        {
+            "Crime Name": "Inconsistent statements under oath",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "credibility findings",
+                "subjective fear findings"
+            ],
+            "evidence_provided": [
+                "medical evidence corroborated torture claims"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed RPD's decision"
+            ],
+            "relationship_genuineness": [
+                "married for convenience"
+            ],
+            "risk_characterization": [
+                "delay in claiming refugee status",
+                "failure to claim in other countries"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "balance_of_convenience": [
+                "delayed claiming refugee status"
+            ],
+            "nexus_to_convention_grounds": [
+                "inconsistent statements about persecution"
+            ]
+        }
+    ]
+}

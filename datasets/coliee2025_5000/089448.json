@@ -1,0 +1,43 @@
+{
+    "Case ID": "089448",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose previous refusals",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "establishment in Canada",
+                "family ties",
+                "risks in returning to the Philippines"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "best_interests_of_children": [],
+            "misrepresentation_or_fraud": [
+                "misrepresentations in his residency application"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "humanitarian_and_compassionate_grounds": [
+                "reasonably weighed family ties, risks, and hardships"
+            ],
+            "reasonableness_of_decision": [
+                "transparent, justifiable outcomes within acceptable legal bounds"
+            ],
+            "compelling_reasons": [
+                "establishment in Canada, child interests, and removal risks"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "administrative_error": [
+                "no question certified"
+            ]
+        }
+    ]
+}

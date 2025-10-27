@@ -1,0 +1,31 @@
+{
+    "Case ID": "010679",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "three years of residence",
+                "four years preceding application",
+                "1095 days"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "residency requirements not met",
+                "appeal dismissed"
+            ],
+            "immigration_status": [
+                "citizenship application denied"
+            ],
+            "evidence_assessment": [
+                "972 days of presence"
+            ],
+            "regulatory_compliance": [
+                "physical presence test"
+            ]
+        }
+    ]
+}

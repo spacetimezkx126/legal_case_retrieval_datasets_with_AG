@@ -1,0 +1,33 @@
+{
+    "Case ID": "007277",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "likelihood of confusion",
+                "similarities in bird designs",
+                "word 'OUTFITTER'"
+            ],
+            "applicable_statute": [
+                "Trade-Marks Act",
+                "s. 6(5)",
+                "s. 56"
+            ],
+            "distinctiveness_evaluation": [
+                "inherent distinctiveness"
+            ],
+            "use_in_trade": [
+                "nature of trade",
+                "extensive use and reputation"
+            ],
+            "appeal_outcome": [
+                "appeal dismissed",
+                "decision reasonable and defensible"
+            ],
+            "cause_of_action": [
+                "opposition to trademark registration"
+            ]
+        }
+    ]
+}

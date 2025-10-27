@@ -1,0 +1,27 @@
+{
+    "Case ID": "045782",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "documentary_evidence": [
+                "failure_to_prove_identity"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "legal_basis": [
+                "Section_106_of_the_Immigration_and_Refugee_Protection_Act"
+            ],
+            "burden_of_proof": [
+                "applicant_failed_to_establish_credible_identity"
+            ],
+            "procedural_fairness": [
+                "judicial_review_of_Board's_decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Case ID": "039038",
+    "Different Crime": [
+        {
+            "Crime Name": "Fabrication of evidence to affect tribunal proceedings",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "PSDP Act s. 24(1)"
+            ],
+            "procedural_fairness": [
+                "notice and opportunity to respond"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_statute": [
+                "PSDP Act"
+            ],
+            "party_involved": [
+                "Applicant",
+                "PSIC",
+                "OIC"
+            ],
+            "claim_nature": [
+                "fabrication of evidence",
+                "concealment of records"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Concealment or amputation of public records under the Access to Information Act",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "notice and an opportunity to respond",
+                "context-dependent level"
+            ],
+            "discretion_exercise": [
+                "s. 24(1)(a) of the PSDP Act"
+            ],
+            "decision_reasoning": [
+                "Applicant informed about s. 24(1)(a)",
+                "PSIC reviewed submission",
+                "OIC deemed appropriate forum",
+                "no unreasonable findings"
+            ],
+            "standard_of_review": [
+                "procedurally fair and reasonable under the PSDP Act"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "concealment and fabrication of records",
+                "dissatisfaction with OIC's response"
+            ],
+            "relevant_statute": [
+                "PSDP Act",
+                "Access to Information Act"
+            ],
+            "court_ruling": [
+                "PSIC did not breach procedural fairness or act unreasonably"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refugee status denial",
+            "Legal_Issue": "Applicability of the 'compelling reasons' exception under s. 108(4)",
+            "Governing_Law": "Immigration and Refugee Protection Act, s. 108(4)",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Beating with canes",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Physical assault",
+            "Perpetrator_Type": "State actors (police)",
+            "Victim_Status": "Political activist",
+            "Location_of_Incident": "Tanzania",
+            "Threat_Source": "Government due to political opinion"
+        },
+        {
+            "Crime_Name": "Maltreatment by police",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Abuse of power and mistreatment based on political opinion",
+            "Legal_Issue": "Misapplication of 'compelling reasons' exception",
+            "Governing_Law": "Immigration and Refugee Protection Act, s. 108(4)",
+            "Application_Facts": "Credible persecution including beatings, detention, business disruption",
+            "Decision_Outcome": "Initial denial of refugee status"
+        },
+        {
+            "Crime_Name": "Persecution based on political opinion",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Grounds_for_Claim": "Political opinion",
+            "Protected_Group": "Political activists (CUF members)",
+            "Geographic_Context": "Tanzania",
+            "Legal_Provision": "Section 96 and s. 108(4) of IRPA",
+            "Risk_Nature": "Ongoing fear of harm despite changed country conditions"
+        },
+        {
+            "Crime_Name": "Arbitrary detention",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Unlawful detention without due process",
+            "Legal_Issue": "Existence of 'compelling reasons' arising from past persecution",
+            "Governing_Law": "Immigration and Refugee Protection Act, s. 108(4)",
+            "Evidence_Assessed": "Credible testimony of repeated detentions linked to political activity",
+            "Harm_Assessment": "Psychological trauma and ongoing fear"
+        },
+        {
+            "Crime_Name": "Denial of access to schooling",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Refugee protection claim based on systemic discrimination",
+            "Legal_Issue": "Whether non-extreme persecution qualifies as 'compelling reasons'",
+            "Governing_Law": "Immigration and Refugee Protection Act, s. 108(4)",
+            "Outcome_on_Merits": "Remanded for reassessment",
+            "Key_Evidence_Considered": "Pattern of political repression including educational denial"
+        },
+        {
+            "Crime_Name": "Confiscation of goods",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Economic persecution as part of political targeting",
+            "Legal_Framework": "Immigration and Refugee Protection Act",
+            "Standard_of_Review": "Correctness and reasonableness",
+            "Evidence_Type": "Credible personal testimony and documentary evidence",
+            "Remedy_Sought": "Granting of refugee protection under s. 108(4)"
+        },
+        {
+            "Crime_Name": "Denial of refugee status",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of administrative decision",
+            "Legal_Issue": "Erroneous application of high threshold for 'compelling reasons'",
+            "Governing_Rule_or_Provision": "Section 108(4) IRPA",
+            "Outcome_of_Review": "Application granted, case remanded",
+            "Cause_of_Refusal": "Incorrectly requiring persecution to be 'atrocious' or 'appalling'"
+        }
+    ]
+}

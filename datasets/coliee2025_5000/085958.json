@@ -1,0 +1,28 @@
+{
+    "Case ID": "085958",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "upheld"
+            ],
+            "evidence_assessment": [
+                "expert_testimony",
+                "email_delivery"
+            ],
+            "decision_reasoning": [
+                "non-delivery",
+                "communication_failure"
+            ],
+            "applicable_regulations": [
+                "Section 16(1) of IRPA"
+            ],
+            "result_of_case": [
+                "judicial_review_granted",
+                "case_remitted"
+            ]
+        }
+    ]
+}

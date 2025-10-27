@@ -1,0 +1,31 @@
+{
+    "Case ID": "063299",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "lack of credibility",
+                "insufficient evidence of serious harm"
+            ],
+            "refugee_definition": [
+                "Convention refugee",
+                "person in need of protection"
+            ],
+            "persecution_grounds": [
+                "ethnicity",
+                "perceived political opinion"
+            ],
+            "judicial_review_process": [
+                "Judicial review of the RPD's decision"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Decision quashed and returned for reconsideration"
+            ]
+        }
+    ]
+}

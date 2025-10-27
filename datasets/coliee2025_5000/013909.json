@@ -1,0 +1,30 @@
+{
+    "Case ID": "013909",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "not credible",
+                "vague evidence",
+                "testimony inconsistencies"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "failed to prove subjective fear"
+            ],
+            "decision_reasoning": [
+                "reasonable",
+                "lacked credibility",
+                "not qualifying as refugees or protected persons"
+            ],
+            "application_details": [
+                " Applicants claimed persecution in Mexico due to union activities"
+            ],
+            "result_of_case": [
+                "Court dismissed the judicial review application",
+                "upholding IRB's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "005219",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach of natural justice"
+            ],
+            "procedural_fairness": [
+                "refusal to grant a recess",
+                "limited ability to respond"
+            ],
+            "decision_reasoning": [
+                "breach materially affects the outcome"
+            ],
+            "cause_of_action": [
+                "refugee status claim"
+            ],
+            "court_ruling": [
+                "decision quashed",
+                "case remanded for rehearing"
+            ],
+            "relevant_rule": [
+                "applicant given fair opportunity to respond to evidence"
+            ]
+        }
+    ]
+}

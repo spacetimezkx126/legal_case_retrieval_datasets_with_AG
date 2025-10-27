@@ -1,0 +1,94 @@
+{
+    "Case ID": "074536",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "section 97 of the IRPA",
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded to the Immigration and Refugee Board for reevaluation"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Refugee Protection Division's decision"
+            ],
+            "risk_characterization": [
+                "particularized risk of harm",
+                "generalized violence"
+            ],
+            "specific_targeting": [
+                "specific risk from Mara Salvatrucha"
+            ],
+            "nexus_to_convention_grounds": [
+                "fear for his life"
+            ],
+            "personalized_vs_generalized_risk": [
+                "individualized assessment"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "legal_basis": [
+                "section 97(1)(b)(ii) of the IRPA"
+            ],
+            "risk_assessment": [
+                "individualized assessment",
+                "personal risk",
+                "general population"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion",
+                "threats by Mara Salvatrucha (MS)"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "refugee_status_nexus": [
+                "refugee protection",
+                "sections 96 and 97 of the IRPA"
+            ],
+            "risk_of_persecution": [
+                "fled El Salvador"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 97(1)(b)(ii) of IRPA"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "decision_reasoning": [
+                "Board erred in legal analysis",
+                "unreasonable decision"
+            ],
+            "application_details": [
+                "applicant faced threats and violence from Mara Salvatrucha"
+            ],
+            "conclusion_outcome": [
+                "set aside for reconsideration"
+            ],
+            "cause_of_action": [
+                "fled El Salvador due to gang-related threats and violence"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "Federal Court granted application for review"
+            ],
+            "result_of_case": [
+                "remanded to Immigration Refugee Board for reconsideration by a different member"
+            ]
+        }
+    ]
+}

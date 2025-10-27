@@ -1,0 +1,78 @@
+{
+    "Case ID": "011599",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "granted",
+                "inconsistencies in testimony",
+                "lack of evidence"
+            ],
+            "credibility_assessment": [
+                "insufficient reasoning",
+                "unresolved questions about credibility"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case referred back to RPD"
+            ],
+            "procedural_fairness": [
+                "inadequate reasoning",
+                "factual errors"
+            ],
+            "standard_of_review": [
+                "clear, precise, and intelligible reasons required"
+            ]
+        },
+        {
+            "Crime Name": "Impersonation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)"
+            ],
+            "decision_outcome": [
+                "case referred back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "inadequate reasoning"
+            ],
+            "evidence_provided": [
+                "inconsistent evidence",
+                "$200,000 fine",
+                "ITF complaints"
+            ],
+            "standard_of_review": [
+                "clear, precise, and intelligible reasons"
+            ],
+            "relationship_genuineness": [
+                "credibility doubts"
+            ],
+            "appeal_outcome": [
+                "judicial review application allowed"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report to authorities",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Administrative tribunals must provide clear, precise, and intelligible reasons to ensure accountability and allow for judicial review."
+            ],
+            "decision_reasoning": [
+                "The RPD gave Mr. Zhang the 'benefit of the doubt' without explaining how it reconciled his inconsistent statements or other factual gaps."
+            ],
+            "conclusion_outcome": [
+                "The decision is set aside due to inadequate reasoning, and the case is referred back to the RPD for reconsideration."
+            ],
+            "cause_of_action": [
+                "Mr. Zhang's inconsistent evidence and the RPD's unclear reasoning led to doubts about the validity of the decision."
+            ],
+            "procedure_followed": [
+                "The Minister applied for judicial review, arguing the RPD failed to meet legal standards for reasoning and fact-finding."
+            ],
+            "result_of_case": [
+                "The court allowed the judicial review, invalidating the RPD's decision and ordering a new hearing with a different panel."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "Case ID": "058938",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "not unique targeting"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was reasonable"
+            ],
+            "risk_characterization": [
+                "generalized"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status claim"
+            ],
+            "nature_of_offense": [
+                "gang extortion"
+            ]
+        },
+        {
+            "Crime Name": "Gang-related violence",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "legal_basis": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "risk_assessment": [
+                "gang violence",
+                "extortion"
+            ],
+            "state_protection_analysis": [
+                "adequacy of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "membership_in_organization": [
+                "small business owners"
+            ],
+            "immigration_status": [
+                "refugee status claimants"
+            ],
+            "country_conditions": [
+                "Guatemala"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report a crime",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "generalized risk"
+            ],
+            "state_protection": [
+                "adequate protection"
+            ],
+            "decision_reasoning": [
+                "generalized risk for small business owners in Guatemala",
+                "failed to demonstrate inadequate state protection"
+            ],
+            "application_details": [
+                "faced extortion due to owning a business"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was reasonable"
+            ],
+            "cause_of_action": [
+                "fearing gang violence after closing their grocery store and receiving threats"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Board's decision dismissing their refugee claim under IRPA sections 96 and 97"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; no certification for appeal"
+            ],
+            "specific_rule_applied": [
+                "IRPA s.97(1)(b)"
+            ],
+            "claim_nature": [
+                "refugee claim"
+            ],
+            "relevant_statute": [
+                "IRPA sections 96 and 97"
+            ],
+            "dispute_focus": [
+                "personalized vs generalized risk"
+            ],
+            "court_ruling": [
+                "dismissal of judicial review"
+            ],
+            "standard_of_proof": [
+                "inability to prove state's inability to protect"
+            ],
+            "decision_standard": [
+                "reasonableness of decision"
+            ],
+            "humanitarian_and_compassionate_considerations": [],
+            "administrative_decision": [
+                "Board's determination of risk"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Case ID": "077510",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Infringement occurs when an act interferes with the monopoly granted by a patent."
+            ],
+            "patent_validity": [
+                "The defendants' product infringes claims 1 to 4 of the plaintiffs' patent."
+            ],
+            "technical_details": [
+                "The defendants' garments have fur on oppositely facing surfaces, similar to the plaintiffs' patent."
+            ],
+            "expert_testimony": [],
+            "decision_outcome": [
+                "The defendants were found liable for patent infringement."
+            ],
+            "cause_of_action": [
+                "The defendants manufactured fur garments using a method that resulted in a product similar to the plaintiffs' patented fabric."
+            ]
+        }
+    ]
+}

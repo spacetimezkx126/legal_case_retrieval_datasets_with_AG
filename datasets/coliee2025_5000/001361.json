@@ -1,0 +1,64 @@
+{
+    "Case ID": "001361",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "overstayed visa"
+            ],
+            "decision_outcome": [
+                "deportation order not stayed"
+            ],
+            "procedural_fairness": [
+                "judicial review of adjudicator's decision"
+            ],
+            "criminality_inadmissibility": [
+                "prior convictions in the U.S."
+            ],
+            "standard_of_review": [
+                "equivalence of offenses and grounds for staying deportation"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "separation from fiancée",
+                "immediate arrest in the U.S."
+            ]
+        },
+        {
+            "Crime Name": "Conviction for theft (equivalent to Canadian offence)",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "ss. 27(2)(a)",
+                "19(2)(a.1)(i) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "Motion discharged",
+                "application for stay of deportation dismissed"
+            ],
+            "procedural_fairness": [
+                " Denied him a chance to respond"
+            ],
+            "applicable_statute": [
+                "Immigration Act",
+                "Canadian Criminal Code"
+            ],
+            "judicial_authority": [
+                "adjudicator",
+                "court"
+            ],
+            "irreparable_harm": [
+                "lack of irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "balance of convenience"
+            ],
+            "public_interest": [
+                "public interest"
+            ],
+            "nature_of_offense": [
+                "theft",
+                "misdemeanours in California"
+            ]
+        }
+    ]
+}

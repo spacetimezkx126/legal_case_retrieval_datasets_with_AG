@@ -1,0 +1,106 @@
+{
+    "Case ID": "002512",
+    "Different Crime": [
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "internal_flight_alternative": [
+                "Mexico City"
+            ],
+            "state_protection": [
+                "adequate state protection in Mexico City"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "no evidence persecutors would pursue them in Mexico City"
+            ],
+            "serious_criminality": [
+                "torture by Mexican police"
+            ],
+            "risk_characterization": [
+                "corrupt police presence nationwide"
+            ],
+            "nexus_to_convention_grounds": [
+                "fear of persecution if returned"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "Board's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "internal_flight_alternative": [
+                "Mexico City"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection in Mexico City",
+                "presumption of state protection absent clear contrary evidence"
+            ],
+            "risk_of_persecution": [
+                "threats and persecution linked to organized crime and corrupt police"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable",
+                "standard of review for IFA and state protection determinations is reasonableness"
+            ],
+            "evidence_consideration": [
+                "no evidence that persecutors would pursue the applicants in Mexico City"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "internal_flight_alternative": [
+                "Mexico City"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "state_protection_analysis": [
+                "sufficient state protection despite systemic corruption"
+            ],
+            "refugee_status_claim": [
+                "Applicants claimed refugee status due to torture"
+            ],
+            "judicial_review_result": [
+                "Court dismissed the application"
+            ],
+            "evidence_provided": [
+                "no evidence persecutors would pursue them in Mexico City"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide protection (state actors)",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "internal_flight_alternative": [
+                "no safe internal relocation option"
+            ],
+            "state_protection": [
+                "inadequate state protection",
+                "presumption of state protection applies unless clear evidence shows otherwise"
+            ],
+            "reasonableness_of_decision": [
+                "The standard of review for IFA and state protection is reasonableness",
+                "The Board's decision was reasonable"
+            ],
+            "refugee_definition": [
+                "Applicants claimed refugee status due to persecution by Mexican police"
+            ],
+            "evidentiary_standard": [
+                "The Board found no evidence persecutors would pursue them there"
+            ],
+            "judicial_review_process": [
+                "Judicial review analyzed Board's decision on IFA and state protection using reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the Board's determination"
+            ]
+        }
+    ]
+}

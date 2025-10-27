@@ -1,0 +1,32 @@
+{
+    "Case ID": "020090",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "implausible",
+                "omissions",
+                "inconsistencies"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "re-determination"
+            ],
+            "documentary_evidence": [
+                "supportive",
+                "ignored"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "referred back"
+            ],
+            "legal_basis": [
+                "section 97",
+                "IRPA",
+                "section 96"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "041404",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "PSSRA grievance process"
+            ],
+            "cause_of_action": [
+                "workplace harassment",
+                "employer negligence"
+            ],
+            "procedure_followed": [
+                "grievance procedure",
+                "judicial review"
+            ],
+            "result_of_case": [
+                "motion to dismiss granted",
+                "lack of jurisdiction"
+            ],
+            "relevant_statute": [
+                "PSSRA"
+            ],
+            "decision_reasoning": [
+                "concurrent jurisdiction unless statute provides otherwise",
+                "plaintiff cannot bypass grievance process"
+            ]
+        }
+    ]
+}

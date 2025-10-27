@@ -1,0 +1,73 @@
+{
+    "Case ID": "039174",
+    "Different Crime": [
+        {
+            "Crime Name": "Threatening the Security of Canada",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "danger to national security"
+            ],
+            "release_conditions": [
+                "electronic monitoring",
+                "restricted movement",
+                "supervised interactions",
+                "financial bonds from multiple sureties"
+            ],
+            "balance_of_interests": [
+                "balancing national security concerns with prolonged detention issues"
+            ],
+            "evidence_quality": [
+                "credible evidence"
+            ],
+            "decision_outcome": [
+                "released under strict conditions"
+            ],
+            "applicable_law_section": [
+                "s. 83(3) of the IRPA"
+            ],
+            "judicial_review_result": [
+                "ordered released"
+            ],
+            "involvement_details": [
+                "alleged ties with terrorist organizations"
+            ],
+            "legal_basis": [
+                "Security certificate issued"
+            ],
+            "procedural_fairness": [
+                "Multiple hearings and appeals"
+            ]
+        },
+        {
+            "Crime Name": "Threatening the Security of Canada",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "national_security_concerns": [
+                "danger to national security",
+                "terrorist organizations"
+            ],
+            "burden_of_proof": [
+                "credible evidence"
+            ],
+            "decision_outcome": [
+                "released under strict conditions"
+            ],
+            "administrative_error": [
+                "prolonged detention issues"
+            ],
+            "legal_basis": [
+                "s. 83(3) of the IRPA",
+                "Charkaoui principles"
+            ],
+            "immigration_status": [
+                "deportation uncertain due to risks of torture"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "restrictive conditions equating to house arrest"
+            ],
+            "judicial_review_process": [
+                "multiple hearings and appeals",
+                "detention review hearing"
+            ]
+        }
+    ]
+}

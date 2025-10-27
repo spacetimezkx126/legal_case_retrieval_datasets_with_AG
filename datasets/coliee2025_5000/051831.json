@@ -1,0 +1,59 @@
+{
+    "Case ID": "051831",
+    "Different Crime": [
+        {
+            "Crime Name": "Risk of persecution misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "evaluated documents",
+                "weighed evidence from 'interested parties'"
+            ],
+            "evidence_assessment": [
+                "considered country conditions",
+                "found no personalized risk"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review",
+                "upholding the PRRA officer's decision"
+            ],
+            "refugee_status_eligibility": [
+                "denied refugee status"
+            ],
+            "risk_assessment": [
+                "no personalized risk"
+            ],
+            "procedural_fairness": [
+                "PRRA decisions are reviewed for reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Religious persecution claim denial under Immigration and Refugee Protection Act",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "new evidence post-refusal",
+                "objectively/subjectively evaluated risks",
+                "credibility assessment"
+            ],
+            "procedural_fairness": [
+                "review of documents",
+                "dismissal as pre-dated or insufficiently personalized"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable, transparent, within acceptable outcomes"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "officer’s decision upheld"
+            ]
+        }
+    ]
+}

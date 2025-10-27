@@ -1,0 +1,31 @@
+{
+    "Case ID": "040707",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized disclosure of national security information",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 87",
+                "CEA s. 38"
+            ],
+            "disclosure_of_sensitive_information": [
+                "Inadvertent disclosure of confidential national security documents"
+            ],
+            "judicial_review_result": [
+                "Court granted Minister's motion"
+            ],
+            "decision_outcome": [
+                "Upholding privilege and ordering return/destruction of unredacted materials"
+            ],
+            "applicable_law_section": [
+                "IRPA s. 87"
+            ],
+            "evidence_provided": [
+                "Privileged documents disclosed during legal proceedings"
+            ],
+            "court_ruling": [
+                "Federal Court has jurisdiction under IRPA s. 87"
+            ]
+        }
+    ]
+}

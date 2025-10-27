@@ -1,0 +1,30 @@
+{
+    "Case ID": "098341",
+    "Different Crime": [
+        {
+            "Crime Name": "Election Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "irreparable_harm": [
+                "not_proven"
+            ],
+            "balance_of_convenience": [
+                "does_not_favor_applicant"
+            ],
+            "public_interest": [
+                "insufficient_for_injunction"
+            ],
+            "decision_outcome": [
+                "motion_dismissed"
+            ],
+            "cause_of_action": [
+                "dispute_over_election_nominations_and_process"
+            ],
+            "judicial_authority": [
+                "federal_court"
+            ],
+            "appeal_outcome": [
+                "judicial_review_to_address_issues"
+            ]
+        }
+    ]
+}

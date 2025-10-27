@@ -1,0 +1,49 @@
+{
+    "Case ID": "082735",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'426 patent",
+                "'728 patent"
+            ],
+            "infringement_analysis": [
+                "non-infringement",
+                "obviousness",
+                "uncertainty in dose equivalence calculations"
+            ],
+            "relevant_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "NOC Regulations"
+            ],
+            "evidence_presented": [
+                "affidavits",
+                "expert testimonies",
+                "cross-examinations"
+            ],
+            "decision_reasoning": [
+                "claim construction",
+                "obviousness",
+                "utility",
+                "sufficiency"
+            ],
+            "result_of_case": [
+                "prohibition granted for '426 patent",
+                "prohibition denied for '728 patent"
+            ],
+            "cost_awards": [
+                "half to Bayer"
+            ],
+            "cause_of_action": [
+                "potential patent infringement"
+            ],
+            "procedure_followed": [
+                "reviewing affidavits, expert testimonies, and cross-examinations"
+            ],
+            "application_details": [
+                "Bayer sought to prohibit Cobalt from obtaining regulatory approval for its generic version of YAZ tablets"
+            ]
+        }
+    ]
+}

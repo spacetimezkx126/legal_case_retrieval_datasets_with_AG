@@ -1,0 +1,28 @@
+{
+    "Case ID": "029777",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Courts Act"
+            ],
+            "cause_of_action": [
+                "permit revocation",
+                "issuance of new permits"
+            ],
+            "procedure_followed": [
+                "judicial review prerequisite",
+                "motion to strike under Federal Court Rules"
+            ],
+            "decision_reasoning": [
+                "indirect challenge to administrative decisions",
+                "requirement to exhaust judicial review remedies"
+            ],
+            "result_of_case": [
+                "action suspended pending judicial review",
+                "dismissal if judicial review fails"
+            ]
+        }
+    ]
+}

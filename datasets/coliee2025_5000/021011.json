@@ -1,0 +1,26 @@
+{
+    "Case ID": "021011",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "social_group_membership": [
+                "the poor"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "general documentary evidence"
+            ],
+            "risk_of_persecution": [
+                "lacked personal evidence of persecution"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "rejected"
+            ],
+            "burden_of_proof": [
+                "applicant must demonstrate both objective and subjective fear of persecution"
+            ]
+        }
+    ]
+}

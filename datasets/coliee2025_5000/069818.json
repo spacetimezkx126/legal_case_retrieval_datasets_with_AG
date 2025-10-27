@@ -1,0 +1,61 @@
+{
+    "Case ID": "069818",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "errors in fact-finding",
+                "failure to consider important evidence"
+            ],
+            "evidence_consideration": [
+                "ignored key evidence (e.g., employment, family ties)",
+                "factual errors (e.g., travel history, meeting host's children)"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable due to errors"
+            ],
+            "family_ties": [
+                "ties to Sri Lanka"
+            ],
+            "immigration_status": [
+                "TRV application denied"
+            ],
+            "standard_of_proof": [
+                "reasonableness and correctness standards"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "errors in fact-finding",
+                "failure to consider important evidence"
+            ],
+            "decision_outcome": [
+                "case remanded for reconsideration",
+                "Court quashed the Officer's decision"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness standards"
+            ],
+            "evidence_considered": [
+                "ties to Sri Lanka",
+                "employment",
+                "family ties",
+                "travel history",
+                "meeting host's children"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "claimant_burden": [
+                "likelihood of staying in Canada"
+            ],
+            "court_ruling": [
+                "ordered re-determination by a different officer"
+            ]
+        }
+    ]
+}

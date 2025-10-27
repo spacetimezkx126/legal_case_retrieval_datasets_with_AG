@@ -1,0 +1,47 @@
+{
+    "Case ID": "000491",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lack of objectivity",
+                "pre-determined investigation outcome",
+                "omitting key facts",
+                "failing to disclose potential biases"
+            ],
+            "humanitarian_compassionate_grounds": [],
+            "risk_assessment": [],
+            "evidence_consideration": [
+                "all relevant facts"
+            ],
+            "balance_of_convenience": [],
+            "serious_issue": [
+                "time-barred sexual harassment complaint"
+            ]
+        },
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "lack_of_objectivity",
+                "omitting_key_facts",
+                "potential_biases"
+            ],
+            "decision_outcome": [
+                "quashed"
+            ],
+            "applicable_laws": [
+                "s_41(e)_of_the_Canadian_Human_Rights_Act"
+            ],
+            "standard_of_review": [
+                "judicial_review"
+            ],
+            "relevant_factors": [
+                "late_filing",
+                "pre_determination_of_outcome",
+                "failure_to_disclose_biases"
+            ]
+        }
+    ]
+}

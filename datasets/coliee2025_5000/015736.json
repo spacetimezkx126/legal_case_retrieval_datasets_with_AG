@@ -1,0 +1,34 @@
+{
+    "Case ID": "015736",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "adequate notice",
+                "minor translation/recording issues",
+                "no breach of natural justice"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Convention refugee status",
+                "well-founded fear of persecution"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "no certification of serious question of general importance"
+            ],
+            "risk_of_persecution": [
+                "persecution in Tanzania"
+            ],
+            "evidence_assessment": [
+                "applicant's testimony regarding husband's detention",
+                "statements to immigration officials"
+            ]
+        }
+    ]
+}

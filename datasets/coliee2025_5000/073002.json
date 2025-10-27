@@ -1,0 +1,29 @@
+{
+    "Case ID": "073002",
+    "Different Crime": [
+        {
+            "Crime Name": "Costs Determination in Civil Litigation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules, 1998, rule 400(1)"
+            ],
+            "decision_reasoning": [
+                "Plaintiffs succeeded on most issues",
+                "Defendant failed to admit key facts early, prolonging proceedings",
+                "Expert evidence had flaws"
+            ],
+            "result_of_case": [
+                "Plaintiffs awarded mid-range costs under Tariff B"
+            ],
+            "procedure_followed": [
+                "Court reviewed written submissions and responses from both parties regarding costs"
+            ],
+            "evidence_consideration": [
+                "Expert evidence from both sides had flaws"
+            ],
+            "discretion_exercise": [
+                "Costs are at the court's discretion considering factors like case result, complexity, and conduct"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "019712",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "religious grounds"
+            ],
+            "procedural_fairness": [
+                "res judicata",
+                "issue estoppel"
+            ],
+            "application_details": [
+                "defendants attempted to reintroduce issues dismissed by Justice Reed",
+                "plaintiff argued for separate affidavits and deponents from each defendant"
+            ],
+            "decision_reasoning": [
+                "res judicata applies"
+            ],
+            "applicable_regulations": [
+                "Rules 448, 449, and 456"
+            ],
+            "result_of_case": [
+                "motion was partially granted",
+                "paragraphs 22, 23, and 26 were struck",
+                "separate affidavits are required",
+                "one Crown representative will suffice for oral discovery"
+            ],
+            "procedure_followed": [
+                "Plaintiff filed a motion to strike certain defense pleadings and compel discovery",
+                "The court reviewed prior rulings and applicable rules"
+            ]
+        }
+    ]
+}

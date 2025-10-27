@@ -1,0 +1,29 @@
+{
+    "Case ID": "024384",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination in Employment",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "burden_of_proof": [
+                "prima facie case of discrimination"
+            ],
+            "discrimination_grounds": [
+                "race",
+                "ethnic or national origin",
+                "colour"
+            ],
+            "judicial_review_process": [
+                "section 18.1 of the Federal Courts Act"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable due to errors in assessing animus",
+                "failing to consider discrimination as a factor",
+                "ignoring relevant statistical data"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case sent back for re-determination"
+            ]
+        }
+    ]
+}

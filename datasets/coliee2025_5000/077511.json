@@ -1,0 +1,28 @@
+{
+    "Case ID": "077511",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act and Regulations"
+            ],
+            "evidence_assessment": [
+                "work experience",
+                "intended occupation",
+                "occupational demand in Canada"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "visa officer's decision upheld"
+            ],
+            "standard_of_review": [
+                "judicial review process"
+            ],
+            "misrepresentation_or_fraud": [
+                "lack of occupational demand",
+                "insufficient experience"
+            ]
+        }
+    ]
+}

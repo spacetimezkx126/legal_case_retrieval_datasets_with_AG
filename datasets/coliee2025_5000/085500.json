@@ -1,0 +1,27 @@
+{
+    "Case ID": "085500",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "insufficient reasons",
+                "clear reasoning required"
+            ],
+            "health_grounds_inadmissibility": [
+                "stable or worsening health condition"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "matter referred back for reconsideration"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "TRP renewal denied"
+            ]
+        }
+    ]
+}

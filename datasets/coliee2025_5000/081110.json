@@ -1,0 +1,26 @@
+{
+    "Case ID": "081110",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Immigration Officer's Decision",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of extrinsic evidence"
+            ],
+            "evidentiary_standard": [
+                "reliance on undisclosed evidence"
+            ],
+            "judicial_review_process": [
+                "review of officer's decision"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for re-examination"
+            ],
+            "burden_of_proof": [
+                "applicants' right to respond to extrinsic evidence"
+            ]
+        }
+    ]
+}

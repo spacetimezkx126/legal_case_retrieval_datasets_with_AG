@@ -1,0 +1,32 @@
+{
+    "Case ID": "024507",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not informing applicant of concerns",
+                "no opportunity for clarification"
+            ],
+            "evidence_assessment": [
+                "employment letter insufficient",
+                "mirrored NOC descriptions"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "officer's decision set aside",
+                "referred to different officer"
+            ],
+            "standard_of_review": [
+                "judicial review application filed under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "implied fraud without evidence"
+            ],
+            "immigration_status": [
+                "permanent residency application denied"
+            ]
+        }
+    ]
+}

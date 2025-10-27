@@ -1,0 +1,24 @@
+{
+    "Case ID": "008378",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Allegations of motive are only permissible if they have a patent and relevant purpose in the pleadings, particularly when connected to claims for costs."
+            ],
+            "decision_reasoning": [
+                "The defendant's paragraph 8 alleged motive but lacked a clear causal link to their claim for costs. Without a counterclaim or relevance to the case, the pleading was deemed unnecessary."
+            ],
+            "procedure_followed": [
+                "Motion to strike paragraph 8 was filed and reviewed by Giles, Associate Senior Prothonotary."
+            ],
+            "result_of_case": [
+                "Paragraph 8 was struck out entirely; application allowed."
+            ],
+            "cause_of_action": [
+                "Defendant included irrelevant motive allegations in their defense."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "016546",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "justified"
+            ],
+            "infringement_analysis": [
+                "obviousness"
+            ],
+            "evidence_presented": [
+                "expert testimonies",
+                "routine laboratory work",
+                "prior art"
+            ],
+            "relevant_rule": [
+                "Canadian Patent Law",
+                "NOC Regulations framework"
+            ],
+            "decision_conclusion": [
+                "application allowed",
+                "prohibition until patent expiration"
+            ]
+        }
+    ]
+}

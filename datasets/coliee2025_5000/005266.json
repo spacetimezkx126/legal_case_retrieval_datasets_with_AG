@@ -1,0 +1,51 @@
+{
+    "Case ID": "005266",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 52(1)(a)",
+                "Section 52(1)(b)"
+            ],
+            "procedural_fairness": [],
+            "decision_outcome": [
+                "Deportation order upheld",
+                "application dismissed"
+            ],
+            "immigration_status": [
+                "valid deportation order"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Probation Order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 52 of the Immigration Act",
+                "Section 52(1)(a)",
+                "Section 52(1)(b)"
+            ],
+            "decision_reasoning": [
+                "Probation Order did not explicitly require presence in Canada or court attendance"
+            ],
+            "conclusion_outcome": [
+                "Minister is not obligated to defer executing the Deportation Order"
+            ],
+            "application_details": [
+                "Probation Order had conditions but did not meet criteria under Section 52(1)(a)"
+            ],
+            "result_of_case": [
+                "Application for a Writ of Prohibition dismissed"
+            ],
+            "cause_of_action": [
+                "Deportation Order conflicting with an existing Probation Order"
+            ],
+            "procedure_followed": [
+                "Court analyzed Section 52 of the Immigration Act and compared it with the terms of the Probation Order"
+            ]
+        }
+    ]
+}

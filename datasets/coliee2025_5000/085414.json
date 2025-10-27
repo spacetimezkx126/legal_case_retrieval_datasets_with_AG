@@ -1,0 +1,89 @@
+{
+    "Case ID": "085414",
+    "Different Crime": [
+        {
+            "Crime Name": "Soliciting and obtaining a bribe",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 11(h) of the Charter",
+                "Royal Canadian Mounted Police Act"
+            ],
+            "decision_outcome": [
+                "Application for prohibition dismissed",
+                "disciplinary proceedings allowed to proceed"
+            ],
+            "procedural_fairness": [
+                "Federal Court analyzed statutory rights and Charter implications"
+            ],
+            "applicable_statute": [
+                "Charter",
+                "Royal Canadian Mounted Police Act"
+            ],
+            "nature_of_offense": [
+                "unauthorized disclosure",
+                "bribery",
+                "discreditable conduct"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized disclosure of confidential information",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 11(h) of the Canadian Charter of Rights and Freedoms"
+            ],
+            "procedural_fairness": [
+                "Disciplinary proceedings under the RCMP Act are separate from criminal proceedings"
+            ],
+            "decision_outcome": [
+                "The application for prohibition was dismissed, allowing disciplinary proceedings to continue."
+            ],
+            "reasonableness_of_decision": [
+                "Disciplinary proceedings address service-related offenses rather than criminal offenses"
+            ],
+            "charter_rights_violation": [
+                "Prohibits double jeopardy but applies to identical offenses"
+            ],
+            "judicial_review_result": [
+                "The Federal Court analyzed the distinction between criminal and disciplinary offenses"
+            ]
+        },
+        {
+            "Crime Name": "Discreditable conduct under the Royal Canadian Mounted Police Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 11(h) of the Charter",
+                "Royal Canadian Mounted Police Act"
+            ],
+            "cause_of_action": [
+                "Unauthorized disclosure of confidential information"
+            ],
+            "decision_reasoning": [
+                "Disciplinary offenses differ from criminal ones",
+                "Service-related misconduct is distinct from criminal charges"
+            ],
+            "charter_rights": [
+                "Protection against double jeopardy"
+            ],
+            "application_details": [
+                "Officer sought a prohibition order in Federal Court"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "Disciplinary proceedings allowed to proceed"
+            ],
+            "relevant_statute": [
+                "Charter of Rights and Freedoms",
+                "Royal Canadian Mounted Police Act"
+            ],
+            "procedure_followed": [
+                "Analysis of statutory rights and Charter protections"
+            ],
+            "discretion_exercise": [
+                "No violation of section 11(h) occurred"
+            ],
+            "court_ruling": [
+                "Disciplinary proceedings can continue"
+            ]
+        }
+    ]
+}

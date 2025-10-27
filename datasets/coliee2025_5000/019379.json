@@ -1,0 +1,102 @@
+{
+    "Case ID": "019379",
+    "Different Crime": [
+        {
+            "Crime Name": "Border crossing without prior authorization",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "implausibility",
+                "ignored key explanations"
+            ],
+            "state_protection_analysis": [
+                "lacked sufficient evidence",
+                "presumption of state protection",
+                "Colombia's efforts"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "case referred back"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                " Refugee Protection Division"
+            ],
+            "refugee_status_eligibility": [
+                "seeking refugee status",
+                "denying refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "credibility_findings": [
+                "unreasonable",
+                "implausibility",
+                "ignored key explanations and local context"
+            ],
+            "state_protection": [
+                "inadequately assessed",
+                "presumption of state protection"
+            ],
+            "appeal_outcome": [
+                "application granted",
+                "case referred back"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "risk_characterization": [
+                "extortion threats"
+            ],
+            "relationship_genuineness": [
+                "lacked credibility"
+            ],
+            "cause_of_action": [
+                "fled Colombia",
+                "seeking refugee status in Canada"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed Board's findings"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "lacked credibility",
+                "clear implausibility",
+                "contradictory evidence"
+            ],
+            "state_protection_analysis": [
+                "presumption of state protection",
+                "adequate state protection",
+                "local context",
+                "specific threats"
+            ],
+            "risk_assessment": [
+                "threatened by FARC",
+                "war tax demand"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "country_conditions": [
+                "Colombia",
+                "FARC activities"
+            ],
+            "refugee_status_nexus": [
+                "failed to rebut presumption",
+                "refugee claimants"
+            ],
+            "specific_threats_or_incidents": [
+                "FARC demands",
+                "threats"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ]
+        }
+    ]
+}

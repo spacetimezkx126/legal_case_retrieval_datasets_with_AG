@@ -1,0 +1,29 @@
+{
+    "Case ID": "001572",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "three years of residence",
+                "four years preceding application",
+                "1,095 days"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "denied citizenship"
+            ],
+            "immigration_status": [
+                "applicant for Canadian citizenship"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "357 days of residence",
+                "no exceptions applicable"
+            ]
+        }
+    ]
+}

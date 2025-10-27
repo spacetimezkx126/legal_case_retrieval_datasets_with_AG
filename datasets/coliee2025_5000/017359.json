@@ -1,0 +1,51 @@
+{
+    "Case ID": "017359",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "family_class_considerations": [
+                "Whether the IAD applied the correct test to determine if the Applicant's wife was a member of the family class."
+            ],
+            "misrepresentation_or_fraud": [
+                "The Designated Immigration Officer and IAD determined the marriage was not genuine and aimed at acquiring immigration status."
+            ],
+            "evidence_assessment": [
+                "Contradictions in testimonies and insufficient evidence of a genuine marriage."
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; no intervention by the Court."
+            ],
+            "legal_basis": [
+                "Under section 4 of the Immigration and Refugee Protection Regulations, a foreign national is not considered a spouse if the marriage is not genuine and was entered into primarily for immigration purposes."
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "aimed at acquiring immigration status"
+            ],
+            "judicial_authority": [
+                "Designated Immigration Officer",
+                "IAD",
+                "Federal Court Act"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations",
+                "section 4"
+            ],
+            "evidence_provided": [
+                "contradictions in testimonies",
+                "insufficient evidence of a genuine marriage"
+            ],
+            "standard_of_review": [
+                "correct test applied under the new regulations"
+            ]
+        }
+    ]
+}

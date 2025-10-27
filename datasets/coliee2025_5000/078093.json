@@ -1,0 +1,28 @@
+{
+    "Case ID": "078093",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "Food and Drug Act"
+            ],
+            "cause_of_action": [
+                "alleged noncompliance with health and safety regulations"
+            ],
+            "application_details": [
+                "Merck argued that Apotex's NOC violated linkage regulations due to timing issues and product monograph discrepancies"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed by Merck against Health Canada and Apotex. Cross-examinations and document production motions followed."
+            ],
+            "decision_reasoning": [
+                "Merck lacks standing to raise health and safety concerns outside the scope of patent protection"
+            ],
+            "result_of_case": [
+                "Partially allowed; Merck permitted to question issues under linkage regulations but barred from raising health and safety concerns."
+            ]
+        }
+    ]
+}

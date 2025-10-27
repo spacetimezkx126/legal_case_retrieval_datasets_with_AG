@@ -1,0 +1,60 @@
+{
+    "Case ID": "064046",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 35(2) of the IRPA"
+            ],
+            "procedural_fairness": [
+                "failure to consider all evidence",
+                "selective reliance on evidence"
+            ],
+            "evidence_assessment": [
+                "uncorroborated torture allegations",
+                "positive recommendation from Ontario Regional War Crimes Unit"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted",
+                "remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to being a senior official in a government engaging in systematic or gross human rights violations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "s. 35(1)(b) of IRPA",
+                "s. 35(2) of IRPA"
+            ],
+            "senior_official_involvement": [
+                "senior diplomat"
+            ],
+            "human_rights_violations": [
+                "systematic or gross human rights violations",
+                "complicity in torture"
+            ],
+            "evidentiary_standard": [
+                "limited influence",
+                "uncorroborated allegations"
+            ],
+            "reasonableness_of_decision": [
+                "selectively relied on evidence",
+                "failed to consider all material facts"
+            ],
+            "procedural_fairness": [
+                "incomplete evidence",
+                "procedural unfairness"
+            ],
+            "judicial_review_process": [
+                "Court granted judicial review",
+                "quashed the Minister's decision",
+                "remitted the matter for re-determination"
+            ]
+        }
+    ]
+}

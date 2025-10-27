@@ -1,0 +1,28 @@
+{
+    "Case ID": "073842",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "credibility concern",
+                "insufficient documentation"
+            ],
+            "decision_reasoning": [
+                "officer deemed employment letter 'self-serving'"
+            ],
+            "application_details": [
+                "permanent residence application",
+                "family physician"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "decision overturned",
+                "case remanded"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "071412",
+    "Different Crime": [
+        {
+            "Crime Name": "Removal contrary to judicial order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 50(1) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "conflicting judicial order",
+                "Supervisor proceeded without ensuring compliance"
+            ],
+            "decision_outcome": [
+                "removal declared unlawful",
+                "declaration granted"
+            ],
+            "criminality_inadmissibility": [
+                "deported contrary to a judicial order"
+            ]
+        },
+        {
+            "Crime Name": "Unlawful cocaine trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "s. 50(1) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "removal order cannot be executed if it would violate another judicial order"
+            ],
+            "decision_made_by": [
+                "Court"
+            ],
+            "review_process": [
+                "Judicial review application filed"
+            ],
+            "consequences_of_decision": [
+                "removal declared unlawful"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration Act"
+            ],
+            "decision_outcome": [
+                "application granted, removal unlawful"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "039551",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "procedural_fairness": [
+                "violated",
+                "informing the applicant of concerns",
+                "allowing them to respond"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "referred back for redetermination"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubts about marriage validity"
+            ],
+            "immigration_status": [
+                "denied exemption from applying for permanent residency outside Canada"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "078784",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Inadmissibility",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "unreasonable assessment",
+                "minimal support needs",
+                "lacked detailed funding plan"
+            ],
+            "health_grounds_inadmissibility": [
+                "excessive demand on health or social services",
+                "son's medical condition"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "visa officer's decision quashed",
+                "case remanded for reassessment"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

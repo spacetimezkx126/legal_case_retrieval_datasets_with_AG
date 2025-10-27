@@ -1,0 +1,56 @@
+{
+    "Case ID": "031148",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility for membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "TNA",
+                "LTTE"
+            ],
+            "applicable_law_section": [
+                "IRPA s.34(1)(f)"
+            ],
+            "evidence_provided": [
+                "LTTE's campaign support",
+                "candidate vetting"
+            ],
+            "decision_outcome": [
+                "upheld under s.34(1)(f)",
+                "overturned under s.35(1)(a)"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on evidence linking TNA to LTTE"
+            ],
+            "complicity_in_crimes": [
+                "lack of complicity determination"
+            ],
+            "judicial_review_result": [
+                "Decision upheld under s.34(1)(f)"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in the commission of crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s. 35(1)(a)",
+                "IRPA s. 34(1)(f)"
+            ],
+            "evidence_assessment": [
+                "TNA collaborated with LTTE",
+                "Lack of proof of voluntary contribution to crimes"
+            ],
+            "membership_in_persecutory_group": [
+                "TNA",
+                "LTTE"
+            ],
+            "decision_outcome": [
+                "Not inadmissible under s. 35(1)(a)",
+                "Inadmissible under s. 34(1)(f)"
+            ],
+            "judicial_review_process": [
+                "Assessed reasonableness of ID's decision"
+            ]
+        }
+    ]
+}

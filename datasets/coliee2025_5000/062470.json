@@ -1,0 +1,31 @@
+{
+    "Case ID": "062470",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal Entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions in testimony",
+                "PIF",
+                "POE",
+                "political positions",
+                "detention",
+                "reasons for fleeing"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "standard of patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "fear of persecution"
+            ],
+            "decision_outcome": [
+                "tribunal's decision unreasonable",
+                "re-determination by a new panel"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        }
+    ]
+}

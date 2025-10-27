@@ -1,0 +1,58 @@
+{
+    "Case ID": "057609",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA), ss. 112-116"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "informing applicants of all relevant risks",
+                "allowing them to respond"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "PRRA decision set aside for redetermination"
+            ],
+            "standard_of_review": [
+                "discretion to hear moot matters in adversarial context"
+            ],
+            "risk_assessment": [
+                "risks in the U.S. or Sri Lanka"
+            ],
+            "immigration_status": [
+                "applicant's removal from Canada"
+            ],
+            "misrepresentation_or_fraud": []
+        },
+        {
+            "Crime Name": "Procedural fairness breach",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not informed about the intention to remove",
+                "preventing him from addressing risks"
+            ],
+            "decision_reasoning": [
+                "conceded breach of procedural fairness",
+                "ordering redetermination of the PRRA decision"
+            ],
+            "cause_of_action": [
+                "PRRA officer failed to convey critical information"
+            ],
+            "procedure_followed": [
+                "applicant sought judicial review",
+                "court reviewed whether procedural fairness was breached"
+            ],
+            "result_of_case": [
+                "court found a breach of procedural fairness",
+                "remitted the case for redetermination"
+            ]
+        }
+    ]
+}

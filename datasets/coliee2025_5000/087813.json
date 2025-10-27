@@ -1,0 +1,31 @@
+{
+    "Case ID": "087813",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "dispute_focus": [
+                "shareholder agreement",
+                "maritime claim"
+            ],
+            "relevant_rule": [
+                "ITO test",
+                "statutory grant of jurisdiction",
+                "federal law essential to the case",
+                "law being 'a law of Canada'",
+                "integral connection to maritime matters"
+            ],
+            "procedure_followed": [
+                "Appeal from Prothonotary Morneau's decision declining jurisdiction",
+                "Analysis focused on the ITO test and relevance of maritime law"
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "Federal Court does not have jurisdiction over the dispute"
+            ]
+        }
+    ]
+}

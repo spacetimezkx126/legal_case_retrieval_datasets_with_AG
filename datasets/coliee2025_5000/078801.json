@@ -1,0 +1,33 @@
+{
+    "Case ID": "078801",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "notice_to_parties",
+                "opportunity_to_respond"
+            ],
+            "decision_reasoning": [
+                "downgrade_without_notice",
+                "prevented_meaningful_participation"
+            ],
+            "relevant_rule": [
+                "procedural_fairness_requirements",
+                "section_18.1_of_the_Federal_Courts_Act"
+            ],
+            "result_of_case": [
+                "decision_set_aside",
+                "grievance_remitted_for_fresh_consideration"
+            ],
+            "cause_of_action": [
+                "classification_grievance_dismissed",
+                "unanticipated_downgrade"
+            ],
+            "application_details": [
+                "judicial_review_application"
+            ]
+        }
+    ]
+}

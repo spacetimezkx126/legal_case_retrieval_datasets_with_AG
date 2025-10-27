@@ -1,0 +1,29 @@
+{
+    "Case ID": "078008",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Citizenship Act",
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "procedural_fairness": [
+                "Citizenship application reviewed by judge",
+                "Appeal filed against removal order"
+            ],
+            "residency_requirements": [
+                "failure to meet residency obligations"
+            ],
+            "removal_order": [
+                "under a removal order"
+            ],
+            "judicial_authority": [
+                "citizenship judge"
+            ]
+        }
+    ]
+}

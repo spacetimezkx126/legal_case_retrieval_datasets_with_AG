@@ -1,0 +1,90 @@
+{
+    "Case ID": "078017",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation to parole authorities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Board must provide all relevant information",
+                "insufficient disclosure of allegations"
+            ],
+            "evidence_assessment": [
+                "credible evidence indicating undue risk of reoffense",
+                "detailed informant reports and bank activity summaries"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board’s decision upheld"
+            ],
+            "legal_basis": [
+                "CCRA s.141"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Breach of statutory release conditions",
+            "Crime Type": "others",
+            "legal_basis": [
+                "CCRA"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                "credible evidence suggesting involvement in drug-related activities"
+            ],
+            "evidence_presented": [
+                "involvement in drug activities"
+            ],
+            "result_of_case": [
+                "Application dismissed with costs"
+            ],
+            "decision_conclusion": [
+                "lawful and procedurally fair"
+            ]
+        },
+        {
+            "Crime Name": "Possession of drugs for trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "CCRA"
+            ],
+            "procedural_fairness": [
+                "sufficient information to defend himself",
+                "procedural fairness followed"
+            ],
+            "credibility_findings": [
+                "applicant's responses were found lacking in credibility"
+            ],
+            "evidence_sufficiency": [
+                "adequate and credible evidence"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "decision_outcome": [
+                "statutory release revoked",
+                "application for judicial review dismissed"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "statutory release revoked"
+            ],
+            "applicable_law_or_regulation": [
+                "CCRA"
+            ],
+            "parties_involved": [
+                "applicant",
+                "Board"
+            ]
+        }
+    ]
+}

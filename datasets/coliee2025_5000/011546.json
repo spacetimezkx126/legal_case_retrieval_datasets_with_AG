@@ -1,0 +1,111 @@
+{
+    "Case ID": "011546",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration laws",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 48 of IRPA"
+            ],
+            "procedural_fairness": [
+                "tripartite test"
+            ],
+            "criminality_inadmissibility": [
+                "33 convictions"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed using the tripartite test"
+            ]
+        },
+        {
+            "Crime Name": "Welfare fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "irreparable_harm": [
+                "not shown by the applicant"
+            ],
+            "balance_of_convenience": [
+                "favoring removal enforcement"
+            ],
+            "public_interest": [
+                "enforcing removal order"
+            ],
+            "serious_criminality": [
+                "applicant has 33 convictions"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "delay of removal to challenge refusal to defer deportation"
+            ]
+        },
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "failed to show a serious issue"
+            ],
+            "irreparable_harm": [
+                "speculative irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "balance of convenience favored him"
+            ],
+            "criminal_history": [
+                "33 convictions including assault causing bodily harm"
+            ],
+            "rehabilitation_or_possibility": [
+                "lack of rehabilitation"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_reasoning": [
+                "serious issue",
+                "irreparable harm",
+                "balance of convenience"
+            ],
+            "application_details": [
+                "foreign national with 33 convictions",
+                "failed to show reviewable error",
+                "criminal record weighed against him"
+            ],
+            "conclusion_outcome": [
+                "motion for a stay was dismissed"
+            ],
+            "result_of_case": [
+                "removal to proceed"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "tripartite test"
+            ],
+            "criminal_history": [
+                "33 criminal convictions"
+            ],
+            "decision_outcome": [
+                "motion for a stay of removal dismissed",
+                "removal order upheld"
+            ],
+            "appeal_process": [
+                "appeal on an August 2006 conviction does not halt removal"
+            ],
+            "family_impact": [
+                "potential family harm"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed the tripartite test"
+            ]
+        }
+    ]
+}

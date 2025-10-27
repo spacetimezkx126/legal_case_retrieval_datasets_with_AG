@@ -1,0 +1,136 @@
+{
+    "Case ID": "031524",
+    "Different Crime": [
+        {
+            "Crime Name": "Procuring False Passports",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_assessment": [
+                "human source information",
+                "physical surveillance reports",
+                "telecommunications intercepts",
+                "expert testimonies"
+            ],
+            "identity_verification": [
+                "procurement of false documents"
+            ],
+            "criminality_inadmissibility": [
+                "danger to national security",
+                "involvement in terrorism"
+            ],
+            "decision_outcome": [
+                "certificate quashed",
+                "not a danger to national security"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "certificate quashed"
+            ],
+            "procedural_fairness": [
+                "closed hearings",
+                "open hearings",
+                "Special Advocates reviewed classified information"
+            ],
+            "evidence_provided": [
+                "human source information",
+                "physical surveillance reports",
+                "telecommunications intercepts",
+                "expert testimonies"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "identity_documents": [
+                "false documents"
+            ],
+            "serious_criminality": [
+                "suspected of being part of a network associated with Osama Bin Laden"
+            ],
+            "risk_characterization": [
+                "not currently a danger to national security"
+            ],
+            "specific_targeting": [
+                "no link to broader terrorist activities"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "no current threat"
+            ],
+            "evidence_credibility": [
+                "discrepancies identified",
+                "reliable and appropriate evidence questioned"
+            ],
+            "decision_outcome": [
+                "certificate quashed"
+            ],
+            "reasonableness_of_decision": [
+                "not reasonable"
+            ],
+            "complicity_in_crimes": [
+                "involvement in obtaining false documents confirmed"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "special_advocate_involvement": [
+                "yes"
+            ],
+            "human_rights_concerns": [
+                "closed hearings conducted"
+            ],
+            "security_certificate_validity": [
+                "invalidated"
+            ],
+            "discrepancies_identified": [
+                "between closed and open-source information"
+            ],
+            "legal_basis": [
+                "IRPA inadmissibility criteria"
+            ],
+            "specific_actions_or_activities": [
+                "suspected association with Osama Bin Laden network"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in Criminal Activities",
+            "Crime Type": "others",
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "evidence_assessment": [
+                "human source reports",
+                "travel history",
+                "associations with extremist figures",
+                "involvement in false documentation networks"
+            ],
+            "credibility_findings": [
+                "inconsistencies",
+                "unreliable sources"
+            ],
+            "decision_reasoning": [
+                "no reasonable grounds to believe Hassan Almrei is currently a danger to national security or a member of a terrorist organization"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "court_ruling": [
+                "quashed the security certificate"
+            ],
+            "result_details": [
+                "allegations against Almrei were not supported by reliable evidence",
+                "he does not constitute a present danger to Canada"
+            ]
+        }
+    ]
+}

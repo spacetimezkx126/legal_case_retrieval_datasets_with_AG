@@ -1,0 +1,124 @@
+{
+    "Case ID": "006015",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "adverse credibility findings",
+                "ignored evidence"
+            ],
+            "standard_of_review": [
+                "unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "denied based on credibility issues"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "new hearing ordered"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "unreasonableness"
+            ],
+            "evidence_provided": [
+                "inconsistencies",
+                "country documentation",
+                "supporting evidence"
+            ],
+            "decision_outcome": [
+                "case remanded for reassessment by a new panel"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division",
+                "Court"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "serious_criminality": [
+                "extortion and threats by FARC"
+            ],
+            "applicable_statute": [
+                "IRPA section 72"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistencies in evidence",
+                "mischaracterizations",
+                "ignored supportive evidence"
+            ],
+            "risk_of_persecution": [
+                "FARC persecution"
+            ],
+            "refugee_status_nexus": [
+                "claimed refugee status",
+                "denied based on credibility issues and perceived lack of subjective fear"
+            ],
+            "evidence_consideration": [
+                "delay in departure does not automatically indicate lack of subjective fear",
+                "delay in fleeing was due to hope for improvement, not lack of fear"
+            ],
+            "reasonableness_of_decision": [
+                "Member's findings were unreasonable"
+            ],
+            "legal_basis": [
+                "Judicial review application under IRPA section 72 challenging RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Terrorism offences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "implausible"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_assessment": [
+                "ignored evidence",
+                "mischaracterized facts"
+            ],
+            "refugee_status_claim": [
+                "persecution by FARC in Colombia"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "applicable_law_section": [
+                "IRPA section 72"
+            ],
+            "decision_outcome": [
+                "case returned for new hearing"
+            ],
+            "risk_assessment": [
+                "subjective fear must consider cumulative incidents"
+            ],
+            "discrepancies_identified": [
+                "delay in departure improperly used to infer lack of subjective fear"
+            ],
+            "organizational_activities": [
+                "FARC activities and family threats"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "046028",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "visa officer acted professionally"
+            ],
+            "evidence_assessment": [
+                "failed to consider all evidence",
+                "considered all evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "upholding the visa officer's decision"
+            ],
+            "standard_of_review": [
+                "standard of patent unreasonableness"
+            ],
+            "immigration_status": [
+                "permanent residency visa denied"
+            ],
+            "document_authenticity": [
+                "insufficient proof of work experience and education credentials"
+            ]
+        }
+    ]
+}

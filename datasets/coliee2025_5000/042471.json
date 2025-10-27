@@ -1,0 +1,29 @@
+{
+    "Case ID": "042471",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "material misrepresentation",
+                "withholding material facts"
+            ],
+            "evidence_assessment": [
+                "Applicant transferred belongings to another vehicle"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Board's decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "misrepresenting or withholding material facts relating to their admission"
+            ]
+        }
+    ]
+}

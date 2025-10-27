@@ -1,0 +1,52 @@
+{
+    "Case ID": "067010",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "internal_flight_alternative": [
+                "Tirana"
+            ],
+            "refugee_status_eligibility": [
+                "denied"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "best_interests_of_children": [
+                "undue hardship for the minor applicant"
+            ],
+            "evidence_assessment": [
+                "key evidence ignored",
+                "inadequate reasoning"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining documents by deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "The RAD must apply a reasonableness standard when reviewing RPD decisions on mixed fact and law issues."
+            ],
+            "internal_flight_alternative": [
+                "Tirana"
+            ],
+            "judicial_authority": [
+                "RAD",
+                "RPD"
+            ],
+            "appeal_outcome": [
+                "granted"
+            ],
+            "risk_characterization": [
+                "undue hardship for the applicant in Tirana"
+            ],
+            "cause_of_action": [
+                "refugee status due to abuse by his father"
+            ]
+        }
+    ]
+}

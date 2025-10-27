@@ -1,0 +1,27 @@
+{
+    "Case ID": "072229",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation in Citizenship Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "decision_outcome": [
+                "unreasonable",
+                "remitted_for_redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "evidence_assessment": [
+                "unclear_language",
+                "contradictions_in_travel_records",
+                "insufficient_documentation_of_residence"
+            ],
+            "residency_requirements": [
+                "discrepancies_in_residency_claims"
+            ],
+            "misrepresentation_or_fraud": [
+                "concerns_about_residency_claims"
+            ]
+        }
+    ]
+}

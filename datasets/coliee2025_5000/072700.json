@@ -1,0 +1,101 @@
+{
+    "Case ID": "072700",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in an Application for Refugee Status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "birth certificate with official stamps but no photograph or security features"
+            ],
+            "credibility_assessment": [
+                "minor inconsistencies and unreasonable expectations of recall accuracy"
+            ],
+            "document_authenticity": [
+                "presumed authentic unless proven otherwise"
+            ],
+            "decision_outcome": [
+                "Court allowed the application, overturning the Board's decision"
+            ],
+            "refugee_status_eligibility": [
+                "refugee claim was dismissed due to alleged identity and credibility issues"
+            ]
+        },
+        {
+            "Crime Name": "False Pretenses",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "standard of reasonableness"
+            ],
+            "identity_documents": [
+                "birth certificate",
+                "citizenship card"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application for judicial review was granted",
+                "Board's decision unreasonable"
+            ],
+            "material_misrepresentation": [
+                "doubts about identity and credibility"
+            ],
+            "expert_testimony": [],
+            "evidence_provided": [
+                "official stamps as security features"
+            ],
+            "mitigating_factors": [
+                "minor inconsistencies"
+            ],
+            "appeal_outcome": [
+                "Federal Court allowed the judicial review application, overturning the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "minor inconsistencies",
+                "recalling six of nine details",
+                "debatable credibility findings"
+            ],
+            "evidence_consideration": [
+                "birth certificate",
+                "official emblem and stamp",
+                "handwritten nature",
+                "little probative value"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision unreasonable",
+                "dismissal of the birth certificate"
+            ],
+            "legal_basis": [
+                "IRPA s. 106",
+                "acceptable documentation establishing identity",
+                "reasonable explanation for its absence"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 106"
+            ],
+            "credibility_findings": [
+                "minor inconsistencies",
+                "handwritten birth certificate dismissed"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "Board's decision unreasonable"
+            ],
+            "applicable_laws": [
+                "Refugee Protection Division rules"
+            ],
+            "court_ruling": [
+                "Federal Court allowed judicial review",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

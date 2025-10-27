@@ -1,0 +1,72 @@
+{
+    "Case ID": "046489",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation without supervision",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Corrections and Conditional Release Act (CCRA)"
+            ],
+            "procedural_fairness": [
+                "Judicial review application in Federal Court"
+            ],
+            "risk_assessment": [
+                "moderate risk of re-offending"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "analyzing whether 'society' in CCRA extends beyond Canada"
+            ]
+        },
+        {
+            "Crime Name": "First degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "moderate risk of re-offending"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "sections 100-102 of the CCRA"
+            ],
+            "humanitarian_concerns": [
+                "lack of supervision in the UK"
+            ],
+            "immigration_status": [
+                "deportation to the UK"
+            ],
+            "past_criminal_convictions": [
+                "serving a life sentence for first-degree murder"
+            ]
+        },
+        {
+            "Crime Name": "Undue risk to society",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 100-102 of the CCRA"
+            ],
+            "decision_reasoning": [
+                "parole decisions prioritize protection of society",
+                "society interpreted broadly to include foreign societies when offenders are deported"
+            ],
+            "application_details": [
+                "Collins posed moderate risk of re-offending",
+                "lacked supervision plans in the UK"
+            ],
+            "conclusion_outcome": [
+                "Federal Court upheld denial of parole"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "Collins remains ineligible for parole due to undue risk to UK society"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

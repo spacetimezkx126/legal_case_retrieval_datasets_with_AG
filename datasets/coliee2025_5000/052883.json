@@ -1,0 +1,26 @@
+{
+    "Case ID": "052883",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "did not meet residency requirement under paragraph 5(1)(c) of the Citizenship Act",
+                "accumulate at least three years of residence in Canada within four years preceding their application"
+            ],
+            "evidence_assessment": [
+                "inconsistent and insufficient evidence regarding activities and income in Canada"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "case remanded for reconsideration by a different citizenship judge"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reviewing the citizenship judge's decision and determining if it adhered to legal standards"
+            ]
+        }
+    ]
+}

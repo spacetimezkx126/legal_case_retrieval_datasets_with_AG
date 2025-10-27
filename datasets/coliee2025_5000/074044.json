@@ -1,0 +1,59 @@
+{
+    "Case ID": "074044",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "serious question to be tried"
+            ],
+            "irreparable_harm": [
+                "irreparable harm if the injunction is not granted",
+                "removal does not negate legal rights"
+            ],
+            "balance_of_convenience": [
+                "balance of convenience favoring the applicant",
+                "public interest favors enforcing removal orders"
+            ],
+            "personalized_vs_generalized_risk": [
+                "failed to prove unusual hardship or personalized risk in Ukraine"
+            ],
+            "risk_assessment": [
+                "no significant risk"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "feared persecution in Ukraine"
+            ],
+            "immigration_status": [
+                "unsuccessful immigration applications"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "tripartite test for a stay of removal"
+            ],
+            "procedural_fairness": [
+                "Federal Court analyzed the applicant's arguments"
+            ],
+            "risk_assessment": [
+                "no significant risk"
+            ],
+            "immigration_status": [
+                "unsuccessful immigration applications"
+            ],
+            "decision_outcome": [
+                "motion is dismissed"
+            ],
+            "relevant_factors": [
+                "unusual hardship",
+                "personalized risk",
+                "public interest"
+            ],
+            "appeal_process": [
+                "stay of removal"
+            ]
+        }
+    ]
+}

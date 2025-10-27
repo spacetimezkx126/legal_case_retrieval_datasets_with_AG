@@ -1,0 +1,27 @@
+{
+    "Case ID": "073554",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "product-by-process claim includes the process if it is essential to the invention, and infringement requires using the patented process"
+            ],
+            "technical_details": [
+                "Cobalt's process does not use ruthenium salts or produce intermediate compounds claimed in the '137 patent"
+            ],
+            "patent_validity": [
+                "presence of ruthenium salts is an essential element of the patented process"
+            ],
+            "decision_outcome": [
+                "Cobalt's allegation of non-infringement is justified; Bayer's application is dismissed"
+            ],
+            "cause_of_action": [
+                "Bayer sought to prohibit Cobalt from marketing a generic version of YASMIN® due to alleged patent infringement"
+            ],
+            "appeal_outcome": [
+                "The court dismissed Bayer's application, concluding that Cobalt's process did not infringe the '137 patent"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "Case ID": "030502",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistencies",
+                "lack_of_corroborative_evidence"
+            ],
+            "evidence_assessment": [
+                "medical_evidence",
+                "inability_to_provide_full_name"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed",
+                "no_intervention_by_the_Court"
+            ],
+            "standard_of_review": [
+                "reasonableness_of_the_panel's_decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "document_misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonable under the circumstances",
+                "erroneous fact",
+                "perverse or capricious manner",
+                "without regard for the evidence"
+            ],
+            "evidence_provided": [
+                "failed to provide probative evidence",
+                "contradictions in his testimony",
+                "inability to name key individuals",
+                "lack of corroborating evidence"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed the application for judicial review",
+                "upholding the panel's decision"
+            ],
+            "claim_nature": [
+                "refugee status",
+                "alleging persecution by Indian police"
+            ],
+            "relationship_genuineness": [
+                "lack of credibility"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "inability to name key individuals",
+                "lack of corroborating evidence"
+            ],
+            "evidence_provided": [
+                "claims of police harassment and torture"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable credibility assessment"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ],
+            "refugee_status_claim": [
+                "alleged persecution by Indian police"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected due to lack of credibility"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "lack of credibility",
+                "inconsistencies",
+                "lack of corroborating evidence"
+            ],
+            "decision_reasonableness": [
+                "reasonable findings"
+            ],
+            "procedural_fairness": [
+                "judicial review application filed",
+                "assessed for reasonableness"
+            ],
+            "evidence_assessment": [
+                "medical reports did not confirm injuries"
+            ],
+            "refugee_status": [
+                "asylum in Canada",
+                "deemed not credible"
+            ],
+            "application_details": [
+                "persecution in India",
+                "smuggled to Malaysia"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no question certified"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "016041",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "mandamus"
+            ],
+            "decision_reasoning": [
+                "unreasonable delay",
+                "administrative delays",
+                "no security concerns",
+                "fulfilled conditions precedent",
+                "significant stress",
+                "health care issues"
+            ],
+            "procedure_followed": [
+                "filed for mandamus",
+                "reviewed delay and applicable legal standards"
+            ],
+            "result_of_case": [
+                "granted mandamus",
+                "ordered decision within 120 days",
+                "awarded $3,500 in costs"
+            ],
+            "cause_of_action": [
+                "unreasonable delay in processing application for Ministerial relief"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "093807",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "misrepresenting or withholding material facts",
+                "employment history"
+            ],
+            "procedural_fairness": [
+                "flawed verification procedures",
+                "lack of procedural fairness"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "quashed",
+                "reconsideration by a different officer"
+            ],
+            "evidence_assessment": [
+                "affidavits from Yamgan Company employees",
+                "contradict Officer’s findings"
+            ],
+            "standard_of_review": [
+                "judicial review application under s. 72(1) of the Act"
+            ]
+        }
+    ]
+}

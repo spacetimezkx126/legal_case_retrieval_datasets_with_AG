@@ -1,0 +1,55 @@
+{
+    "Case ID": "032566",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Misrepresentation of Residence Information",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days over four years"
+            ],
+            "evidence_assessment": [
+                "incomplete and vague evidence",
+                "notices of assessment",
+                "bank statements",
+                "academic records",
+                "passport"
+            ],
+            "decision_outcome": [
+                "original decision overturned",
+                "case remanded for reevaluation"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "questionable evidence of meeting residency requirements"
+            ],
+            "procedural_fairness": [
+                "lacked reasonableness due to insufficient evidence and inadequate explanation"
+            ]
+        },
+        {
+            "Crime Name": "False Pretenses",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1095 days over four years preceding application"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_provided": [
+                "lacked sufficient evidence of physical presence"
+            ],
+            "decision_outcome": [
+                "appeal allowed, decision unreasonable"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "citizenship judge"
+            ],
+            "applicable_statute": [
+                "Citizenship Act"
+            ]
+        }
+    ]
+}

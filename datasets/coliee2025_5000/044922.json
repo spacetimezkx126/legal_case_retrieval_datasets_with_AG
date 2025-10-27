@@ -1,0 +1,53 @@
+{
+    "Case ID": "044922",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "refugee_status_eligibility": [
+                "fear of persecution due to race and imputed political opinion"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "Evidence supports fear of persecution based on race and imputed political opinion"
+            ],
+            "immigration_status": [
+                "Respondent entered Canada illegally"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling of persons",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "perceived ties with the LTTE",
+                "Tamil ethnicity",
+                "imputed political opinion",
+                "particular social group"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable regarding imputed political opinion and ethnicity",
+                "unreasonable regarding 'particular social group'"
+            ],
+            "credibility_findings": [
+                "issues with credibility"
+            ],
+            "judicial_review_process": [
+                "Judicial review under IRPA subsection 72(1)"
+            ],
+            "burden_of_proof": [
+                "mixed questions of law and fact"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Case ID": "036245",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with recognizance",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 58 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "danger to the public",
+                "unlikely to appear for removal"
+            ],
+            "evidence_assessment": [
+                "gang membership",
+                "gang's inactivity"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "result_of_case": [
+                "application for judicial review allowed",
+                "matter remitted for redetermination by a different panel"
+            ],
+            "conclusion_outcome": [
+                "Board's decision set aside",
+                "case remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Section 58 of the Immigration and Refugee Protection Act",
+                "Section 246"
+            ],
+            "risk_assessment": [
+                "danger to the public",
+                "unlikely to appear for removal"
+            ],
+            "criminal_history": [
+                "convicted of heroin trafficking"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "remitted for redetermination"
+            ],
+            "review_process": [
+                "judicial review",
+                "standard of patent unreasonableness"
+            ],
+            "evidence_considered": [
+                "linked to the AK Kannon gang",
+                "gang's inactivity"
+            ]
+        }
+    ]
+}

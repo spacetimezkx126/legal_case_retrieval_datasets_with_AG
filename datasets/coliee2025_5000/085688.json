@@ -1,0 +1,32 @@
+{
+    "Case ID": "085688",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "failure to notify applicant of medical opinions",
+                "dismissal of expert evidence without reasoning"
+            ],
+            "applicable_regulations": [
+                "Veterans Appeal Board Act"
+            ],
+            "decision_reasoning": [
+                "reliance on undisclosed, unsigned medical opinion",
+                "inadequate consideration of expert evidence"
+            ],
+            "cause_of_action": [
+                "denial of pension benefits for hearing loss"
+            ],
+            "procedure_followed": [
+                "judicial review application"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "Board's decision set aside",
+                "remitted for redetermination"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "063051",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "err in credibility findings"
+            ],
+            "evidence_assessment": [
+                "errors in assessing evidence",
+                "ignoring key documents",
+                "misinterpreting facts",
+                "rejecting evidence en bloc without justification"
+            ],
+            "decision_reasoning": [
+                "unreasonable due to significant errors in evidence assessment"
+            ],
+            "refugee_status": [
+                "claimed refugee status in Canada",
+                "alleging persecution in Bangladesh due to political affiliation"
+            ],
+            "standard_of_review": [
+                "reasonableness under judicial review standards"
+            ],
+            "result_of_case": [
+                "court allowed the judicial review",
+                "set aside the RPD's decision",
+                "referred the matter back for redetermination"
+            ]
+        }
+    ]
+}

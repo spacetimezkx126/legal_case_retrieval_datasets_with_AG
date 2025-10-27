@@ -1,0 +1,121 @@
+{
+    "Case ID": "055411",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Officer"
+            ],
+            "decision_outcome": [
+                "refusal",
+                "judicial review granted",
+                "remitted for redetermination"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "establishment in Canada",
+                "hardship test"
+            ],
+            "procedural_fairness": [
+                "justifiable",
+                "transparent",
+                "intelligible",
+                "acceptable outcomes"
+            ],
+            "appeal_outcome": [
+                "succeeded"
+            ],
+            "nature_of_offense": [
+                "criminal record"
+            ],
+            "child_best_interests": [
+                "consideration required"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "establishment in Canada",
+                "employment",
+                "financial management",
+                "community involvement",
+                "criminal history"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness of decision",
+                "distinct H&C test"
+            ],
+            "risk_assessment": [
+                "underestimated establishment",
+                "mirrored PRRA decision"
+            ],
+            "past_criminal_convictions": [
+                "deportation order"
+            ],
+            "family_ties": [
+                "consideration in H&C grounds"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard for H&C applications"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable decision-making"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "refusal based on criminal record and perceived lack of establishment"
+            ],
+            "judicial_review_result": [
+                "granted",
+                "remitted for redetermination by a different Officer"
+            ],
+            "evidence_assessment": [
+                "underestimated establishment in Canada",
+                "improper reuse of PRRA risk analysis"
+            ],
+            "decision_making_process": [
+                "failed to apply the correct hardship test",
+                "separate analyses required for H&C and PRRA applications"
+            ],
+            "immigration_status": [
+                "application for permanent residence refused"
+            ]
+        },
+        {
+            "Crime Name": "Armed Robbery",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "establishment in Canada",
+                "risk upon return",
+                "best interests of children"
+            ],
+            "procedural_fairness": [
+                "judicial review under Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted for redetermination"
+            ],
+            "immigration_status": [
+                "permanent residency application on humanitarian grounds"
+            ],
+            "relevant_factors": [
+                "strong ties in Canada",
+                "employment history",
+                "family",
+                "community involvement"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

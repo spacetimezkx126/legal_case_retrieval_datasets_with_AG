@@ -1,0 +1,109 @@
+{
+    "Case ID": "052633",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "lack of genuineness in marriage",
+                "inability to provide consistent or sufficient information"
+            ],
+            "evidence_assessment": [
+                "failed to answer key questions",
+                "provided contradictory information",
+                "cultural arguments and pregnancy evidence were insufficient"
+            ],
+            "decision_outcome": [
+                "officer's decision was reasonable",
+                "application for judicial review is dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "entered into solely for immigration purposes"
+            ],
+            "evidence_provided": [
+                "failed to provide consistent or corroborated answers",
+                "cultural arguments",
+                "pregnancy evidence"
+            ],
+            "judicial_authority": [
+                "Court upheld the officer's decision"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "burden_of_proof": [
+                "applicant bears the burden of proving this"
+            ],
+            "reasonableness_standard": [
+                "officer's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_consideration": [
+                "inconsistent answers",
+                "lack of corroborated evidence",
+                "cultural arguments",
+                "pregnancy evidence"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable decision"
+            ],
+            "standard_of_proof": [
+                "burden of proving genuine marriage"
+            ],
+            "immigration_status": [
+                "sponsorship application rejected"
+            ],
+            "procedural_fairness": [
+                "judicial review application filed"
+            ],
+            "humanitarian_concerns": [],
+            "risk_assessment": []
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "claimant_burden": [
+                "applicant bears the burden of proving genuine marriage"
+            ],
+            "evidence_considered": [
+                "inconsistent answers about sponsor’s life, finances, and history",
+                "cultural arguments",
+                "pregnancy evidence"
+            ],
+            "decision_outcome": [
+                "officer's decision was reasonable",
+                "application for judicial review dismissed"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "court_ruling": [
+                "Court upheld the officer's decision",
+                "no intervention by the Court"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "046346",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "irreparable_harm": [
+                "market share loss",
+                "price reduction",
+                "reputational damage"
+            ],
+            "balance_of_convenience": [
+                "favoring the applicant"
+            ],
+            "decision_outcome": [
+                "Injunction denied"
+            ],
+            "cause_of_action": [
+                "Novopharm's generic version of LOVENOX (enoxaparin sodium) threatened plaintiffs' market dominance"
+            ],
+            "procedural_fairness": [
+                "Interlocutory injunctions require proof of a serious issue to be tried, irreparable harm, and balance of convenience favoring the applicant"
+            ],
+            "appeal_outcome": [
+                "Court dismissed the application for an injunction, allowing Novopharm to proceed with marketing its product"
+            ]
+        }
+    ]
+}

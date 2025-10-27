@@ -1,0 +1,30 @@
+{
+    "Case ID": "028449",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "federal pension legislation"
+            ],
+            "cause_of_action": [
+                "unconstitutionality of federal pension laws"
+            ],
+            "procedural_fairness": [
+                "lack of standing",
+                "alternative means to bring issue to court"
+            ],
+            "decision_reasoning": [
+                "plaintiff won't benefit from changes",
+                "lacks personal impact or genuine interest"
+            ],
+            "result_of_case": [
+                "motion granted",
+                "action dismissed due to lack of standing"
+            ],
+            "relevant_rule": [
+                "public interest standing criteria"
+            ]
+        }
+    ]
+}

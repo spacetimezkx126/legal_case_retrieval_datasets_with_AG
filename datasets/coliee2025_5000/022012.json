@@ -1,0 +1,55 @@
+{
+    "Case ID": "022012",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in statements",
+                "lack of supporting evidence",
+                "adoption deed lacked independent verification"
+            ],
+            "identity_verification": [
+                "questioned authenticity of adoption",
+                "interview discrepancies"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "upheld visa officer’s decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "visa officer found misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "genuine adoption requirements not met"
+            ],
+            "evidence_provided": [
+                "inconsistencies in story",
+                "lack of evidence for adoption ceremony",
+                "continued residence with natural father",
+                "admissions suggesting fraudulent intent"
+            ],
+            "decision_outcome": [
+                "reasonable decision",
+                "application for judicial review dismissed"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "material_misrepresentation": [
+                "suspected fraudulent adoption to facilitate immigration"
+            ],
+            "procedural_fairness": [
+                "interviews, document review, legal analysis"
+            ]
+        }
+    ]
+}

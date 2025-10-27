@@ -1,0 +1,32 @@
+{
+    "Case ID": "034493",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "negative",
+                "based on lack of detailed documentation",
+                "perceived implausibilities"
+            ],
+            "evidence_assessment": [
+                "consistent testimony",
+                "corroborated by relevant documents"
+            ],
+            "reasonableness_standard": [
+                "credibility findings must be based on inconsistencies or discrepancies in testimony"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "case remanded for reevaluation"
+            ],
+            "risk_of_persecution": [
+                "religious persecution"
+            ],
+            "review_standard": [
+                "judicial review of the Board's decision"
+            ]
+        }
+    ]
+}

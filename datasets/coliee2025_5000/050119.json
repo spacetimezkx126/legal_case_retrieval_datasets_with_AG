@@ -1,0 +1,32 @@
+{
+    "Case ID": "050119",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "flexible evidence admissibility",
+                "context and statutory purpose"
+            ],
+            "evidence_assessment": [
+                "new evidence relevance",
+                "key documents reassessment"
+            ],
+            "review_standard": [
+                "independent review by RAD",
+                "hybrid appeal"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "RAD's credibility findings deference",
+                "contradiction on email relevance"
+            ]
+        }
+    ]
+}

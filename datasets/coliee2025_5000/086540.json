@@ -1,0 +1,52 @@
+{
+    "Case ID": "086540",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "denied procedural fairness",
+                "natural justice breach"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "inconsistencies in testimony"
+            ],
+            "credibility_findings": [
+                "negative credibility findings"
+            ],
+            "decision_reasoning": [
+                "counsel's incompetence",
+                "miscarriage of justice"
+            ],
+            "application_details": [
+                "failed to prepare for hearing",
+                "submit evidence",
+                "advise on procedures"
+            ],
+            "conclusion_outcome": [
+                "application allowed",
+                "Board's decision set aside"
+            ],
+            "result_of_case": [
+                "decision overturned",
+                "case referred to new panel"
+            ],
+            "relevant_rule": [
+                "reasonable care, skill, and knowledge required"
+            ],
+            "discretion_exercise": [
+                "redetermination by different panel"
+            ],
+            "cause_of_action": [
+                "refugee protection claim"
+            ],
+            "procedure_followed": [
+                "judicial review application granted"
+            ],
+            "decision_made": [
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

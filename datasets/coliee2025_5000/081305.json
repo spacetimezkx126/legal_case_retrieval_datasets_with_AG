@@ -1,0 +1,79 @@
+{
+    "Case ID": "081305",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "inconsistencies in taskira",
+                "passport discounted due to taskira issues"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant failed to establish identity for refugee claim purposes"
+            ],
+            "decision_outcome": [
+                "RPD's decision unreasonable",
+                "judicial review application granted",
+                "case remitted for re-determination"
+            ],
+            "procedural_fairness": [
+                "Judicial review process",
+                "Federal Court assessed reasonableness of RPD's decision"
+            ],
+            "document_authenticity": [
+                "identity documents deemed insufficient by RPD"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "taskira",
+                "passport"
+            ],
+            "reasonableness_standard": [
+                "unreasonable"
+            ],
+            "evidence_provided": [
+                "inconsistencies in taskira",
+                "issues with taskira"
+            ],
+            "decision_outcome": [
+                "RPD's decision overturned",
+                "case remanded for reconsideration"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_credibility": [
+                "inconsistencies in taskira",
+                "passport discounted"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "decision_outcome": [
+                "overturned"
+            ],
+            "refugee_status_claim": [
+                "denied"
+            ],
+            "evidence_assessment": [
+                "reliance on one document's authenticity to taint another deemed unreasonable"
+            ],
+            "court_ruling": [
+                "remitted for re-determination"
+            ]
+        }
+    ]
+}

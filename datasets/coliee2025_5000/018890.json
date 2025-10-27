@@ -1,0 +1,66 @@
+{
+    "Case ID": "018890",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "security grounds"
+            ],
+            "evidence_assessment": [
+                "new information",
+                "Interpol notice",
+                "connections with known operatives"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "decision_outcome": [
+                "certificate upheld"
+            ]
+        },
+        {
+            "Crime Name": "Engaging or instigating subversion by force of a government",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "new_information": [
+                "Interpol notice",
+                "time spent in Afghanistan",
+                "connections with known terrorists"
+            ],
+            "applicable_law_section": [
+                "s. 80(1) of IRPA"
+            ],
+            "evidence_provided": [
+                "new evidence post-dating November 1, 1999"
+            ],
+            "decision_outcome": [
+                "upheld as reasonable"
+            ],
+            "risk_to_national_security": [
+                "raised national security concerns"
+            ],
+            "organizational_affiliation": [
+                "Al Jihad",
+                "extremist organizations"
+            ],
+            "security_certificate_validity": [
+                "deemed reasonable"
+            ],
+            "judicial_review_result": [
+                "certificate is deemed reasonable"
+            ],
+            "balance_of_interests": [
+                "proceedings resumed despite delays"
+            ],
+            "standard_of_proof": [
+                "reasonable under IRPA provisions"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "Case ID": "097680",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "pending application"
+            ],
+            "criminal_history": [
+                "significant criminal record"
+            ],
+            "procedural_fairness": [
+                "judicial review application heard"
+            ],
+            "immigration_status": [
+                "removal arrangements"
+            ],
+            "risk_assessment": [
+                "deferral of removal"
+            ],
+            "standard_of_proof": [
+                "live controversy affecting rights"
+            ]
+        },
+        {
+            "Crime Name": "Driving with more than 80 mgs. of alcohol in blood",
+            "Crime Type": "others",
+            "mootness": [
+                "moot due to the stay order preventing removal"
+            ],
+            "procedural_fairness": [
+                "concerns cited for deferral request"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "under review"
+            ],
+            "application_details": [
+                "applicant's removal stayed by the court"
+            ],
+            "decision_reasoning": [
+                "new evidence and circumstances emerged, making deferral request obsolete"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed as moot"
+            ],
+            "result_of_case": [
+                "removal arrangements no longer relevant"
+            ]
+        },
+        {
+            "Crime Name": "Possession for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "exclusion_reason": [
+                "mootness due to stay order"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "application provides a better platform for resolving issues"
+            ],
+            "decision_outcome": [
+                "dismissed as moot"
+            ],
+            "review_process": [
+                "judicial review application"
+            ],
+            "applicable_law_or_regulation": [
+                "live controversy affecting the rights of the parties"
+            ],
+            "parties_involved": [
+                "applicant",
+                "court"
+            ],
+            "criminal_history": [
+                "criminal record including possession for trafficking"
+            ]
+        }
+    ]
+}

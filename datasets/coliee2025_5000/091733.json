@@ -1,0 +1,30 @@
+{
+    "Case ID": "091733",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "health_grounds_inadmissibility": [
+                "serious health issues requiring dialysis"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "unavailability of treatment in St. Vincent",
+                "availability of treatment in Barbados or Jamaica"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "removal decision rescinded",
+                "matter referred back for reassessment"
+            ],
+            "procedural_fairness": [
+                "officer did not ensure arrangements for treatment or transportation"
+            ],
+            "criminality_inadmissibility": [
+                "overstayed visa after failed refugee claim"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "059994",
+    "Different Crime": [
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "reproduced a substantial part of a copyrighted work without consent"
+            ],
+            "relevant_statute": [
+                "Copyright Act"
+            ],
+            "evidence_presented": [
+                "facts under the Copyright Act",
+                "evidence presentation, admissions, and testimonies"
+            ],
+            "decision_reasoning": [
+                "authorized the printing and distribution of 'On M'a Volé Mon Fils'",
+                "act constitutes infringement under the Copyright Act"
+            ],
+            "remedy_requested": [
+                "permanent injunction",
+                "return of infringing materials",
+                "payment for unsold copies",
+                "profits from sold copies"
+            ],
+            "result_of_case": [
+                "Defendant found liable for copyright infringement",
+                "ordered to pay damages and cease distribution of infringing work"
+            ]
+        }
+    ]
+}

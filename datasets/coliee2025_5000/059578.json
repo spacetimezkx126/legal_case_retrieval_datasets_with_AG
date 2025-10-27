@@ -1,0 +1,55 @@
+{
+    "Case ID": "059578",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 196 of IRPA"
+            ],
+            "immigration_status": [
+                "permanent residents"
+            ],
+            "criminality_inadmissibility": [
+                "serious crimes"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "matter sent back to IAD"
+            ],
+            "standard_of_review": [
+                "transitional provisions"
+            ]
+        },
+        {
+            "Crime Name": "Possession of drugs for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA's section 196",
+                "Section 196 of IRPA",
+                "section 64"
+            ],
+            "decision_made_by": [
+                "Adjudicator",
+                "IAD"
+            ],
+            "review_process": [
+                "Judicial review of IAD decision"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA",
+                "former Act"
+            ],
+            "immigration_status": [
+                "lacks a stay under the former Act"
+            ],
+            "deportation_order": [
+                "deportation order under old immigration laws"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "matter remitted to IAD for reconsideration under old rules"
+            ]
+        }
+    ]
+}

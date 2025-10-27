@@ -1,0 +1,32 @@
+{
+    "Case ID": "083582",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Visa Denial",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "duty of fairness",
+                "informed of concerns",
+                "delegation of interviews"
+            ],
+            "evidence_assessment": [
+                "concerns from Act/Regulations",
+                "assessment on merits"
+            ],
+            "decision_outcome": [
+                "judicial review denied",
+                "no breach of fairness",
+                "no legal error"
+            ],
+            "immigration_status": [
+                "employment authorization",
+                "temporary intent",
+                "ties to Pakistan"
+            ],
+            "standard_of_review": [
+                "visa officer's decision-making process",
+                "interpretation of 'permanent and ongoing company'"
+            ]
+        }
+    ]
+}

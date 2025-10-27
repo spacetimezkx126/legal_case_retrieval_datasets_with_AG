@@ -1,0 +1,31 @@
+{
+    "Case ID": "075103",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable findings",
+                "missing documentation",
+                "port-of-entry notes"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "re-determination"
+            ],
+            "refugee_status_eligibility": [
+                "fled Mexico",
+                "domestic violence",
+                "alleged persecution"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "case remanded"
+            ],
+            "standard_of_review": [
+                "IRPA",
+                "credibility assessment methods"
+            ]
+        }
+    ]
+}

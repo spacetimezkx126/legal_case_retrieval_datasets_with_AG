@@ -1,0 +1,54 @@
+{
+    "Case ID": "046271",
+    "Different Crime": [
+        {
+            "Crime Name": "Spousal Abuse",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "insufficient hardship evidence"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "consideration of spousal abuse allegations"
+            ],
+            "procedural_fairness": [
+                "judicial review under IRPA Section 72"
+            ],
+            "criminal_history": [
+                "outstanding spousal abuse charges"
+            ],
+            "applicant_characteristics": [
+                "behavior inconsistent with Canadian values"
+            ]
+        },
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_reasoning": [
+                "consideration of outstanding charges",
+                "evaluation of evidence",
+                "refusal of risk allegations"
+            ],
+            "application_details": [
+                "humanitarian and compassionate grounds application"
+            ],
+            "procedural_fairness": [
+                "procedural fairness concerns"
+            ],
+            "conclusion_outcome": [
+                "no unreasonable error in decision-making process"
+            ],
+            "result_of_case": [
+                "judicial review dismissed"
+            ]
+        }
+    ]
+}

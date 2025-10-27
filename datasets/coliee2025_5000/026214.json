@@ -1,0 +1,27 @@
+{
+    "Case ID": "026214",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "denied"
+            ],
+            "credibility_assessment": [
+                "not credible"
+            ],
+            "evidence_assessment": [
+                "post-decision evidence inadmissible",
+                "supported by evidence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "IRB’s decision upheld"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act",
+                "Federal Courts Rules regarding admissible evidence in judicial reviews"
+            ]
+        }
+    ]
+}

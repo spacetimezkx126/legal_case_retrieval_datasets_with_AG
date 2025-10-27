@@ -1,0 +1,78 @@
+{
+    "Case ID": "048704",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration status violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b)",
+                "Section 98 of the Immigration and Refugee Protection Act"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "criminality_inadmissibility": [
+                "drug offenses"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "excluded under Article 1F(b)"
+            ]
+        },
+        {
+            "Crime Name": "Criminal sale of a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the Convention",
+                "Section 98 of the Immigration and Refugee Protection Act"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "refugee_status": [
+                "excluded"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "Article 1F(b)",
+                "Section 98 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside the country of refuge",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(b)",
+                "Section 98 of the Immigration and Refugee Protection Act"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes outside the country of refuge"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "immigration_status": [
+                "sought refugee status in Canada"
+            ],
+            "refugee_definition": [
+                "excluded from refugee status under Article 1F(b)"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

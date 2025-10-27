@@ -1,0 +1,88 @@
+{
+    "Case ID": "077368",
+    "Different Crime": [
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "post-hearing evidence",
+                "tractor registration document"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)",
+                "Federal Court"
+            ],
+            "credibility_assessment": [
+                "general lack of credibility"
+            ],
+            "cause_of_action": [
+                "refugee status claim"
+            ],
+            "persecution_details": [
+                "persecution by Tamil Tigers and Sri Lankan forces"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "post-hearing evidence",
+                "tractor registration document"
+            ],
+            "credibility_findings": [
+                "general lack of credibility"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "refugee_status_claim": [
+                "claimed refugee status"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "persecution by both Tamil Tigers and Sri Lankan forces"
+            ],
+            "evidence_assessment": [
+                "insufficient credible evidence"
+            ],
+            "decision_outcome": [
+                "no material impact from the procedural fairness breach"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Context",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "procedural_fairness": [
+                "breach of fairness",
+                "failure to rule on post-hearing evidence"
+            ],
+            "refugee_status": [
+                "claim for refugee status rejected"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division (RPD)"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "application for judicial review dismissed",
+                "no change in RPD's decision"
+            ],
+            "applicable_law_or_regulation": [
+                "Rule 37(1) of the Refugee Protection Division Rules"
+            ]
+        }
+    ]
+}

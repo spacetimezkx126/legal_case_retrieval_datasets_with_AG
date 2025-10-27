@@ -1,0 +1,30 @@
+{
+    "Case ID": "066957",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "family separation"
+            ],
+            "immigration_status": [
+                "removal order",
+                "refugee claim rejected",
+                "PDRCC application rejected",
+                "applied for permanent residence via marriage"
+            ],
+            "decision_outcome": [
+                "dismissed application for a stay",
+                "upheld removal officer's decision"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Federal Court analysis"
+            ],
+            "legal_basis": [
+                "Section 48 of the Immigration Act",
+                "discretion to defer limited to cases where deferral might render the order unenforceable or ineffective"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Case ID": "073225",
+    "Different Crime": [
+        {
+            "Crime Name": "Lying to an Immigration Officer",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 19(2)(d)",
+                "s. 11(3) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "lack of fairness",
+                "improper application of discretionary power"
+            ],
+            "decision_outcome": [
+                "Decision quashed",
+                "new interview ordered with a different officer"
+            ],
+            "misrepresentation_or_fraud": [
+                "lied initially about sending a bribe"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Bribery of a Public Officer",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 11(3) of the Immigration Regulations"
+            ],
+            "decision_outcome": [
+                "Decision quashed; new interview ordered with a different visa officer"
+            ],
+            "procedural_fairness": [
+                "Procedural unfairness identified"
+            ],
+            "applicable_statute": [
+                "Immigration Regulations"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "nature_of_offense": [
+                "Attempted bribery"
+            ],
+            "mitigating_factors": [
+                "No impact on economic establishment in Canada"
+            ]
+        }
+    ]
+}

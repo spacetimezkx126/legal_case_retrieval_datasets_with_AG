@@ -1,0 +1,29 @@
+{
+    "Case ID": "030370",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days within four years",
+                "physical presence in Canada"
+            ],
+            "evidence_assessment": [
+                "CBSA data",
+                "passport records",
+                "banking statements",
+                "discrepancies"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness of decisions"
+            ],
+            "document_authenticity": [
+                "concerns about residency proof and financial documentation"
+            ]
+        }
+    ]
+}

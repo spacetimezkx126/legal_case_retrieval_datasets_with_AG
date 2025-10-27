@@ -1,0 +1,43 @@
+{
+    "Case ID": "067022",
+    "Different Crime": [
+        {
+            "Crime Name": "Negligence in correctional duties",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Correctional officials owe a duty of care to inmates, requiring reasonable steps to protect them from foreseeable harm. Liability arises if negligence causes damage."
+            ],
+            "decision_reasoning": [
+                "Officials lacked actual knowledge of incompatibilities and followed standard procedures. Some omissions occurred but did not directly cause harm."
+            ],
+            "cause_of_action": [
+                "Plaintiff was stabbed and later placed in protective custody due to perceived risks from other inmates."
+            ],
+            "procedure_followed": [
+                "Trial examined actions of correctional officials at Matsqui, Mission, and Kent Institutions regarding transfers and safety measures."
+            ],
+            "result_of_case": [
+                "Action dismissed with costs; no negligence established."
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Correctional officials owe a duty of care to inmates, requiring reasonable steps to protect them from foreseeable harm."
+            ],
+            "procedural_fairness": [
+                "Officials followed standard procedures."
+            ],
+            "risk_assessment": [
+                "Lacked actual knowledge of incompatibility before the stabbing.",
+                "One official failed to communicate potential risks but no direct injury resulted."
+            ],
+            "decision_outcome": [
+                "No breach of duty occurred as officials acted reasonably given available information.",
+                "Action dismissed; no liability found against the Crown."
+            ],
+            "family_impact": []
+        }
+    ]
+}

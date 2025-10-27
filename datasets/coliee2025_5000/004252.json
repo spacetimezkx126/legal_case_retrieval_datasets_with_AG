@@ -1,0 +1,57 @@
+{
+    "Case ID": "004252",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "meaningful opportunity to respond",
+                "unreasonable inferences"
+            ],
+            "evidence_assessment": [
+                "concerns regarding their documents",
+                "conflicting statements"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "granted",
+                "quashed",
+                "redetermination"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged fraudulent documents",
+                "inconsistent information"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "meaningful opportunity to respond"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "quashed"
+            ],
+            "evidence_provided": [
+                "conflicting statements",
+                "alleged fraudulent documents"
+            ],
+            "judicial_authority": [
+                "visa officer"
+            ],
+            "appeal_outcome": [
+                "case remanded for redetermination",
+                "application granted"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "Case ID": "071268",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "not eligible"
+            ],
+            "risk_assessment": [
+                "generalized risk",
+                "not distinct from others in Mexico"
+            ],
+            "legal_basis": [
+                "Section 97 of IRPA"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized criminal risks"
+            ],
+            "applicable_statute": [
+                "section 97 of IRPA"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "risk_characterization": [
+                "repeated extortion and kidnapping threats"
+            ],
+            "nexus_to_convention_grounds": [
+                "perceived wealth"
+            ],
+            "reasonableness_standard": [
+                "reasonable and supported by applicable case law"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "risk_of_persecution": [
+                "kidnapping",
+                "extortion threats"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision reasonable"
+            ],
+            "country_conditions": [
+                "Mexico"
+            ],
+            "refugee_status_nexus": [
+                "refugee protection"
+            ],
+            "legal_basis": [
+                "section 97 of IRPA"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Break and Enter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 97 of IRPA"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "decision_reasoning": [
+                "Board's decision was reasonable",
+                "supported by applicable case law"
+            ],
+            "cause_of_action": [
+                "repeated criminal victimization in Mexico"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "Refugee Protection Division's denial of claims"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ]
+        }
+    ]
+}

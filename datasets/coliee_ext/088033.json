@@ -1,0 +1,333 @@
+{
+    "Case ID": "088033",
+    "Crimes": [
+        {
+            "Crime_Name": "Impaired Driving Causing Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [
+                "medical information",
+                "unsourced tip"
+            ],
+            "Evidence_Credibility": [
+                "unsourced",
+                "undisclosed"
+            ],
+            "Credibility_Assessment": [
+                "information not verifiable"
+            ],
+            "Risk_Assessment": [
+                "danger assessment conducted"
+            ],
+            "Risk_Type": [
+                "public danger"
+            ],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "section 44",
+                "ENF 28"
+            ],
+            "Legal_Provision_Cited": [
+                "ENF 28"
+            ],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "inadmissible due to danger assessment"
+            ],
+            "Outcome": [
+                "judicial review allowed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "use of undisclosed, unsourced medical information"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review under subsection 72(1)"
+            ],
+            "Decision_Maker": [
+                "Minister's delegate"
+            ],
+            "Government_Body_Involved": [
+                "CBSA"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Minister's delegate"
+            ],
+            "Decision_Standard": [
+                "procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Appear",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "procedural fairness"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "speculative and unsourced medical information included"
+            ],
+            "Decision_Outcome": [
+                "decision set aside"
+            ],
+            "Burden_of_Proof": [
+                "on Minister's delegate"
+            ],
+            "Credibility_Factor": [
+                "lack of sourcing for medical information"
+            ],
+            "Legal_Rule": [
+                "procedural fairness"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Procedural_Issue": [
+                "failure to disclose information"
+            ],
+            "Grounds_for_Claim": [
+                "breach of procedural fairness"
+            ],
+            "Outcome_on_Merits": [
+                "favorable to applicant"
+            ],
+            "Decision_Maker": [
+                "Minister's delegate"
+            ],
+            "Judicial_Review_Outcome": [
+                "allowed"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "breach found"
+            ],
+            "Key_Evidence_Considered": [
+                "tip about hospitalization for alcohol withdrawal"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicant_Challenge": [
+                "use of undisclosed information"
+            ],
+            "Court_Result": [
+                "application allowed"
+            ],
+            "Legal_Rule_Source": [
+                "ENF 28"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "medical information",
+                "tip"
+            ],
+            "Remedy_Requested": [
+                "judicial review"
+            ],
+            "Outcome": [
+                "decision set aside, remitted"
+            ],
+            "Decision_Authority": [
+                "Minister's delegate"
+            ],
+            "Remedy_Sought": [
+                "redetermination"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "subsection 72(1)"
+            ],
+            "Authority": [
+                "Minister's delegate"
+            ],
+            "Claimant_Status": [
+                "applicant in immigration process"
+            ],
+            "Legal_Provision_Cited": [
+                "ENF 28"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "serious criminality"
+            ],
+            "Applicable_Process": [
+                "danger opinion under section 44"
+            ],
+            "Outcome_of_Review": [
+                "remitted for redetermination"
+            ],
+            "Pending_Relief_or_Application": [
+                "redetermination of inadmissibility"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Governing_Rule": [
+                "ENF 28"
+            ]
+        },
+        {
+            "Crime_Name": "Probation Violation",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "procedural fairness"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "reliance on unsourced medical information"
+            ],
+            "Decision_Outcome": [
+                "decision set aside"
+            ],
+            "Burden_of_Proof": [
+                "on Minister's delegate"
+            ],
+            "Credibility_Factor": [
+                "information not disclosed or verified"
+            ],
+            "Legal_Rule": [
+                "procedural fairness"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Procedural_Issue": [
+                "use of undisclosed, speculative information"
+            ],
+            "Grounds_for_Claim": [
+                "breach of procedural fairness"
+            ],
+            "Outcome_on_Merits": [
+                "favorable to applicant"
+            ],
+            "Decision_Maker": [
+                "Minister's delegate"
+            ],
+            "Judicial_Review_Outcome": [
+                "allowed"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "breach found"
+            ],
+            "Key_Evidence_Considered": [
+                "tip regarding hospitalization for alcohol withdrawal"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicant_Challenge": [
+                "inclusion of undisclosed medical information"
+            ],
+            "Court_Result": [
+                "judicial review allowed"
+            ],
+            "Legal_Rule_Source": [
+                "ENF 28"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "medical information",
+                "tip"
+            ],
+            "Remedy_Requested": [
+                "judicial review"
+            ],
+            "Outcome": [
+                "decision set aside, no additional costs awarded"
+            ],
+            "Decision_Authority": [
+                "Minister's delegate"
+            ],
+            "Remedy_Sought": [
+                "redetermination"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "section 44",
+                "ENF 28"
+            ],
+            "Authority": [
+                "Minister's delegate"
+            ],
+            "Claimant_Status": [
+                "applicant in immigration process"
+            ],
+            "Legal_Provision_Cited": [
+                "ENF 28"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "serious criminality"
+            ],
+            "Applicable_Process": [
+                "danger assessment"
+            ],
+            "Outcome_of_Review": [
+                "remitted for redetermination"
+            ],
+            "Pending_Relief_or_Application": [
+                "redetermination of inadmissibility"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Governing_Rule": [
+                "ENF 28"
+            ]
+        }
+    ]
+}

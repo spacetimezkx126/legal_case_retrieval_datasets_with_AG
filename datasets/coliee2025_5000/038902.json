@@ -1,0 +1,101 @@
+{
+    "Case ID": "038902",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material circumstances during immigration screening",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "not assessed"
+            ],
+            "state_protection_analysis": [
+                "flawed due to skipped steps"
+            ],
+            "procedural_fairness": [
+                "violated, judicial review granted"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Alleged bribery of public officials.",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "availability of state protection"
+            ],
+            "credibility_assessment": [
+                "subjective fear of persecution",
+                "credibility and plausibility of account"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (sections 96, 97, 72 and following)"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "unreasonable decision"
+            ],
+            "appeal_outcome": [
+                "judicial review allowed, case remanded"
+            ],
+            "persecution_details": [
+                "family ties with drug trafficker and corrupt police"
+            ],
+            "risk_characterization": [
+                "severe threats from drug trafficker colluding with police"
+            ]
+        },
+        {
+            "Crime Name": "Potential involvement in drug trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "availability of state protection"
+            ],
+            "credibility_findings": [
+                "credibility and plausibility of the account"
+            ],
+            "refugee_status": [
+                "applicant claimed refugee status"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "decision_outcome": [
+                "Case remanded for new analysis"
+            ],
+            "legal_basis": [
+                "subjective fear of persecution must be assessed before state protection"
+            ]
+        },
+        {
+            "Crime Name": "Potential involvement in human trafficking",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Canadian immigration law"
+            ],
+            "procedural_fairness": [
+                "credibility assessment",
+                "subjective fear analysis"
+            ],
+            "refugee_definition": [
+                "persecution by a drug trafficker involved in human trafficking"
+            ],
+            "state_protection": [
+                "availability of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "lack of credible analysis of subjective fear"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Refugee Protection Division's decision"
+            ]
+        }
+    ]
+}

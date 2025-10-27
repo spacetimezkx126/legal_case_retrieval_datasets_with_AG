@@ -1,0 +1,31 @@
+{
+    "Case ID": "003396",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "adequate reasons",
+                "addressing credibility concerns",
+                "allowing responses to inconsistencies"
+            ],
+            "evidence_assessment": [
+                "use of extrinsic evidence",
+                "reasonable assessment"
+            ],
+            "decision_reasoning": [
+                "officer addressed credibility issues",
+                "allowed responses",
+                "no improper judicial notice"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "original decision upheld"
+            ]
+        }
+    ]
+}

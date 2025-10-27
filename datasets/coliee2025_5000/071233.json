@@ -1,0 +1,86 @@
+{
+    "Case ID": "071233",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "credibility_assessment": [
+                "discrepancies in testimonies",
+                "prior immigration frauds",
+                "questionable motives",
+                "inconsistent statements"
+            ],
+            "decision_outcome": [
+                "marriage not genuine",
+                "entered into for immigration purposes",
+                "visa denial",
+                "judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspected marriage fraud"
+            ],
+            "procedural_fairness": [
+                "judicial review application challenging the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine"
+            ],
+            "applicable_statute": [
+                "s. 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_provided": [
+                "discrepancies in testimonies",
+                "prior immigration frauds",
+                "lack of credible evidence",
+                "affair with Sonia Quintela"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division",
+                "Court"
+            ],
+            "decision_outcome": [
+                "marriage aimed at acquiring immigration status",
+                "judicial review application dismissed"
+            ],
+            "cause_of_action": [
+                "visa denial due to suspected fraudulent marriage"
+            ],
+            "procedural_fairness": [
+                "credibility assessments"
+            ]
+        },
+        {
+            "Crime Name": "Providing False or Misleading Information",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimonies",
+                "admissions suggesting sham marriage"
+            ],
+            "evidence_sufficiency": [
+                "prior fraudulent immigration attempts"
+            ],
+            "immigration_status": [
+                "visa denial due to suspicions of sham marriage"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "judicial review of the Board's decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "s. 4 of the Immigration and Refugee Protection Regulations"
+            ]
+        }
+    ]
+}

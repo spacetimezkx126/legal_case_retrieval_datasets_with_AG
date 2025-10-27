@@ -1,0 +1,108 @@
+{
+    "Case ID": "049283",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Sections 96, 97 of IRPA"
+            ],
+            "exclusion_reason": [
+                "Section 97(1)(b)(iv) excludes risks caused by inadequate health care"
+            ],
+            "charter_rights": [
+                "Section 7 of the Charter grants rights to life, liberty, and security"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review of the Officer's decision under IRPA"
+            ],
+            "health_grounds_inadmissibility": [
+                "Risk due to lack of access to medical care is excluded under IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 97(1)(b)(iv)"
+            ],
+            "decision_outcome": [
+                "Application dismissed; Officer's decision upheld."
+            ],
+            "exclusion_reason": [
+                "Inadequate medical facilities excluded under IRPA."
+            ],
+            "judicial_authority": [
+                "Judicial review analyzed Officer's decision."
+            ],
+            "risk_characterization": [
+                "Risks caused by a country's inability to provide adequate health care."
+            ],
+            "material_misrepresentation": [
+                "Claim of never returning to India."
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 97(1)(b)(iv)"
+            ],
+            "exclusion_reason": [
+                "inadequate medical facilities"
+            ],
+            "charter_rights_violation": [
+                "lack of jurisdiction for Charter arguments"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "reasoning_given": [
+                "Officer correctly applied IRPA and lacked jurisdiction to consider Charter arguments"
+            ],
+            "refugee_status_claim": [
+                "rejected"
+            ]
+        },
+        {
+            "Crime Name": "Conviction in India",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Sections 96, 97 of IRPA",
+                "Section 97(1)(b)(iv)",
+                "Section 7 of the Charter"
+            ],
+            "decision_reasoning": [
+                "medical care exists in India",
+                "PRRA officers lack jurisdiction to decide constitutional questions"
+            ],
+            "applicable_regulations": [
+                "IRPA",
+                "Charter"
+            ],
+            "charter_rights": [
+                "life, liberty, and security of person"
+            ],
+            "risk_of_persecution": [
+                "inadequate medical care"
+            ],
+            "jurisdictional_issues": [
+                "Officer's jurisdiction to grant a constitutional exemption"
+            ],
+            "application_details": [
+                "Female Applicant cannot afford dialysis in India"
+            ],
+            "conclusion_outcome": [
+                "Risks due to inability to access healthcare are excluded under IRPA",
+                "PRRA officers do not have jurisdiction to consider Charter arguments"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "Officer's decision upheld"
+            ]
+        }
+    ]
+}

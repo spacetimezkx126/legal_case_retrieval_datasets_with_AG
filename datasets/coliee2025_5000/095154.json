@@ -1,0 +1,41 @@
+{
+    "Case ID": "095154",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in an organization engaging in subversion by force.",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Kurdistan Workers' Party (PKK)"
+            ],
+            "inadmissibility_criteria": [
+                "s. 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "applicable_law_section": [
+                "IRPA s. 34(1)(f)"
+            ],
+            "involvement_details": [
+                "assisting the PKK",
+                "propaganda",
+                "guerrilla attacks"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "Suleyman admitted assisting the PKK"
+            ],
+            "reasoning_given": [
+                "reasonable grounds to believe the PKK engaged in subversive activities"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_to_national_security": [
+                "implied due to subversive activities"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "000054",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "consideration_of_grounds",
+                "denial_of_application"
+            ],
+            "procedural_fairness": [
+                "officer_conducted_interview",
+                "helped_complete_forms",
+                "reviewed_documents",
+                "explained_procedures"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "standard_of_review": [
+                "judicial_review_ensured_fairness"
+            ],
+            "evidence_assessment": [
+                "no_new_information_post_decision"
+            ]
+        }
+    ]
+}

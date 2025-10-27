@@ -1,0 +1,62 @@
+{
+    "Case ID": "019782",
+    "Different Crime": [
+        {
+            "Crime Name": "Theft over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "burglary",
+                "grand theft"
+            ],
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Decision quashed"
+            ],
+            "evidence_provided": [
+                "police reports",
+                "charges"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "nature_of_offense": [
+                "burglary",
+                "theft"
+            ],
+            "mitigating_factors": [
+                "lack of clarity on intent and value of stolen items"
+            ],
+            "appeal_outcome": [
+                "Decision overturned",
+                "case remanded for further consideration"
+            ]
+        },
+        {
+            "Crime Name": "Burglary of a Dwelling",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "decision_reasoning": [
+                "unreasonable due to lack of clear evidence"
+            ],
+            "evidence_assessment": [
+                "police reports and charges",
+                "conflicting evidence about intent and value of stolen items"
+            ],
+            "risk_of_persecution": [],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "Decision quashed; matter returned for reconsideration by a different board."
+            ]
+        }
+    ]
+}

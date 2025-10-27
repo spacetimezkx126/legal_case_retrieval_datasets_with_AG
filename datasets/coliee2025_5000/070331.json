@@ -1,0 +1,87 @@
+{
+    "Case ID": "070331",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under IRPA paragraph 34(1)(b)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA paragraph 34(1)(b)",
+                "IRPA paragraph 34(1)(f)"
+            ],
+            "credibility_assessment": [
+                "limited involvement contradicted earlier statements",
+                "credible evidence of membership and support for subversive activities"
+            ],
+            "criminality_inadmissibility": [
+                "involvement with a subversive organization",
+                "membership in FMLN during its subversive phase"
+            ],
+            "standard_of_review": [
+                "reasonableness standard applied"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no question certified"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in subversive activities",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "FMLN"
+            ],
+            "involvement_details": [
+                "joined at 14",
+                "passed weapons twice",
+                "obtained membership card",
+                "remained active until age 22"
+            ],
+            "evidence_credibility": [
+                "awareness of FMLN’s subversive acts",
+                "applicant's admission of past involvement"
+            ],
+            "reasonableness_of_decision": [
+                "Judicial review assessed Immigration Division's decision based on evidence and credibility analysis"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "no question certified",
+                "applicant remains inadmissible"
+            ],
+            "applicable_law_section": [
+                "paragraph 34(1)(f)"
+            ],
+            "inadmissibility_criteria": [
+                "membership in a subversive organization"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility under IRPA paragraph 34(1)(f)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA paragraph 34(1)(f)"
+            ],
+            "credibility_findings": [
+                "Applicant initially admitted involvement but later retracted"
+            ],
+            "decision_reasoning": [
+                "Panel's decision was reasonable and supported by evidence"
+            ],
+            "application_details": [
+                "Applicant involved with FMLN from age 14 to 22, aware of subversive activities"
+            ],
+            "conclusion_outcome": [
+                "Application dismissed; no question certified"
+            ],
+            "cause_of_action": [
+                "Applicant's involvement with the FMLN and subsequent claim for refugee protection in Canada"
+            ],
+            "procedure_followed": [
+                "Judicial review of Immigration Division's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "Case ID": "053391",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility",
+                "state protection",
+                "IFA assessments"
+            ],
+            "state_protection": [
+                "Presumption rebuttal",
+                "Severity of threats"
+            ],
+            "internal_flight_alternative": [
+                "Persecutors' reach",
+                "Safety concerns"
+            ],
+            "evidence_provided": [
+                "Country conditions",
+                "Threat severity"
+            ],
+            "appeal_outcome": [
+                "Allowed"
+            ],
+            "nexus_to_convention_grounds": [
+                "Threats from officials and political groups"
+            ],
+            "procedural_fairness": [
+                "Judicial review using reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Overturned",
+                "Remanded for rehearing"
+            ]
+        },
+        {
+            "Crime Name": "Criminal Intimidation",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "misinterpreting payment details",
+                "dismissing expanded persecution fears without evidence"
+            ],
+            "state_protection_analysis": [],
+            "internal_flight_alternative": [
+                "ignoring country conditions and applicant's specific threats"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s analysis unreasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "persecution by political entities and local authorities"
+            ]
+        },
+        {
+            "Crime Name": "Break and enter",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "misinterpreting payment amounts",
+                "dismissing expanded persecution claims",
+                "misunderstanding safety concerns"
+            ],
+            "state_protection": [
+                "state protection assessment"
+            ],
+            "internal_flight_alternative": [
+                "IFA analysis",
+                "ignored evidence of the claimant being located after relocation"
+            ],
+            "decision_reasoning": [
+                "unreasonable findings"
+            ],
+            "application_details": [
+                "refugee status due to persecution by Mexican officials and political groups"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Board's decision under IRPA"
+            ],
+            "result_of_case": [
+                "Board's decision was overturned",
+                "case remanded for rehearing"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is allowed"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in persons with official involvement",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "Board misinterpreted facts about payments, persecutors, and follow-up actions"
+            ],
+            "state_protection": [
+                "Claimants must rebut the presumption of state protection",
+                "It failed to consider country conditions and the severity of threats"
+            ],
+            "internal_flight_alternative": [
+                "The IFA analysis ignored evidence of the applicant being located after relocation"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "judicial_review_process": [
+                "Judicial review analyzed the Board's decision under IRPA sections 96 and 97"
+            ]
+        }
+    ]
+}

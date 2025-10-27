@@ -1,0 +1,67 @@
+{
+    "Case ID": "067786",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with conditions of stay",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 197 of the IRPA",
+                "Sections 64 and 68(4)"
+            ],
+            "criminality_inadmissibility": [
+                "serious criminality conviction",
+                "crimes punished by at least two years imprisonment"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "certified question regarding applicability of Section 197"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IAD decision",
+                "analysis focused on statutory interpretation of IRPA provisions"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "Section 197",
+                "Section 64",
+                "Section 68(4)"
+            ],
+            "applicable_regulations": [
+                "stay conditions",
+                "serious criminality"
+            ],
+            "decision_reasoning": [
+                "breach of stay conditions",
+                "prior convictions",
+                "sentences exceeding two years"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "application_details": [
+                "applicant breached stay conditions",
+                "post-stay offenses not meeting thresholds"
+            ],
+            "conclusion_outcome": [
+                "Section 197 discontinues appeal rights",
+                "judicial review application dismissed"
+            ],
+            "cause_of_action": [
+                "breach of stay conditions",
+                "removal order reconsideration"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "statutory interpretation",
+                "Supreme Court precedents"
+            ],
+            "result_of_case": [
+                "Court upheld IAD decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "091900",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "patent validity",
+                "infringement"
+            ],
+            "procedural_fairness": [
+                "objections",
+                "potential prejudice"
+            ],
+            "application_details": [
+                "impeachment action",
+                "infringement action"
+            ],
+            "decision_reasoning": [
+                "reducing the need for consolidation"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "pretrial conference ordered"
+            ],
+            "relevant_statute": [
+                "Federal Court Rules (Rules 1714, 1715, 1716)",
+                "Section 50 of the Federal Court Act"
+            ]
+        }
+    ]
+}

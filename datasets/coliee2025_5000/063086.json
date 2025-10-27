@@ -1,0 +1,33 @@
+{
+    "Case ID": "063086",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid"
+            ],
+            "infringement_analysis": [
+                "lack of sound prediction",
+                "obviousness"
+            ],
+            "relevant_rule": [
+                "utility through tests or sound prediction",
+                "obviousness determination"
+            ],
+            "evidence_presented": [
+                "incomplete clinical data",
+                "prior art publications"
+            ],
+            "decision_reasoning": [
+                "failed to disclose efficacy",
+                "sildenafil's potential known",
+                "obvious to try"
+            ],
+            "result_of_case": [
+                "Patent invalidated",
+                "generic drug approval dismissal"
+            ]
+        }
+    ]
+}

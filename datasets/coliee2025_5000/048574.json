@@ -1,0 +1,38 @@
+{
+    "Case ID": "048574",
+    "Different Crime": [
+        {
+            "Crime Name": "Revocation of public service appointment due to fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Public Service Employment Act",
+                "section 69"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "applicable_statute": [
+                "Public Service Employment Act"
+            ],
+            "party_involved": [
+                "Public Service Commission (PSC)"
+            ],
+            "claim_nature": [
+                "fraudulent appointment"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "material_misrepresentation": [
+                "false education credentials"
+            ],
+            "standard_of_review": [
+                "functus officio",
+                "promissory estoppel"
+            ]
+        }
+    ]
+}

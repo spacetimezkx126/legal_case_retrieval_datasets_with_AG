@@ -1,0 +1,41 @@
+{
+    "Case ID": "077339",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "insufficient evidence of utility",
+                "sound prediction"
+            ],
+            "evidence_presented": [
+                "expert testimonies"
+            ],
+            "relevant_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "decision_reasoning": [
+                "Pfizer failed to provide sufficient evidence"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no prohibition order issued"
+            ],
+            "cause_of_action": [
+                "allegations of patent invalidity"
+            ],
+            "procedure_followed": [
+                "analyzed burdens of proof, patent claims, legal requirements for utility"
+            ],
+            "dispute_focus": [
+                "utility and sound prediction of the patent"
+            ],
+            "court_ruling": [
+                "denied Pfizer's application"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "066227",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related offenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to disclose significant new developments",
+                "relying on questionable legal precedent"
+            ],
+            "evidence_assessment": [
+                "reliance on undisclosed BBC articles",
+                "use of UK tribunal decision later deemed invalid"
+            ],
+            "decision_outcome": [
+                "applications for judicial review allowed",
+                "matters referred back for redetermination"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "consideration of volatile war conditions in Sri Lanka"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural fairness and evidence consideration"
+            ]
+        }
+    ]
+}

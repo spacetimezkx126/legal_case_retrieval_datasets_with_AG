@@ -1,0 +1,30 @@
+{
+    "Case ID": "065290",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "unpatentable"
+            ],
+            "specific_rule_applied": [
+                "Methods of medical treatment are not patentable in Canada"
+            ],
+            "evidence_presented": [
+                "physicians use professional judgment when prescribing"
+            ],
+            "decision_reasoning": [
+                "the '950 Patent claims a specific dosing regimen for galantamine"
+            ],
+            "application_details": [
+                "Janssen sought to prevent Mylan from obtaining approval for a generic version of Reminyl"
+            ],
+            "procedure_followed": [
+                "Court analyzed whether the '950 Patent constitutes a method of medical treatment based on expert testimonies and legal precedents"
+            ],
+            "result_of_case": [
+                "The application was dismissed, allowing Mylan to proceed without violating the '950 Patent"
+            ]
+        }
+    ]
+}

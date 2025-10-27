@@ -1,0 +1,30 @@
+{
+    "Case ID": "090041",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cost_awards": [
+                "solicitor-client basis"
+            ],
+            "rule_applied": [
+                "Rule 344(1)",
+                "Rule 344(3)(m)(i)"
+            ],
+            "procedure_followed": [
+                "judicial review of motions",
+                "evaluation of necessity and justification"
+            ],
+            "discretion_exercise": [
+                "court's full discretion over costs"
+            ],
+            "result_of_case": [
+                "plaintiffs granted costs",
+                "formal judgment issued"
+            ],
+            "cause_of_action": [
+                "defendant's unnecessary and unjustified motions"
+            ]
+        }
+    ]
+}

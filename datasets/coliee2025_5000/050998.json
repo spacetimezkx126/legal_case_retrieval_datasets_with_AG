@@ -1,0 +1,31 @@
+{
+    "Case ID": "050998",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "shortfall of 590 days",
+                "establish residency in Canada"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded to the Minister for reconsideration"
+            ],
+            "legal_basis": [
+                "section 5(1)(c) of the Citizenship Act",
+                "sections 22.1 and 22.2 of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "physical presence test",
+                "strong ties to Canada through family and community involvement"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "material_misrepresentation": [
+                "significant shortfall in required physical presence days"
+            ]
+        }
+    ]
+}

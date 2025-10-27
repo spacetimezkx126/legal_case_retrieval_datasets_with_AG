@@ -1,0 +1,136 @@
+{
+    "Case ID": "075801",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "compelling reasons exception",
+                "past persecution"
+            ],
+            "credibility_assessment": [
+                "persecution credible"
+            ],
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "psychological effects",
+                "individual circumstances"
+            ],
+            "standard_of_review": [
+                "Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Denial of refugee status",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "compelling_reasons_exception": [
+                "not applicable",
+                "past persecution",
+                "atrocious",
+                "appalling"
+            ],
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "granted",
+                "referred back to the Board"
+            ],
+            "risk_of_persecution": [
+                "political persecution"
+            ],
+            "country_conditions": [
+                "Tanzania",
+                "changed country conditions"
+            ],
+            "standard_of_proof": [
+                "narrow interpretation",
+                "correct legal standards"
+            ],
+            "burden_of_proof": [
+                "misapplication"
+            ]
+        },
+        {
+            "Crime Name": "Beating with canes",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "credible suffering"
+            ],
+            "psychological_impact": [
+                "psychological impact",
+                "ongoing fear"
+            ],
+            "risk_of_persecution": [
+                "political persecution"
+            ],
+            "membership_in_organization": [
+                "CUF involvement"
+            ],
+            "reasonableness_of_decision": [
+                "error in applying the 'compelling reasons' exception"
+            ]
+        },
+        {
+            "Crime Name": "Confiscation of goods",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "Board's misinterpretation of 'compelling reasons' exception"
+            ],
+            "risk_of_persecution": [
+                "political persecution in Tanzania"
+            ],
+            "application_details": [
+                "suffered confiscation of goods, beatings, and arrests"
+            ],
+            "standard_of_review": [
+                "judicial review of the Board's decision"
+            ],
+            "conclusion_outcome": [
+                "case remanded for reconsideration"
+            ],
+            "result_of_case": [
+                "application for judicial review granted; case referred back to the Board"
+            ]
+        },
+        {
+            "Crime Name": "Denial of access to schooling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "compelling_reasons": [
+                "past persecution",
+                "psychological impact",
+                "ongoing fear"
+            ],
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_review_process": [
+                "review of the Board's decision"
+            ],
+            "reasonableness_of_decision": [
+                "incorrect application of 'compelling reasons' exception"
+            ],
+            "persecution_grounds": [
+                "political activities"
+            ],
+            "decision_outcome": [
+                "case remanded to the Board for reassessment"
+            ]
+        }
+    ]
+}

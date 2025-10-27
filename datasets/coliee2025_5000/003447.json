@@ -1,0 +1,28 @@
+{
+    "Case ID": "003447",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules (1998) Rule 397",
+                "Rule 21"
+            ],
+            "decision_reasoning": [
+                "motion to reconsider is dismissed as it does not meet the criteria under applicable rules",
+                "Court lacks jurisdiction to extend time limits retroactively"
+            ],
+            "procedure_followed": [
+                "Motion to reconsider the April 29, 2003 order dismissing the application for judicial review due to lack of a timely record"
+            ],
+            "result_of_case": [
+                "Motion dismissed",
+                "applicant cannot proceed with judicial review due to procedural errors"
+            ],
+            "cause_of_action": [
+                "Late filing of the application record",
+                "failure to request an extension of time"
+            ]
+        }
+    ]
+}

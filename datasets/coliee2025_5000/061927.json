@@ -1,0 +1,30 @@
+{
+    "Case ID": "061927",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over taxation of expropriation compensation."
+            ],
+            "relevant_statute": [
+                "Income Tax Act",
+                "Expropriation Act"
+            ],
+            "evidence_consideration": [
+                "compensation awarded",
+                "settlement reached"
+            ],
+            "application_of_law": [
+                "profits from property acquired for trade are taxed as business income",
+                "ordinary interest is taxed separately"
+            ],
+            "decision_reasoning": [
+                "The $181,319 in ordinary interest is taxed as interest; the remaining $491,287 is taxed as business income."
+            ],
+            "result_of_case": [
+                "Partial success for plaintiff; ordinary interest taxed separately, rest as business income."
+            ]
+        }
+    ]
+}

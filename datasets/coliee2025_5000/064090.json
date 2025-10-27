@@ -1,0 +1,53 @@
+{
+    "Case ID": "064090",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with a removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient evidence of undue hardship"
+            ],
+            "procedural_fairness": [
+                "reasonableness standard requiring justification, transparency, and intelligibility"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "remained in Canada illegally"
+            ],
+            "misrepresentation_or_fraud": [
+                "failed to comply with a removal order"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in judicial proceedings",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "insufficient evidence of hardship",
+                "disregard for immigration laws"
+            ],
+            "reasonableness_standard": [
+                "justification, transparency, and intelligibility"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed the Officer's decision under the standard of reasonableness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "cause_of_action": [
+                " Applicant's second humanitarian and compassionate grounds application was denied"
+            ],
+            "mitigating_factors": [
+                "lack of clean hands"
+            ]
+        }
+    ]
+}

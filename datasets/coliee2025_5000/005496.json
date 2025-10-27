@@ -1,0 +1,74 @@
+{
+    "Case ID": "005496",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of employment activities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "assessed on correctness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "based on evidence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Prisoner accepted a job violating his parole condition"
+            ]
+        },
+        {
+            "Crime Name": "Deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "decision_outcome": [
+                "parole revocation"
+            ],
+            "procedural_fairness": [
+                "proper consideration of conditions",
+                "no procedural unfairness"
+            ],
+            "evidence_provided": [
+                "sufficient evidence"
+            ],
+            "standard_of_review": [
+                "reasonable",
+                "reliable evidence",
+                "adequate reasons"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with recognizance",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "Board's decision reasonable and lawful"
+            ],
+            "evidence_assessment": [
+                "based on evidence and past behavior"
+            ],
+            "cause_of_action": [
+                "parole revoked for breaching employment condition"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed National Parole Board's decision under reasonableness standard; procedural fairness examined"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the revocation decision as reasonable"
+            ]
+        }
+    ]
+}

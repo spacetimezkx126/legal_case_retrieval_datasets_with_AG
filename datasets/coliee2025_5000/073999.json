@@ -1,0 +1,27 @@
+{
+    "Case ID": "073999",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Officer's failure to disclose reliance on a public document affecting decision-making"
+            ],
+            "evidentiary_standard": [
+                "reliance on a BBC News article indicating improved conditions in Sri Lanka"
+            ],
+            "judicial_review_process": [
+                "Judicial review application under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application granted; case remanded to a new Officer for reconsideration"
+            ],
+            "burden_of_proof": [
+                "undisclosed reliance significantly impacted the decision, discounting the Applicant's evidence"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "017668",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rule 324",
+                "Rule 440"
+            ],
+            "evidence_assessment": [
+                "health issues",
+                "medical documentation"
+            ],
+            "decision_reasoning": [
+                "straightforward motion",
+                "delays and prejudice to the defendant"
+            ],
+            "application_details": [
+                "request for oral hearing",
+                "motion to be dealt with in writing"
+            ],
+            "result_of_case": [
+                "request for oral hearing denied",
+                "proceed in writing"
+            ],
+            "cause_of_action": [
+                "defendant moved to dismiss appeal due to delay"
+            ]
+        }
+    ]
+}

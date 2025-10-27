@@ -1,0 +1,33 @@
+{
+    "Case ID": "045069",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with a Court Order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ITA s 231.7",
+                "Federal Courts Rules 466"
+            ],
+            "evidence_assessment": [
+                "intentional non-compliance despite knowledge of the orders"
+            ],
+            "decision_reasoning": [
+                "disobeying a court order",
+                "proof beyond a reasonable doubt"
+            ],
+            "result_of_case": [
+                "fined $3,000",
+                "ordered to pay $7,000 in costs",
+                "must provide documents or explain absence within 30 days or face imprisonment"
+            ],
+            "cause_of_action": [
+                "Respondent's refusal to comply with CRA audit requests and court orders"
+            ],
+            "procedure_followed": [
+                "Court reviewed evidence",
+                "applied contempt rules",
+                "determined guilt based on non-compliance"
+            ]
+        }
+    ]
+}

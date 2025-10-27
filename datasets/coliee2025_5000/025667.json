@@ -1,0 +1,94 @@
+{
+    "Case ID": "025667",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation on immigration forms",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 9 of the Citizenship Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "false representation",
+                "knowingly concealing material circumstances"
+            ],
+            "evidence_assessment": [
+                "failed to disclose wartime activities",
+                "membership in NSB/WA/Landwacht",
+                "Dutch conviction for aiding the enemy",
+                "deliberately concealed facts on applications"
+            ],
+            "decision_outcome": [
+                "citizenship revocation"
+            ],
+            "procedural_fairness": [
+                "Secretary of State initiated proceedings",
+                "Federal Court reviewed evidence"
+            ]
+        },
+        {
+            "Crime Name": "Knowingly concealing material circumstances",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 9 of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "revoking his Canadian citizenship"
+            ],
+            "evidence_provided": [
+                "historical context",
+                "expert testimonies",
+                "personal accounts"
+            ],
+            "material_misrepresentation": [
+                "concealed his involvement with NSB, WA, and Landwacht",
+                "conviction in the Netherlands",
+                "provided misleading information on immigration forms and during his citizenship application"
+            ],
+            "applicable_statute": [
+                "Citizenship Act"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose criminal conviction",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 9 of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "Luitjens concealed his membership in Nazi organizations and a criminal conviction in the Netherlands"
+            ],
+            "decision_reasoning": [
+                "Luitjens obtained citizenship through false representation or knowingly concealing material circumstances"
+            ],
+            "procedure_followed": [
+                "The case was referred to the Federal Court under Section 9 of the Citizenship Act. The court reviewed evidence, including Luitjens' testimony and historical documents."
+            ],
+            "result_of_case": [
+                "Jacob Luitjens' Canadian citizenship was revoked due to false representation and concealment of material information."
+            ]
+        },
+        {
+            "Crime Name": "War crimes",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Section 9 of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "concealed membership in Nazi organizations",
+                "criminal conviction in the Netherlands",
+                "involvement in wartime activities aiding the enemy",
+                "lied on immigration forms"
+            ],
+            "procedural_fairness": [
+                "The Secretary of State initiated proceedings under the Citizenship Act",
+                "court reviewed evidence"
+            ],
+            "complicity_in_crimes": [
+                "involvement in Nazi organizations and war crimes"
+            ],
+            "decision_outcome": [
+                "Canadian citizenship was revoked"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "Case ID": "042311",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s-s. 79(2)",
+                "IRPA s. 80"
+            ],
+            "procedural_fairness": [
+                "procedural fairness"
+            ],
+            "risk_assessment": [
+                "significant danger to Canada's security",
+                "risk of torture if returned to Egypt"
+            ],
+            "decision_outcome": [
+                "lawful",
+                "denying protection"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "security threat"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "risk of torture"
+            ]
+        },
+        {
+            "Crime Name": "Being a Member of a Terrorist Group",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s-s. 79(2)",
+                "s. 80"
+            ],
+            "procedural_fairness": [
+                "procedural fairness"
+            ],
+            "risk_assessment": [
+                "national security risks",
+                "risk of torture in Egypt"
+            ],
+            "evidence_consideration": [
+                "past activities",
+                "travel patterns",
+                "connections to Al-Jihad"
+            ],
+            "balance_of_convenience": [
+                "balancing test weighed this danger against the risk of torture in Egypt"
+            ],
+            "serious_issue": [
+                "Is the decision to deny Mr. Jaballah's application for protection lawful under IRPA?"
+            ],
+            "criminal_history": [
+                "associations with terrorist groups"
+            ],
+            "security_certificate": [
+                "perceived national security risks"
+            ],
+            "standard_of_proof": [
+                "not patently unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Threatening the Security of Canada",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s-s. 79(2)",
+                "IRPA s. 80"
+            ],
+            "risk_to_national_security": [
+                "alleged ties with terrorist organizations",
+                "deemed a danger to Canada's security"
+            ],
+            "balance_of_interests": [
+                "balancing national security threats against risks to the individual if deported",
+                "concluding national security outweighs personal risk"
+            ],
+            "decision_outcome": [
+                "denied protection",
+                "upheld the decision as lawful under IRPA"
+            ],
+            "judicial_review_result": [
+                "found the decision lawful",
+                "reasonably assessed evidence and balanced competing interests without being patently unreasonable"
+            ],
+            "involvement_details": [
+                "alleged involvement with terrorist groups"
+            ]
+        },
+        {
+            "Crime Name": "Threatening the Security of Canada",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s-s. 79(2)",
+                "s. 80"
+            ],
+            "national_security_concerns": [
+                "alleged ties with terrorist organizations",
+                "danger to Canada's security"
+            ],
+            "decision_outcome": [
+                "lawful",
+                "upheld"
+            ],
+            "procedural_fairness": [
+                "delegate reviewed evidence",
+                "judicial review"
+            ],
+            "risk_analysis": [
+                "balance between national security and personal risk",
+                "risk of torture in Egypt"
+            ],
+            "burden_of_proof": [
+                "reasonably assessed evidence"
+            ]
+        },
+        {
+            "Crime Name": "Being a Member of a Terrorist Group",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s-s. 79(2)",
+                "s. 80"
+            ],
+            "procedural_fairness": [
+                "procedural fairness was followed"
+            ],
+            "risk_assessment": [
+                "national security risks",
+                "danger to Canada",
+                "connections to Al-Jihad"
+            ],
+            "evidence_considered": [
+                "past activities",
+                "travel patterns",
+                "associations with terrorist groups"
+            ],
+            "decision_outcome": [
+                "denial of protection application"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "security_concerns": [
+                "poses a danger to Canada"
+            ],
+            "court_ruling": [
+                "lawful decision"
+            ],
+            "criminal_history": [
+                "associations with terrorist groups"
+            ],
+            "appeal_process": [
+                "multiple judicial reviews",
+                "appeals"
+            ]
+        }
+    ]
+}

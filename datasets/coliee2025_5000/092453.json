@@ -1,0 +1,31 @@
+{
+    "Case ID": "092453",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud (Potential Misrepresentation of Sexual Orientation)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in testimony",
+                "lack of supporting evidence"
+            ],
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution",
+                "sexual orientation"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Convention refugee criteria"
+            ],
+            "misrepresentation_or_fraud": [
+                "potential misrepresentation of sexual orientation"
+            ]
+        }
+    ]
+}

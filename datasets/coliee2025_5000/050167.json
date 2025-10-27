@@ -1,0 +1,55 @@
+{
+    "Case ID": "050167",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trademarks Act s. 19",
+                "Trademarks Act s. 20",
+                "Trademarks Act s. 22"
+            ],
+            "confusion_likelihood": [
+                "yes"
+            ],
+            "use_in_trade": [
+                "yes"
+            ],
+            "distinctiveness_evaluation": [
+                "yes"
+            ],
+            "legal_basis": [
+                "s. 20 Trademarks Act"
+            ],
+            "decision_outcome": [
+                "infringement under s. 20",
+                "no infringement under s. 19 and s. 22"
+            ],
+            "party_involved": [
+                "Tommy Hilfiger",
+                "Quality Goods",
+                "Harold Rosen"
+            ],
+            "claim_nature": [
+                "trademark infringement",
+                "passing-off"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "evidence_provided": [
+                "logo comparison",
+                "product confusion"
+            ],
+            "appeal_outcome": [
+                "deferred for further resolution"
+            ],
+            "cause_of_action": [
+                "trademark infringement"
+            ],
+            "nature_of_offense": [
+                "unauthorized use of trademark"
+            ]
+        }
+    ]
+}

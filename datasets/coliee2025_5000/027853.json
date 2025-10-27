@@ -1,0 +1,57 @@
+{
+    "Case ID": "027853",
+    "Different Crime": [
+        {
+            "Crime Name": "False documents for immigration purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Officer's duty to provide opportunity to address document authenticity concerns"
+            ],
+            "document_authenticity": [
+                "Employment letters deemed fabricated due to inconsistencies"
+            ],
+            "misrepresentation_or_fraud": [
+                "Allegedly fabricated documents to meet work experience requirements"
+            ],
+            "decision_outcome": [
+                "Court upheld the Officer's decision; application for judicial review dismissed"
+            ],
+            "regulatory_compliance": [
+                "Concerns stemming from legislative or regulatory requirements"
+            ],
+            "standard_of_review": [
+                "Reasonableness of Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Work Experience Fraud Representation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "notified of concerns",
+                "opportunity to respond",
+                "reasonably assessed"
+            ],
+            "evidence_provided": [
+                "letters claiming work experience",
+                "fabricated evidence",
+                "inconsistencies"
+            ],
+            "decision_outcome": [
+                "application denied",
+                "judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "material_misrepresentation": [
+                "fabricated work experience letters"
+            ],
+            "balance_of_convenience": [
+                "credibility concerns outweighed applicant's arguments"
+            ],
+            "irreparable_harm": [
+                "none identified in procedural fairness context"
+            ]
+        }
+    ]
+}

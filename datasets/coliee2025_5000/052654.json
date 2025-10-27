@@ -1,0 +1,29 @@
+{
+    "Case ID": "052654",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "rules of natural justice",
+                "hearing all relevant evidence",
+                "providing reasoned decisions"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "irrelevant documents",
+                "already considered"
+            ],
+            "decision_outcome": [
+                "appeal dismissed"
+            ],
+            "identity_verification": [
+                "insufficient proof of residency"
+            ],
+            "standard_of_review": [
+                "breach of natural justice rules",
+                "unsupported credibility findings"
+            ]
+        }
+    ]
+}

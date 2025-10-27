@@ -1,0 +1,33 @@
+{
+    "Case ID": "023842",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "lack of adequate state protection"
+            ],
+            "risk_of_persecution": [
+                "indirect persecution",
+                "well-founded fear of persecution"
+            ],
+            "documentary_evidence": [
+                "Police reports"
+            ],
+            "specific_group_membership": [
+                "Roma ethnicity"
+            ],
+            "evidence_assessment": [
+                "subjective feelings alone are insufficient; objective evidence is required"
+            ],
+            "decision_outcome": [
+                "The Federal Court allowed the judicial review",
+                "The Board's decision was quashed"
+            ],
+            "review_standard": [
+                "Judicial review before the Federal Court of Canada, Trial Division"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "Case ID": "047883",
+    "Different Crime": [
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 11(h) of the Canadian Charter of Rights and Freedoms",
+                "RCMP Act",
+                "section 25(o)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "double jeopardy",
+                "bias"
+            ],
+            "applicable_statute": [
+                "Canadian Charter of Rights and Freedoms",
+                "RCMP Act"
+            ],
+            "party_involved": [
+                "applicant",
+                "RCMP"
+            ],
+            "claim_nature": [
+                "disciplinary proceedings",
+                "criminal charges"
+            ],
+            "judicial_authority": [
+                "service tribunal",
+                "court"
+            ],
+            "cause_of_action": [
+                "conduct while on leave",
+                "bribery charges"
+            ],
+            "nature_of_offense": [
+                "bribery-related offenses",
+                "scandalous conduct"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 11(h) of the Canadian Charter of Rights and Freedoms",
+                "RCMP Act",
+                "section 25(o)"
+            ],
+            "procedural_fairness": [
+                "Disciplinary proceedings are not public trials"
+            ],
+            "decision_outcome": [
+                "Application for prohibition dismissed"
+            ],
+            "judicial_review_result": [
+                "Court dismissed the application"
+            ],
+            "applicable_law_section": [
+                "Section 11(h)",
+                "RCMP Act section 25(o)"
+            ],
+            "reasoning_given": [
+                "Offenses differ in nature - criminal vs disciplinary",
+                "Double jeopardy does not apply"
+            ]
+        },
+        {
+            "Crime Name": "Discreditable Conduct",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 11(h) of the Canadian Charter of Rights and Freedoms"
+            ],
+            "cause_of_action": [
+                "acquittals of U.S. and Canadian criminal charges"
+            ],
+            "procedure_followed": [
+                "applicant sought an order prohibiting the service trial"
+            ],
+            "decision_reasoning": [
+                "service charge is a disciplinary matter, not identical to the criminal charges"
+            ],
+            "result_of_case": [
+                "application for prohibition dismissed, allowing the service trial to proceed"
+            ],
+            "relevant_statute": [
+                "RCMP Act"
+            ],
+            "charter_rights": [
+                "prohibits double jeopardy"
+            ]
+        }
+    ]
+}

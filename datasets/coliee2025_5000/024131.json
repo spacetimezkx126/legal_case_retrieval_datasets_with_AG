@@ -1,0 +1,49 @@
+{
+    "Case ID": "024131",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "failed to accurately declare cash",
+                "possessed a stolen credit card"
+            ],
+            "procedural_fairness": [
+                "explanations were dismissed without thorough consideration"
+            ],
+            "decision_outcome": [
+                "cancellation of security clearance was unreasonable",
+                "ordered reconsideration by the Advisory Body"
+            ],
+            "standard_of_review": [
+                "judicial review of the Director General's decision"
+            ],
+            "legal_basis": [
+                "Aeronautics Act",
+                "Canadian Aviation Security Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Failure to accurately declare monetary instruments or currency",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Transportation Security Clearance Program"
+            ],
+            "decision_outcome": [
+                "cancellation of security clearance unreasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed law, facts, and application"
+            ],
+            "evidence_provided": [
+                "incidents at casinos, undeclared cash, possession of stolen credit card"
+            ],
+            "reasonableness_standard": [
+                "cumulative effect of incidents did not sufficiently prove risk"
+            ],
+            "appeal_outcome": [
+                "referred back for reconsideration by Advisory Board"
+            ]
+        }
+    ]
+}

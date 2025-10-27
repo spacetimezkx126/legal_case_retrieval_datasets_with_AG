@@ -1,0 +1,113 @@
+{
+    "Case ID": "048319",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to disclose extrinsic evidence"
+            ],
+            "evidence_provided": [
+                "GTEC chronology chart",
+                "undisclosed extrinsic evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case referred back for redetermination"
+            ],
+            "legal_basis": [
+                "administrative law",
+                "procedural fairness principles"
+            ],
+            "applicable_statute": [
+                "new legislation"
+            ],
+            "cause_of_action": [
+                "denied Minister's permit",
+                "linked to gang activity",
+                "detailed criminal history"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to disclose extrinsic evidence"
+            ],
+            "criminal_history": [
+                "detailed criminal history",
+                "linking to gang activity"
+            ],
+            "evidence_consideration": [
+                "GTEC chronology chart",
+                "new and critical information"
+            ],
+            "legal_basis": [
+                "Administrative law",
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_assessment": [
+                "applicant's involvement in gang activity"
+            ]
+        },
+        {
+            "Crime Name": "Setting a False Fire Alarm",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to disclose extrinsic evidence"
+            ],
+            "evidence_assessment": [
+                "GTEC chronology chart",
+                "new and potentially inaccurate information"
+            ],
+            "decision_reasoning": [
+                "officer relied on undisclosed document",
+                "impacted applicant’s chance to respond"
+            ],
+            "court_ruling": [
+                "Federal Court ruled breach of duty of fairness"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "officer's decision set aside",
+                "reconsideration ordered"
+            ]
+        },
+        {
+            "Crime Name": "Carrying a Concealed Weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to disclose extrinsic evidence"
+            ],
+            "evidence_considered": [
+                "GTEC chronology chart",
+                "criminal history",
+                "link to gang activity"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "officer's decision set aside",
+                "reconsideration ordered"
+            ],
+            "applicable_laws": [
+                "administrative law",
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "administrative law principles"
+            ],
+            "relevant_factors": [
+                "non-disclosure of GTEC chronology",
+                "impact on meaningful participation"
+            ],
+            "court_ruling": [
+                "breach of procedural fairness",
+                "required disclosure of chronology document"
+            ]
+        }
+    ]
+}

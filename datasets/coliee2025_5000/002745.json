@@ -1,0 +1,31 @@
+{
+    "Case ID": "002745",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "nexus_to_convention_grounds": [
+                "Tamil ethnicity",
+                "race"
+            ],
+            "review_standard": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "risk_of_persecution": [
+                "faced persecution"
+            ],
+            "specific_group_membership": [
+                "Sri Lankan Tamil"
+            ],
+            "evidence_assessment": [
+                "RPD's reasoning and evidence"
+            ]
+        }
+    ]
+}

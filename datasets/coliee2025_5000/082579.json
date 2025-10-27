@@ -1,0 +1,75 @@
+{
+    "Case ID": "082579",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "disclosure of information",
+                "national security concerns",
+                "reasonableness of non-disclosure"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "criminality_inadmissibility": [
+                "association with regimes involved in human rights violations"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness of Minister's decision"
+            ],
+            "legal_basis": [
+                "Section 35(2) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Potential breach of national security",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "no breach occurred"
+            ],
+            "applicable_law_section": [
+                "Section 87 of the Immigration and Refugee Protection Act",
+                "Section 72 of the Act"
+            ],
+            "evidence_provided": [
+                "redacted material constituted a small portion of the total evidence (a few paragraphs out of 702 pages)"
+            ],
+            "judicial_review_result": [
+                "application for judicial review dismissed"
+            ],
+            "reasoning_given": [
+                "non-disclosure was reasonable given national security concerns"
+            ],
+            "decision_outcome": [
+                "denying permanent residence due to association with a regime involved in human rights violations"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in acts of an offending government",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "non-disclosure permissible if minimal impact",
+                "applicant given most information",
+                "redacted for national security"
+            ],
+            "national_security_concerns": [
+                "justified non-disclosure",
+                "balancing with procedural fairness"
+            ],
+            "administrative_error": [
+                "no breach identified"
+            ],
+            "judicial_review_process": [
+                "analyzed procedural fairness",
+                "confirmed decision as fair and reasonable"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

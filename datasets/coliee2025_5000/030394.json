@@ -1,0 +1,31 @@
+{
+    "Case ID": "030394",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 8 of the Patented Medicines (Notice of Compliance) Regulations",
+                "negligence"
+            ],
+            "cause_of_action": [
+                "damages from delayed issuance of a Notice of Compliance"
+            ],
+            "specific_rule_applied": [
+                "s. 8 of the Regulations"
+            ],
+            "decision_reasoning": [
+                "no provision exists for third-party claims against the Crown",
+                "liability limited to first and second persons"
+            ],
+            "result_of_case": [
+                "third-party claims struck",
+                "appeal allowed"
+            ],
+            "procedure_followed": [
+                "Prothonotary initially refused to strike",
+                "Federal Court reviewed de novo"
+            ]
+        }
+    ]
+}

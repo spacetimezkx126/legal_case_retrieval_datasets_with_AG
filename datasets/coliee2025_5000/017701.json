@@ -1,0 +1,73 @@
+{
+    "Case ID": "017701",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "state_protection_analysis": [
+                "failed to rebut the presumption of state protection"
+            ],
+            "evidence_assessment": [
+                "clear evidence of incompetence",
+                "credible evidence or written proof"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed",
+                "refugee claim was denied"
+            ],
+            "legal_basis": [
+                "denial of justice based on counsel's incompetence",
+                "presumption of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Abuse",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "denial of justice",
+                "presumption of state protection"
+            ],
+            "credibility_findings": [
+                "failed to provide credible evidence"
+            ],
+            "state_protection_analysis": [
+                "reasonableness standard",
+                "inability to seek protection"
+            ],
+            "procedural_fairness": [
+                "lawyer's competence analyzed"
+            ],
+            "evidence_consideration": [
+                "lack of written proof"
+            ],
+            "risk_assessment": [
+                "failure to rebut state protection presumption"
+            ]
+        },
+        {
+            "Crime Name": "Threats of Reprisals",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "insufficient evidence"
+            ],
+            "state_protection": [
+                "presumption not rebutted"
+            ],
+            "procedural_fairness": [
+                "lawyer competence analyzed"
+            ],
+            "decision_made_by": [
+                "RPD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ]
+        }
+    ]
+}

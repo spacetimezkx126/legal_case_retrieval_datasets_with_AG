@@ -1,0 +1,32 @@
+{
+    "Case ID": "085920",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination complaint",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "evidentiary_standard": [
+                "insufficient evidence for differential treatment due to age, sex, or disability"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "within acceptable outcomes based on facts and law"
+            ],
+            "legal_basis": [
+                "subparagraph 44(3)(b)(i) of the Canadian Human Rights Act"
+            ],
+            "judicial_review_process": [
+                "judicial review followed, challenging the dismissal"
+            ],
+            "decision_outcome": [
+                "court dismissed the judicial review application, upholding the CHRC's decision"
+            ],
+            "discrimination_grounds": [
+                "harassment",
+                "differential treatment at work"
+            ],
+            "burden_of_proof": [
+                "investigator's report found insufficient evidence"
+            ]
+        }
+    ]
+}

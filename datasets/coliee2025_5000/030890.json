@@ -1,0 +1,62 @@
+{
+    "Case ID": "030890",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies",
+                "lack of evidence",
+                "missing documents",
+                "no corroborating evidence"
+            ],
+            "evidence_assessment": [
+                "lack of evidence linking Feroz Khan to Mr. Borate",
+                "missing documents (e.g., updated address proof)",
+                "no corroborating evidence for claims (e.g., newspaper article)"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "refugee_status_eligibility": [
+                "questioned due to inconsistencies"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "lack of evidence linking Feroz Khan to Mr. Borate",
+                "missing documents",
+                "no corroborating evidence for claims"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "inconsistencies in refugee claim"
+            ],
+            "relationship_genuineness": [
+                "association with Feroz Khan questioned"
+            ],
+            "reasonableness_standard": [
+                "Board's credibility determination"
+            ]
+        }
+    ]
+}

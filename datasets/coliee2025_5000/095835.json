@@ -1,0 +1,53 @@
+{
+    "Case ID": "095835",
+    "Different Crime": [
+        {
+            "Crime Name": "Working without authorization",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA section 48"
+            ],
+            "procedural_fairness": [
+                "reasonableness of Officer’s discretion",
+                "bias claims"
+            ],
+            "immigration_status": [
+                "working without authorization",
+                "removal orders"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "failed to report income"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report income to tax authorities",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 48 of IRPA"
+            ],
+            "decision_outcome": [
+                "removal orders as soon as practicable",
+                "no deferral granted"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed Officer's discretion under IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "nature_of_offense": [
+                "worked without authorization",
+                "failure to report income"
+            ],
+            "irreparable_harm": [
+                "no irreparable harm from removal"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

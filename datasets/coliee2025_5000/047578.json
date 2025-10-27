@@ -1,0 +1,80 @@
+{
+    "Case ID": "047578",
+    "Different Crime": [
+        {
+            "Crime Name": "Escape risk based on investigation into obtaining a fake passport.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "obtaining a fake passport"
+            ],
+            "procedural_fairness": [
+                "Judicial review of grievance process involving multiple levels of appeals and reviews"
+            ],
+            "decision_outcome": [
+                "Court dismissed application, upholding Deputy Commissioner's decision"
+            ],
+            "family_class_considerations": [
+                "unresolved family violence concerns"
+            ],
+            "risk_assessment": [
+                "Escape risk was minor but noted",
+                "past volatility and spousal violence suspicions"
+            ]
+        },
+        {
+            "Crime Name": "Possibility of spousal assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "reasonable assessment of family violence risk"
+            ],
+            "legal_basis": [
+                "CCRA s.3.1",
+                "CD 710-8"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness"
+            ],
+            "past_criminal_convictions": [
+                "unresolved suspicions of past violence"
+            ],
+            "applicant_involvement": [
+                "refusal to engage in recommended programming"
+            ],
+            "reasonableness_of_decision": [
+                "denial was reasonable"
+            ],
+            "humanitarian_concerns": [],
+            "immigration_status": [],
+            "family_ties": []
+        },
+        {
+            "Crime Name": "First-degree murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "CCRA s 3.1",
+                "CD 710-8"
+            ],
+            "decision_reasoning": [
+                "protection of society is paramount",
+                "unaddressed risk factors",
+                "refusal to engage in recommended programming"
+            ],
+            "procedure_followed": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "costs awarded"
+            ],
+            "evidence_presented": [
+                "no current evidence of family violence"
+            ],
+            "decision_made": [
+                "denial of PFV participation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

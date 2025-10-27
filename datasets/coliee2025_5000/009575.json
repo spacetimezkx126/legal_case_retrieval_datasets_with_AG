@@ -1,0 +1,53 @@
+{
+    "Case ID": "009575",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "undermined by previous misrepresentations"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage fraud"
+            ],
+            "decision_outcome": [
+                "Removal order upheld",
+                "stay application denied"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence for irreparable harm",
+                "weak affidavits",
+                "unsubstantiated claims"
+            ],
+            "standard_of_review": [
+                "Judicial review of PRRA decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "irreparable_harm": [
+                "failed to prove irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "favoring the Minister",
+                "public interest"
+            ],
+            "serious_issue": [
+                "no serious issue raised regarding PRRA decision"
+            ],
+            "material_misrepresentation": [
+                "previous misrepresentations",
+                "fabricated stories"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed submissions",
+                "PRRA decision",
+                "past legal proceedings"
+            ],
+            "decision_outcome": [
+                "application for a stay of removal is denied"
+            ]
+        }
+    ]
+}

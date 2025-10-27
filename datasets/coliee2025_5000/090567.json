@@ -1,0 +1,31 @@
+{
+    "Case ID": "090567",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "1,095 days of residence in Canada during the four years preceding the citizenship application"
+            ],
+            "relevant_statute": [
+                "Section 5(1)(c) of the Citizenship Act"
+            ],
+            "evidence_presented": [
+                "physical presence for 691 days",
+                "strong ties to Canada including family, property, and frequent returns"
+            ],
+            "decision_reasoning": [
+                "factual errors",
+                "misapplication of the Re Koo test"
+            ],
+            "standard_of_review": [
+                "reasonableness for factual/legal issues",
+                "correctness for procedural fairness"
+            ],
+            "result_details": [
+                "appeal allowed",
+                "referred back to another Citizenship Judge for re-determination"
+            ]
+        }
+    ]
+}

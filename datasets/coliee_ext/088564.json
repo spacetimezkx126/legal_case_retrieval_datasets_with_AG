@@ -1,0 +1,50 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Illegal employment",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of removal decision",
+            "Legal_Issue": "Whether the removal officer's decision not to defer removal was lawful and reasonable",
+            "Governing_Law": "Immigration Act, s. 48, 49, 50; Federal Court Act, s. 18.1(4)",
+            "Decision_Level": "Administrative (Removal Officer)",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Failure to disclose medical condition in application",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refusal to defer removal on humanitarian grounds",
+            "Legal_Issue": "Whether the removal officer’s decision was based on sufficient evidence and legal reasoning",
+            "Governing_Law": "Immigration Act, s. 48; Federal Court Act, s. 18.1(4)",
+            "Decision_Level": "Administrative (Removal Officer)",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Overstaying visa",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Unlawful presence in Canada beyond authorized period",
+            "Legal_Issue": "Lawfulness of removal decision and potential Charter s. 7 violation",
+            "Governing_Law": "Immigration and Refugee Protection Act; Charter of Rights and Freedoms, s. 7",
+            "Application_Facts": "Applicant overstayed visa, worked illegally, claimed medical hardship",
+            "Decision_Outcome": "Removal order upheld"
+        },
+        {
+            "Crime_Name": "Non-compliance with immigration proceedings",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Judicial review of removal decision and non-compliance with deportation orders",
+            "Legal_Issue": "Reasonableness of removal officer’s decision and procedural fairness",
+            "Governing_Law": "Immigration Act; Federal Court Act",
+            "Procedural_Stage": "Post-removal order judicial review",
+            "Evidence_Assessment": "Assessment of healthcare availability in home country"
+        },
+        {
+            "Crime_Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of deferral denial based on medical grounds",
+            "Legal_Issue": "Whether removal would cause undue hardship due to medical condition",
+            "Governing_Law": "Immigration Act, s. 48; Immigration and Refugee Protection Regulations",
+            "Decision_Level": "Administrative (Removal Officer)",
+            "Review_Court": "Federal Court"
+        }
+    ]
+}

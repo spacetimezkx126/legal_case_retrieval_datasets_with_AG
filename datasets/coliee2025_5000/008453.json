@@ -1,0 +1,55 @@
+{
+    "Case ID": "008453",
+    "Different Crime": [
+        {
+            "Crime Name": "Acts of violence endangering lives or safety of persons in Canada",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "no reasonable apprehension of bias",
+                "judge impartiality requirements"
+            ],
+            "legal_basis": [
+                "Immigration Act s. 40.1",
+                "national security",
+                "judicial impartiality"
+            ],
+            "credibility_findings": [
+                "applicant credible as a security risk"
+            ],
+            "evidence_consideration": [
+                "evidence reviewed in camera",
+                "legal precedents on bias"
+            ],
+            "risk_assessment": [
+                "security risk"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "Bias assessment",
+                "Impartiality of judge"
+            ],
+            "risk_to_national_security": [
+                "Designated judge's role under Immigration Act s. 40.1"
+            ],
+            "decision_outcome": [
+                "Motion for recusation dismissed"
+            ],
+            "judicial_review_result": [
+                "No reasonable apprehension of bias"
+            ],
+            "applicable_law_section": [
+                "Immigration Act s. 40.1"
+            ],
+            "reasoning_given": [
+                "Judges can remain impartial despite prior rulings",
+                "Decisions based solely on evidence presented in each case"
+            ],
+            "evidence_assessment": [
+                "Evidence reviewed in camera"
+            ]
+        }
+    ]
+}

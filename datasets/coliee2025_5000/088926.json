@@ -1,0 +1,31 @@
+{
+    "Case ID": "088926",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies",
+                "lack_of_corroborating_evidence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_assessment": [
+                "considered_all_evidence",
+                "provided_clear_reasons"
+            ],
+            "risk_of_persecution": [
+                "religious_persecution"
+            ],
+            "burden_of_proof": [
+                "Board_must_prove_legal_error_or_unreasonableness"
+            ],
+            "standard_of_review": [
+                "legal_error",
+                "unreasonable_factual_finding",
+                "failure_to_consider_evidence"
+            ]
+        }
+    ]
+}

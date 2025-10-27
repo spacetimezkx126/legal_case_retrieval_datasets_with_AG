@@ -1,0 +1,126 @@
+{
+    "Case ID": "095979",
+    "Different Crime": [
+        {
+            "Crime Name": "Material Misrepresentation in Refugee Claims",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Administrative tribunals must ensure procedural fairness, including disclosure of relevant evidence"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "material misrepresentation about his military role and complicity in crimes against humanity"
+            ],
+            "refugee_status_eligibility": [
+                "refugee status was vacated"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Administrative tribunals must ensure procedural fairness, including disclosure of relevant evidence."
+            ],
+            "complicity_in_crimes": [
+                "Seyoboka's involvement in the Rwandan genocide"
+            ],
+            "standard_of_proof": [
+                "The standard of review for natural justice issues is correctness."
+            ],
+            "risk_assessment": [
+                "Undisclosed information was speculative and unlikely to affect the outcome given his complicity in crimes against humanity."
+            ],
+            "evidence_consideration": [
+                "Seyoboka argued undisclosed RCMP testimonies could exonerate him."
+            ],
+            "refugee_status_nexus": [
+                "Seyoboka's refugee status was vacated due to his involvement in the Rwandan genocide and material misrepresentation about his military role."
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "natural justice",
+                "procedural fairness",
+                "disclosure of relevant evidence"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "evidence_assessment": [
+                "undisclosed RCMP testimonies",
+                "lack of determinative impact on the outcome"
+            ],
+            "decision_reasoning": [
+                "waiver by Seyoboka",
+                "failure to request disclosure during proceedings"
+            ],
+            "conclusion_outcome": [
+                "dismissed the application"
+            ],
+            "cause_of_action": [
+                "refugee status vacated",
+                "material misrepresentation",
+                "complicity in crimes against humanity"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "focus on disclosure obligations and procedural fairness"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "four questions certified for appeal consideration"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "Administrative tribunals must ensure procedural fairness, including disclosure of relevant evidence"
+            ],
+            "administrative_error": [
+                "Failure to disclose potentially exculpatory testimonies"
+            ],
+            "judicial_review_process": [
+                "Seyoboka sought judicial review after the Tribunal refused to reopen his case based on alleged non-disclosure"
+            ],
+            "complicity_in_crimes": [
+                "Involvement in the Rwandan genocide"
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed"
+            ],
+            "burden_of_proof": [
+                "The undisclosed information was speculative and unlikely to affect the outcome"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "Administrative tribunals must ensure procedural fairness, including disclosure of relevant evidence"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "claimant_burden": [
+                "Seyoboka failed to raise disclosure concerns during proceedings"
+            ],
+            "court_ruling": [
+                "The Federal Court dismissed the application, finding no breach of natural justice"
+            ],
+            "refugee_protection": [
+                "Seyoboka's refugee status was vacated due to his involvement in the Rwandan genocide"
+            ],
+            "appeal_process": [
+                "four questions regarding disclosure obligations were certified for appeal"
+            ]
+        }
+    ]
+}

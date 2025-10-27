@@ -1,0 +1,32 @@
+{
+    "Case ID": "011624",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "state protection",
+                "refugee status"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "clear and convincing evidence",
+                "mixed evidence"
+            ],
+            "decision_reasoning": [
+                "adequate protection through legal and institutional measures",
+                "applicants did not take all reasonable steps to seek state protection"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was reasonable",
+                "application for judicial review was dismissed"
+            ],
+            "result_of_case": [
+                "Federal Court dismissed the application for judicial review",
+                "upholding the Board's decision"
+            ]
+        }
+    ]
+}

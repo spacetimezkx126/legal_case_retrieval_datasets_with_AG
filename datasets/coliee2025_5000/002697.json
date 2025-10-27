@@ -1,0 +1,57 @@
+{
+    "Case ID": "002697",
+    "Different Crime": [
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.113",
+                "Regulations s.167"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "evidence_provided": [
+                "insufficient evidence"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "procedural_fairness": [
+                "no hearing required"
+            ],
+            "claim_nature": [
+                "risk due to sexual orientation"
+            ],
+            "serious_criminality": [
+                "drug trafficking conviction"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "not central to decision"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence"
+            ],
+            "procedural_fairness": [
+                "PRRA process reviewed"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA s.113",
+                "Regulations s.167"
+            ],
+            "review_process": [
+                "court review of PRRA process"
+            ]
+        }
+    ]
+}

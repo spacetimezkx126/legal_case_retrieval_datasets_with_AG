@@ -1,0 +1,53 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to provide necessaries of life (negligence claim dismissed)",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Legal_Issue": "Did the defendant breach their duty of care by failing to detect and respond to the plaintiff's injury in a timely manner?",
+            "Governing_Rule": "The Crown is vicariously liable for negligence if an officer, acting within employment scope, fails to meet the standard of care expected of a reasonable person.",
+            "Application_Facts": "The court found no evidence that corrections officers acted below the standard of care. The plaintiff’s condition was not visibly obvious, and multiple checks were conducted without signs of distress.",
+            "Cause_Description": "Inmate injured during an assault and claimed negligence due to delayed medical attention.",
+            "Procedure": "Trial focused on whether the defendant breached duty of care; causation deferred to second phase.",
+            "Outcome": "Action dismissed with costs to the defendant.",
+            "Decision_Rationale": "No breach of duty of care by the defendant.",
+            "Evidentiary_Deficiency": "No visible signs of distress observed during checks; lack of evidence supporting breach."
+        },
+        {
+            "Crime_Name": "Possession of a controlled substance",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Legal_Issue": "Did the prison staff breach their duty of care by failing to detect Bastarache's injury in a timely manner?",
+            "Governing_Rule": "Prison authorities owe a duty of care to inmates, requiring reasonable measures to ensure their health and safety.",
+            "Application_Facts": "Bastarache was injured but concealed it, locking his cell. Officers conducted regular checks without noticing distress. No evidence shows officers acted below the standard of care.",
+            "Cause_Description": "Inmate assault leading to Bastarache's injury and subsequent negligence claim against prison staff.",
+            "Procedure": "Trial focused on whether prison staff breached duty of care; bifurcated trial separated liability and damages.",
+            "Outcome": "Action dismissed with costs to defendant.",
+            "Decision_Rationale": "No breach of duty of care occurred as officers acted reasonably given the circumstances.",
+            "Credibility_Assessment": "Blanchard’s claim of alerting officers was deemed unreliable."
+        },
+        {
+            "Crime_Name": "Trafficking in a controlled substance",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Legal_Issue": "Did the prison officials breach their duty of care by failing to detect Bastarache's injury promptly?",
+            "Governing_Rule": "Prison authorities owe a duty of care to inmates, requiring reasonable measures to ensure health and safety. Liability arises if actions fall below the standard of a reasonably prudent person.",
+            "Application_Facts": "Bastarache was injured but concealed it, locking his cell after refusing medical attention. Officers conducted regular checks without noticing issues. Blanchard’s claim of alerting officers was deemed unreliable.",
+            "Cause_Description": "Inmate assault leading to severe injury and subsequent negligence claim against prison officials.",
+            "Procedure": "Trial bifurcated into liability and damages phases; focus on whether prison staff breached duty of care.",
+            "Outcome": "Action dismissed with costs fixed at $1,500 payable by plaintiff to defendant.",
+            "Decision_Rationale": "No breach of duty occurred as officers acted reasonably under the circumstances.",
+            "Evidence_Assessed": "Officer check logs, inmate statements, credibility of witness claims."
+        },
+        {
+            "Crime_Name": "Assault with a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Legal_Issue": "Did the prison staff breach their duty of care by failing to detect and respond to Bastarache's injury in a timely manner?",
+            "Governing_Rule": "Prison authorities owe a duty of care to inmates, requiring reasonable measures to ensure health and safety. Liability arises if acts or omissions fall below the standard of a reasonably prudent person.",
+            "Application_Facts": "Bastarache was injured but conscious, locked his cell, and appeared fine during nine checks by corrections officers. Staff followed procedures, and no visible signs of distress were noticed. Blanchard’s claim of alerting officers was deemed unreliable.",
+            "Cause_Description": "Inmate assault leading to severe injury and subsequent negligence claim against prison staff.",
+            "Procedure": "Trial bifurcated into liability and damages phases; focus on whether prison staff breached duty of care.",
+            "Outcome": "Action dismissed; no breach of duty found; costs awarded to defendant.",
+            "Decision_Rationale": "No breach of duty of care occurred as staff acted reasonably under the circumstances.",
+            "Evidence_Used": "Correctional officer logs, inmate behavior observations, witness testimony."
+        }
+    ]
+}

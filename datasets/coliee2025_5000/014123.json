@@ -1,0 +1,60 @@
+{
+    "Case ID": "014123",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "generalized risk",
+                "specific risk"
+            ],
+            "internal_flight_alternative": [
+                "IFA standard of proof",
+                "balance of probabilities",
+                "serious possibility of persecution"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "remanded for reconsideration"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "standard_of_review": [
+                "errors in legal interpretation",
+                "fact-finding"
+            ],
+            "specific_targeting": [
+                "position at the dealership"
+            ],
+            "nexus_to_convention_grounds": [
+                "extortion and threats from a judicial police officer"
+            ],
+            "appeal_outcome": [
+                "allowed the judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death or Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s.97"
+            ],
+            "internal_flight_alternative": [
+                "Tijuana",
+                "Monterrey",
+                "Guadalajara"
+            ],
+            "personalized_vs_generalized_risk": [
+                "specific risk due to job"
+            ],
+            "risk_assessment": [
+                "error in assessment of generalized risk"
+            ],
+            "credibility_findings": [],
+            "procedural_fairness": [
+                "judicial review analyzed tribunal’s decision"
+            ]
+        }
+    ]
+}

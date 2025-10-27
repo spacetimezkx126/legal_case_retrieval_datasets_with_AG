@@ -1,0 +1,63 @@
+{
+    "Case ID": "032442",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 34(1)(f)",
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "inconsistencies",
+                "discrepancies in statements"
+            ],
+            "criminality_inadmissibility": [
+                "membership in an organization engaging in subversion by force",
+                "reasonable grounds to believe"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "remains inadmissible"
+            ],
+            "misrepresentation_or_fraud": [
+                "admission of CLM membership"
+            ]
+        },
+        {
+            "Crime Name": "Membership in organization engaging in subversion by force of a government",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 34(1)(f)"
+            ],
+            "membership_in_organization": [
+                "CLM"
+            ],
+            "involvement_details": [
+                "admitted membership",
+                "linked to Mr. Muyongo's leadership and the attack"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "inadmissible under s. 34(1)(f)"
+            ],
+            "evidence_quality": [
+                "despite inconsistencies, evidence linked"
+            ],
+            "applicable_law_section": [
+                "s. 34(1)(f)"
+            ],
+            "decision_made": [
+                "Court upheld ID's decision"
+            ],
+            "reasoning_given": [
+                "finding no error in law or fact"
+            ]
+        }
+    ]
+}

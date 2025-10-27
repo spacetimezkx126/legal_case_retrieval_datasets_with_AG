@@ -1,0 +1,33 @@
+{
+    "Case ID": "040175",
+    "Different Crime": [
+        {
+            "Crime Name": "Debt Recovery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Quebec civil law",
+                "creditor-debtor relationship",
+                "contract clauses"
+            ],
+            "decision_outcome": [
+                "Laurentian Trust owes the money",
+                "appeal dismissed"
+            ],
+            "procedural_fairness": [
+                "Prothonotary Lafrenière ordered Laurentian Trust to pay",
+                "court upheld the original decision"
+            ],
+            "party_involved": [
+                "Laurentian Trust",
+                "Department of National Revenue",
+                "Marrazza's RRSP"
+            ],
+            "claim_nature": [
+                "Dispute over which entity owes Marrazza's RRSP funds"
+            ],
+            "judicial_authority": [
+                "Prothonotary Lafrenière"
+            ]
+        }
+    ]
+}

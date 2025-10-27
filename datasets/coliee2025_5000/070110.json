@@ -1,0 +1,28 @@
+{
+    "Case ID": "070110",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal inadmissibility under Immigration Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "convicted of fraud"
+            ],
+            "immigration_status": [
+                "permanent residence application denied"
+            ],
+            "refugee_status_eligibility": [
+                "refugee claim referred for hearing"
+            ],
+            "decision_outcome": [
+                "application for interim order dismissed"
+            ],
+            "legal_basis": [
+                "Immigration Act",
+                "Federal Court Act s.18.1"
+            ],
+            "risk_assessment": [
+                "potential harm if deported to Ghana found speculative"
+            ]
+        }
+    ]
+}

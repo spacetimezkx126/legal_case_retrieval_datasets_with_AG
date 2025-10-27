@@ -1,0 +1,86 @@
+{
+    "Case ID": "066884",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "denied procedural fairness",
+                "fair opportunity to respond",
+                "disclosure of grounds and evidence"
+            ],
+            "evidence_assessment": [
+                "reasonable grounds",
+                "undisclosed evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "case remitted for reconsideration"
+            ],
+            "legal_basis": [
+                "IRPA section 72"
+            ],
+            "immigration_status": [
+                "inadmissibility concerns"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breached"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "inadmissibility_criteria": [
+                "membership in a terrorist organization"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "decision_outcome": [
+                "set aside, remitted for redetermination"
+            ],
+            "applicable_law_section": [
+                "IRPA section 72"
+            ],
+            "evidence_provided": [
+                "suspected PKK membership"
+            ],
+            "reasoning_given": [
+                "no meaningful disclosure of grounds",
+                "denied opportunity to respond"
+            ]
+        },
+        {
+            "Crime Name": "Procedural fairness breach in immigration process",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not informed of specific reasons",
+                "denying fair chance to respond"
+            ],
+            "legal_basis": [
+                "IRPA s. 34(1)(f)",
+                "IRPA s. 72"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "redetermination ordered"
+            ],
+            "evidentiary_standard": [
+                "lack of disclosure"
+            ],
+            "immigration_status": [
+                "residency application denied"
+            ],
+            "judicial_review_process": [
+                "focus on procedural fairness breach"
+            ],
+            "burden_of_proof": [
+                "suspected PKK membership"
+            ]
+        }
+    ]
+}

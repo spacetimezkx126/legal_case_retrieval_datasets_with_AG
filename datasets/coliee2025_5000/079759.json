@@ -1,0 +1,35 @@
+{
+    "Case ID": "079759",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "BC Supreme Court"
+            ],
+            "relevant_statute": [
+                "Federal Court Act (Sections 17, 18, 25, 44)"
+            ],
+            "cause_of_action": [
+                "Dispute over election validity"
+            ],
+            "procedure_followed": [
+                "Initial proceedings dismissed in BC Supreme Court",
+                "Subsequent actions filed in Federal Court"
+            ],
+            "decision_reasoning": [
+                "No statutory grant of jurisdiction under Sections 17 or 18",
+                "Sections 25 and 44 do not provide jurisdiction",
+                "Improper framing as application rather than judicial review"
+            ],
+            "conclusion_outcome": [
+                "Federal Court lacks jurisdiction",
+                "Election would have been upheld on merits"
+            ],
+            "result_of_case": [
+                "Main action and counterclaim dismissed"
+            ]
+        }
+    ]
+}

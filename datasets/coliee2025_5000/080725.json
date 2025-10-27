@@ -1,0 +1,60 @@
+{
+    "Case ID": "080725",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "no breach of procedural fairness"
+            ],
+            "credibility_assessment": [
+                "not credible",
+                "inconsistent evidence"
+            ],
+            "refugee_status_eligibility": [
+                "eligibility for refugee status",
+                "refugee claim rejected"
+            ],
+            "risk_assessment": [
+                "risk of persecution",
+                "lack of current persecution risk"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "upheld visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach alleged"
+            ],
+            "evidence_provided": [
+                "inconsistent evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_characterization": [
+                "no current persecution risk"
+            ],
+            "relationship_genuineness": [
+                "credibility issues"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "appeal_outcome": [
+                "upheld visa officer's decision"
+            ]
+        }
+    ]
+}

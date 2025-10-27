@@ -1,0 +1,28 @@
+{
+    "Case ID": "011531",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Status Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "minimal reasons required",
+                "importance to individual"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "redetermination ordered"
+            ],
+            "standard_of_review": [
+                "discretionary authority under immigration law"
+            ],
+            "immigration_status": [
+                "temporary resident status",
+                "visa extension denied"
+            ]
+        }
+    ]
+}

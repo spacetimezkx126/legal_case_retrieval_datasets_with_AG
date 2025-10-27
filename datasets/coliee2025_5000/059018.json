@@ -1,0 +1,118 @@
+{
+    "Case ID": "059018",
+    "Different Crime": [
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequate protection overall"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review under subsection 72(1)"
+            ],
+            "evidence_provided": [
+                "inconsistencies in testimony",
+                "alleged corruption within Mexican authorities"
+            ],
+            "credibility_assessment": [
+                "deemed not credible"
+            ],
+            "risk_characterization": [
+                "persecution by a former police commander"
+            ],
+            "material_misrepresentation": [
+                "misinterpretation of evidence regarding state protection"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to commit robbery",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "availability of state protection in Mexico",
+                "inability or unwillingness of the state to protect"
+            ],
+            "evidence_consideration": [
+                "inconsistencies in testimony",
+                "insufficient efforts to seek state protection",
+                "failed to provide credible evidence"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was reasonable"
+            ],
+            "risk_of_persecution": [
+                "fear of retaliation from former police commander"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "governmental efforts",
+                "operational realities"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "considered both governmental efforts and operational realities"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "deemed not credible"
+            ],
+            "evidence_quality": [
+                "clear and convincing evidence"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "refugee_status_claim": [
+                "alleged threats from a former police commander",
+                "ineffective state protection in Mexico"
+            ],
+            "applicable_law_section": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_review_result": [
+                "no question for certification"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "state protection findings"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "credible evidence showing Mexico's efforts to improve security and provide adequate protection"
+            ],
+            "decision_reasoning": [
+                "weighed conflicting evidence and concluded that Mexico offers sufficient state protection"
+            ],
+            "conclusion_outcome": [
+                "the application for judicial review is dismissed"
+            ],
+            "result_of_case": [
+                "court dismissed the application, upholding the RPD's decision"
+            ]
+        }
+    ]
+}

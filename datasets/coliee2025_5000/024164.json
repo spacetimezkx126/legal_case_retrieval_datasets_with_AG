@@ -1,0 +1,48 @@
+{
+    "Case ID": "024164",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to obtain immigration benefits",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "doubted the applicant's credibility without sufficient evidence"
+            ],
+            "evidence_assessment": [
+                "rejected the applicant's evidence about police actions in 1997, citing implausibility and fabrication",
+                "medical reports and expert testimony supported the claims"
+            ],
+            "decision_outcome": [
+                "set aside due to reviewable error",
+                "referred back to a different CRDD panel for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed the CRDD's decision, applying legal standards for evaluating evidence and credibility"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining documents by fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "evidence_provided": [
+                "medical report",
+                "expert testimony"
+            ],
+            "procedural_fairness": [
+                "inconsistencies must be supported by evidence",
+                "rejecting claims requires clear reasoning"
+            ],
+            "decision_outcome": [
+                "CRDD's decision overturned",
+                "case remanded for reevaluation with a new panel"
+            ],
+            "credibility_assessment": [
+                "doubted the applicant's credibility due to perceived inconsistencies"
+            ],
+            "expert_testimony": [
+                "corroborated the plausibility of his wife's abuse"
+            ],
+            "persecution_details": [
+                "family harassment after brother's involvement in Sikh separatism"
+            ]
+        }
+    ]
+}

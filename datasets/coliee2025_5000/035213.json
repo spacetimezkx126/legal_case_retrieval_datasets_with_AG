@@ -1,0 +1,32 @@
+{
+    "Case ID": "035213",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "applicant misrepresented material facts",
+                "failed to disclose previous refugee claim and removal"
+            ],
+            "immigration_status": [
+                "temporary resident visa"
+            ],
+            "decision_outcome": [
+                "visa refusal upheld",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "material_misrepresentation": [
+                "omission of U.S. refugee claim and removal"
+            ],
+            "criminality_inadmissibility": [
+                "potential inadmissibilities due to omission"
+            ],
+            "legal_basis": [
+                "Section 40(1)(a) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

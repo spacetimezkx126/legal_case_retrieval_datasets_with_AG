@@ -1,0 +1,25 @@
+{
+    "Case ID": "024392",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of procedural fairness found"
+            ],
+            "evidence_assessment": [
+                "lack of documentary evidence",
+                "financial statements provided but no direct evidence of employee numbers"
+            ],
+            "regulatory_compliance": [
+                "Section 88(1) of Immigration Regulations requires documentary proof of business qualifications"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed under procedural fairness and regulatory standards"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "082954",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "justified",
+                "unjustified"
+            ],
+            "infringement_analysis": [
+                "non-infringement refuted",
+                "infringement confirmed"
+            ],
+            "evidence_presented": [
+                "expert affidavits",
+                "cross-examinations",
+                "clinical studies"
+            ],
+            "relevant_rule": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "decision_conclusion": [
+                "prohibition granted for '426 patent",
+                "application dismissed for '728 patent with partial invalidation"
+            ]
+        }
+    ]
+}

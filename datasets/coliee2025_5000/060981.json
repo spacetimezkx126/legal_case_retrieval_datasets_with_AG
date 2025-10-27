@@ -1,0 +1,54 @@
+{
+    "Case ID": "060981",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "Decisions by the Refugee Protection Division are reviewable under the standard of reasonableness"
+            ],
+            "procedural_fairness": [
+                "Applicant failed to submit the Basis of Claim form within the required timeframe",
+                "Emphasizing the lack of due diligence"
+            ],
+            "immigration_status": [
+                "Denial of reopening a refugee claim"
+            ],
+            "standard_of_proof": [
+                "Reasonableness as per subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "refugee_status_nexus": [
+                "Abandonment of the refugee claim due to missed deadlines"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "failure to submit Basis of Claim form within required timeframe",
+                "access to legal counsel and interpreter"
+            ],
+            "procedural_fairness": [
+                "emphasizing lack of due diligence"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "claimant_burden": [
+                "applicant failed to meet filing deadlines"
+            ],
+            "court_ruling": [
+                "member's decision reasonable"
+            ]
+        }
+    ]
+}

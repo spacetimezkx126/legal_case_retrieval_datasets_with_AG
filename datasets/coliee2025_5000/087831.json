@@ -1,0 +1,29 @@
+{
+    "Case ID": "087831",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days",
+                "four years preceding the application"
+            ],
+            "evidence_assessment": [
+                "1,097 days of physical presence",
+                "passport evidence"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "referred back to a different citizenship judge"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act",
+                "section 21 of the Federal Courts Act"
+            ],
+            "standard_of_review": [
+                "error in conclusion"
+            ]
+        }
+    ]
+}

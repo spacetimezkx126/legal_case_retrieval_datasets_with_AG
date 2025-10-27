@@ -1,0 +1,329 @@
+{
+    "Case ID": "091997",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [
+                "unreasonable findings",
+                "failed to adequately analyze risk factors"
+            ],
+            "Risk_Type": [
+                "risk upon return"
+            ],
+            "Risk_Nature": [
+                "insufficient consideration of establishment and risk factors"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Legal_Framework": [
+                "Humanitarian and Compassionate (H&C) grounds",
+                "PRRA standards"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [
+                "subsection 72(1)"
+            ],
+            "Legal_Provision": [
+                "H&C application assessment",
+                "PRRA comparison"
+            ],
+            "Legal_Provision_Cited": [
+                "subsection 72(1)"
+            ],
+            "Standard_of_Proof": [
+                "reasonableness"
+            ],
+            "Decision_Outcome": [
+                "refusal of H&C application"
+            ],
+            "Outcome": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to differentiate H&C and PRRA assessments"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Immigration Officer"
+            ],
+            "Government_Body_Involved": [
+                "Immigration Division"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness, transparency, intelligibility"
+            ]
+        },
+        {
+            "Crime_Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "immigration decision dispute"
+            ],
+            "Legal_Provision_Involved": [
+                "Humanitarian and Compassionate (H&C) provisions",
+                "PRRA"
+            ],
+            "Outcome": [
+                "judicial review granted",
+                "case remanded for reassessment"
+            ],
+            "Grounds_for_Claim": [
+                "establishment in Canada",
+                "risk upon return",
+                "best interests of children"
+            ],
+            "Remedy_Requested": [
+                "permanent residence on H&C grounds"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "evidence of establishment, family ties, employment, community involvement"
+            ],
+            "Decision_Outcome": [
+                "refusal of H&C application"
+            ],
+            "Institutional_Action": [
+                "refusal by Immigration Officer"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration Division",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "H&C exemption from removal"
+            ],
+            "Evidence_Type": [
+                "employment history",
+                "family ties",
+                "community involvement"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "applicant for permanent residence"
+            ],
+            "Nature_of_Participation": [
+                "non-citizen with criminal record seeking relief"
+            ],
+            "Temporal_Context": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Personal_Data_Implicated": [],
+            "Legal_Statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Assessment_Standard": [
+                "unusual or disproportionate hardship"
+            ],
+            "Governing_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Complaint_Issues": [
+                "inadequate differentiation between H&C and PRRA"
+            ],
+            "Grounds_for_Discrimination": [],
+            "Role_of_Person": [
+                "applicant"
+            ],
+            "Protected_Group": [
+                "children (best interests considered)"
+            ],
+            "Legal_Standard": [
+                "reasonableness"
+            ],
+            "Protection_Claim": [
+                "protection from removal based on H&C grounds"
+            ],
+            "State_Protection_Assessment": [],
+            "Risk_Factor": [
+                "risk upon return to country of origin"
+            ],
+            "Credibility": [
+                "not directly challenged"
+            ],
+            "Legal_Provision": [
+                "section 25(1) IRPA (H&C)",
+                "PRRA standards"
+            ],
+            "Targeted_Group": [],
+            "State_Protection_Adequacy": [],
+            "Risk_Nature": [
+                "insufficient risk and establishment analysis"
+            ],
+            "Enforcement_Action": [
+                "deportation order"
+            ],
+            "Claimant_Status": [
+                "foreign national with criminal conviction"
+            ],
+            "Perpetrator_Entity": [],
+            "Legal_Basis": [
+                "criminal inadmissibility under IRPA"
+            ],
+            "Victim_Basis": []
+        },
+        {
+            "Crime_Name": "Armed Robbery",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "immigration decision dispute"
+            ],
+            "Sub_Crime_Type": [
+                "armed robbery"
+            ],
+            "Perpetrator_Type": [
+                "applicant (Felix Antonio Osegueda Garcia)"
+            ],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [
+                "criminal convictions leading to deportation"
+            ],
+            "Mitigating_Factors": [
+                "strong ties in Canada: family, friends, employment"
+            ],
+            "Prior_Criminality": [
+                "criminal convictions including armed robbery"
+            ],
+            "Criminality_Severity": [
+                "serious criminality under IRPA"
+            ],
+            "Evidence_Sufficiency": [
+                "evidence of establishment present but not properly assessed"
+            ],
+            "Evidence_Type": [
+                "family ties",
+                "friendship networks",
+                "employment history"
+            ],
+            "Evidence_Credibility": [
+                "not disputed"
+            ],
+            "Credibility_Assessment": [
+                "not the central issue"
+            ],
+            "Risk_Assessment": [
+                "risk upon return",
+                "failure to apply proper H&C test"
+            ],
+            "Risk_Type": [
+                "personal risk if returned"
+            ],
+            "Risk_Nature": [
+                "insufficient consideration of establishment and improper H&C risk test"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "subsection 72(1)"
+            ],
+            "Legal_Provision": [
+                "H&C application under section 25(1)"
+            ],
+            "Legal_Provision_Cited": [
+                "subsection 72(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "reasonableness standard applied"
+            ],
+            "Decision_Outcome": [
+                "refusal of H&C application"
+            ],
+            "Outcome": [
+                "judicial review granted",
+                "case remanded for reassessment"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "use of identical reasoning for H&C and PRRA",
+                "lack of differentiation in legal standards"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Immigration Officer"
+            ],
+            "Government_Body_Involved": [
+                "Immigration Division",
+                "Federal Court"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Case ID": "088181",
+    "Different Crime": [
+        {
+            "Crime Name": "Making False Statements to Obtain Passport Services",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "non-disclosure of critical evidence"
+            ],
+            "evidence_assessment": [
+                "reliance on undisclosed evidence",
+                "MIO reports and signatures"
+            ],
+            "decision_outcome": [
+                "decisions set aside",
+                "remitted for re-determination"
+            ],
+            "material_misrepresentation": [
+                "alleged false statements",
+                "human smuggling involvement"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Human Smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of all material facts",
+                "failure to disclose material facts and evidence"
+            ],
+            "evidentiary_standard": [
+                "undisclosed reports and notes from MIO",
+                "missing signature",
+                "resemblance to passport photo"
+            ],
+            "judicial_review_process": [
+                "judicial review application",
+                "challenging Passport Canada's decision",
+                "court analyzed procedural fairness requirements"
+            ],
+            "decision_outcome": [
+                "adjudicator's decision is set aside",
+                "matter remitted for re-determination",
+                "case sent back for new determination ensuring procedural fairness"
+            ],
+            "administrative_error": [
+                "revoked passports",
+                "withheld evidence",
+                "lack of proper defense"
+            ]
+        }
+    ]
+}

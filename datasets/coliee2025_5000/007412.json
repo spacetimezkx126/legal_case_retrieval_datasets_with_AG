@@ -1,0 +1,29 @@
+{
+    "Case ID": "007412",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "not credible"
+            ],
+            "evidence_assessment": [
+                "minor inconsistencies",
+                "cumulative persecution effects"
+            ],
+            "reasonableness_standard": [
+                "reasonable despite minor errors"
+            ],
+            "risk_of_persecution": [
+                "alleged persecution in Uzbekistan based on ethnicity"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "review_standard": [
+                "judicial review intervenes only for unreasonable errors"
+            ]
+        }
+    ]
+}

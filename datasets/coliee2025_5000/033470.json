@@ -1,0 +1,31 @@
+{
+    "Case ID": "033470",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Rule 29(4)",
+                "Rule 30"
+            ],
+            "credibility_findings": [
+                "adverse credibility inference"
+            ],
+            "documentary_evidence": [
+                "1994 summons document"
+            ],
+            "procedural_fairness": [
+                "refusal to admit document",
+                "exercise of discretion under Rule 30"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remitted for redetermination"
+            ],
+            "burden_of_proof": [
+                "reasonable effort",
+                "probative value"
+            ]
+        }
+    ]
+}

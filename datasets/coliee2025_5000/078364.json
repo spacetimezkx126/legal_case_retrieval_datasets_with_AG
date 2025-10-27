@@ -1,0 +1,30 @@
+{
+    "Case ID": "078364",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA Article 11",
+                "Regulation 200(3)(a)"
+            ],
+            "evidence_assessment": [
+                "lacked sufficient evidence of professional experience",
+                "contradictory employment certificates",
+                "failed to identify past workplaces"
+            ],
+            "credibility_assessment": [
+                "inadequate justification for credibility concerns"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "judicial review granted",
+                "case remanded to another immigration officer"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "adequacy of reasons"
+            ]
+        }
+    ]
+}

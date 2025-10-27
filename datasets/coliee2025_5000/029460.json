@@ -1,0 +1,30 @@
+{
+    "Case ID": "029460",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of false travel documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility finding",
+                "minor inconsistencies",
+                "explained by trauma",
+                "peripheral issues",
+                "unreasonable focus"
+            ],
+            "evidence_assessment": [
+                "lack of proper consideration of evidence"
+            ],
+            "decision_outcome": [
+                "case remanded for redetermination",
+                "negative credibility finding overturned"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "judicial review allowed"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of false travel documents"
+            ]
+        }
+    ]
+}

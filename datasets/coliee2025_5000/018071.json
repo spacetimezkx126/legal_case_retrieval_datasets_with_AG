@@ -1,0 +1,50 @@
+{
+    "Case ID": "018071",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "exceptional humanitarian and compassionate grounds",
+                "no bad faith or serious issue warranting intervention"
+            ],
+            "criminality_inadmissibility": [
+                "individuals with criminal convictions may be inadmissible"
+            ],
+            "decision_outcome": [
+                "application for a stay of deportation is dismissed",
+                "upholding the deportation order and refusing to intervene on humanitarian grounds"
+            ],
+            "procedural_fairness": [
+                "immigration officer properly exercised discretion",
+                "court reviewed jurisdiction, merits, and the tripartite test"
+            ]
+        },
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "marriage",
+                "child"
+            ],
+            "procedural_fairness": [
+                "immigration officer acted fairly"
+            ],
+            "criminal_history": [
+                "convicted of assault causing bodily harm"
+            ],
+            "immigration_status": [
+                "overstayed his visa"
+            ],
+            "serious_issue": [
+                "no serious issue to review"
+            ],
+            "balance_of_convenience": [
+                "reviewed balance of convenience"
+            ],
+            "reasonableness_of_decision": [
+                "within discretion"
+            ]
+        }
+    ]
+}

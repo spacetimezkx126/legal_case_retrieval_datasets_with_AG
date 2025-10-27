@@ -1,0 +1,28 @@
+{
+    "Case ID": "068174",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days",
+                "four years preceding application"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "legal_basis": [
+                "Citizenship Act, s. 5(1)(c)"
+            ],
+            "immigration_status": [
+                "citizenship application denied"
+            ],
+            "standard_of_review": [
+                "physical presence test"
+            ],
+            "procedural_fairness": [
+                "no error in judge's decision or bias"
+            ]
+        }
+    ]
+}

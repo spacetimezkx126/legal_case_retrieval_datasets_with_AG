@@ -1,0 +1,57 @@
+{
+    "Case ID": "020951",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA paragraph 37(1)(a)"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for further review"
+            ],
+            "procedural_fairness": [
+                "analyzed"
+            ],
+            "evidence_provided": [
+                "insufficient to establish fraud or money laundering"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "court allowed judicial review"
+            ],
+            "nature_of_offense": [
+                "organized criminality",
+                "fraud",
+                "money laundering"
+            ],
+            "mitigating_factors": [
+                "lack of clarity on criminal organization and applicable Canadian laws"
+            ]
+        },
+        {
+            "Crime Name": "Organized Criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "paragraph 37(1)(a) of the IRPA"
+            ],
+            "procedural_fairness": [
+                "failure to clearly identify the criminal organization",
+                "failure to disclose information"
+            ],
+            "decision_reasoning": [
+                "unreasonable due to legal errors"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "result_of_case": [
+                "decision overturned",
+                "case returned for re-evaluation"
+            ]
+        }
+    ]
+}

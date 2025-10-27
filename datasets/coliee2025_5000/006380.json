@@ -1,0 +1,29 @@
+{
+    "Case ID": "006380",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "lack of clarity on test",
+                "failure to disclose chosen test"
+            ],
+            "legal_basis": [
+                "Citizenship Act, RSC 1985, c. C-29"
+            ],
+            "decision_outcome": [
+                "Appeal allowed",
+                "case returned for re-determination"
+            ],
+            "standard_of_review": [
+                "inconsistency in legal tests"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "remanded for redetermination"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "081928",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "disclosure of prejudicial information"
+            ],
+            "residency_requirements": [
+                "three years of residence in four years under s. 5(1)(c) of Citizenship Act"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness, reasonableness for residency determination"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "inconsistencies in applicant's evidence"
+            ]
+        }
+    ]
+}

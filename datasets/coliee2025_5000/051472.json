@@ -1,0 +1,29 @@
+{
+    "Case ID": "051472",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Refusal",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "1095 days of residence in Canada during the four years preceding their application"
+            ],
+            "procedural_fairness": [
+                "Citizenship application review, interview, and appeal to Federal Court"
+            ],
+            "decision_reasoning": [
+                "Mr. Chen was 31 days short of the required residency",
+                "judge found his absences were not temporary and he had not centralized his life in Canada"
+            ],
+            "cause_of_action": [
+                "Mr. Chen's frequent trips to China and insufficient days of residency in Canada"
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "Mr. Chen remains ineligible for Canadian citizenship"
+            ],
+            "relevant_statute": [
+                "Citizenship Act paragraph 5(1)(c)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Case ID": "099464",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption of public officials",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no nexus found"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "risk_characterization": [
+                "retaliation from criminal gang"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "cause_of_action": [
+                "resisting extortion, reporting corrupt officers"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "risk_assessment": [
+                "personalized risk not faced generally by others in the country"
+            ],
+            "specific_threats_or_incidents": [
+                "assaulted by police officers linked to a criminal organization after refusing extortion"
+            ],
+            "nexus_to_convention_grounds": [
+                "no nexus to Convention grounds"
+            ],
+            "personalized_vs_generalized_risk": [
+                "deemed the risk generalized, not personalized"
+            ],
+            "criminal_history": [],
+            "refugee_status_nexus": [
+                "Convention refugee must have a well-founded fear of persecution based on race, religion, nationality, membership in a social group, or political opinion"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "Convention refugee",
+                "person in need of protection"
+            ],
+            "applicable_law_section": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "reasoning_given": [
+                "lack of nexus to Convention grounds"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": []
+        }
+    ]
+}

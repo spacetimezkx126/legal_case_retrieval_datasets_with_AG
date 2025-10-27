@@ -1,0 +1,31 @@
+{
+    "Case ID": "080237",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "admissible evidence",
+                "noncompliance with s. 29(b)"
+            ],
+            "legal_basis": [
+                "Trade Marks Act",
+                "Section 29(b)"
+            ],
+            "decision_reasoning": [
+                "vague, irrelevant, or inadmissible evidence",
+                "failed to meet the evidentiary burden"
+            ],
+            "result_of_case": [
+                "appeal dismissed"
+            ],
+            "procedure_followed": [
+                "Trademark Registrar rejected opposition",
+                "Federal Court reviewed evidence"
+            ],
+            "conclusion_outcome": [
+                "upheld Registrar's decision"
+            ]
+        }
+    ]
+}

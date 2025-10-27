@@ -1,0 +1,77 @@
+{
+    "Case ID": "010556",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of conditions of stay order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 71 of IRPA"
+            ],
+            "procedural_fairness": [
+                "breach of natural justice"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed whether IAD correctly applied IRPA and interpreted its jurisdiction"
+            ],
+            "immigration_status": [
+                "deportation case"
+            ]
+        },
+        {
+            "Crime Name": "Criminal convictions including Robbery",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 71 of IRPA"
+            ],
+            "procedural_fairness": [
+                "breach of natural justice"
+            ],
+            "past_criminal_convictions": [
+                "robbery"
+            ],
+            "immigration_status": [
+                "deportation"
+            ],
+            "country_conditions": [
+                "changed circumstances"
+            ],
+            "standard_of_proof": [
+                "applicable law analysis"
+            ]
+        },
+        {
+            "Crime Name": "Possession of weapons",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 71 of IRPA",
+                "Immigration Act",
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "breach of natural justice"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed",
+                "Court rejected the application"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "relevant_factors": [
+                "changed circumstances",
+                "failure to assess country conditions"
+            ],
+            "court_ruling": [
+                "IAD did not err in its decision",
+                "confirming IRPA's applicability",
+                "upholding IAD's decision"
+            ]
+        }
+    ]
+}

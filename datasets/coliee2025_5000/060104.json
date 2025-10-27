@@ -1,0 +1,29 @@
+{
+    "Case ID": "060104",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "post-hearing evidence",
+                "relevance",
+                "probative value",
+                "reasonable effort"
+            ],
+            "credibility_findings": [
+                "impacting credibility assessments"
+            ],
+            "judicial_review_process": [
+                "judicial review application filed",
+                "Federal Court analyzed Rule 37 compliance and procedural fairness"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "case remanded to a new panel for reconsideration"
+            ]
+        }
+    ]
+}

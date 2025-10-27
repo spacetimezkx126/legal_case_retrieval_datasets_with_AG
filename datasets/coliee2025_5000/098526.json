@@ -1,0 +1,46 @@
+{
+    "Case ID": "098526",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "legal_basis": [
+                "Article 1F(a) of the Refugee Convention"
+            ],
+            "evidentiary_standard": [
+                "lower than a balance of probabilities"
+            ],
+            "credibility_findings": [
+                "systematic human rights abuses",
+                "shared purpose",
+                "knowledge of atrocities"
+            ],
+            "decision_outcome": [
+                "denying refugee protection"
+            ],
+            "judicial_review_process": [
+                "correctness for law",
+                "patent unreasonableness for facts",
+                "reasonableness for law application"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "refugee_definition": [
+                "excluded due to complicity"
+            ],
+            "immigration_status": [
+                "applicant sought refugee status"
+            ],
+            "human_rights_violations": [
+                "systematic human rights abuses"
+            ],
+            "burden_of_proof": [
+                "serious reasons for being considered complicit"
+            ]
+        }
+    ]
+}

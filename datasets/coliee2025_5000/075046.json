@@ -1,0 +1,25 @@
+{
+    "Case ID": "075046",
+    "Different Crime": [
+        {
+            "Crime Name": "Contractual Dispute",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over the interpretation of the 'ice clause' in the Booking Note leading to additional shipping costs."
+            ],
+            "relevant_statute": [
+                "Section 46 of the Marine Liability Act",
+                "Section 50(1)(b) of the Federal Courts Act"
+            ],
+            "procedure_followed": [
+                "Motion by Livestock Express to enforce the arbitration clause versus Comtois's argument for proceeding in Canada."
+            ],
+            "decision_reasoning": [
+                "The Booking Note is a charter-party, excluded from section 46. However, Comtois demonstrated strong cause for maintaining the action in Canada due to factors like evidence location, party connections, and prohibitive costs for arbitration in England."
+            ],
+            "result_of_case": [
+                "Court ruled against the stay, permitting the case to continue in Canada with costs awarded to Comtois."
+            ]
+        }
+    ]
+}

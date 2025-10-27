@@ -1,0 +1,38 @@
+{
+    "Case ID": "080578",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "state protection",
+                "correctness",
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "inconsistency in legal test application",
+                "burden of proof shifted",
+                "transparency and intelligibility undermined"
+            ],
+            "standard_of_review": [
+                "correctness for state protection",
+                "reasonableness for mixed questions of fact and law"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review allowed",
+                "matter remitted for reconsideration"
+            ],
+            "cause_of_action": [
+                "errors in applying the state protection test"
+            ],
+            "procedure_followed": [
+                "judicial review under IRPA subsection 72(1)"
+            ],
+            "result_of_case": [
+                "error in legal test application found",
+                "decision set aside",
+                "case remitted for reevaluation"
+            ]
+        }
+    ]
+}

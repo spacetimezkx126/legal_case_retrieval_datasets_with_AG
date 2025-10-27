@@ -1,0 +1,37 @@
+{
+    "Case ID": "085265",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "inadmissible for committing an act punishable by at least 10 years imprisonment in Canada"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Criminal Code section 380"
+            ],
+            "judicial_authority": [
+                "Tribunal"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "nature_of_offense": [
+                "fraudulent claim of citizenship to obtain a loan"
+            ],
+            "relationship_genuineness": [
+                "misrepresentation of citizenship"
+            ],
+            "material_misrepresentation": [
+                "applicant misrepresented his citizenship"
+            ],
+            "procedural_fairness": [
+                "judicial review of Tribunal’s decision"
+            ]
+        }
+    ]
+}

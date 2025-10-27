@@ -1,0 +1,92 @@
+{
+    "Case ID": "022014",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of identity documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "fear of persecution",
+                "clan conflict"
+            ],
+            "internal_flight_alternative": [
+                "reasonableness of return",
+                "relocation within home country"
+            ],
+            "decision_outcome": [
+                "case referred back",
+                "Board's decision set aside"
+            ],
+            "identity_verification": [
+                "lacked valid identification documents"
+            ],
+            "misrepresentation_or_fraud": [
+                "forged documents"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "religion",
+                "nationality",
+                "membership in a particular social group",
+                "political opinion"
+            ],
+            "identity_documents": [
+                "forged documents",
+                "forged passport"
+            ],
+            "risk_characterization": [
+                "fear of deportation to Somalia",
+                "fear of persecution as an Isaaq member"
+            ],
+            "judicial_authority": [
+                "Refugee Determination Division"
+            ],
+            "decision_outcome": [
+                "Initial rejection",
+                "Decision set aside",
+                "case referred back for rehearing"
+            ],
+            "procedural_fairness": [
+                "judicial review focusing on the reasonableness of returning to northern Somalia"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "fear of persecution as an Isaaq member"
+            ],
+            "evidence_provided": [
+                "use of forged documents",
+                "forged passport"
+            ],
+            "reasonableness_of_decision": [
+                "no systemic persecution of Isaaqs in northern Somalia post-Barre regime"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "fear of deportation to Somalia"
+            ],
+            "judicial_review_result": [
+                "decision set aside",
+                "case referred back for rehearing"
+            ],
+            "membership_in_organization": [],
+            "risk_to_national_security": [],
+            "state_protection_analysis": [
+                "Barre's forces not a threat in the north"
+            ],
+            "personalized_vs_generalized_risk": [
+                "clan conflict and personal circumstances"
+            ],
+            "decision_outcome": [
+                "rehearing on the reasonableness of return to northern Somalia"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Case ID": "010984",
+    "Different Crime": [
+        {
+            "Crime Name": "Compulsion defense not established",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "new_evidence": [
+                "Di Capua as the informant"
+            ],
+            "evidence_presented": [
+                "failed to call Di Capua as a witness during trials",
+                "no tangible proof showed prosecutorial abuse"
+            ],
+            "decision_reasoning": [
+                "within acceptable outcomes"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "Applicant's conviction for heroin possession"
+            ]
+        },
+        {
+            "Crime Name": "Possession of heroin",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Criminal Code s. 696.3"
+            ],
+            "procedural_fairness": [
+                "Minister's review based on new significant evidence",
+                "Standard of review is reasonableness"
+            ],
+            "evidence_sufficiency": [
+                "Applicant claimed Di Capua was the police informant",
+                "Argument previously considered in trials and appeals",
+                "Attorney General's discretion does not constitute new evidence"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "Judicial review of Minister's decision under Criminal Code provisions"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review, upholding the Minister's decision"
+            ]
+        }
+    ]
+}

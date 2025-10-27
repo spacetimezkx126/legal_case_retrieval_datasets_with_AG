@@ -1,0 +1,50 @@
+{
+    "Case ID": "051236",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of fairness",
+                "failure to assess related work history"
+            ],
+            "evidence_consideration": [
+                "20 years in the garment industry",
+                "transferable skills not explored"
+            ],
+            "risk_assessment": [],
+            "humanitarian_compassionate_grounds": [],
+            "legal_basis": [
+                "Immigration Regulations, 1978",
+                "Federal Court Act"
+            ]
+        },
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of fairness"
+            ],
+            "evidence_considered": [
+                "applicant's related experience",
+                "20 years in the garment industry",
+                "transferable skills"
+            ],
+            "decision_outcome": [
+                "motion allowed",
+                "decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "applicable_laws": [
+                "Immigration Regulations, 1978",
+                "Federal Court Act"
+            ],
+            "claimant_burden": [
+                "visa officer must assess applicants' experience fairly"
+            ],
+            "appeal_process": [
+                "judicial review motion filed"
+            ]
+        }
+    ]
+}

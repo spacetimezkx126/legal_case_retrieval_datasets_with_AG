@@ -1,0 +1,34 @@
+{
+    "Case ID": "072635",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "minor errors",
+                "spelling",
+                "document routing",
+                "date inconsistencies",
+                "ignored or misinterpreted evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "key evidence ignored",
+                "misinterpreted"
+            ],
+            "gender_guidelines": [
+                "not considered"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "decision quashed",
+                "new determination ordered"
+            ],
+            "burden_of_proof": [
+                "RPD's decision lacked justification"
+            ]
+        }
+    ]
+}

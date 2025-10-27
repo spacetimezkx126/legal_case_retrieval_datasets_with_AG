@@ -1,0 +1,77 @@
+{
+    "Case ID": "094214",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "PRRA decisions aim to assess risk before removal",
+                "judicial review application moot after deportation"
+            ],
+            "procedural_fairness": [
+                "Judicial review sought after deportation",
+                "Federal Court of Appeal confirmed mootness based on prior rulings"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "deported after unsuccessful refugee claims and rejected PRRA application"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "no further action taken due to mootness"
+            ]
+        },
+        {
+            "Crime Name": "Fail to appear",
+            "Crime Type": "others",
+            "mootness": [
+                "applicant has already been deported"
+            ],
+            "procedural_fairness": [
+                "judicial review of a PRRA decision"
+            ],
+            "decision_reasoning": [
+                "reviewing a PRRA decision post-deportation is without object"
+            ],
+            "cause_of_action": [
+                "applicant was deported before the judicial review could occur"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed whether a judicial review could proceed after deportation"
+            ],
+            "result_of_case": [
+                "application for judicial review is dismissed as moot due to the applicant's deportation"
+            ],
+            "relevant_rule": [
+                "PRRA decision is intended to assess risk before removal"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "PRRA decisions",
+                "Canadian law"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Federal Court of Appeal ruling"
+            ],
+            "decision_outcome": [
+                "dismissed as moot"
+            ],
+            "applicable_laws": [
+                "PRRA decisions are intended to assess risk prior to removal"
+            ],
+            "standard_of_review": [
+                "reviewing a PRRA decision after deportation is without object"
+            ],
+            "appeal_process": [
+                "Federal Court analyzed whether a moot application should proceed"
+            ],
+            "criminal_history": [
+                "deported before the judicial review could occur"
+            ]
+        }
+    ]
+}

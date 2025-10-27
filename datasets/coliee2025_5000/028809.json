@@ -1,0 +1,64 @@
+{
+    "Case ID": "028809",
+    "Different Crime": [
+        {
+            "Crime Name": "Misapplication of public funds",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Fisheries Act",
+                "Financial Administration Act"
+            ],
+            "decision_outcome": [
+                "invalid"
+            ],
+            "applicable_statute": [
+                "Fisheries Act",
+                "Financial Administration Act"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "cause_of_action": [
+                "allocation of fishery resources for financial purposes"
+            ],
+            "nature_of_offense": [
+                "exceeding authority"
+            ],
+            "mitigating_factors": []
+        },
+        {
+            "Crime Name": "Unauthorized issuance of fishing licence",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Fisheries Act",
+                "Financial Administration Act"
+            ],
+            "decision_reasoning": [
+                "Minister exceeded authority",
+                " Licence issued for financing purposes"
+            ],
+            "relevant_statute": [
+                "Fisheries Act"
+            ],
+            "procedure_followed": [
+                "Judicial review application"
+            ],
+            "result_of_case": [
+                "Fishing licence invalid",
+                "Minister lacked authority"
+            ],
+            "cause_of_action": [
+                "Issuance of fishing licence to AGFA"
+            ],
+            "application_details": [
+                "AGFA did not meet licensing criteria"
+            ],
+            "discretion_exercise": [
+                "Minister's discretion misused"
+            ],
+            "evidence_consideration": [
+                "Legislative intent violated"
+            ]
+        }
+    ]
+}

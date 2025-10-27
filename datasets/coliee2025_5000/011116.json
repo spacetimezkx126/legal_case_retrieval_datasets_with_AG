@@ -1,0 +1,30 @@
+{
+    "Case ID": "011116",
+    "Different Crime": [
+        {
+            "Crime Name": "Religious Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "well-founded fear of persecution for reasons of religion"
+            ],
+            "persecution_grounds": [
+                "religion"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable findings by the Board"
+            ],
+            "judicial_review_process": [
+                "Judicial review under IRPA subsection 72(1)"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "re-determination by a different panel"
+            ],
+            "evidence_assessment": [
+                "underestimated the risk of persecution",
+                "ignored reports of house church destruction",
+                "inconsistent enforcement of registration rules"
+            ]
+        }
+    ]
+}

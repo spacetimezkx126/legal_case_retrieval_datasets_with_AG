@@ -1,0 +1,30 @@
+{
+    "Case ID": "002117",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act",
+                "subsections 20(1)(b) and 20(1)(c)"
+            ],
+            "evidence_assessment": [
+                "confidential commercial information",
+                "probable harm to a third party"
+            ],
+            "decision_reasoning": [
+                "lack of reasonable expectation of confidentiality",
+                "failure to prove probable harm"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "conclusion_outcome": [
+                "application dismissed"
+            ],
+            "result_of_case": [
+                "records released in severed form"
+            ]
+        }
+    ]
+}

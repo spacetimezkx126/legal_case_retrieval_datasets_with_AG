@@ -1,0 +1,49 @@
+{
+    "Case ID": "017698",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal Negligence Under Section 217.1",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 36(1)(b)"
+            ],
+            "decision_reasoning": [
+                "equivalency analysis",
+                "essential elements of criminal negligence"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": [
+                "procedural fairness"
+            ],
+            "evidence_assessment": [
+                "actions met duty and reckless disregard for safety"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "result_of_case": [
+                "deemed criminally inadmissible"
+            ]
+        },
+        {
+            "Crime Name": "Offence Relating to the Rights of Employees Under Spanish Penal Code Section 316",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA Section 36(1)(b)"
+            ],
+            "evidence_assessment": [
+                "equivalency analysis"
+            ],
+            "procedural_fairness": [],
+            "reasonableness_of_decision": [
+                "upheld"
+            ],
+            "judicial_review_process": [
+                "dismissed"
+            ],
+            "burden_of_proof": []
+        }
+    ]
+}

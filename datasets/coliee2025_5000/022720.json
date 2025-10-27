@@ -1,0 +1,49 @@
+{
+    "Case ID": "022720",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 34(1)(f)"
+            ],
+            "procedural_fairness": [
+                "Judicial review examined the IAD's decision-making process and evidence sufficiency."
+            ],
+            "evidence_assessment": [
+                "credible evidence like Amnesty International reports"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissible due to membership in an organization engaging in terrorism"
+            ],
+            "decision_outcome": [
+                "Court upheld the IAD's decision; Mr. Memon remains inadmissible."
+            ]
+        },
+        {
+            "Crime Name": "Being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts of terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 34(1)(f)"
+            ],
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "inadmissibility_criteria": [
+                "Membership in an organization believed to engage in terrorism"
+            ],
+            "evidence_provided": [
+                "Documentary evidence showing MQM-A committed acts like operating torture chambers and kidnapping reporters"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; Mr. Memon ordered deported"
+            ],
+            "reasonableness_of_decision": [
+                "Reasonable to conclude MQM-A engaged in terrorism"
+            ],
+            "judicial_review_result": [
+                "Dismissed"
+            ]
+        }
+    ]
+}

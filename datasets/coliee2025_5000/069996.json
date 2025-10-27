@@ -1,0 +1,120 @@
+{
+    "Case ID": "069996",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution"
+            ],
+            "credibility_assessment": [
+                "questioned credibility"
+            ],
+            "state_protection_analysis": [
+                "state protection"
+            ],
+            "legal_basis": [
+                "Article 1F(b)",
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remitted for reconsideration by a new Board"
+            ],
+            "criminality_inadmissibility": [
+                "convicted of corruption"
+            ],
+            "risk_assessment": [
+                "fear of FARC retaliation"
+            ]
+        },
+        {
+            "Crime Name": "Graft",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ],
+            "exclusion_reason": [
+                "prior conviction"
+            ],
+            "decision_outcome": [
+                "judicial review allowed, case remitted"
+            ],
+            "procedural_fairness": [
+                "Board failed to properly analyze circumstances"
+            ],
+            "applicable_statute": [
+                "Article 1F(b)"
+            ],
+            "party_involved": [
+                "principal applicant",
+                "Board"
+            ],
+            "claim_nature": [
+                "refugee status claim"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "serious_criminality": [
+                "graft"
+            ],
+            "risk_characterization": [
+                "fear of persecution by FARC"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee convention grounds"
+            ],
+            "materiality_of_misrepresentation": [
+                "irrelevant evidence considered"
+            ],
+            "cause_of_action": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Abuse of authority",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "corrupt system",
+                "implausibility findings"
+            ],
+            "procedural_fairness": [
+                "Board must scrutinize evidence"
+            ],
+            "evidence_assessment": [
+                "substantial evidence required"
+            ],
+            "credibility_findings": [
+                "unreasonable credibility findings"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution"
+            ],
+            "decision_reasoning": [
+                "err in rejecting corruption claims"
+            ],
+            "mitigating_factors": [
+                "corruption"
+            ],
+            "cause_of_action": [
+                "fled Colombia fearing FARC persecution"
+            ],
+            "procedure_followed": [
+                "judicial review of the Refugee Protection Division's decision"
+            ],
+            "result_of_case": [
+                "application for judicial review was allowed"
+            ],
+            "specific_rule_applied": [
+                "legal errors and unreasonable findings"
+            ],
+            "decision_made": [
+                "case is remitted for reconsideration"
+            ]
+        }
+    ]
+}

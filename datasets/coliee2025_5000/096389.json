@@ -1,0 +1,29 @@
+{
+    "Case ID": "096389",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "rules for filing additional affidavits"
+            ],
+            "evidence_assessment": [
+                "substantial background information",
+                "not new evidence"
+            ],
+            "decision_reasoning": [
+                "does not appear to prejudice the applicant's case"
+            ],
+            "standard_of_review": [
+                "only evidence presented to the initial decision-maker"
+            ],
+            "result_of_case": [
+                "affidavit remains",
+                "applicant can respond with their own affidavit"
+            ]
+        }
+    ]
+}

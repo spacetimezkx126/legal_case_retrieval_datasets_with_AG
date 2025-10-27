@@ -1,0 +1,30 @@
+{
+    "Case ID": "054373",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "omitted details",
+                "hearsay medical report"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "RPD decision-making process"
+            ],
+            "reasonableness_standard": [
+                "patently unreasonable"
+            ],
+            "evidence_assessment": [
+                "demeanor",
+                "consistency",
+                "concordance with evidence"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "RPD decision upheld"
+            ]
+        }
+    ]
+}

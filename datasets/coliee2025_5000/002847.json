@@ -1,0 +1,52 @@
+{
+    "Case ID": "002847",
+    "Different Crime": [
+        {
+            "Crime Name": "Work without authorization under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "evidence_assessment": [
+                "insufficient evidence",
+                "limited corroborating evidence"
+            ],
+            "credibility_assessment": [
+                "no credible threat"
+            ],
+            "procedural_fairness": [
+                "focus on delays in filing",
+                "lack of personal evidence"
+            ],
+            "risk_assessment": [
+                "applicant's risk upon removal",
+                "threats in home country"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to distribute cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "evidence_sufficiency": [
+                "insufficient consideration of PIF and mother's letter"
+            ],
+            "credibility_findings": [
+                "no questioning of applicant's credibility"
+            ],
+            "procedural_fairness": [
+                "no procedural unfairness found"
+            ],
+            "risk_assessment": [
+                "applicant's risk upon removal"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "review_process": [
+                "judicial review of PRRA decision"
+            ]
+        }
+    ]
+}

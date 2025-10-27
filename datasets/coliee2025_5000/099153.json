@@ -1,0 +1,109 @@
+{
+    "Case ID": "099153",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Removal Officer"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not addressed by Removal Officer"
+            ],
+            "child_best_interests": [
+                "considered in argument but not grounds for deferral"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "denial of removal deferral"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "extensive criminal record",
+                "disregard for Canadian laws"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "interests of affected children"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "statutory discretion",
+                "fairness"
+            ],
+            "family_ties": [
+                "Canadian-born children"
+            ],
+            "immigration_status": [
+                "removal order"
+            ],
+            "risk_assessment": [
+                "lack of compelling reasons justifying delay"
+            ]
+        },
+        {
+            "Crime Name": "Fail to attend court",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                " Removal Officer's decision was within their limited discretion",
+                "not obligated to address matters outside their limited discretion"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "general hardship considerations are insufficient for deferral"
+            ],
+            "application_details": [
+                "Griffiths argued for deferral based on his relationship with his children and the speed of deportation proceedings"
+            ],
+            "evidence_presented": [
+                "extensive criminal record",
+                "relationship with Canadian-born children"
+            ],
+            "relevant_statute": [
+                "Section 48(2) of the Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 48(2) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "immigration_status": [
+                "deportation orders"
+            ],
+            "criminal_history": [
+                "Griffiths' criminal record"
+            ],
+            "family_impact": [
+                "harm his Canadian-born children"
+            ],
+            "court_ruling": [
+                "no question certified"
+            ]
+        }
+    ]
+}

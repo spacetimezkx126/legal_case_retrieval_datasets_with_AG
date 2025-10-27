@@ -1,0 +1,84 @@
+{
+    "Case ID": "057855",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "risk_characterization": [
+                "extortion",
+                "threats by Maras 18"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)"
+            ],
+            "appeal_outcome": [
+                "referred back for reevaluation"
+            ],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "applicable_statute": [
+                "IRPA s.97"
+            ],
+            "cause_of_action": [
+                "fled Honduras due to threats and extortion"
+            ]
+        },
+        {
+            "Crime Name": "Gang Activity",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistent testimony"
+            ],
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "risk_assessment": [
+                "credible fear of retaliation",
+                "threats from Maras 18"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "specific_threats_or_incidents": [
+                "threats and extortion"
+            ],
+            "nexus_to_convention_grounds": [
+                "need of protection"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "personalized_vs_generalized_risk": [
+                "personalized risk acknowledged but inadequately analyzed"
+            ],
+            "credibility_findings": [
+                "deemed inconsistent"
+            ],
+            "evidence_provided": [
+                "documentary evidence supporting specific threats"
+            ],
+            "refugee_status_claim": [
+                "refused by RPD"
+            ],
+            "judicial_review_result": [
+                "application allowed, RPD decision set aside, referred for new hearing"
+            ],
+            "applicable_law_section": [
+                "IRPA sections 96 and 97"
+            ]
+        }
+    ]
+}

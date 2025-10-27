@@ -1,0 +1,29 @@
+{
+    "Case ID": "075040",
+    "Different Crime": [
+        {
+            "Crime Name": "Denial of Fair Hearing",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "right to a fair hearing",
+                "right to an interpreter"
+            ],
+            "evidentiary_standard": [
+                "continuous, precise, competent, impartial, and contemporaneous interpretation"
+            ],
+            "credibility_findings": [
+                "adverse credibility findings due to poor-quality interpretation"
+            ],
+            "charter_rights_violation": [
+                "Section 14 of the Canadian Charter of Rights and Freedoms"
+            ],
+            "judicial_review_process": [
+                "judicial review application filed by applicants",
+                "Federal Court reviewed evidence"
+            ],
+            "decision_outcome": [
+                "case remanded for redetermination with proper interpretation services"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Case ID": "034796",
+    "Different Crime": [
+        {
+            "Crime Name": "Failing to comply with probation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "violation of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "admission of police reports",
+                "unproven allegations"
+            ],
+            "decision_reasoning": [
+                "conflation of crime nature",
+                "influence on decision-making"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "IAD's decision set aside",
+                "re-determination ordered"
+            ],
+            "cause_of_action": [
+                "improper admission of police reports"
+            ],
+            "procedure_followed": [
+                "judicial review application under s. 72(1)"
+            ],
+            "court_ruling": [
+                "application allowed",
+                "re-hearing ordered"
+            ]
+        }
+    ]
+}

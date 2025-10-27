@@ -1,0 +1,101 @@
+{
+    "Case ID": "077224",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Criminal Records Act"
+            ],
+            "decision_outcome": [
+                "Dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review"
+            ],
+            "evidence_provided": [
+                "Allegations of fraud",
+                "Positive identification by security officer"
+            ],
+            "standard_of_review": [
+                "Patently unreasonable standard"
+            ],
+            "judicial_authority": [
+                "National Parole Board (NPB)"
+            ],
+            "nature_of_offense": [
+                "Fraudulent activity post-conviction"
+            ]
+        },
+        {
+            "Crime Name": "Personation with Intent",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Criminal Records Act"
+            ],
+            "procedural_fairness": [
+                "consideration of all relevant and reliable evidence"
+            ],
+            "evidence_consideration": [
+                "unproven allegations",
+                "witness identifications"
+            ],
+            "serious_issue": [
+                "failure to demonstrate 'good conduct'"
+            ],
+            "reasonableness_of_decision": [
+                "NPB's decision was not patently unreasonable"
+            ],
+            "past_criminal_convictions": [
+                "charges for using a fake credit card (stayed)"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Criminal Records Act"
+            ],
+            "evidence_quality": [
+                "weak evidence"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "denied pardon"
+            ],
+            "reasoning_given": [
+                "considered all available information",
+                "reliable enough to conclude"
+            ]
+        },
+        {
+            "Crime Name": "Theft",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Criminal Records Act"
+            ],
+            "procedural_fairness": [
+                "consideration of all relevant and reliable evidence"
+            ],
+            "evidence_assessment": [
+                "unproven allegations",
+                "positive identification by security officer"
+            ],
+            "decision_reasoning": [
+                "properly considered all available information"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "NPB's decision upheld"
+            ]
+        }
+    ]
+}

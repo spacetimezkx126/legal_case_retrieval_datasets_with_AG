@@ -1,0 +1,37 @@
+{
+    "Case ID": "014419",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "PSSRA grievance process"
+            ],
+            "relevant_statute": [
+                "Public Service Staff Relations Act (PSSRA)",
+                "Section 91",
+                "Section 92"
+            ],
+            "procedure_followed": [
+                "grievance procedures",
+                "judicial review",
+                "summary judgment"
+            ],
+            "cause_of_action": [
+                "employment grievances",
+                "workplace grievances",
+                "termination"
+            ],
+            "decision_reasoning": [
+                "defer to grievance procedures",
+                "no exceptional circumstances",
+                "issues previously addressed"
+            ],
+            "result_of_case": [
+                "dismissed plaintiff's action",
+                "summary judgment in favor of defendants"
+            ]
+        }
+    ]
+}

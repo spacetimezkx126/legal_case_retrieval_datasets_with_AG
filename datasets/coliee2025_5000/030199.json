@@ -1,0 +1,50 @@
+{
+    "Case ID": "030199",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "ignored relevant evidence",
+                "minor discrepancies in interviews",
+                "substantial documentary evidence supporting the marriage's genuineness"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubts about marriage's genuineness"
+            ],
+            "procedural_fairness": [
+                "officer failed to properly analyze all evidence"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine"
+            ],
+            "procedural_fairness": [
+                "failure to analyze all evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act section 25"
+            ],
+            "evidence_provided": [
+                "documentary evidence supporting marriage's genuineness",
+                "minor discrepancies in interviews"
+            ],
+            "appeal_outcome": [
+                "judicial review granted, redetermination ordered"
+            ]
+        }
+    ]
+}

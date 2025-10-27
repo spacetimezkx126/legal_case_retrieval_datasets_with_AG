@@ -1,0 +1,79 @@
+{
+    "Case ID": "003746",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "doubted the wife's miscarriage claim despite lack of inconsistencies or implausibility"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to past persecution and fear of future harm in Turkey"
+            ],
+            "decision_outcome": [
+                "The Board dismissed claims of cumulative persecution"
+            ],
+            "misrepresentation_or_fraud": [
+                "Border document misrepresentation"
+            ],
+            "procedural_fairness": [
+                "errors in the Board's decision, allowing judicial review and remanding for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Cumulative persecution",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee status",
+                "past persecution",
+                "fear of future harm"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "credibility_findings": [
+                "negative credibility finding"
+            ],
+            "risk_of_persecution": [
+                "repeated detentions",
+                "abuse",
+                "beaten to the point of miscarriage"
+            ],
+            "decision_reasoning": [
+                "errors in the Board's decision"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed",
+                "case referred for redetermination"
+            ],
+            "result_of_case": [
+                "rehearing ordered by a different panel"
+            ]
+        },
+        {
+            "Crime Name": "Persecution based on race or religion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "Board dismissed claims without adequately addressing credibility issues"
+            ],
+            "cumulative_persecution": [
+                "Multiple incidents forming a pattern were not considered"
+            ],
+            "reasonableness_of_decision": [
+                "Standard of review for persecution claims is patent unreasonableness"
+            ],
+            "refugee_definition": [
+                "Applicants claimed refugee status due to past persecution and fear of future harm"
+            ],
+            "judicial_review_process": [
+                "Judicial review was sought after the Refugee Protection Division rejected the claim"
+            ],
+            "decision_outcome": [
+                "Application for judicial review was allowed, case sent for rehearing"
+            ]
+        }
+    ]
+}

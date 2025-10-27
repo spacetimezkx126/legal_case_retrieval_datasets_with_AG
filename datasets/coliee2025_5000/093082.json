@@ -1,0 +1,30 @@
+{
+    "Case ID": "093082",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to consider evidence"
+            ],
+            "evidence_assessment": [
+                "did not evaluate documentation",
+                "lack of consideration for English language training"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "procedural fairness breach alleged"
+            ],
+            "immigration_status": [
+                "work permit application denied"
+            ],
+            "document_authenticity": [
+                "CICEX documentation not evaluated"
+            ]
+        }
+    ]
+}

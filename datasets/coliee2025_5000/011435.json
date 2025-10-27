@@ -1,0 +1,30 @@
+{
+    "Case ID": "011435",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "Koo test",
+                "physical presence test",
+                "centralized mode of living"
+            ],
+            "procedural_fairness": [
+                "judicial discretion in test application"
+            ],
+            "evidence_provided": [
+                "inconsistencies in evidence regarding presence in Canada"
+            ],
+            "judicial_authority": [
+                "citizenship judge",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "non-compliance with residency requirements"
+            ]
+        }
+    ]
+}

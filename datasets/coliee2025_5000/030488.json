@@ -1,0 +1,92 @@
+{
+    "Case ID": "030488",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 58(1)(b)",
+                "IRPR s. 248"
+            ],
+            "risk_assessment": [
+                "flight risk"
+            ],
+            "evidence_assessment": [
+                "refugee claim's relevance",
+                "release plan"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "detention decision quashed",
+                "reconsideration ordered"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Pyramid scheme Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 58(1)(b)",
+                "IRPR s. 244(a)"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "procedural_fairness": [
+                "inadequate assessment of Release Plan",
+                "dismissal of relevance of refugee claim"
+            ],
+            "serious_criminality": [
+                "fugitive",
+                "defrauding $180 million in China"
+            ],
+            "risk_characterization": [
+                "flight risk"
+            ],
+            "appeal_outcome": [
+                "detention order quashed",
+                "case remanded to different Member for reassessment"
+            ],
+            "cause_of_action": [
+                "continued detention under IRPA",
+                "refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "Fugitive from justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 58(1)(b)",
+                "IRPR s. 248"
+            ],
+            "decision_reasoning": [
+                "inadequate analysis of flight risk",
+                "rejection of the release plan",
+                "expert evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "male applicant was a fugitive from justice in China",
+                "accused of defrauding $180 million",
+                "proposed a detailed release plan"
+            ],
+            "conclusion_outcome": [
+                "Member's decision was unreasonable"
+            ],
+            "result_of_case": [
+                "Federal Court granted judicial review",
+                "quashed the decision",
+                "remitted it for reconsideration by a different member"
+            ]
+        }
+    ]
+}

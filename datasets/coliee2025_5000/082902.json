@@ -1,0 +1,29 @@
+{
+    "Case ID": "082902",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "hearsay evidence",
+                "affidavit"
+            ],
+            "rule_applied": [
+                "Rule 81(1)"
+            ],
+            "procedure_followed": [
+                "analyzed hearsay evidence",
+                "balancing necessity, reliability, and prejudice"
+            ],
+            "decision_reasoning": [
+                "admissible due to necessity and reliability",
+                "struck out due to lack of evidence of attempts to locate her"
+            ],
+            "result_of_case": [
+                "part of the hearsay evidence was admitted",
+                "part was excluded",
+                "additional time was granted to locate a key witness"
+            ]
+        }
+    ]
+}

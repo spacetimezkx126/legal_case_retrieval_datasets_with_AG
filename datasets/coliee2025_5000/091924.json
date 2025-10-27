@@ -1,0 +1,68 @@
+{
+    "Case ID": "091924",
+    "Different Crime": [
+        {
+            "Crime Name": "Acknowledging an instrument in a false name under Criminal Code",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "punished by imprisonment of at least two years"
+            ],
+            "applicable_statute": [
+                "IRPA s. 64(2)",
+                "IRPA s. 72",
+                "Charter s. 7"
+            ],
+            "judicial_authority": [
+                "Appeal Division",
+                "Judicial review application"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "questions certified"
+            ],
+            "legal_basis": [
+                "'punished' refers to the imposed sentence, not time served",
+                "No Charter violation as deportation does not engage liberty interests for non-citizens"
+            ],
+            "cause_of_action": [
+                "challenged the dismissal of her appeal due to lack of jurisdiction under IRPA s. 64(2)"
+            ],
+            "nature_of_offense": [
+                "cocaine importation",
+                "acknowledging an instrument in a false name"
+            ]
+        },
+        {
+            "Crime Name": "Importing cocaine contrary to Controlled Drugs and Substances Act",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Controlled Drugs and Substances Act",
+                "IRPA s. 64(2)"
+            ],
+            "serious_criminality": [
+                "imprisonment of at least two years"
+            ],
+            "constitutional_challenge": [
+                "Charter s. 7"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "review_process": [
+                "Judicial review application"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA s. 64(2)"
+            ],
+            "criminal_history": [
+                "sentenced to three years for importing cocaine"
+            ],
+            "decision_made_by": [
+                "court"
+            ],
+            "consequences_of_decision": [
+                "Appeal Division lacked jurisdiction; certified questions remain unresolved"
+            ]
+        }
+    ]
+}

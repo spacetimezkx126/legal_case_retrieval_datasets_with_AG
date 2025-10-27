@@ -1,0 +1,30 @@
+{
+    "Case ID": "088055",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "Applicants worked illegally in Canada",
+                "Adapted to Canadian life"
+            ],
+            "immigration_status": [
+                "Refugee claims denied",
+                "Applied for permanent residence"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Worked without authorization"
+            ],
+            "procedural_fairness": [
+                "Immigration officer rejected application",
+                "Judicial review sought by applicants"
+            ],
+            "legal_basis": [
+                "Immigration Act subsection 114(2)"
+            ]
+        }
+    ]
+}

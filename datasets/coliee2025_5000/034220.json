@@ -1,0 +1,80 @@
+{
+    "Case ID": "034220",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 25(1) of IRPA",
+                "s. 6(1) of IRPA"
+            ],
+            "judicial_authority": [
+                "PRRA Officer",
+                "Federal Court"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "child's best interests"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "natural justice principles",
+                "no breach occurred"
+            ],
+            "cause_of_action": [
+                "judicial review application"
+            ],
+            "nature_of_offense": [
+                "criminal record"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of a Peace Officer",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 25(1) of IRPA",
+                "s. 6(1) of IRPA"
+            ],
+            "procedural_fairness": [
+                "PRRA Officer's decision"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "Zolotareva sought permanent residence on humanitarian grounds"
+            ],
+            "availability_of_alternative_remedies": [
+                "Judicial review application filed in Federal Court"
+            ],
+            "reasonableness_of_decision": [
+                "Federal Court dismissed the application, upholding PRRA Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 25(1) of IRPA",
+                "s. 6(1) of IRPA"
+            ],
+            "decision_reasoning": [
+                "PRRA Officer had jurisdiction to make determination under s. 25(1) of IRPA"
+            ],
+            "applicable_regulations": [
+                "Designation Modules (Item 45)"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "PRRA Officer's decision upheld as lawful and reasonable"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "Zolotareva sought permanent residence on humanitarian grounds"
+            ],
+            "natural_justice_principles": [
+                "Federal Court analyzed delegation, natural justice, and child interest considerations"
+            ]
+        }
+    ]
+}

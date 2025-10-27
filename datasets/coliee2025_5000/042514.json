@@ -1,0 +1,31 @@
+{
+    "Case ID": "042514",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "negative",
+                "implausibility"
+            ],
+            "procedural_fairness": [
+                "based on evidence",
+                "avoid unreasonable inferences"
+            ],
+            "evidence_assessment": [
+                "unsupported assumptions",
+                "plausible explanations ignored"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "reconsideration ordered"
+            ],
+            "specific_group_membership": [
+                "religious affiliation and activities"
+            ],
+            "burden_of_proof": [
+                "Board's reliance on assumptions"
+            ]
+        }
+    ]
+}

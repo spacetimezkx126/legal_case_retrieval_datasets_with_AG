@@ -1,0 +1,29 @@
+{
+    "Case ID": "059291",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Patent Act in Canada"
+            ],
+            "expert_testimony": [
+                "Dow's experts demonstrated that NOVA's SURPASS polymers contained homogeneously branched and heterogeneously branched components as defined in the patent"
+            ],
+            "patent_validity": [
+                "Claims 11, 15, 29, 30, 33, 35, 36, 41, and 42 of Canadian Patent No. 2,160,705 are valid"
+            ],
+            "technical_details": [
+                "polymer blends with specific properties outlined in the patent",
+                "homogeneously branched and heterogeneously branched components",
+                "strain hardening coefficients"
+            ],
+            "decision_outcome": [
+                "The court ruled in favor of Dow, declaring the specified claims valid and infringed upon by NOVA"
+            ],
+            "cause_of_action": [
+                "NOVA Chemicals Corporation infringed on Dow's Canadian Patent No. 2,160,705"
+            ]
+        }
+    ]
+}

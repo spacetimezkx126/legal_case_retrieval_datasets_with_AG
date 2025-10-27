@@ -1,0 +1,22 @@
+{
+    "Case ID": "035585",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of accumulated residence in Canada within four years preceding the application",
+                "232 days out of the required 1095"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "immigration_status": [
+                "denial of citizenship due to insufficient residency"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

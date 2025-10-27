@@ -1,0 +1,51 @@
+{
+    "Case ID": "058709",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown (domestic violence pattern)",
+            "Crime Type": "Violence-related_Crimes",
+            "child_best_interests": [
+                "considered Consent Order",
+                "other factors affecting children"
+            ],
+            "procedural_fairness": [
+                "interpreter's errors minor",
+                "no impact on outcome",
+                "fluent counsel",
+                "failed to object during hearing"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "refusal to stay removal order"
+            ],
+            "reasonableness_of_decision": [
+                "reviewed for reasonableness",
+                "upholding IAD's decision"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review analyzed decision-making process"
+            ]
+        },
+        {
+            "Crime Name": "Breach of probation",
+            "Crime Type": "others",
+            "best_interests_of_children": [
+                "considered but prioritized public safety"
+            ],
+            "procedural_fairness": [
+                "upheld despite minor translation issues"
+            ],
+            "decision_reasonableness": [
+                "deemed adequate and reasonable"
+            ],
+            "evidence_consideration": [
+                "criminal record, lack of rehabilitation, impact on children"
+            ],
+            "review_process": [
+                "judicial review analyzed IAD’s decision-making process, evidence weight, and procedural fairness"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed; no serious question certified"
+            ]
+        }
+    ]
+}

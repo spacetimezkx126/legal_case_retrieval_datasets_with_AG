@@ -1,0 +1,34 @@
+{
+    "Case ID": "099110",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "risk_of_persecution": [
+                "detention",
+                "physical and sexual abuse",
+                "loss of family members"
+            ],
+            "legal_basis": [
+                "Section 2(3)",
+                "serious past persecution",
+                "Convention refugee status"
+            ],
+            "decision_outcome": [
+                "case remanded for reconsideration",
+                "application granted"
+            ],
+            "specific_vulnerabilities": [
+                "psychological evidence",
+                "ongoing trauma"
+            ],
+            "standard_of_proof": [
+                "applicable definitions",
+                "subjective fear of return"
+            ],
+            "nexus_to_convention_grounds": [
+                "experiences as persecution"
+            ]
+        }
+    ]
+}

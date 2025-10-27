@@ -1,0 +1,32 @@
+{
+    "Case ID": "077314",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirement",
+                "717 days",
+                "1095-day requirement"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "three out of four years preceding application"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "reapply for citizenship"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "Federal Court"
+            ],
+            "immigration_status": [
+                "citizenship applicant"
+            ],
+            "document_authenticity": [
+                "physical presence verified"
+            ]
+        }
+    ]
+}

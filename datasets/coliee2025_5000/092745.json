@@ -1,0 +1,88 @@
+{
+    "Case ID": "092745",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inability to access state protection"
+            ],
+            "internal_flight_alternative": [
+                "reasonable internal relocation option",
+                "internal relocation possibility"
+            ],
+            "evidence_consideration": [
+                "no credible evidence showing inability to relocate internally"
+            ],
+            "risk_assessment": [
+                "facing threats and violence"
+            ],
+            "reasonableness_of_decision": [
+                "tribunal's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "serious risk of persecution in other Mexican cities"
+            ],
+            "standard_of_review": [
+                "manifest unreasonableness for internal refuge possibility"
+            ],
+            "internal_flight_alternative": [
+                "internal refuge was possible"
+            ],
+            "evidence_assessment": [
+                "limited weight was given to a Mexican lawyer's letter due to timing",
+                "no evidence showed Sanchez's influence in major cities"
+            ],
+            "decision_reasoning": [
+                "tribunal considered Mexico's large population and multiple cities, finding it unreasonable for Sanchez's influence to extend nationwide"
+            ],
+            "conclusion_outcome": [
+                "judicial review application is dismissed"
+            ],
+            "application_details": [
+                "applicant claimed persecution by a drug trafficker in Mexico and sought refugee status in Canada"
+            ],
+            "procedure_followed": [
+                "judicial review of the Immigration and Refugee Board's decision denying refugee status"
+            ],
+            "result_of_case": [
+                "judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to traffic narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "refugee_status": [
+                "claimed refugee status"
+            ],
+            "internal_flight_alternative": [
+                "inability to relocate internally",
+                "possibility of internal relocation"
+            ],
+            "state_protection": [
+                "lack of state protection",
+                "seek state protection"
+            ],
+            "evidence_sufficiency": [
+                "failed to provide clear evidence"
+            ],
+            "decision_made_by": [
+                "Tribunal",
+                "Court"
+            ],
+            "decision_outcome": [
+                "decision was reasonable",
+                "judicial review application is dismissed",
+                "upholding the Tribunal’s decision"
+            ],
+            "applicable_law_or_regulation": [
+                "Refugee Convention",
+                "LIPR"
+            ]
+        }
+    ]
+}

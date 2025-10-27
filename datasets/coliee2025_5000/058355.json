@@ -1,0 +1,79 @@
+{
+    "Case ID": "058355",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "Section 97 of the Act",
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of personalized risk in Cuba"
+            ],
+            "risk_assessment": [
+                "political opinion",
+                "homosexuality"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "justification, transparency, and intelligibility in the decision-making process"
+            ]
+        },
+        {
+            "Crime Name": "Refugee protection claim rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 97"
+            ],
+            "risk_of_persecution": [
+                "political opinion",
+                "homosexuality"
+            ],
+            "evidence_assessment": [
+                "no evidence of current targeting by Cuban authorities",
+                "no mistreatment of her family"
+            ],
+            "decision_outcome": [
+                "PRRA officer's decision was reasonable"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "specific_group_membership": [
+                "political opinion",
+                "homosexuality"
+            ],
+            "burden_of_proof": [
+                "applicant failed to prove personalized risk"
+            ],
+            "review_standard": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside the country of refuge",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "burden_of_proof": [
+                "personalized risk of torture, life-threatening danger, or cruel and unusual treatment upon return"
+            ],
+            "evidentiary_standard": [
+                "sufficient evidence required for personalized risk"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA officer's decision deemed reasonable"
+            ],
+            "judicial_review_process": [
+                "assessed reasonableness of PRRA officer's findings of fact and law"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

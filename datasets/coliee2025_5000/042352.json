@@ -1,0 +1,63 @@
+{
+    "Case ID": "042352",
+    "Different Crime": [
+        {
+            "Crime Name": "Using a fraudulent passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "implausible",
+                "inconsistencies",
+                "lacked evidence"
+            ],
+            "legal_basis": [
+                "Dunsmuir",
+                "Aguebor",
+                "reasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible",
+                "alleged persecution in Pakistan"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Board's decision affirmed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "used a fraudulent passport"
+            ]
+        },
+        {
+            "Crime Name": "Counterfeiting or using counterfeit stamps",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "inconsistent and implausible evidence",
+                "counterfeit passport stamp",
+                "implausible explanations"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "decision_outcome": [
+                "upheld the Board's decision"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "persecution_details": [
+                "alleged persecution in Pakistan"
+            ],
+            "material_misrepresentation": [
+                "inconsistencies in travel history and presence claims"
+            ]
+        }
+    ]
+}

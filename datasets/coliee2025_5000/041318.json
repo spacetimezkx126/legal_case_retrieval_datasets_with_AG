@@ -1,0 +1,29 @@
+{
+    "Case ID": "041318",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "section 5(1)(c) of the Citizenship Act",
+                "1,095 days of residence in Canada over four years",
+                "Re Koo test"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "incorrect day counts",
+                "misinterpretation of evidence"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "Re Koo test"
+            ]
+        }
+    ]
+}

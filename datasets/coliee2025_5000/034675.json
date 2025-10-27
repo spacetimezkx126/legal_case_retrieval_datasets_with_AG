@@ -1,0 +1,53 @@
+{
+    "Case ID": "034675",
+    "Different Crime": [
+        {
+            "Crime Name": "Failing to stop at the scene of an accident causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "H & C application denied"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard for H & C decisions"
+            ],
+            "past_criminal_convictions": [
+                "pending criminal charges"
+            ],
+            "reasonableness_of_decision": [
+                "decision found unreasonable"
+            ],
+            "risk_assessment": [
+                "influence of pending charges on decision"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "humanitarian_concerns": [
+                "H&C application denied"
+            ],
+            "decision_outcome": [
+                "set aside; case referred for rehearing"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness, transparency, fairness"
+            ],
+            "relevant_factors": [
+                "pending criminal charges",
+                "broader circumstances"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

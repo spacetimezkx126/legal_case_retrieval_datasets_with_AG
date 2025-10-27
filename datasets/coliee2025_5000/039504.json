@@ -1,0 +1,91 @@
+{
+    "Case ID": "039504",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "standard of review for findings of fact",
+                "credibility",
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "police assaults linked to political activism"
+            ],
+            "evidence_consideration": [
+                "medical report",
+                "speculative findings",
+                "lacked factual basis",
+                "conjecture rather than inference"
+            ],
+            "serious_issue": [
+                " Refugee Protection Division's decision",
+                "unreasonable due to speculative findings"
+            ],
+            "refugee_status_nexus": [
+                "alleged police assaults",
+                "political activism in Azerbaijan"
+            ],
+            "reasonableness_of_decision": [
+                "decision was unreasonable",
+                "case is remanded for a fresh determination"
+            ]
+        },
+        {
+            "Crime Name": "Unlawful Imprisonment",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "speculation",
+                "unreasonable"
+            ],
+            "evidence_assessment": [
+                "medical report",
+                "hospital incident"
+            ],
+            "credibility_findings": [
+                "forged",
+                "untrustworthy"
+            ],
+            "refugee_status": [
+                "rejected"
+            ],
+            "conclusion_outcome": [
+                "remanded for fresh determination"
+            ],
+            "cause_of_action": [
+                "political activities",
+                "alleged persecution"
+            ],
+            "procedure_followed": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "granted judicial review",
+                "new hearing ordered"
+            ]
+        },
+        {
+            "Crime Name": "Political Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "dismissed as fabricated",
+                "based on speculation"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_process": [
+                "granted judicial review"
+            ],
+            "burden_of_proof": [
+                "standard of review for credibility findings is reasonableness"
+            ]
+        }
+    ]
+}

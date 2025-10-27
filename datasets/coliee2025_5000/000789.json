@@ -1,0 +1,30 @@
+{
+    "Case ID": "000789",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Expungement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Section 45 of the Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "sales figures",
+                "photograph"
+            ],
+            "decision_outcome": [
+                "trademark expunged",
+                "appeal dismissed"
+            ],
+            "procedural_fairness": [
+                "Section 45 notice issued",
+                "affidavits and a hearing"
+            ],
+            "cause_of_action": [
+                "lack of trademark use"
+            ],
+            "relationship_genuineness": [
+                "nexus between trademark use and registered owner"
+            ]
+        }
+    ]
+}

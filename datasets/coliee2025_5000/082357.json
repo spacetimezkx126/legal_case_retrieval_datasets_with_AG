@@ -1,0 +1,24 @@
+{
+    "Case ID": "082357",
+    "Different Crime": [
+        {
+            "Crime Name": "Visa Application Refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration officials are responsible for ensuring notices are properly sent"
+            ],
+            "procedural_fairness": [
+                "if communication is sent to a valid, unrevoked address without indication of failure, the risk rests with the applicant"
+            ],
+            "evidence_assessment": [
+                "The High Commission sent the email to the last known address provided by the applicant's representative"
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Ms. Kaur's visa application was refused due to non-submission of requested documents"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "097928",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency Requirement Violation",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "three out of four years preceding citizenship application"
+            ],
+            "relevant_statute": [
+                "Citizenship Act"
+            ],
+            "specific_rule_applied": [
+                "Section 5(1)(c)"
+            ],
+            "application_details": [
+                "physically absent from Canada for most of the required period, attending school in the U.S."
+            ],
+            "decision_reasoning": [
+                "did not establish herself as a resident"
+            ],
+            "result_of_case": [
+                "appeal allowed; decision of citizenship judge set aside"
+            ],
+            "procedure_followed": [
+                "Citizenship judge initially approved the application. The Minister appealed, leading to Federal Court review."
+            ]
+        }
+    ]
+}

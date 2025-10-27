@@ -1,0 +1,52 @@
+{
+    "Case ID": "078432",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with Proceeds of Crime (Money Laundering) and Terrorist Financing Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Proceeds of Crime (Money Laundering) and Terrorist Financing Act"
+            ],
+            "evidence_quality": [
+                "Non-compliance identified during examination period"
+            ],
+            "decision_outcome": [
+                "Violations upheld, penalties re-determined"
+            ],
+            "judicial_review_result": [
+                "Appeal partially allowed"
+            ],
+            "applicable_law_section": [
+                "Requirements for compliance policies, risk assessments, training programs"
+            ],
+            "reasoning_given": [
+                "Lack of transparency in penalty calculation"
+            ]
+        },
+        {
+            "Crime Name": "Failure to develop and apply written compliance policies and procedures",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Proceeds of Crime (Money Laundering) and Terrorist Financing Act"
+            ],
+            "evidence_assessment": [
+                "inadequate policies",
+                "no documented risk assessment",
+                "insufficient training"
+            ],
+            "decision_reasoning": [
+                "violation of the Act",
+                "unreasonable penalty calculation"
+            ],
+            "result_of_case": [
+                "appeal partially allowed",
+                "case returned for re-determination of penalties"
+            ],
+            "relevant_statute": [
+                "requirements for written compliance policies",
+                "risk assessments",
+                "training programs"
+            ]
+        }
+    ]
+}

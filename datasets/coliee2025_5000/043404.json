@@ -1,0 +1,29 @@
+{
+    "Case ID": "043404",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "risk_of_persecution": [
+                "generalized risk",
+                "specific targeting"
+            ],
+            "credibility_findings": [
+                "credible testimony"
+            ],
+            "evidence_assessment": [
+                "ignoring specific targeting"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "specific_threats": [
+                "threats from Mara 13 gang"
+            ],
+            "country_conditions": [
+                "El Salvador"
+            ]
+        }
+    ]
+}

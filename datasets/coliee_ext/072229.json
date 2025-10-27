@@ -1,0 +1,112 @@
+{
+    "Case ID": "072229",
+    "Crimes": [
+        {
+            "Crime_Name": "Residence Requirement Violation under Citizenship Act",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Citizenship eligibility dispute",
+            "Legal_Issue": "Whether the applicant met the residence requirement under the Citizenship Act",
+            "Governing_Law": "Citizenship Act",
+            "Decision_Level": "Citizenship judge decision",
+            "Review_Court": "Federal Court",
+            "Outcome": "Citizenship approval set aside",
+            "Procedural_Context": "Judicial review following citizenship approval despite officer's concerns",
+            "Credibility_Assessment": "Credibility concerns due to contradictions in travel records",
+            "Evidence_Type": [
+                "Travel records",
+                "Residency documentation"
+            ],
+            "Legal_Provision": "Residence requirement: at least three years in Canada within four years preceding application",
+            "Basis_of_Claim": "Failure to meet physical presence or intent test for residency",
+            "Evaluation_Standard": "Reasonableness standard",
+            "Key_Factor_in_Determination": "Clarity of reasoning and completeness of evidence assessment",
+            "Proceeding_Type": "Judicial review",
+            "Decision_Maker": "Citizenship judge",
+            "Regulation_Cited": "Citizenship Act, residence provisions",
+            "Application_Error": "Insufficient explanation of which residency test was applied",
+            "Review_Outcome": "Decision found unreasonable",
+            "Assessment_Standard": "Reasonableness",
+            "Evidence_Ignored": [
+                "Contradictions in travel records",
+                "Gaps in residency documentation"
+            ],
+            "Legal_Standard": "Reasonableness of administrative decision",
+            "Application_Factor": "Accumulation of qualifying residency days",
+            "Decision_Outcome": "Approval of citizenship application",
+            "Authority": "Citizenship judge under Citizenship Act",
+            "Decision_Review_Issue": "Sufficiency of reasons and evidentiary gaps",
+            "Standard_of_Review": "Reasonableness",
+            "Governing_Rule_or_Provision": "Citizenship Act – residency requirement",
+            "Outcome_of_Review": "Decision set aside and remitted for redetermination",
+            "Cause_of_Refusal": "Unaddressed discrepancies in residency claims",
+            "Legal_Provision_Cited": "Citizenship Act, s. 5(1)",
+            "Evidentiary_Issues": [
+                "Inconsistent travel records",
+                "Lack of supporting documents"
+            ],
+            "Procedural_Fairness": "Failure to address material concerns raised by immigration officer",
+            "Document_Fraud": null,
+            "Credibility_Issues": "Yes",
+            "Legal_Defense_or_Challenge": "Applicant challenged refusal based on deemed residency fulfillment",
+            "Jurisdictional_Focus": "Federal (Canada)",
+            "Relevant_Law": "Citizenship Act",
+            "Procedural_Issue": "Insufficient reasoning in judicial decision",
+            "Omission_Type": "Failure to analyze key evidence",
+            "Grounds_for_Inadmissibility": null
+        },
+        {
+            "Crime_Name": "False Representation in Citizenship Application",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Citizenship eligibility dispute involving alleged misrepresentation",
+            "Legal_Issue": "Whether the citizenship judge provided sufficient reasons for approving the application despite credibility concerns",
+            "Governing_Law": "Citizenship Act",
+            "Decision_Level": "Citizenship judge decision",
+            "Review_Court": "Federal Court",
+            "Outcome": "Original approval overturned",
+            "Procedural_Context": "Judicial review initiated by Minister of Citizenship and Immigration",
+            "Credibility_Assessment": "Serious doubts due to travel record discrepancies and incomplete documentation",
+            "Evidence_Type": [
+                "Travel records",
+                "Residency declarations",
+                "Supporting documents"
+            ],
+            "Legal_Provision": "Prohibition of false representation under Citizenship Act",
+            "Basis_of_Claim": "Alleged false or misleading information regarding residency",
+            "Evaluation_Standard": "Reasonableness standard",
+            "Key_Factor_in_Determination": "Use of speculative language and unaddressed evidence gaps",
+            "Proceeding_Type": "Judicial review on appeal by the Minister",
+            "Decision_Maker": "Citizenship judge",
+            "Regulation_Cited": "Citizenship Act – false representation provisions",
+            "Application_Error": "Use of non-committal language (e.g., 'seems') and failure to resolve inconsistencies",
+            "Review_Outcome": "Decision found unreasonable",
+            "Assessment_Standard": "Reasonableness",
+            "Evidence_Ignored": [
+                "Contradictory travel records",
+                "Incomplete residency proof"
+            ],
+            "Legal_Standard": "Reasonableness of administrative decision",
+            "Application_Factor": "Truthfulness and completeness of application statements",
+            "Decision_Outcome": "Approval of citizenship application",
+            "Authority": "Citizenship judge under Citizenship Act",
+            "Decision_Review_Issue": "Adequacy of reasons and handling of false representation concerns",
+            "Standard_of_Review": "Reasonableness",
+            "Governing_Rule_or_Provision": "Citizenship Act – prohibition of false representation",
+            "Outcome_of_Review": "Decision set aside and remitted for reassessment",
+            "Cause_of_Refusal": "Concerns about false residency claims",
+            "Legal_Provision_Cited": "Citizenship Act, s. 12(1) – false representation",
+            "Evidentiary_Issues": [
+                "Discrepancies in travel history",
+                "Lack of verifiable documentation"
+            ],
+            "Procedural_Fairness": "Failure to properly assess allegations of misrepresentation",
+            "Document_Fraud": "Potential",
+            "Credibility_Issues": "Yes",
+            "Legal_Defense_or_Challenge": "Applicant maintained truthfulness of claims",
+            "Jurisdictional_Focus": "Federal (Canada)",
+            "Relevant_Law": "Citizenship Act",
+            "Procedural_Issue": "Inadequate justification for credibility findings",
+            "Omission_Type": "Failure to address material contradictions",
+            "Grounds_for_Inadmissibility": "Misrepresentation under IRPA"
+        }
+    ]
+}

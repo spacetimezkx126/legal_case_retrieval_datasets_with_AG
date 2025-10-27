@@ -1,0 +1,51 @@
+{
+    "Case ID": "018856",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient evidence for FGM risk",
+                "no excessive hardship shown"
+            ],
+            "legal_basis": [
+                "Section 25(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "inadequate evidence supporting claims"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose criminal record",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "FGM",
+                "hardship"
+            ],
+            "legal_basis": [
+                "Section 25(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "no unusual hardship demonstrated"
+            ],
+            "evidence_presented": [
+                "insufficient evidence of hardship or risk"
+            ],
+            "result_of_case": [
+                "Applications dismissed"
+            ],
+            "cause_of_action": [
+                "refugee claims denied due to lack of credibility and criminal history"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed reasonableness of officer's decision on H&C grounds"
+            ]
+        }
+    ]
+}

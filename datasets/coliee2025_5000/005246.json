@@ -1,0 +1,57 @@
+{
+    "Case ID": "005246",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration violation under Immigration Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 19(1)(f)(iii)(B) of the Immigration Act"
+            ],
+            "credibility_assessment": [
+                "denials were deemed incongruous and not credible"
+            ],
+            "evidence_assessment": [
+                "Federal Court reviewed evidence, including confidential information"
+            ],
+            "decision_outcome": [
+                "Court upheld the certificate, deeming it reasonable"
+            ],
+            "criminality_inadmissibility": [
+                "certificate claiming Singh was part of a terrorist organization"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe",
+                "assessed on a balance of probabilities"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in or supporting terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "BK/BKI leaders",
+                "Sikh militant group"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "credibility_findings": [
+                "incongruous",
+                "not credible"
+            ],
+            "decision_outcome": [
+                "certificate upheld as reasonable"
+            ],
+            "evidence_provided": [
+                "close ties with BK/BKI leaders",
+                "sheltered the wife of a former leader",
+                "admitted receiving calls from Wadawa Singh Babbar"
+            ],
+            "applicable_law_section": [
+                "s. 40.1 of the Immigration Act"
+            ],
+            "risk_to_national_security": [
+                "likely a member of a terrorist organization"
+            ]
+        }
+    ]
+}

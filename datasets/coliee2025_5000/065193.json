@@ -1,0 +1,36 @@
+{
+    "Case ID": "065193",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "in rem",
+                "in personam"
+            ],
+            "relevant_statute": [
+                "Federal Court Act, sections 22(1) and 22(2)(m/n)"
+            ],
+            "cause_of_action": [
+                "copyright infringement",
+                "breach of contract"
+            ],
+            "application_details": [
+                "plaintiffs claimed in rem jurisdiction under copyright and contract laws"
+            ],
+            "decision_reasoning": [
+                "designs were for a non-existent ship",
+                "no construction contract existed",
+                "does not meet requirements of s. 22(2)(m/n)"
+            ],
+            "result_of_case": [
+                "in rem claim dismissed",
+                "proceeds as in personam action"
+            ],
+            "conclusion_outcome": [
+                "court lacks in rem jurisdiction",
+                "'Amity' released from arrest"
+            ]
+        }
+    ]
+}

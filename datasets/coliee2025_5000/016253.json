@@ -1,0 +1,28 @@
+{
+    "Case ID": "016253",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Irregularities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "implicit credibility findings"
+            ],
+            "procedural_fairness": [
+                "breaching procedural fairness",
+                "procedural unfairness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "prior Board findings"
+            ],
+            "decision_outcome": [
+                "decision unreasonable",
+                "redetermination by a different officer"
+            ],
+            "standard_of_review": [
+                "reasonableness for evidence assessment",
+                "correctness for procedural fairness"
+            ]
+        }
+    ]
+}

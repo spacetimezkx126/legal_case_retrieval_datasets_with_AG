@@ -1,0 +1,55 @@
+{
+    "Case ID": "032785",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency Requirement Non-Compliance under Citizenship Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "non-compliance",
+                "s. 5(1)(c)",
+                "physical presence",
+                "absences from Canada"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "decision quashed"
+            ],
+            "standard_of_review": [
+                "Federal Court, Trial Division review"
+            ],
+            "evidence_assessment": [
+                "insufficient physical presence",
+                "family ties",
+                "business connections"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "s. 5(1)(c) residency requirement"
+            ]
+        },
+        {
+            "Crime Name": "False or Misleading Information in Citizenship Application",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "evidence_credibility": [
+                "inaccurate reporting",
+                "honest mistake"
+            ],
+            "procedural_fairness": [
+                "Citizenship Judge failed to verify details",
+                "Federal Court review"
+            ],
+            "residency_criteria": [
+                "truthfully report absences",
+                "minor discrepancy (20-25 days)"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "errors in assessing residency requirements"
+            ],
+            "reasoning_given": [
+                "discrepancy not material",
+                "issue alone did not justify overturning decision"
+            ]
+        }
+    ]
+}

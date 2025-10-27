@@ -1,0 +1,32 @@
+{
+    "Case ID": "015055",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "CIC not responsible for ensuring communication receipt unless evidence of failure exists",
+                "Applicant must prove non-receipt and ensure application completeness"
+            ],
+            "decision_reasoning": [
+                "Applicant failed to prove non-receipt and ensure application completeness"
+            ],
+            "application_details": [
+                "Applicant claimed non-receipt of a letter requesting documents but provided no proof",
+                "She partially fulfilled the request and assumed her application was complete after submitting one document",
+                "Her request for further notice was deemed insufficient to shift the burden"
+            ],
+            "cause_of_action": [
+                "Applicant's PR application was rejected for missing documentation",
+                "Judicial review claim of procedural unfairness"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed whether CIC met procedural fairness standards in rejecting the application"
+            ],
+            "result_of_case": [
+                "Court dismissed the application",
+                "Finding no breach of procedural fairness"
+            ]
+        }
+    ]
+}

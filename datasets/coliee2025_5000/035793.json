@@ -1,0 +1,33 @@
+{
+    "Case ID": "035793",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "collusion",
+                "conspiracy"
+            ],
+            "procedural_fairness": [
+                "right to be heard"
+            ],
+            "court_jurisdiction": [
+                "Federal Court lacks jurisdiction over provincial entities"
+            ],
+            "relevant_rule": [
+                "Res judicata"
+            ],
+            "decision_reasoning": [
+                "previously addressed in B.C. Supreme Court actions",
+                "new allegations either duplicate past issues or are irrelevant"
+            ],
+            "result_of_case": [
+                "Claim dismissed as an abuse of process",
+                "no costs awarded to defendants"
+            ],
+            "application_details": [
+                "Defendants moved to strike out the claim under court rules for being scandalous, frivolous, or vexatious"
+            ]
+        }
+    ]
+}

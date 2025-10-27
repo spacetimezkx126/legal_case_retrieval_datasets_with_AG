@@ -1,0 +1,49 @@
+{
+    "Case ID": "041472",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Inadmissibility Based on Criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "deportation order upheld",
+                "no extension granted"
+            ],
+            "procedural_fairness": [
+                "judicial review process",
+                "consideration of delay justification"
+            ],
+            "misrepresentation_or_fraud": [],
+            "regulatory_compliance": [
+                "deportation orders are valid if based on a conviction at the time of issuance"
+            ]
+        },
+        {
+            "Crime Name": "Mischief Under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "deportation order remains valid"
+            ],
+            "procedural_fairness": [
+                "judicial review application filed late"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "nature_of_offense": [
+                "mischief"
+            ]
+        }
+    ]
+}

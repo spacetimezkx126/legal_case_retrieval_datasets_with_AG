@@ -1,0 +1,97 @@
+{
+    "Case ID": "081699",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "risk_assessment": [
+                "gang threats",
+                "extortion",
+                "generalized risk"
+            ],
+            "legal_basis": [
+                "IRPA s. 97(1)(b)(ii)"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "RPD decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "nexus_to_convention_grounds": [
+                "not met"
+            ],
+            "risk_characterization": [
+                "general risk"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "applicable_statute": [
+                "IRPA, s. 97(1)(b)(ii)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "claim_nature": [
+                "refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "specific_threats_or_incidents": [
+                "threatened and assaulted by Mara 18 for refusing to pay 'war tax'"
+            ],
+            "risk_of_persecution": [
+                "risk faced by Mr. Guifarro"
+            ],
+            "country_conditions": [
+                "widespread risk among those perceived as wealthy in Honduras"
+            ],
+            "reasonableness_of_decision": [
+                "Court upheld RPD's decision"
+            ],
+            "refugee_status_nexus": [
+                "refugee claimant must prove a personalized risk not faced generally by others in their country"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "gang extortion"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "refugee_status": [
+                "claim dismissed"
+            ],
+            "decision_reasoning": [
+                "widespread risk acknowledged"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "conclusion_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Case ID": "060602",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related offenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "Applicant's criminality disqualified him from an administrative stay"
+            ],
+            "best_interests_of_children": [
+                "He failed to prove irreparable harm or raise the child's best interests during interviews"
+            ],
+            "family_class_considerations": [
+                "Family separation was not deemed irreparable harm"
+            ],
+            "decision_outcome": [
+                "Removal order stayed denied; applicant must comply with deportation"
+            ],
+            "standard_of_review": [
+                "The Federal Court must assess if the applicant meets criteria: a serious issue for judicial review, risk of irreparable harm, and favorable balance of convenience"
+            ]
+        }
+    ]
+}

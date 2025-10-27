@@ -1,0 +1,34 @@
+{
+    "Case ID": "039860",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "discrepancies in testimony",
+                "evasion during questioning",
+                "inconsistent statements about threats",
+                "failure to seek asylum in the U.S."
+            ],
+            "evidence_assessment": [
+                "discounted documentary evidence",
+                "perceived lack of credibility"
+            ],
+            "reasonableness_standard": [
+                "credibility findings were unreasonable",
+                "ignored explanations provided by applicants",
+                "overly relied on failure to claim asylum in the U.S."
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "RPD's decision quashed",
+                "matter referred back for reevaluation"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97",
+                "well-founded fear of persecution",
+                "risk to life due to race, religion, nationality, social group, or political opinion"
+            ]
+        }
+    ]
+}

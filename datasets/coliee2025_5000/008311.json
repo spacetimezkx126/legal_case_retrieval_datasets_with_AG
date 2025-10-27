@@ -1,0 +1,27 @@
+{
+    "Case ID": "008311",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "abuse of process"
+            ],
+            "relevant_rule": [
+                "repetitive litigation on issues already fully litigated is considered an abuse of process"
+            ],
+            "application_details": [
+                "Hoffmann-La Roche previously lost similar cases against Nu-Pharm and Apotex. Pro Doc's notice of allegation is virtually identical to the prior notices, claiming no infringement due to exclusion of specific acids in the patent."
+            ],
+            "decision_reasoning": [
+                "court dismissed Hoffmann-La Roche's application as an abuse of process, prohibiting repetitious litigation."
+            ],
+            "procedure_followed": [
+                "Pro Doc filed a motion to dismiss Hoffmann-La Roche's prohibition application, arguing it was an abuse of process. The court reviewed prior cases and evidence."
+            ],
+            "result_of_case": [
+                "court granted Pro Doc's motion, dismissing Hoffmann-La Roche's application and awarding costs."
+            ]
+        }
+    ]
+}

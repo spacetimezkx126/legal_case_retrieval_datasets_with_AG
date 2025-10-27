@@ -1,0 +1,57 @@
+{
+    "Case ID": "064463",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Mara Salvatrucha"
+            ],
+            "inadmissibility_criteria": [
+                "IRPA s. 37(1)(a)"
+            ],
+            "specific_actions_or_activities": [
+                "taxing bus passengers",
+                "attending meetings"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds for believing he was a member of a criminal organization"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Illegal possession of a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA section 37(1)(a)"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "criminal_history": [
+                "membership in Mara Salvatrucha",
+                "participation in criminal activities"
+            ],
+            "refugee_protection": [
+                "challenged"
+            ],
+            "court_ruling": [
+                "inadmissible to Canada"
+            ]
+        }
+    ]
+}

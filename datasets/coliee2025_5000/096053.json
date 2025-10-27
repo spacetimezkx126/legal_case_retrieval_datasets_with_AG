@@ -1,0 +1,30 @@
+{
+    "Case ID": "096053",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days over four years",
+                "permanent resident",
+                "preceding their application"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "incomplete, vague, and inconsistent documents"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "original decision set aside",
+                "case referred to a new citizenship judge"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "unreasonable due to insufficient evidence and inadequate reasoning"
+            ]
+        }
+    ]
+}

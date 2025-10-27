@@ -1,0 +1,27 @@
+{
+    "Case ID": "064960",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of fairness",
+                "failure to consider Yan's request for discretion"
+            ],
+            "immigration_status": [
+                "permanent residence application rejected"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "decision quashed",
+                "matter referred back for redetermination"
+            ],
+            "standard_of_review": [
+                "visa officer's failure to consider discretion under section 11(3) of the Regulations"
+            ],
+            "regulatory_compliance": [
+                "request for discretion based on qualifications ignored"
+            ]
+        }
+    ]
+}

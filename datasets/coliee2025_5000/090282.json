@@ -1,0 +1,38 @@
+{
+    "Case ID": "090282",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Act",
+                "Broadcasting Act",
+                "Radiocommunication Act",
+                "Canadian Charter of Rights and Freedoms"
+            ],
+            "procedural_fairness": [
+                "failed to comply with procedural requirements",
+                "notifying attorneys general under s. 57 of the Federal Court Act"
+            ],
+            "decision_reasoning": [
+                "procedural defects",
+                "refile after correcting errors"
+            ],
+            "cause_of_action": [
+                "restricting religious broadcasting",
+                "seizing equipment"
+            ],
+            "procedure_followed": [
+                "analyzed legal grounds",
+                "jurisdictional issues",
+                "procedural compliance",
+                "adjourning the case sine die"
+            ],
+            "result_of_case": [
+                "Motion denied",
+                "granted leave to amend and refile",
+                "complying with legal formalities"
+            ]
+        }
+    ]
+}

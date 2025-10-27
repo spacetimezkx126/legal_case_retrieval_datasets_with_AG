@@ -1,0 +1,131 @@
+{
+    "Case ID": "007469",
+    "Different Crime": [
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequacy",
+                "not effectiveness"
+            ],
+            "evidence_provided": [
+                "clear and convincing evidence"
+            ],
+            "risk_characterization": [
+                "threats and attacks"
+            ],
+            "specific_targeting": [
+                "after testifying in court"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee status"
+            ],
+            "reasonableness_standard": [
+                "reasonable based on the evidence presented"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "standard_of_review": [
+                "reasonableness under section 72(1) of IRPA"
+            ],
+            "decision_outcome": [
+                "rejected"
+            ],
+            "procedural_fairness": [
+                "police took the matter seriously"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "active police engagement"
+            ],
+            "risk_assessment": [
+                "threats and violence after testifying in court"
+            ],
+            "evidence_consideration": [
+                "clear and convincing evidence to rebut the presumption of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision fell within acceptable outcomes based on the evidence provided"
+            ],
+            "refugee_status_nexus": [
+                "fear of persecution from a criminal family in Jordan after testifying against them"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "adequacy",
+                "not effectiveness",
+                "clear and convincing evidence",
+                "home country's protection"
+            ],
+            "specific_actions_or_activities": [
+                "testifying in court",
+                "faced threats and attacks"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on the evidence presented"
+            ],
+            "refugee_status_claim": [
+                "refugee status due to threats and attacks"
+            ],
+            "judicial_review_result": [
+                "dismissed the application"
+            ],
+            "applicable_law_section": [
+                "section 72(1) of IRPA"
+            ],
+            "decision_outcome": [
+                "rejected by both the RPD and the Federal Court"
+            ],
+            "evidence_provided": [
+                "threats and attacks from a criminal's family"
+            ],
+            "risk_assessment": [
+                "adequate state protection existed in Jordan"
+            ]
+        },
+        {
+            "Crime Name": "Unknown (Potential Tribal Revenge not explicitly defined as a crime)",
+            "Crime Type": "others",
+            "state_protection": [
+                "adequacy",
+                "not effectiveness",
+                "no perfect protection required"
+            ],
+            "evidence_assessment": [
+                "threats and attacks after testifying",
+                "police investigations",
+                "no arrests made",
+                "serious police response but no clear evidence of inadequacy"
+            ],
+            "decision_reasoning": [
+                "RPD's decision reasonable",
+                "within acceptable outcomes"
+            ],
+            "cause_of_action": [
+                "refugee status claim",
+                "fear of tribal revenge in Jordan"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "IRPA section 72(1)",
+                "reasonableness standard of review"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "court upheld RPD's decision"
+            ]
+        }
+    ]
+}

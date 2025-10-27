@@ -1,0 +1,51 @@
+{
+    "Case ID": "077549",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "fraudulent IELTS document",
+                "material misrepresentation"
+            ],
+            "legal_basis": [
+                "Section 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "fraudulent IELTS document submitted as part of his application"
+            ],
+            "standard_of_review": [
+                "Judicial review of the decision by the Federal Court under section 72(1) of the Act"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent document submission",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "fraudulent IELTS test result"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Section 40(1)(a)"
+            ],
+            "judicial_authority": [
+                "immigration counsellor"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "judicial review under Section 72(1)"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        }
+    ]
+}

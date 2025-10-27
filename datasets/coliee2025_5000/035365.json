@@ -1,0 +1,33 @@
+{
+    "Case ID": "035365",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error / Procedural Fairness Violation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "violation of procedural fairness principles"
+            ],
+            "decision_reasoning": [
+                "rejection based on unverified credibility concerns"
+            ],
+            "application_details": [
+                "permanent residence application"
+            ],
+            "evidence_assessment": [
+                "perceived lack of credibility in the employment letter"
+            ],
+            "relevant_statute": [
+                "Canadian immigration law"
+            ],
+            "standard_of_review": [
+                "judicial review in Federal Court"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "redetermination by a different officer",
+                "application allowed",
+                "officer's decision annulled"
+            ]
+        }
+    ]
+}

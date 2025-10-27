@@ -1,0 +1,52 @@
+{
+    "Case ID": "070677",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "violated procedural fairness",
+                "lacked transparency and justification"
+            ],
+            "family_ties": [
+                "hindered family reunification for a refugee"
+            ],
+            "humanitarian_concerns": [
+                "credible safety concerns"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA) and Regulations"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable actions by immigration officials"
+            ],
+            "immigration_status": [
+                "permanent residence"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "violated procedural fairness",
+                "lacked transparency and justification"
+            ],
+            "decision_outcome": [
+                "judicial review application is granted"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act (IRPA) and Regulations"
+            ],
+            "standard_of_review": [
+                "err in law",
+                "violate natural justice"
+            ],
+            "family_impact": [
+                "hindered family reunification for a refugee"
+            ],
+            "appeal_process": [
+                "Judicial review process involved multiple motions, mandamus orders, and appeals"
+            ]
+        }
+    ]
+}

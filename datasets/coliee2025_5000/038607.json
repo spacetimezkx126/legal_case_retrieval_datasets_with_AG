@@ -1,0 +1,31 @@
+{
+    "Case ID": "038607",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "subsection 5(1)(c) of the Citizenship Act",
+                "physical presence in Canada",
+                "1,095 days"
+            ],
+            "application_details": [
+                "applicant was absent from Canada for 771 days"
+            ],
+            "relevant_statute": [
+                "Citizenship Act"
+            ],
+            "decision_reasoning": [
+                "physical presence test correctly interprets the residency requirement"
+            ],
+            "procedure_followed": [
+                "Citizenship application denied by Citizenship Court",
+                "appeal brought to Federal Court under subsection 14(5) of the Citizenship Act"
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "applicant remains ineligible for citizenship due to insufficient physical presence"
+            ]
+        }
+    ]
+}

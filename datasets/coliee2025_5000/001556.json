@@ -1,0 +1,35 @@
+{
+    "Case ID": "001556",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dismissal",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act, R.S.C. 1985, c. C-29, ss. 5(1)(d), 5(1)(e), 5(3)(a), 5(4)"
+            ],
+            "decision_reasoning": [
+                "judge dismissed the medical report without contradictory evidence or justification"
+            ],
+            "applicable_regulations": [
+                "language proficiency and knowledge of Canada requirements",
+                "waiver on compassionate grounds or hardship"
+            ],
+            "evidence_assessment": [
+                "medical report indicating health issues preventing compliance"
+            ],
+            "discretion_exercise": [
+                "failure to recommend a waiver under ss. 5(3)(a) or 5(4)"
+            ],
+            "conclusion_outcome": [
+                "court recommended waiving requirements due to compassionate grounds and unusual hardship"
+            ],
+            "procedure_followed": [
+                "appeal from a citizenship judge's decision to Federal Court Trial Division",
+                "heard with amicus curiae assistance"
+            ],
+            "result_of_case": [
+                "court found error and recommended waiving requirements based on medical hardship"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "045155",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "non-disclosure breached Section 27"
+            ],
+            "relevant_statute": [
+                "Section 27 of the Corrections and Conditional Release Act"
+            ],
+            "decision_reasoning": [
+                "reliance on undisclosed security files",
+                "failure to disclose information used in denying requests"
+            ],
+            "application_details": [
+                "prisoner's application for reclassification and transfer"
+            ],
+            "procedure_followed": [
+                "judicial review application filed",
+                "court analyzed procedural fairness and statutory compliance"
+            ],
+            "result_of_case": [
+                "decisions were overturned",
+                "matters remitted for reconsideration ensuring compliance with procedural fairness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "029958",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over unpaid repairs and materials supplied to the ship 'Jensen Star'."
+            ],
+            "court_jurisdiction": [
+                "in rem jurisdiction",
+                "Federal Court"
+            ],
+            "relevant_statute": [
+                "s. 43(3) of the Federal Court Act"
+            ],
+            "procedure_followed": [
+                "Trial in Federal Court involving claims in personam and in rem, followed by judgment on legal issues including beneficial ownership and payment attribution."
+            ],
+            "decision_reasoning": [
+                "Jensen Shipping's control under the charter creates sufficient ownership interest, and they are estopped from denying ownership due to misleading conduct."
+            ],
+            "result_of_case": [
+                "Plaintiff awarded $237,243.68 plus interest and costs; in rem claim upheld."
+            ]
+        }
+    ]
+}

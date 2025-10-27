@@ -1,0 +1,35 @@
+{
+    "Case ID": "014725",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "provincial law"
+            ],
+            "cause_of_action": [
+                "discrimination",
+                "conspiracy"
+            ],
+            "relevant_statute": [
+                "Crown Liability Act"
+            ],
+            "application_details": [
+                "amend claim to include individual defendants"
+            ],
+            "decision_reasoning": [
+                "torts governed by provincial, not federal law",
+                "failing the second ITO criterion"
+            ],
+            "result_of_case": [
+                "lacks jurisdiction over individual defendants",
+                "allows vicarious liability against the Crown"
+            ],
+            "procedure_followed": [
+                "reviewed jurisdictional criteria",
+                "dismissed application for lack of jurisdiction"
+            ]
+        }
+    ]
+}

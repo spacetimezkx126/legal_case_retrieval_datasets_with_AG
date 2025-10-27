@@ -1,0 +1,30 @@
+{
+    "Case ID": "071434",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days",
+                "reference period",
+                "physical presence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "Federal Court appeal"
+            ],
+            "credibility_assessment": [
+                "approved based on credibility"
+            ],
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act",
+                "Koo (Re)"
+            ]
+        }
+    ]
+}

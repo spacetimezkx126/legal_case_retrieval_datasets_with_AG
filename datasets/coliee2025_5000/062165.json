@@ -1,0 +1,57 @@
+{
+    "Case ID": "062165",
+    "Different Crime": [
+        {
+            "Crime Name": "Violation of the Customs Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Customs Act",
+                "Rule 419(1)(a)"
+            ],
+            "decision_outcome": [
+                "Claims dismissed"
+            ],
+            "procedural_fairness": [
+                "Motion to strike out claims"
+            ],
+            "applicable_statute": [
+                "Customs Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "Negligence",
+                "Breach of contract"
+            ],
+            "nature_of_offense": [
+                "Misadvice leading to Customs Act violations"
+            ]
+        },
+        {
+            "Crime Name": "Detention orders under the Customs Act",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "negligence",
+                "breach of contract"
+            ],
+            "relevant_statute": [
+                "Customs Act"
+            ],
+            "procedure_followed": [
+                "rule 419(1)(a) motion to strike out claims"
+            ],
+            "decision_reasoning": [
+                "lack of intertwining with federal statutes",
+                "claims grounded in tort and contract law"
+            ],
+            "result_of_case": [
+                "dismissal of claims against corporate defendants",
+                "costs awarded to defendants"
+            ]
+        }
+    ]
+}

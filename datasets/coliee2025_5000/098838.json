@@ -1,0 +1,53 @@
+{
+    "Case ID": "098838",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Injunction",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Rule 355(1) of the Federal Court Rules"
+            ],
+            "procedural_fairness": [
+                "Rule 355(4) for a show cause order"
+            ],
+            "evidence_consideration": [
+                "Evidence shows Valmet continued supplying parts",
+                "Valmet-Dominion also sold these sections despite knowing they infringed Beloit’s patent"
+            ],
+            "risk_assessment": [
+                "deliberate and willful, with full knowledge of the injunction's existence and terms"
+            ],
+            "serious_issue": [
+                "Whether Valmet and Valmet-Dominion are guilty of contempt of court"
+            ],
+            "specific_threats_or_incidents": [
+                "Valmet sought to circumvent the court's decision by using its subsidiary"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 355(1) of the Federal Court Rules"
+            ],
+            "evidence_presented": [
+                "Valmet-Dominion continued selling Sym-Press 11 press sections post-injunction",
+                "Valmet supplied critical components knowing they were for infringing products"
+            ],
+            "decision_reasoning": [
+                "Willful violation of the injunction"
+            ],
+            "result_of_case": [
+                "Valmet and Valmet-Dominion found guilty of contempt",
+                "Fines of $750,000 and $500,000 imposed respectively"
+            ],
+            "procedure_followed": [
+                "Beloit filed a motion under Rule 355(4) for a show cause order",
+                "Federal Court held hearings to determine if contempt occurred"
+            ],
+            "standard_of_proof": [
+                "Proof beyond a reasonable doubt"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Case ID": "021980",
+    "Different Crime": [
+        {
+            "Crime Name": "Break and enter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 113(a) of IRPA"
+            ],
+            "new_evidence": [
+                "summons"
+            ],
+            "evidence_assessment": [
+                "authenticity",
+                "timing"
+            ],
+            "decision_reasoning": [
+                "correct legal test applied",
+                "reasonable decision"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "PRRA decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Drug possession",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "s. 113(a) of IRPA"
+            ],
+            "evidence_sufficiency": [
+                "new evidence that arose after the rejection or was not reasonably available at the time of rejection"
+            ],
+            "credibility_findings": [
+                "authenticity and timing of the summons presented as new evidence"
+            ],
+            "decision_made_by": [
+                "PRRA Officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Possession of break-in instruments",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 113(a) of IRPA"
+            ],
+            "credibility_findings": [
+                "authenticity and timing of the summons",
+                "potential fraudulence"
+            ],
+            "procedural_fairness": [
+                "credibility issues requiring a hearing interview"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "court_ruling": [
+                "Officer's decision was reasonable and legally correct"
+            ]
+        }
+    ]
+}

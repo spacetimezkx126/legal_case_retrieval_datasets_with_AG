@@ -1,0 +1,56 @@
+{
+    "Case ID": "018408",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "insufficient state protection in Bolivia",
+                "systemic issues in Bolivia's protection mechanisms"
+            ],
+            "evidence_assessment": [
+                "not enough credible evidence to rebut presumption of state protection"
+            ],
+            "risk_assessment": [
+                "domestic violence in Bolivia"
+            ],
+            "refugee_status_eligibility": [
+                "claimant sought refugee status in Canada"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "RPD decision quashed",
+                "matter returned for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Protect Victims of Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "police unhelpful or complicit",
+                "enforcement inconsistent"
+            ],
+            "reasonableness_of_decision": [
+                "RPD decision unreasonable",
+                "relied on outdated reports"
+            ],
+            "country_conditions": [
+                "domestic violence in Bolivia",
+                "laws against domestic violence",
+                "ongoing issues with enforcement"
+            ],
+            "risk_of_persecution": [
+                "lack of state protection"
+            ],
+            "evidence_consideration": [
+                "clear and convincing evidence required",
+                "current evidence not considered"
+            ]
+        }
+    ]
+}

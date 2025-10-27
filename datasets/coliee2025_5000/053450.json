@@ -1,0 +1,29 @@
+{
+    "Case ID": "053450",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "lack of sufficient hardship",
+                "consideration of irrelevant factors"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "reliance on extrinsic evidence without disclosure"
+            ],
+            "best_interests_of_children": [
+                "failed to assess child's best interests",
+                "assumption about child living without mother"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "quashed and ordered reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness for H&C decisions",
+                "correctness for procedural fairness breaches"
+            ]
+        }
+    ]
+}

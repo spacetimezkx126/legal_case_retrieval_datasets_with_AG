@@ -1,0 +1,92 @@
+{
+    "Case ID": "020822",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "assault",
+                "uttering threats",
+                "obstructing justice"
+            ],
+            "membership_in_organization": [
+                "high-ranking gang member"
+            ],
+            "risk_assessment": [
+                "not at risk of persecution or torture if returned to Sri Lanka"
+            ],
+            "evidence_consideration": [
+                "Minister's Delegate did not adequately assess specific risk of persecution in Sri Lanka"
+            ],
+            "legal_basis": [
+                "s. 115 of the Immigration and Refugee Protection Act"
+            ],
+            "serious_issue": [
+                "danger to the public"
+            ],
+            "reasonableness_of_decision": [
+                "danger opinion set aside due to insufficient consideration of personal risk"
+            ],
+            "availability_of_alternative_remedies": [
+                "case remitted for a new risk assessment regarding return to Sri Lanka"
+            ]
+        },
+        {
+            "Crime Name": "Criminal organization membership",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 115 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "police evidence",
+                "convictions for serious crimes"
+            ],
+            "decision_reasoning": [
+                "supported by evidence",
+                "not patently unreasonable"
+            ],
+            "application_details": [
+                "Mr. Thuraisingam had convictions for serious crimes and was identified as a gang leader"
+            ],
+            "result_of_case": [
+                "partially allowed",
+                "risk assessment was remitted",
+                "findings of serious criminality and danger were upheld"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed whether the Minister's Delegate properly assessed evidence of Mr. Thuraisingam's gang involvement"
+            ],
+            "cause_of_action": [
+                "challenged classification as a danger to the public based on alleged gang membership"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act s. 115"
+            ],
+            "risk_assessment": [
+                "lacked consideration of specific circumstances"
+            ],
+            "evidence_sufficiency": [
+                "relied on police reports and other evidence"
+            ],
+            "serious_criminality": [
+                "had convictions for serious crimes but narcotics convictions were overturned"
+            ],
+            "refugee_status": [
+                "not at risk of persecution or torture if returned to Sri Lanka"
+            ],
+            "decision_made_by": [
+                "Minister's Delegate"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "decision_outcome": [
+                "application was allowed; danger opinion set aside; case remitted for new risk assessment"
+            ]
+        }
+    ]
+}

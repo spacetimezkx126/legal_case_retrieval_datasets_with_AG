@@ -1,0 +1,59 @@
+{
+    "Case ID": "089818",
+    "Different Crime": [
+        {
+            "Crime Name": "Violence against racial minority",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "ineffective police response",
+                "systemic discrimination"
+            ],
+            "risk_of_persecution": [
+                "ethnic discrimination",
+                "persecution as Roma in Hungary"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision reasonable"
+            ],
+            "country_conditions": [
+                "violence against Roma in Hungary"
+            ],
+            "refugee_status_nexus": [
+                "Roma family sought refugee protection in Canada"
+            ],
+            "procedural_fairness": [
+                "Minister challenged decision via judicial review"
+            ],
+            "standard_of_proof": [
+                "claimants must prove inadequate state protection on a balance of probabilities"
+            ]
+        },
+        {
+            "Crime Name": "Police inaction or complicity in crimes against racial minorities",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "inadequate state protection",
+                "credible evidence of police inaction and complicity"
+            ],
+            "burden_of_proof": [
+                "balance of probabilities"
+            ],
+            "evidentiary_standard": [
+                "documentary evidence showed systemic issues"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision as reasonable"
+            ],
+            "refugee_definition": [
+                "Roma family claimed refugee status due to persecution"
+            ],
+            "judicial_review_process": [
+                "Judicial review application by Minister"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ]
+        }
+    ]
+}

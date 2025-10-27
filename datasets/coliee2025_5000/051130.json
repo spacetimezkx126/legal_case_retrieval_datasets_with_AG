@@ -1,0 +1,40 @@
+{
+    "Case ID": "051130",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "lack of utility",
+                "obviousness"
+            ],
+            "infringement_analysis": [
+                "ACE inhibitors",
+                "antihypertensive agents",
+                "proline moiety",
+                "enalapril backbone"
+            ],
+            "expert_testimony": [
+                "involved in trial"
+            ],
+            "relevant_rule": [
+                "utility through factual evidence or sound prediction",
+                "not obvious to a person skilled in the art"
+            ],
+            "decision_reasoning": [
+                "unreliable prediction of utility",
+                "substitution considered obvious based on prior art"
+            ],
+            "result_of_case": [
+                "invalidation of claims 1, 2, 3, 6, and 12",
+                "defendants' counterclaim allowed"
+            ],
+            "procedure_steps": [
+                "trial involving expert testimonies",
+                "analysis of prior art",
+                "experimental data",
+                "legal principles regarding utility, obviousness, and double patenting"
+            ]
+        }
+    ]
+}

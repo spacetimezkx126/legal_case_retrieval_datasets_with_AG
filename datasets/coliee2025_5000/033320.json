@@ -1,0 +1,31 @@
+{
+    "Case ID": "033320",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of fraudulent documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "unreasonable assessment",
+                "failure to establish identity"
+            ],
+            "evidence_assessment": [
+                "ignored key evidence",
+                "speculative implausibility findings",
+                "contradictory findings"
+            ],
+            "credibility_assessment": [
+                "questioned authenticity",
+                "unsupported plausibility assessments"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 106",
+                "IRPA s. 72(1)"
+            ],
+            "decision_outcome": [
+                "Court allowed application",
+                "RPD decision quashed",
+                "referred back for reconsideration"
+            ]
+        }
+    ]
+}

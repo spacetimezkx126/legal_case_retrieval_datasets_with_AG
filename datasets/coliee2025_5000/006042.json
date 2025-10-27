@@ -1,0 +1,31 @@
+{
+    "Case ID": "006042",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act",
+                "Privacy Act"
+            ],
+            "evidence_assessment": [
+                "lack of confidentiality or financial loss justification"
+            ],
+            "decision_reasoning": [
+                "names in financial records qualify as 'personal information'",
+                "no evidence proving discretionary benefits or public interest outweighing privacy invasion"
+            ],
+            "applicable_regulations": [
+                "s. 19",
+                "s. 20",
+                "s. 8(2)(m)"
+            ],
+            "result_of_case": [
+                "Partial disclosure was ordered"
+            ],
+            "cost_awards": [
+                "Costs were awarded to the applicant"
+            ]
+        }
+    ]
+}

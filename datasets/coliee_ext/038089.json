@@ -1,0 +1,864 @@
+{
+    "Case ID": "038089",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault Causing Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Physical Assault"
+            ],
+            "Perpetrator_Type": [
+                "Intimate Partner"
+            ],
+            "Victim_Status": [
+                "Female Survivor of Domestic Violence"
+            ],
+            "Location_of_Incident": [
+                "Saint Lucia"
+            ],
+            "Threat_Source": [
+                "Partner"
+            ],
+            "Aggravating_Factors": [
+                "Severe and prolonged abuse",
+                "Fear of retaliation"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial (Flavia Cherry)",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Supported by expert evidence"
+            ],
+            "Risk_Assessment": [
+                "High risk upon return"
+            ],
+            "Risk_Type": [
+                "Personal danger"
+            ],
+            "Risk_Nature": [
+                "Gender-based violence"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. James"
+            ],
+            "Targeted_Individual_Status": [
+                "Abused woman"
+            ],
+            "Geographic_Context": [
+                "Saint Lucia"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Applicable_Statute": [
+                "IRPA"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Standard_of_Proof": [
+                "Serious possibility of harm"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to consider key evidence"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Sexual violence within domestic context"
+            ],
+            "Perpetrator_Type": [
+                "Intimate Partner"
+            ],
+            "Victim_Status": [
+                "Female survivor"
+            ],
+            "Location_of_Incident": [
+                "Saint Lucia"
+            ],
+            "Threat_Source": [
+                "Partner"
+            ],
+            "Aggravating_Factors": [
+                "Systemic lack of protection",
+                "Fear of authorities"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial (Flavia Cherry)",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Consistent with gender-specific realities"
+            ],
+            "Risk_Assessment": [
+                "High risk upon return"
+            ],
+            "Risk_Type": [
+                "Gender-based persecution"
+            ],
+            "Risk_Nature": [
+                "Inability to access state protection"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. James"
+            ],
+            "Targeted_Individual_Status": [
+                "Abused woman"
+            ],
+            "Geographic_Context": [
+                "Saint Lucia"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Applicable_Statute": [
+                "IRPA"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Standard_of_Proof": [
+                "Well-founded fear of persecution"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Lack of consideration for gender-specific guidelines"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Domestic Violence",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Chronic physical and emotional abuse"
+            ],
+            "Perpetrator_Type": [
+                "Intimate Partner"
+            ],
+            "Victim_Status": [
+                "Female survivor"
+            ],
+            "Location_of_Incident": [
+                "Saint Lucia"
+            ],
+            "Threat_Source": [
+                "Partner"
+            ],
+            "Aggravating_Factors": [
+                "Prolonged duration",
+                "Fear of retaliation",
+                "Lack of police response"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial (Flavia Cherry)",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Supported by systemic evidence"
+            ],
+            "Risk_Assessment": [
+                "High risk upon return"
+            ],
+            "Risk_Type": [
+                "Personal danger due to domestic violence"
+            ],
+            "Risk_Nature": [
+                "State failure to protect"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. James"
+            ],
+            "Targeted_Individual_Status": [
+                "Abused woman"
+            ],
+            "Geographic_Context": [
+                "Saint Lucia"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Applicable_Statute": [
+                "IRPA"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Standard_of_Proof": [
+                "Well-founded fear of persecution or danger"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Overlooked contradictory evidence"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Uttering Death Threats",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Threats of death and harm"
+            ],
+            "Perpetrator_Type": [
+                "Intimate Partner"
+            ],
+            "Victim_Status": [
+                "Female survivor"
+            ],
+            "Location_of_Incident": [
+                "Saint Lucia"
+            ],
+            "Threat_Source": [
+                "Partner"
+            ],
+            "Aggravating_Factors": [
+                "Repeated threats",
+                "History of abuse"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Personal testimony",
+                "Expert testimony (Flavia Cherry)"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Corroborated by systemic evidence"
+            ],
+            "Risk_Assessment": [
+                "High risk of harm or death"
+            ],
+            "Risk_Type": [
+                "Life-threatening danger"
+            ],
+            "Risk_Nature": [
+                "Direct threats from partner"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. James"
+            ],
+            "Targeted_Individual_Status": [
+                "Abused woman"
+            ],
+            "Geographic_Context": [
+                "Saint Lucia"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Applicable_Statute": [
+                "IRPA"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Standard_of_Proof": [
+                "Subjective fear with objective basis"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to assess threat credibility"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Criminal Negligence (Police)",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "State accountability"
+            ],
+            "Legal_Issue": [
+                "Adequacy of state protection"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Overlooked expert evidence on police inaction"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable"
+            ],
+            "Burden_of_Proof": [
+                "On claimant to rebut presumption of state protection"
+            ],
+            "Credibility_Factor": [
+                "Claimant's fear deemed reasonable"
+            ],
+            "Legal_Rule": [
+                "State protection must be effective and accessible"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Failure to address systemic issues"
+            ],
+            "Grounds_for_Claim": [
+                "Inadequate police response to domestic violence"
+            ],
+            "Outcome_on_Merits": [
+                "Remanded for redetermination"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Judicial_Review_Outcome": [
+                "Granted"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Deficient"
+            ],
+            "Key_Evidence_Considered": [
+                "Flavia Cherry testimony"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "Denial of refugee status despite credible fear"
+            ],
+            "Court_Result": [
+                "Decision quashed"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA, case law"
+            ],
+            "Standard_of_Proof": [
+                "Serious possibility of danger"
+            ],
+            "Defendant_Response": [
+                "Claimant failed to test state protection"
+            ],
+            "Evidence_Type": [
+                "Expert testimony",
+                "Personal testimony"
+            ],
+            "Remedy_Requested": [
+                "Redetermination of claim"
+            ],
+            "Outcome": [
+                "Granted"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Quashing of decision"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Failure to access state protection"
+            ],
+            "Applicable_Process": [
+                "Refugee determination process"
+            ],
+            "Outcome_of_Review": [
+                "Remanded"
+            ],
+            "Pending_Relief_or_Application": [
+                "Refugee status"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Governing_Rule": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Grossly Negligent Conduct (Potential)",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "State protection failure"
+            ],
+            "Legal_Provision_Involved": [
+                "IRPA s.96 and s.97"
+            ],
+            "Outcome": [
+                "Decision found unreasonable"
+            ],
+            "Grounds_for_Claim": [
+                "Systemic failure to protect women from domestic violence"
+            ],
+            "Remedy_Requested": [
+                "Redetermination"
+            ],
+            "Legal_Framework": [
+                "International human rights standards",
+                "IRPA"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Clear evidence to rebut presumption of state protection"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable"
+            ],
+            "Institutional_Action": [
+                "Police inaction"
+            ],
+            "Government_Body_or_Authority": [
+                "Saint Lucia police"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "Presumption of state protection"
+            ],
+            "Evidence_Type": [
+                "Expert testimony",
+                "Personal testimony"
+            ],
+            "Jurisdiction": [
+                "Saint Lucia",
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Refugee claimant"
+            ],
+            "Nature_of_Participation": [
+                "Victim of domestic violence"
+            ],
+            "Temporal_Context": [
+                "Ongoing abuse prior to departure"
+            ],
+            "Geographic_Context": [
+                "Saint Lucia"
+            ],
+            "Personal_Data_Implicated": [
+                "Gender, personal safety"
+            ],
+            "Legal_Statute": [
+                "IRPA"
+            ],
+            "Assessment_Standard": [
+                "Well-founded fear"
+            ],
+            "Governing_Body": [
+                "Refugee Protection Division"
+            ],
+            "Complaint_Issues": [
+                "Lack of police intervention",
+                "Shelter unavailability"
+            ],
+            "Grounds_for_Discrimination": [
+                "Gender-based"
+            ],
+            "Role_of_Person": [
+                "Survivor"
+            ],
+            "Protected_Group": [
+                "Women"
+            ],
+            "Legal_Standard": [
+                "Serious possibility of harm"
+            ],
+            "Protection_Claim": [
+                "State unable or unwilling to protect"
+            ],
+            "State_Protection_Assessment": [
+                "Inadequate"
+            ],
+            "Risk_Factor": [
+                "Gender, domestic relationship"
+            ],
+            "Credibility": [
+                "High"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Targeted_Group": [
+                "Women facing domestic violence"
+            ],
+            "State_Protection_Adequacy": [
+                "Inadequate"
+            ],
+            "Risk_Nature": [
+                "Personal danger due to state inaction"
+            ],
+            "Enforcement_Action": [
+                "None taken"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Perpetrator_Entity": [
+                "Private individual with state complicity through inaction"
+            ],
+            "Legal_Basis": [
+                "Persecution due to membership in particular social group"
+            ],
+            "Victim_Basis": [
+                "Gender"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Provide Necessaries of Life (Potential)",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "State failure to protect"
+            ],
+            "Legal_Issue": [
+                "Availability of state protection"
+            ],
+            "Governing_Law": [
+                "IRPA s.96 and s.97"
+            ],
+            "Application_Facts": [
+                "Ms. James feared returning due to lack of shelter and police protection"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable"
+            ],
+            "Remedy_Requested": [
+                "Redetermination"
+            ],
+            "Court_Ruling": [
+                "Decision quashed"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Defendant_Behavior": [
+                "RPD dismissed claim based on presumed state protection"
+            ],
+            "Grounds_for_Claim": [
+                "Systemic failure in Saint Lucia to protect abused women"
+            ],
+            "Legal_Standard": [
+                "Well-founded fear of persecution or danger"
+            ],
+            "Assessment_Factor": [
+                "Effectiveness of police and shelters"
+            ],
+            "Applicable_Legislation": [
+                "IRPA"
+            ],
+            "Procedural_Issue": [
+                "Failure to consider expert evidence"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Credibility_Assessment": [
+                "Fear was objectively reasonable"
+            ],
+            "Evidence_Used": [
+                "Flavia Cherry testimony",
+                "Personal account"
+            ],
+            "Legal_Provision_Cited": [
+                "s.96, s.97"
+            ],
+            "Application_Basis": [
+                "Gender-based persecution"
+            ],
+            "Evidence_Assessed": [
+                "Overlooked"
+            ],
+            "Relief_Sought": [
+                "Refugee protection"
+            ],
+            "Governing_Rule": [
+                "IRPA"
+            ],
+            "Evidentiary_Deficiency": [
+                "Ignored systemic evidence"
+            ],
+            "Outcome": [
+                "Judicial review granted"
+            ],
+            "Decisional_Body": [
+                "Refugee Protection Division"
+            ],
+            "Harm_Assessment": [
+                "High risk of continued abuse"
+            ],
+            "Cause_Description": [
+                "Fled domestic violence due to ineffective state intervention"
+            ],
+            "Evidence_Handling": [
+                "Inadequate"
+            ],
+            "Legal_Provision_Violated": [
+                "Right to life and security under international norms"
+            ],
+            "Evidence_Issues": [
+                "Failure to weigh contradictory evidence"
+            ],
+            "Residency_Compliance": [
+                "Lawful resident in Canada as claimant"
+            ],
+            "Misrepresentation_Element": [
+                "None alleged"
+            ],
+            "Legal_Provision": [
+                "s.96, s.97 IRPA"
+            ],
+            "Jurisdictional_Issue": [
+                "Extraterritorial application of Canadian refugee law"
+            ],
+            "Evidence_Assessment": [
+                "Insufficient"
+            ],
+            "Decision_Rationale": [
+                "Presumed state protection without adequate analysis"
+            ],
+            "Country_of_Origin": [
+                "Saint Lucia"
+            ],
+            "Decision_Making_Body": [
+                "Refugee Protection Division"
+            ],
+            "Evidentiary_Issues": [
+                "Overlooked expert evidence"
+            ],
+            "Legal_Standard_Applied": [
+                "Serious possibility of danger"
+            ]
+        }
+    ]
+}

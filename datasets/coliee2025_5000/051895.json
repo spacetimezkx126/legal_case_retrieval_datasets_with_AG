@@ -1,0 +1,53 @@
+{
+    "Case ID": "051895",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining permanent resident status through misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 196 of the Immigration and Refugee Protection Act",
+                "Section 49(1)(b) of the Immigration Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged misrepresentation for obtaining permanent residency"
+            ],
+            "decision_outcome": [
+                "IAD's decision to discontinue appeal was erroneous",
+                "appeal reinstated",
+                "judicial review application allowed"
+            ],
+            "standard_of_review": [
+                "judicial review of IAD's decision"
+            ],
+            "immigration_status": [
+                "permanent resident status obtained through alleged misrepresentation",
+                "statutory stay under Section 49(1)(b)"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to reasonable grounds to believe committed an offence under Crimes Against Humanity and War Crimes Act",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Section 196 of the Immigration and Refugee Protection Act",
+                "Sections 73 and 74 of the old Immigration Act",
+                "Section 49(1)(b) of the old Immigration Act"
+            ],
+            "administrative_error": [
+                "IAD misinterpreted Section 196"
+            ],
+            "judicial_review_process": [
+                "Judicial review filed by Sabadao challenging IAD's decision"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review, reinstating Sabadao's appeal"
+            ],
+            "immigration_status": [
+                "permanent residency obtained through misrepresentation",
+                "deemed inadmissible for crimes against humanity"
+            ],
+            "jurisdictional_issue": [
+                "Section 196 applies only to stays granted under Sections 73 and 74, not statutory stays under Section 49(1)(b)"
+            ]
+        }
+    ]
+}

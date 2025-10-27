@@ -1,0 +1,32 @@
+{
+    "Case ID": "059275",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Classification and Dictionary of Occupations (CCDO)"
+            ],
+            "application_details": [
+                "applicant's immigration application",
+                "Production Co-ordinator"
+            ],
+            "decision_reasoning": [
+                "misinterpretation of the CCDO description"
+            ],
+            "procedural_fairness": [
+                "visa officer's decision-making process"
+            ],
+            "result_of_case": [
+                "judicial review application is allowed",
+                "matter is referred back for reconsideration"
+            ],
+            "relevant_statute": [
+                "CCDO criteria"
+            ],
+            "procedure_followed": [
+                "Judicial review hearing"
+            ]
+        }
+    ]
+}

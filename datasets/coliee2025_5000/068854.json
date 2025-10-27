@@ -1,0 +1,133 @@
+{
+    "Case ID": "068854",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing False Information to Immigration Officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent testimonies",
+                "contradictions about studies, occupations, flight circumstances, and uncle's death"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status based on alleged forced marriage and persecution"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Court upheld the Board's decision"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining Documents by Deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "evidence_provided": [
+                "inconsistencies in testimonies regarding studies, occupations, forced marriage, flight circumstances, and uncle's murder"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "claim_nature": [
+                "refugee status based on alleged persecution"
+            ],
+            "relationship_genuineness": [
+                "deemed non-credible due to inconsistencies"
+            ],
+            "procedural_fairness": [
+                "Board's findings deferred unless arbitrary or lack evidential support"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "studies",
+                "forced marriage",
+                "flight circumstances",
+                "uncle's murder"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_nexus": [
+                "not credible"
+            ],
+            "risk_of_persecution": [
+                "alleged assault and persecution in the DRC"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                "Board's findings not arbitrary or unsupported by evidence"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in testimonies regarding studies, forced marriage, flight circumstances, uncle's murder"
+            ],
+            "credibility_findings": [
+                "applicants not credible"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status due to alleged persecution, forced marriage, violence"
+            ],
+            "procedure_followed": [
+                "judicial review under Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "Court upheld Board's decision, claim rejected due to lack of credibility"
+            ]
+        },
+        {
+            "Crime Name": "Forced Marriage",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "inconsistencies in applicants' statements",
+                "contradictions undermined their credibility"
+            ],
+            "procedural_fairness": [
+                "Judicial review application under Immigration and Refugee Protection Act"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was not patently unreasonable",
+                "based on substantial evidence and reasonable analysis of contradictions"
+            ],
+            "refugee_definition": [
+                "Applicants claimed refugee status due to forced marriage and persecution"
+            ],
+            "judicial_review_process": [
+                "challenging the Board's credibility assessment"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Board's decision upheld as reasonable"
+            ]
+        }
+    ]
+}

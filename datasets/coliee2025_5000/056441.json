@@ -1,0 +1,71 @@
+{
+    "Case ID": "056441",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 34(1)(f) of the Act"
+            ],
+            "credibility_assessment": [],
+            "procedural_fairness": [],
+            "humanitarian_and_compassionate_factors": [],
+            "state_protection_analysis": [],
+            "risk_assessment": [],
+            "evidence_assessment": [
+                "Applicant's involvement with the OLF"
+            ],
+            "identity_verification": [],
+            "refugee_status_eligibility": [],
+            "immigration_status": [
+                "inadmissibility determination"
+            ],
+            "decision_outcome": [
+                "Court upheld the Board's decision, dismissing the judicial review"
+            ],
+            "standard_of_review": [
+                "Judicial review of the Board's decision"
+            ],
+            "internal_flight_alternative": [],
+            "family_class_considerations": [],
+            "residency_requirements": [],
+            "document_authenticity": [],
+            "best_interests_of_children": [],
+            "material_misrepresentation": [],
+            "misrepresentation_or_fraud": [],
+            "regulatory_compliance": [],
+            "health_grounds_inadmissibility": [],
+            "criminality_inadmissibility": [
+                "ties to terrorism"
+            ],
+            "charter_rights": []
+        },
+        {
+            "Crime Name": "Being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts of terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "OLF"
+            ],
+            "involvement_details": [
+                "recruiting",
+                "fundraising",
+                "material support"
+            ],
+            "decision_outcome": [
+                "applicant remains inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "subsection 34(1)(f) of the Act"
+            ],
+            "reasonableness_of_decision": [
+                "upheld"
+            ],
+            "inadmissibility_criteria": [
+                "membership in terrorist organization"
+            ]
+        }
+    ]
+}

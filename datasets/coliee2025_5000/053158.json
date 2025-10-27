@@ -1,0 +1,27 @@
+{
+    "Case ID": "053158",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicant must demonstrate physical presence in Canada for at least 1095 days within four years preceding citizenship application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "credibility_assessment": [
+                "factual errors",
+                "lacked objective 'audit trail' evidence",
+                "misinterpretation of attendance sheets"
+            ],
+            "decision_outcome": [
+                "citizenship application denied",
+                "case remanded for reconsideration"
+            ],
+            "evidence_assessment": [
+                "Applicant provided evidence of 1096 days of presence"
+            ]
+        }
+    ]
+}

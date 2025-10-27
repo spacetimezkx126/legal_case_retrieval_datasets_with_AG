@@ -1,0 +1,63 @@
+{
+    "Case ID": "065035",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining refugee protection by false pretenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in PIF",
+                "discrepancies in police denunciation",
+                "lack of corroborative evidence"
+            ],
+            "refugee_status_eligibility": [
+                "claimant must prove Convention refugee or in need of protection"
+            ],
+            "decision_outcome": [
+                "RPD's decision upheld",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent denunciation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "claim_nature": [
+                "refugee status"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "rejected",
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "credibility assessment",
+                "review of discrepancies"
+            ],
+            "evidence_provided": [
+                "inconsistent dates/times",
+                "lack of corroborative evidence",
+                "medical report"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "relationship_genuineness": [
+                "inconsistencies and omissions in statements"
+            ],
+            "risk_characterization": [
+                "threats from drug traffickers"
+            ],
+            "reasonableness_standard": [
+                "reasonable despite one error"
+            ],
+            "appeal_outcome": [
+                "denied"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "008012",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "patent_validity": [
+                "compound claims valid",
+                "use claims lack utility"
+            ],
+            "expert_testimony": [
+                "provided"
+            ],
+            "legal_basis": [
+                "utility, non-obviousness, sufficient disclosure"
+            ],
+            "decision_outcome": [
+                "Novartis succeeded",
+                "Teva prohibited until patent expires"
+            ],
+            "technical_details": [
+                "compound claims",
+                "specific human uses"
+            ],
+            "applicable_statute": [
+                "patent law"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Case ID": "038362",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent conveyance",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Bankruptcy and Insolvency Act (BIA)",
+                "Federal Court Rules",
+                "Rules 377 and 378"
+            ],
+            "decision_outcome": [
+                "Motion dismissed"
+            ],
+            "procedural_fairness": [
+                "jurisdictional and procedural grounds"
+            ],
+            "applicable_statute": [
+                "Bankruptcy and Insolvency Act"
+            ],
+            "party_involved": [
+                "Almecon",
+                "Respondents",
+                "Anchortek"
+            ],
+            "claim_nature": [
+                "preservation order"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "misappropriated profits"
+            ],
+            "balance_of_convenience": [
+                "lack of identifiable property"
+            ],
+            "public_interest": [
+                "stay provisions circumvention"
+            ]
+        },
+        {
+            "Crime Name": "Failure to cooperate in legal proceedings",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Bankruptcy and Insolvency Act (BIA)",
+                "Federal Court Rules",
+                "Rules 377 and 378"
+            ],
+            "procedural_fairness": [
+                "automatic stay of proceedings",
+                "require identifiable property"
+            ],
+            "evidence_assessment": [
+                "failed to prove specific trust property",
+                "profits not traceable as distinct funds"
+            ],
+            "decision_reasoning": [
+                "lack of jurisdiction",
+                "failure to meet requirements for preservation orders"
+            ],
+            "relevant_statute": [
+                "Section 69.3 of BIA"
+            ],
+            "result_of_case": [
+                "motion dismissed",
+                "no costs awarded"
+            ],
+            "procedure_followed": [
+                "Almecon moved for preservation orders after Anchortek’s bankruptcy"
+            ]
+        }
+    ]
+}

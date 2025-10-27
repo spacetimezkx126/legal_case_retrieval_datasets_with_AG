@@ -1,0 +1,28 @@
+{
+    "Case ID": "013353",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "functus officio doctrine",
+                "Rule 397"
+            ],
+            "procedural_fairness": [
+                "post-judgment amendments to pleadings are generally disallowed"
+            ],
+            "decision_reasoning": [
+                "these issues were procedural errors, not clerical oversights, and thus fell outside Rule 397's scope"
+            ],
+            "result_of_case": [
+                "Motion dismissed"
+            ],
+            "cause_of_action": [
+                "Defendants sought reconsideration of a patent invalidity counterclaim, claiming oversight and pleading errors"
+            ],
+            "procedure_followed": [
+                "Defendants moved for reconsideration after final judgment, citing overlooked issues and pleading amendments. The judge analyzed functus officio and relevant rules"
+            ]
+        }
+    ]
+}

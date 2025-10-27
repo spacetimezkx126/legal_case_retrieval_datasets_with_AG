@@ -1,0 +1,41 @@
+{
+    "Case ID": "062156",
+    "Crimes": [
+        {
+            "Crime_Name": "Gang Violence",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Standard_of_Review": "reasonableness",
+            "Legal_Framework": "IRPA section 72",
+            "Review_Mechanism": "Judicial review",
+            "Decision_Outcome": "unreasonable",
+            "Outcome": "remitted for reconsideration by a different panel"
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "gang-related sexual assault",
+            "Perpetrator_Type": "gang members",
+            "Victim_Status": "woman targeted by gangs",
+            "Threat_Source": "gangs",
+            "Targeted_Victimization": "yes"
+        },
+        {
+            "Crime_Name": "Threatening Death or Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "threats from gang",
+            "Perpetrator_Type": "gang members",
+            "Victim_Status": "woman facing threats",
+            "Threat_Source": "gangs",
+            "Risk_Nature": "ongoing threats after assault"
+        },
+        {
+            "Crime_Name": "Failure to Provide Adequate State Protection",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Legal_Standard": "state protection must be adequate and operational",
+            "Governing_Law": "IRPA",
+            "Evidence_Used": "evidence of pervasive gang violence and police unwillingness to act",
+            "Evidentiary_Deficiency": "Board failed to analyze operational adequacy of state efforts",
+            "Outcome": "remitted for reconsideration by a different panel"
+        }
+    ]
+}

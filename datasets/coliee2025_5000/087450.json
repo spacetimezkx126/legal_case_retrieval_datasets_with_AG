@@ -1,0 +1,34 @@
+{
+    "Case ID": "087450",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "failed to provide evidence",
+                "omitted key facts",
+                "did not exhaust all legal avenues"
+            ],
+            "state_protection": [
+                "could have used federal processes",
+                "presumption of state protection"
+            ],
+            "decision_reasoning": [
+                "applicant failed to meet credibility standards",
+                "did not rebut state protection presumption"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "lack of email evidence",
+                "omitted lawyer’s advice"
+            ],
+            "conclusion_outcome": [
+                "RPD's decision is reasonable",
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

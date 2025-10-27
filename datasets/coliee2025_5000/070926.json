@@ -1,0 +1,27 @@
+{
+    "Case ID": "070926",
+    "Different Crime": [
+        {
+            "Crime Name": "Civil Procedure Violation",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Plaintiff's significant delay in prosecuting the case"
+            ],
+            "procedural_fairness": [
+                "inordinate and inexcusable delay causing likely serious prejudice"
+            ],
+            "decision_reasoning": [
+                "Defendant's subsequent inaction does not negate prejudicial effect of plaintiff's delay"
+            ],
+            "procedure_followed": [
+                "Defendant appealed Associate Senior Prothonotary's decision"
+            ],
+            "result_of_case": [
+                "Defendant's motion granted; plaintiff's action dismissed for want of prosecution"
+            ],
+            "relevant_rule": [
+                "Federal Court Rules"
+            ]
+        }
+    ]
+}

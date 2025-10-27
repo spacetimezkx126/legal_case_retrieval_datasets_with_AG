@@ -1,0 +1,31 @@
+{
+    "Case ID": "024300",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "disclosure of evidence",
+                "opportunity for response"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for substantive issues"
+            ],
+            "evidence_presented": [
+                "disclosure package",
+                "medical records"
+            ],
+            "decision_reasoning": [
+                "no breach of procedural fairness",
+                "reasonable decision by CDS"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "cost_awards": [
+                "awarded costs to the respondent"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "042420",
+    "Crimes": [
+        {
+            "Crime_Name": "Driving with ability impaired by alcohol",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Human rights complaint regarding discrimination based on alcohol dependence",
+            "Legal_Issue": "Whether the Commission erred in declaring the complaint trivial, frivolous, vexatious, or made in bad faith under paragraph 41(1)(d) of the CHRA",
+            "Governing_Law": "Canadian Human Rights Act (CHRA), paragraph 41(1)(d)",
+            "Procedural_Stage": "Judicial review of Commission's decision not to proceed with complaint",
+            "Evidence_Assessment": "No new evidence found; complaint rehashed previously dismissed issues",
+            "Decision_Outcome": "Complaint declared inadmissible as frivolous and vexatious",
+            "Standard_of_Review": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Workplace misconduct",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Human rights complaint following dismissal for performance and alcohol-related issues",
+            "Legal_Issue": "Whether the Commission erred in refusing to hear the complaint under paragraph 41(1)(d) of the CHRA",
+            "Governing_Law": "Canadian Human Rights Act (CHRA), paragraph 41(1)(d)",
+            "Procedural_Stage": "Post-grievance judicial review of Commission's refusal to investigate",
+            "Evidence_Assessment": "Investigator found no new evidence; prior adjudication had addressed the matter",
+            "Decision_Outcome": "Complaint dismissed as frivolous and vexatious",
+            "Standard_of_Review": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Failure to comply with employment conditions",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Discrimination complaint related to alcohol dependence during employment probation",
+            "Legal_Issue": "Reasonableness of Commission's decision not to deal with the complaint under CHRA paragraph 41(1)(d)",
+            "Governing_Law": "Canadian Human Rights Act (CHRA), paragraph 41(1)(d)",
+            "Decision_Level": "Human Rights Commission initial assessment",
+            "Review_Court": "Federal Court conducting judicial review",
+            "Outcome": "Judicial review application dismissed; Commission's decision upheld",
+            "Basis_of_Claim": "Alleged discrimination due to alcohol dependence not accommodated",
+            "Evaluation_Standard": "Reasonableness standard applied to Commission's decision",
+            "Cause_of_Refusal": "Complaint previously dismissed by PSSRB; no new evidence presented"
+        },
+        {
+            "Crime_Name": "Unknown",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Human rights complaint alleging discrimination due to drinking problem after dismissal during probation",
+            "Legal_Issue": "Whether the Commission erred in refusing to hear the complaint under paragraph 41(1)(d) of the CHRA",
+            "Governing_Law": "Canadian Human Rights Act (CHRA), paragraph 41(1)(d)",
+            "Procedural_Stage": "Judicial review following Commission's refusal to proceed",
+            "Evidence_Assessment": "Same arguments already rejected by grievance adjudicator; no new evidence",
+            "Decision_Outcome": "Complaint deemed frivolous and not pursued by Commission",
+            "Standard_of_Review": "Reasonableness"
+        }
+    ]
+}

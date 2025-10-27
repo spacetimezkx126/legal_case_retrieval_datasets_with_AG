@@ -1,0 +1,51 @@
+{
+    "Case ID": "091970",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material information in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "incomplete disclosure of absences",
+                "questionable credit card use",
+                "potential undisclosed passports"
+            ],
+            "evidence_assessment": [
+                "undeclared absences",
+                "contradictory evidence",
+                "speculative assumptions"
+            ],
+            "credibility_assessment": [
+                "inadequately justified decision",
+                "concerns about meeting residency requirements"
+            ],
+            "decision_outcome": [
+                "case remitted to the Minister for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Possibly using a minor to commit fraud (credit card misuse)",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "unexplained credit card transactions"
+            ],
+            "procedural_fairness": [
+                "reasonably assess evidence and explanations provided by applicants"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge"
+            ],
+            "decision_outcome": [
+                "Application for judicial review granted; case remitted to Minister for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness of the decision"
+            ],
+            "evidence_provided": [
+                "applicant's explanation regarding credit card use by his minor child"
+            ]
+        }
+    ]
+}

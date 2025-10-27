@@ -1,0 +1,112 @@
+{
+    "Case ID": "069171",
+    "Crimes": [
+        {
+            "Crime_Name": "Immigration Fraud",
+            "Crime_Type": [
+                "False Statements and Immigration Fraud"
+            ],
+            "Dispute_Type": "Judicial review of immigration decision",
+            "Legal_Issue": "Whether the immigration officer erred in concluding the marriage was not genuine",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Decision_Level": "Administrative decision by immigration officer",
+            "Review_Court": "Federal Court",
+            "Outcome": "Application for judicial review granted",
+            "Procedural_Context": "Humanitarian and Compassionate (H&C) grounds application following denied refugee claim",
+            "Credibility_Assessment": "Officer questioned credibility based on interview discrepancies",
+            "Evidence_Type": [
+                "Joint documentation",
+                "Interview transcripts",
+                "Medical records",
+                "Bank statements"
+            ],
+            "Legal_Provision": "Section 25 of IRPA",
+            "Basis_of_Claim": "Marriage to a Canadian citizen as basis for H&C exemption",
+            "Evaluation_Standard": "Reasonableness",
+            "Key_Factor_in_Determination": "Genuineness of marriage",
+            "Proceeding_Type": "Judicial review",
+            "Decision_Maker": "Immigration Officer",
+            "Regulation_Cited": "Section 25, IRPA",
+            "Application_Error": "Failure to consider relevant documentary evidence",
+            "Review_Outcome": "Decision set aside and remitted for redetermination",
+            "Assessment_Standard": "Reasonableness standard of review",
+            "Evidence_Ignored": [
+                "Joint bank accounts",
+                "Medical records naming applicant as next of kin"
+            ],
+            "Legal_Standard": "Reasonableness",
+            "Application_Factor": "Substantial documentary evidence supporting marital genuineness",
+            "Decision_Outcome": "Initial refusal of application",
+            "Authority": "Immigration, Refugees and Citizenship Canada (IRCC)",
+            "Decision_Review_Issue": "Procedural unfairness and unreasonableness in decision-making",
+            "Standard_of_Review": "Reasonableness",
+            "Governing_Rule_or_Provision": "Section 25, IRPA",
+            "Outcome_of_Review": "Remanded for reassessment by another officer",
+            "Cause_of_Refusal": "Doubt about authenticity of marriage",
+            "Legal_Provision_Cited": "Section 25, IRPA",
+            "Evidentiary_Issues": "Disregard of highly relevant documentary evidence",
+            "Procedural_Fairness": "Alleged breach due to failure to assess all evidence",
+            "Document_Fraud": null,
+            "Credibility_Issues": "Minor inconsistencies in interview responses",
+            "Legal_Defense_or_Challenge": "Challenge based on reasonableness and procedural fairness",
+            "Jurisdictional_Focus": "Canadian Federal Court jurisdiction over immigration decisions",
+            "Relevant_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Failure to properly analyze contradictory evidence",
+            "Omission_Type": "Failure to address key supporting evidence",
+            "Grounds_for_Inadmissibility": null
+        },
+        {
+            "Crime_Name": "Marriage Fraud",
+            "Crime_Type": [
+                "False Statements and Immigration Fraud"
+            ],
+            "Dispute_Type": "Judicial review of immigration decision",
+            "Legal_Issue": "Whether the officer erred in finding the marriage not genuine while ignoring critical evidence",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Decision_Level": "Administrative decision by immigration officer",
+            "Review_Court": "Federal Court",
+            "Outcome": "Judicial review allowed; decision remitted",
+            "Procedural_Context": "H&C application after failed refugee claim",
+            "Credibility_Assessment": "Assessment based on minor interview discrepancies",
+            "Evidence_Type": [
+                "Joint financial records",
+                "Medical documents",
+                "Affidavits or declarations of relationship"
+            ],
+            "Legal_Provision": "Section 25 of IRPA",
+            "Basis_of_Claim": "Exemption from visa requirements based on spousal relationship",
+            "Evaluation_Standard": "Reasonableness",
+            "Key_Factor_in_Determination": "Authenticity of marital relationship",
+            "Proceeding_Type": "Judicial review under administrative law",
+            "Decision_Maker": "Immigration Officer",
+            "Regulation_Cited": "Section 25, IRPA",
+            "Application_Error": "Overreliance on minor inconsistencies; disregard of strong documentary proof",
+            "Review_Outcome": "Case ordered to be reassessed by new officer",
+            "Assessment_Standard": "Reasonableness",
+            "Evidence_Ignored": [
+                "Joint bank accounts",
+                "Medical records listing applicant as next of kin"
+            ],
+            "Legal_Standard": "Reasonableness",
+            "Application_Factor": "Presence of compelling evidence of genuine marriage",
+            "Decision_Outcome": "Refusal of humanitarian and compassionate relief",
+            "Authority": "IRCC",
+            "Decision_Review_Issue": "Unreasonable conclusion despite contradictory evidence",
+            "Standard_of_Review": "Reasonableness",
+            "Governing_Rule_or_Provision": "Section 25, IRPA",
+            "Outcome_of_Review": "Remanded for redetermination",
+            "Cause_of_Refusal": "Perceived lack of genuineness in marriage",
+            "Legal_Provision_Cited": "Section 25, IRPA",
+            "Evidentiary_Issues": "Failure to weigh substantial evidence supporting marriage",
+            "Procedural_Fairness": "Violation due to incomplete evidentiary analysis",
+            "Document_Fraud": null,
+            "Credibility_Issues": "Inconsistencies in interview answers deemed minor and explainable",
+            "Legal_Defense_or_Challenge": "Challenge on grounds of unreasonableness and procedural unfairness",
+            "Jurisdictional_Focus": "Federal Court oversight of immigration decisions",
+            "Relevant_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Insufficient reasoning and omission of key evidence",
+            "Omission_Type": "Failure to engage with highly relevant documentation",
+            "Grounds_for_Inadmissibility": null
+        }
+    ]
+}

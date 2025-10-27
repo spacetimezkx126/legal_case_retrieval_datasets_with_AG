@@ -1,0 +1,48 @@
+{
+    "Case ID": "016417",
+    "Different Crime": [
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Court Rules, Rule 1733",
+                "Rule 327"
+            ],
+            "evidence_provided": [
+                "No definitive evidence showed they would testify"
+            ],
+            "decision_outcome": [
+                "Application to remove Lang Michener dismissed; trial to proceed with current representation"
+            ],
+            "procedural_fairness": [
+                "Courts should avoid disqualifying counsel unless necessary for justice"
+            ],
+            "claim_nature": [
+                "Plaintiff alleged fraud by expert witness influenced by defendants' lawyers, seeking removal of defendants' law firm"
+            ],
+            "judicial_authority": [
+                "Motion to remove law firm, followed by hearings and submissions on potential conflicts of interest"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Federal Court Rules, Rule 1733",
+                "Rule 327"
+            ],
+            "evidence_credibility": [
+                "No definitive evidence showed they would testify"
+            ],
+            "procedural_fairness": [
+                "Courts should avoid disqualifying counsel unless necessary for justice"
+            ],
+            "decision_outcome": [
+                "Application to remove Lang Michener dismissed; trial to proceed with current representation"
+            ],
+            "reasoning_given": [
+                "It was premature and no clear conflict existed"
+            ]
+        }
+    ]
+}

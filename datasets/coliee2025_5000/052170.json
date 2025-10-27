@@ -1,0 +1,43 @@
+{
+    "Case ID": "052170",
+    "Different Crime": [
+        {
+            "Crime Name": "Forfeiture of guarantee under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "CBSA breached procedural fairness by not granting a reasonable extension"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "Court granted judicial review, setting aside CBSA's decision and allowing Etienne more time to respond"
+            ],
+            "standard_of_review": [
+                "Judicial review application filed by Etienne challenging CBSA's decision; analyzed under principles of procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Breaching release conditions",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "CBSA breached procedural fairness by not granting a reasonable extension"
+            ],
+            "decision_reasoning": [
+                "guarantors be given a reasonable opportunity to make submissions before a guarantee is enforced"
+            ],
+            "application_details": [
+                "Etienne was given 30 days to respond, but he requested a 90-day extension due to insufficient information and complexity of the case"
+            ],
+            "cause_of_action": [
+                "CBSA enforced a $15,000 guarantee after Etienne's son breached release conditions"
+            ],
+            "procedure_followed": [
+                "Etienne applied for judicial review, arguing procedural unfairness. The Federal Court reviewed CBSA's decision under the principles of natural justice and procedural fairness"
+            ],
+            "result_of_case": [
+                "The Federal Court allowed Etienne's application, finding CBSA's refusal to grant an extension violated procedural fairness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "087785",
+    "Different Crime": [
+        {
+            "Crime Name": "Veterans Disability Pension Claim",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Pension Act"
+            ],
+            "evidence_assessment": [
+                "lacks contemporaneous medical documentation",
+                "Medical reports from 1996 link the condition to the alleged injury",
+                "Board found this speculative due to lack of corroborating evidence"
+            ],
+            "decision_reasoning": [
+                "failed to prove the causal connection between the injury and military service"
+            ],
+            "application_details": [
+                "applicant claims a neck injury during military service in 1983-1984"
+            ],
+            "result_of_case": [
+                "Court upheld the Board's decision; no pension awarded due to lack of proof of causation"
+            ],
+            "standard_of_proof": [
+                "Doubts in evidence must favor the applicant"
+            ]
+        }
+    ]
+}

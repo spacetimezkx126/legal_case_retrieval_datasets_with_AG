@@ -1,0 +1,32 @@
+{
+    "Case ID": "080974",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "failure to meet discovery deadlines"
+            ],
+            "procedure_followed": [
+                "Defendants moved to strike out claims",
+                "Court reviewed case history, delays, and applicable legal principles"
+            ],
+            "decision_reasoning": [
+                "repeated failure to comply with deadlines can constitute an abuse of process",
+                "Striking out a claim is drastic and should only occur if there's clear abuse"
+            ],
+            "result_of_case": [
+                "Claims of non-compliant plaintiffs were struck out",
+                "costs awarded to defendants"
+            ],
+            "standard_of_review": [
+                "abuse of process"
+            ],
+            "evidence_consideration": [
+                "Plaintiffs missed multiple deadlines despite court orders",
+                "excuses like travel or complexity",
+                "no substantial assurances were given for timely completion"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "060807",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "delayed extortion onset",
+                "MS behavior inconsistency",
+                "nickname discrepancies",
+                "unsupported demeanor analysis"
+            ],
+            "reasonableness_standard": [
+                "Credibility findings are reviewed on a reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "lacked evidentiary support",
+                "involved undue speculation"
+            ],
+            "decision_outcome": [
+                "The application was allowed",
+                "the matter was sent back to a different panel for reassessment"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed",
+                "Federal Court assessed the Board's decision for reasonableness"
+            ]
+        }
+    ]
+}

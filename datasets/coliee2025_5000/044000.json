@@ -1,0 +1,55 @@
+{
+    "Case ID": "044000",
+    "Different Crime": [
+        {
+            "Crime Name": "Using forged documents for immigration purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in statements",
+                "omission of key details",
+                "discrepancies in educational history"
+            ],
+            "identity_verification": [
+                "passport deemed tampered with"
+            ],
+            "misrepresentation_or_fraud": [
+                "used forged documents to enter Canada"
+            ],
+            "decision_outcome": [
+                "Board's decision upheld",
+                "judicial review application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Making a false refugee claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistent evidence",
+                "inconsistent testimonies",
+                "undermined credibility"
+            ],
+            "internal_flight_alternative": [
+                "safe relocation within India"
+            ],
+            "reasonableness_standard": [
+                "justified, transparent, intelligible",
+                "acceptable outcomes"
+            ],
+            "documentary_evidence": [
+                "falsified documents"
+            ],
+            "evidence_assessment": [
+                "substantial inconsistencies"
+            ],
+            "decision_outcome": [
+                "RPD's decision upheld"
+            ],
+            "review_standard": [
+                "reasonableness for factual findings"
+            ]
+        }
+    ]
+}

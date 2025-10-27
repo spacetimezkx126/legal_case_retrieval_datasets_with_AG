@@ -1,0 +1,27 @@
+{
+    "Case ID": "035755",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to establish identity in immigration context",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "birth certificate",
+                "authenticated driver's license"
+            ],
+            "document_authenticity": [
+                "authentication by Nigeria High Commission",
+                "lack of biometric data",
+                "potential fraudulence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "RPD's decision unreasonable regarding identity"
+            ]
+        }
+    ]
+}

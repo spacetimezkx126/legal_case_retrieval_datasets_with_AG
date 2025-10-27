@@ -1,0 +1,30 @@
+{
+    "Case ID": "087221",
+    "Different Crime": [
+        {
+            "Crime Name": "Submitting inauthentic documents for an immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Officer informed applicant of suspicions",
+                "Applicant failed to adequately respond"
+            ],
+            "evidence_assessment": [
+                "Suspicions regarding property certificates",
+                "Underlying evidence not disclosed"
+            ],
+            "credibility_assessment": [
+                "Applicant failed to provide verifiable proof of ownership"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant found inadmissible for two years"
+            ],
+            "standard_of_review": [
+                "Procedural fairness reviewed on correctness",
+                "Merits reviewed for reasonableness"
+            ]
+        }
+    ]
+}

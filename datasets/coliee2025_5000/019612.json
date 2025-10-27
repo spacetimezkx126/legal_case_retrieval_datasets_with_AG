@@ -1,0 +1,92 @@
+{
+    "Case ID": "019612",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Conditions of Permanent Residency Leading to Deportation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "charter_rights": [
+                "section_7",
+                "section_12",
+                "section_15"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "yes"
+            ],
+            "immigration_status": [
+                "permanent_resident"
+            ],
+            "standard_of_review": [
+                "judicial_review"
+            ],
+            "best_interests_of_children": [
+                "not_applicable"
+            ]
+        },
+        {
+            "Crime Name": "Being a Danger to the Public under Immigration Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act",
+                "Charter"
+            ],
+            "cause_of_action": [
+                "exclusion of individuals from Canadian citizenship"
+            ],
+            "charter_rights": [
+                "s.7",
+                "s.12",
+                "s.15"
+            ],
+            "application_details": [
+                "applicant born in Poland to Polish parents, moved to Canada at age six",
+                "denied citizenship due to legislative exclusions",
+                "deported for criminal activity"
+            ],
+            "decision_reasoning": [
+                "no violation of sections 7, 12, or 15 of the Charter",
+                "applicant's situation resulted from personal and parental inaction, not discriminatory legislation"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "no Charter violation found",
+                "applicant deported based on lack of citizenship and criminal convictions"
+            ],
+            "relevant_statute": [
+                "Citizenship Act"
+            ]
+        },
+        {
+            "Crime Name": "Narcotics Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "constitutional_challenge": [
+                "sections 7, 12, or 15 of the Charter"
+            ],
+            "applicable_law_or_regulation": [
+                "Citizenship Act",
+                "Charter"
+            ],
+            "decision_made_by": [
+                "court"
+            ],
+            "charter_rights_analysis": [
+                "liberty",
+                "security",
+                "freedom from cruel treatment",
+                "equality"
+            ],
+            "criminal_history": [
+                "narcotics convictions"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "immigration_status": [
+                "denied citizenship",
+                "deported"
+            ]
+        }
+    ]
+}

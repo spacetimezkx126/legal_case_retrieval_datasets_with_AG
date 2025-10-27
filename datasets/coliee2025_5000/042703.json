@@ -1,0 +1,33 @@
+{
+    "Case ID": "042703",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "fear of persecution due to family ties, ethnic origin, or economic activities"
+            ],
+            "credibility_findings": [
+                "contradictions in testimony",
+                "lack of evidence supporting fears"
+            ],
+            "decision_reasoning": [
+                "undermined by contradictions",
+                "changed political circumstances"
+            ],
+            "application_details": [
+                "plaintiff sought refugee status in Canada"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Refugee Division's decision"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "plaintiff not recognized as a Convention refugee"
+            ],
+            "refugee_status": [
+                "failed to prove credible fear of persecution"
+            ]
+        }
+    ]
+}

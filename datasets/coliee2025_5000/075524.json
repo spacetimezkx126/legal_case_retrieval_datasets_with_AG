@@ -1,0 +1,28 @@
+{
+    "Case ID": "075524",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'201 patent claims the use of zoledronic acid for treating osteoporosis with once-a-year administration"
+            ],
+            "infringement_analysis": [
+                "Novartis sought to prohibit Cobalt from obtaining regulatory approval for a generic version of its drug until the '201 patent expired"
+            ],
+            "relevant_statute": [
+                "The Patent Act defines 'invention' as any new and useful art, process, machine, manufacture, or composition of matter"
+            ],
+            "decision_reasoning": [
+                "Methods of medical treatment are generally unpatentable if they involve professional skill and judgment",
+                "Obviousness is assessed through the eyes of a person skilled in the art using a four-step test"
+            ],
+            "evidence_consideration": [
+                "Evidence shows that while the substance's efficacy was known, the specific dosing regimen was not obvious"
+            ],
+            "conclusion_outcome": [
+                "The application is dismissed because the claims are directed to a method of medical treatment, which is unpatentable under Canadian law"
+            ]
+        }
+    ]
+}

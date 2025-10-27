@@ -1,0 +1,102 @@
+{
+    "Case ID": "078014",
+    "Different Crime": [
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Violence-related_Crimes",
+            "complicity_in_crimes": [
+                "complicit in crimes against humanity"
+            ],
+            "legal_basis": [
+                "section 35(1)(a) of IRPA",
+                "Crimes Against Humanity and War Crimes Act"
+            ],
+            "applicant_involvement": [
+                "long association with MQM",
+                "knowledge of its atrocities"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "did not sufficiently demonstrate personal involvement or intent"
+            ],
+            "membership_in_organization": [
+                "MQM"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a Terrorist Organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "MQM/APMSO"
+            ],
+            "applicable_law_section": [
+                "IRPA section 34(1)(f)"
+            ],
+            "involvement_details": [
+                "seven-year association and activities"
+            ],
+            "evidence_provided": [
+                "various documents and testimonies"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on evidence and applicable law"
+            ],
+            "judicial_review_result": [
+                "Court quashed complicity finding but upheld membership determination; judicial review partially dismissed"
+            ],
+            "complicity_in_crimes": [
+                "complicity in crimes against humanity"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA",
+                "Crimes Against Humanity and War Crimes Act"
+            ],
+            "evidentiary_standard": [
+                "reasonableness standard"
+            ],
+            "complicity_in_crimes": [
+                "personal and knowing participation",
+                "mens rea"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "decision_outcome": [
+                "complicity decision quashed",
+                "membership finding upheld"
+            ],
+            "burden_of_proof": [
+                "link activities to proscribed acts"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "section 35(1)(a) of IRPA",
+                "Crimes Against Humanity and War Crimes Act"
+            ],
+            "complicity_determination": [
+                "personal and knowing participation",
+                "mens rea"
+            ],
+            "decision_outcome": [
+                "Decision on complicity was quashed",
+                "finding on membership upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ]
+        }
+    ]
+}

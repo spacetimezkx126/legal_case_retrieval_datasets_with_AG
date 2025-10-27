@@ -1,0 +1,32 @@
+{
+    "Case ID": "060758",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "inadmissible for misrepresenting or withholding material facts",
+                "applicant failed to disclose his previous name and application history"
+            ],
+            "procedural_fairness": [
+                "officer's decision lacked proper analysis of procedural fairness"
+            ],
+            "legal_basis": [
+                "Section 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "judicial review application is granted",
+                "officer's decision is overturned"
+            ],
+            "identity_verification": [
+                "applicant failed to disclose his previous name and application history"
+            ],
+            "document_authenticity": [
+                "provided extensive documentation"
+            ],
+            "standard_of_review": [
+                "judicial review process examined the immigration officer's decision and legal arguments from both parties"
+            ]
+        }
+    ]
+}

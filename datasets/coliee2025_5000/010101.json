@@ -1,0 +1,27 @@
+{
+    "Case ID": "010101",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Pension Act"
+            ],
+            "evidence_assessment": [
+                "Medical evidence linking the fall to his current condition was based on his recollection, not contemporaneous records."
+            ],
+            "decision_reasoning": [
+                "Hall failed to establish a causal link between his military service and his condition due to lack of supporting evidence."
+            ],
+            "procedure_followed": [
+                "initial refusal by the Minister, appeals to the Veterans Review and Appeal Board, and finally judicial review in Federal Court."
+            ],
+            "result_of_case": [
+                "The Federal Court dismissed Hall's application, upholding the earlier decisions refusing his claim for a disability pension."
+            ],
+            "cause_of_action": [
+                "Hall claimed a disability pension for injuries allegedly sustained during military service, but his application lacked sufficient evidence."
+            ]
+        }
+    ]
+}

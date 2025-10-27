@@ -1,0 +1,31 @@
+{
+    "Case ID": "010309",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "questioned political affiliation",
+                "inconsistencies in testimony",
+                "implausibility of events"
+            ],
+            "evidence_assessment": [
+                "speculative or exaggerated discrepancies",
+                "plausible explanations ignored"
+            ],
+            "procedural_fairness": [
+                "judicial review before the Federal Court"
+            ],
+            "reasonableness_standard": [
+                "findings are unreasonable or based on exaggerated discrepancies"
+            ],
+            "decision_outcome": [
+                "set aside Refugee Division's decision",
+                "remit claim for reconsideration"
+            ],
+            "burden_of_proof": [
+                "Refugee Division assesses credibility and plausibility"
+            ]
+        }
+    ]
+}

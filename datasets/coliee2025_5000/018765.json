@@ -1,0 +1,45 @@
+{
+    "Case ID": "018765",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 35(1)(b)"
+            ],
+            "procedural_fairness": [
+                "interviews given to applicants",
+                "opportunities to respond provided"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "senior official in regime engaging in human rights violations"
+            ]
+        },
+        {
+            "Crime Name": "Violation of human or international rights",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s. 35(1)(b)",
+                "Regulations s. 16(e)"
+            ],
+            "senior_official_involvement": [
+                "Lieutenant Colonel in the Iraqi army"
+            ],
+            "procedural_fairness": [
+                "Officer's decision was reasonable and transparent; no breach of fairness occurred"
+            ],
+            "judicial_review_process": [
+                "Judicial review analyzed Officer's decision-making process and procedural fairness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; no certification of general importance"
+            ],
+            "human_rights_violations": [
+                "Male Applicant's rank in Saddam Hussein's regime triggered inadmissibility concerns"
+            ]
+        }
+    ]
+}

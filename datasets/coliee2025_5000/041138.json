@@ -1,0 +1,44 @@
+{
+    "Case ID": "041138",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 25(1)",
+                "IRPA s. 72(1)"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "inadequate reasoning",
+                "failure to allow time for submitting requested document"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "H&C considerations"
+            ],
+            "decision_reasoning": [
+                "inadequate reasoning"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "remitting the case for reconsideration"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "application_details": [
+                "permanent residency application"
+            ],
+            "cause_incident": [
+                "father omitted applicant from initial application"
+            ],
+            "procedure_followed": [
+                "judicial review under IRPA s. 72(1)"
+            ],
+            "decision_made": [
+                "application allowed",
+                "redetermination by another officer"
+            ]
+        }
+    ]
+}

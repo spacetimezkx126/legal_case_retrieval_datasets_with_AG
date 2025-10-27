@@ -1,0 +1,81 @@
+{
+    "Case ID": "002266",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status and Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "section 97(1)(b)(ii) of the IRPA"
+            ],
+            "risk_of_persecution": [
+                "generalized risk due to high crime rates in Mexico",
+                "personalized risk"
+            ],
+            "evidence_assessment": [
+                "victims of extortion and kidnapping by a criminal gang in Mexico"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_proof": [
+                "individualized inquiry"
+            ],
+            "country_conditions": [
+                "high crime rates in Mexico"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Court"
+            ],
+            "risk_characterization": [
+                "continued threat",
+                "high crime rates in Mexico"
+            ],
+            "applicable_statute": [
+                "section 97(1)(b)(ii) of the IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": [
+                "individualized inquiry"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "section 97(1)(b)(ii) of the IRPA",
+                "sections 96 and 97 of the IRPA"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk due to criminal activity, not personalized"
+            ],
+            "evidence_consideration": [
+                "no evidence the gang continued to pursue the applicants"
+            ],
+            "risk_assessment": [
+                "risk was generalized, not personalized"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "country_conditions": [
+                "criminal activity in Mexico"
+            ],
+            "refugee_status_nexus": [
+                "denying refugee status"
+            ]
+        }
+    ]
+}

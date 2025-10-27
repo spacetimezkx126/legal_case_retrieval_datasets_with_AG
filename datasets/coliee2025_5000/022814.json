@@ -1,0 +1,32 @@
+{
+    "Case ID": "022814",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with conditions of temporary resident status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "temporary resident status",
+                "permanent residency"
+            ],
+            "decision_outcome": [
+                "denied restoration",
+                "judicial review allowed"
+            ],
+            "procedural_fairness": [
+                "Officer failed to consider totality of evidence",
+                "ignored/misconstruing relevant facts"
+            ],
+            "evidence_assessment": [
+                "intention to leave Canada by authorized stay period",
+                "existence of a current 'temporary purpose'"
+            ],
+            "standard_of_review": [
+                "judicial review sought",
+                "case remitted for reconsideration"
+            ],
+            "regulatory_compliance": [
+                "IRPA and IRPR compliance"
+            ]
+        }
+    ]
+}

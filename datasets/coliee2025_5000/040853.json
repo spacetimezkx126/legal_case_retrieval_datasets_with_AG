@@ -1,0 +1,67 @@
+{
+    "Case ID": "040853",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "credibility_assessment": [
+                "concerns about marriage genuineness",
+                "haste",
+                "lack of compatibility",
+                "insufficient independent inquiries"
+            ],
+            "evidence_assessment": [
+                "findings lacked sufficient evidence"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision quashed",
+                "referred back for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "spousal sponsorship application"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "haste",
+                "lack of compatibility",
+                "insufficient independent inquiries"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "referred back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review under s 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_provided": [
+                "concerns about marriage's genuineness",
+                "some findings lacked sufficient evidence"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "unreasonable findings"
+            ],
+            "nature_of_offense": [
+                "spousal sponsorship application refusal"
+            ]
+        }
+    ]
+}

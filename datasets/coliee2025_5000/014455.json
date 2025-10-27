@@ -1,0 +1,120 @@
+{
+    "Case ID": "014455",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit money laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "presumption of state protection",
+                "availability of state protection"
+            ],
+            "internal_flight_alternative": [
+                "availability of internal flight alternative"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard applied in judicial review"
+            ],
+            "evidence_provided": [
+                "connections to organized crime",
+                "political figures",
+                "documentary evidence"
+            ],
+            "risk_characterization": [
+                "repeated attacks and harassment"
+            ],
+            "serious_criminality": [
+                "refusing involvement in money laundering"
+            ],
+            "appeal_outcome": [
+                "decision set aside",
+                "remitted for rehearing"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate analysis of abuser's profile",
+                "police ineffectiveness"
+            ],
+            "internal_flight_alternative": [
+                "failed to justify IFA conclusion",
+                "abuser's national reach"
+            ],
+            "risk_assessment": [
+                "repeated violent attacks",
+                "refusal to cooperate with criminal figure"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "country_conditions": [
+                "Mexico"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "state_protection": [
+                "presumption of state protection",
+                "clear evidence",
+                "authorities' responses"
+            ],
+            "internal_flight_alternative": [
+                "IFA analysis",
+                "persecutor's national reach"
+            ],
+            "decision_reasoning": [
+                "inadequate analysis",
+                "unreasonable conclusions"
+            ],
+            "evidence_assessment": [
+                "profile of the persecutor",
+                "police responses",
+                "documentary evidence"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "case remitted for rehearing"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "applicable law and evidence"
+            ]
+        },
+        {
+            "Crime Name": "Unknown (Potential involvement in drug-trafficking, arms trafficking, and prostitution not specified as indictable offences in the context provided)",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "inadequate state protection"
+            ],
+            "internal_flight_alternative": [
+                "lack of reasonable internal flight alternative"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "consequences_of_decision": [
+                "case remitted for rehearing"
+            ],
+            "applicable_law_or_regulation": [
+                "presumption of state protection must be rebutted with clear and convincing evidence"
+            ],
+            "parties_involved": [
+                "Federal Court",
+                "applicant",
+                "Board"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed"
+            ]
+        }
+    ]
+}

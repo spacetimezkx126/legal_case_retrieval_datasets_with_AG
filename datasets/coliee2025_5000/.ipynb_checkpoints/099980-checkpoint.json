@@ -1,0 +1,53 @@
+{
+    "Case ID": "099980",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in an appointment process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate notice",
+                "opportunity to respond not given"
+            ],
+            "misrepresentation_or_fraud": [
+                "false references",
+                "alleged fraud in the appointment process"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "Commission's decision set aside",
+                "corrective actions illegal and invalid"
+            ],
+            "standard_of_review": [
+                "judicial review application"
+            ],
+            "evidence_assessment": [
+                "not informed of specific allegations",
+                "no access to key documents or testimony"
+            ]
+        },
+        {
+            "Crime Name": "Fraud under the Public Service Employment Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 69 of the Public Service Employment Act"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "Commission's decision is set aside"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "investigation into alleged fraud during a public service appointment process"
+            ],
+            "nature_of_offense": [
+                "fraud involving third parties not directly involved in an appointment process"
+            ]
+        }
+    ]
+}

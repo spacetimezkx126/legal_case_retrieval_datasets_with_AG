@@ -1,0 +1,30 @@
+{
+    "Case ID": "009564",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "right_to_procedural_fairness"
+            ],
+            "legal_basis": [
+                "s_14_Canadian_Charter_of_Rights_and_Freedoms"
+            ],
+            "evidence_assessment": [
+                "errors_in_interpretation",
+                "impact_on_credibility_findings"
+            ],
+            "decision_reasoning": [
+                "minor_errors",
+                "unrelated_to_key_findings"
+            ],
+            "result_of_case": [
+                "application_dismissed"
+            ],
+            "standard_of_review": [
+                "judicial_review"
+            ]
+        }
+    ]
+}

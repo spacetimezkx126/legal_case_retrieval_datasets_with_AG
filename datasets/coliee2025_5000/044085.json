@@ -1,0 +1,28 @@
+{
+    "Case ID": "044085",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "rule_applied": [
+                "Rule 237",
+                "Rule 238"
+            ],
+            "decision_reasoning": [
+                "subrogators cannot be selected as representatives under Rule 237",
+                "defendants must follow Rule 238 procedures"
+            ],
+            "application_details": [
+                "defendants sought additional discovery from non-party entities (QCM and DFO) involved in pollution cleanup"
+            ],
+            "procedure_followed": [
+                "motion filed by defendants challenging Prothonotary's decision",
+                "court reviewed rules on discovery and subrogation principles"
+            ],
+            "result_of_case": [
+                "defendants' motion dismissed",
+                "must pursue informal information requests or re-apply under Rule 238"
+            ]
+        }
+    ]
+}

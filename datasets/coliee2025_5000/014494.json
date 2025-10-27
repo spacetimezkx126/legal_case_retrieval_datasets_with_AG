@@ -1,0 +1,107 @@
+{
+    "Case ID": "014494",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "perceived credibility issues"
+            ],
+            "procedural_fairness": [
+                "errors in dismissing shame as a reason",
+                "failing to address credible explanations"
+            ],
+            "legal_basis": [
+                "refugee claims require subjective fear and objective evidence",
+                "Gender Guidelines compliance"
+            ],
+            "decision_outcome": [
+                "application for judicial review succeeds",
+                "case remitted to a different Board panel"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "gender_related_persecution_guidelines": [
+                "cultural contexts",
+                "state protection failures"
+            ],
+            "risk_of_persecution": [
+                "repeated sexual assaults",
+                "systemic failure of Guyanese authorities"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "factual errors"
+            ],
+            "evidence_consideration": [
+                "lack of documentation",
+                "failure to report rapes",
+                "cultural factors like shame",
+                "systemic issues in police system"
+            ],
+            "refugee_status_nexus": [
+                "subjective fear of persecution",
+                "objective foundation"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Protection",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Gender Guidelines",
+                "refugee status rejection"
+            ],
+            "procedural_fairness": [
+                "negative inferences from lack of documentation",
+                "failure to address applicant's explanations",
+                "factual errors"
+            ],
+            "risk_of_persecution": [
+                "repeated sexual assaults",
+                "lack of state protection for Indo-Guyanese minority"
+            ],
+            "decision_reasoning": [
+                "Board member ignored context of shame and systemic issues",
+                "misapplication of Gender Guidelines"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review succeeds",
+                "case remanded for reconsideration"
+            ],
+            "result_of_case": [
+                "Board's decision overturned"
+            ]
+        },
+        {
+            "Crime Name": "Persecution Based on Membership in a Particular Social Group",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "factual errors",
+                "ignored Gender Guidelines",
+                "failed to address applicants' explanations"
+            ],
+            "credibility_findings": [
+                "Board must assess credibility explicitly if rejecting explanations"
+            ],
+            "refugee_definition": [
+                "Applicants claimed refugee status based on persecution as Indo-Guyanese"
+            ],
+            "judicial_review_process": [
+                "Judicial review of the Board's decision",
+                "analyzing procedural fairness, Gender Guidelines, and subjective fear assessment"
+            ],
+            "decision_outcome": [
+                "application for judicial review succeeds",
+                "case is remitted to a different Board panel for reconsideration"
+            ],
+            "burden_of_proof": [
+                "Applicants must prove both subjective and objective fear of persecution"
+            ]
+        }
+    ]
+}

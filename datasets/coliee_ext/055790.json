@@ -1,0 +1,48 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Breaching Conditions of Stay unknown",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Can a removal order be executed against a person on probation without violating s. 50(1)(a) of the Immigration Act?",
+            "Governing_Law": "Section 50(1)(a) of the Immigration Act",
+            "Procedural_Stage": "Judicial review application and motion for stay",
+            "Decision_Outcome": "Removal order stayed pending judicial review or Court of Appeal decision",
+            "Legal_Rule": "Section 50(1)(a) prohibits executing a removal order if it directly results in contravening another judicial order, such as a probation order",
+            "Applicant_Challenge": "Executing the removal order would violate the probation order requiring monthly reporting",
+            "Court_Result": "Stay granted based on conflict between removal order and probation order",
+            "Legal_Provision_Cited": "s. 50(1)(a), Immigration Act",
+            "Pending_Relief_or_Application": "Stay of removal pending resolution of judicial review"
+        },
+        {
+            "Crime_Name": "Being a Danger to the Public under Immigration Act",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Danger to the public under immigration law",
+            "Legal_Issue": "Can a removal order be executed against an individual on probation without violating s. 50(1)(a) of the Immigration Act?",
+            "Governing_Law": "Section 50(1)(a) of the Immigration Act",
+            "Application_Facts": "Applicant on probation for narcotics conviction; removal order issued",
+            "Decision_Outcome": "Removal order stayed due to conflict with probation order",
+            "Claimant_Status": "Non-citizen subject to removal while on probation",
+            "Defendant_Behavior": "Convicted of drug offenses and declared a danger to the public",
+            "Grounds_for_Claim": "Execution of removal order would contravene judicial probation order",
+            "Legal_Provision_Violated": "s. 50(1)(a), Immigration Act",
+            "Relief_Sought": "Stay of removal order",
+            "Outcome": "Stay granted pending judicial review or appellate decision"
+        },
+        {
+            "Crime_Name": "Possession of Narcotics for the Purpose of Trafficking",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Accusation": "Possession of narcotics for the purpose of trafficking",
+            "Legal_Provision_Involved": "Immigration Act, s. 50(1)(a)",
+            "Procedural_Stage": "Motion for stay of removal during judicial review",
+            "Evidence_Type": "Probation order, removal order, prior court decisions",
+            "Decision_Outcome": "Stay of removal granted",
+            "Basis_for_Decision": "Conflict between removal order and ongoing probation obligations",
+            "Legal_Framework": "Immigration and criminal law intersection",
+            "Standard_of_Review": "Interpretation of statutory provisions (s. 50(1)(a))",
+            "Judicial_Review_Outcome": "Stay issued pending final determination",
+            "Risk_Nexus": "Public safety concerns linked to drug trafficking conviction",
+            "Applicant_Status": "Individual under probation and facing removal"
+        }
+    ]
+}

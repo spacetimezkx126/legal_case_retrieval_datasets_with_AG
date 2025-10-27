@@ -1,0 +1,51 @@
+{
+    "Case ID": "098933",
+    "Different Crime": [
+        {
+            "Crime Name": "Impaired driving causing death",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "procedural_fairness": [
+                "considering all available information",
+                "arguments on jurisdiction and fairness"
+            ],
+            "criminal_history": [
+                "breaches of parole conditions",
+                "consuming alcohol twice"
+            ],
+            "risk_assessment": [
+                "public safety"
+            ],
+            "reasonableness_of_decision": [
+                "no reviewable error or bias"
+            ],
+            "past_criminal_convictions": [
+                "applicant's breaches of parole conditions"
+            ]
+        },
+        {
+            "Crime Name": "Refusal to comply with urinalysis request",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Sections 55 and 56 of the Corrections and Conditional Release Act"
+            ],
+            "discretion_exercise": [
+                "Board acted within its discretion"
+            ],
+            "cause_of_action": [
+                "Applicant's refusal to comply with urinalysis and subsequent alcohol consumption breach"
+            ],
+            "procedure_followed": [
+                "Judicial review of National Parole Board decisions regarding parole revocation and denial"
+            ],
+            "result_of_case": [
+                "Court dismissed both applications for judicial review, upholding the Board's decisions"
+            ],
+            "decision_reasoning": [
+                "The law only requires informing offenders of the basis and consequences, not probable cause"
+            ]
+        }
+    ]
+}

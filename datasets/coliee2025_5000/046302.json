@@ -1,0 +1,29 @@
+{
+    "Case ID": "046302",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "absences",
+                "credit card use",
+                "credibility"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "remanded to the Minister for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "undeclared absences",
+                "credit card discrepancies",
+                "dual residency"
+            ]
+        }
+    ]
+}

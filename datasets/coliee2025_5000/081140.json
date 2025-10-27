@@ -1,0 +1,30 @@
+{
+    "Case ID": "081140",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "risk_of_persecution": [
+                "generalized risks"
+            ],
+            "country_conditions": [
+                "violence from gangs in El Salvador"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "specific_group_membership": [
+                "young men"
+            ],
+            "evidence_assessment": [
+                "heightened risks for young men are still generalized"
+            ],
+            "burden_of_proof": [
+                "claimant must prove personalized risk"
+            ],
+            "review_standard": [
+                "judicial review"
+            ]
+        }
+    ]
+}

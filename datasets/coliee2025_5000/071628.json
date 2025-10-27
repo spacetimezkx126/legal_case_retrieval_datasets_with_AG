@@ -1,0 +1,110 @@
+{
+    "Case ID": "071628",
+    "Different Crime": [
+        {
+            "Crime Name": "Corrupt practices in connection with an election",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Sections 12, 14 of the Indian Band Election Regulations",
+                "s. 79 of the Indian Act"
+            ],
+            "decision_outcome": [
+                "set aside"
+            ],
+            "evidence_provided": [
+                "substantial evidence suggesting corrupt practices"
+            ],
+            "standard_of_review": [
+                "proof of the appearance of wrongdoing"
+            ],
+            "applicable_statute": [
+                "Indian Band Election Regulations",
+                "Indian Act"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "appeal_outcome": [
+                "referred back to the Minister for re-evaluation"
+            ]
+        },
+        {
+            "Crime Name": "Intimidation of witnesses",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Sections 12, 14 of the Indian Band Election Regulations",
+                "s. 79 of the Indian Act"
+            ],
+            "evidence_consideration": [
+                "appearance of wrongdoing",
+                "alcohol use",
+                "voter influence"
+            ],
+            "standard_of_proof": [
+                "proof of the 'appearance' of wrongdoing"
+            ],
+            "procedural_fairness": [
+                "incorrectly applied a higher standard",
+                "ignored or improperly evaluated evidence"
+            ],
+            "risk_assessment": [
+                "vote-buying with alcohol",
+                "voter intimidation"
+            ],
+            "reasonableness_of_decision": [
+                "decision is set aside",
+                "case remanded for re-evaluation"
+            ]
+        },
+        {
+            "Crime Name": "Contravention of Indian Band Election Regulations",
+            "Crime Type": "others",
+            "evidentiary_standard": [
+                "Sections 12, 14 of the Indian Band Election Regulations",
+                "Section 79 of the Indian Act"
+            ],
+            "decision_reasoning": [
+                "Minister's Delegate applied incorrect legal standard",
+                "Required proof of wrongdoing rather than appearance"
+            ],
+            "evidence_presented": [
+                "Alcohol use near elections",
+                "Voter influence"
+            ],
+            "procedure_followed": [
+                "Evaluator gathered evidence",
+                "Investigator reported findings",
+                "Delegate dismissed appeal"
+            ],
+            "result_of_case": [
+                "Decision set aside",
+                "Appeal referred back to Minister",
+                "Re-evaluation ordered with proper legal standards",
+                "Costs awarded to Applicant"
+            ]
+        },
+        {
+            "Crime Name": "Failure to investigate credible allegations of electoral misconduct",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "evidentiary_standard": [
+                "Sections 12, 14 of the Indian Band Election Regulations",
+                "s. 79 of the Indian Act",
+                "proof of the 'appearance' of wrongdoing"
+            ],
+            "administrative_error": [
+                "Improper dismissal of broader evidence of corruption and intimidation"
+            ],
+            "legal_basis": [
+                "Sections 12, 14 of the Indian Band Election Regulations",
+                "s. 79 of the Indian Act"
+            ],
+            "reasonableness_of_decision": [
+                "Incorrect application of evidentiary standard"
+            ],
+            "decision_outcome": [
+                "Decision set aside",
+                "Appeal referred back for re-determination"
+            ]
+        }
+    ]
+}

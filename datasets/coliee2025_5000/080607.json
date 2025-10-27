@@ -1,0 +1,32 @@
+{
+    "Case ID": "080607",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions in testimony",
+                "PIF",
+                "POE",
+                "minor and misinterpreted contradictions"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected",
+                "judicial review allowed",
+                "redetermination ordered"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "perceived inconsistencies in political activities and detention history"
+            ],
+            "refugee_status_eligibility": [
+                "claim dismissed due to inconsistencies"
+            ],
+            "evidence_assessment": [
+                "failure to consider substance of fear"
+            ]
+        }
+    ]
+}

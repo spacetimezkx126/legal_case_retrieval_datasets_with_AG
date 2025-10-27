@@ -1,0 +1,152 @@
+{
+    "Case ID": "036145",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "undermined by discrepancies",
+                "inconsistent narratives",
+                "failure to provide key details"
+            ],
+            "procedural_fairness": [
+                "judicial review application dismissed",
+                "RPD decision upheld as reasonable"
+            ],
+            "refugee_status_eligibility": [
+                "denied due to lack of credibility",
+                "inadequate state protection not proven"
+            ],
+            "evidence_assessment": [
+                "inaccurate PIFs",
+                "amended narratives",
+                "template narratives"
+            ],
+            "state_protection_analysis": [
+                "Hungary offers adequate protection",
+                "some discrimination against Roma people"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed the application",
+                "RPD's decision affirmed"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Duty of Fairness in Refugee Claims",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "discrepancies between original and amended narratives"
+            ],
+            "state_protection_analysis": [
+                "conclusion applicants failed to rebut the presumption of state protection"
+            ],
+            "procedural_fairness": [
+                "breach due to previous counsel's incompetence"
+            ],
+            "reasonableness_standard": [
+                "standard of review for credibility and state protection findings"
+            ],
+            "risk_of_persecution": [
+                "alleged persecution in Hungary due to ethnicity"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review application, upholding the RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "immigration laws",
+                "Canadian law"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed credibility, state protection, procedural fairness, and new evidence considerations"
+            ],
+            "material_misrepresentation": [
+                "submission of false narratives in their Personal Information Forms (PIFs)"
+            ],
+            "serious_criminality": [
+                "perjury involves knowingly making false statements under oath"
+            ],
+            "relationship_genuineness": [
+                "applicants attested to the truthfulness of their forms despite knowing discrepancies"
+            ],
+            "appeal_outcome": [
+                "Refugee Protection Division's decision was reasonable"
+            ],
+            "cause_of_action": [
+                "Applicants filed inconsistent narratives due to alleged incompetence of previous counsel and misunderstanding of procedures"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "false narratives",
+                "inconsistent narratives"
+            ],
+            "evidence_provided": [
+                "Personal Information Forms (PIFs)",
+                "Original Narrative",
+                "declarations"
+            ],
+            "reasonableness_of_decision": [
+                "Refugee Protection Division's decision was reasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review"
+            ],
+            "legal_basis": [
+                "perjury involves knowingly making false statements under oath",
+                "submitting false information can undermine credibility and affect asylum claims"
+            ],
+            "immigration_status": [
+                "applicants' submission of false narratives in their Personal Information Forms (PIFs)"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice (alleged but not proven)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ],
+            "procedural_fairness": [
+                "claimants are adequately represented and have opportunities to present their case fully",
+                "applicants had multiple opportunities to clarify their stories"
+            ],
+            "credibility_findings": [
+                "issues with credibility due to inconsistent narratives"
+            ],
+            "state_protection": [
+                "inadequate state protection in Hungary"
+            ],
+            "decision_reasoning": [
+                "no evidence of obstruction of justice",
+                "procedural fairness was upheld"
+            ],
+            "application_details": [
+                "submission of an inaccurate narrative",
+                "failure to report it earlier"
+            ],
+            "conclusion_outcome": [
+                "Application dismissed"
+            ],
+            "relevant_statute": [
+                "Canadian law on obstruction of justice"
+            ],
+            "evidence_presented": [
+                "initial narrative prepared by incompetent counsel"
+            ],
+            "court_ruling": [
+                "no breach of procedural fairness or credible evidence of insufficient state protection in Hungary"
+            ]
+        }
+    ]
+}

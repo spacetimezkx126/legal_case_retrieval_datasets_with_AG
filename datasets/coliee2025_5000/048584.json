@@ -1,0 +1,33 @@
+{
+    "Case ID": "048584",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "1951 Refugee Convention"
+            ],
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "risk_of_persecution": [
+                "political opinion",
+                "family membership"
+            ],
+            "evidence_assessment": [
+                "working illegally in the U.S.",
+                "no asylum claim in the U.S."
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "political opinion",
+                "family membership"
+            ]
+        }
+    ]
+}

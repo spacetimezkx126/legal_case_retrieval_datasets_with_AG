@@ -1,0 +1,138 @@
+{
+    "Case ID": "085679",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "true"
+            ],
+            "evidence_provided": [
+                "credible evidence of serious non-political crimes"
+            ],
+            "expert_testimony": [
+                "analyzed"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Mr. Liang excluded as a Convention refugee"
+            ],
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed evidence, expert testimony, and legal standards"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to commit murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime outside Canada"
+            ],
+            "evidence_consideration": [
+                "Minister's evidence",
+                "implausible story"
+            ],
+            "risk_assessment": [
+                "credible evidence of serious criminality"
+            ],
+            "criminal_history": [
+                "accused of conspiracy to commit murder in China"
+            ],
+            "refugee_status_nexus": [
+                "excluded from refugee protection"
+            ],
+            "procedural_fairness": [
+                "hearings before the CRDD",
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the UN Refugee Convention",
+                "Subsection 2(1) of the Immigration Act"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "evidence_credibility": [
+                "not credible"
+            ],
+            "procedural_fairness": [
+                "CRDD reviewed evidence",
+                "Federal Court analyzed legal arguments"
+            ],
+            "reasonableness_of_decision": [
+                "upheld the CRDD's decision"
+            ],
+            "charter_rights_violation": [],
+            "admissibility_criteria": [],
+            "disclosure_of_sensitive_information": [],
+            "balance_of_interests": [],
+            "specific_actions_or_activities": [
+                "bribery and corruption"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed",
+                "Mr. Liang excluded from refugee status"
+            ],
+            "standard_of_proof": [
+                "less than a balance of probabilities"
+            ]
+        },
+        {
+            "Crime Name": "Leading a criminal organization",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "evidence_assessment": [
+                "Lindblom's expert testimony",
+                "implausibility of Mr. Liang's story",
+                "Minister's version favored"
+            ],
+            "risk_of_persecution": [
+                "fled prosecution rather than persecution"
+            ],
+            "decision_reasoning": [
+                "credible evidence of serious non-political crimes"
+            ],
+            "application_details": [
+                "Interpol warrant issued for conspiracy to commit murder, leading a criminal organization, and corruption"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "Mr. Liang excluded from refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside the country of refuge",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "Minister's evidence favored",
+                "implausible story"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "refugee_definition": [
+                "excluded under Article 1F(b)"
+            ],
+            "burden_of_proof": [
+                "less than a balance of probabilities"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

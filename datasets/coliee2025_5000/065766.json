@@ -1,0 +1,55 @@
+{
+    "Case ID": "065766",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault with a Weapon",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "convicted of sexual assault"
+            ],
+            "risk_assessment": [
+                "high risk to re-offend",
+                "SARA assessment"
+            ],
+            "procedural_fairness": [
+                "reasonableness standard applies",
+                "statutory provisions allowing reasonable limits on visits for security or safety"
+            ],
+            "rehabilitation_or_possibility": [
+                "need for sex offender treatment",
+                "denied PFVs until completing sex offender and family violence programs"
+            ],
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "humanitarian_concerns": [
+                "Public safety"
+            ],
+            "reasonableness_of_decision": [
+                "decision to deny PFVs is reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "decision_reasoning": [
+                "balancing offender rehabilitation and public safety",
+                "societal protection while allowing inmates rights"
+            ],
+            "risk_assessment": [
+                "high-risk SARA score",
+                "unaddressed family violence issues"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed",
+                "denial of PFVs upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "024495",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of false documents for international travel",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies",
+                "implausible threats",
+                "lack of action on previous refugee claims"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of false documents for travel"
+            ],
+            "refugee_status_eligibility": [
+                "persecution fears"
+            ],
+            "evidence_assessment": [
+                "no evidence that the Board ignored key testimony or documentation"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "erroneous facts"
+            ]
+        }
+    ]
+}

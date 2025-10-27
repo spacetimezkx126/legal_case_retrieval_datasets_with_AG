@@ -1,0 +1,29 @@
+{
+    "Case ID": "042196",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "jurisdiction to extend time under s. 7(5) after the statutory stay expires"
+            ],
+            "relevant_statute": [
+                "Patented Medicines Regulations, s. 7(5)"
+            ],
+            "application_details": [
+                "Merck applied for an extension after the statutory stay expired"
+            ],
+            "decision_reasoning": [
+                "court lacks jurisdiction to extend time after the statutory stay expires",
+                "issue is res judicata with no special circumstances justifying reconsideration"
+            ],
+            "procedure_followed": [
+                "case involved multiple applications and appeals regarding extensions under s. 7(5)"
+            ],
+            "result_of_case": [
+                "extension application was dismissed",
+                "prohibition application was also dismissed"
+            ]
+        }
+    ]
+}

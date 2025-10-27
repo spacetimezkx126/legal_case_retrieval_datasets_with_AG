@@ -1,0 +1,25 @@
+{
+    "Case ID": "019786",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Immigration officers must prove they sent an interview notice to the correct address or fax number"
+            ],
+            "evidence_assessment": [
+                "fax was sent to the correct number used by the consultancy firm",
+                "Speculative explanations for non-receipt were unsupported"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "permanent residency application was denied"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's failure to attend the interview"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Case ID": "036096",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee status",
+                "sexual orientation",
+                "persecution as a lesbian in Iran"
+            ],
+            "evidence_assessment": [
+                "document authenticity",
+                "summons authenticity",
+                "extra proof for sexual orientation"
+            ],
+            "credibility_findings": [
+                "implausible assumptions about Iranian culture",
+                "doubted the authenticity without evidence",
+                "required excessive corroboration"
+            ],
+            "decision_reasoning": [
+                "speculative reasoning",
+                "no chance to respond to specialized knowledge",
+                "no rational basis for additional proof"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review allowed",
+                "Board’s decision set aside",
+                "reconsideration by a different panel"
+            ]
+        }
+    ]
+}

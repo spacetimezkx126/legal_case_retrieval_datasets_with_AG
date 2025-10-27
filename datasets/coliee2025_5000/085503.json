@@ -1,0 +1,37 @@
+{
+    "Case ID": "085503",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistent testimony",
+                "untreated bipolar disorder"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "flawed credibility assessment"
+            ],
+            "reasonableness_standard": [
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "medical evidence"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remitted for re-determination"
+            ],
+            "specific_vulnerabilities": [
+                "mental health condition",
+                "bipolar disorder"
+            ],
+            "burden_of_proof": [
+                "Board's decision was patently unreasonable"
+            ],
+            "inconsistencies_in_testimony": [
+                "not credible"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refugee claim decision",
+            "Legal_Issue": "Failure to analyze subjective fear of persecution before assessing state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Illegal entry into Canada",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Failure to assess subjective fear of persecution prior to evaluating state protection",
+            "Procedural_Stage": "Judicial review under IRPA sections 72 et seq.",
+            "Standard_of_Review": "Reasonableness standard",
+            "Decision_Maker": "Refugee Protection Division",
+            "Outcome": "Judicial review granted, case remanded"
+        },
+        {
+            "Crime_Name": "Overstaying visa",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Unlawful presence in the U.S. and illegal entry into Canada",
+            "Legal_Issue": "Omission of subjective fear analysis before state protection assessment",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Failure to follow Flores principles in sequence of analysis",
+            "Outcome_of_Review": "Case remanded for reconsideration by a different panel"
+        },
+        {
+            "Crime_Name": "Failure to seek asylum in the United States",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Failure to pursue asylum in first safe country (U.S.)",
+            "Legal_Issue": "Tribunal's failure to assess credibility and subjective fear before analyzing state protection",
+            "Applicable_Legislation": "Immigration and Refugee Protection Act",
+            "Review_Standard": "Reasonableness standard",
+            "Remedy_Sought": "Judicial review and remittal for new hearing"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "063855",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on Health Grounds",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demand on health or social services",
+                "son's health condition",
+                "cerebral palsy"
+            ],
+            "evidence_assessment": [
+                "financial plan",
+                "lacked credible details",
+                "weak assumptions",
+                "insufficient coverage for specialized care"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "upholding immigration officer's decision"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "judicial review under IRPA subsection 72(1)"
+            ],
+            "legal_basis": [
+                "IRPA s. 38(1)(c)",
+                "IRPA s. 42"
+            ]
+        }
+    ]
+}

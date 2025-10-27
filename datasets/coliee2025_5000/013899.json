@@ -1,0 +1,31 @@
+{
+    "Case ID": "013899",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failed to question the applicant",
+                "give them a chance to respond"
+            ],
+            "residency_requirements": [
+                "residence requirements under section 5(1)c of the Citizenship Act",
+                "substantial proof of residence",
+                "perceived residency requirement failures"
+            ],
+            "decision_outcome": [
+                "granted judicial review",
+                "case was remanded",
+                "re-evaluation"
+            ],
+            "standard_of_review": [
+                "judicial review process"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in her evidence",
+                "lacked clarity on some details"
+            ]
+        }
+    ]
+}

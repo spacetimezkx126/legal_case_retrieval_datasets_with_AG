@@ -1,0 +1,30 @@
+{
+    "Case ID": "013179",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days",
+                "physical presence in Canada"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "citizenship application denied"
+            ],
+            "evidence_provided": [
+                "failed to disclose multiple trips",
+                "insufficient credible evidence"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge"
+            ],
+            "applicable_statute": [
+                "Subsection 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

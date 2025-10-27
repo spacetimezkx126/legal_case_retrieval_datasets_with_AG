@@ -1,0 +1,30 @@
+{
+    "Case ID": "021408",
+    "Different Crime": [
+        {
+            "Crime Name": "Request for Review of Conviction under Section 690 of the Criminal Code",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 690 of the Criminal Code",
+                "Federal Court Act, sections 18(1)(a) and 18(3)"
+            ],
+            "procedure_followed": [
+                "Defendant moved to strike out the Statement of Claim",
+                "Court analyzed whether judicial review or an action was appropriate",
+                "Considered Rule 57 for conversion"
+            ],
+            "decision_reasoning": [
+                "Decisions under section 690 are subject to judicial review",
+                "Declarations against federal boards or tribunals require judicial review applications",
+                "Rule 57 allows conversion of actions into judicial review applications"
+            ],
+            "result_of_case": [
+                "Plaintiff granted 45 days to pursue judicial review and conversion",
+                "If not filed, the action will be dismissed"
+            ],
+            "cause_of_action": [
+                "Plaintiff’s dissatisfaction with the handling of his mercy request under section 690 of the Criminal Code"
+            ]
+        }
+    ]
+}

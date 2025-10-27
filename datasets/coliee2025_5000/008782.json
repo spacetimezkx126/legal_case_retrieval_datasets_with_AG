@@ -1,0 +1,27 @@
+{
+    "Case ID": "008782",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud through purported relationship for permanent residence.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "relationship entered into primarily for acquiring status under IRPA",
+                "not genuine"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in testimonies about cohabitation, financial support, and legal advice"
+            ],
+            "immigration_status": [
+                "foreign national",
+                "seeking permanent residence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "IAD's decision upheld"
+            ],
+            "regulatory_compliance": [
+                "IRPA Regulations regarding spouse, common-law partner, or conjugal partner"
+            ]
+        }
+    ]
+}

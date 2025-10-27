@@ -1,0 +1,50 @@
+{
+    "Case ID": "093846",
+    "Different Crime": [
+        {
+            "Crime Name": "Deception to obtain a student visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative inference from deception"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "transparent, justifiable, and within acceptable outcomes based on evidence"
+            ],
+            "decision_outcome": [
+                "judicial review allowed, case remitted for reconsideration"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible due to inconsistencies and deception"
+            ]
+        },
+        {
+            "Crime Name": "Sexual assault",
+            "Crime Type": "Violence-related_Crimes",
+            "sur_place_claims": [
+                "sexual assault",
+                "fear of cousin in Canada"
+            ],
+            "refugee_status_nexus": [
+                "persecution in Turkey"
+            ],
+            "risk_of_persecution": [
+                "fear of cousin in Canada"
+            ],
+            "procedural_fairness": [
+                "Board's failure to address sur place claim"
+            ],
+            "evidence_consideration": [
+                "applicant provided evidence of sexual assault"
+            ],
+            "reasonableness_of_decision": [
+                "Board's omission constitutes a reviewable error"
+            ]
+        }
+    ]
+}

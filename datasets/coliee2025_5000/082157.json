@@ -1,0 +1,28 @@
+{
+    "Case ID": "082157",
+    "Different Crime": [
+        {
+            "Crime Name": "Using fraudulent documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "minor inconsistencies in testimonial evidence",
+                "substantial corroborating details"
+            ],
+            "credibility_assessment": [
+                "inconsistencies were minor or translation-related"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned",
+                "case referred back for reassessment"
+            ],
+            "document_authenticity": [
+                "fraudulent German passports",
+                "lacked Somali identity documents"
+            ]
+        }
+    ]
+}

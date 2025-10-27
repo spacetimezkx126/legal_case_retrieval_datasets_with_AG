@@ -1,0 +1,37 @@
+{
+    "Case ID": "029479",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court Trial Division",
+                "Federal Court of Appeal"
+            ],
+            "cause_of_action": [
+                "NEB's decision misuse of information",
+                "DFO/PFRA failure of duties under CEA Act"
+            ],
+            "procedure_followed": [
+                "AGC moved to strike both applications",
+                "Rocky Mountain countered arguing proper initiation in Trial Division"
+            ],
+            "result_of_case": [
+                "First application struck but may be transferred",
+                "Second application dismissed entirely"
+            ],
+            "relevant_statute": [
+                "s. 28 of the Federal Court Act",
+                "CEA Act"
+            ],
+            "decision_reasoning": [
+                "NEB decisions under Appeal Court jurisdiction",
+                "Mandamus requires clear legal right, duty, ministerial non-discretionary decision, and demand/refusal"
+            ],
+            "application_details": [
+                "Rocky Mountain sought to challenge NEB's decision in Trial Division",
+                "Compel DFO/PFRA via mandamus"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Case ID": "078228",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 20(1)(a)-(d) and 20(2) of the Access to Information Act"
+            ],
+            "evidence_assessment": [
+                "insufficiently specific",
+                "largely speculative"
+            ],
+            "standard_of_review": [
+                "judicial review under the Federal Court Act"
+            ],
+            "decision_reasoning": [
+                "failure to meet legal standard for exemption"
+            ],
+            "conclusion_outcome": [
+                "partially granted"
+            ],
+            "result_of_case": [
+                "partial exemption for specific pricing data and legal opinions",
+                "disclosure of majority of requested records"
+            ],
+            "cause_of_action": [
+                "request for disclosure of documents related to privatization and sale of CCG"
+            ],
+            "procedure_followed": [
+                "burden of proof on Applicant to demonstrate exemptions"
+            ],
+            "relevant_statute": [
+                "Access to Information Act"
+            ],
+            "application_details": [
+                "trade secrets",
+                "confidential financial information",
+                "sensitive negotiation details"
+            ]
+        }
+    ]
+}

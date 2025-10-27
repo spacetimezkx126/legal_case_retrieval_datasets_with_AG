@@ -1,0 +1,31 @@
+{
+    "Case ID": "089661",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "novelty",
+                "double patenting",
+                "obviousness"
+            ],
+            "relevant_statute": [
+                "NOC Regulations",
+                "Canadian Patent Law"
+            ],
+            "evidence_consideration": [
+                "prior patents",
+                "Harris and Thigpen papers"
+            ],
+            "decision_reasoning": [
+                "lack of novelty",
+                "double patenting",
+                "not deemed obvious"
+            ],
+            "result_details": [
+                "application dismissed",
+                "costs awarded to Pharmascience"
+            ]
+        }
+    ]
+}

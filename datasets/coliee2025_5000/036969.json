@@ -1,0 +1,37 @@
+{
+    "Case ID": "036969",
+    "Different Crime": [
+        {
+            "Crime Name": "Visa Application Denial",
+            "Crime Type": "others",
+            "legal_basis": [
+                "reasonableness standard",
+                "procedural fairness"
+            ],
+            "decision_reasoning": [
+                "insufficient evidence",
+                "non-credible employer letter"
+            ],
+            "evidence_assessment": [
+                "resemblance to NOC descriptions",
+                "specific functions and projects"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "decision quashed",
+                "reassessment by different officer"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed decision"
+            ],
+            "conclusion_outcome": [
+                "unreasonable decision",
+                "procedurally unfair"
+            ]
+        }
+    ]
+}

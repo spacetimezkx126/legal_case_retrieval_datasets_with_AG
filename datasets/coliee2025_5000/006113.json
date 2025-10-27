@@ -1,0 +1,42 @@
+{
+    "Case ID": "006113",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal Importation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 129.2 of the Customs Act"
+            ],
+            "procedural_fairness": [
+                "extension granted if application within one year",
+                "bona fide intention to object",
+                "just and equitable to grant application"
+            ],
+            "decision_outcome": [
+                "extension granted"
+            ],
+            "misrepresentation_or_fraud": [
+                "lawyer's computational error"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Customs Act (s. 129.2)"
+            ],
+            "application_details": [
+                "Mr. Heron's lawyer missed the 90-day deadline by two days due to a computational error. He promptly sought an extension from the Minister and then the Court."
+            ],
+            "decision_reasoning": [
+                "The delay was minor, unintentional, and did not prejudice the Minister, aligning with the 'just and equitable' standard."
+            ],
+            "procedure_followed": [
+                "Mr. Heron first requested an extension from the Minister, which was denied. He then applied to the Federal Court under s. 129.2 of the Customs Act."
+            ],
+            "result_of_case": [
+                "The Court granted Mr. Heron's application for an extension of time, deeming the objection timely filed."
+            ]
+        }
+    ]
+}

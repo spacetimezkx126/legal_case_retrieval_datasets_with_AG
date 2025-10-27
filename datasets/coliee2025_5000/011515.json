@@ -1,0 +1,100 @@
+{
+    "Case ID": "011515",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "evidence_assessment": [
+                "substantial evidence linking to drug-related activities and potential insurance fraud"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged involvement in drug trafficking and other misconduct"
+            ]
+        },
+        {
+            "Crime Name": "Insurance fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "sufficient disclosure of allegations",
+                "opportunity to respond"
+            ],
+            "reasonableness_standard": [
+                "applies to discretionary decisions"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "reasonable decision"
+            ],
+            "cause_of_action": [
+                "cancellation of security clearance"
+            ],
+            "nature_of_offense": [
+                "drug trafficking",
+                "insurance fraud"
+            ],
+            "judicial_authority": [
+                "Director General"
+            ],
+            "appeal_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "sufficient disclosure",
+                "opportunity to respond"
+            ],
+            "evidence_consideration": [
+                "drug-related activities",
+                "potential insurance fraud"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable belief",
+                "justified the decision"
+            ],
+            "legal_basis": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "criminal_history": [
+                "ties to drug trafficking",
+                "questionable behavior"
+            ],
+            "risk_assessment": [
+                "unlawfully interfere with aviation"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cannabis",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "No breach of procedural fairness occurred"
+            ],
+            "evidence_sufficiency": [
+                "sufficient grounds for concern"
+            ],
+            "security_clearance": [
+                "revocation upheld"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "Aeronautics Act"
+            ],
+            "review_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

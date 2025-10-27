@@ -1,0 +1,147 @@
+{
+    "Case ID": "022845",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent statements",
+                "failure to provide coherent account"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "standard of review for credibility findings is reasonableness"
+            ],
+            "evidence_assessment": [
+                "no medical evidence provided"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "applicant not recognized as a refugee"
+            ],
+            "refugee_status_eligibility": [
+                "panel's decision to reject the applicant's refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "inconsistent statements",
+                "no medical evidence"
+            ],
+            "procedural_fairness": [],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "credibility findings"
+            ],
+            "nature_of_offense": [
+                "failure to provide coherent account"
+            ],
+            "relationship_genuineness": [],
+            "risk_characterization": [],
+            "nexus_to_convention_grounds": [],
+            "persecution_details": [],
+            "materiality_of_misrepresentation": [],
+            "balance_of_convenience": [],
+            "irreparable_harm": [],
+            "public_interest": [],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_likelihood": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies",
+                "omissions",
+                "contradictions",
+                "memory issues",
+                "no medical evidence"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "alleged assaults by bodyguards"
+            ],
+            "evidence_consideration": [
+                "testimony",
+                "lack of medical evidence"
+            ],
+            "balance_of_convenience": [
+                "impact on central facts of claim"
+            ],
+            "serious_issue": [
+                "refugee claim rejection"
+            ],
+            "irreparable_harm": [
+                "not applicable in this case"
+            ],
+            "country_conditions": [
+                "Mexico"
+            ],
+            "refugee_status_nexus": [
+                "not established"
+            ],
+            "risk_of_persecution": [
+                "not substantiated"
+            ],
+            "applicant_involvement": [
+                "stolen briefcase incident"
+            ],
+            "humanitarian_concerns": [
+                "not recognized"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions",
+                "omissions",
+                "incoherent details",
+                "lack of medical evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "decision_reasoning": [
+                "lack of credible evidence"
+            ],
+            "cause_of_action": [
+                "persecution after theft accusation",
+                "threats",
+                "flight to Canada"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "credibility assessment",
+                "evidence review from interviews and hearings"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "not recognized as refugee"
+            ]
+        }
+    ]
+}

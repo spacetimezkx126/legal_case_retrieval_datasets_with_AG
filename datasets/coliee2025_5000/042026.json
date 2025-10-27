@@ -1,0 +1,31 @@
+{
+    "Case ID": "042026",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Law",
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Cipher's allegations upheld; no infringement found"
+            ],
+            "procedural_fairness": [
+                "Section 6 proceedings",
+                "Evidence from experts and affidavits reviewed"
+            ],
+            "expert_testimony": [
+                "Fournier countered with expert evidence suggesting otherwise"
+            ],
+            "technical_details": [
+                "dissolution profiles, particle sizes, formulation processes",
+                "immediate release, micronized form, inert hydrosoluble carrier"
+            ],
+            "patent_validity": [
+                "non-infringement allegations are presumed true unless disproven on a balance of probabilities"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "052909",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "contradictions in travel records",
+                "insufficient documentation of residence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted for redetermination"
+            ],
+            "residency_requirements": [
+                "three years of residence in Canada within four years before application"
+            ]
+        }
+    ]
+}

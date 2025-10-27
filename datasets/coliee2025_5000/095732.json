@@ -1,0 +1,28 @@
+{
+    "Case ID": "095732",
+    "Different Crime": [
+        {
+            "Crime Name": "False or misleading information in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "not based on evidence"
+            ],
+            "evidence_assessment": [
+                "discrepancies were minor",
+                "clarified during interview",
+                "no substantial contradictions"
+            ],
+            "decision_outcome": [
+                "judicial review approval",
+                "case remanded for re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged untruthful responses"
+            ],
+            "legal_basis": [
+                "s.16(1) of IRPA"
+            ]
+        }
+    ]
+}

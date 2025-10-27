@@ -1,0 +1,82 @@
+{
+    "Case ID": "040375",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistencies",
+                "lack of credibility"
+            ],
+            "internal_flight_alternative": [
+                "IFA determination unreasonable"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "refugee_status_eligibility": [
+                "denied based on credibility issues"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "credibility issues"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings are reviewed under the reasonableness standard."
+            ],
+            "relationship_genuineness": [
+                "Refugee claimants must demonstrate a well-founded fear of persecution without being required to conceal immutable characteristics."
+            ],
+            "expert_testimony": [
+                "The Board member found inconsistencies in Okoli's testimony, rejected his explanations, and concluded he lacked credibility."
+            ],
+            "internal_flight_alternative": [
+                "The IFA finding relied on discretion about sexual orientation, which contradicts case law prohibiting repression of immutable traits."
+            ],
+            "appeal_outcome": [
+                "The court granted judicial review, remitting the case for re-evaluation by a different board due to unreasonable credibility and IFA findings."
+            ],
+            "cause_of_action": [
+                "Okoli claimed refugee status due to persecution as a homosexual in Nigeria but was denied based on credibility issues and an available internal flight alternative."
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging the Refugee Protection Division's decision, arguing the Board ignored or misapprehended evidence."
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies",
+                "deception"
+            ],
+            "refugee_status_claim": [
+                "rejection based on credibility"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "reasoning_given": [
+                "flawed credibility assessment"
+            ],
+            "decision_outcome": [
+                "remitted for re-determination"
+            ],
+            "evidence_provided": [
+                "fear",
+                "incompetent counsel"
+            ],
+            "internal_flight_alternative": [
+                "analyzed"
+            ]
+        }
+    ]
+}

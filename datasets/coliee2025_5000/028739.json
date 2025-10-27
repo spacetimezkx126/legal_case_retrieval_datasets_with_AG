@@ -1,0 +1,38 @@
+{
+    "Case ID": "028739",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "similarity in services",
+                "visual and phonetic similarity of trademarks"
+            ],
+            "confusion_likelihood": [
+                "potential confusion between TEAVANA and TEAYAMA"
+            ],
+            "decision_outcome": [
+                "infringement under Sections 19 and 20",
+                "violation of Section 7(b)"
+            ],
+            "legal_basis": [
+                "Sections 19, 20, and 7(b) of the Trade-marks Act"
+            ],
+            "appeal_outcome": [
+                "partial relief granted"
+            ],
+            "cause_of_action": [
+                "use of confusingly similar trademark for similar tea-related services"
+            ],
+            "nature_of_offense": [
+                "trademark infringement"
+            ],
+            "mitigating_factors": [
+                "lack of proof of goodwill depreciation or damages"
+            ]
+        }
+    ]
+}

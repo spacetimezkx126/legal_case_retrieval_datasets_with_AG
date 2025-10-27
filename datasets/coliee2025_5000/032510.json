@@ -1,0 +1,35 @@
+{
+    "Case ID": "032510",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "minor discrepancies",
+                "ignored explanations",
+                "unreasonable",
+                "lacked justification"
+            ],
+            "gender_guidelines": [
+                "failed to apply",
+                "sexual assault claims"
+            ],
+            "evidence_assessment": [
+                "medical reports",
+                "witness testimony",
+                "supporting evidence"
+            ],
+            "reasonableness_standard": [
+                "unreasonable",
+                "judicial intervention"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "reassessment"
+            ],
+            "burden_of_proof": [
+                "credibility issues"
+            ]
+        }
+    ]
+}

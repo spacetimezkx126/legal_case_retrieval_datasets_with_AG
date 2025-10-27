@@ -1,0 +1,81 @@
+{
+    "Case ID": "091674",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 96 and 97 of the Immigration and Refugee Protection Act",
+                "s. 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution based on race, religion, nationality, membership in a particular social group, or political opinion"
+            ],
+            "risk_assessment": [
+                "extortion",
+                "persecution",
+                "racial targeting under mixed motives analysis"
+            ],
+            "evidence_assessment": [
+                "targeted due to Tamil ethnicity"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Board's decision quashed",
+                "reconsideration ordered by a different member"
+            ],
+            "misrepresentation_or_fraud": [
+                "Border Document Misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Board's decision quashed",
+                "case returned for reconsideration"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "ethnicity"
+            ],
+            "specific_targeting": [
+                "young Tamil males"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "persecution_details": [
+                "fear of persecution from Sri Lankan groups due to Tamil ethnicity and past detentions"
+            ]
+        },
+        {
+            "Crime Name": "Racial Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "persecution_grounds": [
+                "race"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act s. 96",
+                "Immigration and Refugee Protection Act s. 72(1)"
+            ],
+            "credibility_findings": [
+                "failure to consider racial targeting"
+            ],
+            "judicial_review_process": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "reconsideration ordered"
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ]
+        }
+    ]
+}

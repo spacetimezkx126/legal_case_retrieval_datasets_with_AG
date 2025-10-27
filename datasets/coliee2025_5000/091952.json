@@ -1,0 +1,84 @@
+{
+    "Case ID": "091952",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed whether the PRRA officer's decision was reasonable based on new evidence presented post-rejection."
+            ],
+            "evidence_provided": [
+                "most evidence was deemed repetitive or insufficiently personalized to prove individual risk beyond general conditions in Bangladesh"
+            ],
+            "reasonableness_standard": [
+                "The PRRA officer's decision was reasonable as the new evidence did not substantiate a significant change in circumstances or personal risk"
+            ],
+            "risk_characterization": [
+                "Is the applicant at risk of extortion and persecution if returned to Bangladesh"
+            ],
+            "nexus_to_convention_grounds": [
+                "warranting protection under the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Intimidation",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "intimidation in Bangladesh"
+            ],
+            "legal_basis": [
+                "Section 113 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_consideration": [
+                "new evidence not previously available",
+                "34 documents provided",
+                "letters analyzed further"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "political activities",
+                "documentary exposing corruption"
+            ],
+            "procedural_fairness": [
+                "Refugee Protection Division",
+                "PRRA application",
+                "judicial review in Federal Court"
+            ],
+            "standard_of_proof": [
+                "sufficient new evidence to warrant protection"
+            ]
+        },
+        {
+            "Crime Name": "Impunity for Extrajudicial Killings (Border document misrepresentation)",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "section 113 of the Immigration and Refugee Protection Act"
+            ],
+            "evidentiary_standard": [
+                "Reasonableness standard applies"
+            ],
+            "new_evidence_impact": [
+                "most were rehashed evidence",
+                "Three letters offered no materially new evidence"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA officer's decision was reasonable"
+            ],
+            "judicial_review_process": [
+                "judicial review dismissed",
+                "Court dismissed the judicial review, upholding the PRRA officer's decision"
+            ],
+            "persecution_grounds": [
+                "Applicant feared persecution in Bangladesh due to a documentary exposing RAB officers' wrongdoings"
+            ]
+        }
+    ]
+}

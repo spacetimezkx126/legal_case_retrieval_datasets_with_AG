@@ -1,0 +1,30 @@
+{
+    "Case ID": "090541",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "non-compliance",
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "ineligible for Canadian citizenship"
+            ],
+            "evidence_assessment": [
+                "absences deemed structural and voluntary"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "care for ill mother",
+                "religious purposes"
+            ],
+            "family_class_considerations": [
+                "family ties"
+            ]
+        }
+    ]
+}

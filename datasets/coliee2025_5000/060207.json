@@ -1,0 +1,80 @@
+{
+    "Case ID": "060207",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "unavailable",
+                "localized police indifference",
+                "NGOs available but unused"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "elder abuse by her son",
+                "insufficient evidence of lack of state protection"
+            ],
+            "risk_characterization": [
+                "well-founded fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "analyzed"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status claim due to abuse"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "insufficient evidence of state protection failure",
+                "available legal frameworks and NGOs in Guyana"
+            ],
+            "risk_of_persecution": [
+                "verbal abuse and threats from her son",
+                "no physical harm"
+            ],
+            "nexus_to_convention_grounds": [
+                "persecution as a vulnerable woman"
+            ],
+            "evidence_consideration": [
+                "lack of sufficient evidence"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision lacked reviewable error"
+            ],
+            "applicant_characteristics": [
+                "elder abuse victim",
+                "vulnerable woman"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Convention refugee criteria"
+            ],
+            "risk_of_persecution": [
+                "elder abuse by son"
+            ],
+            "state_protection": [
+                "inadequate state protection mechanisms in Guyana"
+            ],
+            "evidence_presented": [
+                "insufficient evidence of lack of state protection"
+            ],
+            "decision_reasoning": [
+                "no nexus between fear and Convention grounds"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

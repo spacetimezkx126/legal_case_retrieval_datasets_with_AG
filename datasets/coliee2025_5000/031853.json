@@ -1,0 +1,84 @@
+{
+    "Case ID": "031853",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate state protection"
+            ],
+            "procedural_fairness": [
+                "no oral hearing required",
+                "ignored contradictory evidence"
+            ],
+            "credibility_assessment": [
+                "minor credibility concerns"
+            ],
+            "risk_assessment": [
+                "unreasonable conclusions on homophobia risks"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequate state protection",
+                "tangible results",
+                "homophobia risks"
+            ],
+            "procedural_fairness": [
+                "oral hearing",
+                "credibility issues",
+                "procedural unfairness"
+            ],
+            "decision_outcome": [
+                "unreasonable conclusions",
+                "case remitted",
+                "re-determination"
+            ],
+            "judicial_authority": [
+                "negative PRRA decision",
+                "judicial review"
+            ],
+            "risk_characterization": [
+                "homophobia risks"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling Drugs",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "adequacy of state protection",
+                "tangible results"
+            ],
+            "procedural_fairness": [
+                "oral hearing",
+                "credibility issues"
+            ],
+            "credibility_findings": [
+                "contradictory evidence",
+                "bisexuality as a factor"
+            ],
+            "refugee_status": [
+                "sought refugee protection"
+            ],
+            "decision_made_by": [
+                "Officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA sections"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remitted for re-determination"
+            ]
+        }
+    ]
+}

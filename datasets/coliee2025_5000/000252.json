@@ -1,0 +1,29 @@
+{
+    "Case ID": "000252",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "minor inconsistencies",
+                "implausibility issues"
+            ],
+            "reasonableness_standard": [
+                "unreasonable findings"
+            ],
+            "evidence_assessment": [
+                "perceived contradictions in evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed credibility and plausibility assessments"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remitted for reconsideration"
+            ],
+            "risk_of_persecution": [
+                "claim of persecution based on political affiliation"
+            ]
+        }
+    ]
+}

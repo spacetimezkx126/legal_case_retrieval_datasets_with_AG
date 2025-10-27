@@ -1,0 +1,32 @@
+{
+    "Case ID": "032771",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "legal_basis": [
+                "sections 10 and 12(1)(e) of the Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "no Canadian whisky with 'Glen' in its name existed before 2000",
+                "strong association of 'Glen' with Scottish whisky",
+                "potential consumer confusion"
+            ],
+            "decision_outcome": [
+                "refuse registration of 'Glen Breton'"
+            ],
+            "confusion_likelihood": [
+                "yes"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "opposition to trademark application"
+            ]
+        }
+    ]
+}

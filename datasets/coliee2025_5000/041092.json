@@ -1,0 +1,46 @@
+{
+    "Case ID": "041092",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "paragraph 36(1)(c) of the IRPA"
+            ],
+            "procedural_fairness": [
+                "amendment to the subsection 44(1) report deemed procedurally fair"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed",
+                "Mr. Uppal remains inadmissible to Canada"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of fraudulent passport and driver's license"
+            ]
+        },
+        {
+            "Crime Name": "Uttering a forged document",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA paragraph 36(1)(c)"
+            ],
+            "decision_outcome": [
+                "Dismissed"
+            ],
+            "evidence_provided": [
+                "fraudulent passport",
+                "fraudulent driver's license"
+            ],
+            "applicable_statute": [
+                "IRPA sections 133 and 44"
+            ],
+            "judicial_authority": [
+                "admissibility hearing",
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "use of forged documents"
+            ]
+        }
+    ]
+}

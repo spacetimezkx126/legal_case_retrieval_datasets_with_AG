@@ -1,0 +1,28 @@
+{
+    "Case ID": "031117",
+    "Different Crime": [
+        {
+            "Crime Name": "Intellectual Property Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act",
+                "Industrial Design Act"
+            ],
+            "evidence_provided": [
+                "credible evidence of inventing the interconnect system before Comstock's involvement"
+            ],
+            "applicable_statute": [
+                "true inventor must originate the idea independently",
+                "employers can claim inventions only if employees were hired for inventive purposes or agreed otherwise"
+            ],
+            "judicial_authority": [
+                "Judicial review involving analysis of evidence, witness testimonies, and applicable laws regarding inventorship and employment rights"
+            ],
+            "decision_outcome": [
+                "Hyde declared sole inventor",
+                "Comstock’s actions dismissed",
+                "Electec retains exclusive ownership of the patent and design"
+            ]
+        }
+    ]
+}

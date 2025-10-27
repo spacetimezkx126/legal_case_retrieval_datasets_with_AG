@@ -1,0 +1,26 @@
+{
+    "Case ID": "007367",
+    "Different Crime": [
+        {
+            "Crime Name": "Veteran's Disability Pension Denial",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Veterans Review and Appeal Board Act"
+            ],
+            "evidence_assessment": [
+                "uncontradicted evidence must be accepted unless found incredible",
+                "medical reports linking his neck condition to a 1983-1984 fall",
+                "contradictory discharge paperwork denying injury claims"
+            ],
+            "decision_reasoning": [
+                "properly weighed evidence and resolved doubts against granting the pension due to insufficient causal linkage proof"
+            ],
+            "procedure_followed": [
+                "Judicial review assessed whether the Board erred in fact or law when denying the pension application"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; pension denial maintained"
+            ]
+        }
+    ]
+}

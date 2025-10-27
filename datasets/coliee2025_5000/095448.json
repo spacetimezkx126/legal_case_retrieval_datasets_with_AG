@@ -1,0 +1,30 @@
+{
+    "Case ID": "095448",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "perceived inconsistencies",
+                "cultural context",
+                "key documents"
+            ],
+            "procedural_fairness": [
+                "errors in decision-making process",
+                "relied on unverified extrinsic evidence"
+            ],
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution",
+                "abuse and threats in Nigeria"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "quashed",
+                "remanded for re-determination"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        }
+    ]
+}

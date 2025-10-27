@@ -1,0 +1,43 @@
+{
+    "Case ID": "001638",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "inconsistencies",
+                "omissions",
+                "implausibilities"
+            ],
+            "risk_of_persecution": [
+                "forced marriage",
+                "female genital mutilation"
+            ],
+            "evidence_assessment": [
+                "insufficient credible evidence"
+            ],
+            "inconsistencies_in_testimony": [
+                "birth registry info",
+                "not mentioning fear at entry",
+                "implausible financial explanations"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "burden_of_proof": [
+                "credible evidence of persecution or need for protection"
+            ],
+            "gender_guidelines": [
+                "forced marriage",
+                "cultural practices"
+            ],
+            "specific_vulnerabilities": [
+                "forced marriage",
+                "female genital mutilation"
+            ]
+        }
+    ]
+}

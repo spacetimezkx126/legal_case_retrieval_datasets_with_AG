@@ -1,0 +1,31 @@
+{
+    "Case ID": "025826",
+    "Different Crime": [
+        {
+            "Crime Name": "Incompetent Representation in Immigration Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "negligence must be specific",
+                "likely to have altered the decision"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "relationship with deceased son",
+                "daughter’s refugee claim",
+                "grandchildren's best interests",
+                "medical conditions"
+            ],
+            "evidence_assessment": [
+                "omitted key evidence",
+                "could reasonably have led to a different outcome if included"
+            ],
+            "decision_outcome": [
+                "case will be remitted to CIC for redetermination",
+                "case remitted to CIC for reconsideration with new evidence"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed whether omissions caused prejudice and procedural unfairness"
+            ]
+        }
+    ]
+}

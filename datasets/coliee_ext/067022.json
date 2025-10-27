@@ -1,0 +1,32 @@
+{
+    "Case ID": "067022",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to provide secure environment",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Negligence claim against correctional officials",
+            "Legal_Provision_Involved": "Duty of care owed by correctional officials to inmates",
+            "Outcome": "Action dismissed with costs",
+            "Grounds_for_Claim": "Alleged failure to protect plaintiff from foreseeable harm due to inmate incompatibility",
+            "Remedy_Requested": "Compensation for injury and placement in protective custody"
+        },
+        {
+            "Crime_Name": "Negligence in correctional duties",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Negligence claim regarding inmate safety and transfer procedures",
+            "Legal_Provision_Involved": "Duty of care under correctional standards",
+            "Outcome": "Action dismissed with costs",
+            "Grounds_for_Claim": "Breach of duty leading to injury and protective custody placement",
+            "Remedy_Requested": "Damages for negligence in correctional oversight"
+        },
+        {
+            "Crime_Name": "Assault with a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Stabbing by inmate",
+            "Perpetrator_Type": "Incompatible inmate",
+            "Victim_Status": "Inmate (plaintiff)",
+            "Location_of_Incident": "Matsqui Institution",
+            "Threat_Source": "Known incompatible inmate"
+        }
+    ]
+}

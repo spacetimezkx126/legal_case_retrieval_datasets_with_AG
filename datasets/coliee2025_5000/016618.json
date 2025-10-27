@@ -1,0 +1,27 @@
+{
+    "Case ID": "016618",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient hardship",
+                "inadequate BIOC analysis"
+            ],
+            "best_interests_of_children": [
+                "dismissed crucial evidence about Rhea's medical needs",
+                "failed to adequately analyze the best interests of the child"
+            ],
+            "evidence_assessment": [
+                "misinterpreted data on Indian pediatric oncology",
+                "failure to properly assess evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review application heard before the Federal Court"
+            ],
+            "decision_outcome": [
+                "Court allowed the judicial review, remitting the case for reconsideration by another officer"
+            ]
+        }
+    ]
+}

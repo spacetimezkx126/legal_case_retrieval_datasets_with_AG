@@ -1,0 +1,33 @@
+{
+    "Case ID": "016009",
+    "Different Crime": [
+        {
+            "Crime Name": "Abandonment of Refugee Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "material factual errors",
+                "procedural unfairness"
+            ],
+            "decision_outcome": [
+                "judicial review succeeded",
+                "rehearing on merits"
+            ],
+            "legal_basis": [
+                "s. 69.1(6) of the Immigration Act"
+            ],
+            "evidence_assessment": [
+                "inadequate notice",
+                "applicant's testimony"
+            ],
+            "review_standard": [
+                "judicial review analyzed"
+            ],
+            "burden_of_proof": [
+                "reasonable opportunity to be heard"
+            ],
+            "specific_vulnerabilities": [
+                "misled by inadequate notice"
+            ]
+        }
+    ]
+}

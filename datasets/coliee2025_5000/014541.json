@@ -1,0 +1,80 @@
+{
+    "Case ID": "014541",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Provide Reliable Documents for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act",
+                "Federal Court Act"
+            ],
+            "evidence_assessment": [
+                "inadequate documentation",
+                "admission to tax evasion"
+            ],
+            "procedural_fairness": [
+                "no violation of natural justice",
+                "fair conduct of interview"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "failure to provide credible documents"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration Act",
+                "s. 18.1 of the Federal Court Act"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Visa officers must act fairly but are not obligated to assist applicants"
+            ],
+            "evidence_provided": [
+                "Failed to provide credible documentation for income sources",
+                "Admitted to tax evasion practices"
+            ],
+            "standard_of_review": [
+                "Judicial review based on s. 18.1 of the Federal Court Act"
+            ],
+            "material_misrepresentation": [
+                "Inability to prove legitimate income sources"
+            ],
+            "balance_of_convenience": [
+                "Plaintiff remains inadmissible"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "admissibility_criteria": [
+                "proof of legitimate income sources",
+                "credible financial documents"
+            ],
+            "evidence_provided": [
+                "inadequate documentation",
+                "admission of tax evasion"
+            ],
+            "procedural_fairness": [
+                "visa officer acted fairly",
+                "no obligation to assist applicant without extrinsic evidence"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ],
+            "decision_outcome": [
+                "plaintiff remains inadmissible to Canada"
+            ],
+            "applicable_law_section": [
+                "Canadian Immigration Act",
+                "Federal Court Act"
+            ]
+        }
+    ]
+}

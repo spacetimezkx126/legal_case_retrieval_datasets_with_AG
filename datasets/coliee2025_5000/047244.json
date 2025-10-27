@@ -1,0 +1,28 @@
+{
+    "Case ID": "047244",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Law Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "adequate notice before denying an application",
+                "proof of sending is sufficient unless circumstances suggest otherwise"
+            ],
+            "evidence_provided": [
+                "March 27 letter sent to correct address via regular mail",
+                "CAIPS notes and a copy in the file",
+                "Applicant's consultant did not receive it but provided no evidence of system reliability"
+            ],
+            "decision_outcome": [
+                "Officer fulfilled the duty of procedural fairness by proving the notice was sent",
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "permanent residency application denied due to non-receipt of requested documents"
+            ],
+            "judicial_authority": [
+                "Court dismissed the application, upholding CIC's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+{
+    "Case ID": "040919",
+    "Crimes": [
+        {
+            "Crime_Name": "Intimidation of a Witness",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [
+                "El Salvador"
+            ],
+            "Threat_Source": [
+                "after reporting sexual assault"
+            ],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "lack of corroboration noted by Board"
+            ],
+            "Evidence_Type": [
+                "Port of Entry notes",
+                "psychologist attestation"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "Board found implausibility; explanations and evidence overlooked"
+            ],
+            "Risk_Assessment": [
+                "individualized risk not assessed"
+            ],
+            "Risk_Type": [
+                "witness intimidation"
+            ],
+            "Risk_Nature": [
+                "post-report retaliation"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "Principal Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "witness to sexual assault"
+            ],
+            "Geographic_Context": [
+                "El Salvador"
+            ],
+            "Jurisdiction": [
+                "Canada - Refugee Protection Division"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, Division 1"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "s. 96, s. 97"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "rejected by Board"
+            ],
+            "Outcome": [
+                "decision set aside, case referred back for rehearing"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "credibility findings patently unreasonable",
+                "state protection analysis not individualized"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness for credibility",
+                "reasonableness for state protection"
+            ]
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "clergy-perpetrated sexual assault"
+            ],
+            "Perpetrator_Type": [
+                "priest",
+                "religious leader"
+            ],
+            "Victim_Status": [
+                "survivor of sexual assault"
+            ],
+            "Location_of_Incident": [
+                "El Salvador"
+            ],
+            "Threat_Source": [],
+            "Aggravating_Factors": [
+                "perpetrator in position of authority"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "lack of corroboration on grades and attendance noted"
+            ],
+            "Evidence_Type": [
+                "Port of Entry notes",
+                "psychological evidence"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "concerns about school attendance deemed flawed"
+            ],
+            "Risk_Assessment": [
+                "individualized risk not assessed"
+            ],
+            "Risk_Type": [
+                "gender-based persecution"
+            ],
+            "Risk_Nature": [
+                "ongoing threat due to assault"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "Principal Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "survivor"
+            ],
+            "Geographic_Context": [
+                "El Salvador"
+            ],
+            "Jurisdiction": [
+                "Canada - Refugee Protection Division"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, Division 1"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "s. 96, s. 97"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "claim denied"
+            ],
+            "Outcome": [
+                "decision overturned, remanded for re-determination"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "credibility findings flawed",
+                "state protection analysis generic"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness for credibility",
+                "reasonableness for state protection"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Provide Protection from Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "state failure to protect survivor"
+            ],
+            "Perpetrator_Type": [
+                "state authorities (by omission)"
+            ],
+            "Victim_Status": [
+                "survivor of sexual assault seeking protection"
+            ],
+            "Location_of_Incident": [
+                "El Salvador"
+            ],
+            "Threat_Source": [
+                "lack of police or institutional response"
+            ],
+            "Aggravating_Factors": [
+                "institutional indifference"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "high due to systemic failure"
+            ],
+            "Evidence_Sufficiency": [
+                "psychological evidence provided but overlooked"
+            ],
+            "Evidence_Type": [
+                "psychologist attestation",
+                "personal testimony"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "explanations ignored by Board"
+            ],
+            "Risk_Assessment": [
+                "risk not individually assessed"
+            ],
+            "Risk_Type": [
+                "gender-based violence"
+            ],
+            "Risk_Nature": [
+                "continued vulnerability due to lack of state action"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "Principal Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "survivor"
+            ],
+            "Geographic_Context": [
+                "El Salvador"
+            ],
+            "Jurisdiction": [
+                "Canada - Refugee Protection Division"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, Division 1"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "s. 96, s. 97"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "protection claim rejected"
+            ],
+            "Outcome": [
+                "decision set aside, remanded for re-determination"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "flawed credibility analysis",
+                "generic country condition reliance"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness for credibility",
+                "reasonableness for state protection"
+            ]
+        },
+        {
+            "Crime_Name": "Sexual Assault and Persecution",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "religiously motivated persecution and sexual assault"
+            ],
+            "Perpetrator_Type": [
+                "religious leader",
+                "priest"
+            ],
+            "Victim_Status": [
+                "survivor of assault and persecution"
+            ],
+            "Location_of_Incident": [
+                "El Salvador"
+            ],
+            "Threat_Source": [
+                "religious authority figure"
+            ],
+            "Aggravating_Factors": [
+                "abuse of spiritual power",
+                "ongoing threats"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "very high"
+            ],
+            "Evidence_Sufficiency": [
+                "partial corroboration with psychological evidence"
+            ],
+            "Evidence_Type": [
+                "testimony",
+                "Port of Entry notes",
+                "psychological report"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "implausibility concerns raised but deemed flawed"
+            ],
+            "Risk_Assessment": [
+                "risk not properly individualized"
+            ],
+            "Risk_Type": [
+                "persecution based on religion and gender"
+            ],
+            "Risk_Nature": [
+                "targeted abuse by religious figure"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "Principal Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "survivor and target of persecution"
+            ],
+            "Geographic_Context": [
+                "El Salvador"
+            ],
+            "Jurisdiction": [
+                "Canada - Refugee Protection Division"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, Division 1"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "s. 96, s. 97"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "claim rejected"
+            ],
+            "Outcome": [
+                "decision overturned, remanded for re-determination"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "credibility and state protection analyses flawed"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness for credibility",
+                "reasonableness for state protection"
+            ]
+        },
+        {
+            "Crime_Name": "Obstructing Justice",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "retaliation against witness"
+            ],
+            "Perpetrator_Type": [
+                "state or non-state actors threatening justice process"
+            ],
+            "Victim_Status": [
+                "witness in sexual assault case"
+            ],
+            "Location_of_Incident": [
+                "El Salvador"
+            ],
+            "Threat_Source": [
+                "fear of retaliation after reporting"
+            ],
+            "Aggravating_Factors": [
+                "impedes access to justice"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "some corroboration via psychological evidence"
+            ],
+            "Evidence_Type": [
+                "Port of Entry notes",
+                "applicant testimony"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "assumptions made without proper basis"
+            ],
+            "Risk_Assessment": [
+                "individual risk not assessed"
+            ],
+            "Risk_Type": [
+                "obstruction of justice through intimidation"
+            ],
+            "Risk_Nature": [
+                "threats post-reporting"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "Principal Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "witness"
+            ],
+            "Geographic_Context": [
+                "El Salvador"
+            ],
+            "Jurisdiction": [
+                "Canada - Refugee Protection Division"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, Division 1"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "s. 96, s. 97"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "claim rejected"
+            ],
+            "Outcome": [
+                "decision overturned, remanded contingent on appeals"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "credibility findings flawed",
+                "state protection analysis generic"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of RPD decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness for credibility",
+                "reasonableness for state protection"
+            ]
+        }
+    ]
+}

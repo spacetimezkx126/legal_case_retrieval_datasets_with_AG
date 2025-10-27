@@ -1,0 +1,41 @@
+{
+    "Case ID": "021673",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act",
+                "ss. 20(1)(b)",
+                "ss. 20(1)(c)",
+                "ss. 20(1)(d)"
+            ],
+            "evidence_assessment": [
+                "information guarded jealously",
+                "release could harm competitive positions"
+            ],
+            "decision_reasoning": [
+                "meets all criteria for confidentiality and probable harm"
+            ],
+            "applicable_regulations": [
+                "statutory exemptions"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "information remains undisclosed"
+            ],
+            "cause_of_action": [
+                "requested information under statutory exemptions"
+            ],
+            "procedure_followed": [
+                "Information Commissioner initiated judicial review after Department refused disclosure"
+            ],
+            "conclusion_outcome": [
+                "exempt from disclosure under ss. 20(1)(b) and (c)"
+            ]
+        }
+    ]
+}

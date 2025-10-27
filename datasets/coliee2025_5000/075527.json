@@ -1,0 +1,83 @@
+{
+    "Case ID": "075527",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.58(1)(b)",
+                "Regulations s.248"
+            ],
+            "risk_assessment": [
+                "flight risk",
+                "alternatives to detention"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "case remitted for redetermination"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged misrepresentation"
+            ],
+            "procedural_fairness": [
+                "failed to consider refugee hearings"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 58(1)(b)",
+                "Regulations s. 248"
+            ],
+            "decision_outcome": [
+                "granted",
+                "remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": [
+                "flight risk analysis",
+                "alternatives to detention"
+            ],
+            "evidence_provided": [
+                "upcoming proceedings",
+                "refugee hearings"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "risk_characterization": [
+                "flight risk"
+            ]
+        },
+        {
+            "Crime Name": "Fugitive from justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.58(1)(b)",
+                "Regulations s.248"
+            ],
+            "decision_reasoning": [
+                "failure to consider refugee hearings as part of flight risk analysis"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "risk_of_persecution": [
+                "flight risk concerns"
+            ],
+            "application_details": [
+                "Applicants were detained as fugitives but had active refugee claims"
+            ],
+            "conclusion_outcome": [
+                "Member's decision was unreasonable"
+            ]
+        }
+    ]
+}

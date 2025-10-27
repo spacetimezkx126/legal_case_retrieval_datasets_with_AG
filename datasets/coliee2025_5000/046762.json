@@ -1,0 +1,53 @@
+{
+    "Case ID": "046762",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "doubts about relationship genuineness",
+                "discrepancies in statements",
+                "lack of cohabitation evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed Officer's decision",
+                "interview notes",
+                "evidence weight"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "family_class_considerations": [
+                "spousal sponsorship application"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "discrepancies in statements",
+                "lack of cohabitation evidence",
+                "demeanor concerns"
+            ],
+            "procedural_fairness": [
+                "interview notes",
+                "evidence weight"
+            ],
+            "reasonableness_standard": [
+                "review for reasonableness"
+            ],
+            "judicial_authority": [
+                "Officer's decision"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "doubts about relationship genuineness"
+            ]
+        }
+    ]
+}

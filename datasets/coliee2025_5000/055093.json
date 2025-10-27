@@ -1,0 +1,52 @@
+{
+    "Case ID": "055093",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA s. 97"
+            ],
+            "risk_characterization": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "specific_targeting": [],
+            "nexus_to_convention_grounds": [],
+            "procedural_fairness": [],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "reasonableness_standard": [
+                "reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Threatening death",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "evidence_consideration": [
+                "extortion",
+                "threats"
+            ],
+            "risk_assessment": [
+                "generalized violence against wealthy individuals"
+            ],
+            "legal_basis": [
+                "IRPA s. 97(1)"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion and threats"
+            ],
+            "country_conditions": [
+                "Colombia"
+            ]
+        }
+    ]
+}

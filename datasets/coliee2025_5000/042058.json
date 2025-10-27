@@ -1,0 +1,105 @@
+{
+    "Case ID": "042058",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "family ties",
+                "disruption of family life",
+                "irreparable harm"
+            ],
+            "immigration_status": [
+                "lack of legal status"
+            ],
+            "decision_outcome": [
+                "stay granted",
+                "deportation halted"
+            ],
+            "procedural_fairness": [
+                "teleconference hearing",
+                "judicial review application"
+            ],
+            "best_interests_of_children": [
+                "disruption of family life"
+            ],
+            "criminality_inadmissibility": [
+                "no recent criminal activity"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "irreparable_harm": [
+                "family separation"
+            ],
+            "balance_of_convenience": [
+                "favors the applicant"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "pending application",
+                "parental responsibilities"
+            ],
+            "child_best_interests": [
+                "Canadian-born child"
+            ],
+            "decision_outcome": [
+                "stay of removal granted"
+            ],
+            "procedural_fairness": [
+                "three-part test analysis",
+                "teleconference hearing"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "pending application"
+            ],
+            "irreparable_harm": [
+                "deportation before resolution of application"
+            ],
+            "balance_of_convenience": [
+                "respondent's backlog not justifying immediate deportation"
+            ],
+            "family_ties": [
+                "Canadian family"
+            ],
+            "immigration_status": [
+                "facing deportation"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "pending application",
+                "no imminent danger",
+                "parental responsibilities"
+            ],
+            "decision_reasoning": [
+                "serious issue",
+                "irreparable harm",
+                "balance of convenience"
+            ],
+            "application_details": [
+                "convicted of robbery",
+                "reformed",
+                "lived in Canada since age three",
+                "married Canadian citizen",
+                "has a child"
+            ],
+            "result_of_case": [
+                "stay of removal granted"
+            ],
+            "procedure_followed": [
+                "teleconference hearing",
+                "issuance of reasons supporting the stay order"
+            ],
+            "conclusion_outcome": [
+                "execution of deportation order stayed until humanitarian application is resolved"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Case ID": "053752",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to exhaust appeal rights under Immigration and Refugee Protection Act",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s. 72(2)(a)",
+                "IRPA s. 63(3)"
+            ],
+            "procedural_fairness": [
+                "exhaustion of appeal rights"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "burden_of_proof": [
+                "failure to exhaust appeal rights"
+            ],
+            "review_standard": [
+                "statute-barred"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility for serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "paragraph 72(2)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "application_details": [
+                "applicant was found inadmissible due to serious criminality and ordered deported"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed whether the applicant could bypass the IAD appeal before seeking judicial review"
+            ],
+            "decision_reasoning": [
+                "judicial review cannot be sought until all appeals are exhausted"
+            ],
+            "result_of_case": [
+                "application for judicial review is dismissed"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_made": [
+                "court dismissed the application"
+            ]
+        }
+    ]
+}

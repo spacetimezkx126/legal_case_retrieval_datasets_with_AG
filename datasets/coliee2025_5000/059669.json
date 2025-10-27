@@ -1,0 +1,78 @@
+{
+    "Case ID": "059669",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing false information in personal information form",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Applicant's admission of past LTTE-related activities and inconsistencies in his PIF"
+            ],
+            "procedural_fairness": [
+                "The decision was unreasonable and procedurally unfair"
+            ],
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "criminality_inadmissibility": [
+                "Membership in a terrorist organization"
+            ],
+            "decision_outcome": [
+                "Application for judicial review granted; decision set aside, case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed whether the officer's decision met legal standards"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "membership_in_organization": [
+                "LTTE"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable conclusion"
+            ],
+            "evidence_provided": [
+                "participation in low-level activities",
+                "acting under duress"
+            ],
+            "judicial_review_result": [
+                "judicial review granted",
+                "case remanded"
+            ],
+            "decision_outcome": [
+                "decision overturned",
+                "case sent for reconsideration with a different officer"
+            ],
+            "document_disclosure_issues": [
+                "failure to disclose key documents"
+            ]
+        },
+        {
+            "Crime Name": "Immigration-related procedural fairness breach",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of disclosure obligations"
+            ],
+            "membership_in_persecutory_group": [
+                "LTTE membership"
+            ],
+            "administrative_error": [
+                "failure to consider limited involvement",
+                "reliance on undisclosed reports"
+            ],
+            "judicial_review_process": [
+                "challenge under IRPA s.72"
+            ],
+            "decision_outcome": [
+                "set aside and remitted for reconsideration"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Case ID": "080775",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "exclusion from refugee status"
+            ],
+            "legal_basis": [
+                "Article I(F) of the Convention"
+            ],
+            "decision_outcome": [
+                "application for refugee status was denied"
+            ],
+            "credibility_assessment": [
+                "complicity in international offenses"
+            ],
+            "evidence_assessment": [
+                "knowledge of human rights violations",
+                "military role and awareness of atrocities"
+            ],
+            "criminality_inadmissibility": [
+                "complicity in international offenses"
+            ]
+        },
+        {
+            "Crime Name": "Association with an organization responsible for international offenses",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "exclusion_reason": [
+                "complicity in international offenses"
+            ],
+            "legal_basis": [
+                "Article I(F) of the Convention"
+            ],
+            "involvement_details": [
+                "career soldier in El Salvador's army",
+                "aware of atrocities but did not disengage",
+                "training soldiers and commanding units involved in counter-insurgency operations linked to international crimes"
+            ],
+            "decision_outcome": [
+                "dismissed due to complicity in international offenses"
+            ],
+            "reasoning_given": [
+                "serious reasons to consider the applicant complicit in international offenses"
+            ],
+            "evidence_assessment": [
+                "military role and knowledge of crimes"
+            ],
+            "refugee_status_outcome": [
+                "excluded from Convention refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in international offences",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "exclusion_reason": [
+                "complicity in international offenses"
+            ],
+            "legal_basis": [
+                "Article I(F) of the Convention"
+            ],
+            "credibility_findings": [
+                "knowingly supported the army’s actions despite awareness of their criminal nature"
+            ],
+            "immigration_status": [
+                "applied for refugee status in Canada but was denied"
+            ],
+            "refugee_definition": [
+                "excluded from Convention refugee status due to complicity in international offenses"
+            ],
+            "war_crimes_complicity": [
+                "serious reasons for being considered complicit in crimes against humanity"
+            ],
+            "decision_outcome": [
+                "The appeal was dismissed"
+            ],
+            "burden_of_proof": [
+                "considering evidence of his role in the army and knowledge of its crimes"
+            ]
+        }
+    ]
+}

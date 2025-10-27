@@ -1,0 +1,27 @@
+{
+    "Case ID": "077797",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act and Regulations"
+            ],
+            "credibility_assessment": [
+                "non-bona fide marriage",
+                "marriage not consummated",
+                "declarations confirming convenience marriage"
+            ],
+            "immigration_status": [
+                "application for permanent residence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspected fraudulent marriage",
+                "marriage of convenience"
+            ]
+        }
+    ]
+}

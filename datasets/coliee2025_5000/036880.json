@@ -1,0 +1,210 @@
+{
+    "Case ID": "036880",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Use of Passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "internal_flight_alternative": [
+                "not_viable",
+                "not_reasonable"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "severe_trauma",
+                "FGM",
+                "human_trafficking",
+                "forced_prostitution",
+                "no_family_support",
+                "little_education",
+                "psychological_stress"
+            ],
+            "decision_outcome": [
+                "judicial_review_allowed",
+                "redetermination_ordered"
+            ],
+            "legal_basis": [
+                "Immigration_and_Refugee_Protection_Act"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "yes"
+            ],
+            "internal_flight_alternative": [
+                "unreasonable",
+                "Abuja"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "appeal_outcome": [
+                "remanded for redetermination"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_characterization": [
+                "past trauma",
+                "fear of persecution"
+            ],
+            "relationship_genuineness": [
+                "lack of family support"
+            ],
+            "procedural_fairness": [
+                "failed to consider vulnerabilities"
+            ],
+            "psychological_state": [
+                "illiteracy",
+                "trauma"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "internal_flight_alternative": [
+                "unreasonable",
+                "failed to consider vulnerabilities"
+            ],
+            "psychological_impact": [
+                "trauma",
+                "illiteracy",
+                "lack of family assistance"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution if returned"
+            ],
+            "applicant_characteristics": [
+                "vulnerabilities",
+                "illiteracy",
+                "trauma"
+            ],
+            "family_ties": [
+                "lack of family support"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "internal_flight_alternative": [
+                "not viable",
+                "not reasonable"
+            ],
+            "personalized_vs_generalized_risk": [
+                "personalized risk"
+            ],
+            "refugee_status_claim": [
+                "past trauma",
+                "fear of persecution"
+            ],
+            "judicial_review_result": [
+                "application allowed",
+                "remanded for redetermination"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "case remanded"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "vulnerabilities considered",
+                "illiteracy",
+                "trauma",
+                "lack of family assistance"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "internal_flight_alternative": [
+                "unreasonable",
+                "not viable"
+            ],
+            "refugee_status": [
+                "sought protection"
+            ],
+            "decision_made_by": [
+                "Immigration and Refugee Board"
+            ],
+            "review_process": [
+                "judicial review application"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "remanded for redetermination"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "FGM threats",
+                "family disownment",
+                "psychological state",
+                "personal situation",
+                "physical/emotional stress"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Exploitation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "internal_flight_alternative": [
+                "not reasonable for the specific claimant"
+            ],
+            "procedural_fairness": [
+                "judicial review application under the Immigration and Refugee Protection Act"
+            ],
+            "burden_of_proof": [
+                "considering vulnerabilities and context"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "psychological state and personal situation"
+            ],
+            "decision_outcome": [
+                "remanded for redetermination by a new Board"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "refugee_protection": [
+                "sought in Canada"
+            ],
+            "relevant_factors": [
+                "psychological state",
+                "personal situation",
+                "vulnerabilities",
+                "education",
+                "literacy",
+                "physical/emotional stress"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for redetermination"
+            ],
+            "appeal_process": [
+                "judicial review application"
+            ],
+            "humanitarian_concerns": [
+                "FGM threats",
+                "family disownment"
+            ]
+        }
+    ]
+}

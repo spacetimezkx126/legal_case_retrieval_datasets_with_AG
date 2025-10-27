@@ -1,0 +1,86 @@
+{
+    "Case ID": "075157",
+    "Different Crime": [
+        {
+            "Crime Name": "Possible immigration misrepresentation if asylum claim was found to be fraudulent",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "forced abortion under China's one-child policy"
+            ],
+            "credibility_assessment": [
+                "lack of documentation",
+                "inability to name medication",
+                "implausibility"
+            ],
+            "evidence_assessment": [
+                "corroborative evidence",
+                "plausibility",
+                "consistency with country conditions"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "RPD decision set aside"
+            ],
+            "standard_of_review": [
+                "rational and plausible reasons for rejecting an asylum claim"
+            ]
+        },
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "misunderstanding pregnancy timeline",
+                "dismissing credible documentary evidence"
+            ],
+            "documentary_evidence": [
+                "forced abortion claim plausible given China's policies"
+            ],
+            "reasonableness_standard": [
+                "RPD must provide rational and plausible reasons for rejecting a refugee claim"
+            ],
+            "risk_of_persecution": [
+                "forced abortion under China's one-child policy"
+            ],
+            "country_conditions": [
+                "China's policies"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted for reconsideration"
+            ],
+            "burden_of_proof": [
+                "requiring unnecessary corroborative evidence"
+            ],
+            "specific_group_membership": [
+                "Ms. Zheng's testimony"
+            ]
+        },
+        {
+            "Crime Name": "Forced abortion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "errors affecting the credibility assessment"
+            ],
+            "evidentiary_standard": [
+                "increasing the likelihood of symptoms",
+                "documented forced abortions for unmarried women in China"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision is set aside due to errors",
+                "significant flaws"
+            ],
+            "judicial_review_process": [
+                "Judicial review application filed",
+                "Court reviewed RPD’s reasoning"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "case sent back for reconsideration by a different panel"
+            ],
+            "burden_of_proof": [
+                "based on evidence",
+                "not rely solely on lack of corroboration or implausibility without supporting evidence"
+            ]
+        }
+    ]
+}

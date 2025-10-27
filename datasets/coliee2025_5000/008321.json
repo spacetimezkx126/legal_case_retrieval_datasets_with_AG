@@ -1,0 +1,70 @@
+{
+    "Case ID": "008321",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault Causing Bodily Harm",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "unproven charges cannot be used as evidence, but underlying evidence may be if credible and reliable"
+            ],
+            "decision_outcome": [
+                "application allowed; case remanded to IAD for reconsideration"
+            ],
+            "evidence_provided": [
+                "withdrawn kidnapping charge",
+                "underlying evidence",
+                "police report"
+            ],
+            "standard_of_review": [
+                "credible and reliable"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "judge"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a Weapon",
+            "Crime Type": "Violence-related_Crimes",
+            "evidence_consideration": [
+                "unproven charges",
+                "unreliable evidence",
+                "withdrawn kidnapping charge",
+                "police report",
+                "inconsistent witness statements"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": [
+                "IAD erred in relying on unreliable evidence"
+            ],
+            "criminal_history": [
+                " Applicant's criminal record"
+            ],
+            "risk_assessment": [],
+            "humanitarian_compassionate_grounds": []
+        },
+        {
+            "Crime Name": "Obstructing a Peace Officer",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IAD cannot rely on withdrawn charges alone but may consider underlying evidence if credible and reliable"
+            ],
+            "evidence_assessment": [
+                "underlying evidence",
+                "disputed and lacked corroboration"
+            ],
+            "credibility_findings": [
+                "applicant's testimony contradicted police reports",
+                "no witness verification"
+            ],
+            "decision_reasoning": [
+                "IAD erred in relying on unreliable evidence or the withdrawn charge itself"
+            ],
+            "result_of_case": [
+                "Court allowed the application, finding IAD's reliance on unreliable evidence or withdrawn charges erroneous"
+            ]
+        }
+    ]
+}

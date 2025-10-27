@@ -1,0 +1,28 @@
+{
+    "Case ID": "024605",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistent information about employment history",
+                "failed to meet required experience",
+                "misrepresented connections with employers"
+            ],
+            "evidence_assessment": [
+                "discrepancies were material and relevant to the application process"
+            ],
+            "decision_outcome": [
+                "deemed inadmissible",
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness simpliciter"
+            ]
+        }
+    ]
+}

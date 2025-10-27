@@ -1,0 +1,82 @@
+{
+    "Case ID": "069400",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to immigration officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "perceived LTTE association"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "speech by Sri Lankan Minister pre-arrival"
+            ],
+            "criminality_inadmissibility": [
+                "fear of persecution not substantiated"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Association with a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_standard": [
+                "The Federal Court reviews decisions under the reasonableness standard."
+            ],
+            "evidence_provided": [
+                "Applicant's arrival on the M/V Sun Sea.",
+                "Cleared by Canadian authorities.",
+                "No prior LTTE suspicion in Sri Lanka."
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review."
+            ],
+            "refugee_status_claim": [
+                "Applicant sought refugee protection claiming risk of persecution due to perceived LTTE association."
+            ],
+            "judicial_review_result": [
+                "Upholding the Board's decision."
+            ],
+            "reasoning_given": [
+                "Board's decision was reasonable given the evidence and context."
+            ],
+            "membership_in_organization": [
+                "Perceived LTTE association."
+            ],
+            "risk_assessment": [
+                "Risk of persecution due to perceived LTTE association."
+            ]
+        },
+        {
+            "Crime Name": "People smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Reasonableness standard applies"
+            ],
+            "evidence_assessment": [
+                "Insufficient evidence of current Sri Lankan government suspicion or systemic torture risk for this specific applicant"
+            ],
+            "procedural_fairness": [
+                "Immigration and Refugee Board denied the claim; Federal Court reviewed under reasonableness standard"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision was reasonable and supported by evidence"
+            ],
+            "refugee_definition": [
+                "Applicant claims persecution risk due to association with LTTE via M/V Sun Sea voyage"
+            ],
+            "judicial_review_process": [
+                "Court upheld Board’s decision; no intervention warranted"
+            ],
+            "persecution_grounds": [
+                "Claiming risk of persecution in Sri Lanka due to perceived LTTE ties"
+            ]
+        }
+    ]
+}

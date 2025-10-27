@@ -1,0 +1,62 @@
+{
+    "Case ID": "006346",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient H&C grounds cited"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "sponsor's non-disclosure of marriage and children"
+            ],
+            "best_interests_of_children": [
+                "failure to adequately consider the best interests of the children"
+            ],
+            "family_class_considerations": [
+                "Applicant excluded from family class"
+            ],
+            "decision_outcome": [
+                "Judicial review granted; case remanded for re-determination by a different immigration officer"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "family reunification",
+                "children's best interests"
+            ],
+            "reasonableness_standard": [
+                "imbalance in decision-making",
+                "neglecting H&C factors"
+            ],
+            "judicial_authority": [
+                "immigration officer",
+                "judicial review under section 72 of the Act"
+            ],
+            "appeal_outcome": [
+                "decision remitted for reconsideration"
+            ],
+            "cause_of_action": [
+                "applicant excluded from family class due to sponsor's past misrepresentation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Section 25 of the Immigration and Refugee Protection Act",
+                "section 72 of the Act"
+            ],
+            "child_best_interests": [
+                "consideration neglected"
+            ],
+            "material_misrepresentation": [
+                "focus on misrepresentations"
+            ]
+        }
+    ]
+}

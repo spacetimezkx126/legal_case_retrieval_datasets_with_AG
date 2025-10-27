@@ -1,0 +1,59 @@
+{
+    "Case ID": "040860",
+    "Different Crime": [
+        {
+            "Crime Name": "First degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 50(a) of IRPA",
+                "s. 72(1) of IRPA"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "criminal_history": [
+                "Found not criminally responsible for murder"
+            ],
+            "psychological_impact": [
+                "Diagnosed with schizophrenia"
+            ],
+            "risk_assessment": [
+                "Conditional discharge with specific conditions"
+            ],
+            "immigration_status": [
+                "Non-citizen"
+            ],
+            "applicant_characteristics": [
+                "Schizophrenia diagnosis"
+            ]
+        },
+        {
+            "Crime Name": "Not criminally responsible due to mental illness",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 50(a) of IRPA"
+            ],
+            "decision_reasoning": [
+                "conditions do not explicitly prohibit deportation",
+                "align with public protection goals",
+                "case law supports enforcing deportation orders even for those on conditional release"
+            ],
+            "application_details": [
+                "conditional discharge under s. 50(a) of IRPA",
+                "trigger an automatic stay of deportation"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "allowing enforcement of the valid removal order"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed s. 50(a) of IRPA",
+                "relevant case law",
+                "purpose of immigration legislation"
+            ]
+        }
+    ]
+}

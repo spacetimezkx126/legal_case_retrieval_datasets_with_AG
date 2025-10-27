@@ -1,0 +1,28 @@
+{
+    "Case ID": "030119",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Visa Application Rejection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "visa officer's duty to send notices",
+                "risk of non-delivery on applicant if notice was sent"
+            ],
+            "evidence_assessment": [
+                "applicant claims non-receipt",
+                "Letter sent to correct address using reliable method",
+                "other communications successfully delivered"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "rejection of permanent residence application due to non-submission of documents"
+            ],
+            "standard_of_review": [
+                "judicial review process assessing procedural fairness in visa application rejection"
+            ]
+        }
+    ]
+}

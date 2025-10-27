@@ -1,0 +1,27 @@
+{
+    "Case ID": "090939",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "unresolved H&C application"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "exclusion order issued"
+            ],
+            "decision_outcome": [
+                "dismissed for mootness"
+            ],
+            "procedural_fairness": [
+                "judicial review sought",
+                "mootness considered"
+            ],
+            "legal_basis": [
+                "Canadian immigration law",
+                "precedent cases on mootness"
+            ]
+        }
+    ]
+}

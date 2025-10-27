@@ -1,0 +1,32 @@
+{
+    "Case ID": "097516",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 11(1)",
+                "Regulations s. 179"
+            ],
+            "procedural_fairness": [
+                "no interview required as per OP 11 guidelines"
+            ],
+            "evidence_assessment": [
+                "lacked travel history",
+                "economic ties",
+                "proof of income",
+                "most children residing in Canada"
+            ],
+            "decision_outcome": [
+                "visa application denied",
+                "judicial review dismissed"
+            ],
+            "immigration_status": [
+                "temporary resident visa"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

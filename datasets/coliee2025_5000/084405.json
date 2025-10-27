@@ -1,0 +1,49 @@
+{
+    "Case ID": "084405",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in an immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistency in educational history leading to alleged misrepresentation"
+            ],
+            "evidence_assessment": [
+                "claimed enrollment in full-time studies since 2009 but provided evidence of part-time studies starting in 2010"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "legal_basis": [
+                "Judicial review of the Officer's decision under Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Breach of procedural fairness (non-criminal)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Officer's obligation to notify applicants of inconsistencies"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_reasoning": [
+                "No requirement for Officer to address inconsistency with Applicant before rejecting claim"
+            ],
+            "evidence_presented": [
+                "Applicant's enrollment history showing part-time status from March 2010"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

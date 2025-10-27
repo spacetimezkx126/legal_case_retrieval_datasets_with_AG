@@ -1,0 +1,31 @@
+{
+    "Case ID": "081545",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "IRPR"
+            ],
+            "decision_reasoning": [
+                "officer's decision was unreasonable"
+            ],
+            "evidence_assessment": [
+                "ignored evidence of ties to home country"
+            ],
+            "procedural_fairness": [
+                "failed to consider relevant factors outlined in OP-11"
+            ],
+            "result_of_case": [
+                "court allowed judicial review",
+                "set aside refusal",
+                "directed issuance of TRV"
+            ],
+            "application_details": [
+                "provided substantial evidence of ties to Guyana",
+                "financial support from Canadian relatives"
+            ]
+        }
+    ]
+}

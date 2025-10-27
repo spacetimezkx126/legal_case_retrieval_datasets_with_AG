@@ -1,0 +1,38 @@
+{
+    "Case ID": "080049",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Offense",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonableness simpliciter",
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Federal Court Act"
+            ],
+            "risk_characterization": [
+                "persecution risk"
+            ],
+            "personalized_vs_generalized_risk": [
+                "lacked credibility",
+                "no personalized risk"
+            ],
+            "evidence_provided": [
+                "medical reports"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "PRRA Officer",
+                "Court"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "upheld"
+            ]
+        }
+    ]
+}

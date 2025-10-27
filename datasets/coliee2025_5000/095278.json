@@ -1,0 +1,33 @@
+{
+    "Case ID": "095278",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Tax Requirement",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "foreign-based information",
+                "confidential nature",
+                "irrelevant requests"
+            ],
+            "decision_reasoning": [
+                "CRA's need for verification",
+                "transfer pricing analysis"
+            ],
+            "application_details": [
+                "Judicial review application filed challenging the Requirement's validity"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the Requirement"
+            ],
+            "relevant_statute": [
+                "ITA subsection 231.6"
+            ],
+            "dispute_focus": [
+                "Dispute over foreign-based information required for transfer pricing audit"
+            ]
+        }
+    ]
+}

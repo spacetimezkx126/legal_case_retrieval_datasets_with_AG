@@ -1,0 +1,33 @@
+{
+    "Case ID": "060336",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "review_standard": [
+                "reasonableness standard",
+                "correctness standard"
+            ],
+            "procedural_fairness": [
+                "no fair opportunity to present case",
+                "exclusion of new evidence",
+                "no hearing held"
+            ],
+            "decision_outcome": [
+                "application allowed"
+            ],
+            "risk_of_persecution": [
+                "political persecution"
+            ],
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "independent_review_by_rad": [
+                "failure to independently assess evidence"
+            ],
+            "standard_of_review": [
+                "wrong standard applied by RAD"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "097875",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "no reasonable apprehension of bias",
+                "strict counting (Pourghasemi test)"
+            ],
+            "residency_requirements": [
+                "physical presence",
+                "Pourghasemi test"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge"
+            ],
+            "cause_of_action": [
+                "insufficient residency days",
+                "perceived bias"
+            ],
+            "decision_outcome": [
+                "denied"
+            ]
+        }
+    ]
+}

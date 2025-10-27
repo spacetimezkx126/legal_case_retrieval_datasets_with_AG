@@ -1,0 +1,30 @@
+{
+    "Case ID": "011014",
+    "Different Crime": [
+        {
+            "Crime Name": "Persecution due to religious and ethnic conversion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "lack of state protection",
+                "police inaction"
+            ],
+            "refugee_definition": [
+                "well-founded fear of persecution",
+                "race, religion, nationality, membership in a social group, or political opinion"
+            ],
+            "persecution_grounds": [
+                "religious and ethnic conversion"
+            ],
+            "internal_flight_alternative": [
+                "restrictions on internal movement"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case sent back for reevaluation"
+            ],
+            "legal_basis": [
+                "Immigration Act"
+            ]
+        }
+    ]
+}

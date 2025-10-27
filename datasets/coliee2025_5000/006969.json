@@ -1,0 +1,28 @@
+{
+    "Case ID": "006969",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 6 of the Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "decision_outcome": [
+                "Abbott's application for a prohibition order was granted"
+            ],
+            "technical_details": [
+                "Nu-Pharm's process uses higher temperatures without acetone",
+                "acetone is not essential for industrial-scale production"
+            ],
+            "expert_testimony": [
+                "affidavits, cross-examinations, and patents to assess chemical equivalence"
+            ],
+            "patent_validity": [
+                "deemed an obvious chemical equivalent of the '151 patent"
+            ],
+            "cause_of_action": [
+                "preventing Nu-Pharm from obtaining regulatory approval for divalproex sodium before the '151 patent expired"
+            ]
+        }
+    ]
+}

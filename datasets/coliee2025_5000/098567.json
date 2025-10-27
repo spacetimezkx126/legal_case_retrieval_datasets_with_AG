@@ -1,0 +1,28 @@
+{
+    "Case ID": "098567",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "relevance_of_questions": [
+                "irrelevant questions during out-of-court examination"
+            ],
+            "rule_applied": [
+                "Relevance is the test for requiring answers or documents in discovery."
+            ],
+            "application_details": [
+                "Plaintiff objected to two questions as irrelevant.",
+                "Court reviewed the amended statement of claim and found indirect relevance."
+            ],
+            "decision_reasoning": [
+                "Questions must reasonably contain information that advances a party's case or damages the other's."
+            ],
+            "result_of_case": [
+                "Objections dismissed; witness ordered to answer; defendant's motion for future action denied."
+            ],
+            "procedure_followed": [
+                "Defendant moved to dismiss plaintiff's objections and sought permission for future motions if undertakings were unfulfilled."
+            ]
+        }
+    ]
+}

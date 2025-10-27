@@ -1,0 +1,64 @@
+{
+    "Case ID": "092747",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of Official Capacity",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "CF grievance process",
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "material_misrepresentation": [
+                "unauthorized posting of a survey"
+            ],
+            "relationship_genuineness": [
+                "duty of care owed to Cadets"
+            ],
+            "judicial_authority": [
+                "CDS"
+            ],
+            "cause_of_action": [
+                "ethical and privacy concerns"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Use of Personal Information",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "CDS's decision reasonable and justifiable under the duty of care owed to Cadets"
+            ],
+            "cause_of_action": [
+                "posting an unauthorized survey targeting Cadets"
+            ],
+            "procedure_followed": [
+                "internal CF grievance procedures",
+                "CFGB review",
+                "judicial review in Federal Court"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "CDS's decision upheld"
+            ],
+            "relevant_factors": [
+                "high standard of care owed by CF to Cadets",
+                "ethical concerns",
+                "use of military rank without SSRRB approval"
+            ],
+            "court_ruling": [
+                "dismissed the application"
+            ],
+            "decision_conclusion": [
+                "CDS's decision falls within the range of reasonable outcomes"
+            ]
+        }
+    ]
+}

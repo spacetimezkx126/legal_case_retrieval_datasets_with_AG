@@ -1,0 +1,76 @@
+{
+    "Case ID": "058104",
+    "Different Crime": [
+        {
+            "Crime Name": "Mischief over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "refusal to allow cross-examination of a bondsperson"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "public_interest": [
+                "public importance due to frequent detention reviews evading review"
+            ],
+            "relationship_genuineness": [
+                "lacked adversarial representation"
+            ],
+            "legal_basis": [
+                "Supreme Court's two-step test for moot cases"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "cross-examination rights",
+                "judicial review",
+                "moot case criteria"
+            ],
+            "risk_assessment": [
+                "deportation",
+                "detention review"
+            ],
+            "legal_basis": [
+                "Federal Court discretion",
+                "party rights",
+                "public importance",
+                "adversarial relationships",
+                "judicial economy"
+            ],
+            "serious_issue": [
+                "denied cross-examination rights"
+            ],
+            "balance_of_convenience": [
+                "lack of adversarial input",
+                "prior cases addressing the issue"
+            ]
+        },
+        {
+            "Crime Name": "Failing to comply with probation",
+            "Crime Type": "others",
+            "mootness": [
+                "Gyekye was deported before the judicial review could occur, making the case moot"
+            ],
+            "discretion_exercise": [
+                "court may hear a moot case if it affects the rights of parties or is in public interest"
+            ],
+            "decision_reasoning": [
+                "lack of adversarial context and prior rulings on similar issues"
+            ],
+            "cause_of_action": [
+                "refusal to allow cross-examination of a bondsperson"
+            ],
+            "procedure_followed": [
+                "Judicial review requested after Gyekye's deportation; Federal Court evaluated whether to hear the moot case"
+            ],
+            "result_of_case": [
+                "Court declined to hear the moot application, dismissing the judicial review request"
+            ]
+        }
+    ]
+}

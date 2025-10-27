@@ -1,0 +1,47 @@
+{
+    "Case ID": "039086",
+    "Different Crime": [
+        {
+            "Crime Name": "Voluntary reavailment of protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s. 108(1)(a)"
+            ],
+            "reasonableness_standard": [
+                "RPD's decision reasonable for the mother"
+            ],
+            "documentary_evidence": [
+                "Applicants returned to Mexico weeks after gaining refugee status, used Mexican passports, and obtained new ones in 2006"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; cessation of protection upheld"
+            ],
+            "risk_of_persecution": [],
+            "internal_flight_alternative": []
+        },
+        {
+            "Crime Name": "Cessation of refugee protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Section 108(1)(a) of IRPA"
+            ],
+            "procedural_fairness": [
+                "RPD reviewed cessation application",
+                "applicants sought judicial review",
+                "Federal Court analyzed RPD's reasoning"
+            ],
+            "credibility_findings": [
+                "Applicants returned to Mexico with Mexican passports, obtained new ones, and traveled back to Canada"
+            ],
+            "reasonableness_of_decision": [
+                "The Federal Court dismissed the application for judicial review, finding the RPD's decision reasonable"
+            ],
+            "refugee_definition": [
+                "voluntarily reavails themselves of their country's protection"
+            ],
+            "judicial_review_process": [
+                "Federal Court upheld RPD's decision, dismissing the judicial review application"
+            ]
+        }
+    ]
+}

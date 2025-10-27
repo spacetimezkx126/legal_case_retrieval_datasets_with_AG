@@ -1,0 +1,33 @@
+{
+    "Case ID": "039144",
+    "Different Crime": [
+        {
+            "Crime Name": "Desertion/Draft-Evasion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "refusal to perform military service"
+            ],
+            "persecution_grounds": [
+                "conscientious objection",
+                "fear of persecution for draft evasion"
+            ],
+            "burden_of_proof": [
+                "association with persecuted groups",
+                "illegitimate military actions under international standards"
+            ],
+            "reasonableness_of_decision": [
+                "punishment deemed reasonable",
+                "prison conditions acceptable"
+            ],
+            "judicial_review_process": [
+                "Board reviewed evidence",
+                "assessed penalties",
+                "concluded no persecution or risk to life"
+            ],
+            "decision_outcome": [
+                "does not qualify as a Convention refugee",
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

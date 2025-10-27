@@ -1,0 +1,50 @@
+{
+    "Case ID": "073416",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of procedural fairness as evidence was not central"
+            ],
+            "risk_assessment": [
+                "Strachn claimed risk from Jamaican gangs, rejected due to insufficient credible evidence"
+            ],
+            "evidence_assessment": [
+                "applicant alleged risks from Jamaican gangs but provided insufficient new evidence to rebut prior findings",
+                "officer noted inconsistencies but found them non-central"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed H&C and PRRA decisions under reasonableness standard"
+            ],
+            "decision_outcome": [
+                "H&C decision overturned, PRRA decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Assault occasioning bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "employment",
+                "inability to farm in Jamaica",
+                "past approvals in principle"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "past_criminal_convictions": [
+                "1980 conviction"
+            ],
+            "procedural_fairness": [
+                "failed to mention previous H&C approval"
+            ],
+            "evidence_consideration": [
+                "officer failed to consider all evidence"
+            ],
+            "immigration_status": [
+                "refugee claim rejected",
+                "H&C application denied"
+            ]
+        }
+    ]
+}

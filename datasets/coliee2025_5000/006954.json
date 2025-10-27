@@ -1,0 +1,47 @@
+{
+    "Case ID": "006954",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "likely to cause confusion"
+            ],
+            "applicable_statute": [
+                "Trade Marks Act, R.S.C. 1970, c. T-10"
+            ],
+            "use_in_trade": [
+                "used in commerce"
+            ],
+            "expert_testimony": [],
+            "legal_basis": [
+                "Rule 355 for contempt of court"
+            ],
+            "decision_outcome": [
+                "guilty of trademark infringement and contempt of court"
+            ],
+            "standard_of_review": [
+                "first impression test"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Copyright",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Contempt of court occurs when an individual or corporation knowingly violates a court order. Rule 355 governs contempt proceedings."
+            ],
+            "evidence_presented": [
+                "Respondents sold computers infringing on Apple's copyrights, designs, and trademarks despite injunctions. Evidence showed they were aware of the orders but continued selling infringing products."
+            ],
+            "decision_reasoning": [
+                "The respondents are guilty of contempt for violating the injunctions."
+            ],
+            "result_of_case": [
+                "Fines imposed on individuals and corporations; suspended sentences with conditions for compliance."
+            ],
+            "procedure_followed": [
+                "Court issued injunctions, followed by a show cause order. Evidence was presented at hearings, leading to findings of contempt."
+            ]
+        }
+    ]
+}

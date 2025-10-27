@@ -1,0 +1,50 @@
+{
+    "Case ID": "039829",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim based on lack of state protection",
+            "Sub_Crime_Type": "Sexual assault by criminal elements",
+            "Perpetrator_Type": "Criminal elements in Mexico",
+            "Victim_Status": "Applicants seeking refugee status",
+            "Location_of_Incident": "Mexico"
+        },
+        {
+            "Crime_Name": "Intimidation",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Did the Board err in its treatment of evidence concerning state protection?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial review of Refugee Protection Division decision",
+            "Decision_Outcome": "Application for judicial review dismissed",
+            "Burden_of_Proof": "Applicants failed to demonstrate lack of state protection"
+        },
+        {
+            "Crime_Name": "Kidnapping",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim due to kidnapping and intimidation",
+            "Sub_Crime_Type": "Kidnapping by criminal elements",
+            "Perpetrator_Type": "Criminal elements in Mexico",
+            "Victim_Status": "Applicants seeking refugee status",
+            "Location_of_Incident": "Mexico"
+        },
+        {
+            "Crime_Name": "Failure to report crime",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Applicants' failure to report incidents to authorities",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial review of Refugee Protection Division decision",
+            "Evidence_Assessment": "Applicants did not report key incidents or seek help from alternate agencies",
+            "Credibility_Factor": "Subjective reluctance does not rebut presumption of state protection"
+        },
+        {
+            "Crime_Name": "Armed Robbery",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim following involvement in armed robbery case",
+            "Sub_Crime_Type": "Armed robbery (bank robbery incident)",
+            "Perpetrator_Type": "Criminal elements in Mexico",
+            "Victim_Status": "Applicants exposed to risks due to criminal retaliation",
+            "Location_of_Incident": "Mexico"
+        }
+    ]
+}

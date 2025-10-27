@@ -1,0 +1,35 @@
+{
+    "Case ID": "099825",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Indian Act",
+                "Federal Court Act"
+            ],
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "dispute over legitimacy of leadership"
+            ],
+            "procedure_followed": [
+                "quo warranto",
+                "interlocutory injunction"
+            ],
+            "decision_reasoning": [
+                "insufficient evidence",
+                "balance of convenience favoring defendants"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no remedies granted"
+            ],
+            "relevant_statute": [
+                "s. 18 of the Federal Court Act",
+                "s. 74(1) of the Indian Act"
+            ]
+        }
+    ]
+}

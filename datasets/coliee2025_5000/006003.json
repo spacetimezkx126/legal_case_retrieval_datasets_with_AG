@@ -1,0 +1,114 @@
+{
+    "Case ID": "006003",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 98 of IRPA",
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "procedural_fairness": [
+                "translation",
+                "adjournment",
+                "bias",
+                "fair hearing"
+            ],
+            "refugee_status_eligibility": [
+                "excluded under Article 1F(b)"
+            ],
+            "evidence_assessment": [
+                "unreliable evidence"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "exclusion from refugee status upheld"
+            ],
+            "criminality_inadmissibility": [
+                "accused of serious crimes"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent activities",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "yes"
+            ],
+            "applicable_statute": [
+                "Section 98 of IRPA",
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "procedural_fairness": [
+                "no breach"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "overstayed visitor's visa",
+                "claimed refugee protection"
+            ],
+            "nature_of_offense": [
+                "fraud"
+            ],
+            "serious_non_political_crime": [
+                "yes"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "evidence_provided": [
+                "unreliable",
+                "self-serving"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "public_interest": [
+                "considered"
+            ],
+            "legal_basis": [
+                "Section 98 of IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention",
+                "IRPA section 98",
+                "Charter section 7"
+            ],
+            "procedural_fairness": [
+                "vagueness challenges",
+                "unfettered discretion",
+                "judicially applied without difficulty"
+            ],
+            "decision_reasoning": [
+                "provides sufficient guidance",
+                "does not grant unfettered discretion"
+            ],
+            "applicable_regulations": [
+                "Section 98 of IRPA",
+                "Article 1F(b)"
+            ],
+            "charter_rights": [
+                "Charter section 7"
+            ],
+            "discretion_exercise": [
+                "more than suspicion but less than civil balance of probabilities"
+            ],
+            "cause_of_action": [
+                "alleged serious criminality",
+                "constitutional validity of the provision"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed Deng's arguments on vagueness, translation, adjournment, bias, and fairness"
+            ],
+            "result_of_case": [
+                "application was dismissed",
+                "question on section 98's constitutionality was certified for appeal"
+            ]
+        }
+    ]
+}

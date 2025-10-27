@@ -1,0 +1,49 @@
+{
+    "Case ID": "057766",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "child's best interests were considered briefly in notes"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no question certified"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "immigration_status": [
+                "overstayed her visa after unsuccessful refugee claims"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C applications were either rejected or lost"
+            ],
+            "risk_assessment": [
+                "citing no new risks"
+            ]
+        },
+        {
+            "Crime Name": "Domestic violence",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "unresolved H&C application"
+            ],
+            "child_best_interests": [
+                "considered but not sufficient for deferral"
+            ],
+            "procedural_fairness": [
+                "lack of timely evidence cited as an issue"
+            ],
+            "legal_basis": [
+                "Section 48 of the Immigration and Refugee Protection Act"
+            ],
+            "reasonableness_of_decision": [
+                "decision found not patently unreasonable"
+            ],
+            "family_ties": [
+                "existence of a child mentioned"
+            ]
+        }
+    ]
+}

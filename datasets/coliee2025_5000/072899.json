@@ -1,0 +1,137 @@
+{
+    "Case ID": "072899",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to immigration authorities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "new evidence impacting credibility"
+            ],
+            "standard_of_review": [
+                "reasonableness review by RAD",
+                "de novo hearing required"
+            ],
+            "evidence_assessment": [
+                "new evidence of sexual assault"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "RAD's decision set aside",
+                "remitted for new hearing"
+            ],
+            "refugee_status_eligibility": [
+                "denied due to credibility issues"
+            ],
+            "misrepresentation_or_fraud": [
+                "false statements to immigration authorities"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "set aside"
+            ],
+            "procedural_fairness": [
+                "de novo hearing",
+                "de novo review"
+            ],
+            "evidence_provided": [
+                "new evidence of sexual assault"
+            ],
+            "judicial_authority": [
+                "RAD",
+                "Court"
+            ],
+            "credibility_issues": [
+                "impact on credibility"
+            ],
+            "appeal_outcome": [
+                "allowed judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_findings": [
+                "new evidence of sexual assault impacting credibility"
+            ],
+            "reasonableness_of_decision": [
+                "failure to conduct de novo hearing"
+            ],
+            "decision_outcome": [
+                "set aside RAD's decision"
+            ],
+            "judicial_review_result": [
+                "allowed judicial review"
+            ],
+            "standard_of_proof": [
+                "de novo standard"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing justice",
+            "Crime Type": "others",
+            "decision_reasoning": [
+                "RAD erred by not conducting a full de novo hearing"
+            ],
+            "standard_of_review": [
+                "reasonableness standard",
+                "de novo hearing"
+            ],
+            "new_evidence": [
+                "sexual assault impacting credibility"
+            ],
+            "application_details": [
+                "Applicants provided new evidence affecting credibility"
+            ],
+            "conclusion_outcome": [
+                "Case remitted for a new hearing"
+            ],
+            "result_of_case": [
+                "Court allowed judicial review, set aside RAD's decision, and ordered a new hearing"
+            ],
+            "relevant_rule": [
+                "Under IRPA, if new evidence affects credibility, RAD must conduct a de novo review"
+            ],
+            "evidence_assessment": [
+                "Credibility is central to refugee claims"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed RAD's process and legal standards applied in handling new evidence"
+            ],
+            "cause_of_action": [
+                "Applicants appealed RPD's dismissal of their refugee claim due to lack of credibility"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling persons into Canada",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "new_evidence_impact": [
+                "sexual assault"
+            ],
+            "evidentiary_standard": [
+                "reasonableness standard",
+                "de novo review"
+            ],
+            "credibility_findings": [
+                "credibility concerns"
+            ],
+            "judicial_review_process": [
+                "judicial review application"
+            ],
+            "decision_outcome": [
+                "case remitted for new hearing"
+            ],
+            "refugee_definition": [
+                "refugee status"
+            ]
+        }
+    ]
+}

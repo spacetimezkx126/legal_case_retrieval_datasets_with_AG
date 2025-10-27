@@ -1,0 +1,98 @@
+{
+    "Case ID": "090512",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_credibility": [
+                "insufficient analysis of current evidence",
+                "over-reliance on past gang involvement"
+            ],
+            "involvement_details": [
+                "past gang membership",
+                "gang inactivity"
+            ],
+            "release_conditions": [
+                "alternatives to detention not fully considered"
+            ],
+            "judicial_review_result": [
+                "granted judicial review"
+            ],
+            "decision_outcome": [
+                "new detention review ordered"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a police officer",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.58"
+            ],
+            "decision_reasoning": [
+                "overemphasized past gang involvement and credibility issues, ignoring recent behavior and alternatives to detention"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "dangerousness and likelihood of appearance"
+            ],
+            "conclusion_outcome": [
+                "unreasonable decision"
+            ],
+            "result_of_case": [
+                "new detention review ordered"
+            ]
+        },
+        {
+            "Crime Name": "Drug trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 58"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "evidence_sufficiency": [
+                "insufficient analysis of present circumstances and alternatives"
+            ],
+            "criminal_history": [
+                "past gang involvement",
+                "alleged gang membership"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted"
+            ],
+            "evidence_considered": [
+                "current evidence of rehabilitation",
+                "alternative measures like bonds or electronic bracelets"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Detention",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "Board emphasized past gang involvement but ignored evidence of gang inactivity since 2001",
+                "It relied heavily on credibility findings from unrelated proceedings without analyzing current dangerousness",
+                "Alternatives to detention were not fully considered"
+            ],
+            "credibility_findings": [
+                "relied heavily on credibility findings from unrelated proceedings"
+            ],
+            "reasonableness_of_decision": [
+                "The Board's decision was unreasonable due to overemphasis on past gang ties and insufficient analysis of present circumstances and alternatives"
+            ],
+            "judicial_review_process": [
+                "Judicial review application after multiple detention reviews and appeals",
+                "Court allowed judicial review, ordering a new detention review due to unreasonable decision-making by the Board"
+            ],
+            "burden_of_proof": [
+                "detention is justified if the individual is a danger to the public or unlikely to appear for removal"
+            ]
+        }
+    ]
+}

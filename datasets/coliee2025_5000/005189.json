@@ -1,0 +1,32 @@
+{
+    "Case ID": "005189",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 31(1) of the Income Tax Act"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "Minister's reassessment upheld"
+            ],
+            "procedural_fairness": [
+                "burden of proof on taxpayer"
+            ],
+            "applicable_statute": [
+                "Income Tax Act"
+            ],
+            "party_involved": [
+                "taxpayer",
+                "Minister"
+            ],
+            "cause_of_action": [
+                "dispute over deductibility of farm losses"
+            ],
+            "nature_of_offense": [
+                "misinterpretation of 'chief source of income'"
+            ]
+        }
+    ]
+}

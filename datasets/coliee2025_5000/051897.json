@@ -1,0 +1,100 @@
+{
+    "Case ID": "051897",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "insufficient evidence"
+            ],
+            "state_protection": [
+                "presumption of state protection"
+            ],
+            "internal_flight_alternative": [
+                "not rebutted"
+            ],
+            "evidence_provided": [
+                "delayed departure",
+                "single police report without follow-up"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "risk_characterization": [
+                "extortion and sexual assaults by a drug dealer"
+            ],
+            "relationship_genuineness": [
+                "questionable based on delayed action"
+            ],
+            "reasonableness_standard": [
+                "Board's findings were reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "sexual assault",
+                "extortion"
+            ],
+            "refugee_status_nexus": [
+                "Convention grounds"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection"
+            ],
+            "internal_flight_alternative": [
+                "IFA in Mexico City"
+            ],
+            "evidence_consideration": [
+                "delayed reporting",
+                "no action by police"
+            ],
+            "balance_of_convenience": [
+                "subjective fear undermined"
+            ],
+            "serious_issue": [
+                "applicant qualifications for refugee status"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision reasonable and evidence-supported"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Adequate Police Response",
+            "Crime Type": "others",
+            "legal_basis": [
+                "presumption of state protection"
+            ],
+            "decision_reasoning": [
+                "Applicant's single attempt to report the crime was insufficient to rebut the presumption of state protection"
+            ],
+            "evidence_assessment": [
+                "single police complaint",
+                "no demonstration of systemic police ineffectiveness"
+            ],
+            "risk_of_persecution": [
+                "claimed due to lack of state protection"
+            ],
+            "state_protection": [
+                "Board found insufficient evidence to overcome presumption of state protection"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was reasonable; judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status claim based on lack of state protection"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Board's findings on delay, nexus, state protection, and internal flight alternative"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

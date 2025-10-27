@@ -1,0 +1,67 @@
+{
+    "Case ID": "007864",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "specific_targeting": [
+                "targeted for extortion",
+                "escalating threats and violence",
+                "retaliatory threats"
+            ],
+            "nexus_to_convention_grounds": [
+                "reporting to authorities",
+                "violent threats and attacks from the gang"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "court"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "application allowed",
+                "RPD's decision quashed",
+                "referred back for reconsideration"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "s. 97(1)(b)(ii)"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_threats_or_incidents": [
+                "surveillance",
+                "threats",
+                "violence",
+                "attempted kidnapping"
+            ],
+            "risk_assessment": [
+                "unreasonable characterization of risk"
+            ],
+            "country_conditions": [
+                "Colombia",
+                "extortion",
+                "armed gang"
+            ],
+            "refugee_status_nexus": [
+                "refugee protection claim"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "legal_basis": [
+                "s. 97(1)(b)(ii) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

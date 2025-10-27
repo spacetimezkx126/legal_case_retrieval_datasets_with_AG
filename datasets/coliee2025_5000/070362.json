@@ -1,0 +1,36 @@
+{
+    "Case ID": "070362",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "reasonableness_standard": [
+                "Judicial review assesses reasonableness and transparency of decisions."
+            ],
+            "risk_of_persecution": [
+                "political persecution"
+            ],
+            "country_conditions": [
+                "DOS Report data"
+            ],
+            "evidence_assessment": [
+                "incidents but dismissed political motives without addressing key evidence like vandalism, threats"
+            ],
+            "decision_outcome": [
+                "Decision overturned; case sent back for reconsideration with a new panel."
+            ],
+            "standard_of_proof": [
+                "well-founded fear of persecution and lack of state protection"
+            ],
+            "inconsistencies_in_testimony": [
+                "selective use of DOS Report data"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether the panel’s decision was reasonable, focusing on evidence interpretation and legal principles."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "015923",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error Review",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "administrative_error": [
+                "erroneous advice",
+                "denied benefit"
+            ],
+            "evidentiary_standard": [
+                "failed to verify contributions",
+                "T4 not searched properly"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "judicial_review_process": [
+                "judicial review of Minister's decision"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "decision set aside",
+                "case remanded"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "075553",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "406 days over four years",
+                "Koo test",
+                "temporary absences",
+                "primary life in Hong Kong"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "citizenship approval overturned"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "insufficient residency"
+            ]
+        }
+    ]
+}

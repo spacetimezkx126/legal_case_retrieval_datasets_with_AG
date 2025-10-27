@@ -1,0 +1,34 @@
+{
+    "Case ID": "030565",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "ion implantation technology",
+                "equivalent process under the 'pith and marrow' test"
+            ],
+            "relevant_rule": [
+                "infringement occurs if the substance or principle of the invention is taken",
+                "patent must be construed as of the filing date"
+            ],
+            "application_details": [
+                "defendant used ion implantation instead of vapor deposition",
+                "method of doping is not part of the core invention"
+            ],
+            "decision_reasoning": [
+                "core invention involves using polysilicon as a gate electrode and self-aligned masking",
+                "ion implantation achieves the same result without materially affecting how the invention works"
+            ],
+            "result_of_case": [
+                "plaintiff's patent was declared invalid due to prior invention and conflicting patent applications"
+            ],
+            "cause_of_action": [
+                "alleged infringement of Canadian letters patent number 853,397 by defendant's manufacturing process"
+            ],
+            "procedure_followed": [
+                "court analyzed the patent claims, construction, infringement tests, validity challenges, and prior art"
+            ]
+        }
+    ]
+}

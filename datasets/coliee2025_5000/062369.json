@@ -1,0 +1,40 @@
+{
+    "Case ID": "062369",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal sale of firearms",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "adequate opportunity to provide information",
+                "see the report",
+                "legal advice",
+                "time for submissions"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ],
+            "applicable_laws": [
+                "IRPA section 44"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "permanent resident",
+                "inadmissible"
+            ],
+            "claimant_burden": [
+                "not given adequate opportunity",
+                "did not utilize"
+            ],
+            "court_ruling": [
+                "no breach of procedural fairness",
+                "no error in discretion"
+            ],
+            "appeal_process": [
+                "Judicial review"
+            ]
+        }
+    ]
+}

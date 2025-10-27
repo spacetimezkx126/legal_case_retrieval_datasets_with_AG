@@ -1,0 +1,27 @@
+{
+    "Case ID": "029541",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Inadmissibility",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "medical condition",
+                "excessive demands on social services"
+            ],
+            "decision_outcome": [
+                "denied"
+            ],
+            "evidence_assessment": [
+                "medical examinations",
+                "medical officers' opinions"
+            ],
+            "legal_basis": [
+                "Section 19(1)(a)(ii) of the Immigration Act",
+                "Section 22 of the Immigration Regulations"
+            ],
+            "standard_of_review": [
+                "reasonable"
+            ]
+        }
+    ]
+}

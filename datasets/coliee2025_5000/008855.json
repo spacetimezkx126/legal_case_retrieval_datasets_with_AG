@@ -1,0 +1,55 @@
+{
+    "Case ID": "008855",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions in testimony",
+                "lack of corroborative evidence",
+                "communication issues"
+            ],
+            "evidence_assessment": [
+                "unreasonable findings challenged"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubts about marriage authenticity"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "primarily for immigration purposes"
+            ],
+            "reasonableness_standard": [
+                "reviewed on reasonableness"
+            ],
+            "evidence_provided": [
+                "contradictions in testimony",
+                "lack of corroborative evidence",
+                "communication issues"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "rejection of sponsorship application"
+            ],
+            "procedural_fairness": [
+                "judicial review of IAD decision"
+            ]
+        }
+    ]
+}

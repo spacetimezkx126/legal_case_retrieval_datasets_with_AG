@@ -1,0 +1,25 @@
+{
+    "Case ID": "067651",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of residence in Canada over four years",
+                "physical presence test",
+                "normally resident test"
+            ],
+            "evidence_assessment": [
+                "inconclusive evidence",
+                "missing passport",
+                "conflicting evidence"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

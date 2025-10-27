@@ -1,0 +1,27 @@
+{
+    "Case ID": "005654",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "insufficient evidence for police inaction"
+            ],
+            "risk_of_persecution": [
+                "threats, violence, property damage due to religious conversion"
+            ],
+            "decision_outcome": [
+                "application allowed, CRDD decision set aside, case remitted for reevaluation"
+            ],
+            "procedural_fairness": [
+                "judicial review of CRDD decision"
+            ],
+            "legal_basis": [
+                "Canadian immigration law - well-founded fear of persecution and inability to avail state protection"
+            ],
+            "evidence_assessment": [
+                "dismissed claim due to insufficient evidence"
+            ]
+        }
+    ]
+}

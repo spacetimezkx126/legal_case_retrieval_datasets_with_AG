@@ -1,0 +1,75 @@
+{
+    "Case ID": "002605",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal orders",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "risks upon return",
+                "best interests of child",
+                "establishment in Canada"
+            ],
+            "procedural_fairness": [
+                "unreasonable errors",
+                "denial of procedural fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "risk_assessment": [
+                "risk upon return to Chile"
+            ],
+            "best_interests_of_children": [
+                "psychological report considered"
+            ],
+            "decision_outcome": [
+                "judicial review application denied"
+            ]
+        },
+        {
+            "Crime Name": "Making a false refugee claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "Claim of procedural unfairness in H & C Application dismissal"
+            ],
+            "reasonableness_standard": [
+                "Standard of review for H & C Application and PRRA Decision"
+            ],
+            "risk_of_persecution": [
+                "Hardship upon return to Chile due to domestic abuse and lack of state protection"
+            ],
+            "country_conditions": [
+                "Conditions in Chile regarding domestic abuse and state protection"
+            ],
+            "documentary_evidence": [
+                "Material evidence ignored by Immigration Officer (claimed by Applicants)"
+            ],
+            "decision_outcome": [
+                "Judicial review denied; no question certified for appeal"
+            ],
+            "evidence_assessment": [
+                "Immigration Officer considered all pertinent factors, including risk, child's best interests, and establishment in Canada"
+            ]
+        },
+        {
+            "Crime Name": "Domestic violence",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "best interests of the child",
+                "establishment in Canada"
+            ],
+            "procedural_fairness": [],
+            "risk_assessment": [
+                "risks upon return to Chile"
+            ],
+            "child_best_interests": [],
+            "reasonableness_of_decision": [],
+            "availability_of_alternative_remedies": [
+                "apply from outside Canada"
+            ],
+            "country_conditions": [
+                "Chile could protect Ms. Diaz"
+            ]
+        }
+    ]
+}

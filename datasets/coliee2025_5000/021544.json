@@ -1,0 +1,87 @@
+{
+    "Case ID": "021544",
+    "Different Crime": [
+        {
+            "Crime Name": "Credibility Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequate state protection alleged",
+                "laws addressing domestic violence",
+                "previous police protection"
+            ],
+            "reasonableness_standard": [
+                "Board's credibility assessment reasonable",
+                "factual findings can only be overturned if patently unreasonable"
+            ],
+            "evidence_provided": [
+                "police letter found fabricated",
+                "11-month delay in claiming refugee status"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no certification of general importance questions"
+            ],
+            "claim_nature": [
+                "refugee status due to domestic abuse"
+            ],
+            "judicial_authority": [
+                "Judicial review assessed the Board’s credibility determination and conclusion on state protection adequacy"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "state protection exists",
+                "police protection in Grenada"
+            ],
+            "credibility_findings": [
+                "fabricated police letter",
+                "undermined her credibility"
+            ],
+            "evidence_consideration": [
+                "documentary evidence",
+                "laws and training programs"
+            ],
+            "risk_assessment": [
+                "domestic violence",
+                "lack of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "Board reasonably concluded"
+            ]
+        },
+        {
+            "Crime Name": "Fabrication of Evidence",
+            "Crime Type": "others",
+            "state_protection": [
+                "available to the Applicant",
+                "adequate state protection in Grenada"
+            ],
+            "credibility_findings": [
+                "police letter fabricated",
+                "doubted the credibility due to an 11-month delay"
+            ],
+            "decision_reasoning": [
+                "Board reasonably concluded state protection exists"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "evidence_assessment": [
+                "fabricated evidence",
+                "11-month delay in claiming refugee status"
+            ],
+            "refugee_status": [
+                "claimed refugee status based on fear of persecution due to domestic abuse"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed the Board's decision"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "court dismissed the judicial review application"
+            ]
+        }
+    ]
+}

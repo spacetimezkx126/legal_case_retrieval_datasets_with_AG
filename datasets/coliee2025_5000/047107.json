@@ -1,0 +1,49 @@
+{
+    "Case ID": "047107",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "Applicants failed to show an error in the H&C Officer's decision"
+            ],
+            "irreparable_harm": [
+                "lacked clear evidence of irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "did not outweigh the public interest in enforcing removal orders"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "H&C Officer's decision was reviewed"
+            ],
+            "immigration_status": [
+                "removal from Canada"
+            ],
+            "procedural_fairness": [
+                "Federal Court analyzed the Applicants' arguments under the tri-partite test"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "tri-partite test"
+            ],
+            "procedural_fairness": [
+                "H&C Officer's decision"
+            ],
+            "decision_outcome": [
+                "motion dismissed"
+            ],
+            "appeal_process": [
+                "stay of removal"
+            ],
+            "relevant_factors": [
+                "serious issue to be tried",
+                "irreparable harm",
+                "balance of convenience",
+                "public interest in enforcing removal orders"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Case ID": "077533",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to consider oral hearing request",
+                "rendering decision without waiting for additional evidence"
+            ],
+            "legal_basis": [
+                "IRPA subsection 113(b)",
+                "section 167"
+            ],
+            "decision_reasoning": [
+                "ignoring the hearing request",
+                "rushing the decision",
+                "violating the duty of fairness"
+            ],
+            "evidence_assessment": [
+                "lack of corroborating evidence",
+                "new evidence was forthcoming"
+            ],
+            "application_details": [
+                "request for an oral hearing",
+                "submission of new evidence"
+            ],
+            "result_of_case": [
+                "PRRA decision set aside",
+                "new PRRA assessment with oral hearing ordered"
+            ],
+            "cause_of_action": [
+                "risk of persecution upon return to Iran",
+                "insufficient evidence at initial PRRA stage"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "analysis of procedural fairness issues"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "047695",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining Canadian citizenship by fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "false representation",
+                "fraud",
+                "knowingly concealing material circumstances"
+            ],
+            "evidence_assessment": [
+                "false information about nationality, birthplace, education, employment history",
+                "fabricated persecution story",
+                "contradicted claims from academic institutions and government documents"
+            ],
+            "legal_basis": [
+                "Section 10 of the Citizenship Act",
+                "Section 18 of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "revocation of Canadian citizenship"
+            ],
+            "criminality_inadmissibility": [
+                "insufficient evidence for war crimes or crimes against humanity"
+            ],
+            "immigration_status": [
+                "permanent residence",
+                "citizenship"
+            ]
+        }
+    ]
+}

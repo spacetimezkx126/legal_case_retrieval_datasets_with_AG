@@ -1,0 +1,98 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Abduction",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [],
+            "Legal_Issue": [
+                "Did the applicant meet the burden of proving that state protection was unavailable, given his claims of persecution by a corrupt police officer?"
+            ],
+            "Governing_Law": [
+                "Under Canadian law, individuals must exhaust all possible state protections before claiming refugee status unless persecuted directly by the state."
+            ],
+            "Application_Facts": [
+                "Raul Daniel claimed persecution by Ana's father, a police officer. Despite this, his parents approached only one commission and did not escalate the issue to higher authorities or file criminal charges."
+            ],
+            "Decision_Outcome": [
+                "The application for judicial review was dismissed as the IRB's decision was deemed reasonable."
+            ]
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Personal conflict"
+            ],
+            "Sub_Crime_Type": [
+                "Threats and assaults"
+            ],
+            "Perpetrator_Type": [
+                "State official (police officer)"
+            ],
+            "Victim_Status": [
+                "Private individual seeking refugee protection"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ]
+        },
+        {
+            "Crime_Name": "Unknown",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Refugee protection claim"
+            ],
+            "Legal_Issue": [
+                "Was the decision by the IRB to deny Raul Daniel refugee status reasonable under the standard of review?"
+            ],
+            "Governing_Law": [
+                "The court applies the reasonableness simpliciter standard for judicial reviews of state protection decisions."
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Raul Daniel did not sufficiently demonstrate lack of state protection; limited legal avenues pursued."
+            ]
+        },
+        {
+            "Crime_Name": "Corruption",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Refugee claim based on persecution by corrupt state agent"
+            ],
+            "Legal_Provision_Involved": [
+                "Requirement to exhaust domestic remedies unless persecuted by the state"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Grounds_for_Claim": [
+                "Threats from Ana's father, a corrupt police officer"
+            ],
+            "State_Protection_Assessment": [
+                "Applicant failed to prove state protection was unavailable"
+            ]
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Failure to exhaust state protections"
+            ],
+            "Legal_Issue": [
+                "Did Raul Daniel fail to meet the burden of proving that state protection was unavailable?"
+            ],
+            "Governing_Law": [
+                "Individuals must exhaust all possible state protections before claiming refugee status unless persecuted by the state itself."
+            ],
+            "Application_Facts": [
+                "Raul Daniel did not approach Mexican police or higher authorities about Ana's father's actions, despite being aware of steps to take."
+            ],
+            "Decision_Outcome": [
+                "The court found the IRB's decision reasonable; Raul Daniel did not prove state protection was unavailable."
+            ]
+        }
+    ]
+}

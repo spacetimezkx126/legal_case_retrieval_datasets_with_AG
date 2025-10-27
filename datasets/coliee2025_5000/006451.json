@@ -1,0 +1,55 @@
+{
+    "Case ID": "006451",
+    "Different Crime": [
+        {
+            "Crime Name": "Prohibition on granting citizenship due to criminal conviction under Citizenship Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act subsection 5(4)",
+                "Citizenship Act paragraph 22(2)(a)"
+            ],
+            "criminality_inadmissibility": [
+                "drug trafficking conviction"
+            ],
+            "decision_outcome": [
+                "citizenship application denied",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "statutory interpretation principles"
+            ],
+            "regulatory_compliance": [
+                "prohibition due to criminal conviction within three years of application"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act subsection 5(4)",
+                "Citizenship Act paragraph 22(2)(a)"
+            ],
+            "constitutional_challenge": [
+                "statutory interpretation conflict"
+            ],
+            "decision_made_by": [
+                "Citizenship Court Judge"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "rule of statutory interpretation",
+                "implied exception (generalia specialibus non derogant)",
+                "implied repeal"
+            ],
+            "criminal_history": [
+                "convicted of narcotics trafficking"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "ineligible for citizenship discretion"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "069171",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act section 25"
+            ],
+            "evidence_assessment": [
+                "disregarding substantial documentary evidence",
+                "relied solely on minor discrepancies in interviews"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "request for exemption from visa requirements based on humanitarian and compassionate grounds"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "genuine marriage"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "ignored relevant evidence",
+                "minor discrepancies"
+            ],
+            "evidence_provided": [
+                "documentary evidence supporting the marriage's genuineness"
+            ],
+            "appeal_outcome": [
+                "judicial review granted",
+                "remitted for redetermination"
+            ]
+        }
+    ]
+}

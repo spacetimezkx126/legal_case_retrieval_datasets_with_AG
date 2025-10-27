@@ -1,0 +1,54 @@
+{
+    "Case ID": "067648",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstructing the Administration of Tax Laws",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "subsection 225.2(2) of the Income Tax Act"
+            ],
+            "decision_outcome": [
+                "upholding the jeopardy collection order"
+            ],
+            "evidence_provided": [
+                "attempts to shield assets through complex transactions and liquidation of properties"
+            ],
+            "applicable_statute": [
+                "Income Tax Act"
+            ],
+            "judicial_authority": [
+                "judge"
+            ],
+            "nature_of_offense": [
+                "tax evasion schemes",
+                "failure to pay assessed amounts"
+            ],
+            "mitigating_factors": [],
+            "balance_of_convenience": [
+                "delaying collection would jeopardize the debt owed"
+            ],
+            "irreparable_harm": [
+                "fears of asset dissipation"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 225.2(2) of the Income Tax Act"
+            ],
+            "evidence_provided": [
+                "schemes to evade taxes, falsely reporting gains, transferring proceeds without tax implications, attempts to shield assets from creditors"
+            ],
+            "reasonableness_of_decision": [
+                "more likely than not that delaying payment would jeopardize collection"
+            ],
+            "decision_outcome": [
+                "upheld the jeopardy collection order"
+            ],
+            "judicial_review_result": [
+                "Court dismissed the motion to strike the jeopardy collection order"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Case ID": "014126",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Justify Administrative Segregation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 50(2) of the Federal Court Rules"
+            ],
+            "decision_reasoning": [
+                "unjustified administrative segregation",
+                "compensatory and exemplary damages awarded"
+            ],
+            "application_details": [
+                "segregated for 14 days without proper justification"
+            ],
+            "result_of_case": [
+                "motion to appeal dismissed",
+                "prothonotary's decision upheld"
+            ],
+            "procedure_followed": [
+                "heard by a prothonotary under simplified action rules",
+                "appeal to the Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Arbitrary Imprisonment",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Rule 50(2) of the Federal Court Rules"
+            ],
+            "procedural_fairness": [
+                "jurisdictional_issue",
+                "administrative_error"
+            ],
+            "evidentiary_standard": [
+                "palpable and overriding error",
+                "correctness for legal questions",
+                "mixed approach for mixed questions"
+            ],
+            "decision_outcome": [
+                "motion dismissed"
+            ],
+            "burden_of_proof": [
+                "unjustified segregation"
+            ]
+        }
+    ]
+}

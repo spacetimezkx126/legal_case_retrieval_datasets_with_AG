@@ -1,0 +1,77 @@
+{
+    "Case ID": "060350",
+    "Different Crime": [
+        {
+            "Crime Name": "Re-entry After Deportation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "children's best interests",
+                "education",
+                "family support",
+                "health concerns"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ],
+            "best_interests_of_children": [
+                "Considered"
+            ],
+            "procedural_fairness": [
+                "Assessed in judicial review"
+            ],
+            "charter_rights": [
+                "Not explicitly mentioned"
+            ]
+        },
+        {
+            "Crime Name": "Making a False Refugee Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "consideration of international human rights instruments"
+            ],
+            "reasonableness_standard": [
+                "officer's decision was reasonable"
+            ],
+            "documentary_evidence": [],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "review_standard": [
+                "judicial review process"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "children's education",
+                "parental responsibilities",
+                "health"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "judicial_authority": [
+                "immigration officer"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "relationship_genuineness": [],
+            "public_interest": [],
+            "material_misrepresentation": [],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "appeal_outcome": [
+                "certified question on whether IRPA requires specific reference to human rights instruments"
+            ]
+        }
+    ]
+}

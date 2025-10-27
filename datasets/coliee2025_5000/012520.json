@@ -1,0 +1,33 @@
+{
+    "Case ID": "012520",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural Fairness Breach",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "credibility concerns in employment letter"
+            ],
+            "decision_reasoning": [
+                "no opportunity to address credibility issues"
+            ],
+            "application_details": [
+                "officer rejected application without fairness process"
+            ],
+            "result_of_case": [
+                "decision set aside, redetermination ordered by another officer"
+            ],
+            "relevant_statute": [
+                "Canadian law on procedural fairness"
+            ],
+            "court_ruling": [
+                "application allowed"
+            ],
+            "procedure_followed": [
+                "judicial review in Federal Court"
+            ]
+        }
+    ]
+}

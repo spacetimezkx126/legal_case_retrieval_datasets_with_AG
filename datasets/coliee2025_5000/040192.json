@@ -1,0 +1,48 @@
+{
+    "Case ID": "040192",
+    "Different Crime": [
+        {
+            "Crime Name": "Participation in activities of a terrorist group",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Article 1(F)(a) of the Convention"
+            ],
+            "complicity_in_crimes": [
+                "complicity in crimes against humanity"
+            ],
+            "membership_in_organization": [
+                "EPR"
+            ],
+            "evidence_quality": [
+                "insufficient evidence for systematic crimes against humanity"
+            ],
+            "decision_outcome": [
+                "exclusion under Article 1(F)(a) found erroneous"
+            ],
+            "judicial_review_result": [
+                "dismissed due to credible findings on inclusion"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1(F)(a) of the Convention"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "evidentiary_standard": [
+                "no evidence of EPR's activities amounting to crimes against humanity",
+                "no direct participation by applicant in such crimes"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "applicant remains excluded under Article 1(F)(a)"
+            ],
+            "credibility_findings": [
+                "credibility issues upheld"
+            ]
+        }
+    ]
+}

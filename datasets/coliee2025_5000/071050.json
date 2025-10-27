@@ -1,0 +1,30 @@
+{
+    "Case ID": "071050",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Registration Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "claim_nature": [
+                "registrability of trademark"
+            ],
+            "decision_outcome": [
+                "unregistrable"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_provided": [
+                "term is used in commerce for similar products"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ],
+            "distinctiveness_evaluation": [
+                "clearly descriptive"
+            ]
+        }
+    ]
+}

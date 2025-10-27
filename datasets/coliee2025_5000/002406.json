@@ -1,0 +1,31 @@
+{
+    "Case ID": "002406",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "no breach of procedural fairness found"
+            ],
+            "administrative_decision": [
+                "Administrative decisions must align with procedural fairness",
+                "he who hears must decide applies to judicial/quasi-judicial decisions, not purely administrative ones"
+            ],
+            "application_details": [
+                "applicant's study plans were deemed irrelevant by the visa officer",
+                "relied on general knowledge of country conditions",
+                "burden was on the applicant to prove ties to their home country"
+            ],
+            "decision_reasoning": [
+                "visa officer refused the student authorization application due to concerns about the relevance of the proposed studies to the applicant's future plans"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed",
+                "court analyzed issues of affidavit validity, procedural fairness, and applicability of administrative law principles"
+            ]
+        }
+    ]
+}

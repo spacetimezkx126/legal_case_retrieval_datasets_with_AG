@@ -1,0 +1,39 @@
+{
+    "Case ID": "005102",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness",
+                "patently unreasonable"
+            ],
+            "evidence_assessment": [
+                "not required to make explicit findings on every piece of evidence",
+                "presumed to have considered all submitted documents"
+            ],
+            "decision_reasoning": [
+                "Board referenced Dr. King's second report but not the first",
+                "Board stated it carefully evaluated all previous decisions"
+            ],
+            "discretion_exercise": [
+                "Board was not obligated to accept Dr. King's opinion over others"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was reasonable",
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "Applicant sought disability pension based on knee injury during service",
+                "claim was repeatedly denied due to lack of connection between injury and current condition"
+            ],
+            "procedure_followed": [
+                "Judicial review under Federal Court Act challenging Board's decision as erroneous due to disregard of Dr. King's opinions"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld as reasonable"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Case ID": "002578",
+    "Different Crime": [
+        {
+            "Crime Name": "Making a misrepresentation in a refugee claim",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "risk of persecution",
+                "threats",
+                "corruption"
+            ],
+            "evidence_assessment": [
+                "home break-ins",
+                "lack of corroboration",
+                "alternative explanations",
+                "gang activity"
+            ],
+            "procedural_fairness": [
+                "unclear reasoning",
+                "new evidence post-rejection"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of IRPA",
+                "refugee protection"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "redetermination",
+                "judicial review allowed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose criminal history",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "new_evidence": [
+                "home break-ins and threats"
+            ],
+            "decision_reasoning": [
+                "unreasonable dismissal of new evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "remanded for reconsideration by a different PRRA officer"
+            ],
+            "risk_of_persecution": [
+                "assessed under sections 96 and 97"
+            ]
+        }
+    ]
+}

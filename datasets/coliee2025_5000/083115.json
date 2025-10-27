@@ -1,0 +1,30 @@
+{
+    "Case ID": "083115",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review Application Dismissal",
+            "Crime Type": "others",
+            "mootness": [
+                "visa revocation",
+                "reissuance of visas"
+            ],
+            "cause_of_action": [
+                "revocation of immigrant visas"
+            ],
+            "procedure_followed": [
+                "motion hearings",
+                "submission of affidavits",
+                "legal arguments"
+            ],
+            "result_of_case": [
+                "applications dismissed",
+                "court declined to hear on grounds of mootness"
+            ],
+            "decision_reasoning": [
+                "no live controversy",
+                "no adversarial context",
+                "no useful purpose for declaratory relief"
+            ]
+        }
+    ]
+}

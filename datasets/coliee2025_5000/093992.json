@@ -1,0 +1,28 @@
+{
+    "Case ID": "093992",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days over four years",
+                "conflicting absence periods",
+                "insufficient proof of Canadian residence"
+            ],
+            "evidence_assessment": [
+                "doubted physical presence",
+                "inconsistent evidence"
+            ],
+            "decision_outcome": [
+                "application rejected",
+                "appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "document_authenticity": [
+                "lack of supporting documents"
+            ]
+        }
+    ]
+}

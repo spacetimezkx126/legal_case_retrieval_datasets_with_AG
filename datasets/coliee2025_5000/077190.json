@@ -1,0 +1,29 @@
+{
+    "Case ID": "077190",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency Fraud under Old Age Security Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "making one's home and ordinarily living in Canada",
+                "temporary absences not exceeding one year"
+            ],
+            "immigration_status": [
+                "dispute over residency status for OAS/GIS benefits"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remitted to a differently constituted Review Tribunal"
+            ],
+            "evidence_assessment": [
+                "travel history",
+                "ties to India",
+                "property ownership in India",
+                "unexplained absences from Canada"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Review Tribunal's decision"
+            ]
+        }
+    ]
+}

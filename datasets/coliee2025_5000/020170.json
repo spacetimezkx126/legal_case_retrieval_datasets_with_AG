@@ -1,0 +1,26 @@
+{
+    "Case ID": "020170",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada for misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "alleged misrepresentation of employment history"
+            ],
+            "procedural_fairness": [
+                "Officer failed to specify nature or extent of misrepresentation",
+                "procedural fairness letter raised concerns but did not clarify material misrepresentations"
+            ],
+            "decision_outcome": [
+                "Judicial review granted; case returned for new determination"
+            ],
+            "legal_basis": [
+                "IRPA section 40(1)(a)",
+                "IRPA subsection 72(1)"
+            ],
+            "standard_of_review": [
+                "adequacy of Officer's reasons and procedural fairness"
+            ]
+        }
+    ]
+}

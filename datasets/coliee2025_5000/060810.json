@@ -1,0 +1,32 @@
+{
+    "Case ID": "060810",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "missing report",
+                "corroborative evidence"
+            ],
+            "standard_of_review": [
+                "correctness standard"
+            ],
+            "judicial_authority": [
+                "judicial review under IRPA subsection 72(1)"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "humanitarian and compassionate grounds application refused"
+            ],
+            "decision_outcome": [
+                "original decision overturned"
+            ],
+            "appeal_outcome": [
+                "judicial review granted",
+                "case remitted for reconsideration"
+            ]
+        }
+    ]
+}

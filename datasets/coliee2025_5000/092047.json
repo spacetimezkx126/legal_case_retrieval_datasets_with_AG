@@ -1,0 +1,31 @@
+{
+    "Case ID": "092047",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Convention refugee criteria",
+                "country of asylum class criteria"
+            ],
+            "decision_outcome": [
+                "officer's decision overturned",
+                "new assessment required"
+            ],
+            "procedural_fairness": [
+                "Judicial review application granted",
+                "case referred back for fresh determination"
+            ],
+            "risk_characterization": [
+                "serious personal effects from conflict"
+            ],
+            "nexus_to_convention_grounds": [
+                "Hazara discrimination",
+                "Afghan conditions"
+            ],
+            "materiality_of_misrepresentation": [
+                "perceived lack of Convention refugee status"
+            ]
+        }
+    ]
+}

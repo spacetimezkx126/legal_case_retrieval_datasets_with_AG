@@ -1,0 +1,30 @@
+{
+    "Case ID": "071166",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Federal Court Act, section 18.1"
+            ],
+            "credibility_findings": [
+                "flawed identity documents",
+                "not credible"
+            ],
+            "documentary_evidence": [
+                "document authenticity",
+                "language proficiency"
+            ],
+            "decision_outcome": [
+                "application for judicial review denied",
+                "Court upheld the Board's decision"
+            ],
+            "standard_of_proof": [
+                "erroneous finding of fact in a perverse or capricious manner"
+            ],
+            "risk_of_persecution": [
+                "claim of being a Convention refugee rejected"
+            ]
+        }
+    ]
+}

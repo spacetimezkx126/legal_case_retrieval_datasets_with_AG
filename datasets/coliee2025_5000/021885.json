@@ -1,0 +1,33 @@
+{
+    "Case ID": "021885",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Act and Regulations"
+            ],
+            "application_details": [
+                "Parmar applied as an assisted relative with a job offer"
+            ],
+            "decision_reasoning": [
+                "insufficient points, lack of relevant experience, concerns about personal suitability"
+            ],
+            "procedure_followed": [
+                "Judicial review by the Federal Court"
+            ],
+            "result_of_case": [
+                "Application dismissed; no intervention by the court"
+            ],
+            "evidence_presented": [
+                "did not meet required points, lacked sufficient qualifications and experience"
+            ],
+            "relevant_statute": [
+                "assessment of points for SVP, occupational demand, and personal suitability"
+            ],
+            "court_ruling": [
+                "Federal Court dismissed Parmar's application for judicial review"
+            ]
+        }
+    ]
+}

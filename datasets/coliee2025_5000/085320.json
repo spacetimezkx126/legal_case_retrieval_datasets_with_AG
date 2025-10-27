@@ -1,0 +1,52 @@
+{
+    "Case ID": "085320",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of property obtained by crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "730 days within a five-year period under IRPA"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness for factual assessments"
+            ],
+            "evidence_provided": [
+                "employment records",
+                "tax returns",
+                "criminal records"
+            ],
+            "decision_outcome": [
+                "reasonable and supported by evidence"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "humanitarian_compassionate_considerations": [],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Theft",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "Applicant failed to meet residency requirements"
+            ],
+            "credibility_findings": [
+                "IAD's negative credibility finding was based on contradictions and fraud convictions"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "lacked compelling H&C factors"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness for facts, reasonableness for H&C"
+            ],
+            "decision_reasoning": [
+                "IAD's decision was reasonable and supported by evidence"
+            ],
+            "result_of_case": [
+                "Application dismissed; no interference with IAD's decision"
+            ]
+        }
+    ]
+}

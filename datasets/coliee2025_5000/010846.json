@@ -1,0 +1,32 @@
+{
+    "Case ID": "010846",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA S.C. 2001, c. 27",
+                "Regulations SOR/2002-227"
+            ],
+            "regulatory_compliance": [
+                "points for education based on highest credentials and years of study",
+                "no cumulative points for multiple credentials at the same level"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "skilled worker class"
+            ],
+            "document_authenticity": [
+                "applicant held two Master's degrees and a diploma"
+            ],
+            "material_misrepresentation": [
+                "no special circumstances justified additional points"
+            ]
+        }
+    ]
+}

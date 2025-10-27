@@ -1,0 +1,52 @@
+{
+    "Case ID": "060439",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "exemption request under s. 114(2) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "no requirement for hearings or reasons unless error in law, bad faith, or improper principles"
+            ],
+            "evidence_consideration": [
+                "thorough interview",
+                "insufficient evidence for claims"
+            ],
+            "risk_assessment": [
+                "risks related to returning to Northern Ireland"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review as remedy after denial"
+            ],
+            "reasonableness_of_decision": [
+                "court found no legal error in officer’s assessment"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "minimal_procedural_obligations",
+                "no_requirement_for_hearings_or_reasons"
+            ],
+            "humanitarian_concerns": [
+                "genuine_marriage_claim",
+                "risks_of_returning_to_Northern_Ireland"
+            ],
+            "evidence_considered": [
+                "thorough_interview",
+                "insufficient_evidence_for_claims",
+                "risk_related_documents"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed"
+            ],
+            "applicable_laws": [
+                "s_114(2)_of_the_Immigration_Act"
+            ]
+        }
+    ]
+}

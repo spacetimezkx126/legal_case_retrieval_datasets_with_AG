@@ -1,0 +1,36 @@
+{
+    "Case ID": "053078",
+    "Different Crime": [
+        {
+            "Crime Name": "Asylum Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credibility",
+                "contradictions in testimony",
+                "lacked evidence"
+            ],
+            "internal_flight_alternative": [
+                "moved internally",
+                "didn't seek local help",
+                "prove inability to relocate safely"
+            ],
+            "reasonableness_standard": [
+                "credibility and internal flight assessments fall under reasonableness"
+            ],
+            "risk_of_persecution": [
+                "alleged threats"
+            ],
+            "evidence_assessment": [
+                "lacked evidence"
+            ],
+            "decision_outcome": [
+                "Court upheld the Panel's decision",
+                "dismissing the judicial review application"
+            ],
+            "review_standard": [
+                "correctness for jurisdictional issues",
+                "reasonableness for factual decisions"
+            ]
+        }
+    ]
+}

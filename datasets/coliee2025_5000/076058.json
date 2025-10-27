@@ -1,0 +1,28 @@
+{
+    "Case ID": "076058",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach due to translation errors"
+            ],
+            "translation_quality": [
+                "numerous errors",
+                "mistranslating 'pendiente'"
+            ],
+            "credibility_findings": [
+                "adverse findings affected by errors"
+            ],
+            "decision_outcome": [
+                "judicial review granted"
+            ],
+            "burden_of_proof": [
+                "not explicitly addressed but implied in credibility assessment"
+            ],
+            "review_standard": [
+                "material impact of errors on decision"
+            ]
+        }
+    ]
+}

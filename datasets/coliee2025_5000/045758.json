@@ -1,0 +1,55 @@
+{
+    "Case ID": "045758",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of property obtained by crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "730 days within any five-year period"
+            ],
+            "evidence_provided": [
+                "inconclusive tax filings",
+                "criminal record",
+                "no lease agreements",
+                "no consistent employment"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "applicable_statute": [
+                "IRPA section 28"
+            ],
+            "cause_of_action": [
+                "failure to meet residency obligations"
+            ],
+            "nature_of_offense": [
+                "loss of permanent resident status"
+            ]
+        },
+        {
+            "Crime Name": "Theft",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "permanent residents must reside in Canada for 730 days within a five-year period"
+            ],
+            "credibility_findings": [
+                "inconsistencies and evasive testimony"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "lacked compelling evidence for H&C relief"
+            ],
+            "decision_reasonableness": [
+                "IAD's decision was reasonable and supported by evidence"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; no question certified."
+            ]
+        }
+    ]
+}

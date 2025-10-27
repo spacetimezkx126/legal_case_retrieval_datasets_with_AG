@@ -1,0 +1,63 @@
+{
+    "Case ID": "061931",
+    "Different Crime": [
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "right to a fair hearing",
+                "right to counsel"
+            ],
+            "decision_outcome": [
+                "refusal to postpone",
+                "judicial review granted",
+                "redetermination ordered"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissal of appeal",
+                "allowance of judicial review"
+            ],
+            "standard_of_review": [
+                "natural justice principles"
+            ],
+            "mitigating_factors": [
+                "limited intellect",
+                "serious deportation consequences"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "fair hearing",
+                "right to counsel"
+            ],
+            "decision_made_by": [
+                "Immigration Appeal Division",
+                "Federal Court"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "deportation"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "redetermination ordered"
+            ],
+            "applicable_law_or_regulation": [
+                "Administrative law"
+            ],
+            "parties_involved": [
+                "applicant",
+                "Immigration Appeal Division",
+                "Federal Court"
+            ]
+        }
+    ]
+}

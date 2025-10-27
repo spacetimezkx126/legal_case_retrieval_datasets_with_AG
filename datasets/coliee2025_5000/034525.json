@@ -1,0 +1,32 @@
+{
+    "Case ID": "034525",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide sufficient ties to home country under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.20(1)(b)",
+                "Regulations s.200(1)(b)"
+            ],
+            "immigration_status": [
+                "authorized stay"
+            ],
+            "evidence_assessment": [
+                "inconsistent work history and education",
+                "insufficient documented ties to the Philippines"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "family_class_considerations": [
+                "presence of family in Canada"
+            ],
+            "misrepresentation_or_fraud": [
+                "failure to demonstrate strong ties to the Philippines"
+            ]
+        }
+    ]
+}

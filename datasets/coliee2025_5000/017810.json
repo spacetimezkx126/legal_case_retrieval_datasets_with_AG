@@ -1,0 +1,31 @@
+{
+    "Case ID": "017810",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "overstayed visa",
+                "husband faced misrepresentation charges"
+            ],
+            "immigration_status": [
+                "overstayed visa"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no stay granted"
+            ],
+            "procedural_fairness": [
+                "judicial review application examined irreparable harm and jurisdictional issues"
+            ],
+            "family_class_considerations": [
+                "applicant married and had a child"
+            ],
+            "best_interests_of_children": [
+                "claims harm from family separation"
+            ],
+            "health_grounds_inadmissibility": [
+                "no medical evidence supports psychological harm"
+            ]
+        }
+    ]
+}

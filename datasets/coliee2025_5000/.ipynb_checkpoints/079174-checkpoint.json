@@ -1,0 +1,31 @@
+{
+    "Case ID": "079174",
+    "Different Crime": [
+        {
+            "Crime Name": "overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "serious credibility issue",
+                "adverse credibility findings"
+            ],
+            "procedural_fairness": [
+                "PRRA officer's discretion",
+                "judicial review"
+            ],
+            "evidence_assessment": [
+                "new evidence",
+                "family affidavits lacked probative value"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Court upheld the PRRA decision"
+            ],
+            "criminality_inadmissibility": [
+                "re-entered Canada illegally"
+            ]
+        }
+    ]
+}

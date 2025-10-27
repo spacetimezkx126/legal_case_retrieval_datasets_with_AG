@@ -1,0 +1,29 @@
+{
+    "Case ID": "057191",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "inadequate state protection analysis",
+                "failed to conduct a proper state protection analysis",
+                "did not reference the legal test or presumption of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "lacked transparent reasoning connecting evidence to conclusions"
+            ],
+            "judicial_review_process": [
+                "judicial review under subsection 72(1) of the Immigration and Refugee Protection Act",
+                "assessed the RPD's reasoning and application of legal principles"
+            ],
+            "decision_outcome": [
+                "set aside for re-determination by a different panel",
+                "granted judicial review",
+                "remitted the case for re-determination"
+            ],
+            "burden_of_proof": [],
+            "evidentiary_standard": []
+        }
+    ]
+}

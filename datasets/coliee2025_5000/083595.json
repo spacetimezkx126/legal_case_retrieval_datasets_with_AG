@@ -1,0 +1,35 @@
+{
+    "Case ID": "083595",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "IFA location safety",
+                "reasonable conditions for refuge",
+                "FARC threat concentration",
+                "no adverse conditions jeopardizing safety"
+            ],
+            "risk_of_persecution": [
+                "serious possibility of persecution",
+                "insufficient proof of FARC locating applicant"
+            ],
+            "documentary_evidence": [
+                "Board considered evidence",
+                "applicant's testimony"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed Board's decision"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was reasonable and defensible"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "specific_threats": [
+                "threats from FARC"
+            ]
+        }
+    ]
+}

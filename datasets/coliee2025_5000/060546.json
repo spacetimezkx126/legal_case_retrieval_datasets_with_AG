@@ -1,0 +1,96 @@
+{
+    "Case ID": "060546",
+    "Different Crime": [
+        {
+            "Crime Name": "Acts of violence endangering lives or safety of persons in Canada",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lacked clarity on defining 'terrorism'"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "membership_in_organization": [
+                "MQM-A, an organization linked to terrorism"
+            ],
+            "legal_basis": [
+                "Section 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "standard_of_proof": [
+                "insufficient reasoning"
+            ],
+            "complicity_in_crimes": [
+                "deemed inadmissible due to membership in a terrorist organization"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "inadmissibility_criteria": [
+                "section 34(1)(f)"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "decision_outcome": [
+                "set aside"
+            ],
+            "applicable_law_section": [
+                "Section 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_review_result": [
+                "remitted for reconsideration"
+            ],
+            "evidence_assessment": [
+                "insufficient reasoning on defining terrorism"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act Section 34(1)(f).",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "inadequate reasoning on defining and applying the term 'terrorism'"
+            ],
+            "application_details": [
+                "Mr. Naeem was a member of MQM-A, which was involved in acts of violence from 1988-1999"
+            ],
+            "conclusion_outcome": [
+                "The decision is set aside due to inadequate reasoning"
+            ],
+            "result_of_case": [
+                "The first and second decisions were set aside as patently unreasonable; the case remitted for reconsideration"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Subversion against a democratic government or institution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "section 34(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "inadequate definition of 'terrorism'",
+                "insufficient explanation of subversive acts"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable due to insufficient reasoning"
+            ],
+            "national_security_concerns": [
+                "membership in MQM-A",
+                "alleged subversive activities"
+            ],
+            "judicial_review_process": [
+                "decisions set aside",
+                "challenging admissibility decisions"
+            ]
+        }
+    ]
+}

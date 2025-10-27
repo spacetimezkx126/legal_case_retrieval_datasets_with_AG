@@ -1,0 +1,100 @@
+{
+    "Case ID": "097100",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to be forthcoming and truthful with immigration officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "dismissal of evidence due to perceived inconsistencies"
+            ],
+            "evidence_assessment": [
+                "letters from therapist, spiritual advisor, friend, and partner dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed Officer's reasoning"
+            ],
+            "decision_outcome": [
+                "case remanded for reevaluation by another Officer"
+            ]
+        },
+        {
+            "Crime Name": "Potential risk of persecution or danger upon return to country of origin",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "The standard of review for PRRA decisions is reasonableness, with deference given to officers' expertise. Findings of fact must not be perverse or capricious."
+            ],
+            "documentary_evidence": [
+                "Letters from A.B.'s therapist, spiritual advisor, friend, and partner"
+            ],
+            "evidence_assessment": [
+                "Dismissed due to perceived inconsistencies, interests, and speculation without verifying their contents or allowing A.B. to respond."
+            ],
+            "decision_outcome": [
+                "The application for judicial review is allowed, and the case is referred back for reconsideration by a different Officer."
+            ],
+            "risk_of_persecution": [
+                "Claimed potential persecution in his home country based on sensitive personal information."
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "letters from therapist",
+                "spiritual advisor",
+                "friend",
+                "partner"
+            ],
+            "procedural_fairness": [
+                "dismissal of evidence without thorough reasoning",
+                "no opportunity to address concerns"
+            ],
+            "judicial_authority": [
+                "PRRA Officer"
+            ],
+            "material_misrepresentation": [
+                "perceived inconsistencies or conflicts of interest"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "judicial review of PRRA decision"
+            ],
+            "nature_of_offense": [
+                "fraud"
+            ]
+        },
+        {
+            "Crime Name": "Using aliases",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "dismissal of letters from therapist, spiritual advisor, friend, and partner"
+            ],
+            "decision_reasoning": [
+                "errors in dismissing evidence",
+                "premature dismissal of referees' evidence"
+            ],
+            "application_details": [
+                "judicial review",
+                "reconsideration by a different Officer"
+            ],
+            "result_of_case": [
+                "remanded for reconsideration"
+            ],
+            "cause_of_action": [
+                "protection against removal based on sensitive personal information"
+            ]
+        }
+    ]
+}

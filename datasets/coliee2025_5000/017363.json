@@ -1,0 +1,26 @@
+{
+    "Case ID": "017363",
+    "Different Crime": [
+        {
+            "Crime Name": "Naturalization Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days in the last four years",
+                "physical presence test"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "insufficient proof of physical presence (161 days)"
+            ],
+            "legal_basis": [
+                "Citizenship Act, R.S.C. 1985, c. C-29, sect. 5(1)(c)",
+                "Citizenship Act section 14(5)"
+            ]
+        }
+    ]
+}

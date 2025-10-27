@@ -1,0 +1,37 @@
+{
+    "Case ID": "080645",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement and Misleading Advertising",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "claim_nature": [
+                "trademark infringement",
+                "misleading advertising"
+            ],
+            "judicial_authority": [
+                "summary judgment"
+            ],
+            "evidence_provided": [
+                "affidavits",
+                "cross-examinations"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "proceeds to trial"
+            ],
+            "confusion_likelihood": [
+                "genuine issues for trial"
+            ],
+            "distinctiveness_evaluation": [
+                "resemblance to Lego's design"
+            ],
+            "expert_testimony": [],
+            "legal_basis": [
+                "sections 7(b), 7(d), and 22 of the Trade-marks Act"
+            ]
+        }
+    ]
+}

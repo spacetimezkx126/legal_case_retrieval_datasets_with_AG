@@ -1,0 +1,34 @@
+{
+    "Case ID": "074684",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "patent law"
+            ],
+            "decision_outcome": [
+                "no infringement",
+                "patents declared invalid"
+            ],
+            "procedural_fairness": [
+                "expert testimonies",
+                "claim constructions",
+                "analysis of prior art"
+            ],
+            "applicable_statute": [
+                "novelty",
+                "non-obviousness",
+                "proper construction of claims"
+            ],
+            "technical_details": [
+                "GIS assemblies",
+                "inspection windows",
+                "combining components into one compartment"
+            ],
+            "expert_testimony": [
+                "yes"
+            ]
+        }
+    ]
+}

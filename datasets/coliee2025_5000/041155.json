@@ -1,0 +1,60 @@
+{
+    "Case ID": "041155",
+    "Different Crime": [
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "lack of corroboration",
+                "cultural context"
+            ],
+            "state_protection_analysis": [
+                "challenges in accessing state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable plausibility findings"
+            ],
+            "risk_of_persecution": [
+                "domestic violence",
+                "forced marriage"
+            ],
+            "country_conditions": [
+                "Namibia"
+            ],
+            "refugee_status_nexus": [
+                "fled domestic violence and forced marriage"
+            ],
+            "procedural_fairness": [
+                "Board's decision is unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Human Rights Violations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "lack of corroboration",
+                "implausibility"
+            ],
+            "state_protection": [
+                "belief in state protection"
+            ],
+            "internal_flight_alternative": [],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_process": [
+                "assessed the Board's decision"
+            ],
+            "burden_of_proof": [
+                "claimant must prove they are a Convention refugee or person in need of protection"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "cultural barriers"
+            ],
+            "decision_outcome": [
+                "application for judicial review is granted",
+                "case is referred back for reconsideration"
+            ]
+        }
+    ]
+}

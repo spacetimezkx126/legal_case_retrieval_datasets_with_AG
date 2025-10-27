@@ -1,0 +1,54 @@
+{
+    "Case ID": "008535",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "adequate reasons",
+                "opportunity to respond"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in ages, identities, and relationships",
+                "interviews",
+                "field investigations",
+                "discrepancies between oral testimony and submitted evidence"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "officer's decision was reasonable and supported by evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "misrepresentation_or_fraud": [
+                "claimed ages, identities, and relationships were inconsistent with documentary evidence and testimonies"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "adequate reasons",
+                "opportunity to respond"
+            ],
+            "evidence_provided": [
+                "inconsistencies in ages, identities, and relationships",
+                "interviews",
+                "field investigations",
+                "documentary evidence",
+                "oral testimony"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA) s. 11(1)"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "officer's decision was reasonable and supported by evidence"
+            ],
+            "judicial_authority": [
+                "judicial review analyzed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Case ID": "019543",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "vacated due to misrepresentation"
+            ],
+            "misrepresentation_or_fraud": [
+                "false statements about location and circumstances"
+            ],
+            "evidence_assessment": [
+                "new fingerprint evidence"
+            ],
+            "decision_outcome": [
+                "refugee status annulled",
+                "judicial review application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

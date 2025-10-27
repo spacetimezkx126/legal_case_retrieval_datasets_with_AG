@@ -1,0 +1,33 @@
+{
+    "Case ID": "043539",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IPP",
+                "collective agreements"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_reasoning": [
+                "reliance on inapplicable provisions",
+                "failure to consider key sections"
+            ],
+            "relevant_statute": [
+                "Section 2.7.3",
+                "Section 2.1"
+            ],
+            "procedure_followed": [
+                "PCA grievance process",
+                "adjudication",
+                "judicial review"
+            ],
+            "result_of_case": [
+                "Federal Court quashed the decision",
+                "case remanded for reevaluation"
+            ]
+        }
+    ]
+}

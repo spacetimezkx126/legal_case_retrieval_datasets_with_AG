@@ -1,0 +1,33 @@
+{
+    "Case ID": "005770",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "request for document production"
+            ],
+            "specific_rule_applied": [
+                "Federal Courts Rules, Rule 91(2)(c)",
+                "Rule 107"
+            ],
+            "procedure_steps": [
+                "cross-examination of an affidavit",
+                "motion brought before the Federal Court"
+            ],
+            "decision_reasoning": [
+                "request akin to a fishing expedition",
+                "undermines upcoming motion",
+                "exceeds summary nature of applications"
+            ],
+            "result_of_case": [
+                "motion dismissed",
+                "costs awarded to Hofmann"
+            ],
+            "evidence_type": [
+                "financial statements",
+                "monthly operating cost reports"
+            ]
+        }
+    ]
+}

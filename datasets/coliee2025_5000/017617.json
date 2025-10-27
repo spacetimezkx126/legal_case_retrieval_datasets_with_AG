@@ -1,0 +1,38 @@
+{
+    "Case ID": "017617",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "inadequate interpretation services",
+                "translation issues"
+            ],
+            "evidence_assessment": [
+                "certified translator's affidavit",
+                "critical errors impacting communication"
+            ],
+            "decision_reasoning": [
+                "serious interpretation errors can invalidate a decision",
+                "without proving material prejudice"
+            ],
+            "result_of_case": [
+                "application is allowed",
+                "Board's decision is quashed",
+                "case referred back for re-determination"
+            ],
+            "specific_rule_applied": [
+                "subsection 72(1)"
+            ],
+            "procedure_followed": [
+                "judicial review under IRPA"
+            ],
+            "conclusion_outcome": [
+                "re-hearing with proper interpretation services"
+            ]
+        }
+    ]
+}

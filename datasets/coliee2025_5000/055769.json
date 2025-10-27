@@ -1,0 +1,33 @@
+{
+    "Case ID": "055769",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "relevance",
+                "necessity",
+                "absence of exclusionary rules",
+                "proper qualification"
+            ],
+            "expert_testimony": [
+                "qualified due to extensive experience",
+                "report summarizes factual evidence",
+                "lacks technical insights"
+            ],
+            "decision_reasoning": [
+                "not necessary for the court to understand the issues"
+            ],
+            "application_details": [
+                "Plaintiffs sought to qualify Mr. Hobbs as an expert witness"
+            ],
+            "procedure_followed": [
+                "court evaluated qualifications and necessity using legal criteria"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "evidence deemed unnecessary and inadmissible"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "050882",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "adverse credibility",
+                "plausibility findings"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                "implausible inferences",
+                "not adequately supported by evidence or reasoning"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is allowed",
+                "case is returned to the Board for reconsideration"
+            ],
+            "cause_of_action": [
+                "fear of FGM",
+                "refugee status"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed the Board's decision",
+                "focus on credibility and plausibility findings"
+            ],
+            "result_of_case": [
+                "remanded for reconsideration",
+                "errors in the Board's assessment"
+            ]
+        }
+    ]
+}

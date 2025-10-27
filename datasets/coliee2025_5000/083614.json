@@ -1,0 +1,49 @@
+{
+    "Case ID": "083614",
+    "Different Crime": [
+        {
+            "Crime Name": "Security Clearance Revocation",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "Yes"
+            ],
+            "standard_of_proof": [
+                "Balance of probabilities"
+            ],
+            "evidence_quality": [
+                "Hearsay information from law enforcement deemed sufficient"
+            ],
+            "decision_outcome": [
+                "Revocation upheld"
+            ],
+            "judicial_review_result": [
+                "Dismissed"
+            ],
+            "reasoning_given": [
+                "Allegations not refuted by Mr. MacDonnell"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "yes"
+            ],
+            "balance_of_probabilities": [
+                "applied"
+            ],
+            "evidence_sufficiency": [
+                "insufficient counter-evidence from Mr. MacDonnell"
+            ],
+            "security_clearance": [
+                "revoked"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "civil aviation interference laws"
+            ]
+        }
+    ]
+}

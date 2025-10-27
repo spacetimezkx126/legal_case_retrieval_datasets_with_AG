@@ -1,0 +1,30 @@
+{
+    "Case ID": "010167",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "application to rescind an ex parte order"
+            ],
+            "specific_rule_applied": [
+                "Federal Court Rule 332(1)"
+            ],
+            "procedure_followed": [
+                "parties asked the court to determine if the rescission application was interlocutory",
+                "court reviewed relevant case law and dictionary definitions"
+            ],
+            "decision_reasoning": [
+                "application to rescind was not an interlocutory application"
+            ],
+            "result_of_case": [
+                "rescission application was not interlocutory",
+                "supporting affidavit could not be used",
+                "no costs were awarded"
+            ],
+            "relevant_statute": [
+                "Federal Court Rule 332(1)"
+            ]
+        }
+    ]
+}

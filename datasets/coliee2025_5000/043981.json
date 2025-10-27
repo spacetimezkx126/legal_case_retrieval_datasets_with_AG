@@ -1,0 +1,63 @@
+{
+    "Case ID": "043981",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "not credible regarding her membership in an underground church"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to religious persecution"
+            ],
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "standard_of_review": [
+                "credibility findings are reviewed for patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed, case referred for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case referred for redetermination"
+            ],
+            "procedural_fairness": [
+                "credibility findings reviewed for patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "IRPA subsection 72(1)"
+            ],
+            "party_involved": [
+                "applicant",
+                "Board"
+            ],
+            "claim_nature": [
+                "refugee status claim"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "persecution_details": [
+                "religious persecution as a member of an underground Christian church in China"
+            ],
+            "nexus_to_convention_grounds": [
+                "well-founded fear of persecution based on religion"
+            ],
+            "relationship_genuineness": [
+                "membership in an underground church"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        }
+    ]
+}

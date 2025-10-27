@@ -1,0 +1,29 @@
+{
+    "Case ID": "070773",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Procedural fairness requires disclosure of concerns to allow applicants to respond",
+                "The Officer reviewed publicly available SSO information, which did not require disclosure under procedural fairness",
+                "No breach of procedural fairness occurred"
+            ],
+            "evidence_assessment": [
+                "The Officer expressed concerns about SSO contributions and requested corroborating evidence",
+                "The Applicant provided a letter stating he was exempt from SSO contributions but offered no additional proof",
+                "The Officer’s decision was reasonable based on the evidence provided"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no intervention warranted"
+            ],
+            "immigration_status": [
+                "Applicant's PR application was refused due to insufficient evidence of work experience"
+            ],
+            "standard_of_review": [
+                "Judicial review under IRPA subsection 72(1)"
+            ]
+        }
+    ]
+}

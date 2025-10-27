@@ -1,0 +1,50 @@
+{
+    "Case ID": "028461",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s.40(1)a of IRPA"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraudulent school records"
+            ],
+            "material_misrepresentation": [
+                "age and family relationships not in doubt"
+            ],
+            "decision_outcome": [
+                "set aside due to reviewable error",
+                "referred back for re-determination"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed Visa Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent document submission",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "misrepresented facts"
+            ],
+            "applicable_statute": [
+                "s.40(1)a of IRPA"
+            ],
+            "judicial_authority": [
+                "Visa Officer"
+            ],
+            "decision_outcome": [
+                "rejected"
+            ],
+            "evidence_provided": [
+                "fraudulent school records"
+            ],
+            "standard_of_review": [
+                "materiality"
+            ],
+            "appeal_outcome": [
+                "overturned"
+            ]
+        }
+    ]
+}

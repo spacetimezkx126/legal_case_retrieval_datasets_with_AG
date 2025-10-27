@@ -1,0 +1,58 @@
+{
+    "Case ID": "087992",
+    "Different Crime": [
+        {
+            "Crime Name": "First degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Act (CCRA)",
+                "Federal Courts Act s.18.1"
+            ],
+            "procedural_fairness": [
+                "CSC followed proper procedures",
+                "reliable sources considered",
+                "relevant factors considered"
+            ],
+            "reasonableness_of_decision": [
+                "Senior Deputy Commissioner's decision was reasonable"
+            ],
+            "evidence_consideration": [
+                "offense severity",
+                "sentence length"
+            ],
+            "criminal_history": [
+                "maximum security classification"
+            ],
+            "standard_of_proof": [
+                "information about offenders must be accurate, up-to-date, and complete"
+            ]
+        },
+        {
+            "Crime Name": "Grievance process challenge",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Sections 23, 24, and 30 of the Corrections and Conditional Release Act (CCRA)",
+                "Section 18 of the Corrections and Conditional Release Regulations",
+                "s.18.1 of the Federal Courts Act"
+            ],
+            "decision_reasoning": [
+                "Senior Deputy Commissioner's decision was reasonable",
+                "no significant errors affecting the classification decision"
+            ],
+            "application_details": [
+                "applicant argued that his maximum security classification was based on false information"
+            ],
+            "procedure_followed": [
+                "CSC followed proper procedures, using reliable sources for classification",
+                "Judicial review under s.18.1 of the Federal Courts Act"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "upholding the Senior Deputy Commissioner's decision"
+            ],
+            "conclusion_outcome": [
+                "application is dismissed"
+            ]
+        }
+    ]
+}

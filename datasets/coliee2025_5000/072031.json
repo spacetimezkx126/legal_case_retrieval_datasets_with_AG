@@ -1,0 +1,59 @@
+{
+    "Case ID": "072031",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "credibility_findings": [
+                "alibi implausible"
+            ],
+            "procedural_fairness": [
+                "Bangladeshi court's conviction",
+                "Amnesty International’s assessment of fair trials"
+            ],
+            "standard_of_proof": [
+                "serious reasons for considering"
+            ],
+            "risk_assessment": [
+                "participated in a coup involving brutal killings"
+            ],
+            "past_criminal_convictions": [
+                "convicted in absentia for involvement in a 1975 military coup"
+            ],
+            "refugee_status_nexus": [
+                "excluded from Convention refugee status"
+            ],
+            "reasonableness_of_decision": [
+                "did not err in law"
+            ]
+        },
+        {
+            "Crime Name": "Crime against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(a)",
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "crime against humanity",
+                "serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "systematic killings",
+                "political motives deemed disproportionate and non-political"
+            ],
+            "procedural_fairness": [
+                "judicial review under IRPA"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "021664",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "proper disclosure",
+                "witness handling",
+                "no bias"
+            ],
+            "decision_reasonableness": [
+                "reasonableness standard",
+                "evidence presented"
+            ],
+            "cause_of_action": [
+                "abuse of authority",
+                "racism",
+                "nepotism"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "standards of correctness and reasonableness"
+            ],
+            "result_details": [
+                "application dismissed",
+                "no order for costs"
+            ]
+        }
+    ]
+}

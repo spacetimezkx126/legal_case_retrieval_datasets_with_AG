@@ -1,0 +1,31 @@
+{
+    "Case ID": "006556",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistencies",
+                "discounted psychological evidence"
+            ],
+            "state_protection": [
+                "assessed",
+                "failure to report attacks",
+                "available state protection"
+            ],
+            "decision_reasoning": [
+                "overemphasis on minor inconsistencies",
+                "referred back for redetermination"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act",
+                "subsection 72(1)"
+            ],
+            "result_of_case": [
+                "application for judicial review allowed",
+                "redetermination by a different panel"
+            ]
+        }
+    ]
+}

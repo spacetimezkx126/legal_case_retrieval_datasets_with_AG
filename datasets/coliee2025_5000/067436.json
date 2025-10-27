@@ -1,0 +1,34 @@
+{
+    "Case ID": "067436",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "domestic violence",
+                "internal flight alternative",
+                "state protection"
+            ],
+            "decision_reasoning": [
+                "insufficient evidence",
+                "Moldova addressing domestic violence",
+                "no rebuttal of state protection presumption"
+            ],
+            "risk_of_persecution": [
+                "domestic violence"
+            ],
+            "conclusion_outcome": [
+                "no reviewable error",
+                "application dismissed"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "PRRA Officer's decision upheld"
+            ]
+        }
+    ]
+}

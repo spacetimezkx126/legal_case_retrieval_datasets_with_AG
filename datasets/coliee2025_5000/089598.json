@@ -1,0 +1,40 @@
+{
+    "Case ID": "089598",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "BC Crown",
+                "maritime claim"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act (FCA)",
+                "Marine Liability Act (MLA)"
+            ],
+            "application_details": [
+                "ownership transfer under provincial law",
+                "federal maritime jurisdiction"
+            ],
+            "decision_reasoning": [
+                "not plain and obvious that Federal Court lacks jurisdiction"
+            ],
+            "result_of_case": [
+                "motion to strike dismissed",
+                "Federal Court retains jurisdiction"
+            ],
+            "cause_of_action": [
+                "recovery of remediation costs",
+                "pollution from a sunken ship"
+            ],
+            "procedure_followed": [
+                "BC Crown moved to strike claims",
+                "Prothonotary assessed statutory grants of jurisdiction"
+            ],
+            "statutory_interpretation": [
+                "principles of statutory interpretation govern jurisdiction"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "035205",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "inadequate reasons",
+                "unclear residency compliance"
+            ],
+            "procedural_fairness": [
+                "minimal reasons",
+                "review for reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "case remanded for re-determination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "discrepancies in employment history"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "098164",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "PIPEDA"
+            ],
+            "cause_of_action": [
+                "access request for personal emails"
+            ],
+            "application_details": [
+                "Bell Canada conducted a focused search for business-related emails concerning Mr. Johnson but did not search for personal emails"
+            ],
+            "decision_reasoning": [
+                "personal emails are not subject to the Act unless collected for business purposes"
+            ],
+            "result_of_case": [
+                "Court dismissed Mr. Johnson's application"
+            ],
+            "relevant_statute": [
+                "PIPEDA"
+            ]
+        }
+    ]
+}

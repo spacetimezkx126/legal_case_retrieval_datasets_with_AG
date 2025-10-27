@@ -1,0 +1,57 @@
+{
+    "Case ID": "029817",
+    "Different Crime": [
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "fair hearing",
+                "lawyer's incompetence"
+            ],
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "gender_related_persecution_guidelines": [
+                "domestic violence as a gender-based claim"
+            ],
+            "state_protection_analysis": [
+                "failure to seek state protection"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "refugee_status_nexus": [
+                "relationship with abuser started in Canada, not Namibia"
+            ],
+            "reasonableness_of_decision": [
+                "no extraordinary incompetence by the lawyer or miscarriage of justice"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report a crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian immigration law"
+            ],
+            "state_protection": [
+                "lack of state protection",
+                "Namibian police"
+            ],
+            "decision_reasoning": [
+                "failure to report was not excusable"
+            ],
+            "application_details": [
+                "did not report assaults and threats by her uncle"
+            ],
+            "conclusion_outcome": [
+                "claim was reasonably dismissed"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed counsel competence and state protection arguments"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

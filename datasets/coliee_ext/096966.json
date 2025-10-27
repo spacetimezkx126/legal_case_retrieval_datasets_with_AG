@@ -1,0 +1,50 @@
+{
+    "Case ID": "096966",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to provide state protection",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee claim involving state protection",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act (IRPA)",
+            "Outcome": "RPD decision upheld by the Court",
+            "Grounds_for_Claim": "Persecution due to Roma ethnicity",
+            "Remedy_Requested": "Refugee status in Canada"
+        },
+        {
+            "Crime_Name": "Incitement to hatred",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee claim challenging state protection",
+            "Sub_Crime_Type": "Hate-based persecution",
+            "Perpetrator_Type": "State actors and non-state actors",
+            "Victim_Status": "Roma family",
+            "Location_of_Incident": "Hungary"
+        },
+        {
+            "Crime_Name": "Persecution based on race",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee protection claim",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act (IRPA)",
+            "Outcome": "RPD decision affirmed on judicial review",
+            "Grounds_for_Claim": "Systemic discrimination and violence due to Roma ethnicity",
+            "Remedy_Requested": "Granting of refugee status"
+        },
+        {
+            "Crime_Name": "Racial discrimination",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee status determination",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act (IRPA)",
+            "Outcome": "Judicial review dismissed; RPD decision upheld",
+            "Grounds_for_Discrimination": "Race (Roma ethnicity)",
+            "Protected_Group": "Roma community"
+        },
+        {
+            "Crime_Name": "Unknown",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Judicial review of administrative decision",
+            "Legal_Issue": "Reasonableness of RPD's state protection assessment",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review",
+            "Decision_Outcome": "Application for judicial review dismissed"
+        }
+    ]
+}

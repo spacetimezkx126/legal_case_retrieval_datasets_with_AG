@@ -1,0 +1,32 @@
+{
+    "Case ID": "048558",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Trademarks Act",
+                "sections 6(5)",
+                "38(2)(d)"
+            ],
+            "confusion_likelihood": [
+                "confusingly similar",
+                "not confusing"
+            ],
+            "distinctiveness_evaluation": [
+                "inherently stronger"
+            ],
+            "appeal_outcome": [
+                "dismissed",
+                "unsuccessful"
+            ],
+            "cause_of_action": [
+                "opposition to registration"
+            ],
+            "evidence_provided": [
+                "state of the register",
+                "market evidence"
+            ]
+        }
+    ]
+}

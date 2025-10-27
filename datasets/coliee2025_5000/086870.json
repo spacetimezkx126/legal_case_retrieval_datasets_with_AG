@@ -1,0 +1,28 @@
+{
+    "Case ID": "086870",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Section 28.3 of the Patent Act"
+            ],
+            "patent_validity": [
+                "not invalid due to obviousness"
+            ],
+            "expert_testimony": [
+                "complex and not routine",
+                "obvious based on prior art"
+            ],
+            "decision_outcome": [
+                "granted AstraZeneca's application"
+            ],
+            "legal_basis": [
+                "'obvious to try' test"
+            ],
+            "cause_of_action": [
+                "allegation of patent invalidity due to obviousness"
+            ]
+        }
+    ]
+}

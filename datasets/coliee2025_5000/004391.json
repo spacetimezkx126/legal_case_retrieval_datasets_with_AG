@@ -1,0 +1,56 @@
+{
+    "Case ID": "004391",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "adverse credibility findings",
+                "contradictions and implausibilities",
+                "selective memory",
+                "lack of documentation"
+            ],
+            "procedural_fairness": [
+                "breach natural justice principles",
+                "Board's jurisdiction to assess credibility",
+                "no breach of natural justice"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to persecution",
+                "lacked credible evidence"
+            ],
+            "decision_outcome": [
+                "Application denied",
+                "Board's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "contradictions",
+                "implausibilities",
+                "lack_of_corroborative_documents",
+                "inconsistent_testimony"
+            ],
+            "procedural_fairness": [
+                "natural_justice_principles",
+                "patent_unreasonableness"
+            ],
+            "refugee_status_nexus": [
+                "persecution_as_wife_of_military_member"
+            ],
+            "evidence_consideration": [
+                "failed_to_provide_credible_evidence"
+            ],
+            "legal_basis": [
+                "judicial_review_application_under_IRPA_section_72(1)",
+                "Federal_Court_reviews_Board_decisions_for_patent_unreasonableness"
+            ],
+            "humanitarian_concerns": []
+        }
+    ]
+}

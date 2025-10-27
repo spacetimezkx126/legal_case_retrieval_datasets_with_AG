@@ -1,0 +1,50 @@
+{
+    "Case ID": "091543",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Provide Adequate Protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_assessment": [
+                "Gender Guidelines"
+            ],
+            "state_protection_analysis": [
+                "inadequate state protection in St. Vincent"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration by a different panel"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to sexual assault"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "gender_related_persecution_guidelines": [
+                "Gender Guidelines"
+            ],
+            "credibility_findings": [
+                "implausibilities"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "applicant_characteristics": [
+                "age",
+                "societal norms"
+            ],
+            "risk_of_persecution": [
+                "sexual assault by her mother's partner"
+            ]
+        }
+    ]
+}

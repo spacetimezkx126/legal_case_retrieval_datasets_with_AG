@@ -1,0 +1,26 @@
+{
+    "Case ID": "022777",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Inadmissibility",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demand for health services"
+            ],
+            "evidence_assessment": [
+                "incomplete medical evidence",
+                "failure to consider financial resources"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "regulatory_compliance": [
+                "IRPA regulations"
+            ]
+        }
+    ]
+}

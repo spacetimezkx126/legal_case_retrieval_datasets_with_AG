@@ -1,0 +1,32 @@
+{
+    "Case ID": "029840",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "regulatory_compliance": [
+                "adaptability",
+                "arranged employment",
+                "education"
+            ],
+            "immigration_status": [
+                "skilled worker application"
+            ],
+            "document_authenticity": [
+                "issues with documentation"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "fairness and statutory interpretation"
+            ],
+            "misrepresentation_or_fraud": [
+                "work without a permit"
+            ]
+        }
+    ]
+}

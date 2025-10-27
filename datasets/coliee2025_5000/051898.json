@@ -1,0 +1,75 @@
+{
+    "Case ID": "051898",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration non-compliance",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 48 of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "reasonableness of the decision"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "criminality_inadmissibility": [
+                "criminal convictions"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Criminal harassment",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act section 48"
+            ],
+            "procedural_fairness": [
+                "reasonableness simpliciter"
+            ],
+            "family_ties": [],
+            "past_criminal_convictions": [
+                "permanent resident with criminal convictions"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "reasonableness_of_decision": [
+                "Enforcement Officer's decision was reasonable given the evidence provided"
+            ]
+        },
+        {
+            "Crime Name": "Mischief",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 48 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "lack of compelling evidence justifying delay beyond existing accommodations"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "application_details": [
+                " Applicant, a Guyanese citizen with a criminal record, sought deferral for family court and medical reasons"
+            ],
+            "conclusion_outcome": [
+                "Enforcement Officer's decision was reasonable; the application for judicial review is dismissed"
+            ],
+            "cause_of_action": [
+                "Applicant challenged refusal to defer removal order citing family and medical reasons"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed; mootness raised but merits addressed"
+            ],
+            "result_of_case": [
+                "Application dismissed; no question certified"
+            ]
+        }
+    ]
+}

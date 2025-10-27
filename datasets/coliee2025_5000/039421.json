@@ -1,0 +1,31 @@
+{
+    "Case ID": "039421",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act",
+                "sections 22.1 and 22.2 of the Citizenship Act"
+            ],
+            "residency_requirements": [
+                "residence threshold",
+                "Koo test"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "decision quashed",
+                "remanded to the Minister"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "material_misrepresentation": [
+                "alleged errors in residency assessment"
+            ],
+            "regulatory_compliance": [
+                "Citizenship Judge's assessment"
+            ]
+        }
+    ]
+}

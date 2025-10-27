@@ -1,0 +1,158 @@
+{
+    "Case ID": "079520",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim Process",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Articles 1F(a) and 1F(c) of the Convention",
+                "IRPA"
+            ],
+            "exclusion_reason": [
+                "crimes against humanity",
+                "acts contrary to UN principles",
+                "LTTE membership"
+            ],
+            "credibility_findings": [
+                "inconsistent statements"
+            ],
+            "decision_outcome": [
+                "case remitted for re-determination"
+            ],
+            "burden_of_proof": [
+                "insufficient evidence of complicity"
+            ],
+            "specific_group_membership": [
+                "LTTE"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "evidence_assessment": [
+                "minor roles without evidence of active participation"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Violence-related_Crimes",
+            "exclusion_reason": [
+                "complicity in crimes against humanity",
+                "acts contrary to UN principles"
+            ],
+            "membership_in_organization": [
+                "LTTE"
+            ],
+            "complicity_in_crimes": [
+                "insufficient evidence of direct involvement"
+            ],
+            "credibility_findings": [
+                "RPD's credibility assessment"
+            ],
+            "legal_basis": [
+                "Article 1F(a) and (c) of the UN Convention",
+                "section 97 of IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "RPD erred in equating membership with complicity"
+            ],
+            "applicant_involvement": [
+                "minor role",
+                "lack of evidence linking to specific crimes"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a Terrorist Organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "LTTE"
+            ],
+            "refugee_status_claim": [
+                "excluded under Article 1F(c)"
+            ],
+            "credibility_findings": [
+                "conflicting statements about LTTE membership and persecution claims"
+            ],
+            "reasonableness_of_decision": [
+                "RPD erred in equating membership with complicity without sufficient evidence"
+            ],
+            "judicial_review_result": [
+                "Judicial review allowed; case remitted to RPD for reassessment of refugee claim under s. 97 of IRPA"
+            ],
+            "applicable_law_section": [
+                "s. 97 of IRPA",
+                "Article 1F(c)"
+            ],
+            "evidence_provided": [
+                "Applicant's admission at entry"
+            ],
+            "decision_outcome": [
+                "case remitted to RPD for re-determination"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(a)",
+                "Article 1F(c)"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity",
+                "acts contrary to UN principles"
+            ],
+            "credibility_findings": [
+                "insufficient evidence of direct involvement"
+            ],
+            "specific_legal_test_application": [
+                "membership in organization",
+                "shared objectives or knowledge of crimes"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remanded for re-determination"
+            ],
+            "burden_of_proof": [
+                "linking applicant to specific crimes"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes Against Humanity",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Article 1F(a)",
+                "Article 1F(c) of the UN Convention",
+                "section 97 of IRPA"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity",
+                "acts contrary to UN principles"
+            ],
+            "credibility_findings": [
+                "insufficient evidence linking him to specific crimes"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed the RPD's decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review was allowed",
+                "matter was remitted for re-determination"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "claimant_burden": [
+                "lacked evidence of direct involvement in atrocities"
+            ],
+            "relevant_factors": [
+                "membership in LTTE",
+                "played a minor role"
+            ],
+            "refugee_protection": [
+                "excluded from refugee protection"
+            ],
+            "complicity_determination": [
+                "equated membership with complicity without proving shared objectives or knowledge of crimes"
+            ]
+        }
+    ]
+}

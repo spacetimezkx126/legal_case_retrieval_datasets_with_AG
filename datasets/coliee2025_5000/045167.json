@@ -1,0 +1,178 @@
+{
+    "Case ID": "045167",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Irregularities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "sexual abuse",
+                "lack of state protection"
+            ],
+            "state_protection_analysis": [
+                "unfounded fear",
+                "ignoring expert evidence"
+            ],
+            "procedural_fairness": [
+                "procedural errors",
+                "assessment of subjective fear"
+            ],
+            "evidence_assessment": [
+                "expert evidence on 'normalizing' abuse",
+                "status as a minor"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "claim_nature": [
+                "Sexual abuse",
+                "Threats to life"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "standard_of_review": [
+                "Reasonableness simpliciter"
+            ],
+            "expert_testimony": [
+                "Normalization of incest"
+            ],
+            "state_protection": [
+                "Unavailable due to fear and shame"
+            ],
+            "decision_outcome": [
+                "Set aside"
+            ],
+            "procedural_fairness": [
+                "Issues identified"
+            ],
+            "risk_characterization": [
+                "Well-founded fear of persecution"
+            ],
+            "relationship_genuineness": [
+                "Stepfather-daughter relationship"
+            ],
+            "appeal_outcome": [
+                "Remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Marital Abuse",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "fear of persecution"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection",
+                "inadequate response from authorities"
+            ],
+            "credibility_findings": [
+                "delayed reporting",
+                "lack of efforts to seek help"
+            ],
+            "procedural_fairness": [
+                "Board's decision was unreasonable",
+                "failed to address key arguments"
+            ],
+            "gender_related_persecution_guidelines": [
+                "expert evidence on 'normalizing' abuse"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "Convention refugee or person in need of protection"
+            ],
+            "humanitarian_concerns": [
+                "sexual abuse by stepfather",
+                "family violence"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "well-founded fear of persecution",
+                "lack of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision",
+                "ignored expert evidence",
+                "procedural fairness issues"
+            ],
+            "judicial_review_result": [
+                "decision set aside",
+                "case sent back for reconsideration"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "abuse by stepfather",
+                "threats to life if reported"
+            ],
+            "standard_of_proof": [
+                "reasonableness simpliciter"
+            ],
+            "evidence_assessment": [
+                "expert evidence on normalizing incest"
+            ],
+            "decision_outcome": [
+                "Board's decision dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing Justice",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "evidence_assessment": [
+                "normalizing abuse",
+                "applicant's credibility"
+            ],
+            "expert_testimony": [
+                "normalizing abuse"
+            ],
+            "decision_reasonableness": [
+                "Board's decision was unreasonable"
+            ],
+            "refugee_status": [
+                "claimed refugee status"
+            ],
+            "state_protection": [
+                "lack of state protection in Jamaica"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Board's decision"
+            ],
+            "result_of_case": [
+                "application succeeded",
+                "Board's decision was set aside for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Human Smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "failure to consider applicant's status as a minor",
+                "unaddressed expert evidence"
+            ],
+            "state_protection": [
+                "lack of state protection in Jamaica"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "judicial_review_process": [
+                "Judicial review analyzed the Board's decision"
+            ],
+            "decision_outcome": [
+                "application succeeded",
+                "Board's decision set aside for reconsideration"
+            ]
+        }
+    ]
+}

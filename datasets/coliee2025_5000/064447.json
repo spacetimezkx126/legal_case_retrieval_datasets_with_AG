@@ -1,0 +1,29 @@
+{
+    "Case ID": "064447",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "CAIPs notes",
+                "visa officer's notes"
+            ],
+            "procedural_fairness": [
+                "affidavit attesting to truth",
+                "evidentiary value"
+            ],
+            "decision_reasoning": [
+                "contradicted applicant's business plan",
+                "lack of evidentiary support"
+            ],
+            "cause_of_action": [
+                "judicial review",
+                "visa refusal"
+            ],
+            "result_of_case": [
+                "decision overturned",
+                "allowed time for certification consideration"
+            ]
+        }
+    ]
+}

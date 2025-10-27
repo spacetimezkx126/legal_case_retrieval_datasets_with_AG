@@ -1,0 +1,89 @@
+{
+    "Case ID": "047563",
+    "Different Crime": [
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "alleged bias and procedural unfairness in procurement process"
+            ],
+            "material_misrepresentation": [
+                "Sikorsky's alleged misrepresentation of its ability to meet the 48-month delivery deadline"
+            ],
+            "decision_outcome": [
+                "motion dismissed"
+            ],
+            "relevance": [
+                "internal Sikorsky information not disclosed to the Minister is irrelevant to his decision-making process"
+            ],
+            "evidence_provided": [
+                "questions and documents must be legally relevant"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Misrepresentation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Federal Court can set aside a decision if it was obtained by fraud or perjured evidence"
+            ],
+            "standard_of_proof": [
+                "Fraud must be explicitly pleaded and cannot be inferred"
+            ],
+            "procedural_fairness": [
+                "Applicant claimed Minister acted with bias and violated legal obligations"
+            ],
+            "evidence_consideration": [
+                "Court dismissed the motion, ruling that internal Sikorsky information was not relevant to the Minister's decision"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "alleged bias and procedural unfairness in the procurement process"
+            ],
+            "evidence_provided": [
+                "internal Sikorsky information not disclosed to the Minister"
+            ],
+            "decision_making_process": [
+                "Minister's decision-making process"
+            ],
+            "reasoning_given": [
+                "internal Sikorsky information not submitted to the Minister is irrelevant to the judicial review"
+            ],
+            "court_ruling": [
+                "motion dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Misrepresentation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Federal Court can set aside a decision if it was obtained by fraud or perjured evidence"
+            ],
+            "procedural_fairness": [
+                "Minister's decision-making process",
+                "Applicant claimed Minister acted with bias"
+            ],
+            "evidence_considered": [
+                "Sikorsky allegedly misrepresented its ability to deliver within 48 months",
+                "questions and documents sought are not legally relevant"
+            ],
+            "decision_outcome": [
+                "Court dismissed the motion"
+            ],
+            "claimant_burden": [
+                "Applicant did not plead fraud explicitly"
+            ],
+            "relevant_factors": [
+                "internal Sikorsky information was not relevant to the Minister's decision"
+            ]
+        }
+    ]
+}

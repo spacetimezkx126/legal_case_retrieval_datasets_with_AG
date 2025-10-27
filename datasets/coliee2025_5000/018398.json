@@ -1,0 +1,44 @@
+{
+    "Case ID": "018398",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "patent invalidity",
+                "broader claims",
+                "bad faith"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "Prothonotary's Order set aside"
+            ],
+            "standard_of_review": [
+                "de novo"
+            ],
+            "applicable_statute": [],
+            "party_involved": [
+                "Sandoz",
+                "Bayer"
+            ],
+            "claim_nature": [
+                "patent infringement",
+                "patent invalidity"
+            ],
+            "patent_validity": [
+                "broader claims than disclosed",
+                "omitting prior art"
+            ],
+            "expert_testimony": [],
+            "appeal_outcome": [
+                "Sandoz retains its claims"
+            ],
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "nature_of_offense": [
+                "patent invalidity"
+            ]
+        }
+    ]
+}

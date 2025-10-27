@@ -1,0 +1,71 @@
+{
+    "Case ID": "092196",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "allowing unrepresented parties leeway",
+                "discouraged witnesses",
+                "predetermined credibility"
+            ],
+            "credibility_assessment": [
+                "insufficient evidence",
+                "not genuine"
+            ],
+            "decision_outcome": [
+                "re-determination by a different decision-maker",
+                "application allowed"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "limiting right to present case",
+                "discouraging witnesses"
+            ],
+            "credibility_findings": [
+                "predetermined credibility issues"
+            ],
+            "evidence_consideration": [
+                "not hearing all potentially corroborative evidence"
+            ],
+            "family_ties": [
+                "marriage deemed not genuine"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "unrepresented parties",
+                "right to present case",
+                "relevant evidence from witnesses"
+            ],
+            "credibility_findings": [
+                "predetermined credibility issues",
+                "limited witness testimony"
+            ],
+            "decision_outcome": [
+                "case must be re-determined by a different decision-maker",
+                "application allowed"
+            ],
+            "court_ruling": [
+                "judicial review",
+                "ordering a re-determination by another decision-maker"
+            ],
+            "relevant_factors": [
+                "marriage deemed not genuine",
+                "discouraged most of the applicant's witnesses",
+                "focused only on brother's testimony"
+            ]
+        }
+    ]
+}

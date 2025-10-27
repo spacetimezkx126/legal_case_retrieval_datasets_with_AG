@@ -1,0 +1,56 @@
+{
+    "Case ID": "064191",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility finding",
+                "inconsistencies",
+                "lack of evidence"
+            ],
+            "evidence_assessment": [
+                "lack of corroborating evidence",
+                "objective evidence of persecution"
+            ],
+            "decision_outcome": [
+                "Board's decision upheld",
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant lacked objective evidence",
+                "omitted key details in his PIF"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible",
+                "denied refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Board's decision to deny refugee status"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision"
+            ],
+            "evidence_provided": [
+                "lacked objective evidence of persecution",
+                "contradicted himself",
+                "omitted key details in his PIF"
+            ],
+            "reasonableness_standard": [
+                "inferences are not unreasonable",
+                "reasons are clear",
+                "lack of corroborating evidence can undermine credibility"
+            ],
+            "relationship_genuineness": [
+                "deemed not credible due to inconsistencies and lack of evidence"
+            ]
+        }
+    ]
+}

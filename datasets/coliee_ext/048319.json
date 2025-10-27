@@ -1,0 +1,77 @@
+{
+    "Case ID": "048319",
+    "Crimes": [
+        {
+            "Crime_Name": "Aggravated Assault",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Administrative",
+            "Legal_Issue": "Procedural fairness in immigration decision-making",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review of administrative decision",
+            "Evidence_Assessment": "Use of undisclosed extrinsic evidence (GTEC chronology chart)"
+        },
+        {
+            "Crime_Name": "Gang Association",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": "Administrative",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Fairness_Issue": "Failure to disclose extrinsic evidence",
+            "Evidence_Disclosure_Status": "Undisclosed",
+            "Decision_Outcome": "Denial of Minister's Permit"
+        },
+        {
+            "Crime_Name": "Failing to Appear in Court",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Administrative",
+            "Legal_Issue": "Procedural fairness in immigration decision-making",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review of administrative decision",
+            "Evidence_Assessment": "Reliance on undisclosed GTEC chronology chart"
+        },
+        {
+            "Crime_Name": "Providing Police with a False Name",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Administrative",
+            "Legal_Issue": "Procedural fairness and credibility assessment",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Context": "Minister’s Permit application",
+            "Credibility_Assessment": "Alleged false identity and gang association"
+        },
+        {
+            "Crime_Name": "Setting a False Fire Alarm",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Administrative",
+            "Legal_Issue": "Procedural fairness in use of extrinsic evidence",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review stage",
+            "Evidence_Assessment": "Use of undisclosed criminal history from GTEC chart"
+        },
+        {
+            "Crime_Name": "Illegal Possession of Firearms",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Firearms Offense",
+            "Prior_Criminality": "Yes",
+            "Criminality_Severity": "High",
+            "Risk_Assessment": "Public safety risk due to gang links",
+            "Evidence_Type": "Extrinsic documentary evidence (GTEC chronology chart)"
+        },
+        {
+            "Crime_Name": "Carrying a Concealed Weapon",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Weapons Offense",
+            "Prior_Criminality": "Yes",
+            "Criminality_Severity": "High",
+            "Risk_Assessment": "Potential threat to public safety",
+            "Evidence_Type": "Undisclosed GTEC chronology document"
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Misrepresentation and non-disclosure",
+            "Legal_Issue": "Breach of procedural fairness",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Issue": "Failure to disclose critical evidence",
+            "Evidence_Used": "GTEC chronology chart containing criminal history"
+        }
+    ]
+}

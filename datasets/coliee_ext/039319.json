@@ -1,0 +1,310 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Breaking and entering",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Serious criminality under IRPA"
+            ],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [
+                "IRPA s. 64(2)"
+            ],
+            "Legal_Provision": [
+                "s. 64(2) IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 64(2) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Deportation order upheld"
+            ],
+            "Outcome": [
+                "Judicial review dismissed"
+            ],
+            "Sentencing_Issue": [
+                "Pre-trial custody included in term of imprisonment"
+            ],
+            "Procedural_Issues": [
+                "Jurisdictional ruling on appeal rights"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court judicial review"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Correctness"
+            ]
+        },
+        {
+            "Crime_Name": "Mischief",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "Interpretation of 'term of imprisonment' under IRPA"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [],
+            "Decision_Outcome": [
+                "Appeal dismissed due to lack of jurisdiction"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to show error"
+            ],
+            "Credibility_Factor": [],
+            "Legal_Rule": [
+                "Pre-sentence custody counts toward sentence length for serious criminality"
+            ],
+            "Standard_of_Review": [
+                "Correctness"
+            ],
+            "Procedural_Issue": [
+                "IAD's jurisdiction based on sentence length"
+            ],
+            "Grounds_for_Claim": [
+                "Pre-trial custody should not count toward two-year threshold"
+            ],
+            "Outcome_on_Merits": [
+                "Claim rejected"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "Application dismissed"
+            ],
+            "Review_Standard": [
+                "Correctness"
+            ],
+            "Procedural_Fairness_Assessment": [],
+            "Key_Evidence_Considered": [
+                "18-month sentence, 11 months pre-trial credit"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "Inclusion of pre-trial custody in sentencing calculation"
+            ],
+            "Court_Result": [
+                "Dismissed"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA s. 64(2)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [],
+            "Remedy_Requested": [
+                "Right to appeal IAD decision"
+            ],
+            "Outcome": [
+                "Judicial review dismissed"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Overturn of deportation order"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "s. 64(2) IRPA"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "Permanent resident"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 64(2) IRPA"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Serious criminality"
+            ],
+            "Applicable_Process": [
+                "Deportation under IRPA"
+            ],
+            "Outcome_of_Review": [
+                "No error found in IAD decision"
+            ],
+            "Pending_Relief_or_Application": [
+                "Appeal from deportation order"
+            ],
+            "Jurisdiction": [
+                "Federal jurisdiction – immigration law"
+            ]
+        },
+        {
+            "Crime_Name": "Inadmissibility to Canada due to serious criminality",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Serious criminality under IRPA"
+            ],
+            "Legal_Issue": [
+                "Does pre-sentence custody count toward 'term of imprisonment'?"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "Ngoc Quang Nguyen: 18-month sentence + 11 months pre-trial credit = 29 months"
+            ],
+            "Decision_Outcome": [
+                "Found inadmissible due to serious criminality"
+            ],
+            "Remedy_Requested": [
+                "Right to appeal deportation order"
+            ],
+            "Court_Ruling": [
+                "Pre-trial custody counts toward sentence length"
+            ],
+            "Claimant_Status": [
+                "Permanent resident"
+            ],
+            "Defendant_Behavior": [
+                "Convicted of breaking and entering and mischief"
+            ],
+            "Grounds_for_Claim": [
+                "Challenge to IAD’s jurisdiction based on sentence duration"
+            ],
+            "Legal_Standard": [
+                "Interpretation of s. 64(2) IRPA"
+            ],
+            "Assessment_Factor": [
+                "Total term of imprisonment including pre-trial custody"
+            ],
+            "Applicable_Legislation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Issue": [
+                "Jurisdiction to appeal based on sentence length"
+            ],
+            "Review_Standard": [
+                "Correctness"
+            ],
+            "Credibility_Assessment": [],
+            "Evidence_Used": [
+                "Sentencing record, credit for pre-trial custody"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 64(2) IRPA"
+            ],
+            "Application_Basis": [
+                "Inadmissibility under serious criminality"
+            ],
+            "Evidence_Assessed": [
+                "Length of sentence including pre-trial custody"
+            ],
+            "Relief_Sought": [
+                "Stay of deportation, right to appeal"
+            ],
+            "Governing_Rule": [
+                "IRPA s. 64(2)"
+            ],
+            "Evidentiary_Deficiency": [],
+            "Outcome": [
+                "Judicial review dismissed"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Harm_Assessment": [],
+            "Cause_Description": [
+                "Criminal convictions leading to deportation"
+            ],
+            "Evidence_Handling": [
+                "Credit for pre-trial custody applied"
+            ],
+            "Legal_Provision_Violated": [
+                "None directly violated; determination under IRPA"
+            ],
+            "Evidence_Issues": [],
+            "Residency_Compliance": [
+                "Lawful permanent resident at time of offense"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "s. 64(2) IRPA"
+            ],
+            "Jurisdictional_Issue": [
+                "Whether IAD had jurisdiction to hear appeal"
+            ],
+            "Evidence_Assessment": [
+                "Sentencing data accepted as accurate"
+            ],
+            "Decision_Rationale": [
+                "Total sentence exceeds two years when pre-trial custody is included"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Evidentiary_Issues": [],
+            "Legal_Standard_Applied": [
+                "Correctness standard on jurisdictional questions"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "088175",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ],
+            "misrepresentation_or_fraud": [
+                "misrepresenting or withholding material facts",
+                "inability to verify source of funds"
+            ],
+            "evidence_assessment": [
+                "failed to provide verifiable documentation",
+                "statements from the brokerage company"
+            ],
+            "procedural_fairness": [
+                "no breach found"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "visa denial"
+            ]
+        }
+    ]
+}

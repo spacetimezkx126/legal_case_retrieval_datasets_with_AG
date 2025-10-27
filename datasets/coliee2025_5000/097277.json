@@ -1,0 +1,63 @@
+{
+    "Case ID": "097277",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "document_authenticity": [
+                "questionable documents",
+                "inconsistencies"
+            ],
+            "procedural_fairness": [
+                "opportunities to respond",
+                "not breached"
+            ],
+            "identity_verification": [
+                "failed to convincingly prove identity or nationality"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status but failed to sufficiently establish identities"
+            ],
+            "standard_of_review": [
+                "reasonableness for factual matters",
+                "correctness for procedural fairness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Use of fraudulent documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "hukou",
+                "driver's license"
+            ],
+            "procedural_fairness": [
+                "holistic consideration of evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness for factual matters",
+                "correctness for procedural fairness"
+            ],
+            "evidence_provided": [
+                "fraudulent documents"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "use of fraudulent documents"
+            ],
+            "relationship_genuineness": [
+                "doubted authenticity"
+            ],
+            "public_interest": [
+                "refugee protection claim"
+            ]
+        }
+    ]
+}

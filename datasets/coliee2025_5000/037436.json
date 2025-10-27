@@ -1,0 +1,78 @@
+{
+    "Case ID": "037436",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of property obtained by crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "yes"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "assessed"
+            ],
+            "credibility_assessment": [
+                "lacked credibility"
+            ],
+            "criminal_history": [
+                "considered"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "family ties in Canada",
+                "marriage to a pregnant woman"
+            ],
+            "credibility_findings": [
+                "testimony not credible"
+            ],
+            "decision_reasonableness": [
+                "not patently unreasonable"
+            ],
+            "administrative_decision": [
+                "deportation order"
+            ],
+            "evidence_presented": [
+                "criminal record",
+                "lack of rehabilitation",
+                "minimal integration into Canadian society"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling persons",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "humanitarian_and_compassionate_grounds": [
+                "consideration for relief"
+            ],
+            "credibility_findings": [
+                "lacked credibility"
+            ],
+            "judicial_review_process": [
+                "upheld the IAD's decision"
+            ],
+            "reasonableness_of_decision": [
+                "not patently unreasonable"
+            ],
+            "immigration_status": [
+                "faced deportation"
+            ],
+            "burden_of_proof": [
+                "all relevant factors were considered"
+            ]
+        }
+    ]
+}

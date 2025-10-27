@@ -1,0 +1,31 @@
+{
+    "Case ID": "036445",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "officer reasonably found evidence insufficient",
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "affidavits",
+                "permanent residence cards",
+                "Canadian passport",
+                "lacked birth certificates"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no costs awarded"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for factual determinations"
+            ],
+            "family_class_considerations": [
+                "failed to meet minimum points requirement",
+                "insufficient evidence of family ties in Canada"
+            ]
+        }
+    ]
+}

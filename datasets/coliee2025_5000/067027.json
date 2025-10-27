@@ -1,0 +1,24 @@
+{
+    "Case ID": "067027",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet the residence requirements",
+                "accumulate at least 1095 days of residence",
+                "only 235 days present"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "citizenship application denied"
+            ],
+            "evidence_assessment": [
+                "did not establish residence before leaving for Afghanistan"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

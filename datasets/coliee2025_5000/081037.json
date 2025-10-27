@@ -1,0 +1,29 @@
+{
+    "Case ID": "081037",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining citizenship by false representation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 10 and 18 of the Citizenship Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "false representation",
+                "fraud",
+                "knowingly concealing material circumstances"
+            ],
+            "immigration_status": [
+                "citizenship"
+            ],
+            "decision_outcome": [
+                "Motion for summary judgment denied; trial needed"
+            ],
+            "identity_verification": [
+                "minors' knowledge of parents' actions"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose use of an immigration consultant"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "099836",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent documents and testimonies",
+                "impact on credibility"
+            ],
+            "identity_verification": [
+                "tampered passport",
+                "lack of corroborating identity documents"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "standard of review for factual findings and credibility determinations"
+            ],
+            "decision_outcome": [
+                "RPD's decision upheld",
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "inconsistencies significant",
+                "weight of evidence supported conclusion"
+            ]
+        }
+    ]
+}

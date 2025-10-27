@@ -1,0 +1,54 @@
+{
+    "Case ID": "094359",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Violence-related_Crimes",
+            "internal_flight_alternative": [
+                "IFA existed for the applicant",
+                "applicant failed to provide evidence disproving the IFA",
+                "PRRA officer reasonably concluded the ex-partner wouldn't find her after 8 years"
+            ],
+            "state_protection_analysis": [
+                "alleged errors in assessing state protection"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA officer’s decision was reasonable and within acceptable outcomes"
+            ],
+            "availability_of_alternative_remedies": [
+                "Section 113(a) limits new evidence post-refusal",
+                "PRRA officer considered new evidence but found it insufficient to rebut the IFA"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 96",
+                "IRPA s. 97",
+                "Section 113(a)"
+            ],
+            "state_protection": [
+                "IFA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_laws": [
+                "IRPA s. 96",
+                "IRPA s. 97",
+                "Section 113(a)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "relevant_factors": [
+                "evidence disproving the IFA",
+                "new evidence post-refusal"
+            ],
+            "court_ruling": [
+                "upholding the PRRA officer's decision"
+            ]
+        }
+    ]
+}

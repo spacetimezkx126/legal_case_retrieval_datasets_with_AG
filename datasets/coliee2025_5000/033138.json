@@ -1,0 +1,28 @@
+{
+    "Case ID": "033138",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "reasonable",
+                "justified",
+                "sound"
+            ],
+            "procedural_fairness": [
+                "procedural errors"
+            ],
+            "evidence_assessment": [
+                "evidence presented",
+                "evidence transcripts",
+                "conflicting evidence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "review_standard": [
+                "Federal Court reviews administrative tribunal decisions for reasonableness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "092367",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Registration Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "claim_nature": [
+                "trademark descriptiveness"
+            ],
+            "legal_basis": [
+                "section 12(1)(b) of the Trade-marks Act"
+            ],
+            "expert_testimony": [
+                "new evidence from an expert"
+            ],
+            "confusion_likelihood": [
+                "insufficient to overcome descriptiveness"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "trademark registration opposition"
+            ],
+            "distinctiveness_evaluation": [
+                "clearly descriptive when sounded"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Case ID": "032757",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related offences under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "adverse credibility findings",
+                "unsupported by evidence",
+                "speculative about implausibilities"
+            ],
+            "procedural_fairness": [
+                "failed to inform the applicant of concerns",
+                "violating procedural fairness"
+            ],
+            "evidence_assessment": [
+                "total evidence",
+                "corroborating certificates or country conditions"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "case is remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness",
+                "correctness standards"
+            ]
+        },
+        {
+            "Crime Name": "Using forged documents for the purpose of deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA §72(1)"
+            ],
+            "decision_outcome": [
+                "Application granted; new hearing ordered before a different panel."
+            ],
+            "procedural_fairness": [
+                "The Board must base decisions on total evidence, justify credibility findings clearly, and avoid speculative plausibility assessments."
+            ],
+            "evidence_provided": [
+                "certificates corroborating his claim"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness for factual issues, correctness for procedural fairness"
+            ],
+            "identity_documents": [
+                "false passport"
+            ],
+            "appeal_outcome": [
+                "Board's decision was patently unreasonable; the case is remitted for redetermination."
+            ]
+        }
+    ]
+}

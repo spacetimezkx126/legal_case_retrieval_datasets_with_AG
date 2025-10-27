@@ -1,0 +1,55 @@
+{
+    "Case ID": "098520",
+    "Different Crime": [
+        {
+            "Crime Name": "Parental abduction",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA subsection 72(1)",
+                "RPD Rules subsections 60(3) and 60(5)"
+            ],
+            "decision_reasoning": [
+                "no new evidence or exceptional circumstances provided by Applicants"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "refugee claim withdrawal under pressure",
+                "parental abduction",
+                "wrongful removal of child from France"
+            ],
+            "application_details": [
+                "failed to provide new evidence or exceptional circumstances"
+            ],
+            "conclusion_outcome": [
+                "judicial review application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Violation of the Hague Convention on Civil Aspects of International Child Abduction",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "reasonable",
+                "based on evidence"
+            ],
+            "new_evidence_impact": [
+                "no new evidence",
+                "no exceptional circumstances"
+            ],
+            "judicial_review_process": [
+                "examined the RPD's decision",
+                "dismissed the application for judicial review"
+            ],
+            "burden_of_proof": [
+                "exceptional circumstances supported by new evidence"
+            ],
+            "decision_outcome": [
+                "RPD's decision upheld"
+            ]
+        }
+    ]
+}

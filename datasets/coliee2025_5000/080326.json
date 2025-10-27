@@ -1,0 +1,30 @@
+{
+    "Case ID": "080326",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "not informing applicant of concerns",
+                "not allowing response"
+            ],
+            "decision_reasonableness": [
+                "findings about occupational qualifications",
+                "contradictions in visa officer's notes and affidavit"
+            ],
+            "evidence_assessment": [
+                "applicant's version of events preferred",
+                "contradictions in evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application for judicial review allowed",
+                "original decision set aside",
+                "reassessment by a different officer"
+            ]
+        }
+    ]
+}

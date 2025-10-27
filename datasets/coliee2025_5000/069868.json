@@ -1,0 +1,62 @@
+{
+    "Case ID": "069868",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness standard",
+                "independent review"
+            ],
+            "evidence_assessment": [
+                "flexible rules for evidence",
+                "Raza criteria"
+            ],
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case remitted to a new RAD panel",
+                "case sent back to RAD for reassessment"
+            ],
+            "misrepresentation_or_fraud": [
+                "refugee claim denied"
+            ]
+        },
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness",
+                "independent review"
+            ],
+            "evidence_provided": [
+                "flexible rules for evidence",
+                "Raza criteria"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed",
+                "case remitted to a new RAD panel"
+            ],
+            "procedural_fairness": [
+                "RAD applied incorrect standard",
+                "independent, fact-based assessment required"
+            ],
+            "claim_nature": [
+                "refugee claim denied"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "RAD",
+                "Federal Court"
+            ],
+            "nexus_to_convention_grounds": [
+                "lack of nexus"
+            ],
+            "credibility_issues": [
+                "credibility issues"
+            ]
+        }
+    ]
+}

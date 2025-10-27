@@ -1,0 +1,92 @@
+{
+    "Case ID": "099557",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit murder",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "not established"
+            ],
+            "irreparable_harm": [
+                "not established"
+            ],
+            "balance_of_convenience": [
+                "favoring public interest"
+            ],
+            "country_conditions": [
+                "changed conditions in Sri Lanka"
+            ],
+            "risk_assessment": [
+                "prior positive risk assessment ignored"
+            ],
+            "procedural_fairness": [
+                "PRRA process reviewed"
+            ],
+            "humanitarian_concerns": [
+                "release from custody weighed against public interest"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ]
+        },
+        {
+            "Crime Name": "Violation of parole conditions",
+            "Crime Type": "others",
+            "legal_basis": [
+                "three-part test",
+                "stay of execution",
+                "removal order"
+            ],
+            "evidence_assessment": [
+                "prior risk assessments"
+            ],
+            "decision_reasoning": [
+                "no evidence of irreparable harm",
+                "balance of convenience favors deportation"
+            ],
+            "standard_of_review": [
+                "serious issue to be tried",
+                "irreparable harm",
+                "balance of convenience"
+            ],
+            "application_details": [
+                "judicial review",
+                "stay of deportation"
+            ],
+            "conclusion_outcome": [
+                "motion for a stay was denied"
+            ],
+            "result_of_case": [
+                "deportation order to proceed"
+            ]
+        },
+        {
+            "Crime Name": "Possession of heroin for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "deportation_order": [
+                "yes"
+            ],
+            "balance_of_probabilities": [
+                "assessed"
+            ],
+            "decision_made_by": [
+                "Federal Court"
+            ],
+            "review_process": [
+                "three-part test for a stay of execution"
+            ],
+            "consequences_of_decision": [
+                "dismissed motion for stay of deportation"
+            ],
+            "evidence_sufficiency": [
+                "speculative evidence of irreparable harm"
+            ],
+            "procedural_fairness": [
+                "argued flawed PRRA process"
+            ],
+            "decision_outcome": [
+                "denied stay of deportation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Case ID": "002872",
+    "Different Crime": [
+        {
+            "Crime Name": "Second degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Act s. 101"
+            ],
+            "procedural_fairness": [
+                "no reviewable error, bias, or Charter violation"
+            ],
+            "risk_assessment": [
+                "history of alcohol-related offenses",
+                "refusal to submit to urinalysis"
+            ],
+            "serious_issue": [
+                "breach of parole conditions twice by consuming alcohol"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable and within its discretion"
+            ]
+        },
+        {
+            "Crime Name": "Refusal to comply with urinalysis request",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Corrections and Conditional Release Act (s. 55-56)"
+            ],
+            "decision_reasoning": [
+                "only notification of the basis and consequences is required, not probable cause"
+            ],
+            "application_details": [
+                "inmate refused urinalysis, arguing lack of reasonable and probable grounds"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the Board's decision"
+            ],
+            "cause_of_action": [
+                "Inmate's refusal to submit to urinalysis and subsequent alcohol consumption breach"
+            ],
+            "procedure_followed": [
+                "Judicial review application to Federal Court challenging National Parole Board's decision"
+            ]
+        }
+    ]
+}

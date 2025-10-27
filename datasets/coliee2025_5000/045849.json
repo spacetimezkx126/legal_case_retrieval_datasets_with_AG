@@ -1,0 +1,32 @@
+{
+    "Case ID": "045849",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "disclosure",
+                "opportunity_to_respond"
+            ],
+            "decision_reasoning": [
+                "review_of_documents",
+                "failure_to_disclose"
+            ],
+            "standard_of_review": [
+                "judicial_review"
+            ],
+            "result_of_case": [
+                "redetermination_ordered"
+            ],
+            "relevant_rule": [
+                "CRA_staffing_program",
+                "discretion_in_disclosure"
+            ],
+            "cause_of_action": [
+                "denied_full_marks",
+                "recourse_program"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Case ID": "033803",
+    "Different Crime": [
+        {
+            "Crime Name": "Using False Documents for Immigration",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not raising identity concerns during the hearing"
+            ],
+            "credibility_assessment": [
+                "doubts about credibility",
+                "discrepancies between newspaper articles and testimony"
+            ],
+            "identity_verification": [
+                "questioned the applicant’s identity"
+            ],
+            "decision_outcome": [
+                "decision quashed",
+                "case remitted for re-determination"
+            ],
+            "standard_of_review": [
+                "judicial review under IRPA subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "notifying applicants of concerns",
+                "allowing responses"
+            ],
+            "credibility_analysis": [
+                "impact on credibility analysis",
+                "insufficient reasoning"
+            ],
+            "evidence_provided": [
+                "discrepancies between newspaper articles and applicant's testimony"
+            ],
+            "internal_flight_alternative": [
+                "issues with internal flight alternative"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for substantive issues"
+            ],
+            "decision_outcome": [
+                "decision quashed",
+                "case remanded for re-determination"
+            ],
+            "persecution_details": [
+                "religious persecution in Bangladesh"
+            ]
+        }
+    ]
+}

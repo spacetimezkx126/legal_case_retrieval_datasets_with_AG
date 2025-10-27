@@ -1,0 +1,58 @@
+{
+    "Case ID": "091720",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.58(1)",
+                "IRP Regulations"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "immigration_status": [
+                "detained",
+                "flight risk concerns",
+                "ongoing legal processes"
+            ],
+            "decision_outcome": [
+                "released on conditions",
+                "$20,000 bond",
+                "curfew",
+                "reporting"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in people-smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA",
+                "Section 248"
+            ],
+            "risk_analysis": [
+                "flight risk",
+                "security risks",
+                "identity concerns",
+                "organized criminality"
+            ],
+            "procedural_fairness": [
+                "Judicial review applications",
+                "Immigration Division's decision"
+            ],
+            "decision_outcome": [
+                "release with conditions",
+                "court dismissed the Minister's application"
+            ],
+            "burden_of_proof": [
+                "reason for detention",
+                "length of detention",
+                "alternatives to detention"
+            ]
+        }
+    ]
+}

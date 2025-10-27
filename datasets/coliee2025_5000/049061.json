@@ -1,0 +1,78 @@
+{
+    "Case ID": "049061",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of proceeds of crime over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "minimal safeguards for initial clearance applications",
+                "knowledge of allegations",
+                "opportunity to respond"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "claim_nature": [
+                "denial of transportation security clearance"
+            ],
+            "judicial_authority": [
+                "Court ruled in favor of Transport Canada"
+            ],
+            "cause_of_action": [
+                "alleged involvement in a bank robbery"
+            ],
+            "nature_of_offense": [
+                "bank robbery"
+            ]
+        },
+        {
+            "Crime Name": "Transportation Security Clearance Denial",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "minimal safeguards for applicants",
+                "knowledge of allegations",
+                "opportunity to respond"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "2007 bank robbery incident"
+            ],
+            "decision_outcome": [
+                "denial of transportation security clearance"
+            ],
+            "reasoning_given": [
+                "applicant was informed and given a chance to explain"
+            ],
+            "standard_of_proof": [
+                "adequacy of the process followed"
+            ],
+            "court_ruling": [
+                "upholding Transport Canada's decision"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "minimal safeguards for new clearance applications",
+                "right to know alleged facts and respond"
+            ],
+            "decision_reasoning": [
+                "applicant was informed of the robbery incident and given a chance to respond",
+                "Transport Canada followed procedural fairness by inviting the applicant to consult their policy and provide explanations"
+            ],
+            "cause_of_action": [
+                "denial of transportation security clearance"
+            ],
+            "procedure_followed": [
+                "judicial review assessed whether procedural fairness was upheld during the clearance denial process"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no breach of procedural fairness confirmed"
+            ]
+        }
+    ]
+}

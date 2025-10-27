@@ -1,0 +1,30 @@
+{
+    "Case ID": "036924",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies",
+                "lack of reporting threats",
+                "absence of corroborative evidence"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was reasonable"
+            ],
+            "evidence_assessment": [
+                "Board questioned applicant's credibility"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Board's decision upheld as reasonable"
+            ],
+            "burden_of_proof": [
+                "failed to provide consistent or corroborated evidence"
+            ],
+            "review_standard": [
+                "Credibility assessments reviewed for reasonableness"
+            ]
+        }
+    ]
+}

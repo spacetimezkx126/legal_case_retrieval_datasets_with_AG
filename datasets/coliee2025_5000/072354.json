@@ -1,0 +1,33 @@
+{
+    "Case ID": "072354",
+    "Different Crime": [
+        {
+            "Crime Name": "Desertion/Draft-Evasion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "personal convictions",
+                "conscientious objection"
+            ],
+            "immigration_status": [
+                "refugee status"
+            ],
+            "persecution_grounds": [
+                "disagreement with military actions"
+            ],
+            "evidence_assessment": [
+                "Turkey's military activities had ceased",
+                "conscripts were not deployed in conflict zones"
+            ],
+            "judicial_review_process": [
+                "Refugee Protection Division reviewed claim",
+                "judicial review application challenging the Board's decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "burden_of_proof": [
+                "refusal to perform military service due to personal convictions"
+            ]
+        }
+    ]
+}

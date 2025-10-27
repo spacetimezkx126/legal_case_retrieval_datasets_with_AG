@@ -1,0 +1,59 @@
+{
+    "Case ID": "055454",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "excluded based on Interpol Red Notice"
+            ],
+            "credibility_assessment": [
+                "failed to properly assess credibility"
+            ],
+            "evidence_assessment": [
+                "ignored contradictory evidence",
+                "no restitution was paid",
+                "charges were fabricated"
+            ],
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention",
+                "Section 98 of IRPA"
+            ],
+            "decision_outcome": [
+                "RPD's decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "Interpol Red Notice for fraud"
+            ]
+        },
+        {
+            "Crime Name": "Uttering unfunded cheques",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "yes"
+            ],
+            "applicable_statute": [
+                "Article 1F(b)",
+                "Section 98 of IRPA"
+            ],
+            "evidence_provided": [
+                "Interpol Red Notice",
+                "contradictory evidence from lawyer and wife"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "decision_outcome": [
+                "error in decision",
+                "remitted for redetermination"
+            ],
+            "cause_of_action": [
+                "convicted in absentia for issuing unfunded cheques"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed reasonable application of Article 1F(b)"
+            ]
+        }
+    ]
+}

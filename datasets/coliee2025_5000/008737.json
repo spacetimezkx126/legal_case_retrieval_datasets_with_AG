@@ -1,0 +1,29 @@
+{
+    "Case ID": "008737",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Eligibility Dispute",
+            "Crime Type": "others",
+            "patent_validity": [
+                "not eligible for inclusion on the Register"
+            ],
+            "specific_rule_applied": [
+                "subsection 6(5) of the Regulations"
+            ],
+            "application_details": [
+                "Abbott's prohibition application",
+                "Novopharm sought approval for a generic drug"
+            ],
+            "decision_reasoning": [
+                "'753 Patent claims a delivery system, not the medicine lansoprazole or its use"
+            ],
+            "result_of_case": [
+                "Prothonotary dismissed Abbott's application",
+                "Both appeals were dismissed"
+            ],
+            "relevant_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ]
+        }
+    ]
+}

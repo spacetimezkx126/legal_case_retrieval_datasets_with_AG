@@ -1,0 +1,26 @@
+{
+    "Case ID": "055776",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "subjective_fear_lacking"
+            ],
+            "internal_flight_alternative": [
+                "IFA_exists_in_Rawalpindi_or_Kasur"
+            ],
+            "evidence_assessment": [
+                "uncle's_affidavit_dismissed",
+                "lack_of_corroborative_documents_overemphasized"
+            ],
+            "decision_outcome": [
+                "application_for_judicial_review-dismissed"
+            ],
+            "risk_of_persecution": [
+                "alleged_persecution_by_wife's_family_in_Pakistan"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "010270",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "failure to specify deadline",
+                "decision based on available evidence",
+                "met procedural standards"
+            ],
+            "applicable_statute": [
+                "section 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge",
+                "Federal Court"
+            ],
+            "residency_requirements": [
+                "insufficient proof of residency"
+            ],
+            "appeal_outcome": [
+                "appeals dismissed",
+                "upholding the original decision"
+            ]
+        }
+    ]
+}

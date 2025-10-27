@@ -1,0 +1,30 @@
+{
+    "Case ID": "035530",
+    "Different Crime": [
+        {
+            "Crime Name": "Election Regulation Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Duncan First Nation Election Regulations"
+            ],
+            "procedural_fairness": [
+                "breach_of_procedural_fairness"
+            ],
+            "decision_outcome": [
+                "unreasonable_decision"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "evidence_provided": [
+                "insufficient_evidence"
+            ],
+            "judicial_authority": [
+                "judicial_review"
+            ],
+            "cause_of_action": [
+                "alleged_violation_of_election_regulations"
+            ]
+        }
+    ]
+}

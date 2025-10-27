@@ -1,0 +1,102 @@
+{
+    "Case ID": "015867",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing False Information to Immigration Authorities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent statements",
+                "omissions and contradictions"
+            ],
+            "procedural_fairness": [
+                "no objection raised during the hearing"
+            ],
+            "standard_of_review": [
+                "patently unreasonable standard for credibility and plausibility findings",
+                "correctness for procedural fairness issues"
+            ],
+            "refugee_status_eligibility": [
+                "doubts about credibility due to conflicting information"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patently unreasonable",
+                "correctness"
+            ],
+            "procedural_fairness": [
+                "no procedural unfairness"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "credibility_concerns": [
+                "inconsistencies in testimony"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "questionable findings"
+            ],
+            "procedural_fairness": [
+                "no procedural unfairness evident"
+            ],
+            "reasonableness_of_decision": [
+                "supported by other evidence"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ],
+            "decision_outcome": [
+                "upholding the Board’s decision"
+            ],
+            "standard_of_proof": [
+                "patently unreasonable standard for credibility and plausibility findings"
+            ],
+            "refugee_status_outcome": [
+                "denied due to credibility concerns"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Context",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inconsistent statements",
+                "implausible explanations"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness"
+            ],
+            "evidence_sufficiency": [
+                "Board had sufficient grounds for its decision"
+            ],
+            "refugee_status": [
+                "applicant's refugee claim dismissed"
+            ],
+            "decision_made_by": [
+                "the Board"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed",
+                "Court upheld the Board's decision"
+            ]
+        }
+    ]
+}

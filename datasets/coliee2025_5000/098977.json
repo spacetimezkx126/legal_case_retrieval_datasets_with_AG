@@ -1,0 +1,55 @@
+{
+    "Case ID": "098977",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Charter",
+                "Canadian Bill of Rights"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "procedural_fairness": [
+                "trial de novo in Federal Court"
+            ],
+            "applicable_statute": [
+                "retrospective tax legislation"
+            ],
+            "judicial_authority": [
+                "Tax Court of Canada",
+                "Federal Court"
+            ],
+            "nature_of_offense": [
+                "retrospective tax assessments"
+            ],
+            "cause_of_action": [
+                "violation of rights under the Charter or Canadian Bill of Rights"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "charter_rights_violation": [
+                "no violation"
+            ],
+            "legal_basis": [
+                "retrospective tax legislation"
+            ],
+            "reasoning_given": [
+                "Parliament's power to enact retrospective tax laws if clearly stated",
+                "no severe impact on security of the person"
+            ],
+            "decision_outcome": [
+                "appeal dismissed"
+            ],
+            "evidence_provided": [
+                "plaintiff purchased annuity post-budget announcement disallowing deductions"
+            ],
+            "court_ruling": [
+                "no Charter or Canadian Bill of Rights violation"
+            ]
+        }
+    ]
+}

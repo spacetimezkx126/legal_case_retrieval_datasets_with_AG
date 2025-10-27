@@ -1,0 +1,131 @@
+{
+    "Case ID": "003872",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration laws",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "adjudicator's refusal to recuse herself",
+                "reasonable apprehension of bias"
+            ],
+            "decision_outcome": [
+                "adjudicator's decision overturned",
+                "case remanded for rehearing"
+            ],
+            "standard_of_review": [
+                "judicial review application under Immigration Act"
+            ],
+            "criminality_inadmissibility": [
+                "accused of crimes in the Philippines",
+                "subject to deportation under Canadian immigration law"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "reasonable apprehension of bias",
+                "informed person test",
+                "pre-judgment on key issues"
+            ],
+            "judicial_authority": [
+                "adjudicator Douglas",
+                "different adjudicator"
+            ],
+            "decision_outcome": [
+                "decision set aside",
+                "new hearing ordered"
+            ],
+            "legal_basis": [
+                "Immigration Act",
+                "judicial review application"
+            ],
+            "cause_of_action": [
+                "conditional deportation order",
+                "alleged bias",
+                "lack of disclosure",
+                "constitutional violations"
+            ]
+        },
+        {
+            "Crime Name": "Frustrated Murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 7 of the Canadian Charter of Rights and Freedoms",
+                "Subparagraph 19(1)(c.1)(ii) of the Immigration Act"
+            ],
+            "credibility_findings": [
+                "applicant's credibility issues"
+            ],
+            "risk_assessment": [
+                "reasonable grounds to believe the individual committed a serious offense abroad"
+            ],
+            "serious_issue": [
+                "charged with murder, frustrated murder, and attempted murder"
+            ],
+            "evidence_consideration": [
+                "charging documents"
+            ],
+            "reasonableness_of_decision": [
+                "adjudicator's decision to issue a conditional deportation order"
+            ],
+            "past_criminal_convictions": [
+                "accused of serious crimes in the Philippines"
+            ],
+            "immigration_status": [
+                "faced deportation from Canada under the Immigration Act"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable apprehension of bias"
+            ],
+            "decision_outcome": [
+                "decision set aside"
+            ],
+            "judicial_review_result": [
+                "new hearing ordered"
+            ],
+            "evidence_assessment": [
+                "prior findings, labeling applicant as 'fugitive from justice'"
+            ],
+            "reasoning_given": [
+                "comments suggest pre-judgment on key issues"
+            ],
+            "standard_of_proof": [
+                "informed person would conclude that decision-maker is more likely than not to decide unfairly"
+            ],
+            "decision_making_process": [
+                "adjudicator's prior involvement in a detention review"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "charter_rights": [
+                "Section 7 of the Canadian Charter of Rights and Freedoms"
+            ],
+            "legal_basis": [
+                "Subparagraph 19(1)(c.1)(ii) of the Immigration Act",
+                "section 82.1 of the Immigration Act"
+            ],
+            "decision_reasoning": [
+                "adjudicator's refusal to recuse herself created a reasonable apprehension of bias"
+            ],
+            "application_details": [
+                "applicant was charged with murder in the Philippines and fled to Canada",
+                "Adjudicator Douglas issued a conditional deportation order based on charging documents from the Philippines"
+            ],
+            "result_of_case": [
+                "adjudicator's decision was set aside due to bias concerns",
+                "matter will be reheard by a different adjudicator"
+            ],
+            "cause_of_action": [
+                "deportation due to charges of murder in the Philippines",
+                "violated his Charter rights due to lack of disclosure, bias, and retrospective application of the law"
+            ]
+        }
+    ]
+}

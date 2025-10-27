@@ -1,0 +1,32 @@
+{
+    "Case ID": "045699",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination and Procedural Fairness Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "thorough and neutral investigation",
+                "opportunity to respond"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of discrimination"
+            ],
+            "judicial_review_process": [
+                "judicial review application denied",
+                "Commission's decision upheld"
+            ],
+            "discrimination_grounds": [
+                "disability",
+                "age",
+                "race",
+                "gender"
+            ],
+            "reasonableness_of_decision": [
+                "investigation was thorough and fair"
+            ],
+            "burden_of_proof": [
+                "insufficient evidence"
+            ]
+        }
+    ]
+}

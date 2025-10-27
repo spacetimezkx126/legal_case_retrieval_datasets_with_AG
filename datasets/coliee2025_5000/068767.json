@@ -1,0 +1,64 @@
+{
+    "Case ID": "068767",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of fiduciary duty",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 111 of the Pension Act",
+                "Section 9 of the Crown Liability and Proceedings Act"
+            ],
+            "decision_outcome": [
+                "motion to strike denied except for minor amendments"
+            ],
+            "procedural_fairness": [
+                "Rule 221(1)(a) of the Federal Court Rules"
+            ],
+            "applicable_statute": [
+                "Pension Act",
+                "Crown Liability and Proceedings Act"
+            ],
+            "party_involved": [
+                "military veteran",
+                "Crown"
+            ],
+            "claim_nature": [
+                "fiduciary duty breach",
+                "negligence post-discharge"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "nature_of_offense": [
+                "alleged poisoning",
+                "inadequate medical support",
+                "misinformation"
+            ]
+        },
+        {
+            "Crime Name": "Poisoning",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 111 of the Pension Act",
+                "Section 9 of the Crown Liability and Proceedings Act"
+            ],
+            "cause_of_action": [
+                "exposure to hazardous substances",
+                "alleged poisoning during military service"
+            ],
+            "procedure_followed": [
+                "Defendant moved to strike the claim arguing statutory bars",
+                "Court analyzed fiduciary duty and scope of statutory provisions"
+            ],
+            "decision_reasoning": [
+                "not plain and obvious that these injuries are covered by his pension or barred by statute"
+            ],
+            "result_of_case": [
+                "Claim allowed to proceed except for specific language on wrongful termination"
+            ],
+            "conclusion_outcome": [
+                "motion to strike is denied except for the term 'wrongfully' in relation to termination"
+            ]
+        }
+    ]
+}

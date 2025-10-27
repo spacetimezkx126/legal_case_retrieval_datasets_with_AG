@@ -1,0 +1,50 @@
+{
+    "Case ID": "049691",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Federal Court Rules, Rule 419"
+            ],
+            "decision_outcome": [
+                "motion to strike granted, claim dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged untruthful answers during immigration interview"
+            ],
+            "immigration_status": [
+                "rejection of immigration application"
+            ],
+            "procedural_fairness": [
+                "lack of jurisdiction for declaratory relief"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Court Rules, Rule 419"
+            ],
+            "decision_outcome": [
+                "motion to strike granted",
+                "claim dismissed with costs"
+            ],
+            "procedural_fairness": [
+                "lacked jurisdiction"
+            ],
+            "claim_nature": [
+                "declaratory relief"
+            ],
+            "judicial_authority": [
+                "Federal Court of Canada"
+            ],
+            "relationship_genuineness": [
+                "alleged marriage"
+            ],
+            "material_misrepresentation": [
+                "untruthful answers during immigration interview"
+            ]
+        }
+    ]
+}

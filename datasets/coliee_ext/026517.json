@@ -1,0 +1,41 @@
+{
+    "Case ID": "026517",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Refugee claim credibility and state protection",
+            "Legal_Issue": "Credibility of applicants and availability of state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Immigration and Refugee Board",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Failure to Disclose Material Information",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Refugee claim credibility and state protection",
+            "Legal_Issue": "Board's error in credibility and state protection assessment",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Immigration and Refugee Board",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Immigration and Refugee Protection Act Violation",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Credibility and state protection assessment under IRPA",
+            "Legal_Issue": "Board's assessment under sections 96 and 97(1) of IRPA",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Fear of persecution due to blood feud in Albania",
+            "Decision_Outcome": "Claim rejected based on credibility and state protection"
+        },
+        {
+            "Crime_Name": "False or Misleading Information in Refugee Claim",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Credibility and accuracy of refugee claim information",
+            "Legal_Issue": "Provision of false or misleading information affecting credibility",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Immigration and Refugee Board",
+            "Review_Court": "Federal Court"
+        }
+    ]
+}

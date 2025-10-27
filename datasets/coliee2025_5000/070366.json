@@ -1,0 +1,30 @@
+{
+    "Case ID": "070366",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cost_awards": [
+                "duplication costs",
+                "$100 for the duplicate tape",
+                "$500 in costs"
+            ],
+            "procedure_followed": [
+                "Motion filed by respondent"
+            ],
+            "decision_made": [
+                "respondent must pay for the duplicate video-tape and associated costs"
+            ],
+            "result_of_case": [
+                "Respondent must pay $100 for the duplicate tape and $500 in costs to the applicant",
+                "granted 21 days to file their record after payment"
+            ],
+            "dispute_focus": [
+                "who should bear the cost of duplicating a video-taped cross-examination"
+            ],
+            "relevant_rule": [
+                "the party requesting a transcript or copy pays for it"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "Case ID": "091243",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption of public officials",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no nexus found"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "risk_characterization": [
+                "retaliation from corrupt police and criminal gang"
+            ],
+            "judicial_authority": [
+                "Board",
+                "court"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "IRPA sections 96 and 97"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "extortion",
+                "assault"
+            ],
+            "nexus_to_convention_grounds": [
+                "no nexus found"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "evidence_consideration": [
+                "lack of evidence linking persecution to Convention grounds"
+            ],
+            "reasonableness_of_decision": [
+                "decision upheld as reasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "extorted and assaulted by corrupt police officers linked to a criminal gang"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "Convention refugee",
+                "person in need of protection"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "applicable_law_section": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "risk_assessment": [
+                "not personalized risk"
+            ],
+            "credibility_findings": [
+                "failed to prove nexus to Convention grounds"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "membership_in_organization": [
+                "Los Zetas"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "evidence_provided": [
+                "extortion by police officers linked to Los Zetas",
+                "reporting corrupt officers"
+            ],
+            "court_ruling": [
+                "does not meet criteria for refugee status or protection under IRPA"
+            ]
+        }
+    ]
+}

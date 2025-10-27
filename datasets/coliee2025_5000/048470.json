@@ -1,0 +1,35 @@
+{
+    "Case ID": "048470",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cost_awards": [
+                "lump sum award",
+                "Tariff B"
+            ],
+            "relevant_rule": [
+                "Federal Court Rules, subsection 400(3)"
+            ],
+            "evidence_presented": [
+                "complex factual issues",
+                "significant preparation",
+                "expert testimony"
+            ],
+            "procedure_followed": [
+                "analyzed requested costs against applicable rules and prior case precedents"
+            ],
+            "decision_reasoning": [
+                "case complexity",
+                "work volume",
+                "conduct of parties"
+            ],
+            "result_details": [
+                "upper end of Column IV of Tariff B",
+                "disbursements ($22,308.96)",
+                "expert fees ($80,838.51)",
+                "no lump sum award"
+            ]
+        }
+    ]
+}

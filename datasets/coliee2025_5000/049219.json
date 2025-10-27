@@ -1,0 +1,52 @@
+{
+    "Case ID": "049219",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "RPD deemed the applicant not credible"
+            ],
+            "evidence_assessment": [
+                "misinterpretation of evidence",
+                "failure to consider all types of summonses"
+            ],
+            "decision_outcome": [
+                "application for judicial review succeeds",
+                "RPD's decision is quashed and remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged fraudulent summons"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent representation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "summonses",
+                "religious practices",
+                "smoking response"
+            ],
+            "standard_of_review": [
+                "credibility assessments"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "appeal_outcome": [
+                "judicial review application granted",
+                "case remitted for redetermination"
+            ],
+            "material_misrepresentation": [
+                "alleged fraudulent summons",
+                "insufficient adherence to beliefs"
+            ]
+        }
+    ]
+}

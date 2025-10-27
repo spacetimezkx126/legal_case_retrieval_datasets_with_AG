@@ -1,0 +1,30 @@
+{
+    "Case ID": "040343",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "Claim 22 of the '493 patent is not eligible for inclusion on the register"
+            ],
+            "relevant_rule": [
+                "Section 6(5)(a) of the Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "application_details": [
+                "The court analyzed whether claim 22, which refers to the R(+) enantiomer of amlodipine, could be listed against a notice of compliance for the racemate (amlodipine besylate)"
+            ],
+            "evidence_presented": [
+                "The evidence showed that the medicine in the notice of compliance was the racemate, not the isolated enantiomer"
+            ],
+            "decision_reasoning": [
+                "The motion to strike out the proceedings related to the '493 patent was allowed because claim 22 claims the R(+) enantiomer, while the notice of compliance covers the racemate"
+            ],
+            "cost_awards": [
+                "awarded costs to Cobalt Pharmaceuticals"
+            ],
+            "result_of_case": [
+                "struck out the proceedings related to the '493 patent"
+            ]
+        }
+    ]
+}

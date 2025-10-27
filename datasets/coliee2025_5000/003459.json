@@ -1,0 +1,104 @@
+{
+    "Case ID": "003459",
+    "Different Crime": [
+        {
+            "Crime Name": "False Documentation for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board's credibility findings regarding the male applicant's use of false documents"
+            ],
+            "evidence_assessment": [
+                "altered airline tickets",
+                "fraudulent Belgian passport",
+                "inconsistencies and lack of plausible explanations"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed Board’s decision, analyzing evidence and procedural fairness"
+            ],
+            "decision_outcome": [
+                "male applicant’s case dismissed",
+                "female applicant’s case remitted for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Use of Fraudulent Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "implausibilities",
+                "inconsistent testimony",
+                "negative credibility finding"
+            ],
+            "procedural_fairness": [
+                "reasonableness review",
+                "procedural fairness"
+            ],
+            "evidence_consideration": [
+                "lack of supporting documentation"
+            ],
+            "serious_issue": [
+                "male applicant's use of fraudulent passport"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision reasonable",
+                "not patently unreasonable"
+            ],
+            "applicant_involvement": [
+                "male applicant's inconsistent testimony"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistent evidence",
+                "implausible evidence"
+            ],
+            "procedural_fairness": [
+                "independent assessment required",
+                "derivative claim evaluation issue"
+            ],
+            "refugee_status": [
+                "claim dismissed",
+                "case remitted for reconsideration"
+            ],
+            "decision_made_by": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "review_process": [
+                "Federal Court review"
+            ],
+            "decision_outcome": [
+                "male applicant dismissed",
+                "female applicant remanded for reevaluation"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Board rules"
+            ]
+        },
+        {
+            "Crime Name": "Use of Fraudulent Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "implausible claim of ignorance",
+                "inconsistent testimony"
+            ],
+            "procedural_fairness": [
+                "reasonableness review",
+                "Board's decision upheld"
+            ],
+            "decision_outcome": [
+                "male applicant dismissed",
+                "female applicant remanded"
+            ],
+            "evidence_considered": [
+                "Belgian passport",
+                "lack of supporting documentation"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

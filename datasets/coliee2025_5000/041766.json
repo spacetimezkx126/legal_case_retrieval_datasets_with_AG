@@ -1,0 +1,40 @@
+{
+    "Case ID": "041766",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Law Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Food and Drug Regulations, Section C.08.002",
+                "Federal Courts Act, s. 18.1"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "clinical trial data"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Food and Drug Regulations"
+            ],
+            "judicial_authority": [
+                "Health Canada"
+            ],
+            "cause_of_action": [
+                "rejection of NDS"
+            ],
+            "nature_of_offense": [
+                "lack of clinical trial data"
+            ],
+            "appeal_outcome": [
+                "upheld Health Canada's decision"
+            ]
+        }
+    ]
+}

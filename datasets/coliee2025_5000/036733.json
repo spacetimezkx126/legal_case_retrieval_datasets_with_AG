@@ -1,0 +1,67 @@
+{
+    "Case ID": "036733",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "past_criminal_convictions"
+            ],
+            "procedural_fairness": [],
+            "evidence_consideration": [
+                "alcohol-related issues",
+                "impaired driving incident"
+            ],
+            "standard_of_proof": [
+                "good conduct"
+            ],
+            "rehabilitation_or_possibility": [
+                "continued issue with alcohol"
+            ],
+            "legal_basis": [
+                "section 4.1(1) of the Criminal Records Act"
+            ]
+        },
+        {
+            "Crime Name": "Hit and run offense",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Criminal Records Act",
+                "section 4.1(1)"
+            ],
+            "decision_reasoning": [
+                "unresolved alcohol problems",
+                "inconsistent with 'good conduct'"
+            ],
+            "evidence_assessment": [
+                "2009 impaired driving incident",
+                "refused a breathalyzer test",
+                "charges were stayed"
+            ],
+            "procedural_fairness": [
+                "considering procedural fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "upholding the Board's decision",
+                "awarding costs to the respondent"
+            ],
+            "cause_of_action": [
+                "denied application for a criminal record suspension"
+            ],
+            "relevant_statute": [
+                "Criminal Records Act"
+            ],
+            "discretion_exercise": [
+                "Board's decision to deny the record suspension"
+            ],
+            "application_details": [
+                "past conviction for sexual assault",
+                "2009 impaired driving incident"
+            ]
+        }
+    ]
+}

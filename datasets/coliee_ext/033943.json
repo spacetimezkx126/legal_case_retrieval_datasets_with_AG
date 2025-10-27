@@ -1,0 +1,68 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Border Document Misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Refugee protection claim",
+            "Legal_Issue": "Adequacy of state protection and prospective fear",
+            "Governing_Law": "Immigration and Refugee Protection Act, sections 96 and 97",
+            "Decision_Level": "Refugee Protection Division (RPD)",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim",
+            "Sub_Crime_Type": "Domestic violence and threats",
+            "Perpetrator_Type": "Former employer and intimate partner",
+            "Victim_Status": "Female survivor of domestic abuse",
+            "Location_of_Incident": "Mexico"
+        },
+        {
+            "Crime_Name": "Abduction",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Inadequate state protection for victims of gender-based violence",
+            "Legal_Issue": "Assessment of prospective fear and state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act, sections 96 and 97",
+            "Application_Facts": "Applicant fled Mexico due to abuse by husband and former employer",
+            "Decision_Outcome": "RPD decision quashed"
+        },
+        {
+            "Crime_Name": "Threatening Death or Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim",
+            "Sub_Crime_Type": "Threats from former employer and domestic abuser",
+            "Perpetrator_Type": "Former employer and spouse",
+            "Victim_Status": "Mexican national seeking refugee status",
+            "Location_of_Incident": "Mexico"
+        },
+        {
+            "Crime_Name": "Domestic Violence",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee protection claim",
+            "Sub_Crime_Type": "Gender-based violence",
+            "Perpetrator_Type": "Husband and Mr. Ochoa (former employer)",
+            "Victim_Status": "Survivor of domestic abuse",
+            "Location_of_Incident": "Mexico"
+        },
+        {
+            "Crime_Name": "Bribery of a Public Official",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Refugee protection claim based on systemic corruption",
+            "Legal_Issue": "Effectiveness of state protection in context of corruption",
+            "Governing_Law": "Immigration and Refugee Protection Act, sections 96 and 97",
+            "Procedural_Stage": "Judicial review",
+            "Evidence_Assessment": "Selective use of evidence by RPD"
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Failure to properly assess state protection and credibility",
+            "Legal_Issue": "Errors in assessing prospective fear and state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act, subsection 72(1)",
+            "Application_Facts": "Applicant faced domestic violence and threats in Mexico",
+            "Decision_Outcome": "RPD decision quashed and remanded"
+        }
+    ]
+}

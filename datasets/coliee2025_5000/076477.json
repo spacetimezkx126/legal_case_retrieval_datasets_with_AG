@@ -1,0 +1,31 @@
+{
+    "Case ID": "076477",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cost_awards": [
+                "mid-point of Column IV",
+                "no multipliers",
+                "specific disbursements allowed"
+            ],
+            "relevant_rule": [
+                "Federal Courts Rules, SOR/98-106, Rule 400"
+            ],
+            "dispute_focus": [
+                "quantification of costs"
+            ],
+            "procedure_steps": [
+                "tariff placement analysis",
+                "multiplier applicability review",
+                "specific disbursement claims evaluation",
+                "post-judgment interest determination"
+            ],
+            "result_details": [
+                "costs awarded at mid-point rates",
+                "specific disbursements granted",
+                "post-judgment interest applied at 5%"
+            ]
+        }
+    ]
+}

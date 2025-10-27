@@ -1,0 +1,29 @@
+{
+    "Case ID": "026693",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Human Rights Act (CHRA)"
+            ],
+            "cause_of_action": [
+                "discrimination against a corporation"
+            ],
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "application_details": [
+                "complaint filed by an individual alleging discrimination"
+            ],
+            "decision_reasoning": [
+                "CHRA protects individuals, not corporations",
+                "respondent lacks standing to file complaint on behalf of corporation"
+            ],
+            "conclusion_outcome": [
+                "Commission lacked jurisdiction",
+                "complaint dismissed"
+            ]
+        }
+    ]
+}

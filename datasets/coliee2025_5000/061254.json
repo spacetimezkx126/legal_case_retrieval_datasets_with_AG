@@ -1,0 +1,57 @@
+{
+    "Case ID": "061254",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of Business Practices",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "balance_of_convenience": [
+                "potential serious damage"
+            ],
+            "irreparable_harm": [
+                "incriminating documents at risk of destruction"
+            ],
+            "evidence_provided": [
+                "vague evidence",
+                "speculative damages"
+            ],
+            "procedural_fairness": [
+                "ex parte",
+                "court hearings"
+            ],
+            "decision_outcome": [
+                "Anton Piller Order vacated",
+                "interim injunction set aside"
+            ],
+            "cause_of_action": [
+                "copyright infringement",
+                "misuse of confidential information"
+            ]
+        },
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "Alleged copying of website content, meta tags, and accounting software"
+            ],
+            "relevant_statute": [
+                "Copyright Act (R.S.C. 1985, c. C-42)"
+            ],
+            "procedure_followed": [
+                "Ex parte application for Anton Piller Order followed by review proceedings"
+            ],
+            "evidence_assessment": [
+                "Materials allegedly copied were minimal",
+                "Evidence suggested little risk of destruction beyond Sean Eren's hidden hard drive"
+            ],
+            "decision_reasoning": [
+                "Lack of a strong prima facie case",
+                "Absence of serious harm or irreparable damage"
+            ],
+            "result_of_case": [
+                "Anton Piller Order partially nullified",
+                "Interim injunction dismissed",
+                "Show cause order issued for contempt"
+            ]
+        }
+    ]
+}

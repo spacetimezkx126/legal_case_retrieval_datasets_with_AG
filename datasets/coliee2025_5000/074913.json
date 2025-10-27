@@ -1,0 +1,78 @@
+{
+    "Case ID": "074913",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "internal_flight_alternative": [
+                "Applicant informed of IFA at hearing start",
+                "Parents safely relocated within Colombia"
+            ],
+            "procedural_fairness": [
+                "Applicants must be given adequate notice",
+                "Opportunities to respond provided"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "Procedural fairness and legal standards analyzed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Border document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide adequate notice in refugee claims",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "natural justice",
+                "opportunity to respond"
+            ],
+            "internal_flight_alternative": [
+                "notice of IFA issue",
+                "parents' relocation within Colombia"
+            ],
+            "reasonableness_standard": [
+                "Board’s reasoning met legal standards"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "burden_of_proof": [
+                "sufficient opportunity to respond"
+            ],
+            "legal_basis": [
+                "no formal pre-hearing notice required"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to traffic in narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "internal_flight_alternative": [
+                "Applicant informed of IFA at hearing start",
+                "Parents relocated safely within Colombia"
+            ],
+            "procedural_fairness": [
+                "Adequate notice provided",
+                "Ample opportunity to respond"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "consequences_of_decision": [
+                "Application dismissed",
+                "No questions certified"
+            ],
+            "applicable_law_or_regulation": [
+                "Principles of natural justice"
+            ],
+            "decision_outcome": [
+                "Board's decision upheld"
+            ]
+        }
+    ]
+}

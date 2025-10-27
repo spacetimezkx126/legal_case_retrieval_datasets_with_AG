@@ -1,0 +1,24 @@
+{
+    "Case ID": "006951",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "residency_requirements": [
+                "reside in Canada for at least three out of the four years preceding their application"
+            ],
+            "judicial_authority": [
+                "Federal Court Trial Division"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "insufficient residency days"
+            ]
+        }
+    ]
+}

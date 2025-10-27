@@ -1,0 +1,28 @@
+{
+    "Case ID": "014465",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "ensuring procedural fairness"
+            ],
+            "document_authenticity": [
+                "insufficient proof of a family relationship",
+                "provided documents inconclusive"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed",
+                "upholding the visa officer's decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's insufficient documentation"
+            ],
+            "regulatory_compliance": [
+                "officer acted within discretion",
+                "officer followed proper procedures"
+            ]
+        }
+    ]
+}

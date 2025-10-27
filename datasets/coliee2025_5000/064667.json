@@ -1,0 +1,55 @@
+{
+    "Case ID": "064667",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "insufficient consideration of evidence",
+                "no undue hardship upon return to Lebanon"
+            ],
+            "availability_of_alternative_remedies": [
+                "IAD decision"
+            ],
+            "reasonableness_of_decision": [
+                "justification, transparency, and intelligibility"
+            ],
+            "immigration_status": [
+                "entrepreneur immigrants",
+                "removal order"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Court upheld IAD's decision; application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_considered": [
+                "inadequate investment, late compliance attempts, no undue hardship upon return to Lebanon"
+            ],
+            "humanitarian_concerns": [
+                "insufficient consideration of evidence"
+            ],
+            "immigration_status": [
+                "entrepreneur immigrants"
+            ],
+            "procedural_fairness": [
+                "Judicial review by Federal Court analyzing IAD's decision based on reasonableness standard"
+            ]
+        }
+    ]
+}

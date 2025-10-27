@@ -1,0 +1,31 @@
+{
+    "Case ID": "002127",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "noncompliance with health and safety regulations"
+            ],
+            "relevant_rule": [
+                "Patented Medicine (Notice of Compliance) Regulations",
+                "Food and Drug Act or Regulations"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "cross-examinations",
+                "document production motions"
+            ],
+            "decision_reasoning": [
+                "patent holder cannot challenge NOC on public health and safety grounds unless linked to patent protection"
+            ],
+            "result_of_case": [
+                "partially allowed",
+                "can only challenge under linkage regulations"
+            ],
+            "court_ruling": [
+                "Merck cannot challenge based on general noncompliance"
+            ]
+        }
+    ]
+}

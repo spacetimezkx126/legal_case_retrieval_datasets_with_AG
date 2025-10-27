@@ -1,0 +1,82 @@
+{
+    "Case ID": "048376",
+    "Different Crime": [
+        {
+            "Crime Name": "Personation with intent",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 44(2)",
+                "Regulations s. 228(1)(a)"
+            ],
+            "criminality_inadmissibility": [
+                "s. 36(1)(a)",
+                "s. 36(2)(a)"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness"
+            ],
+            "decision_outcome": [
+                "deportation order lawful",
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ]
+        },
+        {
+            "Crime Name": "Fraud under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "not relevant in this process"
+            ],
+            "applicable_statute": [
+                "IRPA s. 44(2)",
+                "Regulations s. 228(1)(a)",
+                "IRPA s. 36(1)(a)",
+                "IRPA s. 36(2)(a)"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "delegation did not err",
+                "application dismissed"
+            ],
+            "cause_of_action": [
+                "lack of legal status",
+                "criminal history"
+            ],
+            "procedural_fairness": [
+                "argued procedural fairness breaches"
+            ],
+            "standard_of_review": [
+                "appropriate standards"
+            ]
+        },
+        {
+            "Crime Name": "Failure to appear in Court",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "delegate followed procedural fairness by interviewing her and considering her case"
+            ],
+            "legal_basis": [
+                "IRPA s.44(2)",
+                "Regulations s.228(1)(a)"
+            ],
+            "decision_reasoning": [
+                "Finta had a long criminal history and lacked legal status",
+                "despite being notified, she failed to attend a scheduled meeting"
+            ],
+            "application_details": [
+                "Finta applied for judicial review of the deportation order, arguing procedural unfairness and failure to consider humanitarian factors"
+            ],
+            "conclusion_outcome": [
+                "The Federal Court dismissed Finta's application"
+            ],
+            "result_of_case": [
+                "the court upheld the deportation order, rejecting Finta's arguments"
+            ]
+        }
+    ]
+}

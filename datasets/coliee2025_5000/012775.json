@@ -1,0 +1,31 @@
+{
+    "Case ID": "012775",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "IRPR"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "opportunity_to_respond"
+            ],
+            "evidence_assessment": [
+                "insufficient_evidence",
+                "credible_evidence"
+            ],
+            "decision_reasoning": [
+                "err_in_law_or_fact"
+            ],
+            "result_of_case": [
+                "judicial_review_granted",
+                "case_remitted"
+            ],
+            "relevant_statute": [
+                "immigration_policy"
+            ]
+        }
+    ]
+}

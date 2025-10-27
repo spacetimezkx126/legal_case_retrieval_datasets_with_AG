@@ -1,0 +1,29 @@
+{
+    "Case ID": "081113",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "discrepancies in evidence",
+                "credible travel history"
+            ],
+            "identity_verification": [
+                "physical presence in Canada for at least 1,095 days during a six-year period"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "document_authenticity": [
+                "missing re-entry stamps",
+                "various documents and explanations"
+            ]
+        }
+    ]
+}

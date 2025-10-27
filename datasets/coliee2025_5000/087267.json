@@ -1,0 +1,33 @@
+{
+    "Case ID": "087267",
+    "Different Crime": [
+        {
+            "Crime Name": "Wrongful Death",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Marine Liability Act"
+            ],
+            "evidence_assessment": [
+                "pecuniary losses",
+                "life expectancies",
+                "non-pecuniary damages",
+                "expert testimony",
+                "family testimony"
+            ],
+            "decision_reasoning": [
+                "negligent navigation",
+                "unseaworthy condition",
+                "drowning of John Wilcox"
+            ],
+            "procedure_followed": [
+                "summary judgment",
+                "hearings for quantum of damages"
+            ],
+            "result_of_case": [
+                "awarded damages",
+                "pecuniary and non-pecuniary awards",
+                "totaling over $500,000"
+            ]
+        }
+    ]
+}

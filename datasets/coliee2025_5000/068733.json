@@ -1,0 +1,100 @@
+{
+    "Case ID": "068733",
+    "Different Crime": [
+        {
+            "Crime Name": "Seeking asylum under false pretenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "reasonable possibility of persecution",
+                "state protection",
+                "internal flight alternatives"
+            ],
+            "refugee_status_eligibility": [
+                "not Convention refugees",
+                "not persons in need of protection"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection not proven"
+            ],
+            "internal_flight_alternative": [
+                "impossibility of internal relocation not proven"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "fear not objectively well-founded"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "available"
+            ],
+            "internal_flight_alternative": [
+                "exists"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "evidence_provided": [
+                "insufficient proof of gang presence nationwide",
+                "failed to provide clear evidence or exhaust all options"
+            ],
+            "risk_characterization": [
+                "well-founded fear of persecution"
+            ],
+            "specific_targeting": [
+                "extortion by a gang and harassment by Mr. Gonzalez"
+            ],
+            "nexus_to_convention_grounds": [
+                "inability to relocate safely"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "fled Venezuela due to extortion and harassment"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Making anonymous complaint to police",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian immigration law"
+            ],
+            "evidence_assessment": [
+                "anonymous complaint",
+                "lack of detail or follow-up"
+            ],
+            "credibility_findings": [
+                "contradictions in testimony"
+            ],
+            "state_protection": [
+                "insufficient evidence to rebut presumption of state protection"
+            ],
+            "application_details": [
+                "applicant made an anonymous complaint to Venezuelan police about gang extortion"
+            ],
+            "decision_reasoning": [
+                "Board found contradictions undermining credibility"
+            ],
+            "conclusion_outcome": [
+                "Board did not err in concluding insufficient evidence"
+            ],
+            "cause_of_action": [
+                "refugee status due to persecution by gangs and municipal official"
+            ],
+            "procedure_followed": [
+                "judicial review application under Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "Court dismissed the judicial review, upholding Board’s decision"
+            ]
+        }
+    ]
+}

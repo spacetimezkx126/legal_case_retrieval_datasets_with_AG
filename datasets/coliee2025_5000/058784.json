@@ -1,0 +1,30 @@
+{
+    "Case ID": "058784",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act",
+                "Section 28.2(1)",
+                "Section 28.3"
+            ],
+            "patent_validity": [
+                "invalid due to anticipation"
+            ],
+            "expert_testimony": [
+                "avoiding water could solve the problem"
+            ],
+            "technical_details": [
+                "process for making paroxetine tablets without water",
+                "core method of the '637 Patent with an additional film-coating step"
+            ],
+            "decision_outcome": [
+                "court dismissed SmithKline's application"
+            ],
+            "cause_of_action": [
+                "alleging non-infringement and invalidity of SmithKline's '637 Patent"
+            ]
+        }
+    ]
+}

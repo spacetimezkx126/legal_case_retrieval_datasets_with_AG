@@ -1,0 +1,52 @@
+{
+    "Case ID": "099838",
+    "Different Crime": [
+        {
+            "Crime Name": "Complicity by association",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "excluded due to complicity by association"
+            ],
+            "legal_basis": [
+                "complicity by association with crimes against humanity"
+            ],
+            "evidence_assessment": [
+                "knowledge of crimes",
+                "high rank",
+                "failure to dissociate"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "excluded from refugee status"
+            ],
+            "standard_of_review": [
+                "judicial review of the Immigration and Refugee Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "exclusion_reason": [
+                "complicity by association"
+            ],
+            "credibility_findings": [
+                "credible evidence of awareness"
+            ],
+            "refugee_definition": [
+                "excluded due to alleged complicity"
+            ],
+            "senior_official_involvement": [
+                "high rank in Burundian army"
+            ],
+            "complicity_in_crimes": [
+                "crimes committed by the army"
+            ],
+            "judicial_review_process": [
+                "dismissed application for judicial review"
+            ],
+            "decision_outcome": [
+                "upheld exclusion from refugee status"
+            ]
+        }
+    ]
+}

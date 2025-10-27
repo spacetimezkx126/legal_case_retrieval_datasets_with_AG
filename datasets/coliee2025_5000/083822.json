@@ -1,0 +1,34 @@
+{
+    "Case ID": "083822",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "flawed",
+                "doubted police assistance",
+                "missing medical records"
+            ],
+            "specific_group_membership": [
+                "homosexual"
+            ],
+            "evidence_assessment": [
+                "not grounded in evidence",
+                "improper stereotyping"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "re-determination ordered"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "standard_of_proof": [
+                "reasonable evidence"
+            ],
+            "risk_of_persecution": [
+                "claimed due to persecution"
+            ]
+        }
+    ]
+}

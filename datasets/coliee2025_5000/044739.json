@@ -1,0 +1,24 @@
+{
+    "Case ID": "044739",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days in a four-year period",
+                "absent for 630 days"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "Citizenship Judge's decision overturned"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of residency",
+                "unclear reasoning"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ]
+        }
+    ]
+}

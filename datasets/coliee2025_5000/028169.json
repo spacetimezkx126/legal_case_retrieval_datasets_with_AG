@@ -1,0 +1,127 @@
+{
+    "Case ID": "028169",
+    "Different Crime": [
+        {
+            "Crime Name": "Making Untrue Statements to Canadian Officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "deemed untruthful in past testimonies",
+                "trustworthiness"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed evidence from both parties",
+                "balancing Mr. Harkat's rights with national security concerns"
+            ],
+            "risk_assessment": [
+                "potential danger to national security or public safety",
+                "lingering concerns about credibility and potential danger"
+            ],
+            "legal_basis": [
+                "IRPA §82",
+                "IRPA §82(4)"
+            ],
+            "decision_outcome": [
+                "Some conditions were relaxed",
+                "rigorous oversight maintained"
+            ]
+        },
+        {
+            "Crime Name": "Being a Member of a Terrorist Group",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA Section 82"
+            ],
+            "risk_assessment": [
+                "threat to national security",
+                "under surveillance for over a decade",
+                "limited breaches"
+            ],
+            "credibility_findings": [
+                "concerns about credibility and trustworthiness",
+                "time and compliance suggest some conditions could be relaxed"
+            ],
+            "balance_of_convenience": [
+                "emphasis on balance between security risks and personal freedoms"
+            ],
+            "complicity_in_crimes": [
+                "alleged involvement in activities related to terrorism"
+            ],
+            "security_certificate": [
+                "post-2008 certificate alleging inadmissibility due to national security concerns"
+            ],
+            "standard_of_proof": [
+                "judicial review involved evidence presentation, oral arguments, and consideration of proportionality"
+            ]
+        },
+        {
+            "Crime Name": "Supporting or Facilitating Terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "IRPA, Section 82(5)(b)"
+            ],
+            "risk_to_national_security": [
+                "neutralize any danger posed by their release"
+            ],
+            "evidence_provided": [
+                "no evidence of association with terrorism since 2002"
+            ],
+            "release_conditions": [
+                "being home alone, increased outings",
+                "GPS and CBSA oversight"
+            ],
+            "decision_outcome": [
+                "Conditions were partially relaxed"
+            ],
+            "judicial_review_result": [
+                "balancing liberty and security concerns, with ongoing judicial oversight"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Court Order.",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA Section 82"
+            ],
+            "decision_reasoning": [
+                "conditions proportional to risk",
+                "tailored to specific circumstances",
+                "review based on trustworthiness, passage of time, and compliance"
+            ],
+            "evidence_consideration": [
+                "Federal Court reviewed evidence",
+                "heard testimonies",
+                "considered legal arguments"
+            ],
+            "conclusion_outcome": [
+                "allowed to stay home alone under certain conditions",
+                "denied other requests for increased mobility and activities"
+            ],
+            "result_details": [
+                "conditions partially relaxed",
+                "more autonomy while retaining safeguards"
+            ]
+        },
+        {
+            "Crime Name": "Being a Member of a Terrorist Group",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 82 of IRPA"
+            ],
+            "procedural_fairness": [
+                "Judicial review involved evidence presentation, oral arguments, and consideration of proportionality between danger and conditions."
+            ],
+            "risk_assessment": [
+                "Mr. Harkat was deemed a threat to national security but has been under surveillance for over a decade with limited breaches."
+            ],
+            "decision_outcome": [
+                "Conditions were partially relaxed, emphasizing balance between security risks and personal freedoms."
+            ],
+            "security_concerns": [
+                "His credibility and trustworthiness remain concerns"
+            ],
+            "court_ruling": [
+                "The court allowed partial modifications, permitting Mr. Harkat to stay home alone under strict conditions and increasing weekly outings from three to five."
+            ]
+        }
+    ]
+}

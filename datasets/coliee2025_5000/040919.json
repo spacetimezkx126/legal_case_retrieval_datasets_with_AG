@@ -1,0 +1,70 @@
+{
+    "Case ID": "040919",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault and Persecution",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "implausibility",
+                "lack_of_corroboration",
+                "Port_of_Entry_notes"
+            ],
+            "state_protection_analysis": [
+                "discredited_testimony",
+                "general_country_conditions",
+                "individualizing_the_risk"
+            ],
+            "reasonableness_of_decision": [
+                "flawed_credibility",
+                "state_protection_analyses"
+            ],
+            "risk_of_persecution": [
+                "sexual_assault",
+                "persecution_by_religious_leader"
+            ],
+            "country_conditions": [
+                "El_Salvador"
+            ],
+            "refugee_status_nexus": [
+                "sexual_assault",
+                "persecution"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing Justice",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "flawed",
+                "lack of evidence acknowledgment",
+                "incorrect assumptions"
+            ],
+            "state_protection": [
+                "flawed credibility assessment",
+                "general country conditions",
+                "without individualizing the risk"
+            ],
+            "decision_reasoning": [
+                "set aside",
+                "referred back for rehearing by a different panel"
+            ],
+            "cause_of_action": [
+                "refugee protection",
+                "fear of retaliation",
+                "reporting sexual assault",
+                "El Salvador"
+            ],
+            "result_of_case": [
+                "Board's decision overturned",
+                "case remanded for re-determination contingent on appeal outcomes"
+            ],
+            "standard_of_review": [
+                "credibility findings reviewed for patent unreasonableness",
+                "state protection findings reviewed for reasonableness"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Board's credibility and state protection findings",
+                "identifying flaws in reasoning"
+            ]
+        }
+    ]
+}

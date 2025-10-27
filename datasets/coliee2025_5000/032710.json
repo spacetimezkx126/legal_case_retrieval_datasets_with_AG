@@ -1,0 +1,118 @@
+{
+    "Case ID": "032710",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault on police",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 19(1)(f)(iii)(B) of the Immigration Act"
+            ],
+            "membership_in_organization": [
+                "INLA"
+            ],
+            "complicity_in_crimes": [
+                "terrorism"
+            ],
+            "applicant_involvement": [
+                "past membership in a terrorist organization"
+            ],
+            "procedural_fairness": [
+                "adequate opportunity to respond"
+            ],
+            "reasonableness_of_decision": [
+                "no violation of fairness or constitutional rights"
+            ],
+            "refugee_status_nexus": [
+                "denied due to public interest concerns"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 19(1)(f)(iii)(B) of the Immigration Act"
+            ],
+            "membership_in_organization": [
+                "INLA"
+            ],
+            "risk_to_national_security": [
+                "deemed contrary to public interest"
+            ],
+            "refugee_status_claim": [
+                "denied due to membership in a terrorist organization"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "upheld the Minister's decision"
+            ],
+            "court_ruling": [
+                "no violation of fairness or constitutional rights"
+            ]
+        },
+        {
+            "Crime Name": "Driving with excess of alcohol",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 7 of the Charter",
+                "Section 2(e) of the Canadian Bill of Rights"
+            ],
+            "procedural_fairness": [
+                "principles of fundamental justice",
+                "opportunity for the person affected to state their case",
+                "notice and an opportunity to make written submissions"
+            ],
+            "charter_rights": [
+                "right to a fair hearing"
+            ],
+            "decision_reasoning": [
+                "no credibility issues involved",
+                "Minister reviewed the submissions",
+                "requirements for a fair hearing met"
+            ],
+            "application_details": [
+                "applicant sought refugee status",
+                "deemed inadmissible due to past terrorism links"
+            ],
+            "result_of_case": [
+                "Applications dismissed",
+                "no violation of rights or laws found"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "opportunity to state one's case",
+                "informed of the case against him",
+                "given 15 days to respond in writing",
+                "Minister reviewed the submissions",
+                "adequate opportunity to present his case"
+            ],
+            "charter_violation": [
+                "denied a fair hearing under s. 7 of the Charter and s. 2(e) of the Canadian Bill of Rights"
+            ],
+            "decision_outcome": [
+                "not denied a fair hearing",
+                "judicial review applications dismissed"
+            ],
+            "applicable_laws": [
+                "s. 7 of the Charter",
+                "s. 2(e) of the Canadian Bill of Rights"
+            ],
+            "refugee_protection": [
+                "claimed refugee status",
+                "deemed ineligible due to past convictions and association with a terrorist organization"
+            ],
+            "criminal_history": [
+                "former member of the INLA",
+                "past convictions"
+            ],
+            "appeal_process": [
+                "judicial review applications filed",
+                "challenging the Minister's decision based on fairness, vagueness of terms, unreasonable delay, and retroactive application of laws"
+            ]
+        }
+    ]
+}

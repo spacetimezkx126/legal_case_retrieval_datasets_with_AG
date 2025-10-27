@@ -1,0 +1,29 @@
+{
+    "Case ID": "023475",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "praised candour",
+                "accused of fabricating persecution"
+            ],
+            "evidence_assessment": [
+                "ignored evidence post-arrival",
+                "misinterpreted failure to claim asylum in the U.S."
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "original decision quashed",
+                "rehearing ordered"
+            ],
+            "risk_of_persecution": [
+                "political opinions against the Chechen war",
+                "fascist groups"
+            ],
+            "procedural_fairness": [
+                "lack of clarity in rejection"
+            ]
+        }
+    ]
+}

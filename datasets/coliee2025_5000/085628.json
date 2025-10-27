@@ -1,0 +1,51 @@
+{
+    "Case ID": "085628",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 45"
+            ],
+            "procedural_fairness": [
+                "inadequate reasons",
+                "lack of legitimate expectation"
+            ],
+            "criminality_inadmissibility": [
+                "security concerns"
+            ],
+            "decision_outcome": [
+                "deportation order",
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in subversion by force",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "subversive organization"
+            ],
+            "inadmissibility_criteria": [
+                "IRPA s. 45"
+            ],
+            "decision_outcome": [
+                "removal order issued"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "reasonableness_of_decision": [
+                "upheld"
+            ],
+            "legal_basis": [
+                "IRPA mandates"
+            ],
+            "procedural_fairness": [
+                "legitimate expectation not met"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "098417",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Law Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "natural justice"
+            ],
+            "evidence_assessment": [
+                "continuous enrollment",
+                "full-time attendance",
+                "accredited post-secondary institution"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

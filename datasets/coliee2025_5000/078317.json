@@ -1,0 +1,95 @@
+{
+    "Case ID": "078317",
+    "Different Crime": [
+        {
+            "Crime Name": "Sale of Unauthorized Decoding Devices",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Radiocommunication Act"
+            ],
+            "decision_outcome": [
+                "interlocutory injunction granted",
+                "motion for stay denied"
+            ],
+            "procedural_fairness": [
+                "Ex parte Anton Piller Order granted initially",
+                "reviewed for continuation based on new evidence and legal arguments"
+            ],
+            "irreparable_harm": [
+                "serious potential damage",
+                "risk of evidence destruction"
+            ],
+            "evidence_provided": [
+                "evidence of infringement",
+                "harm",
+                "risk of destruction"
+            ],
+            "balance_of_convenience": [
+                "strong prima facie case",
+                "serious harm"
+            ]
+        },
+        {
+            "Crime Name": "Interference with Radio Signals",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Radiocommunication Act"
+            ],
+            "evidence_provided": [
+                "infringement",
+                "significant harm from piracy",
+                "risk of evidence destruction"
+            ],
+            "decision_outcome": [
+                "Anton Piller Order is valid",
+                "interlocutory injunction upheld"
+            ],
+            "procedural_fairness": [
+                "ex parte Anton Piller Order",
+                "reviewed in court"
+            ],
+            "reasonableness_of_decision": [
+                "strong prima facie case",
+                "serious harm"
+            ],
+            "discrepancies_identified": [
+                "non-disclosure",
+                "constitutional challenges"
+            ],
+            "court_ruling": [
+                "rejected defendants' claims",
+                "upheld the order"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Decoding of Subscription Programming Signals",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Radiocommunication Act",
+                "Anton Piller Order"
+            ],
+            "cause_of_action": [
+                "selling unauthorized satellite decoding equipment"
+            ],
+            "procedure_followed": [
+                "ex parte Anton Piller Order"
+            ],
+            "evidence_presented": [
+                "infringement evidence",
+                "significant harm from piracy",
+                "risk of evidence destruction"
+            ],
+            "decision_reasoning": [
+                "strong prima facie case",
+                "serious harm",
+                "risk of evidence destruction",
+                "no material non-disclosure"
+            ],
+            "result_of_case": [
+                "Anton Piller Order upheld",
+                "defendants must detain seized equipment until trial",
+                "motion for stay denied"
+            ]
+        }
+    ]
+}

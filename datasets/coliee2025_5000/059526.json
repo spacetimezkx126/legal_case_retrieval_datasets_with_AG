@@ -1,0 +1,44 @@
+{
+    "Case ID": "059526",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Confusion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Trade-marks Act",
+                "Section 6(2) of the Trade-marks Act",
+                "Section 56 of the Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "resemblance in appearance, sound, and idea"
+            ],
+            "standard_of_review": [
+                "likelihood of confusion"
+            ],
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "judicial_authority": [
+                "Trademarks Opposition Board"
+            ],
+            "confusion_likelihood": [
+                "yes"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "opposition to trademark applications"
+            ],
+            "nature_of_offense": [
+                "trademark confusion"
+            ],
+            "distinctiveness_evaluation": [
+                "LIFTMASTER has significant market presence, LYNXMASTER has none"
+            ],
+            "use_in_trade": [
+                "garage door openers"
+            ]
+        }
+    ]
+}

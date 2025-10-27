@@ -1,0 +1,125 @@
+{
+    "Case ID": "073717",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 4(1) of the Regulations",
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_assessment": [
+                "credible testimony"
+            ],
+            "procedural_fairness": [
+                "Judicial review"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage was not genuine",
+                "primarily for acquiring status"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "failed refugee claimant",
+                "denied permanent residency"
+            ],
+            "family_class_considerations": [
+                "concerns about the genuineness of their marriage"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "entered into primarily for acquiring status"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Court"
+            ],
+            "reasonableness_standard": [
+                "reasonable",
+                "within acceptable outcomes under the law"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "upheld IAD's decision"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed IAD's decision"
+            ],
+            "evidence_provided": [
+                "credible testimony about their relationship",
+                "financial dependence",
+                "pre-marriage concerns about healthcare access"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "subsection 4(1) of the Immigration and Refugee Protection Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "reasonableness standard"
+            ],
+            "evidence_consideration": [
+                "credible testimony about relationship",
+                "financial dependence",
+                "pre-marriage concerns about healthcare access"
+            ],
+            "immigration_status": [
+                "failed refugee claimant",
+                "removal order",
+                "application for permanent residency"
+            ],
+            "reasonableness_of_decision": [
+                "IAD's decision was reasonable"
+            ],
+            "standard_of_proof": [
+                "suspicion of marriage fraud"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "IAD's decision upheld"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "evidence_considered": [
+                "Credible testimony about relationship",
+                "Financial dependence",
+                "Pre-marriage concerns about healthcare access"
+            ],
+            "immigration_status": [
+                "Failed refugee claimant with removal order",
+                "Suspicion of marriage fraud"
+            ],
+            "applicable_laws": [
+                "Subsection 4(1) of the Immigration and Refugee Protection Regulations"
+            ],
+            "court_ruling": [
+                "Court upheld IAD's decision"
+            ]
+        }
+    ]
+}

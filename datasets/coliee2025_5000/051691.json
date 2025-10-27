@@ -1,0 +1,151 @@
+{
+    "Case ID": "051691",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "misstating net worth",
+                "employment status"
+            ],
+            "evidence_assessment": [
+                "no evidence of asking about full net worth"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "new detention review ordered"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "criminality_inadmissibility": [
+                "material misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Money laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 58"
+            ],
+            "decision_outcome": [
+                "new detention review ordered"
+            ],
+            "procedural_fairness": [
+                "judicial review of Immigration Division's decision"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "risk_characterization": [
+                "flight risk"
+            ],
+            "specific_targeting": [
+                "allegations of money laundering and criminal organization ties"
+            ],
+            "evidence_provided": [
+                "Interpol notice",
+                "FINTRAC report",
+                "inadmissibility reports"
+            ],
+            "appeal_outcome": [
+                "application allowed"
+            ],
+            "mitigating_factors": [
+                "failure to assess alternatives like GPS monitoring and sureties"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_to_national_security": [],
+            "state_protection_analysis": [],
+            "personalized_vs_generalized_risk": [],
+            "reasonableness_of_decision": [
+                "errors in assessing flight risk and alternatives to detention"
+            ],
+            "admissibility_criteria": [],
+            "balance_of_interests": [],
+            "specific_actions_or_activities": [
+                "alleged membership in a criminal organization"
+            ],
+            "impact_of_delay_or_conditions": [],
+            "involvement_details": [],
+            "decision_outcome": [
+                "new detention review ordered"
+            ],
+            "evidence_quality": [],
+            "immigration_status": [],
+            "judicial_review_result": [
+                "Detention review decision overturned"
+            ],
+            "applicable_law_section": [
+                "IRPA"
+            ],
+            "new_information": [],
+            "evidence_provided": [
+                "Interpol 'Red Notice'"
+            ],
+            "decision_made": [
+                "detention justified based on flight risk"
+            ],
+            "reasoning_given": [
+                "failure to properly assess alternatives like GPS monitoring and private security surveillance"
+            ],
+            "risk_assessment": [
+                "flight risk"
+            ],
+            "credibility_findings": [],
+            "release_conditions": [
+                "GPS monitoring",
+                "private security surveillance"
+            ],
+            "court_ruling": [
+                "Federal Court ordered a new detention review"
+            ],
+            "evidence_assessment": [],
+            "standard_of_proof": [],
+            "complicity_in_crimes": [],
+            "inadmissibility_criteria": [],
+            "refugee_status_claim": [],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "refugee_status_outcome": [],
+            "decision_standard": [],
+            "organizational_affiliation": [
+                "criminal organization"
+            ],
+            "human_rights_concerns": [],
+            "special_advocate_involvement": [],
+            "security_certificate_validity": [],
+            "document_disclosure_issues": []
+        },
+        {
+            "Crime Name": "Flight risk behavior",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 58",
+                "Regulations s. 245"
+            ],
+            "decision_reasoning": [
+                "errors in the Board's assessment of flight risk and alternatives to detention"
+            ],
+            "evidence_assessment": [
+                "Interpol 'Red Notice'",
+                "FINTRAC report",
+                "inadmissibility reports"
+            ],
+            "procedural_fairness": [
+                "Judicial review application granted",
+                "case remitted for new detention review within seven days"
+            ],
+            "conclusion_outcome": [
+                "Board's decision set aside",
+                "new detention review ordered with emphasis on fair evaluation of flight risk and alternatives"
+            ]
+        }
+    ]
+}

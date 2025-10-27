@@ -1,0 +1,54 @@
+{
+    "Case ID": "046459",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide accurate personal information",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "implausible and unsupported by evidence"
+            ],
+            "document_authenticity": [
+                "conflicting documents (unsigned affidavit, flawed employment card)"
+            ],
+            "identity_verification": [
+                "doubts about her identity"
+            ],
+            "evidence_assessment": [
+                "insufficient explanations for missing records"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent document procurement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 106 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_provided": [
+                "anomalies in affidavit, ETC, employment card",
+                "unsigned affidavit",
+                "missing security features"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed Board’s decision"
+            ],
+            "identity_documents": [
+                "affidavit",
+                "ETC",
+                "employment card"
+            ],
+            "credibility_issues": [
+                "inconsistent testimonies",
+                "failed to provide plausible explanations"
+            ],
+            "appeal_outcome": [
+                "upholding the Board’s decision"
+            ]
+        }
+    ]
+}

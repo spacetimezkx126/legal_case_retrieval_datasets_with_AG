@@ -1,0 +1,47 @@
+{
+    "Case ID": "040642",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient grounds for exception"
+            ],
+            "misrepresentation_or_fraud": [
+                "spouse did not disclose marriage prior to gaining permanent residency"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ],
+            "family_class_considerations": [
+                "Section 117(9)(d) bars non-accompanying family members"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose marital status",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "financial dependency",
+                "emotional dependency"
+            ],
+            "applicable_regulations": [
+                "Section 117(9)(d) of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_reasoning": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "no question certified"
+            ],
+            "cause_of_action": [
+                "Applicant's wife did not disclose her marriage when applying for permanent residency"
+            ]
+        }
+    ]
+}

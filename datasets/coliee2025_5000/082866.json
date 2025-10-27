@@ -1,0 +1,62 @@
+{
+    "Case ID": "082866",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of counterfeit documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Ms. Lin's identity",
+                "acceptable documentation",
+                "reasonable explanation"
+            ],
+            "evidence_assessment": [
+                "totality of the evidence",
+                "multiple documents",
+                "board dismissed",
+                "other evidence ignored"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside",
+                "remit for reconsideration"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "misrepresentation_or_fraud": [
+                "counterfeit documents"
+            ],
+            "refugee_status_eligibility": [
+                "refugee claim rejected"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling association",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "counterfeit RIC",
+                "other documents"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "failed to consider all evidence"
+            ],
+            "evidence_provided": [
+                "testimony",
+                "documents"
+            ],
+            "reasonableness_standard": [
+                "unreasonable decision"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "court"
+            ],
+            "applicable_statute": [
+                "IRPA s.106"
+            ]
+        }
+    ]
+}

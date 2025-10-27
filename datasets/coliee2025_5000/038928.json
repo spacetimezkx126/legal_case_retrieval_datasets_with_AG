@@ -1,0 +1,101 @@
+{
+    "Case ID": "038928",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit forgery of a Canadian passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "alleged procedural errors"
+            ],
+            "evidence_assessment": [
+                "supported by evidence",
+                "ignored evidence"
+            ],
+            "criminality_inadmissibility": [
+                "past convictions",
+                "criminal history"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed",
+                "upheld the Delegate's decision",
+                "confirming deportation proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Credit card fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "evidence_provided": [
+                "criminal history",
+                "nature of offenses",
+                "disregard for release conditions",
+                "limited time outside detention"
+            ],
+            "serious_criminality": [
+                "danger to the public"
+            ],
+            "mitigating_factors": [
+                "no reliance on withdrawn charges"
+            ],
+            "reasonableness_standard": [
+                "reasonable and not patently unreasonable"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to commit assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness"
+            ],
+            "criminal_history": [
+                "old convictions",
+                "gang ties"
+            ],
+            "rehabilitation_or_possibility": [
+                "lack of credible rehabilitation evidence"
+            ],
+            "risk_assessment": [
+                "danger to the public"
+            ],
+            "reasonableness_of_decision": [
+                "supported by evidence"
+            ]
+        },
+        {
+            "Crime Name": "Attempting to obstruct justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                "consideration of past convictions, disregard for release conditions, limited time outside detention"
+            ],
+            "evidence_assessment": [
+                "discounted supportive letters based on past behavior"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "decision_conclusion": [
+                "Delegate's conclusion reasonable"
+            ]
+        }
+    ]
+}

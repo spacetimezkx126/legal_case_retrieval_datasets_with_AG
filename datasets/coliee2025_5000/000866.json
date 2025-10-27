@@ -1,0 +1,33 @@
+{
+    "Case ID": "000866",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA sections 96, 97, 108(4), 113(b)",
+                "IRPR section 167"
+            ],
+            "procedural_fairness": [
+                "officer correctly found no obligation to notify unlicensed counsel",
+                "no need for an oral hearing"
+            ],
+            "evidence_assessment": [
+                "applicants failed to provide sufficient evidence of personalized risk or state protection issues"
+            ],
+            "decision_reasoning": [
+                "compelling reasons under s.108(4) not applicable without proof of past persecution"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "deportation stay remains unaffected"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed PRRA decision using correctness and reasonableness standards"
+            ],
+            "cause_of_action": [
+                "applicants' failure to meet evidentiary burden and procedural requirements"
+            ]
+        }
+    ]
+}

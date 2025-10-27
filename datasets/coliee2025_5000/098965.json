@@ -1,0 +1,31 @@
+{
+    "Case ID": "098965",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "BC Crown"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act (FCA)",
+                "Marine Liability Act (MLA)"
+            ],
+            "cause_of_action": [
+                "ship-source oil pollution remediation costs"
+            ],
+            "procedure_followed": [
+                "BC Crown moved to strike claims for lack of jurisdiction",
+                "Prothonotary assessed statutory interpretation and jurisdictional tests"
+            ],
+            "decision_made": [
+                "Motion to strike dismissed",
+                "Federal Court has jurisdiction over the claim"
+            ],
+            "result_of_case": [
+                "Claims against BC Crown proceed in Federal Court"
+            ]
+        }
+    ]
+}

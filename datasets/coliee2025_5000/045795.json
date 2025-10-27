@@ -1,0 +1,47 @@
+{
+    "Case ID": "045795",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with reporting requirements under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 168(1)"
+            ],
+            "procedural_fairness": [
+                "Board's decision lacked transparency and intelligibility"
+            ],
+            "decision_outcome": [
+                "Board’s decision overturned",
+                "case referred back for further proceedings"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "material_misrepresentation": [
+                "Applicant failed to submit required forms within the deadline"
+            ]
+        },
+        {
+            "Crime Name": "Abandonment of refugee claim under Immigration and Refugee Protection Act",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s.168(1)",
+                "Refugee Protection Division Rules s.58"
+            ],
+            "procedural_fairness": [
+                "lacked transparency and intelligibility"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was unreasonable"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned",
+                "case referred back for further consideration"
+            ],
+            "burden_of_proof": [
+                "applicant failed to submit required forms on time due to personal and logistical challenges"
+            ]
+        }
+    ]
+}

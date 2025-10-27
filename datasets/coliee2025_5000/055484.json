@@ -1,0 +1,124 @@
+{
+    "Case ID": "055484",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of stolen property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "upheld",
+                "opportunities to respond"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "uncooperative during investigations",
+                "allegedly placed a loaded handgun on an aircraft",
+                "purchased stolen property"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "supported by sufficient evidence"
+            ],
+            "balance_of_convenience": [
+                "security concerns"
+            ],
+            "judicial_authority": [
+                "court dismissed the application"
+            ],
+            "appeal_outcome": [
+                "upholding the TSC revocation"
+            ]
+        },
+        {
+            "Crime Name": "Revocation of Transportation Security Clearance",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "adequate notice and opportunity to respond"
+            ],
+            "evidence_quality": [
+                "reasonable evidence"
+            ],
+            "reasonableness_of_decision": [
+                "supported by reasonable evidence"
+            ],
+            "involvement_details": [
+                "placing a loaded handgun on an aircraft",
+                "uncooperative behavior during investigation"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "Court upheld the Director's decision"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "decision_making_process": [
+                "Director must reasonably believe",
+                "Judicial review assessed procedural fairness and reasonableness of evidence"
+            ],
+            "evidence_provided": [
+                "affidavits",
+                "police reports",
+                "Advisory Body recommendations"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "Was the process procedurally fair"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "evidence reasonably support the decision"
+            ],
+            "decision_reasoning": [
+                "Director must reasonably believe, on a balance of probabilities"
+            ],
+            "application_details": [
+                "Mr. Clue was uncooperative during questioning about placing a loaded handgun on an aircraft"
+            ],
+            "conclusion_outcome": [
+                "The application for judicial review was dismissed"
+            ],
+            "cause_of_action": [
+                "Revocation of Mr. Clue's Transportation Security Clearance"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed by Mr. Clue challenging the Director’s decision; reviewed under reasonableness standard"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the revocation of Mr. Clue's clearance"
+            ]
+        },
+        {
+            "Crime Name": "Unlawful possession of a firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_considered": [
+                "alleged involvement in placing a loaded handgun on an aircraft",
+                "uncooperative behavior during investigations"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Transportation Security Clearance revoked"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "claimant_burden": [
+                "balance of probabilities"
+            ],
+            "relevant_factors": [
+                "actions and attitude as incriminatory"
+            ]
+        }
+    ]
+}

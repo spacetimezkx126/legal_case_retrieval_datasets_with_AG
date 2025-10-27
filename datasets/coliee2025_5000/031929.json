@@ -1,0 +1,32 @@
+{
+    "Case ID": "031929",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "unreasonable",
+                "minor inconsistencies",
+                "psychologist's report",
+                "memory issues"
+            ],
+            "state_protection": [
+                "reasonableness standard",
+                "not adequately considered"
+            ],
+            "decision_reasoning": [
+                "negative credibility inferences",
+                "peripheral details",
+                "omissions not central"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "decision quashed",
+                "referred back for redetermination"
+            ]
+        }
+    ]
+}

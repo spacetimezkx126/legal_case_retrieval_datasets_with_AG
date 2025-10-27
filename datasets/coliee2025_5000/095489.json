@@ -1,0 +1,81 @@
+{
+    "Case ID": "095489",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements for the purpose of procuring a passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "providing false information in a passport application"
+            ],
+            "decision_outcome": [
+                "five-year refusal period",
+                "adjudicator's decision upheld as reasonable"
+            ],
+            "legal_basis": [
+                "sections 9 and 10 of the Canadian Passport Order",
+                "Criminal Code s. 57(2)(b)"
+            ],
+            "evidence_assessment": [
+                "errors intentional",
+                "false information about his relationship and custody status"
+            ],
+            "standard_of_review": [
+                "reasonable"
+            ],
+            "criminality_inadmissibility": [
+                "charges under Criminal Code"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "decision_outcome": [
+                "five-year ban on passport services"
+            ],
+            "procedural_fairness": [
+                "judicial review dismissed"
+            ],
+            "material_misrepresentation": [
+                "false information in passport application"
+            ],
+            "relationship_genuineness": [
+                "claim of residing together when not"
+            ],
+            "intent_to_mislead": [
+                "not required under law"
+            ],
+            "appeal_outcome": [
+                "upheld as reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "specific_actions_or_activities": [
+                "submitted a false passport application",
+                "claiming he and the mother resided together when they did not"
+            ],
+            "evidence_quality": [
+                "false information provided in application"
+            ],
+            "reasonableness_of_decision": [
+                "adjudicator's decision upheld as reasonable"
+            ],
+            "standard_of_proof": [
+                "no requirement to prove intent to mislead"
+            ],
+            "judicial_review_result": [
+                "application for judicial review dismissed"
+            ],
+            "decision_outcome": [
+                "five-year ban on passport services maintained"
+            ]
+        }
+    ]
+}

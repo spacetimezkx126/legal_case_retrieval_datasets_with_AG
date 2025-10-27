@@ -1,0 +1,26 @@
+{
+    "Case ID": "065125",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Judges must recuse themselves if an informed person would reasonably apprehend bias"
+            ],
+            "decision_reasoning": [
+                "Judge Mosley was involved in developing Bill C-36 but did not draft it",
+                "He reviewed ex parte evidence and considered whether this could taint his impartiality on the constitutional issue"
+            ],
+            "procedure_followed": [
+                "The Federal Court assessed whether Judge Mosley should recuse himself",
+                "After reviewing relevant principles, he decided against recusal but delegated the constitutional question to another judge"
+            ],
+            "result_of_case": [
+                "Judge Mosley continued with the case but deferred the constitutional issue to another judge"
+            ],
+            "cause_of_action": [
+                "Khawaja challenged the constitutionality of s. 38.11(2) of the Canada Evidence Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Case ID": "044698",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent obtaining of passport or visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Applicant's failure to establish identity satisfactorily using credible documents"
+            ],
+            "legal_basis": [
+                "Under IRPA, a refugee claimant must provide acceptable identity documentation or explain its absence reasonably"
+            ],
+            "evidence_assessment": [
+                "The applicant used fraudulent documents and failed to produce credible identity proofs despite having time and resources"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed RPD's decision-making process and application of IRPA rules",
+                "no breach of natural justice found"
+            ]
+        }
+    ]
+}

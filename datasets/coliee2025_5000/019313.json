@@ -1,0 +1,31 @@
+{
+    "Case ID": "019313",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient hardship",
+                "generalized country conditions",
+                "evidence of harassment",
+                "hardship",
+                "lengthy processing times for elderly applicants"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "misapprehending or misconstruing the evidence",
+                "failed to properly assess evidence"
+            ],
+            "decision_outcome": [
+                "reviewable error",
+                "case remitted for redetermination"
+            ],
+            "procedural_fairness": [
+                "judicial review in Federal Court",
+                "exclusion of evidence not before the Officer"
+            ]
+        }
+    ]
+}

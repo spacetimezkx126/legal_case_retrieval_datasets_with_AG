@@ -1,0 +1,31 @@
+{
+    "Case ID": "070190",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "independent_review_by_rad": [
+                "insufficient_analysis"
+            ],
+            "review_standard": [
+                "correctness_standard",
+                "reasonableness_standard"
+            ],
+            "decision_outcome": [
+                "case_remanded_for_reconsideration"
+            ],
+            "burden_of_proof": [
+                "applicant_credibility_doubted"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "specific_threats": [
+                "forced_marriage"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "031985",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement and Passing Off",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "no identical/similar trademarks, trade names, logos, or menus",
+                "no confusion or likelihood of confusion"
+            ],
+            "confusion_likelihood": [
+                "not demonstrated"
+            ],
+            "decision_outcome": [
+                "Defendants won summary judgment",
+                "Plaintiffs' claims dismissed with costs awarded to Defendants"
+            ],
+            "cause_of_action": [
+                "trademark infringement",
+                "passing off"
+            ],
+            "procedural_fairness": [
+                "summary judgment principles apply"
+            ]
+        }
+    ]
+}

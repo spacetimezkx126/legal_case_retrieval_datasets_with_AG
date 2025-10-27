@@ -1,0 +1,52 @@
+{
+    "Case ID": "080871",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "risk of persecution in Turkey"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness"
+            ],
+            "evidence_consideration": [
+                "letter from Suleyman Goven",
+                "lack of substantiation",
+                "bias"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable and supported by evidence"
+            ],
+            "country_conditions": [
+                "conditions in Turkey"
+            ],
+            "applicant_characteristics": [
+                "Kurdish Alevi"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "PRRA decisions",
+                "standard of review for PRRA decisions is patent unreasonableness"
+            ],
+            "evidence_considered": [
+                "letter from Suleyman Goven"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "applicable_laws": [
+                "country conditions"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "claimant_burden": [
+                "Officer's assessment"
+            ]
+        }
+    ]
+}

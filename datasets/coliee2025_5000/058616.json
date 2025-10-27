@@ -1,0 +1,112 @@
+{
+    "Case ID": "058616",
+    "Different Crime": [
+        {
+            "Crime Name": "Making False Statements to Immigration Officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies",
+                "lack of supporting documentation"
+            ],
+            "evidence_assessment": [
+                "no corroborative evidence",
+                "conflicting documentation"
+            ],
+            "refugee_status_eligibility": [
+                "religious persecution claim",
+                "fear of return to Fujian Province"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in story",
+                "lack of corroborative evidence"
+            ],
+            "country_conditions": [
+                "Fujian Province relatively liberal towards Christianity"
+            ],
+            "refugee_status_nexus": [
+                "religious persecution claim not supported"
+            ],
+            "standard_of_proof": [
+                "well-founded fear of persecution due to race, religion, nationality, social group, or political opinion"
+            ],
+            "reasonableness_of_decision": [
+                "RPD’s decision upheld due to lack of credible evidence"
+            ],
+            "sur_place_claims": [
+                "applicant's sur place claim deemed inconsistent"
+            ],
+            "past_criminal_convictions": [
+                "used a false passport to enter Canada"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies",
+                "lack of evidence"
+            ],
+            "evidence_assessment": [
+                "no corroborative evidence",
+                "mixed documentation"
+            ],
+            "risk_of_persecution": [
+                "religious persecution",
+                "less persecution in Fujian"
+            ],
+            "decision_reasoning": [
+                "reasonable given the lack of corroborative evidence",
+                "change in narrative"
+            ],
+            "application_details": [
+                "changed story from extortion to religious persecution post-arrival"
+            ],
+            "conclusion_outcome": [
+                "RPD's decision was reasonable"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in story",
+                "lack of corroborative evidence"
+            ],
+            "refugee_protection": [
+                "Convention refugee",
+                "person in need of protection"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act, S.C. 2001, c. 27"
+            ],
+            "decision_outcome": [
+                "denial of refugee status"
+            ],
+            "relevant_factors": [
+                "religious persecution",
+                "country conditions",
+                "Fujian Province",
+                "Christianity"
+            ],
+            "court_ruling": [
+                "dismissed application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

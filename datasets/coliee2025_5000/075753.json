@@ -1,0 +1,33 @@
+{
+    "Case ID": "075753",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "disclosure of key documents unless publicly available",
+                "no denial of procedural fairness"
+            ],
+            "evidence_quality": [
+                "Evidence showed his involvement with MEK/MISS, including admissions of participation in violent activities."
+            ],
+            "membership_in_organization": [
+                "alleged membership in a terrorist-linked organization",
+                "involvement with MEK/MISS"
+            ],
+            "decision_outcome": [
+                "judicial review applications dismissed",
+                "Court upheld immigration officer’s decision"
+            ],
+            "reasonableness_of_decision": [
+                "The officer's decision was reasonable"
+            ],
+            "applicable_law_section": [
+                "IRPA s.34(1)(f)"
+            ],
+            "inadmissibility_criteria": [
+                "a person is inadmissible if they are a member of an organization reasonably believed to engage in terrorism"
+            ]
+        }
+    ]
+}

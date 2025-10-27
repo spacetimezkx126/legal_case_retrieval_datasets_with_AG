@@ -1,0 +1,27 @@
+{
+    "Case ID": "090395",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days of residence in Canada over four years"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "legal_basis": [
+                "Citizenship Act paragraph 5(1)(c)",
+                "Federal Courts Act section 21"
+            ],
+            "immigration_status": [
+                "citizenship application denied"
+            ],
+            "evidence_assessment": [
+                "absent for 739 days",
+                "present for 721 days",
+                "falling 374 days short"
+            ]
+        }
+    ]
+}

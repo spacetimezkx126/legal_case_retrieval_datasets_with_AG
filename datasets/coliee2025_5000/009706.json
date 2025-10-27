@@ -1,0 +1,32 @@
+{
+    "Case ID": "009706",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1095-day physical presence requirement",
+                "centralize mode of existence in Canada"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "reasonable"
+            ],
+            "cause_of_action": [
+                "not meeting residency requirement"
+            ],
+            "nature_of_offense": [
+                "short 79 days of required residency"
+            ],
+            "procedural_fairness": [
+                "considered family ties, employment, and absence patterns during and after review period"
+            ]
+        }
+    ]
+}

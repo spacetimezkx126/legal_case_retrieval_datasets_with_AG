@@ -1,0 +1,33 @@
+{
+    "Case ID": "016458",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "unusual, disproportionate, or undeserved hardship",
+                "financial hardships",
+                "medical hardships",
+                "familial hardships",
+                "economic conditions in Nigeria",
+                "personal circumstances"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "risk as part of hardship",
+                "ignored financial, medical, and familial hardships",
+                "overlooked relevant economic conditions and personal circumstances"
+            ],
+            "decision_outcome": [
+                "denied",
+                "set aside",
+                "referred for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed whether the officer applied the correct legal test and considered all evidence"
+            ]
+        }
+    ]
+}

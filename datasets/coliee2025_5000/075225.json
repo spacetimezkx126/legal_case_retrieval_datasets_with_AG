@@ -1,0 +1,135 @@
+{
+    "Case ID": "075225",
+    "Different Crime": [
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "sufficient information provided",
+                "summaries of reports"
+            ],
+            "legal_basis": [
+                "Sections 27, 28, and 29 of the Corrections and Conditional Release Act"
+            ],
+            "decision_outcome": [
+                "applications for judicial review dismissed"
+            ],
+            "evidence_provided": [
+                "PSR summaries indicating involvement in drug trafficking, intimidation, and assault"
+            ],
+            "judicial_authority": [
+                "court upheld the decisions"
+            ],
+            "serious_criminality": [
+                "allegations of serious misconduct including drug trafficking and assault"
+            ]
+        },
+        {
+            "Crime Name": "Intimidation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Summary provided",
+                "Informant identities withheld",
+                "Adequate information for meaningful participation"
+            ],
+            "legal_basis": [
+                "Sections 27, 28, 29 of the Corrections and Conditional Release Act"
+            ],
+            "risk_assessment": [
+                "Involvement in assault, drug trafficking, intimidation"
+            ],
+            "evidence_consideration": [
+                "Progress Summary Report (PSR)",
+                "Preventive security reports"
+            ],
+            "serious_issue": [
+                "Insufficient details for effective defense"
+            ],
+            "reasonableness_of_decision": [
+                "Court found summaries sufficient"
+            ],
+            "availability_of_alternative_remedies": [
+                "Judicial review upheld transfer decision"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "Sections 27, 28, and 29 of the Corrections and Conditional Release Act",
+                "relevant information for decision-making",
+                "disclosure jeopardizes safety or security"
+            ],
+            "decision_reasoning": [
+                "Progress Summary Report",
+                "involvement in an assault, drug trafficking, and intimidation",
+                "sufficient under procedural fairness",
+                "administrative concerns, not guilt"
+            ],
+            "application_details": [
+                "transfer to the Special Handling Unit (S.H.U.)",
+                "alleged involvement in serious institutional misconduct"
+            ],
+            "result_of_case": [
+                "applications for judicial review are dismissed",
+                "rules of procedural fairness were respected"
+            ],
+            "court_ruling": [
+                "court ruled against the applicant",
+                "upholding the decisions to transfer him"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "Sections 27, 28, and 29 of the Corrections and Conditional Release Act",
+                "sufficient information before making transfer decisions"
+            ],
+            "evidence_considered": [
+                "PSR summaries",
+                "involvement in drug trafficking, intimidation, and an assault"
+            ],
+            "decision_outcome": [
+                "applications for judicial review were dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "Corrections and Conditional Release Act"
+            ],
+            "serious_criminality": [
+                "allegations of serious misconduct, including drug trafficking and assault"
+            ],
+            "decision_made_by": [
+                "the court"
+            ],
+            "review_process": [
+                "Judicial review applications"
+            ]
+        },
+        {
+            "Crime Name": "Using a Firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "Section 27 of the Corrections and Conditional Release Act",
+                "Providing offenders with all relevant information or a summary thereof",
+                "Balancing the need for disclosure with penitentiary security concerns"
+            ],
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "decision_outcome": [
+                "Applications dismissed",
+                "Procedural fairness was upheld"
+            ],
+            "evidence_considered": [
+                "Progress Summary Report (PSR)",
+                "Involvement in an assault, drug trafficking, and intimidation",
+                "Preventive security reports"
+            ],
+            "security_concerns": [
+                "Protecting informants' identities",
+                "Penitentiary safety and security"
+            ]
+        }
+    ]
+}

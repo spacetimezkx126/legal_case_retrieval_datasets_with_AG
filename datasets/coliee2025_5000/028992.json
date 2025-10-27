@@ -1,0 +1,31 @@
+{
+    "Case ID": "028992",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "incomplete passport records",
+                "ICES data",
+                "second passport contents undisclosed"
+            ],
+            "decision_reasoning": [
+                "material error in assessing evidence",
+                "unclear determination of residency"
+            ],
+            "result_of_case": [
+                "Decision quashed",
+                "case returned for reconsideration by a different citizenship judge"
+            ],
+            "residency_requirement": [
+                "1,095 days of residence in Canada over four years"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "071209",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of physical presence in Canada over four years"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence to prove 1095 days of presence",
+                "submitted documents were inconclusive"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "residency requirement not satisfied"
+            ],
+            "document_authenticity": [
+                "expired passport destroyed"
+            ],
+            "standard_of_review": [
+                "Judicial review of Citizenship Judge's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "Case ID": "087476",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility findings",
+                "inconsistencies in narratives and testimony"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection available",
+                "failure to seek help from authorities",
+                "evidence of police leniency"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status",
+                "deemed not credible"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case sent for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Gang-related activities",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable"
+            ],
+            "state_protection_analysis": [
+                "inadequate"
+            ],
+            "legal_basis": [
+                "reasonableness standard"
+            ],
+            "risk_of_persecution": [
+                "gang-related persecution"
+            ],
+            "refugee_status_nexus": [
+                "denied"
+            ],
+            "evidence_consideration": [
+                "psychologist's report inadequately considered"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report crime",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "negative credibility inferences",
+                "inconsistencies in testimony",
+                "discounted psychologist's report"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_reasoning": [
+                "inconsistencies not central to claim",
+                "unjustified negative credibility findings"
+            ],
+            "refugee_status": [
+                "denied due to credibility issues"
+            ],
+            "procedure_followed": [
+                "judicial review application"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed",
+                "case remanded for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistencies",
+                "minor discrepancies",
+                "memory lapses"
+            ],
+            "state_protection": [
+                "assessments",
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "referred back for redetermination",
+                "different panel"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "refugee_protection": [
+                "applicant faced repeated attacks",
+                "rejected due to credibility issues"
+            ]
+        }
+    ]
+}

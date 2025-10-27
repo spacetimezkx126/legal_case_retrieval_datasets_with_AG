@@ -1,0 +1,113 @@
+{
+    "Case ID": "032530",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on grounds of serious criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship due to general country conditions",
+                "pacemaker",
+                "family ties"
+            ],
+            "criminality_inadmissibility": [
+                "convicted of multiple crimes"
+            ],
+            "decision_outcome": [
+                "denied",
+                "upholding the immigration officer's decision"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed whether the immigration officer's decision was reasonable"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of hardship"
+            ],
+            "risk_assessment": [
+                "no personalized risk or undue hardship"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "unusual or disproportionate hardship"
+            ],
+            "procedural_fairness": [
+                "alleged procedural unfairness"
+            ],
+            "evidence_consideration": [
+                "misassessment of evidence"
+            ],
+            "criminal_history": [
+                "criminal convictions"
+            ],
+            "risk_assessment": [
+                "personalized risks"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable decision"
+            ],
+            "country_conditions": [
+                "generalized conditions in Haiti"
+            ]
+        },
+        {
+            "Crime Name": "Breach of probation",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [
+                "unusual or disproportionate hardship",
+                "risks in Haiti",
+                "family ties"
+            ],
+            "decision_reasonableness": [
+                "reasonable",
+                "no personalized risk",
+                "insufficient evidence of hardship"
+            ],
+            "relevant_statute": [
+                "IRPA s. 25"
+            ],
+            "application_details": [
+                "inadmissibility due to criminal convictions",
+                "H&C grounds"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "assessed reasonableness under IRPA guidelines"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "officer's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Possession of narcotics for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "H&C application denied due to insufficient evidence of personalized hardship"
+            ],
+            "criminal_history": [
+                "Lalane's criminal record considered"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Lalane's H&C application denial upheld"
+            ],
+            "applicable_law_or_regulation": [
+                "s. 25 of IRPA"
+            ],
+            "evidence_considered": [
+                "criminal record",
+                "health issues",
+                "family ties",
+                "conditions in Haiti"
+            ],
+            "review_process": [
+                "Judicial review assessed reasonableness of immigration officer's decision"
+            ],
+            "decision_made_by": [
+                "immigration officer"
+            ]
+        }
+    ]
+}

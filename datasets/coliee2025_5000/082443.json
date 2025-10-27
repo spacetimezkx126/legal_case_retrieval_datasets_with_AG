@@ -1,0 +1,148 @@
+{
+    "Case ID": "082443",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "denied claim based on changed country conditions"
+            ],
+            "risk_assessment": [
+                "past persecution, torture, or punishment"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "matter referred back to the Board for redetermination"
+            ],
+            "standard_of_review": [
+                "unreasonable decision"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "emotional suffering",
+                "deplorable treatment"
+            ],
+            "legal_basis": [
+                "section 108(4)",
+                "'compelling reasons' exception"
+            ]
+        },
+        {
+            "Crime Name": "Denial of refugee status",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "compelling_reasons_exception": [
+                "past persecution",
+                "beatings",
+                "business disruptions",
+                "psychological trauma"
+            ],
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "political persecution"
+            ],
+            "country_conditions": [
+                "changed country conditions"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case referred back to the Board for redetermination"
+            ],
+            "review_standard": [
+                "overly stringent test"
+            ]
+        },
+        {
+            "Crime Name": "Confiscation of property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "judicial review process"
+            ],
+            "persecution_details": [
+                "past persecution in Tanzania due to political opinions"
+            ],
+            "nexus_to_convention_grounds": [
+                "political persecution"
+            ],
+            "decision_outcome": [
+                "application for judicial review is granted"
+            ],
+            "standard_of_review": [
+                "reviewable error"
+            ]
+        },
+        {
+            "Crime Name": "Beating",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "past persecution"
+            ],
+            "country_conditions": [
+                "changed country conditions"
+            ],
+            "credibility_findings": [
+                "credible claims"
+            ],
+            "refugee_status_nexus": [
+                "compelling reasons exception"
+            ],
+            "reasonableness_of_decision": [
+                "erroneous interpretation"
+            ]
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "Board's narrow interpretation of 'compelling reasons' exception"
+            ],
+            "application_details": [
+                "Judicial review of the Board's decision denying refugee status"
+            ],
+            "risk_of_persecution": [
+                "Past persecution credible but not considered 'atrocious' or 'appalling' enough"
+            ],
+            "conclusion_outcome": [
+                "Application for judicial review granted"
+            ],
+            "result_of_case": [
+                "Case remanded to the Board for reassessment under the 'compelling reasons' exception"
+            ]
+        },
+        {
+            "Crime Name": "Detention without charge",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "compelling_reasons": [
+                "past persecution",
+                "beatings",
+                "detention",
+                "psychological trauma"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision unreasonable"
+            ],
+            "refugee_definition": [
+                "Section 108(4) of the Immigration and Refugee Protection Act"
+            ],
+            "persecution_grounds": [
+                "political activities"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case referred back to the Board for reassessment"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Case ID": "053401",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate (H&C) Grounds Application Rejection",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "medical_condition",
+                "undue_hardship",
+                "specialized_medical_care"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "evidence_considered": [
+                "brain_injury",
+                "Aphasia",
+                "medical_care_unavailability"
+            ],
+            "decision_outcome": [
+                "judicial_review_granted",
+                "decision_set_aside",
+                "reassessment_required"
+            ],
+            "decision_made_by": [
+                "PRRA_Officer",
+                "court"
+            ],
+            "review_process": [
+                "judicial_review"
+            ]
+        }
+    ]
+}

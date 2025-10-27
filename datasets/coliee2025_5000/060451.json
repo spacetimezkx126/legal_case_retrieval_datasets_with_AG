@@ -1,0 +1,27 @@
+{
+    "Case ID": "060451",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent statements",
+                "lack of supporting documentation",
+                "contradictions regarding US asylum claim"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "failure to produce corroborating documents"
+            ],
+            "refugee_status_eligibility": [
+                "rejected due to lack of credibility"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

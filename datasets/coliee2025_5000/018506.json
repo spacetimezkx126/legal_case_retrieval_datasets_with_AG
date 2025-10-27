@@ -1,0 +1,104 @@
+{
+    "Case ID": "018506",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate police response",
+                "failed to reasonably seek state protection before fleeing Mexico"
+            ],
+            "evidence_assessment": [
+                "clear evidence of persecution",
+                "inability to access state protection",
+                "past trauma"
+            ],
+            "refugee_status_eligibility": [
+                "refugee claim denial"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "reasonable apprehension of bias",
+                "RPD's decision-making process"
+            ],
+            "misrepresentation_or_fraud": [
+                "misinterpretation of IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "mixed evidence"
+            ],
+            "risk_assessment": [
+                "past violence",
+                "corruption"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "refugee claims must demonstrate inadequate state protection"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was reasonable",
+                "acceptable legal outcomes"
+            ],
+            "evidence_consideration": [
+                "did not fully engage with police",
+                "efforts insufficient"
+            ],
+            "humanitarian_concerns": [],
+            "applicant_characteristics": []
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "risk_of_persecution": [
+                "past persecution"
+            ],
+            "state_protection": [
+                "adequate protection exists in Mexico",
+                "did not fully engage with local authorities"
+            ],
+            "decision_reasoning": [
+                "efforts to seek state protection insufficient"
+            ],
+            "conclusion_outcome": [
+                "RPD's decision was reasonable",
+                "application for judicial review is dismissed"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "upholding the RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Police Misconduct",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "adequate state protection in Mexico"
+            ],
+            "procedural_fairness": [
+                "alleged bias was deemed procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was reasonable"
+            ],
+            "judicial_review_process": [
+                "judicial review analyzed RPD's decision"
+            ],
+            "decision_outcome": [
+                "application was dismissed"
+            ]
+        }
+    ]
+}

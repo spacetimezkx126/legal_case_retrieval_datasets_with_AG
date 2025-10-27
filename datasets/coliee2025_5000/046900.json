@@ -1,0 +1,52 @@
+{
+    "Case ID": "046900",
+    "Different Crime": [
+        {
+            "Crime Name": "Non-accompanying family member not examined",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "family_class_considerations": [
+                "s. 117(9)(d) of the Immigration and Refugee Protection Regulations"
+            ],
+            "misrepresentation_or_fraud": [
+                "failed to disclose marriage"
+            ],
+            "decision_outcome": [
+                "dismissed application",
+                "upheld regulation"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "regulatory_compliance": [
+                "visa issuance and landing process"
+            ],
+            "immigration_status": [
+                "permanent residence application"
+            ]
+        },
+        {
+            "Crime Name": "Charter rights violation claim dismissed",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "charter_rights_violation": [
+                "s. 7 rights"
+            ],
+            "immigration_status": [
+                "foreign national",
+                "permanent residence"
+            ],
+            "judicial_review_process": [
+                "Judicial review of IAD decision"
+            ],
+            "burden_of_proof": [
+                "no inherent right to enter Canada"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no Charter breach found"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations, s. 117(9)(d)"
+            ]
+        }
+    ]
+}

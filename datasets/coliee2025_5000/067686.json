@@ -1,0 +1,27 @@
+{
+    "Case ID": "067686",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "refugee_status": [
+                "applicant claimed refugee status"
+            ],
+            "generalized_risk_exception": [
+                "RPD applied generalized risk exception"
+            ],
+            "specific_targeting": [
+                "contradicts generalized risk categorization"
+            ],
+            "decision_reasonableness": [
+                "RPD's application was unreasonable"
+            ],
+            "review_process": [
+                "judicial review under IRPA subsection 72(1)"
+            ],
+            "result_of_case": [
+                "court granted judicial review, ordered rehearing"
+            ]
+        }
+    ]
+}

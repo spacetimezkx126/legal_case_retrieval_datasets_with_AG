@@ -1,0 +1,480 @@
+{
+    "Case ID": "086715",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Uncle"
+            ],
+            "Victim_Status": [
+                "Applicant"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ],
+            "Threat_Source": [
+                "Uncle"
+            ],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "Insufficient"
+            ],
+            "Evidence_Type": [
+                "Testimony",
+                "Lack of Corroborating Evidence"
+            ],
+            "Evidence_Credibility": [
+                "Not Supported"
+            ],
+            "Credibility_Assessment": [
+                "Testimony found unsupported"
+            ],
+            "Risk_Assessment": [
+                "Well-founded fear not established"
+            ],
+            "Risk_Type": [
+                "Persecution",
+                "Risk to life"
+            ],
+            "Risk_Nature": [
+                "Due to familial abuse and lack of state protection"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Family member subjected to abuse"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Jurisdiction": [
+                "Mexico",
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Legal_Provision": [
+                "Well-founded fear of persecution",
+                "State protection",
+                "Internal flight alternative"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "Board's decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Credibility assessment",
+                "Corroboration requirement"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review under reasonableness standard"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Threatening Death or Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Uncle"
+            ],
+            "Victim_Status": [
+                "Applicant"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ],
+            "Threat_Source": [
+                "Uncle"
+            ],
+            "Aggravating_Factors": [
+                "Gender-specific risks alleged"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "Insufficient"
+            ],
+            "Evidence_Type": [
+                "Testimony",
+                "Lack of corroboration"
+            ],
+            "Evidence_Credibility": [
+                "Not supported"
+            ],
+            "Credibility_Assessment": [
+                "Testimony lacked credibility due to lack of corroboration"
+            ],
+            "Risk_Assessment": [
+                "Well-founded fear not established"
+            ],
+            "Risk_Type": [
+                "Persecution",
+                "Threats of harm"
+            ],
+            "Risk_Nature": [
+                "Due to familial abuse and fraud threats"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Family member subjected to abuse and threats"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Jurisdiction": [
+                "Mexico",
+                "Canada (Federal Court)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Legal_Provision": [
+                "Well-founded fear of persecution",
+                "State protection",
+                "Internal flight alternative"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "Board's decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Misapplication of gender-specific considerations claimed"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review under reasonableness standard"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Report Crime",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [],
+            "Legal_Provision_Involved": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Outcome": [
+                "Board's determination upheld"
+            ],
+            "Grounds_for_Claim": [
+                "Lack of state protection",
+                "No viable internal flight alternative"
+            ],
+            "Remedy_Requested": [
+                "Refugee status"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Burden of proof on applicant"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Institutional_Action": [
+                "Board's assessment of credibility and protection"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board"
+            ],
+            "Exemptions_or_Defenses_Cited": [],
+            "Evidence_Type": [
+                "Testimony",
+                "Lack of corroboration"
+            ],
+            "Jurisdiction": [
+                "Mexico",
+                "Canada (Federal Court)"
+            ],
+            "Individual_Status_or_Claim": [
+                "Refugee claimant"
+            ],
+            "Nature_of_Participation": [
+                "Applicant seeking protection"
+            ],
+            "Temporal_Context": [],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Personal_Data_Implicated": [],
+            "Legal_Statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Assessment_Standard": [
+                "Reasonableness"
+            ],
+            "Governing_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Complaint_Issues": [
+                "Credibility",
+                "Gender-specific considerations"
+            ],
+            "Grounds_for_Discrimination": [
+                "Gender-based persecution alleged"
+            ],
+            "Role_of_Person": [
+                "Victim of abuse"
+            ],
+            "Protected_Group": [
+                "Women",
+                "Family members at risk"
+            ],
+            "Legal_Standard": [
+                "Well-founded fear of persecution"
+            ],
+            "Protection_Claim": [
+                "State protection unavailable"
+            ],
+            "State_Protection_Assessment": [
+                "Adequate state protection found"
+            ],
+            "Risk_Factor": [
+                "Domestic abuse",
+                "Family-based threats"
+            ],
+            "Credibility": [
+                "Testimony not corroborated"
+            ],
+            "Legal_Provision": [
+                "Section on refugee protection under IRPA"
+            ],
+            "Targeted_Group": [
+                "Women facing familial violence"
+            ],
+            "State_Protection_Adequacy": [
+                "Found adequate by Board"
+            ],
+            "Risk_Nature": [
+                "Persecution due to sexual abuse and lack of protection"
+            ],
+            "Enforcement_Action": [],
+            "Claimant_Status": [
+                "Refugee applicant"
+            ],
+            "Perpetrator_Entity": [
+                "Family member (uncle)"
+            ],
+            "Legal_Basis": [
+                "Fear of persecution based on family violence"
+            ],
+            "Victim_Basis": [
+                "Sexual abuse and threats by uncle"
+            ]
+        },
+        {
+            "Crime_Name": "Fraudulent Real Estate Transactions",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Real estate fraud"
+            ],
+            "Legal_Issue": [
+                "Credibility of claims",
+                "State protection",
+                "Internal flight alternative"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Insufficient evidence to support claims"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to prove lack of state protection"
+            ],
+            "Credibility_Factor": [
+                "Testimony lacked corroboration"
+            ],
+            "Legal_Rule": [
+                "Well-founded fear of persecution requires credible evidence"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Assessment of credibility and evidence"
+            ],
+            "Grounds_for_Claim": [
+                "Persecution involving sexual abuse and fraud"
+            ],
+            "Outcome_on_Merits": [
+                "Claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [],
+            "Key_Evidence_Considered": [
+                "Applicant's testimony",
+                "Lack of documentation"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicant_Challenge": [
+                "Board ignored gender-specific issues"
+            ],
+            "Court_Result": [
+                "Affirmed Board's decision"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA"
+            ],
+            "Standard_of_Proof": [
+                "Preponderance of evidence / well-founded fear"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "Oral testimony",
+                "Documentary absence"
+            ],
+            "Remedy_Requested": [
+                "Refugee protection"
+            ],
+            "Outcome": [
+                "Denied"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Refugee status"
+            ],
+            "Resolution_Mechanism": [
+                "Administrative appeal and judicial review"
+            ],
+            "Legal_Provision": [
+                "Refugee protection provisions in IRPA"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "Applicant for refugee status"
+            ],
+            "Legal_Provision_Cited": [],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Failure to meet burden of proof"
+            ],
+            "Applicable_Process": [
+                "Refugee determination process"
+            ],
+            "Outcome_of_Review": [
+                "Dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "Refugee claim"
+            ],
+            "Jurisdiction": [
+                "Canada",
+                "Mexico"
+            ],
+            "Governing_Rule": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

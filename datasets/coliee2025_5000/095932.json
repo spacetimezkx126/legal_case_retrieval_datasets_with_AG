@@ -1,0 +1,26 @@
+{
+    "Case ID": "095932",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ATIA sections 23",
+                "ATIA 21(1)(a)"
+            ],
+            "evidence_assessment": [
+                "solicitor-client privilege",
+                "advice/recommendations"
+            ],
+            "decision_reasoning": [
+                "Protocol reflects an agreement rather than legal advice or recommendations"
+            ],
+            "conclusion_outcome": [
+                "Protocol is neither privileged nor advice/recommendations"
+            ],
+            "result_of_case": [
+                "Court granted application, ordering disclosure of the Protocol"
+            ]
+        }
+    ]
+}

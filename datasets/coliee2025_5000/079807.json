@@ -1,0 +1,88 @@
+{
+    "Case ID": "079807",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "insufficient evidence",
+                "vague claims",
+                "lack of details"
+            ],
+            "evidence_assessment": [
+                "failed to provide adequate evidence",
+                "political activities and risks"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "removal proceedings can proceed"
+            ],
+            "refugee_status_eligibility": [
+                "personal risk not shared by others in their country"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide sufficient evidence for refugee protection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Section 97 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "limited evidence regarding involvement with MQM-A and threats from MQM-H",
+                "insufficient evidence linking attack to political activities"
+            ],
+            "documentary_evidence": [
+                "risks to MQM-A members deemed irrelevant due to lack of personal connection"
+            ],
+            "reasonableness_standard": [
+                "officer's decision was reasonable given lack of specific evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "no error found in officer's decision"
+            ],
+            "burden_of_proof": [
+                "applicant failed to provide sufficient evidence of personalized risk"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaged in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 34(1)(f)",
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_credibility": [
+                "insufficient objective evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness issues"
+            ],
+            "membership_in_organization": [
+                "MQM-A",
+                "MQM-H"
+            ],
+            "reasonableness_of_decision": [
+                "officer's decision was reasonable"
+            ],
+            "involvement_details": [
+                "Applicant's involvement with MQM-A"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "refugee_status_claim": [
+                "Applicant sought refugee status in Canada"
+            ],
+            "discrepancies_identified": [
+                "failed to provide details about his role in MQM-A"
+            ],
+            "evidence_provided": [
+                "lack of sufficient evidence provided by the applicant"
+            ],
+            "court_ruling": [
+                "removal to Pakistan not deferred"
+            ]
+        }
+    ]
+}

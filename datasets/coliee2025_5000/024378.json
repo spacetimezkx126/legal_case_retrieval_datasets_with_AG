@@ -1,0 +1,49 @@
+{
+    "Case ID": "024378",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "assessed whether the visa officer's decision was reasonable or breached procedural fairness"
+            ],
+            "evidence_assessment": [
+                "visa officer found her skills insufficient for daycare work based on interview notes"
+            ],
+            "immigration_status": [
+                "work permit application rejected"
+            ],
+            "decision_outcome": [
+                "Court upheld the visa officer's decision, dismissing the judicial review application"
+            ],
+            "standard_of_review": [
+                "reasonableness of the visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Inability to perform specified work",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Subsection 200(3) of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_reasoning": [
+                "visa officer's factual findings and procedural fairness"
+            ],
+            "evidence_assessment": [
+                "interview notes"
+            ],
+            "application_details": [
+                "Applicant's work permit application rejected due to lack of relevant childcare experience"
+            ],
+            "procedure_followed": [
+                "Judicial review assessed the visa officer's factual findings and procedural fairness"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; visa officer's decision upheld"
+            ],
+            "conclusion_outcome": [
+                "The visa officer's decision was reasonable and within acceptable outcomes"
+            ]
+        }
+    ]
+}

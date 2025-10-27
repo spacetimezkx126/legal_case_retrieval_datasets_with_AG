@@ -1,0 +1,165 @@
+{
+    "Case ID": "043903",
+    "Different Crime": [
+        {
+            "Crime Name": "Death Threats",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "not eligible"
+            ],
+            "risk_assessment": [
+                "generalized risks",
+                "not personal risks"
+            ],
+            "legal_basis": [
+                "IRPA 97(1)(b)(ii)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "humanitarian_and_compassionate_factors": [],
+            "state_protection_analysis": [
+                "Board's assessment of country conditions"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "insufficient"
+            ],
+            "internal_flight_alternative": [
+                "not applicable"
+            ],
+            "risk_characterization": [
+                "generalized crime risks"
+            ],
+            "specific_targeting": [
+                "no specific targeting"
+            ],
+            "nexus_to_convention_grounds": [
+                "not established"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "judicial_authority": [
+                "Court upheld the Board's decision"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "persecution_details": [
+                "threats and persecution linked to wealth and corruption investigations"
+            ],
+            "relationship_genuineness": [
+                "not applicable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not mentioned"
+            ],
+            "child_best_interests": [
+                "not mentioned"
+            ],
+            "appeal_outcome": [
+                "rejected"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "risk_assessment": [
+                "generalized crime risks",
+                "random and isolated crimes"
+            ],
+            "personalized_vs_generalized_risk": [
+                "perceived wealth",
+                "not personal risks"
+            ],
+            "refugee_status_nexus": [
+                "not linked to Convention grounds"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "country_conditions": [
+                "threats and persecution in Honduras"
+            ],
+            "applicant_characteristics": [
+                "perceived wealth",
+                "investigations into corruption"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Refugee Protection Division's decision"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized crime risks"
+            ],
+            "applicable_law_section": [
+                "IRPA 97(1)(b)(ii)"
+            ],
+            "refugee_status_claim": [
+                "threats and persecution in Honduras linked to wealth and corruption investigations"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "not persons in need of protection"
+            ],
+            "reasoning_given": [
+                "faced generalized crime risks due to perceived wealth, not personal risks"
+            ],
+            "court_ruling": [
+                "upheld the Board's decision"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "evidence_provided": [],
+            "risk_assessment": [
+                "generalized risk insufficient for protection under IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_of_persecution": [
+                "generalized"
+            ],
+            "decision_reasoning": [
+                "risks generalized, not personal"
+            ],
+            "application_details": [
+                "refugee protection due to threats linked to perceived wealth"
+            ],
+            "procedural_fairness": [
+                "judicial review of Refugee Protection Division's decision"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

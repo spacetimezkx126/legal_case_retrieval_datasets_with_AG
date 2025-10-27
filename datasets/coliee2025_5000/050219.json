@@ -1,0 +1,105 @@
+{
+    "Case ID": "050219",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act",
+                "Convention refugee status",
+                "Articles 1E and 1F(b)"
+            ],
+            "refugee_status_eligibility": [
+                "excluded from Convention refugee status"
+            ],
+            "immigration_status": [
+                "permanent resident status in Mexico"
+            ],
+            "criminality_inadmissibility": [
+                "serious non-political crime"
+            ],
+            "decision_outcome": [
+                "Application for judicial review denied",
+                "exclusion upheld"
+            ],
+            "standard_of_review": [
+                "Judicial review of the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Articles 1E and 1F(b) of the Convention"
+            ],
+            "decision_outcome": [
+                "denied"
+            ],
+            "serious_non_political_crime": [
+                "attempted sexual battery"
+            ],
+            "judicial_authority": [
+                "Board"
+            ],
+            "exclusion_reason": [
+                "permanent resident status in Mexico with significant rights",
+                "serious nonpolitical crime"
+            ],
+            "appeal_outcome": [
+                "denied"
+            ],
+            "nature_of_offense": [
+                "Bribery"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "denied"
+            ],
+            "exclusion_reason": [
+                "Convention refugee status exclusion under Articles 1E and 1F(b)"
+            ],
+            "immigration_status": [
+                "permanent resident status in Mexico"
+            ],
+            "serious_nonpolitical_crimes": [
+                "attempted sexual battery"
+            ],
+            "judicial_review_result": [
+                "denied"
+            ],
+            "decision_outcome": [
+                "Board's decision upheld"
+            ],
+            "reasonableness_of_decision": [
+                "reasonably supported by evidence and applicable legal standards"
+            ],
+            "applicable_law_section": [
+                "Articles 1E and 1F(b) of the Convention"
+            ]
+        },
+        {
+            "Crime Name": "Serious nonpolitical crime outside the country of refuge",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Articles 1E and 1F(b) of the Convention"
+            ],
+            "immigration_status": [
+                "permanent resident status in Mexico",
+                "criminal conviction in the U.S."
+            ],
+            "refugee_definition": [
+                "exclusion from Convention refugee status"
+            ],
+            "decision_outcome": [
+                "Application for judicial review denied",
+                "Board's decision upheld"
+            ],
+            "administrative_error": [
+                "alleged legal errors and factual misinterpretations"
+            ]
+        }
+    ]
+}

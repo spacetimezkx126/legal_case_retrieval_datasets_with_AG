@@ -1,0 +1,48 @@
+{
+    "Case ID": "052702",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "proceedings without counsel",
+                "self-representation consequences"
+            ],
+            "evidence_assessment": [
+                "quick marriage timing",
+                "inconsistent testimonies"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "marriage deemed fraudulent"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage primarily for immigration benefits"
+            ]
+        },
+        {
+            "Crime Name": "Use of Fraudulent Visa",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "applicant was aware of his right to counsel",
+                "chose self-representation",
+                "no breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed",
+                "IAD's decision upheld"
+            ],
+            "relationship_genuineness": [
+                "quick marriage arrangement suspected of being for immigration purposes"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "IAD"
+            ],
+            "cause_of_action": [
+                "use of fraudulent visa",
+                "applicant's wife jailed"
+            ]
+        }
+    ]
+}

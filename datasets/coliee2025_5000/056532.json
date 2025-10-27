@@ -1,0 +1,29 @@
+{
+    "Case ID": "056532",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Trade-marks Act",
+                "Section 6 of the Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "substantial overlap in targeted consumer bases and product categories",
+                "significant recognition of Chinese characters among the respondent’s clientele"
+            ],
+            "standard_of_review": [
+                "likelihood of confusion with existing trademarks"
+            ],
+            "distinctiveness_evaluation": [
+                "failed to prove lack of confusion"
+            ],
+            "confusion_likelihood": [
+                "deemed too similar to the respondent’s established trademarks"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        }
+    ]
+}

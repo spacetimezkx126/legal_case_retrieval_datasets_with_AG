@@ -1,0 +1,66 @@
+{
+    "Case ID": "036981",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 34 of IRPA"
+            ],
+            "criminality_inadmissibility": [
+                "terrorism",
+                "membership in organization engaging in terrorism"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "humanitarian aid not intended to enhance terrorist activities",
+                "lack of analysis of purpose or intent"
+            ],
+            "decision_outcome": [
+                "preliminary assessment unreasonable",
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 34(1)(c) and (f) of IRPA"
+            ],
+            "evidence_credibility": [
+                "humanitarian aid to Gaza via Hamas",
+                "no evidence of intent to enhance Hamas' terrorist activities"
+            ],
+            "membership_in_organization": [
+                "Hamas"
+            ],
+            "risk_to_national_security": [],
+            "reasonableness_of_decision": [
+                "unreasonable assessment due to overreach in interpreting facts and law"
+            ],
+            "admissibility_criteria": [
+                "engagement in terrorism or membership in an organization that engages in terrorism"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_review_result": [
+                "no legally reviewable decision existed"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "involvement_details": [
+                "delivered humanitarian aid to Gaza through Hamas"
+            ],
+            "discrepancies_identified": [
+                "aid used for humanitarian purposes, not terrorism"
+            ],
+            "court_ruling": [
+                "dismissed application but deemed assessment unreasonable"
+            ]
+        }
+    ]
+}

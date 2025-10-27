@@ -1,0 +1,365 @@
+{
+    "Case ID": "045406",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Gang members"
+            ],
+            "Victim_Status": [
+                "Applicant",
+                "Woman"
+            ],
+            "Location_of_Incident": [
+                "Honduras"
+            ],
+            "Threat_Source": [
+                "Gang members"
+            ],
+            "Aggravating_Factors": [
+                "Gang-related violence",
+                "Pervasive gang activity"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Severe"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Personal testimony",
+                "Country condition evidence"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Credible applicant"
+            ],
+            "Risk_Assessment": [
+                "High risk of re-victimization"
+            ],
+            "Risk_Type": [
+                "Gender-based violence",
+                "Gang violence"
+            ],
+            "Risk_Nature": [
+                "Ongoing",
+                "Targeted"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. Varela"
+            ],
+            "Targeted_Individual_Status": [
+                "Female victim of sexual assault"
+            ],
+            "Geographic_Context": [
+                "Honduras"
+            ],
+            "Jurisdiction": [
+                "Canada (refugee determination)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA section 72"
+            ],
+            "Legal_Provision": [
+                "Right to protection under IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 72 judicial review"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Application granted, case remitted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to assess operational adequacy of state protection"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Threatening Death or Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Gang members"
+            ],
+            "Victim_Status": [
+                "Applicant",
+                "Woman"
+            ],
+            "Location_of_Incident": [
+                "Honduras"
+            ],
+            "Threat_Source": [
+                "Gang members"
+            ],
+            "Aggravating_Factors": [
+                "Gang-related threats",
+                "Pervasive gang violence"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Personal testimony",
+                "Country condition evidence"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Credible applicant"
+            ],
+            "Risk_Assessment": [
+                "High risk of harm"
+            ],
+            "Risk_Type": [
+                "Gang violence",
+                "Threats to life"
+            ],
+            "Risk_Nature": [
+                "Ongoing",
+                "Targeted"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Ms. Varela"
+            ],
+            "Targeted_Individual_Status": [
+                "Female victim of threats"
+            ],
+            "Geographic_Context": [
+                "Honduras"
+            ],
+            "Jurisdiction": [
+                "Canada (refugee determination)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA section 72"
+            ],
+            "Legal_Provision": [
+                "Right to protection under IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 72 judicial review"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Application granted, case remitted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to analyze operational effectiveness of state protection"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Gang-Related Violence",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": [],
+            "Legal_Provision_Involved": [
+                "IRPA section 72"
+            ],
+            "Procedural_Fairness_Issue": [
+                "Failure to properly assess state protection"
+            ],
+            "Evidence_Disclosure_Status": [],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority_Responsible": [
+                "Federal Court"
+            ],
+            "Legal_Provision": [
+                "Right to refugee protection"
+            ],
+            "Assessment_Factor": [
+                "Operational adequacy of state protection"
+            ],
+            "Evidentiary_Issue": [
+                "Insufficient analysis of state efforts"
+            ],
+            "Procedural_Requirement": [
+                "Adequate assessment of country conditions"
+            ],
+            "Risk_Nexus": [
+                "Gender and gang violence"
+            ],
+            "Country_of_Origin": [
+                "Honduras"
+            ],
+            "Legal_Standard": [
+                "Reasonableness standard"
+            ],
+            "Evidence_Source": [
+                "Applicant testimony",
+                "Country reports"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Outcome": [
+                "Application granted, case remitted"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Basis_for_Decision": [
+                "Inadequate state protection"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Grounds_for_Inadmissibility_or_Denial": [
+                "Lack of effective state protection"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Charter_Issues": [],
+            "Evidence_Type": [
+                "Personal narrative",
+                "Country condition documentation"
+            ],
+            "Credibility_Assessment": [
+                "Credible"
+            ],
+            "Procedural_Fairness_Issues": [
+                "Deficient reasoning by the Board"
+            ],
+            "Basis_for_Inadmissibility": [],
+            "Risk_Assessment_Factors": [
+                "Pervasive gang violence",
+                "Targeting of women"
+            ],
+            "Judicial_Review_Outcome": [
+                "Granted"
+            ],
+            "Accusation": [
+                "Gang-related sexual assault and threats"
+            ],
+            "Procedural_Issue": [
+                "Failure to analyze operational adequacy"
+            ],
+            "Review_Type": [
+                "Internal reconsideration after judicial review"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Credibility_Findings": [
+                "Applicant found credible"
+            ],
+            "Risk_Persecution": [
+                "Yes, gender-based persecution by gangs"
+            ],
+            "Mode_of_Entry": [
+                "Refugee claim in Canada"
+            ],
+            "Applicant_Status": [
+                "Refugee claimant"
+            ],
+            "Legal_Issue": [
+                "Adequacy of state protection"
+            ],
+            "Charter_Section_Involved": [],
+            "Relevant_Factors_Considered": [
+                "Gang control",
+                "Police failure",
+                "Gender-based violence"
+            ],
+            "Decision_Level": [
+                "Administrative tribunal (IRB), reviewed by Federal Court"
+            ]
+        }
+    ]
+}

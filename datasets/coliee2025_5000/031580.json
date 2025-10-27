@@ -1,0 +1,26 @@
+{
+    "Case ID": "031580",
+    "Different Crime": [
+        {
+            "Crime Name": "False or Misleading Information in Visa Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "marriage not genuine",
+                "entered primarily for immigration purposes"
+            ],
+            "evidence_assessment": [
+                "conflicting evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "regulatory_compliance": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ]
+        }
+    ]
+}

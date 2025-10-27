@@ -1,0 +1,33 @@
+{
+    "Case ID": "014510",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable credibility findings",
+                "dismissed lack of awareness",
+                "insufficient corroborative evidence",
+                "alleged contradictions",
+                "failure to produce a witness"
+            ],
+            "reasonableness_standard": [
+                "credibility assessments must be justified, transparent, and intelligible"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remitted for redetermination"
+            ],
+            "evidence_assessment": [
+                "plausibility of explanations",
+                "inherent difficulties in proving sexual orientation"
+            ],
+            "burden_of_proof": [
+                "Applicant's chance to prove his claim"
+            ],
+            "nexus_to_convention_grounds": [
+                "persecution based on sexual orientation"
+            ]
+        }
+    ]
+}

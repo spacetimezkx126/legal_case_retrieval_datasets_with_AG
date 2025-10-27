@@ -1,0 +1,52 @@
+{
+    "Case ID": "022254",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide required documentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Officer did not deny procedural fairness"
+            ],
+            "evidence_assessment": [
+                "Applicant failed to submit UK tax documents despite reminders"
+            ],
+            "legal_basis": [
+                "Under IRPA, applicants must provide all relevant documents. Officers can deny permits if inadmissibility is suspected"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "work permit application"
+            ]
+        },
+        {
+            "Crime Name": "Potential inadmissibility due to possible tax evasion offense under Income Tax Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Income Tax Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "no procedural fairness violation occurred"
+            ],
+            "procedural_fairness": [
+                "officer reasonably required UK tax returns"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Income Tax Act"
+            ],
+            "evidence_provided": [
+                "Applicant failed to submit UK tax returns"
+            ],
+            "judicial_authority": [
+                "Court upheld officer's decision"
+            ],
+            "cause_of_action": [
+                "Applicant omitted UK tax documentation"
+            ]
+        }
+    ]
+}

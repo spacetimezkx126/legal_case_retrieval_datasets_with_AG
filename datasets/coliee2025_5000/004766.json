@@ -1,0 +1,35 @@
+{
+    "Case ID": "004766",
+    "Different Crime": [
+        {
+            "Crime Name": "Regulatory Offense (Drug Approval)",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Food and Drugs Act and Regulations"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence",
+                "clinical trial data",
+                "scientific literature",
+                "internal Health Canada documents"
+            ],
+            "decision_made_by": [
+                "Health Canada",
+                "the court"
+            ],
+            "applicable_law_or_regulation": [
+                "Notice of Compliance (NOC)",
+                "Food and Drugs Act"
+            ],
+            "decision_outcome": [
+                "DIN application dismissed",
+                "NDS application allowed"
+            ],
+            "evidence_considered": [
+                "affidavits",
+                "submissions",
+                "literature provided"
+            ]
+        }
+    ]
+}

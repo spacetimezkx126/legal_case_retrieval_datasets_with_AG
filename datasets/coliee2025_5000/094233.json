@@ -1,0 +1,45 @@
+{
+    "Case ID": "094233",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to inform applicant of adverse extrinsic evidence",
+                "failure to disclose undocumented inconsistencies"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration",
+                "decision quashed"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged marriage fraud"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "third-party information",
+                "undocumented inconsistencies"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration",
+                "decision quashed"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "relationship_genuineness": [
+                "alleged marriage fraud"
+            ]
+        }
+    ]
+}

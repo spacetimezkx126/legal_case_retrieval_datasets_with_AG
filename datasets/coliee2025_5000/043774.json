@@ -1,0 +1,47 @@
+{
+    "Case ID": "043774",
+    "Different Crime": [
+        {
+            "Crime Name": "False or Misleading Information in Citizenship Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days of physical presence in Canada during the four years preceding the application"
+            ],
+            "credibility_assessment": [
+                "negative credibility finding due to failure to disclose absences"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed; citizenship application remains denied"
+            ],
+            "immigration_status": [
+                "citizenship application"
+            ]
+        },
+        {
+            "Crime Name": "False or Misleading Information in Citizenship Application",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act"
+            ],
+            "reasonableness_of_decision": [
+                "residency determination",
+                "reasonableness standard"
+            ],
+            "evidence_credibility": [
+                "unreliable evidence",
+                "negative credibility finding"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "citizenship application remains denied"
+            ],
+            "judicial_review_result": [
+                "Federal Court reviewed",
+                "upholding the Citizenship Judge's decision"
+            ]
+        }
+    ]
+}

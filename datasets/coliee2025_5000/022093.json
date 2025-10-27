@@ -1,0 +1,114 @@
+{
+    "Case ID": "022093",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of Undisclosed Passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "impact of undisclosed passport on applicant's credibility"
+            ],
+            "evidence_assessment": [
+                "VIOPP entry suggesting another passport not disclosed"
+            ],
+            "misrepresentation_or_fraud": [
+                "undisclosed absences and possible misrepresentations"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Minister's application for judicial review granted, matter remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Credit Card Misuse",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Judicial review granted"
+            ],
+            "evidence_provided": [
+                "Unverified credit card transactions",
+                "Speculative explanations"
+            ],
+            "decision_outcome": [
+                "case remitted to Minister for reevaluation of residence requirements"
+            ],
+            "procedural_fairness": [
+                "Judges must reasonably engage with all evidence"
+            ],
+            "residency_requirements": [
+                "Impact on credibility of decision"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Citizenship Application",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "credibility_findings": [
+                "inadequate analysis of credibility"
+            ],
+            "evidence_consideration": [
+                "errors in evaluating evidence",
+                "discrepancies in credit card usage",
+                "assumed absences durations without justification"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable assessment by Citizenship Judge"
+            ],
+            "standard_of_proof": [
+                "reasonableness standards"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Citizenship Application",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inadequate analysis of potential misrepresentations"
+            ],
+            "evidence_sufficiency": [
+                "errors in evaluating evidence",
+                "assumed absences durations without justification",
+                "failed to investigate credit card discrepancies"
+            ],
+            "decision_made_by": [
+                "Citizenship Judge"
+            ],
+            "review_process": [
+                "judicial review based on reasonableness standards"
+            ],
+            "applicable_law_or_regulation": [
+                "Citizenship Act"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remitted to the Minister for reevaluation"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Citizenship Application",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "credibility_findings": [
+                "inadequate analysis of potential misrepresentations"
+            ],
+            "procedural_fairness": [
+                "assumed absences durations without justification",
+                "failed to investigate credit card discrepancies"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "matter remitted to the Minister"
+            ],
+            "standard_of_review": [
+                "reasonableness standards"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "000028",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "opportunity to respond to concerns"
+            ],
+            "evidence_assessment": [
+                "errors in reasoning regarding contract validity",
+                "overstay explanations",
+                "previous refusals",
+                "ties to Japan"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "failed to provide updated information"
+            ],
+            "decision_outcome": [
+                "refusal overturned",
+                "reevaluation by another officer"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        }
+    ]
+}

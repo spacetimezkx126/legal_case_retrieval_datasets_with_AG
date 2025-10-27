@@ -1,0 +1,34 @@
+{
+    "Case ID": "035379",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "non-infringement justified"
+            ],
+            "relevant_rule": [
+                "NOC Regulations",
+                "patent presumed valid unless proven otherwise"
+            ],
+            "application_details": [
+                "Apotex's product uses drospirenone dissolved in a matrix, not micronized as claimed in the '426 patent"
+            ],
+            "decision_reasoning": [
+                "Bayer failed to prove that this form infringes the claims at issue"
+            ],
+            "cause_of_action": [
+                "prohibition of Apotex obtaining approval for its generic version of YAZ until the '426 patent expired"
+            ],
+            "procedure_steps": [
+                "claim construction",
+                "infringement",
+                "validity",
+                "eligibility of the patent for listing under NOC Regulations"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Case ID": "067843",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in knowledge about each other's lives",
+                "cultural differences",
+                "financial considerations",
+                "limited communication opportunities"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "new hearing with a different panel"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspected sham marriage"
+            ],
+            "procedural_fairness": [
+                "judicial review of the IAD's decision",
+                "analysis of cultural biases",
+                "insufficient evidence against the marriage's genuineness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "suspected sham marriage",
+                "inconsistencies in knowledge",
+                "cultural differences",
+                "financial considerations",
+                "limited communication opportunities"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "court"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "new hearing ordered",
+                "original decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "applicable_statute": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "analysis of cultural biases",
+                "insufficient evidence against marriage's genuineness"
+            ],
+            "evidence_provided": [
+                "inconsistencies in knowledge about each other's lives",
+                "cultural differences",
+                "financial considerations",
+                "limited communication opportunities"
+            ]
+        }
+    ]
+}

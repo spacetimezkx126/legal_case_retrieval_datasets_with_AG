@@ -1,0 +1,35 @@
+{
+    "Case ID": "013034",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "failure to provide adequate reasons",
+                "violation of procedural fairness principles"
+            ],
+            "decision_reasoning": [
+                "lacked analysis",
+                "merely stated a conclusion"
+            ],
+            "legal_basis": [
+                "Canadian immigration law",
+                "Baker case"
+            ],
+            "cause_of_action": [
+                "alleged non-compliance with self-employment class criteria"
+            ],
+            "procedure_followed": [
+                "judicial review hearing"
+            ],
+            "result_of_case": [
+                "court granted judicial review",
+                "set aside the original decision",
+                "ordered reconsideration by another Officer"
+            ],
+            "application_details": [
+                "visa application rejected"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "Case ID": "095224",
+    "Different Crime": [
+        {
+            "Crime Name": "Participation in Organized Criminal Activity",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "denying cross-examination"
+            ],
+            "evidence_assessment": [
+                "affidavit",
+                "police reports",
+                "witness statements",
+                "no conviction"
+            ],
+            "legal_basis": [
+                "paragraph 115(2)(b) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonable grounds",
+                "credible evidence indicating serious possibility"
+            ],
+            "criminality_inadmissibility": [
+                "violent acts",
+                "homicide",
+                "AK Kannan gang"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "denied opportunity to cross-examine"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds",
+                "serious possibility based on credible evidence"
+            ],
+            "criminal_history": [
+                "history of criminal convictions",
+                "former member of the AK Kannan gang"
+            ],
+            "evidence_consideration": [
+                "relied on non-conviction evidence",
+                "Detective Fernandes's affidavit"
+            ],
+            "risk_assessment": [
+                "nature and severity of acts",
+                "degree of risk"
+            ],
+            "humanitarian_concerns": [
+                "humanitarian considerations"
+            ],
+            "immigration_status": [
+                "faced deportation to Sri Lanka"
+            ],
+            "applicant_involvement": [
+                "involvement in organized crime"
+            ]
+        },
+        {
+            "Crime Name": "Mischief under $5000",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness rights",
+                "cross-examination denied"
+            ],
+            "evidence_assessment": [
+                "non-conviction evidence",
+                "police occurrence reports",
+                "Detective Fernandes's affidavit",
+                "Ariyaratnam's statement"
+            ],
+            "decision_reasoning": [
+                "reasonable grounds to believe violent acts",
+                "involvement in organized crime"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds",
+                "serious possibility based on credible evidence"
+            ],
+            "application_details": [
+                "request for cross-examination denied"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act",
+                "paragraph 115(2)(b)"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "Decision quashed",
+                "reconsideration by a different delegate"
+            ],
+            "cause_of_action": [
+                "deportation due to involvement in organized crime"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "assessing procedural fairness and reasonableness of findings"
+            ]
+        }
+    ]
+}

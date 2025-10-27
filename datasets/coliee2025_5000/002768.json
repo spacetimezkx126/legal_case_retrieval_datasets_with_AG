@@ -1,0 +1,48 @@
+{
+    "Case ID": "002768",
+    "Different Crime": [
+        {
+            "Crime Name": "Excessive Use of Force by Peace Officers",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Criminal Code provisions on arrest without warrant, reasonable and probable grounds"
+            ],
+            "risk_assessment": [
+                "unnecessary use of force given the circumstances and lack of threat"
+            ],
+            "evidence_consideration": [
+                "medical testimony",
+                "officer reports"
+            ],
+            "procedural_fairness": [
+                "trial court assessed evidence from both parties"
+            ],
+            "humanitarian_concerns": [
+                "injuries resulting from excessive force"
+            ],
+            "risk_of_persecution": [
+                "excessive force during arrest"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a Peace Officer",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 495(1)(a) and (b) of the Criminal Code"
+            ],
+            "evidence_assessment": [
+                "testimonies from involved parties",
+                "medical reports"
+            ],
+            "decision_reasoning": [
+                "excessive force was unnecessary given her size and situation"
+            ],
+            "result_of_case": [
+                "Plaintiff received damages for special and general injuries"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds"
+            ]
+        }
+    ]
+}

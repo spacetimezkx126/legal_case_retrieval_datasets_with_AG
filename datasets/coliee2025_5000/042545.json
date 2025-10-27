@@ -1,0 +1,75 @@
+{
+    "Case ID": "042545",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "outdated information",
+                "hardship",
+                "spousal separation",
+                "establishment"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "remitted for reconsideration"
+            ],
+            "material_misrepresentation": [
+                "document misrepresentation"
+            ],
+            "procedural_fairness": [
+                "reliance on outdated information",
+                "failure to fully assess hardship"
+            ]
+        },
+        {
+            "Crime Name": "Making a refugee claim while being excluded under Article 1F(a) of the Convention Relating to the Status of Refugees",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Article 1F(a) of the Convention Relating to the Status of Refugees"
+            ],
+            "procedural_fairness": [
+                "officers must act fairly but are not obligated to request updated information unless procedural fairness demands it"
+            ],
+            "reasonableness_standard": [
+                "the standard of review for H&C decisions is reasonableness, considering mixed questions of fact and law"
+            ],
+            "decision_outcome": [
+                "the court allowed the judicial review, setting aside the original decision and ordering reconsideration by a different officer"
+            ],
+            "burden_of_proof": [
+                "reliance on outdated information rendered the decision unreasonable"
+            ],
+            "contextual_factors": [
+                "applicant lived in Canada for over 23 years",
+                "excluded from refugee protection under Article 1F(a)",
+                "officer based the decision on outdated information (from 2008)"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in international offences",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "humanitarian_and_compassionate_grounds": [
+                "Applicant sought H&C grounds for permanent residence"
+            ],
+            "reasonableness_of_decision": [
+                "The Officer's decision was unreasonable and set aside"
+            ],
+            "procedural_fairness": [
+                "Officers must act fairly but aren't obligated to request updates unless delays are significant",
+                "Delays were CIC’s fault, making negative inferences unreasonable"
+            ],
+            "administrative_error": [
+                "The Officer also misinterpreted spousal hardship and ignored IRPA changes"
+            ],
+            "judicial_review_process": [
+                "Judicial review of H&C application refusal; analysis of establishment, hardship, and procedural fairness"
+            ],
+            "decision_outcome": [
+                "Decision overturned; new officer will reassess with updated evidence"
+            ]
+        }
+    ]
+}

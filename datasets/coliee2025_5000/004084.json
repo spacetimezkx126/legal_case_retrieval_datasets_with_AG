@@ -1,0 +1,24 @@
+{
+    "Case ID": "004084",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days in the four years preceding the citizenship application"
+            ],
+            "evidence_provided": [
+                "claimed 1,138 days of presence but lacked convincing evidence (no passport, inactive bank account, no taxable income)"
+            ],
+            "reasonableness_standard": [
+                "judicial review of citizenship judge's decision under reasonableness standard"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "rejection of citizenship application due to insufficient residency evidence"
+            ]
+        }
+    ]
+}

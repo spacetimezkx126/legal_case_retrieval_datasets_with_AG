@@ -1,0 +1,26 @@
+{
+    "Case ID": "070336",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related detention",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "jurisdictional_issue": [
+                "adjudicator's jurisdiction to order a detention review hearing at a location other than where the detainee is held"
+            ],
+            "legal_basis": [
+                "Subsection 103(9) of the Immigration Act",
+                "Rule 7",
+                "Rule 30"
+            ],
+            "judicial_review_process": [
+                "Judicial review application by the Minister challenging the adjudicator's decision"
+            ],
+            "decision_outcome": [
+                "Court allowed the judicial review, setting aside the adjudicator's decision and requiring the hearing to remain in the detention facility"
+            ],
+            "reasonableness_of_decision": [
+                "hearings should occur in detention facilities unless confidentiality or public safety concerns arise"
+            ]
+        }
+    ]
+}

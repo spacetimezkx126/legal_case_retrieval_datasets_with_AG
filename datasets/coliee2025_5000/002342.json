@@ -1,0 +1,27 @@
+{
+    "Case ID": "002342",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Validity Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rules 327, 341, 473, 474, and 488"
+            ],
+            "procedure_followed": [
+                "Defendant sought directions to try the patent validity issue first. The court reviewed applicable rules and precedents."
+            ],
+            "decision_reasoning": [
+                "Resolving the patent's validity first would save time. However, the issue involves mixed law and fact, lacks admission of essential facts, and was not pleaded initially. Precedents suggest piecemeal trials should be avoided unless they simplify the case significantly."
+            ],
+            "cause_of_action": [
+                "Dispute over the validity of Canadian Patent No. 928,544 based on prior Argentine and UK patents."
+            ],
+            "result_of_case": [
+                "The court dismissed the application, concluding that the issue should be addressed during the full trial."
+            ],
+            "court_ruling": [
+                "The motion to try the patent validity as a preliminary issue is dismissed; it will remain part of the main trial."
+            ]
+        }
+    ]
+}

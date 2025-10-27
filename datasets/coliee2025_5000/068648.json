@@ -1,0 +1,32 @@
+{
+    "Case ID": "068648",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167",
+                "IRPA s.72"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness"
+            ],
+            "decision_reasoning": [
+                "failure to provide reasons for not holding a hearing"
+            ],
+            "application_details": [
+                "request for an oral hearing",
+                "new evidence rejected",
+                "credibility potentially in issue"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "case remitted for reassessment"
+            ],
+            "conclusion_outcome": [
+                "breached procedural fairness"
+            ]
+        }
+    ]
+}

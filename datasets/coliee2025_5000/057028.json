@@ -1,0 +1,70 @@
+{
+    "Case ID": "057028",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent taking of property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Quebec Civil Code",
+                "Indian Act"
+            ],
+            "decision_outcome": [
+                "Transfers invalid",
+                "Entitled to possession",
+                "Compensatory damages calculation",
+                "Exemplary damages awarded"
+            ],
+            "procedural_fairness": [
+                "Trial with conflicting testimonies analyzed"
+            ],
+            "evidence_provided": [
+                "Signed Transfer of Land documents",
+                "Payment discrepancy ($5,000 vs $350,000)"
+            ],
+            "applicable_statute": [
+                "Quebec Civil Code provisions regarding land transfers and contractual errors"
+            ],
+            "claim_nature": [
+                "Dispute over sale of garage and land"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "material_misrepresentation": [
+                "Misunderstanding of transaction's true nature"
+            ],
+            "balance_of_convenience": [
+                "Non-payment and misunderstanding led to invalidation"
+            ]
+        },
+        {
+            "Crime Name": "Breach of trust under Indian Act.",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Indian Act",
+                "Section 24"
+            ],
+            "decision_reasoning": [
+                "Ministerial approval required",
+                "Lack of payment",
+                "Confusion of Mr. Robertson"
+            ],
+            "evidence_presented": [
+                "Transfer of Land documents",
+                "Verbal agreement",
+                "Payment discrepancy"
+            ],
+            "result_of_case": [
+                "Invalid transfer",
+                "Return of land",
+                "Compensatory damages calculation",
+                "$5,000 exemplary damages"
+            ],
+            "procedure_followed": [
+                "Five-day trial",
+                "Conflicting testimonies analyzed",
+                "Legal jurisdiction explored"
+            ]
+        }
+    ]
+}

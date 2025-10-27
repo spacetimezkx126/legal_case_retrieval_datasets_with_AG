@@ -1,0 +1,31 @@
+{
+    "Case ID": "009888",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "RCMP Policy",
+                "Federal Courts Act"
+            ],
+            "application_details": [
+                "Standby Level II criteria",
+                "constant readiness",
+                "lack formal authorization"
+            ],
+            "decision_reasoning": [
+                "policy interpretation",
+                "voluntariness"
+            ],
+            "conclusion_outcome": [
+                "Héroux Decision upheld",
+                "Royer Decisions quashed and referred back for reconsideration"
+            ],
+            "result_of_case": [
+                "Partial success",
+                "Héroux Decision dismissed",
+                "Royer Decisions remanded"
+            ]
+        }
+    ]
+}

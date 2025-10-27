@@ -1,0 +1,118 @@
+{
+    "Case ID": "068934",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee claim based on fear of persecution (not a crime but a legal status determination under IRPA)",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "inadequate analysis",
+                "serious persecution risk",
+                "unreasonableness in relocating internally"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "beyond generalized threats"
+            ],
+            "evidence_assessment": [
+                "specific risks faced by applicants",
+                "La Linea’s potential reach",
+                "applicant's unique circumstances post-return"
+            ],
+            "decision_outcome": [
+                "set aside the Board's decision",
+                "remanded the case for redetermination"
+            ],
+            "specific_threats": [
+                "La Linea cartel",
+                "refusing extortion demands"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "internal_flight_alternative": [
+                "Campeche",
+                "Mexico City"
+            ],
+            "procedural_fairness": [
+                "inadequate IFA analysis"
+            ],
+            "risk_characterization": [
+                "specific risks",
+                "generalized risk"
+            ],
+            "nexus_to_convention_grounds": [
+                "persecution threats from La Linea cartel"
+            ],
+            "reasonableness_standard": [
+                "Board's decision unreasonable"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "Board's decision set aside",
+                "matter referred back for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Threatening death",
+            "Crime Type": "Violence-related_Crimes",
+            "internal_flight_alternative": [
+                "serious possibility of persecution",
+                "objectively unreasonable",
+                "risk assessment",
+                "personalized risk",
+                "evidence"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "inadequate IFA analysis",
+                "failure to address specific risks"
+            ],
+            "specific_threats_or_incidents": [
+                "death threats",
+                "La Linea cartel"
+            ],
+            "risk_of_persecution": [
+                "generalized risk"
+            ],
+            "refugee_status_nexus": [
+                "refugee status claim"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Immigration and Refugee Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide protection (police inaction)",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "serious possibility of persecution in the IFA location"
+            ],
+            "internal_flight_alternative": [
+                "Campeche",
+                "Mexico City"
+            ],
+            "personalized_vs_generalized_risk": [
+                "personalized risks faced by the applicants"
+            ],
+            "decision_reasonableness": [
+                "inadequate IFA analysis",
+                "lack of personalized risk assessment"
+            ],
+            "evidence_assessment": [
+                "applicant's credible testimony about threats from La Linea"
+            ],
+            "relevant_rule": [
+                "two-pronged test for IFAs"
+            ],
+            "application_details": [
+                "refugee claims under IRPA sections 96 and 97"
+            ],
+            "result_of_case": [
+                "case remanded for redetermination",
+                "judicial review allowed"
+            ]
+        }
+    ]
+}

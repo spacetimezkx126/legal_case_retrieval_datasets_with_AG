@@ -1,0 +1,51 @@
+{
+    "Case ID": "022465",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "marital status",
+                "Canadian citizenship",
+                "residency"
+            ],
+            "legal_basis": [
+                "Citizenship Act, s. 5.1(1)(c)"
+            ],
+            "evidence_assessment": [
+                "Ukrainian Ministry of Social Policy confirmed dual nationals are treated as foreigners requiring approval for adoptions"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "immigration_status": [
+                "children denied Canadian citizenship"
+            ],
+            "regulatory_compliance": [
+                "Adoptions must comply with the laws of the place where they occur and the country of residence of the adopting citizen"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent representation in legal proceedings",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "foreign court order presumed valid unless clear evidence of fraud or irregularity exists"
+            ],
+            "material_misrepresentation": [
+                "marital status",
+                "Canadian citizenship",
+                "residency"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Officer's decision upheld"
+            ],
+            "standard_of_review": [
+                "legal standards for disregarding a foreign court order"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed Officer's decision"
+            ]
+        }
+    ]
+}

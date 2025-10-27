@@ -1,0 +1,48 @@
+{
+    "Case ID": "052073",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lack of opportunity for new evidence submission"
+            ],
+            "irreparable_harm": [
+                "not established",
+                "costs alone do not suffice"
+            ],
+            "balance_of_convenience": [
+                "public interest favors expedited resolution"
+            ],
+            "serious_issue": [
+                "to be tried"
+            ],
+            "humanitarian_concerns": [],
+            "risk_assessment": []
+        },
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "lack of opportunity for new evidence submission",
+                "opportunities provided by the Commission"
+            ],
+            "decision_outcome": [
+                "motion for a stay dismissed"
+            ],
+            "applicable_laws": [
+                "s. 18.2 of the Federal Court Act"
+            ],
+            "standard_of_review": [
+                "serious issue to be tried",
+                "irreparable harm",
+                "balance of convenience"
+            ],
+            "court_ruling": [
+                "injunction denied",
+                "tribunal proceedings to continue"
+            ],
+            "family_impact": []
+        }
+    ]
+}

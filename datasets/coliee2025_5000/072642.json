@@ -1,0 +1,25 @@
+{
+    "Case ID": "072642",
+    "Different Crime": [
+        {
+            "Crime Name": "Threatening to assault another person under Penitentiary Service Regulations s. 39(b)",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Penitentiary Service Regulations s. 39(b)",
+                "Penitentiary Service Regulations s. 39(g)"
+            ],
+            "risk_assessment": [
+                "threat to assault",
+                "verbal threat"
+            ],
+            "evidence_consideration": [
+                "inmate's statement",
+                "disciplinary court's decision"
+            ],
+            "procedural_fairness": [
+                "Federal Court review",
+                "analysis of statutory provisions"
+            ]
+        }
+    ]
+}

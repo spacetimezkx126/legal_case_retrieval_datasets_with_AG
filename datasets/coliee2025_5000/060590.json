@@ -1,0 +1,30 @@
+{
+    "Case ID": "060590",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistent testimony",
+                "document conditions"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, S.C. 2001, c. 27"
+            ],
+            "evidence_assessment": [
+                "lack of credible evidence",
+                "no evidence proved the documents were fake"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Board's decision upheld"
+            ],
+            "burden_of_proof": [
+                "perceived lack of credible evidence"
+            ],
+            "review_standard": [
+                "judicial review"
+            ]
+        }
+    ]
+}

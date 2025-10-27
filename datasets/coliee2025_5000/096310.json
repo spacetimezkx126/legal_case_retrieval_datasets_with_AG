@@ -1,0 +1,49 @@
+{
+    "Case ID": "096310",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "duty of fairness breached",
+                "inquiry required for refusal of landing"
+            ],
+            "availability_of_alternative_remedies": [
+                "adequate alternative remedy (appeal to the Immigration and Refugee Board)"
+            ],
+            "immigration_status": [
+                "concerns over permanent resident status",
+                "family members deemed inadmissible"
+            ],
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "reasonableness_of_decision": [
+                "decision to refuse landing reviewed"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "procedural_fairness": [
+                "inquiry required if landing refused",
+                "judicial review not available with adequate alternative remedy"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "appeal_process": [
+                "adequate alternative remedy (appeal to the Immigration and Refugee Board) exists"
+            ],
+            "immigration_status": [
+                "concerns over permanent resident status"
+            ],
+            "family_impact": [
+                "refusal to land family members"
+            ]
+        }
+    ]
+}

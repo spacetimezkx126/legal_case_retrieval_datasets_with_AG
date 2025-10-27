@@ -1,0 +1,32 @@
+{
+    "Case ID": "078304",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of residence",
+                "four years preceding application",
+                "1146 days absent",
+                "314 days present"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "referred back to different Citizenship Judge"
+            ],
+            "misrepresentation_or_fraud": [
+                "citizenship application approved despite non-compliance"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed decision",
+                "deficiencies in analysis"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "Case ID": "019981",
+    "Crimes": [
+        {
+            "Crime_Name": "Breaking and entering",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "Applicant had prior convictions for breaking and entering with a sentence over two years"
+            ],
+            "Criminality_Severity": [
+                "Qualifies as serious criminality under section 64(2) due to imprisonment of over two years"
+            ],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Legal_Framework": [
+                "IRPA framework governing inadmissibility and appeal rights"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [
+                "Section 64(2), Section 197"
+            ],
+            "Legal_Provision": [
+                "Section 64 prohibits appeals for permanent residents inadmissible on grounds of serious criminality; Section 197 applies upon breach of stay condition"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 197, Section 64(2)"
+            ],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "IAD concluded it lacked jurisdiction; appeal discontinued"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [
+                "Sentence exceeded two years, triggering serious criminality provisions"
+            ],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "Judicial review of Immigration Appeal Division (IAD) decision"
+            ],
+            "Legal_Procedure": [
+                "Judicial review analyzing applicability of sections 197 and 64"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court conducting judicial review"
+            ],
+            "Review_Mechanism": [
+                "Judicial review of administrative decision"
+            ],
+            "Authority": [
+                "IAD lacks authority to hear appeal upon loss of status under section 197"
+            ],
+            "Decision_Standard": []
+        },
+        {
+            "Crime_Name": "Failure to comply with a court order",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Breach of Condition No. 5: failure to seek full-time employment"
+            ],
+            "Legal_Issue": [
+                "Whether section 197 of IRPA removes appeal rights after breaching a stay condition"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "Applicant was granted a stay under the former Act and breached Condition No. 5"
+            ],
+            "Decision_Outcome": [
+                "IAD correctly dismissed the appeal due to lack of jurisdiction"
+            ],
+            "Remedy_Requested": [
+                "Appeal of removal order"
+            ],
+            "Court_Ruling": [
+                "Section 197 applies upon breach of stay condition, leading to loss of appeal rights"
+            ],
+            "Claimant_Status": [
+                "Permanent resident under stay condition"
+            ],
+            "Defendant_Behavior": [
+                "Failed to seek full-time employment as required by Condition No. 5"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged violation of procedural fairness or misinterpretation of IRPA"
+            ],
+            "Legal_Standard": [
+                "Interpretation of sections 197 and 64 of IRPA"
+            ],
+            "Assessment_Factor": [
+                "Existence of serious criminality and breach of conditions"
+            ],
+            "Applicable_Legislation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Issue": [
+                "Jurisdictional bar under new IRPA regime"
+            ],
+            "Review_Standard": [
+                "Reasonableness standard applied in judicial review"
+            ],
+            "Credibility_Assessment": [],
+            "Evidence_Used": [
+                "Record of breach of Condition No. 5 and criminal history"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 197, Section 64(2)"
+            ],
+            "Application_Basis": [
+                "Breach of stay condition triggers application of section 197"
+            ],
+            "Evidence_Assessed": [
+                "Documentation of employment non-compliance and criminal record"
+            ],
+            "Relief_Sought": [
+                "Restoration of appeal rights before IAD"
+            ],
+            "Governing_Rule": [
+                "Section 197 removes appeal rights if stay condition is breached and serious criminality exists"
+            ],
+            "Evidentiary_Deficiency": [],
+            "Outcome": [
+                "Judicial review dismissed; no appeal rights restored"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Harm_Assessment": [],
+            "Cause_Description": [
+                "Breach of stay condition combined with prior serious criminality"
+            ],
+            "Evidence_Handling": [],
+            "Legal_Provision_Violated": [
+                "Condition No. 5 of the stay order"
+            ],
+            "Evidence_Issues": [],
+            "Residency_Compliance": [
+                "Non-compliance with employment condition affected residency status"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "Sections 197 and 64 of IRPA"
+            ],
+            "Jurisdictional_Issue": [
+                "IAD lacks jurisdiction once section 197 applies"
+            ],
+            "Evidence_Assessment": [],
+            "Decision_Rationale": [
+                "Breach of condition activates section 197, which invokes section 64's bar on appeals"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Evidentiary_Issues": [],
+            "Legal_Standard_Applied": [
+                "Statutory interpretation of IRPA provisions"
+            ]
+        },
+        {
+            "Crime_Name": "Serious criminality",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Inadmissibility based on serious criminality under IRPA"
+            ],
+            "Legal_Issue": [
+                "Whether section 197 discontinues appeal rights post-IRPA enactment due to breach of stay condition"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "Applicant breached Condition No. 5 after IRPA came into force and had prior sentence exceeding two years"
+            ],
+            "Decision_Outcome": [
+                "IAD lacked jurisdiction; appeal discontinued"
+            ],
+            "Remedy_Requested": [
+                "Appeal of removal order"
+            ],
+            "Court_Ruling": [
+                "Section 197 applies, removing right to appeal due to serious criminality and breach"
+            ],
+            "Claimant_Status": [
+                "Permanent resident under conditional stay"
+            ],
+            "Defendant_Behavior": [
+                "Failed to comply with employment requirement in stay condition"
+            ],
+            "Grounds_for_Claim": [
+                "Challenge to IAD’s jurisdiction under transitional provision"
+            ],
+            "Legal_Standard": [
+                "Interpretation of section 197 and section 64(2)"
+            ],
+            "Assessment_Factor": [
+                "Timing of breach relative to IRPA enactment and nature of criminal record"
+            ],
+            "Applicable_Legislation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Issue": [
+                "Transitional application of IRPA provisions"
+            ],
+            "Review_Standard": [
+                "Reasonableness of IAD’s legal interpretation"
+            ],
+            "Credibility_Assessment": [],
+            "Evidence_Used": [
+                "Criminal record showing sentence over two years, documentation of breach"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 197, Section 64(2)"
+            ],
+            "Application_Basis": [
+                "Breach occurred after IRPA enactment, triggering section 197"
+            ],
+            "Evidence_Assessed": [
+                "Proof of non-compliance and certified criminal history"
+            ],
+            "Relief_Sought": [
+                "Reinstatement of appeal rights"
+            ],
+            "Governing_Rule": [
+                "Section 197 removes appeal rights when stay condition is breached and serious criminality exists"
+            ],
+            "Evidentiary_Deficiency": [],
+            "Outcome": [
+                "Judicial review dismissed; no certification warranted"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Harm_Assessment": [],
+            "Cause_Description": [
+                "Breach of stay condition after IRPA enactment led to automatic loss of appeal rights"
+            ],
+            "Evidence_Handling": [],
+            "Legal_Provision_Violated": [
+                "Conditions attached to stay under former immigration law"
+            ],
+            "Evidence_Issues": [],
+            "Residency_Compliance": [
+                "Non-compliance impacted continued lawful status"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "Sections 197 and 64(2) of IRPA"
+            ],
+            "Jurisdictional_Issue": [
+                "IAD lost jurisdiction upon activation of section 197"
+            ],
+            "Evidence_Assessment": [],
+            "Decision_Rationale": [
+                "Applicant met criteria for serious criminality and violated stay terms"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Evidentiary_Issues": [],
+            "Legal_Standard_Applied": [
+                "Statutory interpretation and administrative law reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Possession of stolen property",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "Whether section 197 applies to discontinue appeal due to breach of stay condition"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "Judicial review of IAD decision"
+            ],
+            "Evidence_Assessment": [],
+            "Decision_Outcome": [
+                "IAD lacked jurisdiction; appeal discontinued"
+            ],
+            "Burden_of_Proof": [],
+            "Credibility_Factor": [],
+            "Legal_Rule": [
+                "Section 197 applies upon breach of stay condition, invoking section 64(2)"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness of IAD’s jurisdictional determination"
+            ],
+            "Procedural_Issue": [
+                "Loss of appeal rights under transitional provision"
+            ],
+            "Grounds_for_Claim": [
+                "Applicant challenged IAD’s refusal to hear appeal"
+            ],
+            "Outcome_on_Merits": [
+                "Application for judicial review dismissed"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [],
+            "Key_Evidence_Considered": [
+                "Criminal record with sentence over two years, proof of failure to seek employment"
+            ],
+            "Legal_Framework": [
+                "IRPA's inadmissibility and appeal regime"
+            ],
+            "Applicant_Challenge": [
+                "Argued entitlement to appeal despite breach and criminal history"
+            ],
+            "Court_Result": [
+                "No relief granted"
+            ],
+            "Legal_Rule_Source": [
+                "Immigration and Refugee Protection Act, sections 197 and 64"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [],
+            "Remedy_Requested": [
+                "Appeal of removal order"
+            ],
+            "Outcome": [
+                "No appeal rights; judicial review dismissed"
+            ],
+            "Decision_Authority": [
+                "Immigration Appeal Division"
+            ],
+            "Remedy_Sought": [
+                "Certification of question or reinstatement of appeal"
+            ],
+            "Resolution_Mechanism": [
+                "Administrative appeal followed by judicial review"
+            ],
+            "Legal_Provision": [
+                "Sections 197 and 64(2)"
+            ],
+            "Authority": [
+                "IAD has no authority once section 197 applies"
+            ],
+            "Claimant_Status": [
+                "Permanent resident under stay condition"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 197, Section 64(2)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Serious criminality due to sentence exceeding two years"
+            ],
+            "Applicable_Process": [
+                "Transitional process under IRPA for former Act appellants"
+            ],
+            "Outcome_of_Review": [
+                "Application dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "None pending after dismissal"
+            ],
+            "Jurisdiction": [
+                "Federal Court – judicial review of IAD decision"
+            ],
+            "Governing_Rule": [
+                "Section 197 removes appeal rights upon breach of stay condition where serious criminality exists"
+            ]
+        }
+    ]
+}

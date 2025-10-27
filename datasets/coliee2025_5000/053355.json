@@ -1,0 +1,28 @@
+{
+    "Case ID": "053355",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide medical evidence and x-rays"
+            ],
+            "misrepresentation_or_fraud": [
+                "accusation of falsifying medical x-rays"
+            ],
+            "evidence_assessment": [
+                "inadequate provision of evidence",
+                "delay in responding to document requests"
+            ],
+            "decision_outcome": [
+                "visa officer's decision quashed",
+                "judicial review application allowed",
+                "costs awarded to applicant"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

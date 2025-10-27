@@ -1,0 +1,65 @@
+{
+    "Case ID": "087759",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "failed to prove identity",
+                "lacked credible corroboration"
+            ],
+            "document_authenticity": [
+                "primary identity document fraudulent",
+                "tertiary documents unreliable"
+            ],
+            "credibility_assessment": [
+                "insufficient explanations",
+                "RPD assesses credibility"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status",
+                "rejected the claim"
+            ],
+            "decision_outcome": [
+                "RPD's decision reasonable",
+                "judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "identity document fraudulent"
+            ]
+        },
+        {
+            "Crime Name": "Use of fraudulent documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "fraudulent",
+                "inconsistencies",
+                "alterations",
+                "unreliable"
+            ],
+            "procedural_fairness": [
+                "transparent",
+                "acceptable outcomes"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Court"
+            ],
+            "material_misrepresentation": [
+                "identity",
+                "credibility"
+            ],
+            "reasonableness_standard": [
+                "reasonable",
+                "acceptable legal standards"
+            ],
+            "evidence_provided": [
+                "documents",
+                "corroboration"
+            ]
+        }
+    ]
+}

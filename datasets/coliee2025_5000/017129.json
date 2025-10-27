@@ -1,0 +1,50 @@
+{
+    "Case ID": "017129",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "adverse credibility findings due to inconsistencies in education and work experience details"
+            ],
+            "evidence_assessment": [
+                "conflicting education and work histories in student permit and permanent residence applications"
+            ],
+            "decision_outcome": [
+                "visa application refused",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "assessed whether the officer’s decision was reasonable and followed legal procedures"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistencies in education and work experience details"
+            ]
+        },
+        {
+            "Crime Name": "False Representation in Immigration Application",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "conflicting information about education and work experience"
+            ],
+            "procedural_fairness": [
+                "review for patent unreasonableness"
+            ],
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "decision_made_by": [
+                "immigration officer"
+            ],
+            "evidence_considered": [
+                "discrepancies in education and employment history"
+            ],
+            "decision_outcome": [
+                "application refused, judicial review dismissed"
+            ]
+        }
+    ]
+}

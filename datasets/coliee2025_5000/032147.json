@@ -1,0 +1,34 @@
+{
+    "Case ID": "032147",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Offense",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "H&C application",
+                "children's best interests",
+                "inability to file PRRA"
+            ],
+            "judicial_authority": [
+                "Judicial review application under IRPA subsection 72(1)"
+            ],
+            "decision_outcome": [
+                "denied deferral request",
+                "Judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "IRPA section 48",
+                "IRPA subsection 72(1)"
+            ],
+            "reasonableness_standard": [
+                "reasonable, justified, transparent, and within acceptable outcomes under the law"
+            ],
+            "child_best_interests": [
+                "children's best interests"
+            ],
+            "special_circumstances": [
+                "exceptional circumstances"
+            ]
+        }
+    ]
+}

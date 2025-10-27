@@ -1,0 +1,29 @@
+{
+    "Case ID": "047285",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable credibility finding",
+                "inconsistencies in testimony"
+            ],
+            "procedural_fairness": [
+                "insufficient reasons"
+            ],
+            "reasonableness_standard": [
+                "reasonable credibility assessment"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution by political rivals"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "RPD's decision upheld"
+            ],
+            "burden_of_proof": [
+                "adequate reasons provided by RPD"
+            ]
+        }
+    ]
+}

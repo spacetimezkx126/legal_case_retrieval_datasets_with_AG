@@ -1,0 +1,38 @@
+{
+    "Case ID": "006150",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Human Rights Act",
+                "paragraph 41(1)(d)"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_reasoning": [
+                "complaint lacked essential elements",
+                "insufficient evidence of predominantly female groups performing equal work",
+                "failed to provide adequate details about work equivalence"
+            ],
+            "procedural_fairness": [
+                "opportunities to submit evidence but did not"
+            ],
+            "conclusion_outcome": [
+                "reasonable and procedurally fair",
+                "judicial review application was dismissed"
+            ],
+            "cause_of_action": [
+                "discrimination and wage disparity complaint"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed the Commission’s decision using the reasonableness and correctness standards, considering evidence and procedural fairness arguments"
+            ],
+            "result_of_case": [
+                "court rejected the judicial review application, upholding the Commission’s decision"
+            ]
+        }
+    ]
+}

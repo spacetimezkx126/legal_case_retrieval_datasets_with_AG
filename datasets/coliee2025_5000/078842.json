@@ -1,0 +1,35 @@
+{
+    "Case ID": "078842",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "violated",
+                "ignoring evidence",
+                "hostile hearing environment"
+            ],
+            "risk_of_persecution": [
+                "gender-based persecution",
+                "domestic violence"
+            ],
+            "evidence_assessment": [
+                "failed to address domestic violence evidence",
+                "inappropriate questioning of ethnicity"
+            ],
+            "social_group_membership": [
+                "Roma ethnicity"
+            ],
+            "gender_guidelines": [
+                "relevant to gender-based persecution"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "specific_vulnerabilities": [
+                "applicant and her children"
+            ]
+        }
+    ]
+}

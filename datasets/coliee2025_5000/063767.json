@@ -1,0 +1,52 @@
+{
+    "Case ID": "063767",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural Fairness Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lack of procedural fairness",
+                "unbiased tribunal",
+                "proper notice",
+                "right to representation"
+            ],
+            "risk_assessment": [],
+            "evidence_consideration": [],
+            "serious_issue": [
+                "Complaint about procedural fairness in the original tribunal's decision"
+            ],
+            "balance_of_convenience": [
+                "minimizing administrative disruption"
+            ],
+            "reasonableness_of_decision": [
+                "Decisions must adhere to standards of procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Procedural Fairness Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "lack of procedural fairness",
+                "unbiased tribunal",
+                "proper notice",
+                "right to representation"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "new tribunal to decide election validity"
+            ],
+            "appeal_process": [
+                "judicial review",
+                "quashing order with delayed execution",
+                "re-determination"
+            ],
+            "legal_basis": [
+                "standards of procedural fairness"
+            ],
+            "relevant_factors": [
+                "administrative disruption",
+                "Band custom"
+            ]
+        }
+    ]
+}

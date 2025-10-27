@@ -1,0 +1,34 @@
+{
+    "Case ID": "097826",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "Canadian maritime law"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act (FCA)"
+            ],
+            "application_details": [
+                "ownership interest in the vessel via a shareholders' agreement"
+            ],
+            "evidence_presented": [
+                "affidavits",
+                "agreements"
+            ],
+            "decision_reasoning": [
+                "dispute pertains to a shareholder disagreement rather than maritime law"
+            ],
+            "result_of_case": [
+                "court lacks jurisdiction",
+                "in rem action dismissed",
+                "warrant of arrest quashed"
+            ],
+            "cost_awards": [
+                "defendants awarded costs"
+            ]
+        }
+    ]
+}

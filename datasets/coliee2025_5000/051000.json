@@ -1,0 +1,29 @@
+{
+    "Case ID": "051000",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "illegal remain"
+            ],
+            "decision_outcome": [
+                "denied stay of deportation",
+                "upheld deportation order"
+            ],
+            "evidence_assessment": [
+                "no evidence of irreparable harm",
+                "no significant hardship beyond family separation"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "application for landing on humanitarian grounds not processed timely"
+            ],
+            "criminality_inadmissibility": [
+                "failure to comply with removal order"
+            ],
+            "procedural_fairness": [
+                "evaluated case considering evidence of hardship and delay in processing"
+            ]
+        }
+    ]
+}

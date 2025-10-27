@@ -1,0 +1,32 @@
+{
+    "Case ID": "060359",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "implausibility findings",
+                "minor omissions",
+                "speculation without evidence",
+                "dismissed documents without expertise"
+            ],
+            "documentary_evidence": [
+                "dismissed without forensic expertise"
+            ],
+            "country_conditions": [
+                "consistency with country conditions"
+            ],
+            "reasonableness_standard": [
+                "Board's decision unreasonable"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for re-determination"
+            ],
+            "standard_of_proof": [
+                "reliable evidence required for implausibility findings"
+            ]
+        }
+    ]
+}

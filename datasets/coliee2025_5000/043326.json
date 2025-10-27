@@ -1,0 +1,79 @@
+{
+    "Case ID": "043326",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "right to know the facts alleged",
+                "right to respond"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "revocation annulled",
+                "case remitted for re-evaluation"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "regulatory_compliance": [
+                "cancellation based on RCMP reports"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized access to restricted areas",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "evidence_assessment": [
+                "not provided with specific details",
+                "requests would have been futile"
+            ],
+            "decision_reasoning": [
+                " Applicant's security clearance was revoked based on undisclosed RCMP reports"
+            ],
+            "court_ruling": [
+                "breach of procedural fairness",
+                "granted the judicial review",
+                "quashing the revocation decision"
+            ],
+            "result_of_case": [
+                "annulled clearance revocation",
+                "case sent back for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to import drugs",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "right to know the facts alleged",
+                "right to make representations"
+            ],
+            "evidence_considered": [
+                "vague allegations of drug conspiracy"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "decision to revoke clearance quashed and remitted"
+            ],
+            "applicable_law_or_regulation": [
+                "Federal Courts Act"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "reconsideration ordered"
+            ]
+        }
+    ]
+}

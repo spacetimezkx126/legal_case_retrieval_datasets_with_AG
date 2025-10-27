@@ -1,0 +1,35 @@
+{
+    "Case ID": "085605",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to interview applicants",
+                "rejection of plausible evidence"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decisions set aside",
+                "cases remitted for reconsideration"
+            ],
+            "evidence_provided": [
+                "plausible evidence not considered",
+                "illiteracy as a factor"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "claim_nature": [
+                "persecution claims under the Convention refugee class"
+            ],
+            "judicial_authority": [
+                "Court found procedural fairness breach"
+            ],
+            "cause_of_action": [
+                "refusal of permanent resident applications due to alleged lack of credibility"
+            ]
+        }
+    ]
+}

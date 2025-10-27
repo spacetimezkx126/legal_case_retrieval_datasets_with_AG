@@ -1,0 +1,76 @@
+{
+    "Case ID": "051401",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "document forgery"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of forgery",
+                "general knowledge of widespread forgery is insufficient"
+            ],
+            "decision_outcome": [
+                "reviewable error",
+                "set aside and referred back for reconsideration"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed the Board's decision"
+            ],
+            "document_authenticity": [
+                "school deed and certificate deemed forged without specific evidence"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining property by fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "evidence_provided": [
+                "general evidence of widespread forgery in Pakistan",
+                "no specific evidence against the documents"
+            ],
+            "decision_outcome": [
+                "set aside and referred back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "Board must provide evidence or reasoning to support claims of document forgery"
+            ],
+            "identity_documents": [
+                "deed",
+                "school certificate"
+            ],
+            "appeal_outcome": [
+                "Board's decision was overturned",
+                "case was remanded for reconsideration by a different panel"
+            ],
+            "legal_basis": [
+                "reviewable error by rejecting documents without sufficient evidence"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "evidence_quality": [
+                "Insufficient evidence provided by the Board"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision deemed unreasonable"
+            ],
+            "legal_basis": [
+                "Need for evidence to support forgery claims"
+            ],
+            "judicial_review_result": [
+                "Decision overturned and remanded"
+            ],
+            "decision_outcome": [
+                "Referred back for reconsideration"
+            ],
+            "evidence_provided": [
+                "General evidence of widespread forgery in Pakistan"
+            ],
+            "credibility_findings": [
+                "Documents deemed forged without specific proof"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Case ID": "062942",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Trademark Act s.7",
+                "Copyright Act s.38.1",
+                "Radiocommunications Act s.9(1)(c)"
+            ],
+            "evidence_provided": [
+                "Unauthorized decoding and distribution of copyrighted material",
+                "Trademark misuse causing confusion"
+            ],
+            "decision_outcome": [
+                "Defendants are liable for copyright infringement and trademark violation"
+            ],
+            "applicable_statute": [
+                "Trademark Act",
+                "Copyright Act"
+            ],
+            "confusion_likelihood": [
+                "Yes"
+            ],
+            "cause_of_action": [
+                "Unauthorized decoding and distribution",
+                "Trademark misuse"
+            ],
+            "nature_of_offense": [
+                "Trademark Infringement",
+                "Copyright Violation"
+            ],
+            "appeal_outcome": [
+                "Statutory damages of $301,350 awarded",
+                "Interim injunction made permanent",
+                "Solicitor-client costs granted"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Decoding of Encrypted Signals",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 38.1 of the Copyright Act"
+            ],
+            "evidence_provided": [
+                "decoded and distributed 2,009 Polsat programs without authorization"
+            ],
+            "decision_outcome": [
+                "reduced statutory damages",
+                "permanent injunction",
+                "solicitor-client costs"
+            ],
+            "reasoning_given": [
+                "minimal revenue loss",
+                "proportionate to the infringement"
+            ],
+            "admissibility_criteria": [
+                "statutory damages between $500-$20,000 per work infringed"
+            ],
+            "balance_of_interests": [
+                "Court awarded $150 per work (total $301,350) instead of maximum damages"
+            ]
+        },
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "relevant_statute": [
+                "Copyright Act"
+            ],
+            "specific_rule_applied": [
+                "Section 38.1 of the Copyright Act"
+            ],
+            "evidence_presented": [
+                "decoded encrypted satellite signals",
+                "distributed copyrighted TV programs"
+            ],
+            "decision_reasoning": [
+                "proportionality",
+                "minimal revenue loss to plaintiffs"
+            ],
+            "result_of_case": [
+                "reduced statutory damages ($301,350)",
+                "permanent interim injunction",
+                "solicitor-client costs",
+                "denied punitive damages"
+            ],
+            "procedure_followed": [
+                "default judgment",
+                "subsequent hearing for statutory damages and remedies"
+            ]
+        }
+    ]
+}

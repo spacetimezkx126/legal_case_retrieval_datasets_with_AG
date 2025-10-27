@@ -1,0 +1,163 @@
+{
+    "Case ID": "002114",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "exclusion_reason": [
+                "generalized risk"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Decision quashed",
+                "matter referred back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review of the RPD decision"
+            ],
+            "applicable_statute": [
+                "s. 97(1)(b)(ii) of the Act",
+                "s. 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "specific_targeting": [
+                " Applicant's family’s history with gangs"
+            ],
+            "risk_characterization": [
+                "personal risk",
+                "generalized risk"
+            ],
+            "nexus_to_convention_grounds": [
+                "gang extortion and threats"
+            ],
+            "state_protection": [],
+            "internal_flight_alternative": [],
+            "material_misrepresentation": [],
+            "serious_criminality": [],
+            "balance_of_convenience": [],
+            "irreparable_harm": [],
+            "reasonableness_standard": [],
+            "identity_documents": [],
+            "public_interest": [],
+            "relationship_genuineness": [],
+            "personalized_vs_generalized_risk": [
+                "specific targeting due to her family’s history with gangs",
+                "generalized extortion risks"
+            ],
+            "persecution_details": [
+                "gang extortion and threats"
+            ]
+        },
+        {
+            "Crime Name": "Gang-related Crimes",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized targeting"
+            ],
+            "state_protection_analysis": [
+                "inadequate police effectiveness",
+                "mixed evidence on state protection"
+            ],
+            "risk_assessment": [
+                "widespread extortion in El Salvador",
+                "gang threats"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "refugee_status_nexus": [
+                "refugee status claim"
+            ],
+            "risk_of_persecution": [
+                "dismissed as generalized risks"
+            ],
+            "country_conditions": [
+                "El Salvador conditions"
+            ],
+            "legal_basis": [
+                "s. 97(1)(b)(ii) of the Act"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "specific targeting"
+            ],
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "widespread extortion in El Salvador"
+            ],
+            "reasonableness_of_decision": [
+                "RPD erred in analysis"
+            ],
+            "judicial_review_result": [
+                "application allowed",
+                "decision quashed",
+                "referred back for reconsideration"
+            ],
+            "applicable_law_section": [
+                "s. 97(1)(b)(ii)",
+                "s. 72(1)"
+            ],
+            "risk_assessment": [
+                "fear of persecution by gangs",
+                "specific targeting despite general crime"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "gang violence"
+            ],
+            "state_protection": [
+                "adequate state protection exists despite mixed evidence"
+            ],
+            "decision_reasoning": [
+                "failed to properly assess the nature and degree of the Applicant's risk"
+            ],
+            "application_details": [
+                " Applicant fled El Salvador due to gang violence and sought refugee status in Canada"
+            ],
+            "result_of_case": [
+                "court allowed the application, quashed the decision, and referred it back for reconsideration"
+            ],
+            "specific_rule_applied": [
+                "s. 97(1)(b)(ii) of the Immigration and Refugee Protection Act"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "State Protection Failure",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "inadequate witness protection programs",
+                "police inefficiency",
+                "lack of state protection"
+            ],
+            "legal_basis": [
+                "s. 97(1)(b)(i) of the Immigration and Refugee Protection Act",
+                "s. 72(1) of the Act"
+            ],
+            "decision_made_by": [
+                "RPD",
+                "Board Member"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "evidence_considered": [
+                "Applicant's fear unreasonable as she did not report threats to police",
+                "evidence showed police inefficiency and inadequate witness protection programs"
+            ],
+            "decision_outcome": [
+                "application was allowed",
+                "referred back for reconsideration"
+            ]
+        }
+    ]
+}

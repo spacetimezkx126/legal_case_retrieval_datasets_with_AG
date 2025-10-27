@@ -1,0 +1,108 @@
+{
+    "Case ID": "089855",
+    "Different Crime": [
+        {
+            "Crime Name": "Using False Identity",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "discrepancies in dates of birth and names",
+                "questioning document authenticity"
+            ],
+            "credibility_assessment": [
+                "no credible basis for claim",
+                "used multiple false identities"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness"
+            ],
+            "document_authenticity": [
+                "failed to submit documents timely",
+                "post-hearing documents deemed irrelevant"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s.106",
+                "IRPA s.107(2)",
+                "RPD Rules 11, 43"
+            ],
+            "procedural_fairness": [
+                "notice and opportunity to provide evidence"
+            ],
+            "credibility_findings": [
+                "inconsistencies in dates of birth, names",
+                "lack of timely submission of documents"
+            ],
+            "evidence_consideration": [
+                "failed to establish identity despite multiple documents"
+            ],
+            "reasonableness_of_decision": [
+                "Reasonableness for credibility",
+                "Correctness for procedural fairness"
+            ],
+            "refugee_status_nexus": [
+                "no credible basis for claim upheld"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "No breach of procedural fairness"
+            ],
+            "credibility_findings": [
+                "Inconsistencies in dates of birth, names",
+                "Lack of timely submission of documents"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "evidence_considered": [
+                "Multiple identity documents",
+                "Inconsistencies in applicant's claims"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA s.106",
+                "IRPA s.107(2)",
+                "RPD Rules 11, 43"
+            ],
+            "review_process": [
+                "Judicial review of RPD decision"
+            ],
+            "refugee_status": [
+                "No credible basis for claim upheld"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s.106",
+                "s.107(2)",
+                "RPD Rules 11, 43"
+            ],
+            "procedural_fairness": [
+                "Applicant had notice and opportunity to provide evidence",
+                "Procedural fairness not breached"
+            ],
+            "credibility_findings": [
+                "Inconsistencies in dates of birth, names",
+                "Lack of timely submission of documents",
+                "Failed to establish identity despite multiple documents"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "No credible basis for claim upheld"
+            ],
+            "standard_of_review": [
+                "Reasonableness for credibility",
+                "Correctness for procedural fairness"
+            ]
+        }
+    ]
+}

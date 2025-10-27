@@ -1,0 +1,29 @@
+{
+    "Case ID": "015100",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "failure to disclose reliance on changing circumstances",
+                "non-disclosure of significant documents"
+            ],
+            "evidence_assessment": [
+                "reliance on BBC News article",
+                "discounting other evidence"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness for factual decisions",
+                "correctness for fairness breaches"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "application denied based on undisclosed evidence"
+            ]
+        }
+    ]
+}

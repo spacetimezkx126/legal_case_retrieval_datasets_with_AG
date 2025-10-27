@@ -1,0 +1,30 @@
+{
+    "Case ID": "087019",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Section 56 of the Patent Act"
+            ],
+            "patent_validity": [
+                "Before patent issuance"
+            ],
+            "evidence_provided": [
+                "Delmar's certificate of analysis"
+            ],
+            "legal_basis": [
+                "Use and sale of an invention if purchased before the patent application becomes public"
+            ],
+            "decision_outcome": [
+                "Application dismissed; Novopharm can use and sell the enalapril maleate without infringing Merck's patent"
+            ],
+            "cause_of_action": [
+                "Merck claimed patent infringement by Novopharm"
+            ],
+            "procedural_fairness": [
+                "Court analyzed purchase timing and product deliverability"
+            ]
+        }
+    ]
+}

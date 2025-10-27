@@ -1,0 +1,68 @@
+{
+    "Case ID": "060111",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "evidence_assessment": [
+                "new evidence",
+                "credible, previously unavailable information",
+                "insufficient to overturn IRB conclusions"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "breach of fairness duties",
+                "denial of an oral hearing"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "reviewable error"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no reviewable error or fairness breach found"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.113(a)",
+                "Regulations s.167"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "no breach of fairness"
+            ],
+            "evidence_provided": [
+                "affidavits",
+                "letters"
+            ],
+            "standard_of_review": [
+                "reviewable error"
+            ],
+            "applicable_statute": [
+                "IRPA",
+                "Regulations"
+            ],
+            "claim_nature": [
+                "new evidence assessment",
+                "oral hearing request"
+            ],
+            "judicial_authority": [
+                "PRRA Officer"
+            ],
+            "material_misrepresentation": [
+                "insufficient to overturn IRB conclusions"
+            ],
+            "balance_of_convenience": [
+                "unnecessary oral hearing"
+            ],
+            "cause_of_action": [
+                "unfavorable PRRA decision"
+            ]
+        }
+    ]
+}

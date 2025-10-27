@@ -1,0 +1,30 @@
+{
+    "Case ID": "094198",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies in debt amount",
+                "complaint details",
+                "behavior post-threat"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness occurred"
+            ],
+            "reasonableness_standard": [
+                "credibility assessment is reviewed for reasonableness"
+            ],
+            "evidence_assessment": [
+                "applicant argued these were unreasonable but failed to show errors"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "RPD's decision upheld"
+            ],
+            "specific_threats": [
+                "threats from a paramilitary group"
+            ]
+        }
+    ]
+}

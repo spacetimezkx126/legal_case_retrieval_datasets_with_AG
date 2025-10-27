@@ -1,0 +1,53 @@
+{
+    "Case ID": "055707",
+    "Different Crime": [
+        {
+            "Crime Name": "False evidence submission in immigration proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable findings"
+            ],
+            "evidence_assessment": [
+                "dismissed key evidence",
+                "rejected documents without justification"
+            ],
+            "refugee_status_eligibility": [
+                "claim rejected"
+            ],
+            "internal_flight_alternative": [
+                "considered by RPD"
+            ],
+            "decision_outcome": [
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Refugee claim based on political persecution",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "questioned",
+                "errors"
+            ],
+            "evidence_assessment": [
+                "selective evidence rejection",
+                "overlooked or misinterpreted"
+            ],
+            "reasonableness_standard": [
+                "review under reasonableness standard"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "referred back for redetermination"
+            ],
+            "internal_flight_alternative": [
+                "challenged"
+            ]
+        }
+    ]
+}

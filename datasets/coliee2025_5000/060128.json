@@ -1,0 +1,31 @@
+{
+    "Case ID": "060128",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach_of_fairness"
+            ],
+            "procedural_fairness": [
+                "incompetence_of_counsel"
+            ],
+            "decision_reasoning": [
+                "cumulative_incompetence_of_counsel"
+            ],
+            "application_details": [
+                "late_documents",
+                "failed_to_correct_dates",
+                "no_corroborative_medical_evidence"
+            ],
+            "decision_conclusion": [
+                "set_aside_board_decision",
+                "redetermination_required"
+            ],
+            "result_of_case": [
+                "application_allowed",
+                "referred_back_to_board"
+            ]
+        }
+    ]
+}

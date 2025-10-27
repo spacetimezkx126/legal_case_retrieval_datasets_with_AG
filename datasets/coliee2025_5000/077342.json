@@ -1,0 +1,30 @@
+{
+    "Case ID": "077342",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "Apotex's process infringes Merck's patent"
+            ],
+            "relevant_rule": [
+                "NOC Regulations",
+                "patent claims scope"
+            ],
+            "evidence_presented": [
+                "expert evidence on process changes",
+                "obviousness to skilled practitioners"
+            ],
+            "decision_reasoning": [
+                "variants do not materially alter function",
+                "fall within patent scope"
+            ],
+            "result_of_case": [
+                "prohibition of Notice of Compliance until patent expiration"
+            ],
+            "application_details": [
+                "Apotex sought approval for noninfringing process"
+            ]
+        }
+    ]
+}

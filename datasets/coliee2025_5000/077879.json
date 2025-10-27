@@ -1,0 +1,54 @@
+{
+    "Case ID": "077879",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Subsection 4(1) of Regulations"
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging Board's decision under Immigration Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "Visa officer refused residency due to doubts about marriage's primary purpose"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no question certified for appeal"
+            ],
+            "evidence_assessment": [
+                "Inconsistencies and lack of evidence for common interests"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "inconsistencies",
+                "lack of evidence for common interests"
+            ],
+            "legal_basis": [
+                "Subsection 4(1) of Regulations"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "applicable_statute": [
+                "Immigration Act"
+            ],
+            "cause_of_action": [
+                "Visa officer refused residency"
+            ],
+            "nature_of_offense": [
+                "doubts about marriage's primary purpose"
+            ],
+            "appeal_outcome": [
+                "no question certified for appeal"
+            ]
+        }
+    ]
+}

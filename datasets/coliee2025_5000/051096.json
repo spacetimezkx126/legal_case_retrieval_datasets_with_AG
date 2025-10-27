@@ -1,0 +1,37 @@
+{
+    "Case ID": "051096",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness due to counsel's incompetence"
+            ],
+            "natural_justice_principles": [
+                "incompetence of counsel breaches natural justice if it causes a miscarriage of justice"
+            ],
+            "evidence_assessment": [
+                "lack of corroborative evidence",
+                "negative credibility findings"
+            ],
+            "decision_reasoning": [
+                "counsel failed to prepare clients, submit evidence, or advise on legal tests"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "Board’s decision set aside for redetermination by a different panel"
+            ],
+            "refugee_status": [
+                "applicants claimed refugee protection"
+            ],
+            "procedure_followed": [
+                "judicial review application filed",
+                "Federal Court analyzed whether counsel's actions breached procedural fairness"
+            ],
+            "conclusion_outcome": [
+                "Court found a breach of procedural fairness",
+                "case remanded for reconsideration with new panel"
+            ]
+        }
+    ]
+}

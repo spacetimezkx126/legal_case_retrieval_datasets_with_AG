@@ -1,0 +1,61 @@
+{
+    "Case ID": "087987",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "credibility_assessment": [
+                "marriage not genuine due to factors like age difference, lack of cultural compatibility, and timing post-refusal"
+            ],
+            "evidence_assessment": [
+                "photos, communications supporting genuineness ignored"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case referred back for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review application filed under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage entered into primarily for immigration purposes"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "genuine"
+            ],
+            "evidence_provided": [
+                "photos",
+                "communications"
+            ],
+            "decision_outcome": [
+                "denial",
+                "dismissal",
+                "judicial review allowed"
+            ],
+            "applicable_statute": [
+                "Section 4 of the Immigration and Refugee Protection Regulations",
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "criticized decision-making process"
+            ],
+            "cause_of_action": [
+                "denial of sponsorship application",
+                "appeal dismissal"
+            ],
+            "judicial_authority": [
+                "visa officer",
+                "Immigration Appeal Division",
+                "Court"
+            ]
+        }
+    ]
+}

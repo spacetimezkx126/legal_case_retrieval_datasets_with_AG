@@ -1,0 +1,94 @@
+{
+    "Case ID": "070318",
+    "Different Crime": [
+        {
+            "Crime Name": "Making False Statements to Immigration Officers",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions in statements",
+                "use of fraudulent documents",
+                "inconsistencies about political affiliations",
+                "not credible due to inconsistencies and omissions"
+            ],
+            "procedural_fairness": [
+                "alleged bias",
+                "procedural issues like Guideline 7",
+                "failure to object to Guideline 7 at the hearing constituted a waiver"
+            ],
+            "standard_of_review": [
+                "credibility findings reviewed under a standard of patent unreasonableness",
+                "bias assessed by an objective test of reasonable apprehension"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Claim Refugee Status in France",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "negative credibility findings based on contradictions"
+            ],
+            "procedural_fairness": [
+                "Board addressed concerns about bias",
+                "upheld POE notes as evidence"
+            ],
+            "review_standard": [
+                "test for bias",
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution in Kosovo"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "negative inference from using false passport",
+                "acknowledgment after being confronted with evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review examined fairness and reasonableness of decision"
+            ],
+            "reasonableness_of_decision": [
+                "Board's credibility finding not patently unreasonable"
+            ],
+            "refugee_status_nexus": [
+                "use of false passport while fleeing Kosovo"
+            ],
+            "standard_of_proof": [
+                "credibility findings reviewed on standard of patent unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "negative inference from using a false passport",
+                "multiple factors undermining credibility"
+            ],
+            "procedural_fairness": [
+                "judicial review examined fairness and reasonableness"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "refugee_protection": [
+                "use of false passport relevant to refugee claimant credibility"
+            ]
+        }
+    ]
+}

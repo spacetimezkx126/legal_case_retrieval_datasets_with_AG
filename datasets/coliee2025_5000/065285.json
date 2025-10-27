@@ -1,0 +1,27 @@
+{
+    "Case ID": "065285",
+    "Different Crime": [
+        {
+            "Crime Name": "Civil Procedure Violation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Court rules require parties to adhere to deadlines and schedules set by the court"
+            ],
+            "cause_of_action": [
+                "Plaintiffs repeatedly missed deadlines, including serving their affidavit of documents and conducting examinations on discovery"
+            ],
+            "procedure_followed": [
+                "Court issued orders and notices for status review, but plaintiffs did not comply. Defendant sought dismissal, and court reviewed the case."
+            ],
+            "decision_reasoning": [
+                "Plaintiffs' failure to meet deadlines and lack of communication regarding their delays"
+            ],
+            "result_of_case": [
+                "Action dismissed for delay"
+            ],
+            "cost_awards": [
+                "no costs awarded as defendant did not claim them"
+            ]
+        }
+    ]
+}

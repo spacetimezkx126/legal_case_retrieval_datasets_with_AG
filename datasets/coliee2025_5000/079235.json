@@ -1,0 +1,64 @@
+{
+    "Case ID": "079235",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 72(2)(a) of the Immigration and Refugee Protection Act",
+                "s. 117"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "H&C analysis"
+            ],
+            "availability_of_alternative_remedies": [
+                "appeal to the IAD"
+            ],
+            "procedural_fairness": [
+                "judicial review barred",
+                "IAD upheld refusal"
+            ],
+            "family_ties": [
+                "attempted to sponsor daughter"
+            ],
+            "immigration_status": [
+                "ineligibility under s. 117"
+            ],
+            "applicant_involvement": [
+                "non-declaration by daughter Vickey"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 72(2)(a) of the Immigration and Refugee Protection Act",
+                "s. 117"
+            ],
+            "procedural_fairness": [
+                "judicial review barred",
+                "IAD decision upheld",
+                "no reviewable error"
+            ],
+            "humanitarian_concerns": [
+                "H&C analysis",
+                "humanitarian and compassionate grounds"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "lack of standing",
+                "procedural bars affirmed"
+            ],
+            "immigration_status": [
+                "family class membership",
+                "ineligibility under s. 117",
+                "visa officer's refusal"
+            ],
+            "appeal_process": [
+                "IAD appeal failed",
+                "judicial review filed",
+                "Federal Court analysis"
+            ]
+        }
+    ]
+}

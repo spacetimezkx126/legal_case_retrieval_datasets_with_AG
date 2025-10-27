@@ -1,0 +1,33 @@
+{
+    "Case ID": "047327",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 240",
+                "Rule 242(1)"
+            ],
+            "evidence_assessment": [
+                "relevance",
+                "proportionality"
+            ],
+            "decision_reasoning": [
+                "train of enquiry test",
+                "unanswered questions relevance"
+            ],
+            "result_of_case": [
+                "motion dismissed"
+            ],
+            "cost_awards": [
+                "with costs"
+            ],
+            "procedure_followed": [
+                "Motion for review of Prothonotary's decision on discovery questions"
+            ],
+            "cause_of_action": [
+                "Dispute over relevance and scope of questions during discovery in a patent impeachment action"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "051640",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Charter of Rights and Freedoms",
+                "Federal Courts Act",
+                "Election Regulations"
+            ],
+            "constitutional_rights": [
+                "s 3",
+                "s 15"
+            ],
+            "procedural_fairness": [
+                "strict adherence to timelines",
+                "exclusion of hearsay evidence"
+            ],
+            "decision_reasoning": [
+                "reasonable to avoid conflicts of interest",
+                "irregularities immaterial to results"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "upheld except costs order against Mr. Houle quashed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Case ID": "004998",
+    "Different Crime": [
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Attorney General"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "no flagrant impropriety"
+            ],
+            "legal_basis": [
+                "subsection 7(7) of the Criminal Code",
+                "Charter rights"
+            ],
+            "evidence_provided": [
+                "lack of evidence"
+            ],
+            "public_interest": [
+                "considerations"
+            ],
+            "appeal_outcome": [
+                "upholding prosecutorial discretion"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 7(7) of the Criminal Code"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "charter_rights_violation": [
+                "no violation"
+            ],
+            "evidence_quality": [
+                "lack of evidence"
+            ],
+            "reasoning_given": [
+                "public interest considerations",
+                "no flagrant impropriety"
+            ],
+            "decision_outcome": [
+                "upholding prosecutorial discretion"
+            ],
+            "human_rights_concerns": [
+                "torture committed abroad"
+            ]
+        }
+    ]
+}

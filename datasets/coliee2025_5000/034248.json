@@ -1,0 +1,25 @@
+{
+    "Case ID": "034248",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Medical Inadmissibility",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 19(1)(a)(ii) of the Immigration Act"
+            ],
+            "evidence_assessment": [
+                "medical opinion on the principal claimant's condition insufficient and vague",
+                "questioned Dr. Sorokin's prognosis without presenting contradictory medical evidence"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "IAD's decision set aside",
+                "case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "whether the IAD acted within its jurisdiction",
+                "whether the medical opinion was reasonable"
+            ]
+        }
+    ]
+}

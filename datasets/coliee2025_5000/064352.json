@@ -1,0 +1,63 @@
+{
+    "Case ID": "064352",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "family ties"
+            ],
+            "criminal_history": [
+                "sexual assault",
+                "drug offenses"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "appeals"
+            ],
+            "irreparable_harm": [
+                "insufficient grounds"
+            ],
+            "immigration_status": [
+                "deportation orders"
+            ],
+            "applicant_involvement": [
+                "failed to apply for pre-removal risk assessment or humanitarian consideration"
+            ]
+        },
+        {
+            "Crime Name": "Possession of restricted drugs for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "separation from son",
+                "irreparable harm"
+            ],
+            "serious_criminality": [
+                "drug trafficking",
+                "sexual assault"
+            ],
+            "deportation_order": [
+                "issued"
+            ],
+            "decision_outcome": [
+                "application for stay dismissed",
+                "deported"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "evidence_sufficiency": [
+                "insufficient to demonstrate irreparable harm"
+            ],
+            "immigration_status": [
+                "non-citizen",
+                "inadmissible to Canada"
+            ],
+            "review_process": [
+                "judicial reviews",
+                "appeals",
+                "applications for stays"
+            ]
+        }
+    ]
+}

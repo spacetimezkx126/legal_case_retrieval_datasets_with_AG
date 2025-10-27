@@ -1,0 +1,30 @@
+{
+    "Case ID": "001347",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "NOC Regulations"
+            ],
+            "cause_of_action": [
+                "validity of Canadian Patent No. 2,177,576"
+            ],
+            "procedure_followed": [
+                "Proceedings under the NOC Regulations"
+            ],
+            "evidence_assessment": [
+                "abandonment",
+                "obviousness",
+                "lack of utility",
+                "insufficiency"
+            ],
+            "decision_reasoning": [
+                "Searle failed to disprove abandonment and obviousness allegations"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

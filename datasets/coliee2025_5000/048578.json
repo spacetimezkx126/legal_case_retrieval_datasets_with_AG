@@ -1,0 +1,103 @@
+{
+    "Case ID": "048578",
+    "Different Crime": [
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "refugee protection",
+                "well-founded fear of persecution"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "new hearing ordered"
+            ],
+            "procedural_fairness": [
+                "inadequate assessment of evidence",
+                "concerns about judicial corruption"
+            ],
+            "party_involved": [
+                "Altun",
+                "RPD",
+                "Federal Court"
+            ],
+            "claim_nature": [
+                "political motivation",
+                "ethnic persecution"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Federal Court"
+            ],
+            "risk_characterization": [
+                "unfair prosecution",
+                "politically motivated conviction"
+            ],
+            "nexus_to_convention_grounds": [
+                "ethnicity-based persecution"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "refugee_status_claim": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "concerns about judicial corruption in Turkey"
+            ],
+            "decision_outcome": [
+                "new hearing ordered"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "not explicitly mentioned"
+            ],
+            "credibility_findings": [
+                "not adequately assessed"
+            ],
+            "risk_assessment": [
+                "not conducted properly"
+            ],
+            "court_ruling": [
+                "Federal Court found merit in Altun's arguments"
+            ],
+            "evidence_assessment": [
+                "RPD failed to consider key evidence"
+            ],
+            "standard_of_proof": [
+                "well-founded fear of persecution required"
+            ],
+            "decision_made": [
+                "refugee claim dismissed by RPD"
+            ],
+            "reasoning_given": [
+                "lack of adequate assessment of detailed evidence"
+            ]
+        },
+        {
+            "Crime Name": "Persecution based on ethnicity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "evidence_assessment": [
+                "inadequate"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "persecution_grounds": [
+                "ethnicity"
+            ],
+            "judicial_review_process": [
+                "granted"
+            ]
+        }
+    ]
+}

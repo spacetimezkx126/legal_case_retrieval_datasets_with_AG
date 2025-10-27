@@ -1,0 +1,38 @@
+{
+    "Case ID": "078078",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "compelling_reasons_exception": [
+                "severe persecution",
+                "appalling or atrocious persecution"
+            ],
+            "legal_basis": [
+                "s. 2(3) of the Immigration Act"
+            ],
+            "risk_of_persecution": [
+                "extreme persecution in El Salvador"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remitted for rehearing"
+            ],
+            "nexus_to_convention_grounds": [
+                "Convention refugee status"
+            ],
+            "changed_country_conditions": [
+                "Board dismissed claim due to changed country conditions"
+            ],
+            "evidence_assessment": [
+                "failed to assess atrocity of past persecution"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "independent_review_by_rad": [
+                "redetermination by a new panel"
+            ]
+        }
+    ]
+}

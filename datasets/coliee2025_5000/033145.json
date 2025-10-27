@@ -1,0 +1,31 @@
+{
+    "Case ID": "033145",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "277 days physical presence",
+                "centralized mode of living",
+                "family ties",
+                "intention to return"
+            ],
+            "legal_basis": [
+                "Citizenship Act residency requirement",
+                "s. 22(1) of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "citizenship approval upheld"
+            ],
+            "evidence_assessment": [
+                "strong ties with family in Canada",
+                "regular returns during breaks",
+                "financial dependency on parents"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

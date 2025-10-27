@@ -1,0 +1,521 @@
+{
+    "Case ID": "058709",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Simple Assault"
+            ],
+            "Perpetrator_Type": [
+                "Applicant"
+            ],
+            "Victim_Status": [
+                "Spouse"
+            ],
+            "Location_of_Incident": [
+                "Private Residence"
+            ],
+            "Threat_Source": [
+                "Physical Violence"
+            ],
+            "Aggravating_Factors": [
+                "History of violent offenses",
+                "Lack of credible rehabilitation evidence"
+            ],
+            "Mitigating_Factors": [
+                "Consent Order",
+                "International instruments cited"
+            ],
+            "Prior_Criminality": [
+                "Yes"
+            ],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Criminal record",
+                "Consent Order",
+                "Hearing testimony"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Applicant's lack of credible evidence of rehabilitation"
+            ],
+            "Risk_Assessment": [
+                "High risk to public safety"
+            ],
+            "Risk_Type": [
+                "Recidivism"
+            ],
+            "Risk_Nature": [
+                "Potential for reoffending in domestic context"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Wife"
+            ],
+            "Targeted_Individual_Status": [
+                "Spouse"
+            ],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Legal_Framework": [
+                "Humanitarian and Compassionate Grounds Review"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Applicable_Statute": [
+                "s. 72(1) IRPA"
+            ],
+            "Legal_Provision": [
+                "Consideration of best interests of children",
+                "Procedural fairness"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 72(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Removal Order upheld"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Interpreter quality concerns",
+                "Minor interpretation errors"
+            ],
+            "Procedural_Stage": [
+                "Judicial Review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under s. 72(1) IRPA"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration Appeal Division"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial Review"
+            ],
+            "Authority": [
+                "Federal Court jurisdiction over immigration matters"
+            ],
+            "Decision_Standard": [
+                "Reasonableness",
+                "Correctness for procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Assault causing bodily harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Assault with bodily harm"
+            ],
+            "Perpetrator_Type": [
+                "Applicant"
+            ],
+            "Victim_Status": [
+                "Spouse"
+            ],
+            "Location_of_Incident": [
+                "Private Residence"
+            ],
+            "Threat_Source": [
+                "Physical violence resulting in injury"
+            ],
+            "Aggravating_Factors": [
+                "History of violence",
+                "Pattern of criminal behavior"
+            ],
+            "Mitigating_Factors": [
+                "Consent Order",
+                "Family ties in Canada"
+            ],
+            "Prior_Criminality": [
+                "Yes"
+            ],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Criminal convictions",
+                "Hearing record",
+                "Consent Order"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Applicant failed to demonstrate rehabilitation"
+            ],
+            "Risk_Assessment": [
+                "High"
+            ],
+            "Risk_Type": [
+                "Domestic violence recurrence"
+            ],
+            "Risk_Nature": [
+                "Continued threat to spouse and household"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Wife"
+            ],
+            "Targeted_Individual_Status": [
+                "Spouse"
+            ],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Legal_Framework": [
+                "Humanitarian and Compassionate Grounds Review"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Applicable_Statute": [
+                "s. 72(1) IRPA"
+            ],
+            "Legal_Provision": [
+                "Best interests of the child",
+                "Procedural fairness"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 72(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Removal Order upheld"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Interpreter errors",
+                "Adequacy of interpretation"
+            ],
+            "Procedural_Stage": [
+                "Judicial Review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review based on H&C and procedural fairness"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration Appeal Division"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial Review"
+            ],
+            "Authority": [
+                "Federal Court jurisdiction over immigration matters"
+            ],
+            "Decision_Standard": [
+                "Reasonableness",
+                "Correctness for procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Unknown (domestic violence pattern)",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Inadmissibility due to criminality"
+            ],
+            "Legal_Issue": [
+                "Best interests of children",
+                "Procedural fairness"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Application_Facts": [
+                "Applicant has history of domestic violence",
+                "Seeks stay on removal based on humanitarian grounds"
+            ],
+            "Decision_Outcome": [
+                "Removal order not stayed"
+            ],
+            "Remedy_Requested": [
+                "Stay of removal on humanitarian and compassionate grounds"
+            ],
+            "Court_Ruling": [
+                "No reviewable error found"
+            ],
+            "Claimant_Status": [
+                "Permanent Resident"
+            ],
+            "Defendant_Behavior": [
+                "Repeated domestic violence",
+                "Non-compliance with legal orders"
+            ],
+            "Grounds_for_Claim": [
+                "Best interests of children",
+                "Procedural unfairness due to interpretation"
+            ],
+            "Legal_Standard": [
+                "Reasonableness of IAD decision",
+                "Correctness for procedural fairness"
+            ],
+            "Assessment_Factor": [
+                "Weight given to negative factors over positive"
+            ],
+            "Applicable_Legislation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Issue": [
+                "Interpreter performance",
+                "Failure to object during hearing"
+            ],
+            "Review_Standard": [
+                "Reasonableness",
+                "Correctness for procedural fairness"
+            ],
+            "Credibility_Assessment": [
+                "Applicant lacked credible evidence of change"
+            ],
+            "Evidence_Used": [
+                "Consent Order",
+                "Criminal record",
+                "Hearing transcript"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 72(1) IRPA"
+            ],
+            "Application_Basis": [
+                "Humanitarian and compassionate considerations"
+            ],
+            "Evidence_Assessed": [
+                "Credible evidence supporting minor interpretation issues"
+            ],
+            "Relief_Sought": [
+                "Stay of removal"
+            ],
+            "Governing_Rule": [
+                "IAD must consider best interests of children"
+            ],
+            "Evidentiary_Deficiency": [
+                "Insufficient proof of rehabilitation"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Harm_Assessment": [
+                "Potential harm to children from continued presence"
+            ],
+            "Cause_Description": [
+                "Criminal convictions leading to deportation"
+            ],
+            "Evidence_Handling": [
+                "Proper consideration of available evidence"
+            ],
+            "Legal_Provision_Violated": [],
+            "Evidence_Issues": [
+                "Minor interpreter errors"
+            ],
+            "Residency_Compliance": [
+                "Applicant legally resident but criminally inadmissible"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "s. 72(1) IRPA"
+            ],
+            "Jurisdictional_Issue": [
+                "Federal immigration jurisdiction"
+            ],
+            "Evidence_Assessment": [
+                "Balanced evaluation by IAD"
+            ],
+            "Decision_Rationale": [
+                "Negative factors outweigh humanitarian considerations"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Immigration Appeal Division"
+            ],
+            "Evidentiary_Issues": [
+                "Interpreter accuracy, no objection raised"
+            ],
+            "Legal_Standard_Applied": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Breach of probation",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Compliance with court order"
+            ],
+            "Legal_Issue": [
+                "Procedural fairness",
+                "Rehabilitation assessment"
+            ],
+            "Governing_Law": [
+                "Criminal Code",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "Judicial Review"
+            ],
+            "Evidence_Assessment": [
+                "Credible evidence of repeated breaches"
+            ],
+            "Decision_Outcome": [
+                "Removal Order upheld"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to show exceptional circumstances"
+            ],
+            "Credibility_Factor": [
+                "Applicant's lack of credible rehabilitation efforts"
+            ],
+            "Legal_Rule": [
+                "IAD must weigh H&C factors including child welfare"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness",
+                "Correctness for procedural fairness"
+            ],
+            "Procedural_Issue": [
+                "Quality of interpretation during hearing"
+            ],
+            "Grounds_for_Claim": [
+                "Best interests of children",
+                "Procedural unfairness"
+            ],
+            "Outcome_on_Merits": [
+                "Application dismissed"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Minor translation issues did not affect outcome"
+            ],
+            "Key_Evidence_Considered": [
+                "Criminal record",
+                "Probation violations",
+                "Lack of rehabilitation"
+            ],
+            "Legal_Framework": [
+                "Immigration appeal process"
+            ],
+            "Applicant_Challenge": [
+                "IAD failed to properly weigh children's best interests"
+            ],
+            "Court_Result": [
+                "No serious question certified"
+            ],
+            "Legal_Rule_Source": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "Failed to demonstrate compliance or change"
+            ],
+            "Evidence_Type": [
+                "Official records",
+                "Hearing transcript"
+            ],
+            "Remedy_Requested": [
+                "Stay of removal"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Humanitarian relief from removal"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "s. 72(1) IRPA"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "Permanent Resident"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 72(1) IRPA"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Criminality - breach of probation"
+            ],
+            "Applicable_Process": [
+                "Humanitarian and Compassionate application"
+            ],
+            "Outcome_of_Review": [
+                "Dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "Stay of removal"
+            ],
+            "Jurisdiction": [
+                "Federal"
+            ],
+            "Governing_Rule": [
+                "Procedural fairness requires adequate interpretation"
+            ]
+        }
+    ]
+}

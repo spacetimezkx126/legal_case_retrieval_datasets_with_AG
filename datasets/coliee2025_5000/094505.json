@@ -1,0 +1,47 @@
+{
+    "Case ID": "094505",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Mandate refugee, not Convention refugee or protected person"
+            ],
+            "immigration_status": [
+                "Permanent resident, not refugee"
+            ],
+            "criminality_inadmissibility": [
+                "Criminal convictions led to deportation order"
+            ],
+            "decision_outcome": [
+                "Deportation order stands"
+            ],
+            "legal_basis": [
+                "IRPA provisions for Convention refugees and protected persons"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA sections 95, 112, and 115",
+                "Convention refugees or those in similar circumstances"
+            ],
+            "decision_reasoning": [
+                "Kim was convicted of serious crimes, making him ineligible for refugee protection"
+            ],
+            "application_details": [
+                "Kim applied for judicial review after a negative PRRA decision"
+            ],
+            "conclusion_outcome": [
+                "Kim is not protected under IRPA due to his criminal convictions"
+            ],
+            "result_of_case": [
+                "The application for judicial review was dismissed; Kim remains deportable"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ]
+        }
+    ]
+}

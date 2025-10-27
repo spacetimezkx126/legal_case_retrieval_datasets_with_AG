@@ -1,0 +1,27 @@
+{
+    "Case ID": "055456",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown (Labour Law Dispute)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Long Term Specified Period Employment Policy, 1999"
+            ],
+            "procedural_fairness": [
+                "formal notification",
+                "insufficient formal notification"
+            ],
+            "decision_reasoning": [
+                "applicant was given only one month's notice instead of the required five weeks",
+                "grievance officer dismissed the grievance without addressing the formal notification issue"
+            ],
+            "result_of_case": [
+                "Case remitted for reconsideration ensuring proper interpretation and application of the 1999 Policy"
+            ],
+            "procedure_followed": [
+                "Judicial review application after grievance dismissal",
+                "Federal Court reviewed the case and found procedural errors"
+            ]
+        }
+    ]
+}

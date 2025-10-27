@@ -1,0 +1,31 @@
+{
+    "Case ID": "010026",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "applicant was absent for 551 days",
+                "retained business interests in Colombia",
+                "traveled frequently",
+                "stronger connection to Colombia"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "s. 14(5) of Citizenship Act",
+                "s. 21 of Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "did not meet residency requirement"
+            ],
+            "evidence_assessment": [
+                "frequent absences",
+                "ties to Colombia"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

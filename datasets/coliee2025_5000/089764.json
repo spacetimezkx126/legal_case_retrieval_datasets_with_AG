@@ -1,0 +1,30 @@
+{
+    "Case ID": "089764",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural fairness breach due to non-disclosure of CSIS and CTS documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach due to non-disclosure"
+            ],
+            "document_disclosure_issues": [
+                "CSIS and CTS documents"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "decision set aside",
+                "case remitted"
+            ],
+            "judicial_review_result": [
+                "judicial review application filed"
+            ],
+            "reasoning_given": [
+                "officer heavily relied on undisclosed reports",
+                "allegations communicated late in interview"
+            ],
+            "legal_basis": [
+                "procedural fairness requires disclosure of influential documents"
+            ]
+        }
+    ]
+}

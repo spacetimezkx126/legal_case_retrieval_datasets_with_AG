@@ -1,0 +1,25 @@
+{
+    "Case ID": "068439",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA paragraph 40(1)(a)"
+            ],
+            "misrepresentation_or_fraud": [
+                "submission of counterfeit document"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "found inadmissible under IRPA"
+            ],
+            "evidence_assessment": [
+                "counterfeit document relevant and could induce administrative error"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

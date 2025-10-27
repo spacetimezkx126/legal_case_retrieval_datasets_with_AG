@@ -1,0 +1,74 @@
+{
+    "Case ID": "079771",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Courts Rules"
+            ],
+            "decision_outcome": [
+                "Guilty of contempt"
+            ],
+            "evidence_provided": [
+                "Unauthorized decoding and distribution",
+                "Ignored cease-and-desist notices",
+                "Enhanced operations post-injunction"
+            ],
+            "standard_of_review": [
+                "Beyond a reasonable doubt"
+            ],
+            "procedural_fairness": [
+                "Show-cause order issued",
+                "Defendants failed to appear"
+            ],
+            "appeal_outcome": [
+                "Fines imposed, website removal ordered, conditional imprisonment imposed"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Decoding of Encrypted Signals",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Federal Courts Rules, 1998, Rule 467"
+            ],
+            "evidence_credibility": [
+                "deliberate infringement and non-compliance"
+            ],
+            "procedural_fairness": [
+                "Court issued a show-cause order, reviewed evidence"
+            ],
+            "decision_outcome": [
+                "guilty of contempt"
+            ],
+            "impact_of_delay_or_conditions": [
+                "conditional six-month imprisonment for Bucholc"
+            ]
+        },
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Courts Rules"
+            ],
+            "evidence_presented": [
+                "continued decoding and distribution",
+                "infringing copyrights and trademarks",
+                "deliberate actions",
+                "lack of compliance"
+            ],
+            "decision_reasoning": [
+                "violating an interim injunction",
+                "decoding and distributing copyrighted TV programs without authorization"
+            ],
+            "result_of_case": [
+                "fined ($25,000 for Radiopol Inc., $10,000 for Bucholc)",
+                "ordered to pay costs",
+                "Bucholc sentenced to six months' imprisonment (suspended if website removed)"
+            ],
+            "standard_of_proof": [
+                "beyond a reasonable doubt"
+            ]
+        }
+    ]
+}

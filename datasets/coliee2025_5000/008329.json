@@ -1,0 +1,65 @@
+{
+    "Case ID": "008329",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to an immigration officer",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Contradictions in testimony",
+                "Omissions in forms",
+                "False statements at entry"
+            ],
+            "state_protection_analysis": [
+                "Failed to prove lack of state protection"
+            ],
+            "evidence_assessment": [
+                "Inconsistencies undermined credibility"
+            ],
+            "refugee_status_eligibility": [
+                "Claimed refugee status due to threats"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review does not allow re-evaluation of evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material facts in Personal Information Form",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Board's authority to make negative credibility findings",
+                "judicial review standards"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed Board's decision for reasonableness"
+            ],
+            "evidence_provided": [
+                "Contradictions in testimony, PIFs, port of entry statements",
+                "Omissions regarding fraud knowledge"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "state_protection": [
+                "Applicants failed to seek state protection in Mexico"
+            ],
+            "material_misrepresentation": [
+                "Contradictions and omissions in PIF"
+            ],
+            "relationship_genuineness": [
+                "Credibility issues regarding political party threats"
+            ],
+            "risk_characterization": [
+                "Threats from Mexican political party members"
+            ],
+            "reasonableness_standard": [
+                "Findings are within the Board's expertise and comply with legal principles"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "067342",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility for Membership in an Organization Engaging in Espionage",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA subsections 34(1)(a) and (f)"
+            ],
+            "membership_in_organization": [
+                "Soviet military unit intercepting NATO communications"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "remanded for redetermination"
+            ],
+            "judicial_review_result": [
+                "analyzed decision-making process and procedural fairness"
+            ],
+            "discrepancies_identified": [
+                "failure to address discrepancies in evidence",
+                "lack of clarity in defining 'espionage'"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Ministerial Relief Submissions",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 34(2)"
+            ],
+            "procedural_fairness": [
+                "Officer's misinterpretation of applicant's intent and procedural requirements"
+            ],
+            "decision_reasoning": [
+                "The Officer erred by not forwarding the request to the Minister, exceeding her jurisdiction"
+            ],
+            "application_details": [
+                "The applicant expressed intent for ministerial relief and provided relevant information"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed Officer's decision, focusing on procedural fairness and legal obligations under IRPA"
+            ],
+            "result_of_case": [
+                "Judicial review granted; case sent back for reconsideration ensuring proper procedure for ministerial relief"
+            ]
+        }
+    ]
+}

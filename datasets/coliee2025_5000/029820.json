@@ -1,0 +1,30 @@
+{
+    "Case ID": "029820",
+    "Different Crime": [
+        {
+            "Crime Name": "Trespass",
+            "Crime Type": "others",
+            "legal_basis": [
+                "common law"
+            ],
+            "decision_reasoning": [
+                "damages can only be awarded for losses accrued before the commencement of the action"
+            ],
+            "evidence_presented": [
+                "unauthorized use of plaintiff's land",
+                "appraisal valued rent at $725/year"
+            ],
+            "procedure_followed": [
+                "Plaintiff filed a lawsuit in 1996",
+                "Default judgment was granted in 1999",
+                "reference hearing determined damages"
+            ],
+            "result_of_case": [
+                "Plaintiff received $10,300 in damages",
+                "$5,281.95 in costs",
+                "interest",
+                "Continuing trespass requires further legal action"
+            ]
+        }
+    ]
+}

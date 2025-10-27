@@ -1,0 +1,29 @@
+{
+    "Case ID": "024224",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "innocent omissions",
+                "failure to disclose material facts"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no question certified"
+            ],
+            "standard_of_review": [
+                "judicial review by Federal Court"
+            ],
+            "regulatory_compliance": [
+                "violating application instructions"
+            ],
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ]
+        }
+    ]
+}

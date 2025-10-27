@@ -1,0 +1,32 @@
+{
+    "Case ID": "086229",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "denied procedural fairness",
+                "not allowed to address contradictions",
+                "negative file information"
+            ],
+            "relevant_statute": [
+                "s. 114(2) of the Immigration Act"
+            ],
+            "decision_reasoning": [
+                "breaching procedural fairness",
+                "did not allow the applicant to address contradictions or explain negative file information"
+            ],
+            "court_ruling": [
+                "applicant was denied procedural fairness",
+                "case is remanded for redetermination"
+            ],
+            "result_of_case": [
+                "Federal Court allowed the judicial review",
+                "ordering a new assessment with proper procedural safeguards"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "insufficient humanitarian and compassionate grounds"
+            ]
+        }
+    ]
+}

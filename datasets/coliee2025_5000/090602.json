@@ -1,0 +1,32 @@
+{
+    "Case ID": "090602",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "relevant_statute": [
+                "leases require rent to be 6% of 'current land value'"
+            ],
+            "dispute_focus": [
+                "interpretation of 'current land value'"
+            ],
+            "evidence_presented": [
+                "market values Indian reserve land lower than off-reserve freehold land",
+                "expert evidence",
+                "market data"
+            ],
+            "decision_reasoning": [
+                "reflecting a 99-year leasehold interest",
+                "not fee simple value",
+                "servicing costs must be deducted"
+            ],
+            "result_details": [
+                "annual rent set at 6% of recalculated land value"
+            ],
+            "procedure_steps": [
+                "court analyzed lease terms",
+                "determine appropriate valuation method and servicing cost deductions"
+            ]
+        }
+    ]
+}

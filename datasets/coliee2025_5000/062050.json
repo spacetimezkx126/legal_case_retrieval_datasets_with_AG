@@ -1,0 +1,62 @@
+{
+    "Case ID": "062050",
+    "Different Crime": [
+        {
+            "Crime Name": "Deception and manipulation in employment context",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "parole revocation justified"
+            ],
+            "procedural_fairness": [
+                "procedurally fair"
+            ],
+            "evidence_provided": [
+                "credible evidence supporting revocation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "nature_of_offense": [
+                "breach of employment conditions",
+                "accessing financial information",
+                "deceptive behavior"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Appeal Division",
+                "Court"
+            ],
+            "mitigating_factors": [],
+            "appeal_outcome": [
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with recognizance",
+            "Crime Type": "others",
+            "legal_basis": [
+                "CCRA s.107(1)(b)"
+            ],
+            "procedural_fairness": [
+                "procedural fairness concerns"
+            ],
+            "decision_reasoning": [
+                "reasonable interpretation of employment condition",
+                "discrepancies in account versus file information",
+                "conclusion of deception"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "no costs awarded"
+            ],
+            "evidence_consideration": [
+                "breach of parole condition",
+                "job acceptance without approval",
+                "potential financial access violation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "040639",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Status Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "interpreter discrepancies",
+                "inadequate interpretation"
+            ],
+            "credibility_assessment": [
+                "vague testimony",
+                "translation discrepancies affecting credibility findings"
+            ],
+            "refugee_status_eligibility": [
+                "refused refugee status"
+            ],
+            "decision_outcome": [
+                "Application for judicial review granted",
+                "case sent back for redetermination"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed interpreter discrepancies"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "Case ID": "093268",
+    "Different Crime": [
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "systemic issues in St. Vincent and the Grenadines",
+                "police inaction",
+                "lack of women's shelters"
+            ],
+            "evidence_consideration": [
+                "documented failures of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "risk_of_persecution": [
+                "domestic abuse"
+            ],
+            "gender_related_persecution_guidelines": [],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Failure to Provide State Protection",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "domestic abuse",
+                "lack of state protection"
+            ],
+            "decision_reasoning": [
+                "insufficient analysis of country conditions",
+                "ignoring relevant evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "Board's decision set aside",
+                "case referred back for fresh determination"
+            ],
+            "evidence_assessment": [
+                "systemic issues with state protection",
+                "claimant did not pursue all reasonable steps"
+            ]
+        },
+        {
+            "Crime Name": "Gross Negligence by Law Enforcement Officials",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "inadequate police protection",
+                "lack of state protection against domestic abuse"
+            ],
+            "evidentiary_standard": [
+                "clear and convincing evidence"
+            ],
+            "judicial_review_process": [
+                "reasonableness of the Refugee Protection Panel’s decision",
+                "assessed based on available evidence and country conditions"
+            ],
+            "decision_outcome": [
+                "grants judicial review",
+                "sets aside the Board's decision",
+                "refers the case back for reevaluation"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "domestic abuse"
+            ],
+            "burden_of_proof": [
+                "claimant must prove lack of state protection"
+            ]
+        }
+    ]
+}

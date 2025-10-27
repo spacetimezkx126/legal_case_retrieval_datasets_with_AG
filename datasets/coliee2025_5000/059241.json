@@ -1,0 +1,52 @@
+{
+    "Case ID": "059241",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration release conditions",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations s. 49(4)"
+            ],
+            "procedural_fairness": [
+                "Judicial review application in Federal Court"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "Breach of release conditions"
+            ],
+            "standard_of_review": [
+                "Reasonableness of the forfeiture decision"
+            ]
+        },
+        {
+            "Crime Name": "Breach of recognizance conditions",
+            "Crime Type": "others",
+            "forfeiture_proportionality": [
+                "partial forfeiture of deposit"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act (IRPA) s. 58(3)",
+                "Regulations s. 49(4)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "discretion_exercise": [
+                "manager's discretion in forfeiture decision"
+            ],
+            "cause_incident": [
+                "breach of immigration release conditions"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "Federal Court reviewed under reasonableness standard"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "certified question on proportionality"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "001499",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with residency obligation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "non-compliance with residency obligations"
+            ],
+            "immigration_status": [
+                "permanent resident status",
+                "under a removal order"
+            ],
+            "decision_outcome": [
+                "appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "Citizenship Act s. 5(1)(c) & (f)",
+                "IRPA s. 46(1)(c)"
+            ]
+        }
+    ]
+}

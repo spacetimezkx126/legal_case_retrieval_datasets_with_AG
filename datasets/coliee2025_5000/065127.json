@@ -1,0 +1,74 @@
+{
+    "Case ID": "065127",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(c) of the Refugee Convention"
+            ],
+            "credibility_assessment": [
+                "misinterpretation of evidence",
+                "failure to address key reports"
+            ],
+            "decision_outcome": [
+                "case remanded for new determination"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "refugee_status_eligibility": [
+                "excluded under Article 1F(c) due to alleged complicity in violence"
+            ]
+        },
+        {
+            "Crime Name": "Political violence involvement",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Article 1F(c) of the Refugee Convention",
+                "IRPA sections 96-98"
+            ],
+            "complicity_in_crimes": [
+                "complicit in acts contrary to UN principles",
+                "contributing to BNP's violent activities"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision unreasonable"
+            ],
+            "membership_in_organization": [
+                "executive member of BNP"
+            ],
+            "risk_assessment": [
+                "excluded under Article 1F(c) due to alleged complicity in BNP's violence"
+            ],
+            "evidence_consideration": [
+                "ignored key evidence supporting his claims",
+                "misinterpreted his testimony"
+            ],
+            "refugee_status_nexus": [
+                "sought refugee status in Canada"
+            ]
+        },
+        {
+            "Crime Name": "Acts contrary to the purposes and principles of the United Nations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(c) of the Refugee Convention"
+            ],
+            "credibility_findings": [
+                "unreasonably questioned Alam's credibility",
+                "misinterpreted his testimony"
+            ],
+            "decision_outcome": [
+                "granted judicial review",
+                "remitting the case for re-determination by another Board member"
+            ],
+            "reasonableness_of_decision": [
+                "original decision was unreasonable"
+            ],
+            "judicial_review_process": [
+                "analyzed the RPD's decision"
+            ]
+        }
+    ]
+}

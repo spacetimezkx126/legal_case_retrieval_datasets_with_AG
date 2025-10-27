@@ -1,0 +1,26 @@
+{
+    "Case ID": "090466",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Violation of procedural fairness in scoring education credentials"
+            ],
+            "standard_of_review": [
+                "Reasonableness review for visa officer decisions",
+                "Correctness review due to procedural fairness violation"
+            ],
+            "decision_outcome": [
+                "Judicial review application granted",
+                "Case remanded for revaluation by another visa officer"
+            ],
+            "evidence_assessment": [
+                "Specialized training evidence not fully considered"
+            ],
+            "immigration_status": [
+                "Related to visa application under IRPA subsection 72(1)"
+            ]
+        }
+    ]
+}

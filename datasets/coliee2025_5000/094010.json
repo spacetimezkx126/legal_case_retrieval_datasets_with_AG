@@ -1,0 +1,92 @@
+{
+    "Case ID": "094010",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose HIV status upon entry and visa renewals",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 44(1)",
+                "subsection 44(2)"
+            ],
+            "criminality_inadmissibility": [
+                "serious criminality",
+                "criminal negligence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "decisions upheld"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "considered but prioritized severity of crime and lack of disclosure"
+            ],
+            "evidence_assessment": [
+                "applicant failed to disclose HIV status",
+                "convicted of criminal negligence"
+            ],
+            "standard_of_review": [
+                "adequacy of reasons",
+                "reasonableness of decisions"
+            ],
+            "misrepresentation_or_fraud": [
+                "failure to disclose HIV status"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "aggravated assault"
+            ],
+            "judicial_authority": [
+                "officer",
+                "Minister's delegate"
+            ],
+            "applicable_statute": [
+                "Section 44 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "adequate reasons",
+                "reasonable decisions"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "considered but outweighed by severity of crime"
+            ],
+            "nature_of_offense": [
+                "criminal conviction"
+            ],
+            "balance_of_convenience": [
+                "reasonableness given facts and applicable law"
+            ]
+        },
+        {
+            "Crime Name": "Criminal Negligence Causing Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 44 of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "adequate reasons",
+                "reasonable decisions"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "considered but outweighed by severity of crime"
+            ],
+            "criminal_history": [
+                "convicted of criminal negligence causing bodily harm"
+            ],
+            "serious_issue": [
+                "inadmissibility due to serious criminality"
+            ],
+            "reasonableness_of_decision": [
+                "upheld by court"
+            ],
+            "immigration_status": [
+                "deemed inadmissible"
+            ]
+        }
+    ]
+}

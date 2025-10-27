@@ -1,0 +1,24 @@
+{
+    "Case ID": "094784",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of physical presence in Canada over four years"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence for claimed days in Canada",
+                "destroyed passport",
+                "inconclusive remaining evidence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "residency requirement not met"
+            ],
+            "standard_of_review": [
+                "Citizenship Act and Federal Courts Act"
+            ]
+        }
+    ]
+}

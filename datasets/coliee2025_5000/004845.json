@@ -1,0 +1,30 @@
+{
+    "Case ID": "004845",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining refugee status by misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "revocation due to misrepresentation"
+            ],
+            "misrepresentation_or_fraud": [
+                "material facts",
+                "counterfeit identity document"
+            ],
+            "credibility_assessment": [
+                "contradictions in testimony",
+                "errors in cultural context"
+            ],
+            "legal_basis": [
+                "subsection 109(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned",
+                "refugee status reinstated"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "Case ID": "016648",
+    "Different Crime": [
+        {
+            "Crime Name": "False documents for the purpose of gaining entry",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence linking the threat to state involvement or inability to seek protection"
+            ],
+            "identity_verification": [
+                "applicant entered Canada using a false passport"
+            ],
+            "criminality_inadmissibility": [
+                "use of false documents"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "PRRA Officer's decision upheld as reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Failure to make a refugee claim prior to removal order",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "The standard of review for PRRA decisions is reasonableness, deferring to the officer's expertise."
+            ],
+            "state_protection_analysis": [
+                "The applicant failed to provide concrete evidence... proving inability to seek state protection."
+            ],
+            "evidence_assessment": [
+                "The applicant failed to provide concrete evidence... The PRRA Officer reasonably assessed the risk..."
+            ],
+            "decision_outcome": [
+                "The Court dismissed the application, finding the PRRA Officer's decision reasonable."
+            ],
+            "review_standard": [
+                "Judicial review application under IRPA section 72(1) challenging the PRRA Officer's dismissal decision."
+            ]
+        },
+        {
+            "Crime Name": "Debt-related threat concerns",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "risk_characterization": [
+                "persecution by criminal associate"
+            ],
+            "evidence_provided": [
+                "vague evidence",
+                "insufficient evidence linking Makhatadze to the police"
+            ],
+            "state_protection": [
+                "ineffective state protection"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "applicable_statute": [
+                "IRPA section 72(1)"
+            ],
+            "relationship_genuineness": [
+                "unpaid debt"
+            ],
+            "balance_of_convenience": [
+                "proper weighing of facts"
+            ],
+            "specific_targeting": [
+                "criminal associate"
+            ],
+            "nexus_to_convention_grounds": [
+                "not established"
+            ],
+            "materiality_of_misrepresentation": [
+                "not applicable"
+            ],
+            "serious_criminality": [
+                "not applicable"
+            ],
+            "irreparable_harm": [
+                "not applicable"
+            ],
+            "public_interest": [
+                "not applicable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not applicable"
+            ],
+            "child_best_interests": [
+                "not applicable"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ],
+            "distinctiveness_evaluation": [
+                "not applicable"
+            ],
+            "use_in_trade": [
+                "not applicable"
+            ],
+            "special_circumstances": [
+                "not applicable"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "fear of persecution"
+            ],
+            "nature_of_offense": [
+                "debt-related threats"
+            ],
+            "mitigating_factors": [
+                "not applicable"
+            ]
+        }
+    ]
+}

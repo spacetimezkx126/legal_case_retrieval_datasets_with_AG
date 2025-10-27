@@ -1,0 +1,145 @@
+{
+    "Case ID": "026517",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Applicants had inconsistencies in testimony and documents."
+            ],
+            "state_protection_analysis": [
+                "Failure to demonstrate lack of state protection."
+            ],
+            "evidence_assessment": [
+                "Insufficient evidence provided for lack of state protection."
+            ],
+            "decision_outcome": [
+                "Application dismissed; no question certified."
+            ],
+            "refugee_status_eligibility": [
+                "Refugee claims rejected due to credibility issues."
+            ]
+        },
+        {
+            "Crime Name": "False or Misleading Information in Refugee Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "failure_to_disclose_blood_feud_fears",
+                "omitted_key_1999_incident",
+                "inconsistent_land_dispute_evidence",
+                "vague_police_interaction_details",
+                "conflicting_documents"
+            ],
+            "state_protection_analysis": [
+                "failure_to_rebut_state_protection_presumption"
+            ],
+            "legal_basis": [
+                "Immigration_and_Refugee_Protection_Act"
+            ],
+            "evidence_assessment": [
+                "inconsistent_evidence",
+                "conflicting_documents"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "burden_of_proof": [
+                "failed_to_meet_burden_of_proof"
+            ],
+            "review_standard": [
+                "Federal_Court_review_of_IRB_decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in evidence and documents"
+            ],
+            "state_protection_analysis": [
+                "failure to prove lack of state protection"
+            ],
+            "evidence_consideration": [
+                "Board analyzed evidence and legal arguments"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "risk_of_persecution": [
+                "persecution due to a blood feud"
+            ],
+            "standard_of_proof": [
+                "claims must be credible and demonstrate lack of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in evidence and documents"
+            ],
+            "state_protection": [
+                "failure to prove lack of state protection"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "Federal Court reviewed the decision"
+            ],
+            "evidence_considered": [
+                "asylum claims, blood feud context, disclosed information"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "failure to disclose blood feud in US",
+                "inconsistent evidence"
+            ],
+            "state_protection": [
+                "sufficient state protection in Albania"
+            ],
+            "procedural_fairness": [
+                "Board must assess credibility and state protection availability based on evidence presented"
+            ],
+            "judicial_review_process": [
+                "Applicants sought judicial review in Federal Court challenging the Board's decision"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed the application, upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in evidence and documents"
+            ],
+            "state_protection": [
+                "failure to prove lack of state protection"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "evidence_considered": [
+                "asylum claims",
+                "legal arguments"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "court_ruling": [
+                "Board's decision was reasonable"
+            ]
+        }
+    ]
+}

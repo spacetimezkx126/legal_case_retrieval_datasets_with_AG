@@ -1,0 +1,100 @@
+{
+    "Case ID": "086109",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Board",
+                "court"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "reconsideration ordered"
+            ],
+            "procedural_fairness": [
+                "credibility findings unreasonable",
+                "failed to consider explanations"
+            ],
+            "evidence_provided": [
+                "lack of media reports",
+                "inconsistencies in police reports",
+                "medical records",
+                "lawyer's letter"
+            ],
+            "reasonableness_standard": [
+                "must make reasonable credibility assessments",
+                "speculation or unsupported inferences not permissible"
+            ],
+            "relationship_genuineness": [
+                "credibility issues"
+            ],
+            "appeal_outcome": [
+                "judicial review granted"
+            ]
+        },
+        {
+            "Crime Name": "Stalking",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistencies in testimony",
+                "lack of media reports",
+                "document discrepancies",
+                "plausible explanations"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_of_persecution": [
+                "stalking and threats by a government official"
+            ],
+            "gender_related_persecution_guidelines": [
+                "resisting advances"
+            ],
+            "country_conditions": [
+                "Mexico"
+            ],
+            "refugee_status_nexus": [
+                "applicants fled"
+            ],
+            "reasonableness_of_decision": [
+                "Board's credibility findings were unreasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review challenged the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Vandalism",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_findings": [
+                "unreasonable credibility findings",
+                "assuming media coverage",
+                "dismissing medical reports",
+                "doubting lawyer's letter"
+            ],
+            "decision_reasoning": [
+                "errors undermined decision's validity"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review granted",
+                "case remitted for reconsideration"
+            ],
+            "cause_of_action": [
+                "refugee status due to persecution"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed Board's decision",
+                "focus on credibility assessments and evidence support"
+            ],
+            "result_of_case": [
+                "credibility findings unreasonable",
+                "ordered reconsideration of case"
+            ]
+        }
+    ]
+}

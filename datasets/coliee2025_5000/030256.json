@@ -1,0 +1,35 @@
+{
+    "Case ID": "030256",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'136 and '014 patents"
+            ],
+            "infringement_analysis": [
+                "lactose being outside the carrier medium",
+                "water content does not meet anhydrous requirements",
+                "compound not defined as a basic salt in the patent"
+            ],
+            "relevant_rule": [
+                "Patent law principles including construction, infringement, validity (anticipation, obviousness, overbreadth), and utility."
+            ],
+            "decision_reasoning": [
+                "Claims 1, 6, 9, and 23 are invalid due to anticipation by Aberg Patent and obviousness"
+            ],
+            "result_of_case": [
+                "The application is dismissed. Pharmascience does not infringe either patent, and Claims 1, 6, 9, and 23 of the '136 Patent are invalid."
+            ],
+            "cause_of_action": [
+                "Pharmascience sought approval to sell a generic version of AERIUS, alleging non-infringement and invalidity of Schering-Plough's patents."
+            ],
+            "procedure_followed": [
+                "Schering-Plough filed for prohibition under NOC Regulations. The Federal Court analyzed claims construction, infringement, and validity arguments presented by both parties."
+            ],
+            "court_ruling": [
+                "Court ruled against Schering-Plough, dismissing their application to prohibit Pharmascience from selling its product."
+            ]
+        }
+    ]
+}

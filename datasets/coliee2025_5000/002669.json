@@ -1,0 +1,37 @@
+{
+    "Case ID": "002669",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "limited evidence",
+                "ignored key documents",
+                "inadequate state protection",
+                "failed to individualize"
+            ],
+            "reasonableness_standard": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "documentary_evidence": [
+                "key documents"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for re-determination"
+            ],
+            "risk_of_persecution": [
+                "threats from ELN/FARC"
+            ],
+            "evidence_assessment": [
+                "limited evidence",
+                "ignored key documents"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

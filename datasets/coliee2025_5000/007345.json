@@ -1,0 +1,80 @@
+{
+    "Case ID": "007345",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "speculative",
+                "ignored key testimony",
+                "dismissed corroborating evidence"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in Personal Information Form",
+                "implausibility of fleeing",
+                "doubts about supporting affidavits"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "claim rejected"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "errors in credibility assessments",
+                "lack of proper evidence evaluation"
+            ],
+            "risk_characterization": [
+                "fear of persecution",
+                "extortion"
+            ],
+            "specific_targeting": [
+                "NPA",
+                "military"
+            ],
+            "nexus_to_convention_grounds": [
+                "well-founded fear of persecution"
+            ],
+            "credibility_assessment": [
+                "Board's credibility determination was unreasonable"
+            ],
+            "appeal_outcome": [
+                "application allowed",
+                "decision set aside",
+                "claims referred back for reevaluation"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report crime",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "plausibility",
+                "consistency of evidence"
+            ],
+            "decision_reasoning": [
+                "unreasonable decision"
+            ],
+            "evidence_assessment": [
+                "perceived inconsistencies"
+            ],
+            "refugee_status": [
+                "fear of persecution"
+            ],
+            "review_process": [
+                "Federal Court review"
+            ],
+            "conclusion_outcome": [
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

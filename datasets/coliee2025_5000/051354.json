@@ -1,0 +1,33 @@
+{
+    "Case ID": "051354",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Pension Act",
+                "Veterans Review and Appeal Board Act"
+            ],
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "evidence_assessment": [
+                "uncontradicted evidence",
+                "pre- and post-deployment x-ray evidence"
+            ],
+            "decision_reasoning": [
+                "doubts not resolved in favor of applicant",
+                "improper requirement for definitive proof of etiology"
+            ],
+            "result_of_case": [
+                "Board's decision quashed",
+                "applicant entitled to pension"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "Entitlement Appeal Panel upheld denial",
+                "Federal Court reviewed decision"
+            ]
+        }
+    ]
+}

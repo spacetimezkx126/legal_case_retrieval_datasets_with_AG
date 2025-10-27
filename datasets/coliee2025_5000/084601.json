@@ -1,0 +1,85 @@
+{
+    "Case ID": "084601",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "limited redactions",
+                "no additional allegations",
+                "access to most information"
+            ],
+            "misrepresentation_or_fraud": [
+                "ties to organized crime",
+                "accusations of misrepresentation"
+            ],
+            "decision_outcome": [
+                "Motion for special advocate dismissed",
+                "Malkine's request denied"
+            ],
+            "standard_of_review": [
+                "Judicial review sought by Malkine",
+                "Minister moved for non-disclosure citing national security"
+            ],
+            "legal_basis": [
+                "Section 87.1 of IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Money laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "upheld",
+                "context-dependent",
+                "limited stakes"
+            ],
+            "legal_basis": [
+                "Section 87.1 of IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "party_involved": [
+                "Malkine",
+                "Minister"
+            ],
+            "judicial_authority": [
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "organized crime",
+                "money laundering"
+            ],
+            "standard_of_review": [
+                "special advocate not necessary"
+            ],
+            "material_misrepresentation": [
+                "no new allegations"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to association with organized crime",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "context-dependent",
+                "minimal requirements for visa refusals met"
+            ],
+            "special_advocate_involvement": [
+                "not necessary"
+            ],
+            "evidence_provided": [
+                "lacks evidence to refute allegations"
+            ],
+            "decision_outcome": [
+                "motion dismissed"
+            ],
+            "judicial_review_result": [
+                "judicial review continues"
+            ],
+            "document_disclosure_issues": [
+                "minimal redactions",
+                "no new information in affidavits"
+            ]
+        }
+    ]
+}

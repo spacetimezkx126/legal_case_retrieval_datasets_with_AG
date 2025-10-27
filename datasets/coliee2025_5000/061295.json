@@ -1,0 +1,27 @@
+{
+    "Case ID": "061295",
+    "Different Crime": [
+        {
+            "Crime Name": "Naturalization - Qualifications - Residence",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "contradictions_in_evidence",
+                "minimal_reasoning"
+            ],
+            "decision_outcome": [
+                "set_aside",
+                "referred_for_redetermination"
+            ],
+            "immigration_status": [
+                "permanent_resident"
+            ],
+            "residency_requirements": [
+                "residence_requirement_not_adequately_explained"
+            ]
+        }
+    ]
+}

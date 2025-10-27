@@ -1,0 +1,57 @@
+{
+    "Case ID": "044706",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Sections 86 and 87 of IRPA",
+                "Rules 317 and 318 of Federal Courts Rules",
+                "Rule 4 (gap rule)"
+            ],
+            "criminality_inadmissibility": [
+                "Membership in MQM",
+                "Ties to a terrorist organization"
+            ],
+            "decision_outcome": [
+                "Section 87 of IRPA is the appropriate procedure",
+                "Non-disclosure motion granted",
+                "Redactions for national security"
+            ],
+            "procedural_fairness": [
+                "Judicial review process",
+                "Public and ex-parte hearing"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist group",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "Sections 86 and 87 of IRPA",
+                "Rules 317 and 318 of Federal Courts Rules",
+                "Rule 4 (gap rule)"
+            ],
+            "disclosure_of_sensitive_information": [
+                "non-disclosure of sensitive information citing national security concerns"
+            ],
+            "judicial_review_result": [
+                "Motion granted with redactions as per court order"
+            ],
+            "decision_outcome": [
+                "Court allowed partial non-disclosure under section 87; case proceeds with redacted record"
+            ],
+            "membership_in_organization": [
+                "alleged ties with a terrorist organization"
+            ],
+            "immigration_status": [
+                "Applicant's permanent residency was denied"
+            ],
+            "legal_basis": [
+                "Section 87 of IRPA is deemed appropriate for non-disclosure during judicial reviews"
+            ],
+            "procedure": [
+                "Judicial review process invoked; motion for non-disclosure filed; ex-parte in-camera hearing conducted"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "Case ID": "042718",
+    "Different Crime": [
+        {
+            "Crime Name": "Foreign hardship misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "stable job",
+                "family support",
+                "rehabilitation chances",
+                "alcohol issues"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted",
+                "case remanded"
+            ],
+            "evidence_assessment": [
+                "lack of clarity",
+                "failure to consider all relevant factors"
+            ],
+            "criminality_inadmissibility": [
+                "repeated offenses",
+                "condition breaches"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "stable employment",
+                "family support"
+            ],
+            "criminal_history": [
+                "multiple offenses",
+                "missed immigration appointments"
+            ],
+            "rehabilitation_or_possibility": [
+                "rehabilitation chances",
+                "alcohol issues"
+            ],
+            "procedural_fairness": [
+                "lacked transparency and intelligibility"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Alcohol consumption problem underestimation",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "family support",
+                "rehabilitation potential",
+                "alcohol problem severity"
+            ],
+            "decision_reasonableness": [
+                "lacked clarity",
+                "mitigating factors vs negative ones"
+            ],
+            "administrative_decision": [
+                "stay of removal granted",
+                "unreasonableness of original decision"
+            ],
+            "review_process": [
+                "judicial review",
+                "Federal Court evaluation"
+            ],
+            "result_of_case": [
+                "IAD's decision annulled",
+                "case remanded for new review"
+            ],
+            "relevant_rule": [
+                "Immigration and Refugee Protection Act",
+                "humanitarian and compassionate considerations justify special relief"
+            ]
+        },
+        {
+            "Crime Name": "Simple possession of cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "offense seriousness",
+                "rehabilitation potential",
+                "time in Canada",
+                "family ties",
+                "community support",
+                "foreign hardship"
+            ],
+            "criminal_history": [
+                "multiple convictions",
+                "breached conditions of his stay"
+            ],
+            "decision_outcome": [
+                "stay of removal granted",
+                "decision set aside"
+            ],
+            "review_process": [
+                "judicial review by the Federal Court"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_made_by": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "consequences_of_decision": [
+                "case referred back for a new review by a differently constituted panel"
+            ],
+            "serious_criminality": [
+                "acknowledged some serious offenses and breaches"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a weapon for a dangerous purpose",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "humanitarian and compassionate considerations"
+            ],
+            "criminal_history": [
+                "multiple convictions",
+                "possession of a weapon for a dangerous purpose",
+                "repeated criminal activities"
+            ],
+            "decision_outcome": [
+                "stay of removal granted",
+                "decision annulled",
+                "reevaluation ordered"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "relevant_factors": [
+                "failure to comply with conditions",
+                "mitigating factors"
+            ],
+            "court_ruling": [
+                "unreasonable decision",
+                "remanded for new review"
+            ],
+            "procedural_fairness": [
+                "lacked transparency and intelligibility"
+            ]
+        }
+    ]
+}

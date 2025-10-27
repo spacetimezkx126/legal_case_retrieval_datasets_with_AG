@@ -1,0 +1,117 @@
+{
+    "Case ID": "020762",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "lack of nexus"
+            ],
+            "specific_targeting": [
+                "targeted by a criminal gang"
+            ],
+            "risk_characterization": [
+                "general risk",
+                "personalized risk"
+            ],
+            "serious_criminality": [
+                "extortion threats"
+            ],
+            "relationship_genuineness": [
+                "resistance to gangs"
+            ],
+            "judicial_authority": [
+                "Board"
+            ],
+            "appeal_outcome": [
+                "judicial review application was granted"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "new hearing before a different panel"
+            ],
+            "persecution_details": [
+                "fear persecution due to race, religion, nationality, social group, or political opinion"
+            ],
+            "materiality_of_misrepresentation": [],
+            "identity_documents": [],
+            "public_interest": [],
+            "balance_of_convenience": [],
+            "irreparable_harm": [],
+            "reasonableness_standard": [
+                "unreasonable decision"
+            ],
+            "expert_testimony": [],
+            "state_protection": [],
+            "internal_flight_alternative": [],
+            "material_misrepresentation": [],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_analysis": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "cause_of_action": [
+                "refugee protection"
+            ],
+            "nature_of_offense": [
+                "extortion"
+            ],
+            "mitigating_factors": [],
+            "confusion_likelihood": []
+        },
+        {
+            "Crime Name": "Threats to life",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "generalized risk",
+                "personal risk"
+            ],
+            "nexus_to_convention_grounds": [
+                "no nexus found by the Board",
+                "specific targeting suggests personal risk"
+            ],
+            "country_conditions": [
+                "Mexico",
+                "threats from criminal gang"
+            ],
+            "refugee_status_nexus": [
+                "Board concluded no Convention ground nexus"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable regarding generalization of risk",
+                "reasonable on lack of Convention ground nexus"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion demands refusal"
+            ],
+            "membership_in_organization": [
+                "occupation alone does not constitute a social group"
+            ]
+        },
+        {
+            "Crime Name": "Failure to protect citizens",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_of_persecution": [
+                "gang extortion threats"
+            ],
+            "decision_reasoning": [
+                "specific targeting suggests personal risk"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "Court granted judicial review, remanding the case for a new hearing"
+            ],
+            "refugee_status": [
+                "denial of refugee status"
+            ]
+        }
+    ]
+}

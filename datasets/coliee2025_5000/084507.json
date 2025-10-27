@@ -1,0 +1,35 @@
+{
+    "Case ID": "084507",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court of Canada",
+                "Her Majesty in Right of a Province"
+            ],
+            "relevant_statute": [
+                "Federal Court Act"
+            ],
+            "application_details": [
+                "plaintiff leased a vessel",
+                "provincial mortgage",
+                "wrongful seizure of a vessel"
+            ],
+            "procedure_followed": [
+                "Minister filed a motion to strike out claims",
+                "plaintiff sought to add an employee as a defendant",
+                "court reviewed jurisdictional limits"
+            ],
+            "decision_reasoning": [
+                "jurisdiction extends only to actions involving the Crown in right of Canada",
+                "no jurisdiction over provincial matters"
+            ],
+            "result_of_case": [
+                "court allowed the Minister's motion",
+                "dismissed the plaintiff's application",
+                "confirmed no jurisdiction over provincial Crown or its agents"
+            ]
+        }
+    ]
+}

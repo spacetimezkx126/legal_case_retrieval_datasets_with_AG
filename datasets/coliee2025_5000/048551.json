@@ -1,0 +1,93 @@
+{
+    "Case ID": "048551",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "H&C application rejected"
+            ],
+            "criminality_inadmissibility": [
+                "complicity in crimes against humanity"
+            ],
+            "decision_outcome": [
+                "application allowed, matter referred back"
+            ],
+            "standard_of_review": [
+                "judicial review of immigration officer's decision"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "res judicata unless injustice proven",
+                "new legal principles established in <FRAGMENT_SUPPRESSED>"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "H&C application"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "application allowed, remanded for reassessment"
+            ],
+            "judicial_authority": [
+                "Supreme Court"
+            ],
+            "standard_of_review": [
+                "new test for complicity"
+            ],
+            "cause_of_action": [
+                "inadmissibility due to crimes against humanity"
+            ],
+            "procedural_fairness": [
+                "judicial review of officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "complicity_in_crimes": [
+                "alleged complicity in crimes against humanity"
+            ],
+            "charter_rights_violation": [],
+            "inadmissibility_criteria": [
+                "inadmissibility due to crimes against humanity"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "H&C application"
+            ],
+            "decision_outcome": [
+                "application is allowed, matter referred back for reassessment"
+            ],
+            "judicial_review_result": [
+                "case remanded to original officer with instructions to reassess using updated legal framework"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "complicity_in_crimes": [
+                "alleged complicity in crimes against humanity"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "significant H&C considerations"
+            ],
+            "specific_legal_test_application": [
+                "Supreme Court's new test for complicity"
+            ],
+            "administrative_error": [
+                "outdated complicity standards not assessed"
+            ],
+            "judicial_review_process": [
+                "judicial review of immigration officer's decision"
+            ],
+            "decision_outcome": [
+                "case remanded for reassessment using updated legal framework"
+            ]
+        }
+    ]
+}

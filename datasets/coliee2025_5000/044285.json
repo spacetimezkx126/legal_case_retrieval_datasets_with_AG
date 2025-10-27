@@ -1,0 +1,48 @@
+{
+    "Case ID": "044285",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on health grounds",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demand on services"
+            ],
+            "evidence_assessment": [
+                "financial plan provided",
+                "failed to demonstrate credible arrangements"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "regulatory_compliance": [
+                "IRPA s. 38(1)(c)",
+                "IRPA s. 42"
+            ]
+        },
+        {
+            "Crime Name": "Excessive demand on health or social services",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 38(1)(c)",
+                "IRPA s. 42"
+            ],
+            "decision_reasoning": [
+                "applicant's financial plan lacked specificity",
+                "weak assumptions in meeting son's medical needs"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_presented": [
+                "financial plan"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "family remains inadmissible"
+            ]
+        }
+    ]
+}

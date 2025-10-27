@@ -1,0 +1,36 @@
+{
+    "Case ID": "073606",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Courts Rules 240(a)",
+                "Federal Courts Rules 242(1)"
+            ],
+            "evidence_assessment": [
+                "relevance of discovery",
+                "not overly broad",
+                "not unduly burdensome"
+            ],
+            "decision_reasoning": [
+                "requests too broad and irrelevant",
+                "failed to show relevance to case advancement or trial outcomes"
+            ],
+            "standard_of_review": [
+                "discretionary standards"
+            ],
+            "cause_of_action": [
+                "unfair competition allegations regarding pedal boat designs"
+            ],
+            "procedure_followed": [
+                "Plaintiff appealed Prothonotary's decision refusing to compel discovery requests",
+                "Federal Court reviewed the appeal"
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "Prothonotary's decision upheld"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "092084",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "credibility_findings": [
+                "lack of subjective fear",
+                "delay in claiming refugee status",
+                "trips outside Algeria without seeking asylum",
+                "failure to join family in Canada"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of fear of persecution"
+            ],
+            "social_group_membership": [
+                "political opinions",
+                "social group membership"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed factual findings for perversity or capriciousness"
+            ]
+        }
+    ]
+}

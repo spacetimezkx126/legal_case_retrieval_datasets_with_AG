@@ -1,0 +1,73 @@
+{
+    "Case ID": "071395",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 34(1)(f) of IRPA"
+            ],
+            "procedural_fairness": [
+                "natural justice",
+                "opportunities to respond"
+            ],
+            "evidence_assessment": [
+                "reliable information",
+                "unreasonable inferences",
+                "internet sources",
+                "confidential reports",
+                "assumptions",
+                "substantial evidence"
+            ],
+            "criminality_inadmissibility": [
+                "ties with Iranian organizations",
+                "subversive or terrorist activities"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case referred back for reassessment"
+            ]
+        },
+        {
+            "Crime Name": "Providing information to a foreign government",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 34(1)(f) of IRPA"
+            ],
+            "evidence_quality": [
+                "insufficient evidence",
+                "relied on assumptions"
+            ],
+            "procedural_fairness": [
+                "breach of natural justice",
+                "not informed of allegations",
+                "no opportunity to respond"
+            ],
+            "membership_in_organization": [
+                "ties with Iranian organizations"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "judicial_review_result": [
+                "judicial review allowed",
+                "original decision set aside"
+            ],
+            "applicable_law_section": [
+                "Section 34(1)(f) of IRPA"
+            ],
+            "decision_outcome": [
+                "remitted for redetermination by a different officer"
+            ],
+            "standard_of_proof": [
+                "based on assumptions"
+            ],
+            "discrepancies_identified": [
+                "confidential information disputed by applicant"
+            ],
+            "court_ruling": [
+                "visa officer's conclusions were unreasonable"
+            ]
+        }
+    ]
+}

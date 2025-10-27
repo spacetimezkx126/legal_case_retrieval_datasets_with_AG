@@ -1,0 +1,30 @@
+{
+    "Case ID": "044333",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Ineligible due to past actions and evidence"
+            ],
+            "credibility_assessment": [
+                "Deemed not credible; testimony was evasive"
+            ],
+            "standard_of_review": [
+                "Reasonableness focusing on mixed questions of fact and law"
+            ],
+            "evidence_assessment": [
+                "Provided documents were self-serving, lacking probative value"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed; original rejection upheld"
+            ],
+            "immigration_status": [
+                "Illegal resident in the U.S."
+            ],
+            "misrepresentation_or_fraud": [
+                "Claim of refugee status deemed fraudulent"
+            ]
+        }
+    ]
+}

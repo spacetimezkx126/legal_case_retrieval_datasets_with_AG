@@ -1,0 +1,94 @@
+{
+    "Case ID": "045595",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act due to organized criminality",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA subsection 37(1)(a)"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "evidence_provided": [
+                "linked to Triads in Macau",
+                "engaging in murder, extortion, and assault"
+            ],
+            "serious_criminality": [
+                "murder",
+                "extortion",
+                "assault"
+            ],
+            "judicial_authority": [
+                "Immigration Division"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Participating in organized crime activities",
+            "Crime Type": "Violence-related_Crimes",
+            "membership_in_organization": [
+                "Shui Fong organization"
+            ],
+            "complicity_in_crimes": [
+                "murder",
+                "extortion"
+            ],
+            "legal_basis": [
+                "subsection 37(1)(a) of IRPA"
+            ],
+            "applicant_involvement": [
+                "reasonable grounds to believe the applicant was a member"
+            ],
+            "evidence_consideration": [
+                "substantial evidence"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable and supported by evidence"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ]
+        },
+        {
+            "Crime Name": "Reasonable grounds to believe in involvement in indictable offences outside Canada",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 37(1)(a) of IRPA"
+            ],
+            "evidence_quality": [
+                "substantial evidence"
+            ],
+            "involvement_details": [
+                "linked to Triads in Macau",
+                "engaged in murder, extortion, and assault"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable given the nature of the crimes"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "judicial_review_result": [
+                "court certified a question for appeal regarding equivalency analysis and dual criminality"
+            ],
+            "applicable_law_section": [
+                "IRPA"
+            ],
+            "complicity_in_crimes": [
+                "alleged membership in a criminal organization in Macau"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ]
+        }
+    ]
+}

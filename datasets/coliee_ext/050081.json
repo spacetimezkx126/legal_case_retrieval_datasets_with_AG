@@ -1,0 +1,50 @@
+{
+    "Case ID": "050081",
+    "Crimes": [
+        {
+            "Crime_Name": "Border Document Misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Does the continued detention of Hassan Almrei under the Immigration and Refugee Protection Act (IRPA) remain justified given the potential risk to national security and likelihood of absconding?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Legal_Standard": "Reasonable grounds to believe",
+            "Application_Factor": "Almrei's involvement in document forgery and connections with extremist groups; prolonged detention; lack of current threat evidence; proposed stringent conditions",
+            "Decision_Outcome": "Almrei should be released under strict conditions as there are no reasonable grounds to believe his release would harm national security or that he would abscond."
+        },
+        {
+            "Crime_Name": "Possession of False Identity Documents",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Is there sufficient evidence to justify the continued detention of Hassan Almrei under the Immigration and Refugee Protection Act (IRPA) based on the risk he poses to national security?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Legal_Standard": "Reasonable grounds to believe, requiring an objective basis on compelling and credible information",
+            "Application_Factor": "Procuring false documents, association with extremist groups, prolonged detention, expert testimony questioning current threat relevance",
+            "Decision_Outcome": "Almrei should be released under strict conditions as the government has not shown reasonable grounds to believe his release would harm national security or that he would abscond."
+        },
+        {
+            "Crime_Name": "Procuring False Documents for Others",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Does Mr. Almrei's continued detention remain justified under the IRPA, considering his alleged connections to extremist groups and his past involvement in procuring false documents?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Legal_Standard": "Reasonable grounds to believe, requiring an objective basis on compelling and credible information",
+            "Application_Factor": "Involvement in procuring false documents, associations with individuals linked to extremist ideologies, diminished connections over seven years of detention, expert opinions on reduced danger, availability of stringent release conditions",
+            "Decision_Outcome": "Mr. Almrei's continued detention is not justified as any risk can be neutralized by strict conditions; release under supervision ordered."
+        },
+        {
+            "Crime_Name": "Misrepresentation to Immigration Officials",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Does Mr. Almrei's continued detention under IRPA remain justified given the length of his detention and the availability of alternatives?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Legal_Standard": "Detention justified if release would injure national security or endanger safety, considering detention length, deportation delays, and available alternatives",
+            "Application_Factor": "Seven years of detention without significant new evidence, expert testimony on diminished threat level, flight risk assessment, potential deportation dangers, lack of family ties in Canada",
+            "Decision_Outcome": "Mr. Almrei should be released under strict conditions as the original threat has diminished over time and can be neutralized by surveillance and monitoring."
+        },
+        {
+            "Crime_Name": "Engagement in an International Document Forgery Ring",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Whether Mr. Almrei's continued detention is justified under the IRPA due to posing a danger to national security or being likely to abscond.",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Legal_Standard": "Detention can be continued if release would be injurious to national security, endanger any person, or if individual is unlikely to appear at proceedings or for removal",
+            "Application_Factor": "Past involvement with document forgery and extremist associations, expert arguments on diminished threat over time, prolonged detention, lack of imminent deportation prospects",
+            "Decision_Outcome": "Mr. Almrei's detention is no longer justified as conditions can mitigate risks; release under strict supervision ordered."
+        }
+    ]
+}

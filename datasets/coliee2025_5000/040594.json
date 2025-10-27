@@ -1,0 +1,28 @@
+{
+    "Case ID": "040594",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "inform_applicants_of_concerns"
+            ],
+            "evidence_assessment": [
+                "insufficient_evidence",
+                "key_evidence_not_acknowledged"
+            ],
+            "decision_reasoning": [
+                "unreasonable_decision",
+                "errors_undermined_reasonableness"
+            ],
+            "standard_of_review": [
+                "reasonableness_for_factual_determinations",
+                "correctness_for_fairness_issues"
+            ]
+        }
+    ]
+}

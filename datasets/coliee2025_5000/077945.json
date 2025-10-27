@@ -1,0 +1,32 @@
+{
+    "Case ID": "077945",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "discrimination_grounds": [
+                "disability"
+            ],
+            "legal_basis": [
+                "Section 7(b)",
+                "14(1)(c)",
+                "Canadian Human Rights Act",
+                "Section 44(3)(b)"
+            ],
+            "evidence_assessment": [
+                "concerns about his disability influenced decisions",
+                "inappropriate comments during mediation",
+                "delays in modifying his workspace"
+            ],
+            "credibility_findings": [],
+            "reasonableness_of_decision": [
+                "error by not referring the issues of delay in indeterminate status and harassment during mediation to the Tribunal"
+            ],
+            "decision_outcome": [
+                "ordered to refer delay in indeterminate status and harassment during mediation to the Tribunal",
+                "upheld the decision on workspace accommodation"
+            ],
+            "burden_of_proof": []
+        }
+    ]
+}

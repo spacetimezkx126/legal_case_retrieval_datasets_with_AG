@@ -1,0 +1,50 @@
+{
+    "Case ID": "096567",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Board breached procedural fairness",
+                "Procedural fairness requires tribunals to notify parties of concerns regarding key evidence"
+            ],
+            "evidence_assessment": [
+                "DNA evidence",
+                "facial reliability and acknowledgment by the respondent"
+            ],
+            "decision_outcome": [
+                "Court allowed the application",
+                "remitted for re-determination by a different panel"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's sponsorship application for her spouse was denied due to doubts about marriage genuineness"
+            ],
+            "standard_of_review": [
+                "Judicial review application challenging the Immigration Appeal Division's decision based on procedural unfairness and unreasonable analysis"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to notify parties of concerns regarding key evidence"
+            ],
+            "evidence_provided": [
+                "DNA evidence"
+            ],
+            "decision_outcome": [
+                "re-determination by a different panel"
+            ],
+            "judicial_authority": [
+                "Court allowed the application"
+            ],
+            "relationship_genuineness": [
+                "doubts about marriage genuineness"
+            ],
+            "cause_of_action": [
+                "sponsorship application denied"
+            ]
+        }
+    ]
+}

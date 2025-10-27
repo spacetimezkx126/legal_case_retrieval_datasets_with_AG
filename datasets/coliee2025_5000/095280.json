@@ -1,0 +1,125 @@
+{
+    "Case ID": "095280",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "available"
+            ],
+            "internal_flight_alternative": [
+                "possible"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "risk_characterization": [
+                "not immediate"
+            ],
+            "evidence_provided": [
+                "insufficient"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Board"
+            ],
+            "cause_of_action": [
+                "refugee status claim"
+            ],
+            "nature_of_offense": [
+                "extortion threats"
+            ],
+            "relationship_genuineness": [
+                "not applicable"
+            ],
+            "balance_of_convenience": [
+                "not applicable"
+            ],
+            "irreparable_harm": [
+                "not applicable"
+            ],
+            "reasonableness_standard": [
+                "met"
+            ],
+            "material_misrepresentation": [
+                "not applicable"
+            ],
+            "serious_criminality": [
+                "not applicable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not applicable"
+            ],
+            "child_best_interests": [
+                "not applicable"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ],
+            "distinctiveness_evaluation": [
+                "not applicable"
+            ],
+            "use_in_trade": [
+                "not applicable"
+            ],
+            "special_circumstances": [
+                "not applicable"
+            ]
+        },
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "danger",
+                "gang threats"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "state_protection_analysis": [
+                "state protection capabilities",
+                "state incapacity to protect"
+            ],
+            "credibility_findings": [
+                "credibility assessments"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision was reasonable"
+            ],
+            "internal_flight_alternative": [
+                "moved within El Salvador without issues"
+            ],
+            "refugee_status_nexus": [
+                "Applicant claimed refugee status"
+            ],
+            "availability_of_alternative_remedies": [
+                "never sought state protection"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "gang threats"
+            ],
+            "state_protection": [
+                "presumed unless proven otherwise"
+            ],
+            "decision_reasonableness": [
+                "reasonable and based on evidence"
+            ],
+            "refugee_status": [
+                "claimed due to gang threats"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Board’s decision"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed"
+            ]
+        }
+    ]
+}

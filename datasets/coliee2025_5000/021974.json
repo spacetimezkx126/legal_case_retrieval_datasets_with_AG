@@ -1,0 +1,39 @@
+{
+    "Case ID": "021974",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "National Defence Act",
+                "QR&O",
+                "Federal Courts Act"
+            ],
+            "procedural_fairness": [
+                "yes"
+            ],
+            "decision_reasoning": [
+                "within jurisdiction",
+                "statutory limitations"
+            ],
+            "application_details": [
+                "incorrect pay",
+                "retroactive commissioning",
+                "enrolment message"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "no costs awarded"
+            ],
+            "cause_of_action": [
+                "miscommunication during recruitment"
+            ],
+            "procedure_followed": [
+                "grievance filed",
+                "reviewed by CFGB",
+                "final decision by CDS",
+                "judicial review application"
+            ]
+        }
+    ]
+}

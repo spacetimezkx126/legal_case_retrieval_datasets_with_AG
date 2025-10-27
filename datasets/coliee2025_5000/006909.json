@@ -1,0 +1,81 @@
+{
+    "Case ID": "006909",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "decision_outcome": [
+                "quashed the officer's decision",
+                "reconsideration ordered"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "failure to exercise discretion properly"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "health",
+                "age",
+                "culture",
+                "fear of reprisals"
+            ],
+            "legal_basis": [
+                "s. 48(2) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "special_circumstances": [
+                "sexual assault allegations",
+                "health issues",
+                "potential risks in Pakistan"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act, s. 48(2)"
+            ],
+            "procedural_fairness": [
+                "officer ignored special circumstances",
+                "focused on procedural delays and lack of subpoena"
+            ],
+            "cause_of_action": [
+                "request for stay of removal denied on procedural grounds"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "personal circumstances not considered"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "fear of reprisals for filing a sexual assault complaint"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "health issues",
+                "age",
+                "culture"
+            ],
+            "applicant_characteristics": [
+                "alleged sexual assault by her father-in-law"
+            ],
+            "procedural_fairness": [
+                "failure to exercise discretion properly"
+            ],
+            "legal_basis": [
+                "s. 48(2) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

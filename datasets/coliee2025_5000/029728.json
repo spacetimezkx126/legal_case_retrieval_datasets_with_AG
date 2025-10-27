@@ -1,0 +1,72 @@
+{
+    "Case ID": "029728",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act violations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b)",
+                "Refugee claims require both subjective fear and objective evidence of persecution"
+            ],
+            "criminality_inadmissibility": [
+                "convicted of drug trafficking",
+                "serving a 27-month sentence"
+            ],
+            "evidence_assessment": [
+                "lacked documentary evidence of persecution",
+                "delayed her asylum application"
+            ],
+            "decision_outcome": [
+                "The Board's decision to exclude the male applicant and deny the female applicant's claim was reasonable"
+            ],
+            "standard_of_review": [
+                "The case was reviewed by the Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to traffic in cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the Convention",
+                "IRPA"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "procedural_fairness": [
+                "fair trial"
+            ],
+            "risk_assessment": [
+                "gravity of crime",
+                "lengthy sentence",
+                "deportation"
+            ],
+            "evidence_sufficiency": [
+                "conviction for cocaine conspiracy"
+            ],
+            "refugee_status": [
+                "excluded as a Convention refugee"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "consequences_of_decision": [
+                "Application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "Article 1F(b)",
+                "IRPA"
+            ],
+            "criminal_history": [
+                "prior conviction for cocaine conspiracy"
+            ],
+            "decision_outcome": [
+                "excluded as a Convention refugee",
+                "Application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Case ID": "047451",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal targeting due to familial association",
+            "Sub_Crime_Type": "Rape",
+            "Perpetrator_Type": "Gang members",
+            "Victim_Status": "Individual targeted due to family connection",
+            "Location_of_Incident": "El Salvador",
+            "Threat_Source": "Gang",
+            "Aggravating_Factors": "Gender-based violence, sexual assault as a tool of intimidation",
+            "Mitigating_Factors": [],
+            "Prior_Criminality": "Gang-related criminal activity implied",
+            "Criminality_Severity": "High",
+            "Evidence_Sufficiency": "Insufficient to establish nexus under s. 96 or personalized risk under s. 97",
+            "Evidence_Type": [
+                "Personal testimony",
+                "Claim of attack and threats"
+            ],
+            "Evidence_Credibility": "Assessed but not found sufficient to support protected grounds claim",
+            "Credibility_Assessment": "Not explicitly challenged, but nexus and risk not established",
+            "Risk_Assessment": "Generalized risk found by the Board",
+            "Risk_Type": "Generalized",
+            "Risk_Nature": "Violence linked to gang extortion, not persecution on Convention grounds",
+            "Targeted_Victimization": true,
+            "Targeted_Individual": "Applicant (sister of targeted individual)",
+            "Targeted_Individual_Status": "Relative of person perceived as wealthy",
+            "Geographic_Context": "El Salvador",
+            "Jurisdiction": "Canada (refugee protection claim)",
+            "Legal_Framework": "Immigration and Refugee Protection Act (IRPA)",
+            "Governing_Law": "IRPA",
+            "Applicable_Statute": "IRPA",
+            "Legal_Provision": [
+                "Section 96",
+                "Section 97"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 96 IRPA",
+                "s. 97 IRPA"
+            ],
+            "Standard_of_Proof": "Balance of probabilities",
+            "Decision_Outcome": "Claim rejected",
+            "Outcome": "Application for judicial review dismissed",
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Judicial review standard of reasonableness applied"
+            ],
+            "Procedural_Stage": "Judicial review",
+            "Legal_Procedure": "Federal Court review of Refugee Protection Division decision",
+            "Decision_Maker": "Immigration and Refugee Board (IRB)",
+            "Government_Body_Involved": "Immigration and Refugee Board of Canada",
+            "Reviewing_Body": "Federal Court of Canada",
+            "Review_Mechanism": "Judicial review",
+            "Authority": "Federal Court",
+            "Decision_Standard": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal targeting due to perceived wealth",
+            "Sub_Crime_Type": "Extortion with violent threats",
+            "Perpetrator_Type": "Gang members",
+            "Victim_Status": "Relative of primary target",
+            "Location_of_Incident": "El Salvador",
+            "Threat_Source": "Gang",
+            "Aggravating_Factors": "Use of sexual violence in context of extortion",
+            "Mitigating_Factors": [],
+            "Prior_Criminality": "Gang-related criminal activity implied",
+            "Criminality_Severity": "High",
+            "Evidence_Sufficiency": "Insufficient to establish nexus under s. 96 or personalized risk under s. 97",
+            "Evidence_Type": [
+                "Personal testimony",
+                "Claim of rape and threats"
+            ],
+            "Evidence_Credibility": "Assessed but not sufficient to meet legal thresholds",
+            "Credibility_Assessment": "Not explicitly disbelieved, but failed to meet burden of proof",
+            "Risk_Assessment": "Generalized risk found by the Board",
+            "Risk_Type": "Generalized",
+            "Risk_Nature": "Violence associated with gang crime, not persecution on Convention grounds",
+            "Targeted_Victimization": true,
+            "Targeted_Individual": "Applicant and her brother",
+            "Targeted_Individual_Status": "Perceived as wealthy",
+            "Geographic_Context": "El Salvador",
+            "Jurisdiction": "Canada (refugee protection claim)",
+            "Legal_Framework": "Immigration and Refugee Protection Act (IRPA)",
+            "Governing_Law": "IRPA",
+            "Applicable_Statute": "IRPA",
+            "Legal_Provision": [
+                "Section 96",
+                "Section 97"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 96 IRPA",
+                "s. 97 IRPA"
+            ],
+            "Standard_of_Proof": "Balance of probabilities",
+            "Decision_Outcome": "Claim rejected",
+            "Outcome": "Application for judicial review dismissed",
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Judicial review standard of reasonableness applied"
+            ],
+            "Procedural_Stage": "Judicial review",
+            "Legal_Procedure": "Federal Court review of Refugee Protection Division decision",
+            "Decision_Maker": "Immigration and Refugee Board (IRB)",
+            "Government_Body_Involved": "Immigration and Refugee Board of Canada",
+            "Reviewing_Body": "Federal Court of Canada",
+            "Review_Mechanism": "Judicial review",
+            "Authority": "Federal Court",
+            "Decision_Standard": "Reasonableness"
+        }
+    ]
+}

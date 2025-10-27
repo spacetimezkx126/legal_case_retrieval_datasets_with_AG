@@ -1,0 +1,95 @@
+{
+    "Case ID": "070696",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "remanded for redetermination"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "risk_characterization": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "gang extortion"
+            ],
+            "nexus_to_convention_grounds": [
+                "Convention refugee status"
+            ],
+            "relationship_genuineness": [
+                "credibility accepted"
+            ],
+            "appeal_outcome": [
+                "Court granted judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Mugging",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "specific_threats_or_incidents": [
+                "threats",
+                "extortion",
+                "collaborator killed"
+            ],
+            "risk_of_persecution": [
+                "gang persecution"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "nexus_to_convention_grounds": [
+                "Convention refugee"
+            ],
+            "reasonableness_of_decision": [
+                "Board erred",
+                "judicial review granted"
+            ],
+            "country_conditions": [
+                "Guatemala"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "decision_reasoning": [
+                "applicant specifically targeted",
+                "reporting MS gang",
+                "refusing extortion",
+                "witnessing a murder"
+            ],
+            "application_details": [
+                "asylum claim",
+                "fear of persecution by Guatemalan gang"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Board's dismissal of generalized risk"
+            ],
+            "conclusion_outcome": [
+                "judicial review application granted",
+                "case remanded for redetermination"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ]
+        }
+    ]
+}

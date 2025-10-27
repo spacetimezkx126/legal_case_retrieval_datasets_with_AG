@@ -1,0 +1,36 @@
+{
+    "Case ID": "038871",
+    "Different Crime": [
+        {
+            "Crime Name": "Violation of privacy under Personal Information and Protection of Electronic Documents Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "PIPEDA"
+            ],
+            "cause_of_action": [
+                "Disclosure of gym usage data without consent"
+            ],
+            "procedure_followed": [
+                "Complaint to Privacy Commissioner, investigation, report, court hearing under PIPEDA s. 14(1)"
+            ],
+            "decision_reasoning": [
+                "Nubody's Fitness Centres disclosed Randall's personal information without explicit consent. Forms did not mention disclosure, and evidence showed no clear notice to Randall."
+            ],
+            "result_of_case": [
+                "Court dismissed application; no damages awarded."
+            ],
+            "relevant_statute": [
+                "PIPEDA"
+            ],
+            "evidence_presented": [
+                "Forms did not mention disclosure, and evidence showed no clear notice to Randall."
+            ],
+            "discretion_exercise": [
+                "No damages awarded due to minimal harm and lack of malicious intent."
+            ],
+            "decision_conclusion": [
+                "Nubody's violated PIPEDA but adequately remedied it by updating procedures."
+            ]
+        }
+    ]
+}

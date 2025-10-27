@@ -1,0 +1,50 @@
+{
+    "Case ID": "092834",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 59 of the Canadian Human Rights Act"
+            ],
+            "procedural_fairness": [
+                "consultation with external counsel",
+                "insufficient evidence for prosecution"
+            ],
+            "decision_reasoning": [
+                "no flagrant impropriety",
+                "absence of clear evidence of misconduct"
+            ],
+            "application_details": [
+                "refusal to consent to prosecute N.R.C.",
+                "alleged retaliation against Dr. Grover"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "court upheld the Attorney General's decision"
+            ]
+        },
+        {
+            "Crime Name": "Retaliation under Canadian Human Rights Act",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "judicial_review_process": [
+                "Judicial review sought against the Attorney General’s decision; arguments included bias and lack of fairness."
+            ],
+            "procedural_fairness": [
+                "The applicants argued bias due to dual roles but failed to show flagrant impropriety or abuse."
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed as prosecutorial discretion is not reviewable without clear evidence of misconduct."
+            ],
+            "administrative_error": [
+                "Failed to demonstrate flagrant impropriety or abuse of power."
+            ],
+            "legal_basis": [
+                "Section 59 of the Canadian Human Rights Act"
+            ],
+            "burden_of_proof": [
+                "Need to show flagrant impropriety or abuse of power."
+            ]
+        }
+    ]
+}

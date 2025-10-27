@@ -1,0 +1,27 @@
+{
+    "Case ID": "090623",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of false documents for the purpose of gaining entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Applicant used a false passport",
+                "Inconsistencies in identity documents"
+            ],
+            "credibility_assessment": [
+                "Inconsistencies in applicant's testimony",
+                "Credibility issues with evidence"
+            ],
+            "document_authenticity": [
+                "Authenticity of birth certificate questioned",
+                "Documents presumed valid unless proven otherwise"
+            ],
+            "misrepresentation_or_fraud": [
+                "False passport used to enter Canada"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ]
+        }
+    ]
+}

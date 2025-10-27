@@ -1,0 +1,726 @@
+{
+    "Case ID": "079177",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "juvenile criminal record"
+            ],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "unclear if conviction was indictable or summary"
+            ],
+            "Evidence_Type": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Evidence_Credibility": [
+                "untreated allegations in Report to Crown Counsel"
+            ],
+            "Credibility_Assessment": [
+                "improper reliance on untested allegations"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "admission of youth record without Period of Access assessment",
+                "use of unverified report"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of IAD decision"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "IAD"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Decision_Standard": [
+                "procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "juvenile criminal record"
+            ],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "lack of corroborating evidence for police report"
+            ],
+            "Evidence_Type": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Evidence_Credibility": [
+                "unverified allegations in Report to Crown Counsel"
+            ],
+            "Credibility_Assessment": [
+                "improper reliance on untested allegations"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to verify Period of Access",
+                "reliance on uncorroborated report"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of IAD decision"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "IAD"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Decision_Standard": [
+                "procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Attend Court",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "admissibility of juvenile record",
+                "use of unverified police report"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "juvenile record admitted without verification",
+                "report used despite untested allegations"
+            ],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Burden_of_Proof": [],
+            "Credibility_Factor": [
+                "lack of corroboration for report"
+            ],
+            "Legal_Rule": [
+                "YCJA restricts access to youth records",
+                "IRPA allows credible evidence but requires procedural fairness"
+            ],
+            "Standard_of_Review": [],
+            "Procedural_Issue": [
+                "violation of procedural fairness"
+            ],
+            "Grounds_for_Claim": [
+                "improper admission of evidence"
+            ],
+            "Outcome_on_Merits": [
+                "error found in IAD decision"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "application allowed"
+            ],
+            "Review_Standard": [],
+            "Procedural_Fairness_Assessment": [
+                "IAD failed to ensure fair process"
+            ],
+            "Key_Evidence_Considered": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "deportation based on criminality"
+            ],
+            "Court_Result": [
+                "decision set aside for reconsideration"
+            ],
+            "Legal_Rule_Source": [
+                "statutory provisions of YCJA and IRPA"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "youth record",
+                "police report"
+            ],
+            "Remedy_Requested": [
+                "reconsideration of IAD decision"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Decision_Authority": [
+                "IAD"
+            ],
+            "Remedy_Sought": [
+                "reconsideration"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "YCJA access restrictions",
+                "IRPA evidentiary rules"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Claimant_Status": [
+                "applicant facing deportation"
+            ],
+            "Legal_Provision_Cited": [],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminal inadmissibility due to past conviction"
+            ],
+            "Applicable_Process": [
+                "appeal before IAD, judicial review"
+            ],
+            "Outcome_of_Review": [
+                "remanded for reconsideration"
+            ],
+            "Pending_Relief_or_Application": [
+                "humanitarian and compassionate grounds"
+            ],
+            "Jurisdiction": [],
+            "Governing_Rule": [
+                "YCJA and IRPA compliance required"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Appear",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "admissibility of juvenile record",
+                "reliance on unverified police report"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "juvenile record admitted without confirmation of accessibility",
+                "report used despite lack of corroboration"
+            ],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Burden_of_Proof": [],
+            "Credibility_Factor": [
+                "allegations not tested"
+            ],
+            "Legal_Rule": [
+                "YCJA limits release of youth records",
+                "IRPA permits credible evidence only"
+            ],
+            "Standard_of_Review": [],
+            "Procedural_Issue": [
+                "procedural unfairness in evidence handling"
+            ],
+            "Grounds_for_Claim": [
+                "erroneous admission of evidence"
+            ],
+            "Outcome_on_Merits": [
+                "IAD decision overturned"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "application allowed"
+            ],
+            "Review_Standard": [],
+            "Procedural_Fairness_Assessment": [
+                "failure to assess statutory admissibility"
+            ],
+            "Key_Evidence_Considered": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "deportation order based on improper evidence"
+            ],
+            "Court_Result": [
+                "decision set aside"
+            ],
+            "Legal_Rule_Source": [
+                "YCJA and IRPA"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "youth record",
+                "police report"
+            ],
+            "Remedy_Requested": [
+                "reconsideration"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Decision_Authority": [
+                "IAD"
+            ],
+            "Remedy_Sought": [
+                "reconsideration of appeal"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "YCJA access conditions",
+                "IRPA evidence standards"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Claimant_Status": [
+                "non-citizen facing removal"
+            ],
+            "Legal_Provision_Cited": [],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminality based on prior conduct"
+            ],
+            "Applicable_Process": [
+                "IAD appeal and federal court review"
+            ],
+            "Outcome_of_Review": [
+                "remanded"
+            ],
+            "Pending_Relief_or_Application": [
+                "H&C considerations"
+            ],
+            "Jurisdiction": [],
+            "Governing_Rule": [
+                "statutory compliance with YCJA and IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Possession of a Scheduled Substance for the Purpose of Trafficking",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "admissibility of juvenile record",
+                "reliance on unproven charges"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "juvenile record admitted without access period verification",
+                "unproven charges relied upon"
+            ],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Burden_of_Proof": [],
+            "Credibility_Factor": [
+                "lack of reliability assessment for unproven charges"
+            ],
+            "Legal_Rule": [
+                "YCJA governs youth record access",
+                "IRPA requires credible evidence"
+            ],
+            "Standard_of_Review": [],
+            "Procedural_Issue": [
+                "violation of procedural fairness"
+            ],
+            "Grounds_for_Claim": [
+                "improper use of unverified information"
+            ],
+            "Outcome_on_Merits": [
+                "error in evidentiary admission"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "application allowed"
+            ],
+            "Review_Standard": [],
+            "Procedural_Fairness_Assessment": [
+                "failure to uphold statutory protections"
+            ],
+            "Key_Evidence_Considered": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "deportation based on criminal convictions"
+            ],
+            "Court_Result": [
+                "decision set aside"
+            ],
+            "Legal_Rule_Source": [
+                "YCJA and IRPA"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "youth record",
+                "unproven charges in police report"
+            ],
+            "Remedy_Requested": [
+                "reconsideration of appeal"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Decision_Authority": [
+                "IAD"
+            ],
+            "Remedy_Sought": [
+                "reconsideration"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "YCJA access rules",
+                "IRPA evidentiary standards"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Claimant_Status": [
+                "appellant facing deportation"
+            ],
+            "Legal_Provision_Cited": [],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "serious criminality"
+            ],
+            "Applicable_Process": [
+                "IAD appeal followed by judicial review"
+            ],
+            "Outcome_of_Review": [
+                "remanded for new hearing"
+            ],
+            "Pending_Relief_or_Application": [
+                "humanitarian and compassionate relief"
+            ],
+            "Jurisdiction": [],
+            "Governing_Rule": [
+                "compliance with YCJA and IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Mischief Under $5000",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "juvenile criminal record"
+            ],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "minimal correlation between report and testimony"
+            ],
+            "Evidence_Type": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Evidence_Credibility": [
+                "untreated allegations"
+            ],
+            "Credibility_Assessment": [
+                "reliance on unverified claims"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [],
+            "Legal_Framework": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to verify admissibility of youth record",
+                "use of unreliable report"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of IAD decision"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Government_Body_Involved": [
+                "IAD"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "IAD under IRPA"
+            ],
+            "Decision_Standard": [
+                "procedural fairness"
+            ]
+        },
+        {
+            "Crime_Name": "Uttering Threats",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "evidentiary violations in immigration context"
+            ],
+            "Legal_Issue": [
+                "admissibility of youth record and police report"
+            ],
+            "Governing_Law": [
+                "Youth Criminal Justice Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "juvenile record and unverified report used in deportation"
+            ],
+            "Decision_Outcome": [
+                "IAD decision set aside"
+            ],
+            "Remedy_Requested": [
+                "reconsideration of appeal"
+            ],
+            "Court_Ruling": [
+                "error in admitting evidence"
+            ],
+            "Claimant_Status": [
+                "non-citizen appealing deportation"
+            ],
+            "Defendant_Behavior": [],
+            "Grounds_for_Claim": [
+                "improper admission of evidence"
+            ],
+            "Legal_Standard": [
+                "procedural fairness",
+                "credibility of evidence"
+            ],
+            "Assessment_Factor": [
+                "Period of Access under YCJA",
+                "trustworthiness of allegations"
+            ],
+            "Applicable_Legislation": [
+                "YCJA",
+                "IRPA"
+            ],
+            "Procedural_Issue": [
+                "failure to assess statutory admissibility"
+            ],
+            "Review_Standard": [],
+            "Credibility_Assessment": [
+                "reliance on unverified allegations"
+            ],
+            "Evidence_Used": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "Legal_Provision_Cited": [],
+            "Application_Basis": [
+                "challenge to deportation based on criminality"
+            ],
+            "Evidence_Assessed": [
+                "youth record",
+                "police report"
+            ],
+            "Relief_Sought": [
+                "reconsideration"
+            ],
+            "Governing_Rule": [
+                "YCJA and IRPA requirements"
+            ],
+            "Evidentiary_Deficiency": [
+                "lack of verification for report"
+            ],
+            "Outcome": [
+                "Application allowed"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Harm_Assessment": [
+                "risk of unfair removal"
+            ],
+            "Cause_Description": [
+                "judicial review challenging IAD's evidentiary errors"
+            ],
+            "Evidence_Handling": [
+                "improper admission of youth record and unproven allegations"
+            ],
+            "Legal_Provision_Violated": [
+                "procedural fairness under IRPA",
+                "confidentiality under YCJA"
+            ],
+            "Evidence_Issues": [
+                "credibility",
+                "admissibility"
+            ],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "YCJA access rules",
+                "IRPA procedural fairness"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "insufficient scrutiny of youth record and police report"
+            ],
+            "Decision_Rationale": [
+                "IAD erred in admitting evidence without proper assessment"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "IAD"
+            ],
+            "Evidentiary_Issues": [
+                "reliance on untested allegations",
+                "failure to confirm record accessibility"
+            ],
+            "Legal_Standard_Applied": [
+                "procedural fairness",
+                "statutory compliance"
+            ]
+        }
+    ]
+}

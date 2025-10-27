@@ -1,0 +1,81 @@
+{
+    "Case ID": "028791",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of counterfeit money",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "convicted of fraud over $5000 and other crimes"
+            ],
+            "applicable_statute": [
+                "IRPA s. 64(2)"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "no breach of natural justice"
+            ],
+            "nature_of_offense": [
+                "fraud over $5000 and other crimes"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA, subsection 64(2)",
+                "Section 71"
+            ],
+            "procedural_fairness": [
+                "natural justice"
+            ],
+            "decision_reasoning": [
+                "courts consistently ruled that crediting pre-sentence custody aligns with Parliament's intent under IRPA"
+            ],
+            "application_details": [
+                "pre-sentence custody should not count toward the two-year threshold"
+            ],
+            "cause_of_action": [
+                "Applicant's conviction for fraud over $5000 led to a deportation order due to serious criminality"
+            ],
+            "procedure_followed": [
+                "Judicial review sought after unsuccessful appeal and motion to reopen based on Supreme Court precedent"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; no breach of natural justice found"
+            ]
+        },
+        {
+            "Crime Name": "Human trafficking",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA subsection 64(2)",
+                "Section 71"
+            ],
+            "procedural_fairness": [
+                "natural justice"
+            ],
+            "administrative_error": [
+                "no breach occurred"
+            ],
+            "judicial_review_process": [
+                "Judicial review application",
+                "Federal Court reviewed IAD's decision"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "deportation order upheld"
+            ],
+            "burden_of_proof": [
+                "serious criminality for a crime punished by at least two years of imprisonment"
+            ]
+        }
+    ]
+}

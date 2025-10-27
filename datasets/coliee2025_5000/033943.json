@@ -1,0 +1,101 @@
+{
+    "Case ID": "033943",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "improved laws protecting women",
+                "systemic corruption",
+                "ineffective state protection"
+            ],
+            "risk_assessment": [
+                "prospective fear",
+                "personal risk upon return",
+                "domestic abuse",
+                "threats from former employer"
+            ],
+            "evidence_assessment": [
+                "factual errors",
+                "insufficient consideration of contradictory evidence"
+            ],
+            "refugee_status_eligibility": [
+                "claiming refugee status",
+                "RPD rejected the claim"
+            ],
+            "decision_outcome": [
+                "court quashed the RPD's decision",
+                "ordered reconsideration by a new panel"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequate state protection",
+                "systemic corruption",
+                "inefficacy"
+            ],
+            "risk_characterization": [
+                "domestic abuse",
+                "threats from former employer"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "religion",
+                "nationality",
+                "social group",
+                "political opinion"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Court"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "errors in fact-finding",
+                "inadequate consideration of evidence"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "judicial review application under subsection 72(1)"
+            ],
+            "appeal_outcome": [
+                "application allowed",
+                "decision quashed",
+                "reconsideration by a different RPD panel"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "Mexico’s laws and improved state protection"
+            ],
+            "risk_assessment": [
+                "prospective fear",
+                "well-founded fear of persecution",
+                "risk to life"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_consideration": [
+                "systemic issues and corruption"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable errors"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "domestic abuse"
+            ],
+            "specific_threats_or_incidents": [
+                "threats from Mr. Ochoa"
+            ]
+        }
+    ]
+}

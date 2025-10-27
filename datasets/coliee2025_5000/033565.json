@@ -1,0 +1,57 @@
+{
+    "Case ID": "033565",
+    "Different Crime": [
+        {
+            "Crime Name": "Border security misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirement",
+                "physical presence in Canada for at least 1,095 days within four years"
+            ],
+            "evidence_assessment": [
+                "conflicting evidence",
+                "incomplete and misleading evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "citizenship application remains denied"
+            ],
+            "misrepresentation_or_fraud": [
+                "insufficient proof of residency"
+            ]
+        },
+        {
+            "Crime Name": "Providing misleading information",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days",
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ],
+            "evidence_provided": [
+                "conflicting and incomplete",
+                "discrepancies in travel records, bank statements, and phone usage"
+            ],
+            "decision_outcome": [
+                "denied citizenship",
+                "appeal dismissed"
+            ],
+            "standard_of_review": [
+                "quantitative or qualitative test"
+            ],
+            "judicial_authority": [
+                "citizenship judge",
+                "court"
+            ],
+            "material_misrepresentation": [
+                "misleading and incomplete evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "focus on standard of proof and credibility"
+            ]
+        }
+    ]
+}

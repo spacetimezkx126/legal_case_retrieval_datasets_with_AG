@@ -1,0 +1,36 @@
+{
+    "Case ID": "012510",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "evidence_assessment": [
+                "abusive",
+                "irrelevant",
+                "inadmissible evidence",
+                "conjecture/speculation",
+                "collateral evidence"
+            ],
+            "procedural_fairness": [
+                "premature to strike",
+                "assessed holistically by the reviewing judge"
+            ],
+            "application_details": [
+                "affidavits containing new evidence not presented to the visa officer"
+            ],
+            "procedure_steps": [
+                "Motion brought by respondent",
+                "arguments presented by both sides regarding admissibility and relevance of affidavits",
+                "decision made by prothonotary"
+            ],
+            "result_of_case": [
+                "motion dismissed without prejudice",
+                "Exhibit D of Shirin Drudian's affidavit is withdrawn",
+                "allowing future submissions to the trial judge"
+            ]
+        }
+    ]
+}

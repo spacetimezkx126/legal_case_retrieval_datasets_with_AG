@@ -1,0 +1,52 @@
+{
+    "Case ID": "021698",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "paragraph 35(1)(b) of the Act",
+                "Section 16",
+                "section 33"
+            ],
+            "credibility_assessment": [
+                "male applicant's claims of non-combat roles"
+            ],
+            "evidence_assessment": [
+                "CBSA provided a report recommending inadmissibility",
+                "Canadian Embassy requested details of the applicant's military service"
+            ],
+            "decision_outcome": [
+                "officer's decision was reasonable",
+                "application for judicial review was dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissible if they are a prescribed senior official in a government engaging in human rights violations"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ]
+        },
+        {
+            "Crime Name": "Violation of human or international rights",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act paragraph 35(1)(b)"
+            ],
+            "senior_official_involvement": [
+                "lieutenant colonel",
+                "top half of the Iraqi Army"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "acceptable outcomes based on evidence and applicable law"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed whether the visa officer's decision met legal standards"
+            ],
+            "decision_outcome": [
+                "Court upheld the officer's decision, dismissing the judicial review application"
+            ]
+        }
+    ]
+}

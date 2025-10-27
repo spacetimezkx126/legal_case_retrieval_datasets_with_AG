@@ -1,0 +1,54 @@
+{
+    "Case ID": "099416",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Credibility issues in refugee claim",
+                "Questioned omissions and inconsistencies"
+            ],
+            "refugee_status_eligibility": [
+                "Claimed refugee status due to alleged persecution"
+            ],
+            "evidence_assessment": [
+                "Failed to provide corroborating evidence for key aspects of claim"
+            ],
+            "decision_outcome": [
+                "Panel's decision upheld",
+                "Judicial review application dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard for credibility assessments"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "credibility assessments in refugee claims are reviewed under the reasonableness standard"
+            ],
+            "evidence_provided": [
+                "failed to provide corroborating evidence for key aspects of his claim"
+            ],
+            "claim_nature": [
+                "refugee status due to alleged persecution"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "application dismissed"
+            ],
+            "relationship_genuineness": [
+                "inconsistencies about family inquiries"
+            ],
+            "risk_characterization": [
+                "persecution by a Lebanese family after an honor killing"
+            ],
+            "material_misrepresentation": [
+                "lacked credible evidence"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "037282",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "evidence_assessment": [
+                "lack of formal library science degree",
+                "no recent library work experience"
+            ],
+            "procedural_fairness": [
+                "officer considered oral explanations"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "regulatory_compliance": [
+                "applicant must meet selection standards for successful establishment in Canada"
+            ],
+            "material_misrepresentation": []
+        }
+    ]
+}

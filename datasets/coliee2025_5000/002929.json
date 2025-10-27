@@ -1,0 +1,24 @@
+{
+    "Case ID": "002929",
+    "Different Crime": [
+        {
+            "Crime Name": "Conflict of Interest",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "A lawyer cannot act against a former client in related matters unless confidential information was not imparted."
+            ],
+            "procedural_fairness": [
+                "Court analyzed past consultations, information shared, and relevance to current cases."
+            ],
+            "decision_outcome": [
+                "Motion dismissed; no disqualification of plaintiffs' counsel."
+            ],
+            "cause_of_action": [
+                "Defendant claimed plaintiffs' counsel had a conflict of interest due to prior consultation."
+            ],
+            "confidentiality_details": [
+                "The information shared was public by 1993, and no confidential details were disclosed."
+            ]
+        }
+    ]
+}

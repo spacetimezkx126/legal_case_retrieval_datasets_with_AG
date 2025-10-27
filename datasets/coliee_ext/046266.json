@@ -1,0 +1,65 @@
+{
+    "Case ID": "046266",
+    "Crimes": [
+        {
+            "Crime_Name": "Inadmissibility on security grounds",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Whether the Immigration Division had jurisdiction to issue a removal order against Azeem after finding her inadmissible under s. 34(1) of IRPA, given her pending application for ministerial relief under s. 34(2)",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA), s. 34(1), s. 34(2), s. 45(d)",
+            "Procedural_Stage": "Judicial review of a removal order issued by the Immigration Division",
+            "Decision_Outcome": "The Federal Court dismissed the application for judicial review",
+            "Legal_Rule": "Under IRPA, s. 34(1) determines inadmissibility on security grounds; s. 34(2) allows ministerial discretion to exempt individuals if their presence is not detrimental to national interest; the Board may issue a removal order under s. 45(d) upon finding inadmissibility",
+            "Standard_of_Review": "Reasonableness",
+            "Jurisdiction": "Immigration Division had jurisdiction to issue the removal order independently of the pending s. 34(2) application",
+            "Pending_Relief_or_Application": "Application for ministerial relief under s. 34(2) of IRPA was pending",
+            "Grounds_for_Inadmissibility_or_Allegation": "Membership in a terrorist organization",
+            "Legal_Provision_Cited": [
+                "IRPA s. 34(1)",
+                "IRPA s. 34(2)",
+                "IRPA s. 45(d)"
+            ],
+            "Decision_Maker": "Immigration Division, Federal Court",
+            "Judicial_Review_Outcome": "Application for judicial review dismissed",
+            "Outcome": "Removal order upheld",
+            "Applicable_Process": "Inadmissibility determination and removal order process under IRPA",
+            "Authority": "Federal Court",
+            "Court_Result": "Dismissed",
+            "Remedy_Sought": "Certification of an important question and quashing of the removal order",
+            "Procedural_Issue": "Whether the Board must wait for a decision on s. 34(2) before issuing a removal order under s. 34(1)",
+            "Legal_Framework": "IRPA framework for inadmissibility and ministerial relief"
+        },
+        {
+            "Crime_Name": "Membership in a terrorist organization",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": "Yes",
+            "National_Security_Danger": "Risk associated with membership in a designated terrorist organization (MQM)",
+            "Threat_Assessment": "Azeem's membership in MQM posed a threat to national security",
+            "Nature_of_Acts": "Affiliation and involvement with a terrorist organization",
+            "Organization_Involved": "MQM (designated as a terrorist organization)",
+            "Admission_or_Involvement": "Found to be a member of MQM",
+            "Individual_Behavior": "Participation linked to refugee claim and permanent residence application",
+            "Nature_of_Membership": "Active membership in a terrorist organization",
+            "Evidence_Type": "Documentary and testimonial evidence regarding affiliation with MQM",
+            "Key_Evidence_Issue": "Credibility and weight of evidence linking Azeem to MQM",
+            "Credibility_Assessment": "Immigration Division found sufficient credible evidence of membership",
+            "Standard_of_Proof": "Balance of probabilities",
+            "Legal_Provision": "IRPA s. 34(1)",
+            "Legal_Provision_Cited": [
+                "IRPA s. 34(1)"
+            ],
+            "Governing_Provision": "IRPA s. 34(1) – Inadmissibility on security grounds",
+            "Authority_Body": "Immigration Division, Federal Court",
+            "Decision_Level": "Administrative tribunal and federal court review",
+            "Decision_Outcome": "Confirmed inadmissibility due to terrorist organization membership",
+            "Outcome": "Removal order issued and upheld",
+            "Process": "Inadmissibility hearing followed by judicial review",
+            "Procedural_Fairness_Issue": "Claim that process was unfair due to lack of stay pending s. 34(2) relief",
+            "Standard_of_Review": "Reasonableness",
+            "Judicial_Review_Outcome": "Application for judicial review dismissed",
+            "Detention_Factors": "Not applicable – focus on removal, not detention",
+            "Deportation_Risk": "High – removal order issued based on inadmissibility",
+            "Reasoning_Deficiency": "None found by Federal Court",
+            "Applicable_Process": "Security-related inadmissibility process under IRPA"
+        }
+    ]
+}

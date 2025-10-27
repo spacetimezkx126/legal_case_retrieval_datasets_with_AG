@@ -1,0 +1,31 @@
+{
+    "Case ID": "052846",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose relevant information under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "unreasonably assessed",
+                "failed to consider all evidence",
+                "dismissed key evidence",
+                "doubts"
+            ],
+            "procedural_fairness": [
+                "RPD must provide procedural fairness",
+                "failed to question inconsistencies",
+                "undermining procedural fairness"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted for reconsideration"
+            ],
+            "evidence_assessment": [
+                "dismissed key evidence",
+                "failed to address inconsistencies"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

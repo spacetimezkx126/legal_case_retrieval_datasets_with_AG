@@ -1,0 +1,35 @@
+{
+    "Case ID": "010557",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "distinctiveness_evaluation": [
+                "distinctive",
+                "known 'to some extent at least'"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "Dispute over trademark registration"
+            ],
+            "judicial_authority": [
+                "Trademarks Opposition Board",
+                "Court"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ],
+            "use_in_trade": [
+                "evidence of advertising and customer exposure"
+            ]
+        }
+    ]
+}

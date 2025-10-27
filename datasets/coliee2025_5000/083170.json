@@ -1,0 +1,28 @@
+{
+    "Case ID": "083170",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal Risk Assessment (PRRA) Decision Review",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "exclusion_reason": [
+                "mootness"
+            ],
+            "procedural_fairness": [
+                "adversarial context"
+            ],
+            "decision_reasoning": [
+                "legal uncertainty",
+                "discretion allows hearing"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "cause_of_action": [
+                "negative PRRA decision"
+            ]
+        }
+    ]
+}

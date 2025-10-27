@@ -1,0 +1,50 @@
+{
+    "Case ID": "086843",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "immigration_status": [
+                "temporary resident"
+            ],
+            "decision_outcome": [
+                "exclusion order revoked; case sent back for redetermination"
+            ],
+            "evidence_assessment": [
+                "lack of evidence showing non-compliance with residency requirements"
+            ],
+            "procedural_fairness": [
+                "judicial review application under s. 72 of the Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "intention to establish permanent residence without applying for it"
+            ]
+        },
+        {
+            "Crime Name": "Criminal charges pending in another country",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the exclusion order under IRPA, analyzing legality and procedural fairness"
+            ],
+            "decision_reasoning": [
+                "Error of law regarding applicant's intention to stay permanently without applying for residency"
+            ],
+            "application_details": [
+                "Applicant had temporary resident status, entered Canada multiple times, started a business, married a Canadian citizen, and faced criminal charges abroad. He did not apply for permanent residency before being issued an exclusion order"
+            ],
+            "conclusion_outcome": [
+                "Exclusion order revoked; case remanded for reconsideration"
+            ],
+            "cause_of_action": [
+                "Applicant's intention to stay permanently without applying for residency and facing criminal charges in Germany"
+            ]
+        }
+    ]
+}

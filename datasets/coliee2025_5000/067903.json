@@ -1,0 +1,27 @@
+{
+    "Case ID": "067903",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "missing documentation",
+                "proof of education"
+            ],
+            "decision_reasoning": [
+                "Visa officers not required to notify deficiencies unless involves potential misrepresentation under IRPA"
+            ],
+            "application_details": [
+                "applicant informed via email about additional documentation",
+                "officer's dissatisfaction with provided proof of education"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "upholding Visa Officer's decision"
+            ]
+        }
+    ]
+}

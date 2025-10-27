@@ -1,0 +1,30 @@
+{
+    "Case ID": "034273",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "opportunity to explain discrepancies"
+            ],
+            "credibility_assessment": [
+                "negative credibility finding",
+                "omissions in IMM 5611",
+                "inconsistencies between forms, police reports, and oral testimony"
+            ],
+            "refugee_status_eligibility": [
+                "applicant claimed refugee status",
+                "subjective and objective fear of persecution"
+            ],
+            "decision_outcome": [
+                "decision is quashed",
+                "matter is remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "standard of review for procedural fairness is correctness",
+                "credibility findings are reviewed on reasonableness"
+            ]
+        }
+    ]
+}

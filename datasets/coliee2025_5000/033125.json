@@ -1,0 +1,56 @@
+{
+    "Case ID": "033125",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding Material Facts Relating to Immigration Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 40(1) of the Immigration and Refugee Protection Act",
+                "subsection 40(1)(a) of the Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "misrepresented her son's paternity",
+                "withholding material facts"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed",
+                " Applicant inadmissible due to misrepresentation"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "evidence_assessment": [
+                "induced an error in the Act's administration"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "misrepresented her son's paternity"
+            ],
+            "applicable_statute": [
+                "subsection 40(1) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "relationship_genuineness": [
+                "claimed he was the biological child of her Canadian sponsor"
+            ],
+            "risk_characterization": [
+                "bypassing normal admissibility checks"
+            ],
+            "cause_of_action": [
+                "false claim about her son's paternity"
+            ],
+            "nature_of_offense": [
+                "induced administrative errors"
+            ]
+        }
+    ]
+}

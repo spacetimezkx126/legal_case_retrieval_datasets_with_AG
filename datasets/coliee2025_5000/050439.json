@@ -1,0 +1,46 @@
+{
+    "Case ID": "050439",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 36(1)(c)",
+                "IRPA s. 72"
+            ],
+            "criminality_inadmissibility": [
+                "act abroad equivalent to a serious crime in Canada",
+                "punishable by at least 10 years imprisonment if committed in Canada"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review",
+                "upholding the immigration officer's decision"
+            ],
+            "standard_of_review": [
+                "Judicial review of the immigration officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 36(1)(c)"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "past_criminal_convictions": [
+                "acquitted due to pardon"
+            ],
+            "serious_issue": [
+                "committing an act equivalent to a serious crime in Canada"
+            ],
+            "evidence_consideration": [
+                "Evidence shows he committed the act"
+            ],
+            "standard_of_proof": [
+                "Foreign pardons are not recognized if incompatible with Canadian law"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "Case ID": "015119",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "informed of concerns",
+                "allowed to respond",
+                "confidential information not disclosed"
+            ],
+            "legal_basis": [
+                "s. 19(1)(c.2) of the Immigration Act"
+            ],
+            "criminality_inadmissibility": [
+                "ties to a criminal organization"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged ties with a Hong Kong triad"
+            ],
+            "standard_of_review": [
+                "deference to the visa officer’s expertise"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 19(1)(c.2) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "procedurally fair"
+            ],
+            "membership_in_organization": [
+                "suspected links with a criminal organization"
+            ],
+            "evidence_provided": [
+                "business ties with known triad members and companies linked to organized crime",
+                "confidential information"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds for exclusion"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed"
+            ],
+            "decision_outcome": [
+                "visa officer's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Reasonable grounds to believe involvement in criminal activity",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "notice and opportunity to respond"
+            ],
+            "legal_basis": [
+                "s. 19(1)(c.2) of the Immigration Act"
+            ],
+            "decision_reasoning": [
+                "reasonable grounds",
+                "member of a criminal organization"
+            ],
+            "application_details": [
+                "denied permanent residence",
+                "alleged links with a triad"
+            ],
+            "conclusion_outcome": [
+                "dismissed judicial review application"
+            ],
+            "result_of_case": [
+                "upheld visa officer's decision"
+            ]
+        }
+    ]
+}

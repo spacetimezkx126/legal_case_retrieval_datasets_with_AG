@@ -1,0 +1,30 @@
+{
+    "Case ID": "092015",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days",
+                "four years",
+                "physical presence in Canada"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "appeal granted",
+                "remanded for re-determination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "document_authenticity": [
+                "undeclared absences",
+                "inconsistent documentation"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "impact on day count"
+            ]
+        }
+    ]
+}

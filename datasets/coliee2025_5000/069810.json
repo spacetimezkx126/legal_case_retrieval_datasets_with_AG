@@ -1,0 +1,32 @@
+{
+    "Case ID": "069810",
+    "Different Crime": [
+        {
+            "Crime Name": "Maritime Accident",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 471"
+            ],
+            "evidence_assessment": [
+                "inspection of tug's steering system",
+                "relevance and benefit",
+                "balance of convenience"
+            ],
+            "decision_reasoning": [
+                "jog switch failure caused the accident",
+                "immediate inspection crucial",
+                "system may change over time",
+                "tug in constant use but feasible with scheduling adjustments"
+            ],
+            "procedure_followed": [
+                "defendants applied for inspection under Rule 471",
+                "court analyzed relevance, benefit, and balance of convenience"
+            ],
+            "result_of_case": [
+                "inspection allowed if scheduled around tug's operations",
+                "notice to all claimants to avoid multiple inspections",
+                "aids both parties in resolving limitation issues"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Case ID": "068905",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "considered"
+            ],
+            "misrepresentation_or_fraud": [
+                "allegations_present"
+            ],
+            "risk_assessment": [
+                "insufficient_grounds_for_deferral"
+            ],
+            "procedural_fairness": [
+                "transparent_decision_making"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed"
+            ],
+            "legal_basis": [
+                "IRPA_s.48"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.48"
+            ],
+            "decision_outcome": [
+                "removal orders must be enforced 'as soon as possible'"
+            ],
+            "procedural_fairness": [
+                "officer's decision reasonable and transparent"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "risk_characterization": [
+                "risk of death, extreme sanction, or inhumane treatment"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "hardship and risk in Malaysia"
+            ],
+            "appeal_outcome": [
+                "Application dismissed; no intervention by the Court."
+            ]
+        }
+    ]
+}

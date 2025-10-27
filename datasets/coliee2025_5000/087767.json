@@ -1,0 +1,50 @@
+{
+    "Case ID": "087767",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements in immigration documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "doubted applicant's credibility due to perceived contradictions"
+            ],
+            "evidence_assessment": [
+                "key evidence dismissed without sufficient reason"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remanded to a new panel"
+            ],
+            "refugee_status_eligibility": [
+                "applicant claimed refugee status due to fear of torture in India"
+            ],
+            "standard_of_review": [
+                "judicial review is warranted if the panel's decision is patently unreasonable or based on errors of law"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "legal_basis": [
+                "patently unreasonable",
+                "errors of law"
+            ],
+            "credibility_findings": [
+                "perceived contradictions",
+                "interpretation issues",
+                "medical reports corroborated"
+            ],
+            "procedural_fairness": [
+                "insufficient reasoning",
+                "procedural flaws"
+            ],
+            "decision_reasoning": [
+                "refugee status denied",
+                "credibility issues"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "case referred to another panel"
+            ]
+        }
+    ]
+}

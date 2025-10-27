@@ -1,0 +1,32 @@
+{
+    "Case ID": "004147",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "temporary resident work permit"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "original decision quashed",
+                "case to be reconsidered"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "ignored family ties",
+                "business ownership",
+                "PhD progress",
+                "significant assets in India"
+            ],
+            "legal_basis": [
+                "paragraph 20(1)(b) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Officer's decision found unreasonable"
+            ]
+        }
+    ]
+}

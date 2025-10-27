@@ -1,0 +1,91 @@
+{
+    "Case ID": "082176",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "evidence_assessment": [
+                "Adjudicator admitted translated German documents despite hearsay concerns"
+            ],
+            "legal_basis": [
+                "s. 80.1 of the Immigration Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "Equivalency between German and Canadian fraud offenses"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard applied"
+            ],
+            "charter_rights": [
+                "Compelled testimony without violating Charter rights"
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "admission of evidence",
+                "compelling testimony",
+                "equivalency determination"
+            ],
+            "procedural_fairness": [
+                "adjudicators not bound by legal/technical rules of evidence",
+                "credible/trustworthy evidence admission"
+            ],
+            "standard_of_review": [
+                "reviewable error analysis"
+            ],
+            "applicable_statute": [
+                "Charter",
+                "Canadian fraud offenses",
+                "German fraud offenses"
+            ],
+            "evidence_provided": [
+                "translated German documents",
+                "testimony"
+            ],
+            "decision_outcome": [
+                "no reviewable error",
+                "application dismissed",
+                "deportation order upheld"
+            ],
+            "claim_nature": [
+                "procedural errors",
+                "equivalency findings"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "materiality_of_misrepresentation": [
+                "intent and deprivation comparison"
+            ],
+            "nature_of_offense": [
+                "fraud"
+            ]
+        },
+        {
+            "Crime Name": "Breach of trust",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Act s. 80.1(5)"
+            ],
+            "evidence_assessment": [
+                "translated German documents",
+                "concerns about translation quality"
+            ],
+            "procedural_fairness": [
+                "compelling the applicant to testify in a civil proceeding"
+            ],
+            "decision_reasoning": [
+                "equivalency based on intentional deceit in both German and Canadian fraud laws"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed",
+                "deportation order upheld"
+            ]
+        }
+    ]
+}

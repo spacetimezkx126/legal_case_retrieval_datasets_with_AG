@@ -1,0 +1,76 @@
+{
+    "Case ID": "037920",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation on a government application form",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lacking credibility"
+            ],
+            "procedural_fairness": [
+                "process fair"
+            ],
+            "decision_outcome": [
+                "dismissed application"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness for procedural fairness"
+            ],
+            "criminality_inadmissibility": [
+                "past conviction",
+                "alleged involvement in illegal activities"
+            ]
+        },
+        {
+            "Crime Name": "Possession of marijuana for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "The Minister may refuse a security clearance if there is a reasonable belief that the applicant may unlawfully interfere with civil aviation."
+            ],
+            "credibility_findings": [
+                "The decision-maker found her responses insufficient and not credible."
+            ],
+            "evidence_sufficiency": [
+                "The RCMP provided information suggesting involvement in illegal activities."
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed whether the decision was reasonable and if procedural fairness was upheld."
+            ],
+            "decision_outcome": [
+                "The court dismissed the application, upholding the decision to deny the TSC."
+            ],
+            "security_clearance": [
+                "The applicant applied for a Transportation Security Clearance but was denied due to allegations of past criminal activity."
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "reasonable belief",
+                "balance of probabilities",
+                "unlawfully interfere with civil aviation"
+            ],
+            "procedural_fairness": [
+                "minimal obligations for new applications",
+                "meaningful chance to respond",
+                "met procedural fairness standards"
+            ],
+            "criminal_history": [
+                "prior conviction for assault with a weapon"
+            ],
+            "credibility_findings": [
+                "responses lacking in credibility"
+            ],
+            "decision_outcome": [
+                "refusal of TSC",
+                "application for judicial review dismissed"
+            ],
+            "court_ruling": [
+                "decision was reasonable",
+                "procedural fairness was upheld"
+            ]
+        }
+    ]
+}

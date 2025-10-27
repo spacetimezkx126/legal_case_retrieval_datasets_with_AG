@@ -1,0 +1,28 @@
+{
+    "Case ID": "095142",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "oral hearing required",
+                "procedural error"
+            ],
+            "credibility_assessment": [
+                "insufficient evidence",
+                "questioned credibility"
+            ],
+            "risk_assessment": [
+                "persecution risk from FARC"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

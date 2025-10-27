@@ -1,0 +1,30 @@
+{
+    "Case ID": "078006",
+    "Different Crime": [
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Copyright Act s. 38(1)(b)"
+            ],
+            "evidence_presented": [
+                "ownership of AMAV's intellectual property",
+                "prima facie case of infringement"
+            ],
+            "decision_reasoning": [
+                "Plaintiffs show prima facie case of infringement",
+                "Defendant lacks evidence"
+            ],
+            "result_of_case": [
+                "Court granted motion, allowing seizure of specified products and materials from defendant and retailers"
+            ],
+            "procedure_followed": [
+                "Plaintiffs filed for an order to seize infringing products pre-judgment",
+                "Court reviewed evidence of ownership and infringement"
+            ],
+            "relevant_statute": [
+                "Canadian or provincial law"
+            ]
+        }
+    ]
+}

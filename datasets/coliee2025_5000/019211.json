@@ -1,0 +1,24 @@
+{
+    "Case ID": "019211",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Mandamus requires: (1) public legal duty to act, (2) duty owed to applicant, (3) clear right to performance, (4) no other adequate remedy."
+            ],
+            "cause_of_action": [
+                "Unreasonable delay in processing citizenship application due to prolonged CSIS investigation."
+            ],
+            "procedure_followed": [
+                "Judicial review application filed in Federal Court, Trial Division, arguing unreasonable delay and usurpation of authority."
+            ],
+            "decision_reasoning": [
+                "Three-year delay deemed unreasonable; CSIS's role was advisory but acted as if it had decision-making power, implying refusal."
+            ],
+            "result_of_case": [
+                "Court granted mandamus, directing Minister to process application within specified conditions."
+            ]
+        }
+    ]
+}

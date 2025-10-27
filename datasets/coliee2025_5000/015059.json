@@ -1,0 +1,93 @@
+{
+    "Case ID": "015059",
+    "Different Crime": [
+        {
+            "Crime Name": "Asylum Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "standard of review for mixed questions of fact and law is reasonableness"
+            ],
+            "risk_of_persecution": [
+                "generalized rather than personalized risk of persecution",
+                "personalized risk"
+            ],
+            "evidence_assessment": [
+                "Applicant's credible testimony"
+            ],
+            "specific_threats": [
+                "specifically targeted due to his defiance and cooperation with authorities"
+            ],
+            "decision_outcome": [
+                "asylum claim was rejected",
+                "case is remanded for redetermination by a new panel"
+            ],
+            "legal_basis": [
+                "Section 97 of IRPA requires an individualized analysis of personal risk"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for redetermination"
+            ],
+            "procedural_fairness": [
+                "Board failed to analyze personalized risk"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "party_involved": [
+                "applicant",
+                "Immigration and Refugee Board"
+            ],
+            "risk_characterization": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "extortion and threats by gang"
+            ],
+            "nexus_to_convention_grounds": [
+                "need for protection"
+            ],
+            "personalized_vs_generalized_risk": [
+                "personalized risk of persecution"
+            ]
+        },
+        {
+            "Crime Name": "Threatening death",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_threats_or_incidents": [
+                "reporting gang activities",
+                "refusing demands",
+                "witnessing a killing"
+            ],
+            "risk_assessment": [
+                "gang activities in Guatemala"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "applicant_involvement": [
+                "fled Guatemala",
+                "resisting extortion",
+                "reporting them"
+            ],
+            "refugee_status_nexus": [
+                "asylum in Canada"
+            ],
+            "country_conditions": [
+                "Guatemala"
+            ]
+        }
+    ]
+}

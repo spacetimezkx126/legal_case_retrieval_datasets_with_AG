@@ -1,0 +1,78 @@
+{
+    "Case ID": "074927",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Misrepresentation in Visa Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lack of credibility",
+                "inconsistent information"
+            ],
+            "evidence_assessment": [
+                "RAD failed to independently assess the evidence"
+            ],
+            "decision_outcome": [
+                "Judicial review granted",
+                "case sent back for reassessment"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistencies in visa application"
+            ],
+            "procedural_fairness": [
+                "RAD erred by not properly assessing"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Sections 96 and 97 of the IRPA",
+                "Section 110"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case referred back for redetermination"
+            ],
+            "procedural_fairness": [
+                "RPD rejected claim",
+                "RAD upheld decision",
+                "Court granted judicial review"
+            ],
+            "evidence_provided": [
+                "conflicting evidence (e.g., marriage details)"
+            ],
+            "reasonableness_standard": [
+                "RAD failed to independently assess RPD's credibility findings"
+            ],
+            "relationship_genuineness": [
+                "questions about applicant's credibility due to discrepancies in visa application and refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "lack of credibility",
+                "conflicting evidence"
+            ],
+            "judicial_review_result": [
+                "granted judicial review",
+                "remanded for reassessment"
+            ],
+            "reasoning_given": [
+                "failed to independently assess the evidence",
+                "questions about her credibility"
+            ],
+            "evidence_assessment": [
+                "discrepancies in visa application and refugee claim"
+            ],
+            "decision_outcome": [
+                "RPD rejected the claim",
+                "RAD upheld it"
+            ],
+            "refugee_status_claim": [
+                "persecution due to domestic violence"
+            ]
+        }
+    ]
+}

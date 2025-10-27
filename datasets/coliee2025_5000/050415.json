@@ -1,0 +1,30 @@
+{
+    "Case ID": "050415",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada within four years",
+                "centralized mode of existence in Canada"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "citizenship grant revoked"
+            ],
+            "standard_of_review": [
+                "reasonableness standard",
+                "qualified deference"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "Koo test"
+            ],
+            "misrepresentation_or_fraud": [
+                "insufficient physical presence"
+            ],
+            "document_authenticity": [],
+            "best_interests_of_children": []
+        }
+    ]
+}

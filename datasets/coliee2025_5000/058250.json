@@ -1,0 +1,28 @@
+{
+    "Case ID": "058250",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "evidence_assessment": [
+                "skills",
+                "experience",
+                "aptitudes"
+            ],
+            "regulatory_compliance": [
+                "Immigration Regulations",
+                "Section 11(3)"
+            ],
+            "misrepresentation_or_fraud": []
+        }
+    ]
+}

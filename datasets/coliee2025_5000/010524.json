@@ -1,0 +1,25 @@
+{
+    "Case ID": "010524",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "refused"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "no reasons required"
+            ],
+            "material_misrepresentation": [
+                "insufficient points",
+                "lack of validated employment offer"
+            ]
+        }
+    ]
+}

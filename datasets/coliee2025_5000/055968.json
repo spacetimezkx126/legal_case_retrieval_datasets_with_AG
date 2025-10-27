@@ -1,0 +1,35 @@
+{
+    "Case ID": "055968",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "natural justice",
+                "procedural fairness"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "application_details": [
+                "lawyer incorrectly advised obtaining a new divorce",
+                "invalidated the sponsorship application"
+            ],
+            "decision_reasoning": [
+                "misunderstanding prejudiced the applicants significantly"
+            ],
+            "conclusion_outcome": [
+                "application was allowed",
+                "officer's decision was set aside",
+                "case referred to another CIC officer"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "submission of additional evidence regarding lawyer incompetence"
+            ],
+            "result_of_case": [
+                "case remitted for redetermination"
+            ]
+        }
+    ]
+}

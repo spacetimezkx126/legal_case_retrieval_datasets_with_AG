@@ -1,0 +1,60 @@
+{
+    "Case ID": "078959",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "concealed marriage and child during immigration process"
+            ],
+            "immigration_status": [
+                "permanent residency application process"
+            ],
+            "decision_outcome": [
+                "Tribunal upheld removal order",
+                "Court dismissed the application for judicial review"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose marriage and child"
+            ],
+            "legal_basis": [
+                "paragraph 40(1)(a) of the IRPA"
+            ],
+            "procedural_fairness": [
+                "judicial review challenged but dismissed by the Court"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA",
+                "Immigration and Refugee Protection Act"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose marriage and child",
+                "concealed during permanent residency application"
+            ],
+            "judicial_authority": [
+                "Tribunal",
+                "Court"
+            ],
+            "decision_outcome": [
+                "upheld removal order",
+                "dismissed judicial review"
+            ],
+            "materiality_of_misrepresentation": [
+                "impacted family reunification eligibility",
+                "prevented investigation"
+            ],
+            "procedural_fairness": [
+                "Tribunal's decision was reasonable"
+            ],
+            "relationship_genuineness": [
+                "marriage and child not disclosed"
+            ],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": []
+        }
+    ]
+}

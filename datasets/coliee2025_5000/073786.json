@@ -1,0 +1,58 @@
+{
+    "Case ID": "073786",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency Obligation Non-Compliance",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "children established in Canada",
+                "linked to parents' non-compliance"
+            ],
+            "immigration_status": [
+                "permanent residents",
+                "entrepreneur category obligations"
+            ],
+            "decision_outcome": [
+                "removal orders upheld",
+                "judicial review dismissed",
+                "special relief denied"
+            ],
+            "misrepresentation_or_fraud": [
+                "participation in a sham investment scheme"
+            ],
+            "regulatory_compliance": [
+                "failed to meet entrepreneur conditions",
+                "residency obligations (IRPA s.28)"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "Discretionary relief may be granted based on humanitarian and compassionate grounds."
+            ],
+            "residency_requirements": [
+                "Failed to meet entrepreneur conditions, including establishing a business."
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Court"
+            ],
+            "appeal_outcome": [
+                "Dismissed"
+            ],
+            "decision_outcome": [
+                "The IAD's decision was reasonable; no judicial intervention is warranted."
+            ],
+            "cause_of_action": [
+                "Did not comply with entrepreneur immigration conditions and were accused of participating in a sham investment program."
+            ],
+            "nature_of_offense": [
+                "Participating in a sham entrepreneur scheme"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ]
+        }
+    ]
+}

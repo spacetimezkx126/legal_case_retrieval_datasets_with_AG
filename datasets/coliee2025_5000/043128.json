@@ -1,0 +1,36 @@
+{
+    "Case ID": "043128",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "section 96",
+                "section 97"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "implausible explanations",
+                "misuse of documentary evidence"
+            ],
+            "decision_reasoning": [
+                "cumulative errors",
+                "reliance on incorrect documentation",
+                "reasonableness standards"
+            ],
+            "evidence_assessment": [
+                "documentary evidence misused",
+                "generalized risk assessments"
+            ],
+            "conclusion_outcome": [
+                "Male Applicant's decision is unreasonable",
+                "Female Applicant's credibility issues fall within reasonable findings"
+            ],
+            "result_of_case": [
+                "Male Applicant's case remanded for reconsideration",
+                "Female Applicant's application dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "061838",
+    "Different Crime": [
+        {
+            "Crime Name": "Working without a work permit",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "use of undisclosed extrinsic evidence"
+            ],
+            "evidence_assessment": [
+                "reliance on extrinsic evidence",
+                "inference of wealth and credibility"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "decision quashed",
+                "remanded for re-determination"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "application denied based partly on undisclosed evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material facts",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "notifying applicants of evidence used against them"
+            ],
+            "evidence_provided": [
+                "undisclosed internet-sourced information",
+                "extrinsic evidence"
+            ],
+            "judicial_authority": [
+                "Court allowed judicial review"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "humanitarian & compassionate grounds for permanent residence"
+            ],
+            "decision_outcome": [
+                "decision was quashed",
+                "remanded for re-determination",
+                "ordered reconsideration by a different officer"
+            ]
+        }
+    ]
+}

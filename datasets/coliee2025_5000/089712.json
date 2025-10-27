@@ -1,0 +1,30 @@
+{
+    "Case ID": "089712",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "relevant_statute": [
+                "Federal Court Act",
+                "sections 17, 18, 25, 44"
+            ],
+            "cause_of_action": [
+                "Dispute over the validity of the election"
+            ],
+            "procedure_steps": [
+                "Plaintiffs filed a claim",
+                "Defendants filed a counterclaim"
+            ],
+            "decision_reasoning": [
+                "no statutory grant of jurisdiction in ss. 17 or 18",
+                "ss. 25 and 44 were insufficient without a specific grant of authority"
+            ],
+            "result_of_case": [
+                "Both the main action and counterclaim were dismissed"
+            ]
+        }
+    ]
+}

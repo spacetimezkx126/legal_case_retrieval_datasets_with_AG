@@ -1,0 +1,31 @@
+{
+    "Case ID": "048688",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "selective evidence interpretation",
+                "inconsistent findings",
+                "isolated and speculative risks",
+                "widespread reports of torture in detention centers"
+            ],
+            "procedural_fairness": [
+                "procedural fairness analyzed",
+                "independence of decision-makers"
+            ],
+            "evidence_assessment": [
+                "documentary evidence selectively interpreted"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "judicial review granted",
+                "decision set aside",
+                "remitted for redetermination"
+            ]
+        }
+    ]
+}

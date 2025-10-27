@@ -1,0 +1,46 @@
+{
+    "Case ID": "042174",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "deferential",
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "RAD must conduct a complete review",
+                "contradicts mandate to fully review appeals"
+            ],
+            "refugee_status": [
+                "denied"
+            ],
+            "review_process": [
+                "RPD rejected claim",
+                "RAD dismissed appeal",
+                "judicial review sought"
+            ],
+            "appeal_outcome": [
+                "partially overturned"
+            ],
+            "reconsideration_order": [
+                "remanded to different RAD panel"
+            ],
+            "cause_of_action": [
+                "persecution claim"
+            ],
+            "conclusion_outcome": [
+                "allowed in part"
+            ],
+            "relevant_rule": [
+                "complete review of factual, legal, mixed questions"
+            ],
+            "administrative_decision": [
+                "credibility assessment"
+            ],
+            "court_ruling": [
+                "remanded for redetermination with proper review scope"
+            ]
+        }
+    ]
+}

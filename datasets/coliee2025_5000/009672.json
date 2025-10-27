@@ -1,0 +1,32 @@
+{
+    "Case ID": "009672",
+    "Different Crime": [
+        {
+            "Crime Name": "Contract Dispute",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Disagreement over rental increases and RV storage fees"
+            ],
+            "relevant_rule": [
+                "The sublease defines 'fair market rent' as basic rent, not gross rent"
+            ],
+            "evidence_presented": [
+                "discrepancies in billing methods",
+                "interpretations of lease terms"
+            ],
+            "decision_reasoning": [
+                "The 1996 rent was fair market rent",
+                "the 2000 increase was unjustified"
+            ],
+            "result_of_case": [
+                "CPV's 2000 rent increase was inappropriate",
+                "CPV must provide RV storage free of charge"
+            ],
+            "procedure_steps": [
+                "expert testimonies on fair market rent",
+                "analysis of lease agreements",
+                "evidence on billing practices"
+            ]
+        }
+    ]
+}

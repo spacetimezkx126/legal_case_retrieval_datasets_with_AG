@@ -1,0 +1,65 @@
+{
+    "Case ID": "047572",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstructing justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA) subsection 68(4)"
+            ],
+            "charter_rights": [
+                "sections 7, 12, and 15 of the Charter"
+            ],
+            "decision_reasoning": [
+                "provision aimed to protect public safety",
+                "consistent with the Charter"
+            ],
+            "application_details": [
+                "Dufour's stay of removal canceled after being convicted again"
+            ],
+            "cause_of_action": [
+                "Dufour’s repeated criminal offenses"
+            ],
+            "procedure_followed": [
+                "Judicial review in the Federal Court"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "subsection 68(4) deemed constitutional"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 68(4) of the Immigration and Refugee Protection Act (IRPA)",
+                "sections 7, 12, and 15 of the Charter"
+            ],
+            "charter_violation": [
+                "security of the person",
+                "prohibition of cruel and unusual punishment",
+                "equality rights"
+            ],
+            "decision_outcome": [
+                "constitutional",
+                "application dismissed"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act",
+                "Charter of Rights and Freedoms"
+            ],
+            "criminal_history": [
+                "convicted of assault with a weapon",
+                "breaking and entering",
+                "subsequent conviction"
+            ],
+            "standard_of_review": [
+                "judicial review in the Federal Court"
+            ],
+            "court_ruling": [
+                "does not violate sections 7, 12, or 15 of the Charter",
+                "aligns with Parliament's intent to restrict appeals for serious criminals"
+            ]
+        }
+    ]
+}

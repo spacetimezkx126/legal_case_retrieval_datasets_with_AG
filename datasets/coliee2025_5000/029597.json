@@ -1,0 +1,44 @@
+{
+    "Case ID": "029597",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "failure to inform of suspicions",
+                "opportunity to address concern"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspected fraudulent documents",
+                "doubts about employment history"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "application to be reconsidered by another officer"
+            ],
+            "standard_of_review": [
+                "visa officer's actions and communications reviewed"
+            ]
+        },
+        {
+            "Crime Name": "Submitting fraudulent documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "officer failed to inform applicant of suspicions"
+            ],
+            "decision_outcome": [
+                "reconsideration by another officer"
+            ],
+            "evidence_provided": [
+                "suspected fraudulent documents"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "appeal_outcome": [
+                "granted judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "080174",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent statements",
+                "questionable documentation"
+            ],
+            "evidence_assessment": [
+                "conflicting evidence",
+                "discrepancies in employment references",
+                "past lies about U.S. visits"
+            ],
+            "decision_outcome": [
+                "visa officer's refusal decision upheld",
+                "court dismissed the application"
+            ],
+            "standard_of_review": [
+                "judicial review of visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Providing false or misleading information",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "subsection 9(3) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review before the Federal Court"
+            ],
+            "material_misrepresentation": [
+                "doubted the applicant's work experience claims"
+            ],
+            "evidence_provided": [
+                "conflicting evidence about his employer's location",
+                "admission of lying about his U.S. employment"
+            ],
+            "relationship_genuineness": [
+                "failed to resolve inconsistencies satisfactorily"
+            ]
+        }
+    ]
+}

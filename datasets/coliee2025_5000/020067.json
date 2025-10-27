@@ -1,0 +1,37 @@
+{
+    "Case ID": "020067",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "adequate notice",
+                "opportunity to respond",
+                "unbiased decision-making"
+            ],
+            "decision_reasoning": [
+                "failed to provide specific allegations",
+                "did not adjourn for preparation",
+                "inadequately addressed key facts"
+            ],
+            "evidence_assessment": [
+                "improperly considered irrelevant matters",
+                "ignored significant evidence"
+            ],
+            "cause_of_action": [
+                "dispute over election",
+                "alleged corrupt practices",
+                "improper inclusion of voters"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "considering procedural fairness",
+                "substantive errors"
+            ],
+            "result_of_case": [
+                "decision overturned",
+                "case referred back for reconsideration"
+            ]
+        }
+    ]
+}

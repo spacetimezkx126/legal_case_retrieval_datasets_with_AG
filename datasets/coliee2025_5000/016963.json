@@ -1,0 +1,28 @@
+{
+    "Case ID": "016963",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Section 5(1) of the Citizenship Act",
+                "three years of residence in Canada within four years",
+                "absences must not indicate abandonment of residence"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "evidence_assessment": [
+                "Appellant spent 1,063 days outside Canada",
+                "voluntary and business-related absences",
+                "maintaining ties in Canada"
+            ],
+            "legal_basis": [
+                "Section 5(1)(c) of the Citizenship Act"
+            ],
+            "immigration_status": [
+                "citizenship application denied"
+            ]
+        }
+    ]
+}

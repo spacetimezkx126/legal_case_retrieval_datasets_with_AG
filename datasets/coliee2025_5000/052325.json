@@ -1,0 +1,194 @@
+{
+    "Case ID": "052325",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining Property by Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in testimony",
+                "psychological report",
+                "documentation"
+            ],
+            "procedural_fairness": [
+                "adequate consideration of psychological condition",
+                "sufficient reasons for conclusions"
+            ],
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution",
+                "risk to life"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "RPD decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining Property by Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)",
+                "Federal Court"
+            ],
+            "claim_nature": [
+                "refugee status",
+                "credibility assessment",
+                "state protection claim"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "yes"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "expert_testimony": [
+                "psychological report"
+            ],
+            "relationship_genuineness": [
+                "inconsistencies in testimony"
+            ],
+            "risk_characterization": [
+                "threats from terrorists"
+            ],
+            "nexus_to_convention_grounds": [
+                "well-founded fear of persecution or risk to life"
+            ],
+            "material_misrepresentation": [
+                "discrepancies in documentation"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "psychological condition acknowledged but not excusing all discrepancies"
+            ],
+            "appeal_outcome": [
+                "upheld"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Document Submission",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistent testimonies",
+                "discrepancies in documents",
+                "unreliable letter from Harun Al-Rashid"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_consideration": [
+                "Personal Information Form (PIF)",
+                "oral testimony",
+                "additional documents",
+                "lack of corroborating evidence"
+            ],
+            "risk_assessment": [
+                "persecution by terrorists in Bangladesh"
+            ],
+            "reasonableness_of_decision": [
+                "significant discrepancies",
+                "fraudulent document submission"
+            ],
+            "refugee_status_nexus": [
+                "failed to provide credible evidence of persecution or risk upon return"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Report Crime",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "embellishments",
+                "omissions"
+            ],
+            "state_protection": [
+                "risk assessment",
+                "presumption of state protection"
+            ],
+            "procedural_fairness": [
+                "consideration of psychological condition"
+            ],
+            "evidence_assessment": [
+                "lack of corroborating evidence",
+                "psychological report"
+            ],
+            "decision_reasoning": [
+                "justified credibility issues",
+                "transparent findings"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Document Submission",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "negative"
+            ],
+            "evidence_sufficiency": [
+                "insufficient"
+            ],
+            "refugee_status": [
+                "rejected"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division (RPD)"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "review_process": [
+                "judicial review under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "evidence_considered": [
+                "inconsistent testimonies",
+                "fraudulent documents",
+                "unreliable letter from Harun Al-Rashid",
+                "Personal Information Form (PIF)",
+                "oral testimony",
+                "additional documents"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Document Submission",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "inconsistent testimonies",
+                "discrepancies in documents",
+                "unreliable letter from Harun Al-Rashid"
+            ],
+            "evidence_considered": [
+                "Personal Information Form (PIF)",
+                "oral testimony",
+                "additional documents",
+                "lack of corroborating evidence"
+            ],
+            "decision_outcome": [
+                "refugee protection claim rejected"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "judicial review under subsection 72(1)"
+            ],
+            "court_ruling": [
+                "Federal Court dismissed the application for judicial review"
+            ],
+            "refugee_protection": [
+                "claim denied due to fraudulent documents and lack of credibility"
+            ]
+        }
+    ]
+}

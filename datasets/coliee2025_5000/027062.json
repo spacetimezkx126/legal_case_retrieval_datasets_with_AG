@@ -1,0 +1,37 @@
+{
+    "Case ID": "027062",
+    "Different Crime": [
+        {
+            "Crime Name": "Negligence in Search and Rescue Duties",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "Admiralty jurisdiction"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act",
+                "Marine Liability Act"
+            ],
+            "cause_of_action": [
+                "boating accident",
+                "negligence in search and rescue duties"
+            ],
+            "procedure_followed": [
+                "Plaintiffs filed a lawsuit",
+                "Defendants moved to strike or stay the action"
+            ],
+            "decision_made": [
+                "motion to strike the in personam action is dismissed",
+                "in rem action is dismissed"
+            ],
+            "result_of_case": [
+                "in personam action continues in Federal Court",
+                "in rem action dismissed"
+            ],
+            "application_context": [
+                "maritime law",
+                "continuous ownership of the vessel"
+            ]
+        }
+    ]
+}

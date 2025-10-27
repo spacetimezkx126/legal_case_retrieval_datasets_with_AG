@@ -1,0 +1,27 @@
+{
+    "Case ID": "041865",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "perceived lack of credibility"
+            ],
+            "evidence_assessment": [
+                "expert evidence",
+                "memory impairment",
+                "objective tests"
+            ],
+            "decision_outcome": [
+                "denied",
+                "remittal for redetermination"
+            ],
+            "specific_vulnerabilities": [
+                "memory issues"
+            ],
+            "review_standard": [
+                "judicial review"
+            ]
+        }
+    ]
+}

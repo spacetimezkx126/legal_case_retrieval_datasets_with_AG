@@ -1,0 +1,64 @@
+{
+    "Case ID": "087791",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "risk_assessment": [
+                "unreasonable assessment of risk"
+            ],
+            "evidence_consideration": [
+                "ignored relevant evidence",
+                "used unreliable internet sources"
+            ],
+            "reasonableness_of_decision": [
+                "decision was unreasonable due to errors in law, capricious findings"
+            ],
+            "standard_of_proof": [
+                "claimant must prove subjective and objective fear of persecution"
+            ],
+            "refugee_status_nexus": [
+                "Section 96 requires showing persecution for Convention reasons"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Protection Claim",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "risk_assessment": [
+                "unreasonable assessment of risk"
+            ],
+            "evidence_considered": [
+                "ignored relevant evidence",
+                "unreliable internet sources"
+            ],
+            "decision_outcome": [
+                "Decision set aside; case referred back"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "Judicial review application filed"
+            ],
+            "claimant_burden": [
+                "prove subjective and objective fear of persecution"
+            ],
+            "relevant_factors": [
+                "misapplication of IRPA",
+                "capricious findings"
+            ]
+        }
+    ]
+}

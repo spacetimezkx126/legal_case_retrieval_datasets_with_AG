@@ -1,0 +1,29 @@
+{
+    "Case ID": "040693",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act",
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "expert_testimony": [
+                "significant differences in mechanisms and intermediates"
+            ],
+            "patent_validity": [
+                "non-obviousness"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "purposive construction approach"
+            ],
+            "technical_details": [
+                "chemical equivalence",
+                "obvious chemical equivalent"
+            ]
+        }
+    ]
+}

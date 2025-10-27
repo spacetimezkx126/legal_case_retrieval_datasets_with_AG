@@ -1,0 +1,37 @@
+{
+    "Case ID": "068367",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "fixed dosage and schedule",
+                "not a method of medical treatment",
+                "patentable"
+            ],
+            "relevant_statute": [
+                "Patent Act",
+                "section 2"
+            ],
+            "infringement_analysis": [
+                "methods of medical treatment",
+                "professional skill and judgment",
+                "fixed dosages without ranges"
+            ],
+            "application_details": [
+                "appellant's claims",
+                "fixed dosage and schedule for Humira",
+                "no need for physician adjustment"
+            ],
+            "decision_reasoning": [
+                "Commissioner ruled as methods of medical treatment",
+                "Court found interpretation incorrect",
+                "based on case law"
+            ],
+            "result_of_case": [
+                "appeal allowed",
+                "Commissioner directed to issue the patent"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "070140",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "residency_requirements": [
+                "not met"
+            ],
+            "evidence_assessment": [
+                "contradictions in evidence"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "original decision set aside",
+                "case referred back for redetermination"
+            ],
+            "identity_verification": [
+                "issues with Canadian residence claim"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Case ID": "079395",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 114(2) of the Immigration Act",
+                "sections 7 and 12 of the Canadian Charter of Rights and Freedoms"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the immigration officer's decision based on written submissions without an interview"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "Rejection of humanitarian relief request due to insufficient grounds"
+            ],
+            "reasonableness_of_decision": [
+                "The application for judicial review was dismissed as the decision was found reasonable, fair, and compliant with Charter rights"
+            ],
+            "immigration_status": [
+                "Denial of refugee status"
+            ],
+            "standard_of_proof": [
+                "Based on written submissions"
+            ],
+            "refugee_status_nexus": [
+                "Refugee claim denied"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 114(2) of the Immigration Act",
+                "sections 7 and 12 of the Canadian Charter of Rights and Freedoms"
+            ],
+            "decision_outcome": [
+                "refugee claim denied",
+                "humanitarian relief rejected"
+            ],
+            "procedural_fairness": [
+                "no interview conducted"
+            ],
+            "charter_violation": [
+                "no violation found"
+            ],
+            "court_ruling": [
+                "application for judicial review dismissed"
+            ],
+            "relevant_factors": [
+                "insufficient grounds for refugee status",
+                "rejection of humanitarian relief"
+            ]
+        }
+    ]
+}

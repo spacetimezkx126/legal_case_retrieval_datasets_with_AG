@@ -1,0 +1,51 @@
+{
+    "Case ID": "037752",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "rehabilitation_or_possibility": [
+                "possibility of rehabilitation"
+            ],
+            "procedural_fairness": [
+                "correct test applied",
+                "relevant factors considered"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "denied by IAD"
+            ],
+            "standard_of_proof": [
+                "proof of rehabilitation instead of possibility"
+            ],
+            "reasonableness_of_decision": [
+                "IAD did not err"
+            ],
+            "immigration_status": [
+                "deportation"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Ribic factors"
+            ],
+            "credibility_findings": [
+                "lack of credible evidence",
+                "evasive testimony"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_laws": [
+                "serious criminality"
+            ],
+            "standard_of_review": [
+                "correct legal test for rehabilitation"
+            ],
+            "court_ruling": [
+                "upholding the IAD's decision"
+            ]
+        }
+    ]
+}

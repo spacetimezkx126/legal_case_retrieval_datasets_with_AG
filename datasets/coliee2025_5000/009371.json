@@ -1,0 +1,90 @@
+{
+    "Case ID": "009371",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.4"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "phone bills",
+                "photos",
+                "prior deportations",
+                "lack of compatibility",
+                "inconsistencies in testimony"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant's husband had multiple deportations and criminal convictions"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Evasion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "entered into primarily for immigration purposes"
+            ],
+            "evidence_provided": [
+                "phone bills",
+                "letters",
+                "affidavits"
+            ],
+            "procedural_fairness": [
+                "inconsistencies in evidence",
+                "illegal stays",
+                "lack of knowledge about religion",
+                "age difference",
+                "lack of wedding reception"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refusal of visa application"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "based on sufficient evidence"
+            ],
+            "applicable_statute": [
+                "Section 4 of the IRPR"
+            ]
+        },
+        {
+            "Crime Name": "Drunkenness",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.4"
+            ],
+            "evidence_assessment": [
+                "phone bills",
+                "letters",
+                "repeated deportations",
+                "lack of compatibility",
+                "discrepancies in testimony"
+            ],
+            "decision_reasoning": [
+                "marriage not genuine",
+                "entered into primarily for immigration benefits"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed"
+            ],
+            "cause_of_action": [
+                "sponsor spouse for Canadian residency",
+                "marriage deemed insincere"
+            ]
+        }
+    ]
+}

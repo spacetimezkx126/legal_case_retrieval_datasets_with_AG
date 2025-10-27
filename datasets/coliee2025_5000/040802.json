@@ -1,0 +1,31 @@
+{
+    "Case ID": "040802",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "specific_rule_applied": [
+                "paragraph 6(5)(b) of the Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "procedure_followed": [
+                "motion to dismiss prohibition application",
+                "appeal against Prothonotary's decision"
+            ],
+            "decision_reasoning": [
+                "insufficient admissible evidence provided by Apotex",
+                "hearsay reliance",
+                "failure to meet high burden of proving frivolous or abusive case"
+            ],
+            "result_of_case": [
+                "appeal dismissed",
+                "case to proceed on merits"
+            ],
+            "relevant_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "098276",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court jurisdiction over tort claims against individual prison officers based on federal law"
+            ],
+            "relevant_rule": [
+                "statutory grant of jurisdiction by Parliament",
+                "existing body of federal law nourishes this grant",
+                "case is based on 'a law of Canada'"
+            ],
+            "application_context": [
+                "claims rooted in tortious liability rather than federal law",
+                "Penitentiary Service Regulations regulate operational matters"
+            ],
+            "decision_reasoning": [
+                "Plaintiff's claims do not arise from federal law"
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "Federal Court lacks jurisdiction over individual defendants"
+            ],
+            "cause_of_action": [
+                "Plaintiff filed claims against prison officials for actions during his segregation and transfer process"
+            ],
+            "procedure_followed": [
+                "Defendants moved to strike the claim due to lack of jurisdiction",
+                "prothonotary granted the motion",
+                "appeal followed"
+            ]
+        }
+    ]
+}

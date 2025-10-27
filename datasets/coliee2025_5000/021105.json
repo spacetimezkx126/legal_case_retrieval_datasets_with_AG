@@ -1,0 +1,44 @@
+{
+    "Case ID": "021105",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_consideration": [
+                "new comments from employer",
+                "facts already in the file",
+                "applicant had previously responded to similar arguments"
+            ],
+            "humanitarian_concerns": [],
+            "risk_assessment": [],
+            "serious_issue": []
+        },
+        {
+            "Crime Name": "Discrimination and Sexual Harassment Complaint",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "no breach of procedural fairness",
+                "opportunity to respond to adverse evidence"
+            ],
+            "evidence_considered": [
+                "employer's final comments",
+                "facts already in the file",
+                "similar arguments previously responded to"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Commission did not breach procedural fairness"
+            ],
+            "legal_basis": [
+                "Administrative bodies must ensure procedural fairness"
+            ],
+            "appeal_process": [
+                "Judicial review application filed"
+            ],
+            "family_impact": []
+        }
+    ]
+}

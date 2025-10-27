@@ -1,0 +1,31 @@
+{
+    "Case ID": "082586",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "specific_rule_applied": [
+                "Rule 448",
+                "Rule 447"
+            ],
+            "dispute_focus": [
+                "document disclosure"
+            ],
+            "application_details": [
+                "motion under Rule 448"
+            ],
+            "decision_reasoning": [
+                "no requirement for plaintiff to prove incompleteness",
+                "Rule 448 requests all relevant documents"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "defendant ordered to comply with Rule 448"
+            ],
+            "procedure_followed": [
+                "plaintiff filed motion",
+                "defendant resisted based on privilege and vagueness"
+            ]
+        }
+    ]
+}

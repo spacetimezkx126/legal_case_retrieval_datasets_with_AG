@@ -1,0 +1,56 @@
+{
+    "Case ID": "022939",
+    "Different Crime": [
+        {
+            "Crime Name": "Submitting Counterfeit Documents under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "submitted a counterfeit document",
+                "withholding material facts"
+            ],
+            "legal_basis": [
+                "s. 40(1)(a) of IRPA"
+            ],
+            "decision_outcome": [
+                "upheld the removal order",
+                "found inadmissible"
+            ],
+            "evidence_assessment": [
+                "could have induced an error if undiscovered"
+            ],
+            "immigration_status": [
+                "study permit application"
+            ],
+            "document_authenticity": [
+                "counterfeit document"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 40(1)(a) of the IRPA"
+            ],
+            "decision_outcome": [
+                "upheld",
+                "dismissed"
+            ],
+            "material_misrepresentation": [
+                "submitted a counterfeit document"
+            ],
+            "identity_documents": [
+                "false document"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Federal Court"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "risk_characterization": [
+                "risked incorrect administration of the Act"
+            ]
+        }
+    ]
+}

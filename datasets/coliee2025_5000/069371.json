@@ -1,0 +1,32 @@
+{
+    "Case ID": "069371",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "decision_reasonableness"
+            ],
+            "evidence_assessment": [
+                "evidence_presented",
+                "evidence_consideration"
+            ],
+            "refugee_status": [
+                "risk_of_persecution",
+                "refugee_criteria"
+            ],
+            "decision_reasoning": [
+                "decision_standard",
+                "discretion_exercise"
+            ],
+            "result_of_case": [
+                "decision_made",
+                "result_details"
+            ]
+        }
+    ]
+}

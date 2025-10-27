@@ -1,0 +1,26 @@
+{
+    "Case ID": "017306",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Status",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "IRB's denial of an adjournment",
+                "failure to properly consider Rule 48(4) factors"
+            ],
+            "reasonableness_standard": [
+                "unreasonable due to failure to properly consider Rule 48(4) factors"
+            ],
+            "decision_outcome": [
+                "case is referred back for redetermination",
+                "Court set aside the IRB's decision and ordered a new panel to reassess the refugee claim"
+            ],
+            "legal_basis": [
+                "Rule 48(4) outlines factors for adjournment decisions"
+            ],
+            "review_standard": [
+                "Judicial review in Federal Court analyzed IRB's decision-making process under Rule 48(4)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Case ID": "040067",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada due to Serious Criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "limited submissions on merits"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "appealed based on humanitarian and compassionate grounds"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "IAD decision set aside",
+                "redetermination by a different panel"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of rules of natural justice",
+                "limited opportunity to present case",
+                "standard of review for procedural fairness is correctness"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "appellant's appeal based on H&C factors",
+                "inability to fully argue H&C factors"
+            ],
+            "risk_assessment": [],
+            "evidence_consideration": [],
+            "criminal_history": [
+                "convicted of sexual assault"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "012346",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "legal_basis": [
+                "Section 30(h)",
+                "s. 56 of the Trade-marks Act"
+            ],
+            "distinctiveness_evaluation": [
+                "limited distinctiveness due to common pink tablets"
+            ],
+            "technical_details": [
+                "errors in color representation (blue vs. pink)",
+                "lacked clarity on size and first use date"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "Bayer's trademark application rejected",
+                "Novopharm's appeal succeeds"
+            ],
+            "standard_of_review": [
+                "correctness standard with new evidence"
+            ]
+        }
+    ]
+}

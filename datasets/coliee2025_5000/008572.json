@@ -1,0 +1,28 @@
+{
+    "Case ID": "008572",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "denied procedural fairness"
+            ],
+            "evidence_assessment": [
+                "request for further evidence",
+                "IFA-related information"
+            ],
+            "decision_reasoning": [
+                "officer error",
+                "beyond applicants' control"
+            ],
+            "court_ruling": [
+                "judicial review allowed",
+                "decision set aside",
+                "remitted for redetermination"
+            ],
+            "application_details": [
+                "H&C application refused"
+            ]
+        }
+    ]
+}

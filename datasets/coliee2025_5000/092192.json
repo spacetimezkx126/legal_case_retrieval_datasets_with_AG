@@ -1,0 +1,54 @@
+{
+    "Case ID": "092192",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ],
+            "procedural_fairness": [
+                "applicants to know and respond to evidence against them",
+                "sufficient opportunity to respond"
+            ],
+            "misrepresentation_or_fraud": [
+                "contradictions about his family's LTTE involvement",
+                "discrepancies in statements"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "found inadmissible due to contradictions"
+            ]
+        },
+        {
+            "Crime Name": "Security concerns under the Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "Applicant not fully informed due to national security risks",
+                "Officer disclosed some concerns during interviews"
+            ],
+            "inadmissibility_criteria": [
+                "Misrepresentation under IRPA s. 40"
+            ],
+            "evidence_provided": [
+                "Contradictions about family's involvement with the LTTE",
+                "Specific inconsistencies cited by the officer"
+            ],
+            "judicial_review_result": [
+                "Dismissed"
+            ],
+            "reasoning_given": [
+                "Procedural fairness upheld",
+                "Reasons deemed adequate"
+            ],
+            "disclosure_of_sensitive_information": [
+                "Some details withheld citing national security risks"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed; no question certified"
+            ]
+        }
+    ]
+}

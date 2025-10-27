@@ -1,0 +1,33 @@
+{
+    "Case ID": "065299",
+    "Different Crime": [
+        {
+            "Crime Name": " Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_of_persecution": [
+                "fearing deportation to China"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_proof": [
+                "applicants to prove they face persecution in their home country or a serious risk of harm"
+            ],
+            "country_conditions": [
+                "Citizenship in a safe country precludes refugee status"
+            ],
+            "specific_group_membership": [
+                "Tibetan ancestry"
+            ],
+            "burden_of_proof": [
+                "applicant needs to prove her case"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed in Federal Court challenging the Board’s decision"
+            ]
+        }
+    ]
+}

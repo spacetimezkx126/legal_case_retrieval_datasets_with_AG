@@ -1,0 +1,30 @@
+{
+    "Case ID": "092179",
+    "Different Crime": [
+        {
+            "Crime Name": "Attempting to enter Canada with a forged document",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "tampered passport"
+            ],
+            "document_authenticity": [
+                "forged document",
+                "tampered passport"
+            ],
+            "legal_basis": [
+                "Section 10(2)(b) of the Canadian Passport Order"
+            ],
+            "decision_outcome": [
+                "passport revocation invalid",
+                "service refusal invalid"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "regulatory_compliance": [
+                "lack of conviction",
+                "passport expiration"
+            ]
+        }
+    ]
+}

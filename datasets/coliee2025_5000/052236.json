@@ -1,0 +1,26 @@
+{
+    "Case ID": "052236",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Exclusion",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "Insufficient time provided to prepare for Article 1F(a) exclusion during hearing"
+            ],
+            "legal_basis": [
+                "Section 69.1(5) of Immigration Act",
+                "Section 69(6) of Immigration Act",
+                "Convention Refugee Determination Division Rules (Section 13(4))"
+            ],
+            "decision_outcome": [
+                "Application allowed; case remanded for rehearing with a differently constituted panel"
+            ],
+            "reasonableness_standard": [
+                "80-minute adjournment deemed insufficient for meaningful preparation"
+            ],
+            "exclusion_reason": [
+                "Article 1F(a) exclusion"
+            ]
+        }
+    ]
+}

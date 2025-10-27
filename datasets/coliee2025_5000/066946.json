@@ -1,0 +1,29 @@
+{
+    "Case ID": "066946",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 19(1)(a)(ii) of the Immigration Act",
+                "Section 22 of the Immigration Regulations"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness"
+            ],
+            "evidence_assessment": [
+                "new_evidence",
+                "outdated_information"
+            ],
+            "decision_reasoning": [
+                "patently_unreasonable"
+            ],
+            "result_of_case": [
+                "decision_quashed"
+            ],
+            "cost_awards": [
+                "entitled_to_costs"
+            ]
+        }
+    ]
+}

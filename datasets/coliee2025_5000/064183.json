@@ -1,0 +1,58 @@
+{
+    "Case ID": "064183",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "genuineness of marriage"
+            ],
+            "evidence_assessment": [
+                "trivial concerns",
+                "minor inconsistencies",
+                "birth of a child",
+                "cultural norms of arranged marriages"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remitting the case for reconsideration"
+            ],
+            "standard_of_review": [
+                "errors in reasoning"
+            ],
+            "immigration_status": [
+                "sponsorship application denied"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine"
+            ],
+            "evidence_provided": [
+                "birth of a child",
+                "cultural norms of arranged marriages"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "remitted for reconsideration"
+            ],
+            "applicable_statute": [
+                "s. 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "procedural_fairness": [
+                "errors in reasoning"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "infrequent visits",
+                "minor inconsistencies"
+            ]
+        }
+    ]
+}

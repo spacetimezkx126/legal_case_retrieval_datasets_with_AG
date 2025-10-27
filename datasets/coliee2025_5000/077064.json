@@ -1,0 +1,28 @@
+{
+    "Case ID": "077064",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "Distrimedic's system does not include 'positioning means' as described in the patent, using a different alignment method"
+            ],
+            "evidence_presented": [
+                "expert testimonies on patents, trademarks, and copyrights"
+            ],
+            "decision_reasoning": [
+                "omits essential elements like positioning means with protuberances and holes"
+            ],
+            "result_of_case": [
+                "Court dismissed Richards' counterclaim against Distrimedic"
+            ],
+            "relevant_rule": [
+                "Infringement occurs if all essential elements of a claim are incorporated into a product"
+            ],
+            "procedure_steps": [
+                "pre-trial conferences",
+                "trial proceedings where evidence was presented and analyzed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Case ID": "083457",
+    "Different Crime": [
+        {
+            "Crime Name": "Smuggling facilitation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Ms. Lin's identity",
+                "counterfeit document",
+                "multiple documents",
+                "testimony"
+            ],
+            "evidence_assessment": [
+                "acceptable documentation",
+                "reasonable explanation",
+                "totality of evidence",
+                "dismissed evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "case remitted for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "counterfeit Resident Information Card"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "properly evaluated all evidence"
+            ]
+        },
+        {
+            "Crime Name": "Illegal religious activities (described behavior)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "evidence_assessment": [
+                "multiple documents",
+                "oral testimony",
+                "counterfeit Resident Information Card (RIC)"
+            ],
+            "decision_reasoning": [
+                "failed to consider all evidence"
+            ],
+            "result_of_case": [
+                "case remitted for reassessment"
+            ],
+            "cause_of_action": [
+                "refugee status rejection due to identity doubts"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed evidence assessment"
+            ],
+            "conclusion_outcome": [
+                "RPD's decision unreasonable"
+            ]
+        }
+    ]
+}

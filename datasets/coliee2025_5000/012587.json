@@ -1,0 +1,88 @@
+{
+    "Case ID": "012587",
+    "Different Crime": [
+        {
+            "Crime Name": "Working without authorization",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "working without authorization"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed whether CIC's decision was reasonable"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "lack of evidence of a pardon"
+            ],
+            "regulatory_compliance": [
+                "foreign national can be granted a TRP if an officer finds it justified in the circumstances"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "inadmissibility_criteria": [
+                "Membership in a terrorist organization"
+            ],
+            "decision_outcome": [
+                "TRP application denied"
+            ],
+            "reasonableness_of_decision": [
+                "Decision upheld as reasonable"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Analyzed during judicial review"
+            ],
+            "immigration_status": [
+                "Foreign national"
+            ],
+            "new_information": [
+                "Changed circumstances, unresolved inadmissibility issues"
+            ],
+            "applicable_law_section": [
+                "IRPA provisions on TRP denial"
+            ]
+        },
+        {
+            "Crime Name": "Criminal conviction under an Act of Parliament punishable by way of indictment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.24(1)",
+                "s.34(1)(f)",
+                "s.36(2)(a)"
+            ],
+            "decision_reasoning": [
+                "justified in the circumstances",
+                "no procedural unfairness or error in CIC’s reasoning"
+            ],
+            "discretion_exercise": [
+                "CIC’s discretionary authority"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "application_details": [
+                "TRP application",
+                "prior TRPs",
+                "pardon for impaired driving",
+                "unauthorized work",
+                "lack of evidence of pardon"
+            ],
+            "conclusion_outcome": [
+                "dismissed"
+            ],
+            "result_of_case": [
+                "Court rejected Mr. Dhaliwal’s application, upholding CIC’s decision"
+            ]
+        }
+    ]
+}

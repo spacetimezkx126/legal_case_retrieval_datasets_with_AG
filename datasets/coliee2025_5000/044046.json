@@ -1,0 +1,38 @@
+{
+    "Case ID": "044046",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "request_for_oral_hearing",
+                "failure_to_wait_for_evidence"
+            ],
+            "decision_reasoning": [
+                "credibility_findings",
+                "evidence_assessment"
+            ],
+            "application_details": [
+                "request_for_oral_hearing",
+                "pending_new_evidence"
+            ],
+            "result_of_case": [
+                "judicial_review_allowed",
+                "prra_decision_set_aside",
+                "new_hearing_required"
+            ],
+            "cause_of_action": [
+                "risk_of_persecution",
+                "lack_of_evidence"
+            ],
+            "procedure_followed": [
+                "judicial_review",
+                "analysis_of_procedural_fairness"
+            ],
+            "conclusion_outcome": [
+                "new_prra_assessment_with_hearing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "014900",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "relevant_statute": [
+                "Patent Act",
+                "Federal Court Act"
+            ],
+            "cause_of_action": [
+                "unpaid royalties"
+            ],
+            "application_context": [
+                "patent license"
+            ],
+            "procedure_followed": [
+                "Defendant moved to strike the claim for lack of jurisdiction"
+            ],
+            "result_of_case": [
+                "statement of claim dismissed"
+            ],
+            "decision_reasoning": [
+                "claim is primarily contractual, not patent-related"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Case ID": "058278",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "failed to prove identity",
+                "discrepancies in photos"
+            ],
+            "credibility_assessment": [
+                "inconsistent documentation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "applicant claimed refugee status"
+            ],
+            "evidence_assessment": [
+                "RPD compared photos",
+                "submitted photos irrelevant or blurry"
+            ]
+        },
+        {
+            "Crime Name": "Identity fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "photo comparison",
+                "Resident Identity Card",
+                "discrepancies in features"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "identity_documents": [
+                "Resident Identity Card"
+            ],
+            "expert_testimony": [
+                "not required"
+            ],
+            "relationship_genuineness": [
+                "failed to establish"
+            ],
+            "persecution_details": [
+                "claimed refugee status due to persecution as a Christian"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status claim"
+            ],
+            "nature_of_offense": [
+                "identity fraud"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Case ID": "013611",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Comply with Conditions of Stay of Deportation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.108(4)"
+            ],
+            "evidence_assessment": [
+                "limited evidence of past trauma",
+                "no objective proof of ongoing risk"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "breached deportation conditions"
+            ]
+        },
+        {
+            "Crime Name": "Breaking and Entering under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 108(4)"
+            ],
+            "decision_outcome": [
+                "Court dismissed application"
+            ],
+            "procedural_fairness": [
+                "no procedural or legal errors"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "party_involved": [
+                "Applicant",
+                "Officer"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "risk_characterization": [
+                "deportation risk"
+            ],
+            "nexus_to_convention_grounds": [
+                "past persecution or torture"
+            ],
+            "materiality_of_misrepresentation": [
+                "insufficient evidence"
+            ],
+            "serious_criminality": [
+                "criminal activities led to deportation risk"
+            ],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_likelihood": []
+        },
+        {
+            "Crime Name": "Possession of a Firearm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s.108(4)"
+            ],
+            "evidence_consideration": [
+                "limited evidence",
+                "unsworn statement",
+                "CCVT letter",
+                "insufficient objective evidence"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "risk_of_persecution": [
+                "past persecution",
+                "current risk in Burundi"
+            ],
+            "criminal_history": [
+                "criminal activities led to deportation"
+            ],
+            "standard_of_proof": [
+                "compelling reasons must arise from previous persecution or torture"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 108(4)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient objective evidence",
+                "country conditions reviewed"
+            ],
+            "decision_reasoning": [
+                "no current risk",
+                "no compelling reasons found"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "Officer's decision upheld"
+            ]
+        }
+    ]
+}

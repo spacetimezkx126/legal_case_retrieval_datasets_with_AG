@@ -1,0 +1,31 @@
+{
+    "Case ID": "002817",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "reasonableness_standard": [
+                "judicial review of Refugee Protection Division decision"
+            ],
+            "risk_of_persecution": [
+                "refusal to serve in compulsory military service does not constitute persecution unless linked to specific grounds"
+            ],
+            "specific_group_membership": [
+                "conscientious objector",
+                "Kurdish ethnicity"
+            ],
+            "evidence_assessment": [
+                "no additional risk for Kurdish draft evaders beyond standard penalties"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "nexus_to_convention_grounds": [
+                "deep beliefs or organizational ties required for conscientious objector status"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Case ID": "057457",
+    "Different Crime": [
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 70(5)(c)",
+                "s. 27(1)(d)"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "referred back for redetermination"
+            ],
+            "evidence_provided": [
+                "no evidence of ten-year sentence conviction"
+            ],
+            "applicable_statute": [
+                "s. 70(5)(c)",
+                "s. 27(1)(d)"
+            ],
+            "judicial_authority": [
+                "Appeal Division",
+                "court"
+            ],
+            "nature_of_offense": [
+                "aggravated assault",
+                "forcible confinement"
+            ],
+            "cause_of_action": [
+                "deportation proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 70(5)(c)",
+                "s. 27(1)(d)"
+            ],
+            "procedural_fairness": [
+                "lack of jurisdiction under s. 70(5)(c)"
+            ],
+            "criminal_history": [
+                "convicted of aggravated assault and forcible confinement"
+            ],
+            "immigration_status": [
+                "deportation proceedings"
+            ],
+            "standard_of_proof": [
+                "no evidence was presented regarding a conviction with a ten-year sentence"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 70(5)(c)",
+                "s. 27(1)(d)"
+            ],
+            "decision_outcome": [
+                "Appeal Division's decision quashed",
+                "matter referred back for redetermination"
+            ],
+            "judicial_review_result": [
+                "judicial review granted",
+                "appeal allowed to proceed"
+            ],
+            "evidence_provided": [
+                "convicted of aggravated assault and forcible confinement"
+            ],
+            "applicable_law_section": [
+                "s. 70(5)(c)",
+                "s. 27(1)(d)"
+            ],
+            "reasoning_given": [
+                "no evidence presented regarding a conviction with a ten-year sentence"
+            ]
+        }
+    ]
+}

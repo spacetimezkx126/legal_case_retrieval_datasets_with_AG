@@ -1,0 +1,77 @@
+{
+    "Case ID": "016536",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "inability to prove identity"
+            ],
+            "credibility_assessment": [
+                "not credible due to inconsistent testimony"
+            ],
+            "evidence_assessment": [
+                "ID was tampered with",
+                "used a Rwandan passport for a U.S. visa"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "legal standards of reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "tampered ID",
+                "Rwandan passport",
+                "inconsistent testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "identity_documents": [
+                "tampered ID",
+                "Rwandan passport"
+            ],
+            "material_misrepresentation": [
+                "inconsistent statements"
+            ],
+            "judicial_authority": [
+                "Board"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in identity documents",
+                "tampered ID card",
+                "use of Rwandan passport for U.S. visa"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "refugee_status_claim": [
+                "failed to establish credible identity or testimony"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "no question certified"
+            ]
+        }
+    ]
+}

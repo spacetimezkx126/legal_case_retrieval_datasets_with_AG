@@ -1,0 +1,39 @@
+{
+    "Case ID": "076886",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid due to obviousness"
+            ],
+            "relevant_statute": [
+                "Section 28.3 of the Patent Act"
+            ],
+            "evidence_presented": [
+                "routine experimentation",
+                "clear motivation",
+                "expert testimonies"
+            ],
+            "decision_reasoning": [
+                "obviousness",
+                "inventive concept",
+                "differences"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ],
+            "cost_awards": [
+                "costs awarded to Teva"
+            ],
+            "cause_of_action": [
+                "prohibit obtaining approval for generic version"
+            ],
+            "procedure_steps": [
+                "analyzed patent claims",
+                "state of the art",
+                "obviousness steps"
+            ]
+        }
+    ]
+}

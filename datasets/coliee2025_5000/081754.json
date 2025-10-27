@@ -1,0 +1,37 @@
+{
+    "Case ID": "081754",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "vague and insufficiently detailed statement of claim"
+            ],
+            "application_details": [
+                "employment grievances and torts",
+                "proposed amendments clarify some points but do not resolve fundamental deficiencies"
+            ],
+            "procedure_followed": [
+                "judicial review of the adequacy of the plaintiff's pleadings under procedural rules"
+            ],
+            "decision_reasoning": [
+                "breach of statute alone does not constitute a cause of action without linking it to negligence or intentional harm",
+                "contract claims are conceded invalid due to statutory exclusivity",
+                "tort claims lack specificity regarding conspiracy, defamation, or other alleged wrongs"
+            ],
+            "result_of_case": [
+                "claim dismissed with opportunity for amendment",
+                "no costs awarded"
+            ],
+            "relevant_statute": [
+                "Public Service Employment Act"
+            ],
+            "standard_of_proof": [
+                "clearly articulate material facts and legal grounds for relief"
+            ],
+            "decision_conclusion": [
+                "statement of claim is struck out for failing to disclose a cause of action"
+            ]
+        }
+    ]
+}

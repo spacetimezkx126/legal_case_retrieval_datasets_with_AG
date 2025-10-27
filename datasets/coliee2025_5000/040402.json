@@ -1,0 +1,32 @@
+{
+    "Case ID": "040402",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 79(2)",
+                "IRPA s. 80",
+                "IRPA s. 113(d)(ii)"
+            ],
+            "procedural_fairness": [
+                "errors in law and fact",
+                "relied on a quashed court decision",
+                "classified information without supporting documents",
+                "ignored relevant factors"
+            ],
+            "decision_reasoning": [
+                "refused based on perceived national security risks",
+                "despite torture risks in Egypt"
+            ],
+            "result_of_case": [
+                "decision was not lawfully made",
+                "requiring reconsideration by the Minister"
+            ],
+            "court_ruling": [
+                "court quashed the decision",
+                "suspended proceedings until the Minister reconsiders the application"
+            ]
+        }
+    ]
+}

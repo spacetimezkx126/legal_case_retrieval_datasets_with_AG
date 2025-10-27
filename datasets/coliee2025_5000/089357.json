@@ -1,0 +1,30 @@
+{
+    "Case ID": "089357",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "documentary_evidence": [
+                "insufficient identity evidence",
+                "photocopies",
+                "original birth certificate"
+            ],
+            "evidence_assessment": [
+                "ignored relevant evidence"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "set aside and remitted for reconsideration"
+            ],
+            "burden_of_proof": [
+                "doubts about identity"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "049905",
+    "Different Crime": [
+        {
+            "Crime Name": "Environmental Violation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Environmental Protection Act (CEPA)",
+                "Vessel Pollution Regulations",
+                "International Convention on the Control of Harmful Anti-fouling Systems on Ships"
+            ],
+            "cause_of_action": [
+                "Judicial review of Minister's decision to issue Disposal at Sea Permit"
+            ],
+            "evidence_assessment": [
+                "Scientific opinions on TBT risks",
+                "Compliance with Clean-up Standard"
+            ],
+            "decision_reasoning": [
+                "Minister's decision not unreasonable",
+                "No complete ban on TBTs under CEPA or Vessel Pollution Regulations"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "Costs awarded to Respondents"
+            ],
+            "relevant_statute": [
+                "Canadian Environmental Protection Act (CEPA)"
+            ]
+        }
+    ]
+}

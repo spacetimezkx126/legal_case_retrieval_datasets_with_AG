@@ -1,0 +1,59 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Construction dispute",
+            "Legal_Issue": "Nexus between fear and Convention ground",
+            "Governing_Law": "Refugee Protection Division (RPD) rules, Immigration and Refugee Protection Act",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Perjury",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Construction dispute",
+            "Legal_Issue": "Link between fear of persecution and Convention ground",
+            "Governing_Law": "Immigration and Refugee Protection Act, Refugee Protection Division Rules",
+            "Procedural_Stage": "Judicial review",
+            "Evidence_Assessment": "Risks deemed speculative due to lack of evidence"
+        },
+        {
+            "Crime_Name": "Corruption",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Construction dispute",
+            "Legal_Provision_Involved": "Convention grounds for refugee protection",
+            "Outcome": "Application for judicial review dismissed",
+            "Grounds_for_Claim": "Fear of persecution over business dispute",
+            "Nature_of_Participation": "Principal applicant involved in construction project"
+        },
+        {
+            "Crime_Name": "Fraud",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Construction dispute",
+            "Legal_Issue": "Nexus between individual actions and protected group",
+            "Governing_Law": "Refugee Protection Division (RPD) rules",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Misrepresentation of basis for refugee claim",
+            "Legal_Issue": "Lack of nexus to Convention ground",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Applicant's role in construction dispute not linked to protected group",
+            "Decision_Outcome": "Judicial review dismissed"
+        },
+        {
+            "Crime_Name": "Money Laundering",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Construction dispute",
+            "Legal_Issue": "Existence of nexus to Convention ground",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial review",
+            "Evidence_Assessment": "Fear based on individual actions, not group membership"
+        }
+    ]
+}

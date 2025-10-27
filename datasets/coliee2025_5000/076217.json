@@ -1,0 +1,38 @@
+{
+    "Case ID": "076217",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_proof": [
+                "good grounds",
+                "reasonable chance"
+            ],
+            "state_protection": [
+                "capability unless proven otherwise"
+            ],
+            "decision_reasoning": [
+                "failed to clarify the standard of proof",
+                "inadequately analyzing changes in circumstances",
+                "incorrectly concluding on state protection"
+            ],
+            "application_details": [
+                "doubted the father's fear of persecution post-coup",
+                "used unclear language ('highly doubt')",
+                "evidence on Pakistan's new government was limited",
+                "state protection analysis relied on insufficient data"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "case referred back to CRDD for redetermination"
+            ],
+            "refugee_status": [
+                "claimed refugee status due to persecution fears in Pakistan"
+            ],
+            "procedure_followed": [
+                "judicial review application under Immigration Act",
+                "Federal Court assessed CRDD decision"
+            ]
+        }
+    ]
+}

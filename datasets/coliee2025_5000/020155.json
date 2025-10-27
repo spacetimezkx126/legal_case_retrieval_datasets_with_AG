@@ -1,0 +1,59 @@
+{
+    "Case ID": "020155",
+    "Different Crime": [
+        {
+            "Crime Name": "Suspected involvement in combat leading to inadmissibility to Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)",
+                "Rule 17"
+            ],
+            "procedural_fairness": [
+                "violating procedural fairness",
+                "adequacy of reasons"
+            ],
+            "credibility_assessment": [
+                "perceived lack of credibility",
+                "contradictions between statements"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "critical documents missing"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "reevaluation required"
+            ],
+            "misrepresentation_or_fraud": [
+                "discrepancies in statements"
+            ]
+        },
+        {
+            "Crime Name": "Material misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "not given access to relevant materials"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)",
+                "section 16",
+                "Rule 17(b) of the Federal Courts Rules"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "visa officer's decision set aside"
+            ],
+            "evidence_provided": [
+                "contradictions with applicant's wife's statements",
+                "lack of disclosure of interview notes"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "alleged untruthfulness"
+            ]
+        }
+    ]
+}

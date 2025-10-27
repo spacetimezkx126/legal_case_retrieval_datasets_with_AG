@@ -1,0 +1,59 @@
+{
+    "Case ID": "086109",
+    "Crimes": [
+        {
+            "Crime_Name": "Aggravated Assault",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Refugee claim based on persecution",
+            "Legal_Issue": "Reasonableness of credibility findings",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review of Refugee Protection Division decision",
+            "Evidence_Assessment": "Board questioned inconsistencies in testimony, lack of media reports, medical records, and lawyer's letter; explanations provided but ignored"
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Sexual violence",
+            "Perpetrator_Type": "Government official",
+            "Victim_Status": "Applicants seeking refugee status",
+            "Location_of_Incident": "Mexico",
+            "Threat_Source": "Government official after assault and threats"
+        },
+        {
+            "Crime_Name": "Threatening Death or Bodily Harm",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Threats of violence",
+            "Perpetrator_Type": "Government official",
+            "Victim_Status": "Applicants claiming persecution",
+            "Location_of_Incident": "Mexico",
+            "Threat_Source": "Mexican government official following resistance to advances"
+        },
+        {
+            "Crime_Name": "Stalking",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Persistent harassment and threats",
+            "Perpetrator_Type": "Government official",
+            "Victim_Status": "Applicants fleeing persecution",
+            "Location_of_Incident": "Mexico",
+            "Threat_Source": "Official after applicants resisted his advances"
+        },
+        {
+            "Crime_Name": "Vandalism",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Refugee claim due to property damage and threats",
+            "Legal_Issue": "Credibility assessment of claims involving vandalism",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Federal Court judicial review",
+            "Evidence_Assessment": "Board made speculative assumptions about media coverage and dismissed documents without justification"
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Credibility issues affecting refugee claim",
+            "Legal_Issue": "Unreasonable credibility findings by the Board",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Applicants claimed persecution by a government official in Mexico",
+            "Decision_Outcome": "Board rejected claim based on credibility"
+        }
+    ]
+}

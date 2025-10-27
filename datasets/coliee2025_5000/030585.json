@@ -1,0 +1,37 @@
+{
+    "Case ID": "030585",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s.96"
+            ],
+            "credibility_findings": [
+                "inconsistencies",
+                "lack of evidence"
+            ],
+            "risk_of_persecution": [
+                "no persecution for desertion"
+            ],
+            "specific_group_membership": [
+                "conscientious objector"
+            ],
+            "evidence_assessment": [
+                "speculative claims"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "race, religion, nationality, social group, political opinion"
+            ],
+            "standard_of_proof": [
+                "genuine conscientious objector"
+            ]
+        }
+    ]
+}

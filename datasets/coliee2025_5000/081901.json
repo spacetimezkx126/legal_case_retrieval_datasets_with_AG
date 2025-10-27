@@ -1,0 +1,51 @@
+{
+    "Case ID": "081901",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breached"
+            ],
+            "evidence_assessment": [
+                "ignored relevant evidence",
+                "perceived inconsistencies"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remitted for redetermination"
+            ],
+            "credibility_assessment": [
+                "lack of credibility"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Duty of Fairness",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "officer did not notify applicants or request additional corroborating documents"
+            ],
+            "decision_reasoning": [
+                "breach of duty of fairness",
+                "unreasonable decision"
+            ],
+            "application_details": [
+                "work permit applications denied"
+            ],
+            "procedure_followed": [
+                "judicial review application under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "matter remitted for redetermination",
+                "no costs awarded"
+            ]
+        }
+    ]
+}

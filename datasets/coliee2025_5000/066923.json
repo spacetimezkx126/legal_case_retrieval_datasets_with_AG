@@ -1,0 +1,59 @@
+{
+    "Case ID": "066923",
+    "Different Crime": [
+        {
+            "Crime Name": "Breaching immigration laws",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 71 of IRPA",
+                "section 55 of Refugee Protection Division Rules"
+            ],
+            "procedural_fairness": [
+                "natural justice"
+            ],
+            "refugee_status_eligibility": [
+                "exclusion from refugee status"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "advised to pursue humanitarian and compassionate grounds under section 25 of IRPA"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant's criminal convictions led to deportation orders"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Section 71 of IRPA"
+            ],
+            "procedural_fairness": [
+                "breaches of natural justice principles"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA Section 71"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_considered": [
+                "new evidence (pardon)"
+            ],
+            "refugee_status": [
+                "denied"
+            ],
+            "deportation_order": [
+                "issued"
+            ]
+        }
+    ]
+}

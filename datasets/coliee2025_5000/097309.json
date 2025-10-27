@@ -1,0 +1,27 @@
+{
+    "Case ID": "097309",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Provide Adequate Reasons for Citizenship Decision",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 14(2) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act"
+            ],
+            "procedural_fairness": [
+                "adequate reasons for approving citizenship application",
+                "statutory requirement for reasons"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case referred back to judge"
+            ],
+            "residency_requirements": [
+                "not meeting residency requirements"
+            ],
+            "document_authenticity": [
+                "failing to submit expired passports"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "058909",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act",
+                "Sections 19, 23, and 25"
+            ],
+            "cause_of_action": [
+                "denied access citing exemptions under the Access to Information Act"
+            ],
+            "procedure_followed": [
+                "Judicial review initiated after complaints to the Information Commissioner. Court reviewed documents and legal arguments"
+            ],
+            "decision_reasoning": [
+                "Main Record: The Senior Public Rights Administrator incorrectly applied Section 19(2). Secret Record: Most pages were exempt under Sections 19 and 23 due to personal information or solicitor-client privilege"
+            ],
+            "result_of_case": [
+                "Court ordered reevaluation of Main Record and upheld nondisclosure of most Secret Record pages while dismissing claims on irrelevant pages."
+            ],
+            "conclusion_outcome": [
+                "Main Record must be redetermined by a different official. Secret Record's nondisclosure upheld for privileged/personal information pages"
+            ]
+        }
+    ]
+}

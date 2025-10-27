@@ -1,0 +1,37 @@
+{
+    "Case ID": "043267",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Parole Act",
+                "Penitentiary Act"
+            ],
+            "procedural_fairness": [
+                "15-day notice period",
+                "strict compliance with procedural timelines"
+            ],
+            "decision_reasoning": [
+                "non-compliance with the 15-day notice period",
+                "provisions regulate supervision conditions, not penalties"
+            ],
+            "precedent_cited": [
+                "Milner",
+                "Shubley"
+            ],
+            "conclusion_outcome": [
+                "application dismissed",
+                "Parole Board retains jurisdiction"
+            ],
+            "procedure_followed": [
+                "oral arguments",
+                "reliance on precedent cases"
+            ],
+            "result_of_case": [
+                "applicant must appear before the Parole Board",
+                "automatic release denied"
+            ]
+        }
+    ]
+}

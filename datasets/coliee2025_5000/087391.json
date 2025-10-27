@@ -1,0 +1,35 @@
+{
+    "Case ID": "087391",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 11.1(b) of the Immigration Regulations"
+            ],
+            "procedural_fairness": [
+                "interview for self-employed applicants",
+                "not granting an interview"
+            ],
+            "evidence_assessment": [
+                "lack of formal business experience",
+                "insufficient financial assets"
+            ],
+            "decision_reasoning": [
+                "overemphasizing past business experience",
+                "not conducting interviews"
+            ],
+            "application_details": [
+                "intended to be self-employed in cultural fields"
+            ],
+            "result_of_case": [
+                "applications allowed",
+                "matters sent back for reconsideration"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "court found procedural errors"
+            ]
+        }
+    ]
+}

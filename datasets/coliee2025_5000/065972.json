@@ -1,0 +1,45 @@
+{
+    "Case ID": "065972",
+    "Different Crime": [
+        {
+            "Crime Name": "No finding of criminality required for inadmissibility determination",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 37(1)(b) of IRPA"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissibility determination without criminal finding"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "Federal Court review"
+            ],
+            "regulatory_compliance": [
+                "comparison with sections 36(1) or (2) of IRPA"
+            ]
+        },
+        {
+            "Crime Name": "People smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Section 117 of IRPA",
+                "Section 37(1)(b) of IRPA"
+            ],
+            "evidence_assessment": [
+                "Lacked evidence of interception on high seas"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed materials, heard arguments"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Question certified for further consideration"
+            ],
+            "burden_of_proof": [
+                "Inadmissibility determinations without a criminality finding"
+            ]
+        }
+    ]
+}

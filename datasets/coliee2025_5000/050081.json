@@ -1,0 +1,92 @@
+{
+    "Case ID": "050081",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_assessment": [
+                "potential risk to national security",
+                "likelihood of absconding"
+            ],
+            "evidence_assessment": [
+                "involvement in document forgery",
+                "connections with extremist groups",
+                "lack of evidence showing current threat"
+            ],
+            "procedural_fairness": [
+                "multiple hearings, reviews, and appeals",
+                "challenges to procedural fairness and constitutional issues"
+            ],
+            "decision_outcome": [
+                "released under stringent conditions"
+            ],
+            "criminality_inadmissibility": [
+                "suspected ties with extremist groups",
+                "activities involving false documents"
+            ]
+        },
+        {
+            "Crime Name": "Engagement in an International Document Forgery Ring",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_of_persecution": [],
+            "country_conditions": [],
+            "documentary_evidence": [
+                "past involvement with document forgery and extremist associations"
+            ],
+            "decision_outcome": [
+                "release under strict supervision"
+            ],
+            "specific_threats": [
+                "danger to national security",
+                "being likely to abscond"
+            ]
+        },
+        {
+            "Crime Name": "Possession of False Identity Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_to_national_security": [
+                "procuring false documents",
+                "associating with extremist groups"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe",
+                "objective basis on compelling and credible information"
+            ],
+            "evidence_quality": [
+                "expert testimony questions relevance of connections"
+            ],
+            "decision_outcome": [
+                "released under strict conditions"
+            ],
+            "release_conditions": [
+                "surveillance",
+                "restrictions on movement and communication"
+            ],
+            "balance_of_interests": [
+                "balancing national security concerns with individual rights"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "judicial_review_result": [
+                "Federal Court reviewed evidence from both open and closed sessions"
+            ],
+            "impact_of_delay_or_conditions": [
+                "prolonged detention suggests diminished threat over time"
+            ],
+            "involvement_details": [
+                "alleged ties to extremist groups",
+                "involvement in document forgery"
+            ]
+        }
+    ]
+}

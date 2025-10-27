@@ -1,0 +1,31 @@
+{
+    "Case ID": "053226",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "minor inconsistencies",
+                "psychological state",
+                "cultural context",
+                "explainable omissions"
+            ],
+            "refugee_status_eligibility": [
+                "denied",
+                "reconsideration required"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed",
+                "case referred to a new panel"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "legal standards for credibility assessments"
+            ],
+            "evidence_assessment": [
+                "core claim of persecution supported by evidence"
+            ]
+        }
+    ]
+}

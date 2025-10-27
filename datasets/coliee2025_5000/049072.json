@@ -1,0 +1,103 @@
+{
+    "Case ID": "049072",
+    "Different Crime": [
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "lack of Convention grounds"
+            ],
+            "state_protection": [
+                "presumed state protection",
+                "inadequately assessed state protection efforts"
+            ],
+            "reasonableness_standard": [
+                "Decisions by the RPD are reviewed for reasonableness"
+            ],
+            "individualized_inquiry": [
+                "failed to conduct an individualized inquiry into her risk and state protection"
+            ],
+            "gender_based_violence": [
+                "erred in dismissing gender-based violence"
+            ],
+            "appeal_outcome": [
+                "judicial review application succeeds",
+                "ordered redetermination by a different panel"
+            ],
+            "decision_outcome": [
+                "Court granted judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "gender_related_persecution_guidelines": [
+                "sexual assault is generally considered gender-based"
+            ],
+            "state_protection_analysis": [
+                "state protection must be analyzed individually for each applicant"
+            ],
+            "reasonableness_of_decision": [
+                "standard of review for RPD decisions is reasonableness"
+            ],
+            "specific_threats_or_incidents": [
+                "minor female applicant was sexually assaulted by a gang member"
+            ],
+            "nexus_to_convention_grounds": [
+                "risk and conflating her claim with others",
+                "not adequately assessed as gender-based violence"
+            ],
+            "evidence_consideration": [
+                "Evidence of high sexual violence rates against women in Saint Vincent was overlooked"
+            ],
+            "child_best_interests": [
+                "minor's claim"
+            ],
+            "humanitarian_concerns": [
+                "judicial review granted; case referred to a different panel for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "RPD decision reviewed for reasonableness"
+            ],
+            "state_protection_analysis": [
+                "Inadequate analysis of state protection efforts",
+                "Conflation of individual claims with generalized context"
+            ],
+            "judicial_review_result": [
+                "Judicial review application succeeds",
+                "Matter referred back for redetermination by a different panel"
+            ],
+            "refugee_status_claim": [
+                "Refusal of refugee claims based on lack of Convention grounds"
+            ],
+            "reasoning_given": [
+                "Errors in legal reasoning and factual analysis identified"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Adequate State Protection",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "inadequate operational state protection"
+            ],
+            "risk_analysis": [
+                "individualized risk assessment required",
+                "gender-based violence analysis missing"
+            ],
+            "refugee_definition": [
+                "Convention Refugees qualification"
+            ],
+            "judicial_review_process": [
+                "errors in applying guidelines",
+                "reassessment ordered by new panel"
+            ],
+            "decision_outcome": [
+                "application for judicial review succeeds"
+            ]
+        }
+    ]
+}

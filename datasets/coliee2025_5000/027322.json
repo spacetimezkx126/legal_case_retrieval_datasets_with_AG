@@ -1,0 +1,61 @@
+{
+    "Case ID": "027322",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA and Immigration and Refugee Protection Regulations",
+                "sections 73 and 78"
+            ],
+            "procedural_fairness": [
+                "Judicial review of visa officer's decision"
+            ],
+            "standard_of_proof": [
+                "analysis of statutory interpretation and regulatory intent"
+            ],
+            "reasonableness_of_decision": [
+                "visa officer's decision was set aside due to an error in law"
+            ],
+            "immigration_status": [
+                "Federal Skilled Worker application"
+            ],
+            "applicant_characteristics": [
+                "possessed three degrees"
+            ],
+            "evidence_consideration": [
+                "Dispute over point allocation for education credentials"
+            ]
+        },
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA",
+                "Immigration and Refugee Protection Regulations",
+                "sections 73 and 78"
+            ],
+            "procedural_fairness": [
+                "Judicial review of visa officer's decision"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case referred back for re-determination by a different officer"
+            ],
+            "applicable_laws": [
+                "Regulations under IRPA",
+                "Immigration and Refugee Protection Regulations",
+                "s. 78(2)(f)"
+            ],
+            "standard_of_review": [
+                "analysis of statutory interpretation and regulatory intent"
+            ],
+            "immigration_status": [
+                "Federal Skilled Worker application"
+            ],
+            "evidence_considered": [
+                "Applicant possessed three degrees but was awarded only 22 points instead of 25"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "015764",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canada Pension Plan benefits",
+                "disability pension eligibility"
+            ],
+            "decision_reasoning": [
+                "incorrect test application",
+                "unreasonable determination"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "redetermination opportunity"
+            ],
+            "evidence_assessment": [
+                "no new evidence",
+                "no legal error presented"
+            ],
+            "application_details": [
+                "Pensions Appeal Board’s decision",
+                "denial of benefits and reconsideration"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "case remitted for reevaluation"
+            ]
+        }
+    ]
+}

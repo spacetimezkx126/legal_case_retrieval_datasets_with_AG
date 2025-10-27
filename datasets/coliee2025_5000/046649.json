@@ -1,0 +1,110 @@
+{
+    "Case ID": "046649",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "discrepancies in knowledge, finances, and communications"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage not genuine and entered into primarily for immigration purposes"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "discrepancies in knowledge",
+                "limited financial interdependence",
+                "emails focused on immigration"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "reasonable, justified, transparent, and intelligible"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "suspected marriage fraud"
+            ],
+            "nature_of_offense": [
+                "marriage not genuine and entered into primarily for acquiring status"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IAD decision in Federal Court, assessing reasonableness of findings"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "justified",
+                "transparent",
+                "intelligible"
+            ],
+            "evidence_consideration": [
+                "discrepancies in knowledge",
+                "limited financial interdependence",
+                "emails focused on immigration"
+            ],
+            "applicant_involvement": [
+                "normal relationship progression",
+                "misstated facts"
+            ],
+            "immigration_status": [
+                "visa refused",
+                "suspected marriage fraud"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IAD decision in Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "credibility_findings": [
+                "discrepancies in knowledge",
+                "limited financial interdependence",
+                "emails focused on immigration"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "IAD's decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "claimant_burden": [
+                "to prove marriage is genuine and not primarily for immigration purposes"
+            ],
+            "court_ruling": [
+                "IAD's decision was reasonable, justified, transparent, and intelligible"
+            ]
+        }
+    ]
+}

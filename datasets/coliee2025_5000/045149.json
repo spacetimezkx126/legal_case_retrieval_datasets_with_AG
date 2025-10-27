@@ -1,0 +1,81 @@
+{
+    "Case ID": "045149",
+    "Different Crime": [
+        {
+            "Crime Name": "Disguised extradition allegations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Deportation is legitimate if aimed at public good; disguised extradition requires heavy proof of improper purpose."
+            ],
+            "evidence_assessment": [
+                "No evidence supports the claim of collusion between Canadian and U.S. authorities."
+            ],
+            "decision_outcome": [
+                "Motion dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant accused of U.S. crimes"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed bias, compelled testimony, and disguised extradition claims"
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)",
+                "Section 7 of the Charter"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "alleged bias"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "party_involved": [
+                "applicant",
+                "immigration board member"
+            ],
+            "claim_nature": [
+                "compelled testimony",
+                "disguised extradition",
+                "self-incrimination"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "serious_criminality": [
+                "U.S. fraud convictions"
+            ]
+        },
+        {
+            "Crime Name": "Compelling testimony concerns under Charter rights",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)",
+                "Section 7 of the Charter"
+            ],
+            "cause_of_action": [
+                "fears testifying in Canadian immigration hearings might incriminate them further"
+            ],
+            "procedure_followed": [
+                "sought a judicial stay of proceedings",
+                "arguing potential Charter violations",
+                "court analyzed issues of bias, compelled testimony, and disguised extradition"
+            ],
+            "decision_reasoning": [
+                "application is premature as no decision has been made by the Board member to compel testimony",
+                "declines to preemptively review this issue"
+            ],
+            "result_of_case": [
+                "motion was dismissed",
+                "found no serious issue to try and deemed the application premature"
+            ]
+        }
+    ]
+}

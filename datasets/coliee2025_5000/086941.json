@@ -1,0 +1,73 @@
+{
+    "Case ID": "086941",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to declare dependent under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient hardship evidence",
+                "errors in assessing education and establishment factors"
+            ],
+            "immigration_status": [
+                "not declared as a dependent in 1995"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "matter remitted for reconsideration by a different officer"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "misapprehension of evidence regarding education and establishment"
+            ]
+        },
+        {
+            "Crime Name": "Inland exemption application misinterpretation",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [
+                "H&C factors globally",
+                "best interests of the child"
+            ],
+            "decision_reasoning": [
+                "misinterpreted evidence",
+                "failed to provide adequate reasons regarding establishment"
+            ],
+            "application_details": [
+                "applicant's father neglected to declare him",
+                "applied for an inland exemption on H&C grounds"
+            ],
+            "court_ruling": [
+                "Federal Court granted judicial review"
+            ],
+            "result_of_case": [
+                "remanded for reconsideration by a different officer"
+            ],
+            "procedure_followed": [
+                "Judicial review was sought and granted"
+            ]
+        },
+        {
+            "Crime Name": "Immigration officer decision unreasonable",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "humanitarian_and_compassionate_grounds": [
+                "misapprehended evidence",
+                "underestimated hardships",
+                "inadequately justified conclusions"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable aspects in the decision"
+            ],
+            "judicial_review_process": [
+                "judicial review application filed",
+                "Federal Court analyzed legal tests and evidence assessment"
+            ],
+            "administrative_error": [
+                "errors in reasoning and evidence consideration"
+            ],
+            "burden_of_proof": [
+                "officer must consider all factors globally"
+            ]
+        }
+    ]
+}

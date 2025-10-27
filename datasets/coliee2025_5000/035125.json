@@ -1,0 +1,54 @@
+{
+    "Case ID": "035125",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "insufficient evidence to rebut the presumption of state protection"
+            ],
+            "evidence_assessment": [
+                "failed to provide sufficient objective evidence"
+            ],
+            "risk_assessment": [
+                "fear of ex-boyfriend in Russia"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "procedural_fairness": [
+                "PRRA officer's decision was reasonable based on the evidence presented"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "insufficient evidence to rebut the presumption of state protection"
+            ],
+            "risk_assessment": [
+                "former boyfriend no longer posed a threat",
+                "ongoing risk"
+            ],
+            "evidence_consideration": [
+                "clear and convincing evidence required",
+                "insufficient evidence of ongoing threat or lack of state protection"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "specific_threats_or_incidents": [
+                "fear of harm from ex-boyfriend upon return to Russia"
+            ],
+            "country_conditions": [
+                "available legal protections in Russia"
+            ],
+            "reasonableness_of_decision": [
+                "decision upheld as reasonable based on the evidence provided"
+            ]
+        }
+    ]
+}

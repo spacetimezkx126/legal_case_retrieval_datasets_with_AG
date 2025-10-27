@@ -1,0 +1,27 @@
+{
+    "Case ID": "002823",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "procedurally fair",
+                "based on relevant considerations",
+                "properly exercised discretion"
+            ],
+            "regulatory_compliance": [
+                "applications are incomplete without prescribed fees",
+                "assessed under regulations in effect at lock-in date",
+                "resubmitted application post-regulation change was assessed under new rules"
+            ],
+            "decision_outcome": [
+                "Judicial review application dismissed",
+                "upholding visa officer's decision as fair and lawful"
+            ],
+            "immigration_status": [
+                "initial application returned due to missing fee",
+                "resubmitted application assessed under updated regulations resulted in rejection"
+            ]
+        }
+    ]
+}

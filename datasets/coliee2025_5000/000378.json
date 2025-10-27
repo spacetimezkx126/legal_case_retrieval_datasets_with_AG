@@ -1,0 +1,53 @@
+{
+    "Case ID": "000378",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "standard of review for identity document assessments is patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "violated procedural fairness"
+            ],
+            "identity_verification": [
+                "inconsistencies in the applicant's mother's birthday, Hukou, and work record"
+            ],
+            "evidence_assessment": [
+                "deeming his RIC fraudulent without forensic testing or allowing explanation"
+            ],
+            "decision_outcome": [
+                "IRB's decision was set aside"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Identity document fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "opportunity to explain contradictions"
+            ],
+            "identity_documents": [
+                "RIC",
+                "Card (original) checked, OK"
+            ],
+            "expert_testimony": [
+                "forensic tests not conducted"
+            ],
+            "decision_outcome": [
+                "set aside for reconsideration"
+            ],
+            "appeal_outcome": [
+                "IRB's decision overturned"
+            ],
+            "cause_of_action": [
+                "refugee claim denied due to alleged inconsistencies and fraudulent RIC"
+            ]
+        }
+    ]
+}

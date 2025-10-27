@@ -1,0 +1,34 @@
+{
+    "Case ID": "022006",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "patent_validity": [
+                "obvious chemical equivalent"
+            ],
+            "expert_testimony": [
+                "Experts disagree on whether this constitutes an obvious chemical equivalent"
+            ],
+            "applicable_statute": [
+                "Claim 6 of the Abbott Patent covers obvious chemical equivalents"
+            ],
+            "evidence_provided": [
+                "solubility data from the Merck Index",
+                "expert affidavits"
+            ],
+            "decision_outcome": [
+                "The application was granted, prohibiting Nu-Pharm from receiving a Notice of Compliance until the patent expires"
+            ],
+            "cause_of_action": [
+                "Abbott sought to prevent Nu-Pharm from marketing terazosin hydrochloride dihydrate before the patent expiration"
+            ],
+            "nature_of_offense": [
+                "generic manufacturer cannot market a drug if it infringes on a valid patent"
+            ]
+        }
+    ]
+}

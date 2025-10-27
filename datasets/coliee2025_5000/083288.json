@@ -1,0 +1,32 @@
+{
+    "Case ID": "083288",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Act",
+                "Charter rights"
+            ],
+            "procedural_fairness": [
+                "public interest standing criteria"
+            ],
+            "decision_reasoning": [
+                "serious justiciable issue",
+                "direct impact",
+                "genuine interest",
+                "no other reasonable way to bring the issue to court"
+            ],
+            "cause_of_action": [
+                "constitutionality of immigration laws"
+            ],
+            "procedure_followed": [
+                "Rule 419 motion to strike"
+            ],
+            "result_of_case": [
+                "plaintiff granted standing",
+                "motion dismissed"
+            ]
+        }
+    ]
+}

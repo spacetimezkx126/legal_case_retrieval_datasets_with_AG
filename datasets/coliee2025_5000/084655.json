@@ -1,0 +1,50 @@
+{
+    "Case ID": "084655",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act"
+            ],
+            "evidence_assessment": [
+                "confidentiality",
+                "financial harm"
+            ],
+            "decision_reasoning": [
+                "no evidence proving confidentiality or harm from disclosure"
+            ],
+            "application_details": [
+                "CFL's brief submitted to the government"
+            ],
+            "conclusion_outcome": [
+                "application dismissed"
+            ],
+            "procedure_followed": [
+                "CFL challenged the disclosure decision"
+            ],
+            "result_of_case": [
+                "expurgated brief can be disclosed",
+                "CFL lost the case"
+            ],
+            "cost_awards": [
+                "court ordered costs against CFL"
+            ],
+            "relevant_statute": [
+                "sections 20(1)(b), 20(1)(c), 25"
+            ],
+            "dispute_focus": [
+                "disclosure of CFL's brief"
+            ],
+            "court_ruling": [
+                "brief is not exempt from disclosure"
+            ],
+            "standard_of_proof": [
+                "no evidence provided by CFL"
+            ],
+            "decision_conclusion": [
+                "partial disclosure allowed"
+            ]
+        }
+    ]
+}

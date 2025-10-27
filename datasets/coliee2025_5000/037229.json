@@ -1,0 +1,27 @@
+{
+    "Case ID": "037229",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "overstayed visa"
+            ],
+            "decision_outcome": [
+                "denial of deferral",
+                "judicial review allowed",
+                "redetermination ordered"
+            ],
+            "risk_assessment": [
+                "insufficient new evidence of risk"
+            ],
+            "procedural_fairness": [
+                "unreasonable assumptions about judicial review timelines"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": []
+        }
+    ]
+}

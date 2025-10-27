@@ -1,0 +1,108 @@
+{
+    "Case ID": "087139",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding Material Facts in Refugee Claim",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Misrepresentation of travel dates",
+                "Omission of stay in Malaysia"
+            ],
+            "refugee_status_eligibility": [
+                "Vacated due to misrepresentation"
+            ],
+            "procedural_fairness": [
+                "Inadequate reasons and procedural fairness issues"
+            ],
+            "decision_outcome": [
+                "Decision vacated",
+                "Case remanded for reconsideration"
+            ],
+            "legal_basis": [
+                "IRPA s.109(1)"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA Section 109(1)",
+                "IRPA Section 109(2)"
+            ],
+            "evidence_consideration": [
+                "misrepresented travel dates",
+                "omitted stay in Malaysia"
+            ],
+            "reasonableness_of_decision": [
+                "conjecture-based reasoning",
+                "untainted evidence insufficient"
+            ],
+            "refugee_status_nexus": [
+                "revocation due to misrepresentation"
+            ],
+            "standard_of_proof": [
+                "sufficient evidence for original decision"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Drug-related_Crimes",
+            "refugee_status": [
+                "revoked due to misrepresentation"
+            ],
+            "legal_basis": [
+                "IRPA Section 109(1)",
+                "IRPA Section 109(2)"
+            ],
+            "evidence_sufficiency": [
+                "sufficient evidence justified the original decision",
+                "untainted evidence did not fully support the original decision"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for new determination"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA Section 109(1)",
+                "IRPA Section 109(2)"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA Section 109(1)",
+                "IRPA Section 109(2)"
+            ],
+            "decision_outcome": [
+                "Judicial review granted",
+                "case remanded for new determination"
+            ],
+            "evidence_considered": [
+                "misrepresented travel dates",
+                "omitted stay in Malaysia",
+                "false passport"
+            ],
+            "refugee_protection": [
+                "refugee status can be revoked",
+                "case referred back for fresh determination"
+            ],
+            "applicable_laws": [
+                "IRPA Section 109(1)",
+                "IRPA Section 109(2)"
+            ],
+            "claimant_burden": [
+                "untainted evidence did not fully support the original decision"
+            ],
+            "court_ruling": [
+                "judicial review is granted"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Case ID": "049992",
+    "Different Crime": [
+        {
+            "Crime Name": "Using a false name on official documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residence visa"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of a false name",
+                "contradictory statements"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "visa denied",
+                "judicial review denied"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

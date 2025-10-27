@@ -1,0 +1,76 @@
+{
+    "Case ID": "076964",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to declare criminal convictions",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "exclusion_reason": [
+                "Article 1(F)(b)"
+            ],
+            "legal_basis": [
+                "Convention regarding exclusion for serious non-political crimes"
+            ],
+            "evidence_assessment": [
+                "misinterpreted evidence"
+            ],
+            "decision_outcome": [
+                "exclusion finding set aside",
+                "partial success",
+                "denial of refugee status stood"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Customs smuggling",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "yes"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime under Article 1(F)(b) of the Convention"
+            ],
+            "decision_outcome": [
+                "exclusion set aside due to misinterpretation of evidence"
+            ],
+            "applicable_statute": [
+                "Article 1(F)(b) of the Convention"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "evidence_provided": [
+                "no debt owed to Romania"
+            ],
+            "standard_of_review": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1(F)(b) of the Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "decision_reasoning": [
+                "misinterpretation of evidence"
+            ],
+            "result_of_case": [
+                "exclusion set aside"
+            ],
+            "cause_of_action": [
+                "conviction for customs-related crimes"
+            ],
+            "procedure_followed": [
+                "judicial review"
+            ],
+            "court_ruling": [
+                "overturned exclusion under Article 1(F)(b)"
+            ]
+        }
+    ]
+}

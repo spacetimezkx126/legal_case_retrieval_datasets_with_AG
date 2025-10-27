@@ -1,0 +1,29 @@
+{
+    "Case ID": "016603",
+    "Different Crime": [
+        {
+            "Crime Name": "Asylum Application Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Section 97 of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "standard of review for procedural fairness is correctness"
+            ],
+            "decision_outcome": [
+                "asylum claim was rejected",
+                "court upheld the original rejection"
+            ],
+            "evidence_assessment": [
+                "primary motivation was economic",
+                "no credible fear of return"
+            ],
+            "review_standard": [
+                "correctness"
+            ],
+            "burden_of_proof": [
+                "lack of valid reasons under Section 97 criteria"
+            ]
+        }
+    ]
+}

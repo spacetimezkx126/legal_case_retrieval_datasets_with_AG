@@ -1,0 +1,54 @@
+{
+    "Case ID": "012443",
+    "Different Crime": [
+        {
+            "Crime Name": "Subversion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "NPFL"
+            ],
+            "involvement_details": [
+                "extensive participation in violent raids"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on evidence showing opportunities for escape and active participation"
+            ],
+            "admissibility_criteria": [
+                "IRPA s 34(1)(f)",
+                "IRPA s 35(1)(a)"
+            ],
+            "judicial_review_result": [
+                "Application dismissed"
+            ],
+            "decision_outcome": [
+                "inadmissible to Canada"
+            ],
+            "credibility_findings": [
+                "rejected claim of captivity and inability to escape"
+            ]
+        },
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "credibility_findings": [
+                "Complicity in atrocities",
+                "Rejected claim of duress"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "complicity_in_crimes": [
+                "Participated in NPFL raids over four years"
+            ],
+            "judicial_review_process": [
+                "Analyzed whether the Board ignored evidence and misapplied duress principles"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "085548",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Issue",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "documentary_evidence",
+                "evidence_assessment"
+            ],
+            "reasonableness_standard": [
+                "review_standard"
+            ],
+            "burden_of_proof": [
+                "standard_of_proof"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "legal_basis": [
+                "Immigration_and_Refugee_Protection_Act"
+            ],
+            "risk_of_persecution": [
+                "not_substantiated"
+            ]
+        }
+    ]
+}

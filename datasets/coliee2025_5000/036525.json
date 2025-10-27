@@ -1,0 +1,36 @@
+{
+    "Case ID": "036525",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "procedural_fairness": [
+                "assess credibility",
+                "provide adequate reasons",
+                "ensure procedural fairness"
+            ],
+            "evidence_assessment": [
+                "lack of credible evidence",
+                "reliance on country documentation",
+                "overlooked evidence",
+                "unclear reasoning"
+            ],
+            "decision_reasoning": [
+                "ignored key facts",
+                "failed to clarify contradictions"
+            ],
+            "result_of_case": [
+                "unreasonable decision",
+                "remanded for reconsideration by a different officer"
+            ],
+            "conclusion_outcome": [
+                "Court granted the application",
+                "quashed the decision",
+                "ordered reconsideration by another officer"
+            ]
+        }
+    ]
+}

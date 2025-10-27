@@ -1,0 +1,50 @@
+{
+    "Case ID": "034039",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Tax Claims",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Income Tax Act"
+            ],
+            "decision_outcome": [
+                "Mixed success; further cross-examination required"
+            ],
+            "procedural_fairness": [
+                "Concerns about adversarial relationships"
+            ],
+            "applicable_statute": [
+                "Jarvis"
+            ],
+            "party_involved": [
+                "Taxpayers",
+                "MNR"
+            ],
+            "claim_nature": [
+                "Challenge to the validity of information demand"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "compliance audits",
+                "search warrants"
+            ],
+            "procedural_fairness": [
+                "judicial review proceeding"
+            ],
+            "charter_rights_violation": [
+                "constitutional protections against self-incrimination"
+            ],
+            "decision_outcome": [
+                "mixed success",
+                "re-attendance for further cross-examination and production of certain documents"
+            ],
+            "reasoning_given": [
+                "concerns about the predominant purpose of the inquiry",
+                "potential misuse of audit powers during a criminal investigation"
+            ]
+        }
+    ]
+}

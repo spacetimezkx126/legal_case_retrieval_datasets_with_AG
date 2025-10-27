@@ -1,0 +1,62 @@
+{
+    "Case ID": "048667",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "violation",
+                "inadmissible evidence",
+                "mischaracterizing offenses"
+            ],
+            "evidence_consideration": [
+                "police reports of acquitted charges",
+                "unverified credibility"
+            ],
+            "legal_basis": [
+                "s. 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "risk_assessment": [
+                "focus on unproven allegations rather than actual crimes"
+            ],
+            "past_criminal_convictions": [
+                "acquitted charges",
+                "breach of probation conflated with sexual offenses"
+            ],
+            "reasonableness_of_decision": [
+                "decision set aside for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Failing to comply with probation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "admitting police reports of acquitted charges",
+                "mischaracterizing criminal offenses"
+            ],
+            "evidence_assessment": [
+                "police reports about acquitted charges",
+                "neither credible nor trustworthy"
+            ],
+            "decision_reasoning": [
+                "IAD conflated facts",
+                "affected decision-making"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "referred to another IAD member for re-determination"
+            ],
+            "standard_of_review": [
+                "judicial review application under s. 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "court_ruling": [
+                "application allowed",
+                "ordering a re-hearing"
+            ]
+        }
+    ]
+}

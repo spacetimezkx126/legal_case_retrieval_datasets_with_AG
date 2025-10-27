@@ -1,0 +1,51 @@
+{
+    "Case ID": "066987",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Canadian refugee law"
+            ],
+            "risk_of_persecution": [
+                "religion",
+                "nationality",
+                "political opinion",
+                "membership in a particular social group"
+            ],
+            "state_protection_analysis": [
+                "failed to prove state inability to protect"
+            ],
+            "reasonableness_standard": [
+                "decision was reasonable and not capricious"
+            ],
+            "documentary_evidence": [],
+            "specific_group_membership": [
+                "religion",
+                "nationality"
+            ],
+            "evidence_assessment": [
+                "faced discrimination",
+                "school bullying",
+                "stoning",
+                "military service objections"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "burden_of_proof": [
+                "no well-founded fear of persecution established"
+            ],
+            "inconsistencies_in_testimony": [],
+            "cumulative_persecution_effects": [],
+            "changed_country_conditions": [],
+            "social_group_membership": [
+                "religion",
+                "nationality"
+            ],
+            "personalized_risk_evaluation": [
+                "perceived persecution in Israel"
+            ]
+        }
+    ]
+}

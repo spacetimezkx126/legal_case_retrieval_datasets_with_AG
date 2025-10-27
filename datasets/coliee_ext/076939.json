@@ -1,0 +1,113 @@
+{
+    "Case ID": "076939",
+    "Crimes": [
+        {
+            "Crime_Name": "Membership in a terrorist organization",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "MQM-A linked to violence including murder and torture",
+            "Risk_Factor": "Membership in an organization engaged in terrorism",
+            "Nature_of_Acts": [
+                "Murder",
+                "Torture"
+            ],
+            "Target_Entity": null,
+            "Organization_Involved": "MQM-A",
+            "Admission_or_Involvement": "Applicant admitted membership",
+            "Individual_Behavior": "Affiliation with MQM-A",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "Active membership",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Applicant admission"
+            ],
+            "Key_Evidence_Issue": null,
+            "Evidence_Credibility": "Evidence considered credible by officer",
+            "Credibility_Factors": [
+                "Consistency of documentary evidence",
+                "Admission by applicant"
+            ],
+            "Credibility_Assessment": "Officer found evidence credible",
+            "Evidence_Issues": [],
+            "Standard_of_Proof": "Reasonable belief",
+            "Legal_Provision": "s. 34(1)(f) of the Immigration and Refugee Protection Act",
+            "Legal_Provision_Cited": "s. 34(1)(f)",
+            "Governing_Provision": "Immigration and Refugee Protection Act",
+            "Legal_Standard": "Reasonableness",
+            "Authority_Body": "Immigration Officer",
+            "Authority_Decision_Level": "Administrative decision",
+            "Decision_Level": "Inadmissibility determination",
+            "Authority_Decision": "Applicant inadmissible due to membership in terrorist organization",
+            "Decision_Outcome": "Inadmissible",
+            "Outcome": "Application for judicial review dismissed",
+            "Process": "Judicial review under s. 72 IRPA",
+            "Procedural_Element": "Review conducted under reasonableness standard",
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Dismissed",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        },
+        {
+            "Crime_Name": "Engaging in terrorism",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "MQM-A found to commit acts of terrorism including murder and torture",
+            "Risk_Factor": "Membership in organization engaging in terrorism",
+            "Nature_of_Acts": [
+                "Murder",
+                "Torture"
+            ],
+            "Target_Entity": null,
+            "Organization_Involved": "MQM-A",
+            "Admission_or_Involvement": "Applicant admitted membership",
+            "Individual_Behavior": "Affiliation with MQM-A",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "Active membership",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Applicant admission"
+            ],
+            "Key_Evidence_Issue": null,
+            "Evidence_Credibility": "Evidence considered credible by officer",
+            "Credibility_Factors": [
+                "Consistency of documentary evidence",
+                "Admission by applicant"
+            ],
+            "Credibility_Assessment": "Officer found evidence credible",
+            "Evidence_Issues": [],
+            "Standard_of_Proof": "Reasonable belief",
+            "Legal_Provision": "s. 34(1)(f) of the Immigration and Refugee Protection Act",
+            "Legal_Provision_Cited": "s. 34(1)(f)",
+            "Governing_Provision": "Immigration and Refugee Protection Act",
+            "Legal_Standard": "Reasonableness",
+            "Authority_Body": "Immigration Officer",
+            "Authority_Decision_Level": "Administrative decision",
+            "Decision_Level": "Inadmissibility determination",
+            "Authority_Decision": "Applicant inadmissible due to ties with terrorist organization",
+            "Decision_Outcome": "Inadmissible",
+            "Outcome": "Application for judicial review dismissed",
+            "Process": "Judicial review under s. 72 IRPA",
+            "Procedural_Element": "Review conducted under reasonableness standard",
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Dismissed",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        }
+    ]
+}

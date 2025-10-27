@@ -1,0 +1,40 @@
+{
+    "Case ID": "027543",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 6(5)(b) of the Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "procedure_followed": [
+                "motion challenging the Prothonotary’s dismissal",
+                "Federal Court reviewed the Prothonotary’s decision"
+            ],
+            "result_of_case": [
+                "Prothonotary’s dismissal was set aside",
+                "case remanded for further proceedings"
+            ],
+            "relevant_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "decision_reasoning": [
+                "Apotex's two-step procedure did not infringe the three-step patented process",
+                "expert evidence necessary to resolve disputes over patent construction"
+            ],
+            "application_details": [
+                "applicants sought to prohibit issuance of a compliance notice until patent expiration"
+            ],
+            "evidence_presented": [
+                "expert evidence regarding potential infringement"
+            ],
+            "appeal_outcome": [
+                "decision overturned on appeal",
+                "case should proceed to trial"
+            ]
+        }
+    ]
+}

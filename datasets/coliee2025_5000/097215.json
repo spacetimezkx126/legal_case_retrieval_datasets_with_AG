@@ -1,0 +1,28 @@
+{
+    "Case ID": "097215",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of principles of natural justice",
+                "failure to consult with representative",
+                "ordering testimony without preparation"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "CRDD's decision overturned",
+                "case remanded for rehearing"
+            ],
+            "review_standard": [
+                "judicial review application"
+            ],
+            "burden_of_proof": [
+                "right to present case effectively"
+            ],
+            "inconsistencies_in_testimony": [
+                "unprepared testimony disrupted fair presentation of case"
+            ]
+        }
+    ]
+}

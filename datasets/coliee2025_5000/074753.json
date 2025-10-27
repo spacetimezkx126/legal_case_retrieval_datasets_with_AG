@@ -1,0 +1,48 @@
+{
+    "Case ID": "074753",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "ineligible due to Article 1F(b) of the Refugee Convention"
+            ],
+            "criminality_inadmissibility": [
+                "serious crime conviction (murder abroad)"
+            ],
+            "decision_outcome": [
+                "exclusion from refugee protection"
+            ],
+            "standard_of_review": [
+                "judicial review of IRB decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Manslaughter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b)",
+                "IRPA sections 98, 101, 112"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes abroad"
+            ],
+            "decision_reasoning": [
+                "crime's seriousness",
+                "applicable law"
+            ],
+            "application_details": [
+                "convicted of manslaughter in Greece"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "relevant_statute": [
+                "Convention under Article 1F(b)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "043964",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Affidavits should not be struck unless they are abusive, irrelevant, or contain inadmissible evidence. Admissibility issues are better assessed by the trial judge."
+            ],
+            "evidence_assessment": [
+                "Admissibility issues are better assessed by the trial judge."
+            ],
+            "application_details": [
+                "The affidavits include collateral evidence and public documents, which may support the applicants' case."
+            ],
+            "decision_reasoning": [
+                "Striking them entirely would prematurely resolve complex admissibility questions."
+            ],
+            "procedure_followed": [
+                "Motion hearing where both parties argued the relevance and admissibility of affidavits in a judicial review context."
+            ],
+            "result_of_case": [
+                "Motion denied; trial judge will decide on admissibility without prejudice."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "Case ID": "006629",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "referred back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review under subsection 72(1)"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "party_involved": [
+                "Applicant",
+                "Board"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "state_protection": [
+                "perceived state protection"
+            ],
+            "internal_flight_alternative": [
+                "considered"
+            ],
+            "nexus_to_convention_grounds": [
+                "not established by Board"
+            ],
+            "persecution_details": [
+                "fear of persecution by Mexican police after refusing to transport drugs and reporting corruption"
+            ],
+            "risk_characterization": [
+                "immediate threat"
+            ],
+            "specific_targeting": [
+                " Applicant faced threats from corrupt police"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "presumed state protection",
+                "ignored severe immediate threats"
+            ],
+            "internal_flight_alternative": [
+                "viable IFA",
+                "lack of evidence for safer conditions elsewhere"
+            ],
+            "risk_assessment": [
+                "credible threats from police",
+                "risk of torture"
+            ],
+            "evidence_consideration": [
+                "Board's analysis ignored severe immediate threats"
+            ],
+            "refugee_status_nexus": [
+                "persecution linked to Convention grounds"
+            ],
+            "country_conditions": [
+                " Applicant fled Mexico"
+            ],
+            "specific_threats_or_incidents": [
+                "assaulted and threatened by police for refusing to transport drugs and reporting corruption"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping Attempt",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "refugee status claim denied due to lack of nexus, state protection, and internal flight alternative"
+            ],
+            "state_protection_analysis": [
+                "Board found adequate state protection; Federal Court disagreed citing credible evidence of corruption"
+            ],
+            "internal_flight_alternative": [
+                "Board found viable internal flight alternative; Federal Court disagreed"
+            ],
+            "judicial_review_result": [
+                "application for judicial review allowed; decision quashed and referred back for reconsideration"
+            ],
+            "reasonableness_of_decision": [
+                "Federal Court found Board's analysis unreasonable given immediate threat"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "risk_to_national_security": [],
+            "evidence_credibility": [
+                "credible evidence of corruption"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned by Federal Court"
+            ],
+            "court_ruling": [
+                "errors in reasoning and insufficient consideration of evidence cited by Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Threatening with a Weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "credible testimony"
+            ],
+            "procedural_fairness": [
+                "Judicial review",
+                "reasonableness and correctness standards"
+            ],
+            "risk_assessment": [
+                "immediacy of the threat"
+            ],
+            "state_protection": [
+                "inadequate state protection"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision quashed",
+                "referred back for reconsideration"
+            ],
+            "applicable_laws": [
+                "Convention grounds",
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "relevant_factors": [
+                "nexus to Convention grounds",
+                "internal flight alternative",
+                "ineffective state institutions"
+            ],
+            "refugee_protection": [
+                "fear of persecution"
+            ],
+            "security_concerns": [
+                "threats from police officers"
+            ],
+            "court_ruling": [
+                "Board erred",
+                "unreasonable decision"
+            ]
+        }
+    ]
+}

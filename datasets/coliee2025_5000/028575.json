@@ -1,0 +1,38 @@
+{
+    "Case ID": "028575",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "breach of statutory duty",
+                "contribution and indemnity"
+            ],
+            "relevant_statute": [
+                "Negligence Act",
+                "Section 8 of the Regulations"
+            ],
+            "application_details": [
+                "defendants argued Minister breached statutory duty",
+                "Crown contended breach of statute alone does not create tortious action"
+            ],
+            "decision_reasoning": [
+                "no cause of action under Section 8",
+                "not plain and obvious Negligence Act claim cannot succeed"
+            ],
+            "result_of_case": [
+                "motion to strike dismissed",
+                "claims under Section 8 dismissed",
+                "Negligence Act claim allowed to proceed"
+            ],
+            "procedure_followed": [
+                "Crown moved to strike third-party claims",
+                "Court analyzed applicability of statutes"
+            ],
+            "conclusion_outcome": [
+                "Negligence Act claim can proceed",
+                "Section 8 claims dismissed"
+            ]
+        }
+    ]
+}

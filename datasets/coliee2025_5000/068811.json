@@ -1,0 +1,65 @@
+{
+    "Case ID": "068811",
+    "Different Crime": [
+        {
+            "Crime Name": "Election Irregularities",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "standard of review is correctness for legal questions and reasonableness for factual findings"
+            ],
+            "evidence_consideration": [
+                "no evidence supporting claims of election irregularities and corruption"
+            ],
+            "risk_assessment": [],
+            "procedural_fairness": [
+                "Ms. Dumais appealed to the Appeal Committee, which dismissed her claims"
+            ],
+            "serious_issue": [],
+            "reasonableness_of_decision": [
+                "Appeal Committee's decision was reasonable based on available evidence"
+            ]
+        },
+        {
+            "Crime Name": "Election Irregularities",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "correctness for legal questions",
+                "reasonableness for factual findings"
+            ],
+            "evidence_sufficiency": [
+                "no evidence supporting claims"
+            ],
+            "decision_made_by": [
+                "Appeal Committee",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "appeal dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Election Irregularities",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "correctness for legal questions",
+                "reasonableness for factual findings"
+            ],
+            "evidence_considered": [
+                "election lists posting",
+                "corrupt practices"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "Judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Committee's conclusions based on available evidence"
+            ],
+            "appeal_process": [
+                "Appeal to the Appeal Committee",
+                "Judicial review in Federal Court"
+            ]
+        }
+    ]
+}

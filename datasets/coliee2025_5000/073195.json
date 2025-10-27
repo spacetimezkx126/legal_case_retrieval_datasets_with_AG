@@ -1,0 +1,29 @@
+{
+    "Case ID": "073195",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "three years of residence in Canada within four years"
+            ],
+            "decision_outcome": [
+                "Appeal allowed",
+                "eligible for Canadian citizenship"
+            ],
+            "evidence_assessment": [
+                "absent from Canada for 1,054 days",
+                "holding a Returning Resident Permit",
+                "maintaining ties in Canada"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "s. 5(1)(c)"
+            ],
+            "standard_of_review": [
+                "trial de novo"
+            ]
+        }
+    ]
+}

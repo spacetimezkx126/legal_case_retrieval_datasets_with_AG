@@ -1,0 +1,29 @@
+{
+    "Case ID": "033208",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "fear of persecution"
+            ],
+            "internal_flight_alternative": [
+                "no serious persecution risk",
+                "reasonable conditions for relocation"
+            ],
+            "evidence_assessment": [
+                "new evidence arising after rejection",
+                "previously unavailable evidence",
+                "mother’s case details"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "PRRA officer’s decision upheld"
+            ],
+            "procedural_fairness": [
+                "proper application of law",
+                "sufficient reasoning"
+            ]
+        }
+    ]
+}

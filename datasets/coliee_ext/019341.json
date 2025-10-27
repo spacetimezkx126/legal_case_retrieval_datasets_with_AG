@@ -1,0 +1,174 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to declare previous refusals",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": [],
+            "Legal_Issue": "Was the Board's decision to reject the applicants' claims based on credibility reasonably made?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court",
+            "Outcome": "Application for judicial review dismissed",
+            "Procedural_Context": "Judicial review of administrative decision",
+            "Credibility_Assessment": "Board questioned female applicant's credibility due to lack of supporting evidence and conflicting documents",
+            "Evidence_Type": [
+                "Conflicting documents",
+                "Inconclusive forensic report on IUD register"
+            ],
+            "Legal_Provision": "Section 97(1) of IRPA (basis for refugee claim)",
+            "Basis_of_Claim": "Forced abortion and potential sterilization under China's one-child policy",
+            "Evaluation_Standard": "Patent unreasonableness",
+            "Key_Factor_in_Determination": "Credibility of the applicant",
+            "Proceeding_Type": "Refugee protection proceeding",
+            "Decision_Maker": "Immigration and Refugee Board (IRB)",
+            "Regulation_Cited": "Immigration and Refugee Protection Regulations",
+            "Application_Error": "Failure to provide consistent or verifiable documentation",
+            "Review_Outcome": "Dismissed",
+            "Assessment_Standard": "Patent unreasonableness",
+            "Evidence_Ignored": [],
+            "Legal_Standard": "Patent unreasonableness standard applied by Federal Court",
+            "Application_Factor": "Inconsistencies in documentary evidence",
+            "Decision_Outcome": "Refugee claim rejected",
+            "Authority": "Immigration and Refugee Board of Canada",
+            "Decision_Review_Issue": "Reasonableness of credibility assessment",
+            "Standard_of_Review": "Patent unreasonableness",
+            "Governing_Rule_or_Provision": "Section 101(1)(a) and Section 96 of IRPA",
+            "Outcome_of_Review": "Board’s decision upheld",
+            "Cause_of_Refusal": "Lack of credibility in claims of forced abortion and sterilization",
+            "Legal_Provision_Cited": [
+                "IRPA s. 96",
+                "IRPA s. 101(1)(a)"
+            ],
+            "Evidentiary_Issues": [
+                "Conflicting evidence",
+                "Lack of corroborating documentation"
+            ],
+            "Procedural_Fairness": "Board allowed to weigh evidence; no procedural unfairness found",
+            "Document_Fraud": [],
+            "Credibility_Issues": [
+                "Inconsistent statements",
+                "Unverified medical documentation"
+            ],
+            "Legal_Defense_or_Challenge": "Applicants challenged reasonableness of Board’s decision",
+            "Jurisdictional_Focus": "Canada – Federal Court review of IRB decision",
+            "Relevant_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Standard of review in administrative law",
+            "Omission_Type": "Failure to disclose or substantiate prior claims/refusals",
+            "Grounds_for_Inadmissibility": []
+        },
+        {
+            "Crime_Name": "Overstaying visa",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Unauthorized stay beyond visa validity",
+            "Legal_Issue": "Was the Board's decision rejecting the applicants' refugee status based on credibility grounds patently unreasonable?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Applicants remained in Canada after expiration of authorized stay",
+            "Decision_Outcome": "Refugee claim rejected",
+            "Remedy_Requested": "Grant of refugee protection",
+            "Court_Ruling": "Application for judicial review dismissed",
+            "Claimant_Status": "Applicants claiming refugee status",
+            "Defendant_Behavior": "Remaining in Canada without valid immigration status",
+            "Grounds_for_Claim": "Fear of persecution in China due to one-child policy enforcement",
+            "Legal_Standard": "Patent unreasonableness",
+            "Assessment_Factor": "Credibility of claimed persecution",
+            "Applicable_Legislation": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Judicial review process",
+            "Review_Standard": "Patent unreasonableness",
+            "Credibility_Assessment": "Board found claims not credible due to lack of documentation and inconsistencies",
+            "Evidence_Used": [
+                "Personal testimony",
+                "Documentary evidence submitted"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA s. 96",
+                "IRPA s. 101(1)(a)"
+            ],
+            "Application_Basis": "Refugee protection claim based on past harm and future risk",
+            "Evidence_Assessed": "Conflicting evidence regarding forced abortion and sterilization",
+            "Relief_Sought": "Recognition as refugees and permanent resident status",
+            "Governing_Rule": "Section 96 and 101 of IRPA",
+            "Evidentiary_Deficiency": "Lack of independent verification of medical claims",
+            "Outcome": "Claim dismissed; application for review dismissed",
+            "Decisional_Body": "Immigration and Refugee Board",
+            "Harm_Assessment": "Alleged risk of forced sterilization if returned to China",
+            "Cause_Description": "Applicants claimed fear of persecution under China's one-child policy",
+            "Evidence_Handling": "Board weighed conflicting evidence and exercised discretion",
+            "Legal_Provision_Violated": "IRPA - unauthorized stay",
+            "Evidence_Issues": [
+                "Inconsistencies in testimony",
+                "Lack of corroboration"
+            ],
+            "Residency_Compliance": "Failed to maintain legal status",
+            "Misrepresentation_Element": [],
+            "Legal_Provision": "IRPA s. 123(1) – overstaying permit",
+            "Jurisdictional_Issue": "Federal jurisdiction over immigration matters",
+            "Evidence_Assessment": "Plausible reasoning used by Board in evaluating evidence",
+            "Decision_Rationale": "Credibility doubts undermined refugee claim",
+            "Country_of_Origin": "China",
+            "Decision_Making_Body": "Refugee Protection Division (IRB)",
+            "Evidentiary_Issues": [
+                "Insufficient proof of state action",
+                "Unverified documents"
+            ],
+            "Legal_Standard_Applied": "Patent unreasonableness"
+        },
+        {
+            "Crime_Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Refusal of work permit linked to refugee claim",
+            "Legal_Issue": "Was the Board's decision to deny refugee status based on credibility findings patently unreasonable?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court",
+            "Outcome": "Judicial review dismissed",
+            "Procedural_Context": "Appeal of refugee protection refusal",
+            "Credibility_Assessment": "Applicants’ claims of forced abortion and sterilization deemed not credible",
+            "Evidence_Type": [
+                "Medical records",
+                "Forensic report on IUD register",
+                "Personal affidavits"
+            ],
+            "Legal_Provision": "IRPA s. 96 – definition of Convention refugee",
+            "Basis_of_Claim": "Persecution due to opposition to China's one-child policy",
+            "Evaluation_Standard": "Credibility and plausibility of claims",
+            "Key_Factor_in_Determination": "Credibility of the applicants",
+            "Proceeding_Type": "Refugee hearing before IRB",
+            "Decision_Maker": "Immigration and Refugee Board",
+            "Regulation_Cited": "Immigration and Refugee Protection Regulations, Division 1",
+            "Application_Error": "Failure to substantiate key elements of claim with reliable evidence",
+            "Review_Outcome": "Application for judicial review dismissed",
+            "Assessment_Standard": "Patent unreasonableness",
+            "Evidence_Ignored": [],
+            "Legal_Standard": "Standard for assessing credibility in refugee claims",
+            "Application_Factor": "Inconsistencies between testimony and documentary evidence",
+            "Decision_Outcome": "Refugee status denied; work permit refused",
+            "Authority": "Immigration, Refugees and Citizenship Canada (IRCC)",
+            "Decision_Review_Issue": "Reasonableness of adverse credibility finding",
+            "Standard_of_Review": "Patent unreasonableness",
+            "Governing_Rule_or_Provision": "IRPA s. 96(1), s. 101(1)(a)",
+            "Outcome_of_Review": "Board’s decision upheld",
+            "Cause_of_Refusal": "Doubt about truthfulness of forced abortion and sterilization claims",
+            "Legal_Provision_Cited": [
+                "IRPA s. 96",
+                "IRPR r. 100(1)"
+            ],
+            "Evidentiary_Issues": [
+                "Inconclusive forensic analysis",
+                "Contradictory documentation"
+            ],
+            "Procedural_Fairness": "Applicants had opportunity to present evidence",
+            "Document_Fraud": [],
+            "Credibility_Issues": [
+                "Implausibility of medical claims",
+                "Lack of third-party verification"
+            ],
+            "Legal_Defense_or_Challenge": "Challenge to reasonableness of IRB’s factual findings",
+            "Jurisdictional_Focus": "Canadian federal immigration law",
+            "Relevant_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Weight given to evidence by administrative tribunal",
+            "Omission_Type": "Failure to provide credible supporting evidence",
+            "Grounds_for_Inadmissibility": []
+        }
+    ]
+}

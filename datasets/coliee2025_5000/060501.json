@@ -1,0 +1,33 @@
+{
+    "Case ID": "060501",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application Rejection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "Omar's medical condition",
+                "asthma severity"
+            ],
+            "legal_basis": [
+                "Section 25(1) of the Immigration and Refugee Protection Act",
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "inadequate assessment of Omar's asthma",
+                "minimized health issues"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision quashed",
+                "reconsideration by a different officer"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C application denial",
+                "health issues not properly considered"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        }
+    ]
+}

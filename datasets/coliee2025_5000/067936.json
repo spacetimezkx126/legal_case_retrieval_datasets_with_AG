@@ -1,0 +1,30 @@
+{
+    "Case ID": "067936",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "Regulations"
+            ],
+            "procedural_fairness": [
+                "reasonably deny",
+                "procedurally fair"
+            ],
+            "evidence_assessment": [
+                "discretion to assess evidence",
+                "disregard self-serving affidavits",
+                "insufficient evidence"
+            ],
+            "decision_reasoning": [
+                "failed to sufficiently establish",
+                "lacked corroborating evidence"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "no question of general importance certified"
+            ]
+        }
+    ]
+}

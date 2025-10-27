@@ -1,0 +1,27 @@
+{
+    "Case ID": "041451",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "violation of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "applicant did not receive email",
+                "officer ignored communications"
+            ],
+            "decision_reasoning": [
+                "failure to confirm receipt",
+                "lack of opportunity to respond"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "decision overturned",
+                "reconsideration by a different officer"
+            ]
+        }
+    ]
+}

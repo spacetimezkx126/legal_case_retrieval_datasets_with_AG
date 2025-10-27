@@ -1,0 +1,36 @@
+{
+    "Case ID": "069761",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Registration Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Section 12(1)(b) of the Trade-marks Act",
+                "Section 2 of the Trade-marks Act"
+            ],
+            "distinctiveness_evaluation": [
+                "deceptively misdescriptive",
+                "clearly descriptive",
+                "lacks distinctiveness"
+            ],
+            "technical_details": [
+                "ENGINEERING EXCELLENCE IS OUR HERITAGE",
+                "no Canadian engineers involved",
+                "global engineering employment"
+            ],
+            "evidence_provided": [
+                "Hearing Officer reviewed evidence",
+                "new evidence considered"
+            ],
+            "appeal_outcome": [
+                "Appeal dismissed"
+            ],
+            "cause_of_action": [
+                "Opposition by Canadian Council of Professional Engineers"
+            ],
+            "confusion_likelihood": [
+                "phrase dominates with 'ENGINEERING'"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Case ID": "030679",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.12(2)",
+                "IRPR s.76"
+            ],
+            "decision_outcome": [
+                "refusal"
+            ],
+            "reasonableness_standard": [
+                "unreasonable"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "appeal_outcome": [
+                "remitted for redetermination"
+            ],
+            "cause_of_action": [
+                "insufficient points"
+            ],
+            "nature_of_offense": [
+                "inadequate English proficiency"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "substantial settlement funds",
+                "supportive employer letter"
+            ],
+            "mitigating_factors": [
+                "substantial settlement funds",
+                "supportive employer letter"
+            ]
+        }
+    ]
+}

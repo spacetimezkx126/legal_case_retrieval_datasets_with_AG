@@ -1,0 +1,60 @@
+{
+    "Case ID": "002313",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Declare Previous Refusals unknown",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 225.2 of the Income Tax Act"
+            ],
+            "procedural_fairness": [
+                "ex parte application",
+                "review motion by respondents"
+            ],
+            "charter_rights": [
+                "unreasonable seizure",
+                "due process"
+            ],
+            "risk_assessment": [
+                "risk of asset disposal"
+            ],
+            "decision_outcome": [
+                "Applications to set aside the order dismissed; no costs awarded."
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to Distribute a Narcotic Substance",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "s. 225.2 of the Income Tax Act",
+                "Section 8 of the Charter"
+            ],
+            "constitutional_challenge": [
+                "Charter rights violation"
+            ],
+            "applicable_law_or_regulation": [
+                "Income Tax Act"
+            ],
+            "charter_rights_analysis": [
+                "unreasonable search and seizure"
+            ],
+            "decision_outcome": [
+                "jeopardy collection order valid"
+            ],
+            "review_process": [
+                "ex parte application",
+                "review application"
+            ],
+            "consequences_of_decision": [
+                "upholding the jeopardy collection order"
+            ],
+            "criminal_history": [
+                "drug-related offenses"
+            ],
+            "evidence_considered": [
+                "significant tax debts",
+                "concerns about asset disposal"
+            ]
+        }
+    ]
+}

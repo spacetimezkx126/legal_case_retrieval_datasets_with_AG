@@ -1,0 +1,114 @@
+{
+    "Case ID": "094571",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "state protection available",
+                "contradictory evidence",
+                "poor police response"
+            ],
+            "evidence_assessment": [
+                "ignored contradictory evidence",
+                "clear evidence of inability"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "decision set aside",
+                "reconsideration required"
+            ],
+            "standard_of_review": [
+                "judicial review under IRPA subsection 72(1)"
+            ],
+            "criminality_inadmissibility": [
+                "abuse by spouse",
+                "lack of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Theft over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequate police response to domestic violence"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "evidence_provided": [
+                "RPD document VCT41518"
+            ],
+            "decision_outcome": [
+                "set aside for reconsideration"
+            ],
+            "judicial_authority": [
+                "different panel"
+            ],
+            "cause_of_action": [
+                "fled Barbados with her son after stealing $5,000 from her abusive husband and sought refugee status in Canada"
+            ],
+            "risk_characterization": [
+                "domestic abuse in St. Vincent"
+            ],
+            "appeal_outcome": [
+                "application allowed"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "contradictory evidence",
+                "poor police response",
+                "minimal services for victims"
+            ],
+            "evidence_consideration": [
+                "ignored contrary documentation",
+                "failed to consider all evidence"
+            ],
+            "risk_assessment": [
+                "fear of returning",
+                "domestic abuse",
+                "lack of state protection"
+            ],
+            "procedural_fairness": [
+                "judicial review application",
+                "overlooked key evidence"
+            ],
+            "legal_basis": [
+                "Board must consider all evidence"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "willing and able to protect",
+                "evidence supporting state protection",
+                "contradictory evidence",
+                "poor police response",
+                "ineffective drug trafficking combat measures"
+            ],
+            "review_process": [
+                "judicial review application"
+            ],
+            "decision_outcome": [
+                "Board's decision set aside",
+                "case remitted for reconsideration"
+            ],
+            "evidence_considered": [
+                "evidence supporting state protection",
+                "contradictory evidence showing poor police response",
+                "ineffective drug trafficking combat measures"
+            ],
+            "applicable_law_or_regulation": [
+                "reasonableness simpliciter"
+            ],
+            "parties_involved": [
+                "applicant",
+                "Board"
+            ]
+        }
+    ]
+}

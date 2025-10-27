@@ -1,0 +1,107 @@
+{
+    "Case ID": "076793",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in obtaining travel documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 82(5) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_assessment": [
+                "threat to national security",
+                "endanger the safety of any person"
+            ],
+            "evidence_assessment": [
+                "no evidence of contact with terrorists since initial detention in 2000",
+                "repeated disavowal of Islamic extremism"
+            ],
+            "decision_outcome": [
+                "released under strict conditions",
+                "GPS monitoring",
+                "limited outings",
+                "restrictions on communication"
+            ],
+            "procedural_fairness": [
+                "detention review",
+                "consideration of length of detention",
+                "availability of alternatives to detention",
+                "current health conditions"
+            ]
+        },
+        {
+            "Crime Name": "Security Certificate Detention",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 82(5) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_to_national_security": [
+                "alleged ties to Egyptian Islamic terrorist organizations"
+            ],
+            "decision_outcome": [
+                "release under strict conditions including GPS tracking, curfews, supervised outings, and restrictions on communication and visitors"
+            ],
+            "release_conditions": [
+                "GPS monitoring",
+                "limited outings",
+                "restricted communications",
+                "residence surveillance"
+            ],
+            "reasoning_given": [
+                "lengthy detention",
+                "compliance during prior releases",
+                "lack of evidence showing current ties to extremists",
+                "health issues",
+                "prolonged social isolation"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in conduct contrary to a court order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 82(5) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_reasoning": [
+                "length of detention",
+                "health status",
+                "availability of alternatives to detention"
+            ],
+            "evidence_assessment": [
+                "no new threat-related activities since initial detention",
+                "health issues",
+                "prolonged isolation"
+            ],
+            "conclusion_outcome": [
+                "release under strict but less stringent conditions",
+                "GPS monitoring",
+                "limited outings",
+                "curfew adjustments"
+            ],
+            "result_of_case": [
+                "Court ordered Mr. Mahjoub's release under modified conditions"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a weapon or explosive substance",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_assessment": [
+                "threat assessment"
+            ],
+            "procedural_fairness": [
+                "detention reviews",
+                "consider factors like length of detention, availability of alternatives to detention"
+            ],
+            "decision_outcome": [
+                "released under modified conditions"
+            ],
+            "security_concerns": [
+                "national security"
+            ],
+            "evidence_considered": [
+                "evidence from CSIS"
+            ]
+        }
+    ]
+}

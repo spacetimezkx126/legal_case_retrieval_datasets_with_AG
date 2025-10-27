@@ -1,0 +1,66 @@
+{
+    "Case ID": "022958",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act"
+            ],
+            "decision_outcome": [
+                "ex parte jeopardy collection order confirmed"
+            ],
+            "procedural_fairness": [
+                "ex parte application"
+            ],
+            "applicable_statute": [
+                "Income Tax Act"
+            ],
+            "party_involved": [
+                "Revenue Canada",
+                "Services MLM",
+                "Wellgate"
+            ],
+            "claim_nature": [
+                "authorization to collect taxes immediately"
+            ],
+            "judicial_authority": [
+                "judge"
+            ],
+            "risk_characterization": [
+                "asset dissipation"
+            ],
+            "cause_of_action": [
+                "concerns over Services MLM's ability to pay"
+            ],
+            "nature_of_offense": [
+                "assigning assets to offshore company"
+            ],
+            "mitigating_factors": [],
+            "balance_of_convenience": [
+                "jeopardy to tax collection"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act"
+            ],
+            "evidence_credibility": [
+                "Revenue Canada's disclosure criticized"
+            ],
+            "risk_to_national_security": [],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe that delay would jeopardize collection"
+            ],
+            "decision_outcome": [
+                "ex parte jeopardy collection order confirmed"
+            ],
+            "specific_actions_or_activities": [
+                "assignment of valuable asset to offshore company Wellgate",
+                "no Canadian assets"
+            ]
+        }
+    ]
+}

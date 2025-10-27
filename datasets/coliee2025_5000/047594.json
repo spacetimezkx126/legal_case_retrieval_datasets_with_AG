@@ -1,0 +1,30 @@
+{
+    "Case ID": "047594",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "family ties",
+                "establishment in Canada",
+                "risks in Guyana",
+                "pending sponsorship application"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "matter referred for reassessment"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "denied H&C exemption"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed PRRA officer's decision"
+            ]
+        }
+    ]
+}

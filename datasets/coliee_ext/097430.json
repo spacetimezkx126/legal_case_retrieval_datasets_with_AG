@@ -1,0 +1,133 @@
+{
+    "Case ID": "097430",
+    "Crimes": [
+        {
+            "Crime_Name": "Child Molestation",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal",
+            "Sub_Crime_Type": "Sexual Offense Against Minor",
+            "Perpetrator_Type": "Individual Citizen (Canadian)",
+            "Victim_Status": "Minor",
+            "Location_of_Incident": "United States",
+            "Threat_Source": "Convicted Offender",
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [
+                "Evidence of treatment",
+                "Strong ties to Canada"
+            ],
+            "Prior_Criminality": "Not specified",
+            "Criminality_Severity": "High",
+            "Evidence_Sufficiency": "Sufficient",
+            "Evidence_Type": [
+                "Conviction record",
+                "Treatment records",
+                "Citizenship and residency ties"
+            ],
+            "Evidence_Credibility": "Credible",
+            "Credibility_Assessment": "Supported by Correctional Service of Canada (CSC) recommendation",
+            "Risk_Assessment": "Minister cited potential threat to public safety",
+            "Risk_Type": "Public Safety Risk",
+            "Risk_Nature": "Potential reoffending if transferred",
+            "Targeted_Victimization": "Yes",
+            "Targeted_Individual": "Child",
+            "Targeted_Individual_Status": "Minor",
+            "Geographic_Context": "International (U.S. conviction, Canadian citizenship)",
+            "Jurisdiction": "United States (conviction), Canada (citizenship and transfer request)",
+            "Legal_Framework": "International Transfer of Offenders Act",
+            "Governing_Law": "Canadian Charter of Rights and Freedoms, International Transfer of Offenders Act",
+            "Applicable_Statute": "International Transfer of Offenders Act, Section 6 of the Charter",
+            "Legal_Provision": [
+                "Section 6 - Mobility Rights",
+                "Section 10 - Ministerial Discretion in Transfers"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 6 of the Charter",
+                "International Transfer of Offenders Act"
+            ],
+            "Standard_of_Proof": "Reasonableness Standard (Administrative Law)",
+            "Decision_Outcome": "Minister's decision found unreasonable",
+            "Outcome": "Judicial review granted",
+            "Sentencing_Issue": "Transfer of sentence to home country",
+            "Procedural_Issues": [
+                "Failure to consider evidence of rehabilitation",
+                "Disregard of CSC recommendation"
+            ],
+            "Procedural_Stage": "Post-conviction, transfer request stage",
+            "Legal_Procedure": "Judicial Review",
+            "Decision_Maker": "Minister of Public Safety",
+            "Government_Body_Involved": [
+                "Correctional Service of Canada (CSC)",
+                "Ministry of Public Safety"
+            ],
+            "Reviewing_Body": "Federal Court",
+            "Review_Mechanism": "Judicial Review under Administrative Law",
+            "Authority": "Federal Court of Canada",
+            "Decision_Standard": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Aggravated Child Molestation",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal",
+            "Sub_Crime_Type": "Aggravated Sexual Offense Against Minor",
+            "Perpetrator_Type": "Individual Citizen (Canadian)",
+            "Victim_Status": "Minor",
+            "Location_of_Incident": "United States",
+            "Threat_Source": "Convicted Offender",
+            "Aggravating_Factors": [
+                "Severity of offense classified as 'aggravated'"
+            ],
+            "Mitigating_Factors": [
+                "Evidence of rehabilitation through treatment",
+                "Strong familial and residential ties to Canada"
+            ],
+            "Prior_Criminality": "Not specified",
+            "Criminality_Severity": "Very High",
+            "Evidence_Sufficiency": "Sufficient",
+            "Evidence_Type": [
+                "Conviction record",
+                "Rehabilitation/treatment documentation",
+                "Citizenship and residency evidence"
+            ],
+            "Evidence_Credibility": "Credible",
+            "Credibility_Assessment": "Court found evidence credible and disregarded unreasonably by Minister",
+            "Risk_Assessment": "Minister cited security risk despite mitigation",
+            "Risk_Type": "Public Safety Risk",
+            "Risk_Nature": "Potential threat upon transfer due to nature of crime",
+            "Targeted_Victimization": "Yes",
+            "Targeted_Individual": "Child",
+            "Targeted_Individual_Status": "Minor",
+            "Geographic_Context": "International (U.S. conviction, Canadian citizenship)",
+            "Jurisdiction": "United States (conviction), Canada (citizenship and transfer request)",
+            "Legal_Framework": "International Transfer of Offenders Act",
+            "Governing_Law": "Canadian Charter of Rights and Freedoms, International Transfer of Offenders Act",
+            "Applicable_Statute": "International Transfer of Offenders Act, Section 6 of the Charter",
+            "Legal_Provision": [
+                "Section 6 - Mobility Rights",
+                "Section 10 - Ministerial Discretion in Transfers"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 6 of the Charter",
+                "International Transfer of Offenders Act"
+            ],
+            "Standard_of_Proof": "Reasonableness Standard",
+            "Decision_Outcome": "Minister's decision found unreasonable",
+            "Outcome": "Judicial review granted, case remanded",
+            "Sentencing_Issue": "Transfer of foreign sentence to Canada",
+            "Procedural_Issues": [
+                "Failure to consider rehabilitation evidence",
+                "Inadequate justification for denial"
+            ],
+            "Procedural_Stage": "Post-conviction, transfer request stage",
+            "Legal_Procedure": "Judicial Review",
+            "Decision_Maker": "Minister of Public Safety",
+            "Government_Body_Involved": [
+                "Correctional Service of Canada (CSC)",
+                "Ministry of Public Safety"
+            ],
+            "Reviewing_Body": "Federal Court",
+            "Review_Mechanism": "Judicial Review under Administrative Law",
+            "Authority": "Federal Court of Canada",
+            "Decision_Standard": "Reasonableness"
+        }
+    ]
+}

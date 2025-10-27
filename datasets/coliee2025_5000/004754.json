@@ -1,0 +1,30 @@
+{
+    "Case ID": "004754",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations, SOR/93-133"
+            ],
+            "expert_testimony": [
+                "Experts agreed HPMC and HPC are similar but differ on whether HPMC is essential"
+            ],
+            "patent_validity": [
+                "Court found HPMC essential to '320 patent claims, excluding HPC as a variant. For '754, the disclosure focused on osmotic systems, not hydrogel processes like Novopharm’s."
+            ],
+            "decision_outcome": [
+                "Biovail's application dismissed; Novopharm does not infringe either patent"
+            ],
+            "cause_of_action": [
+                "Biovail sought to prevent Novopharm from obtaining regulatory approval for a generic version of Wellbutrin(r) SR, alleging patent infringement"
+            ],
+            "technical_details": [
+                "Whether Novopharm's proposed drug infringes Biovail's patents ('320 and '754) for Wellbutrin(r) SR."
+            ],
+            "appeal_outcome": [
+                "Novopharm can proceed with its drug development without waiting for patent expiration. Biovail's attempt to block was unsuccessful."
+            ]
+        }
+    ]
+}

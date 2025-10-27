@@ -1,0 +1,31 @@
+{
+    "Case ID": "030049",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days",
+                "six-year period",
+                "physically present",
+                "531 days",
+                "working abroad"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "new hearing required"
+            ],
+            "procedural_fairness": [
+                "reviewed standards of fact and law",
+                "ordered new hearing"
+            ],
+            "immigration_status": [
+                "applicant",
+                "citizenship judge"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

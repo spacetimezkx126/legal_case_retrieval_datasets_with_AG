@@ -1,0 +1,37 @@
+{
+    "Case ID": "082829",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Prothonotary of the Federal Court",
+                "Rule 336(1)(g) of the Federal Court Rules",
+                "Section 56(4) of the Federal Court Act",
+                "Quebec's Code of Civil Procedure"
+            ],
+            "application_details": [
+                "motion to oppose a seizure",
+                "interlocutory applications"
+            ],
+            "dispute_focus": [
+                "jurisdiction to hear the motion",
+                "provincial procedures for claims against seized property"
+            ],
+            "procedure_followed": [
+                "initial postponement",
+                "written arguments submitted",
+                "analysis of relevant statutes and precedents"
+            ],
+            "decision_reasoning": [
+                "motions to oppose seizures are incidental to judgment execution",
+                "qualify as interlocutory applications"
+            ],
+            "result_of_case": [
+                "Prothonotary has jurisdiction",
+                "preliminary objection dismissed",
+                "motion allowed to proceed on its merits"
+            ]
+        }
+    ]
+}

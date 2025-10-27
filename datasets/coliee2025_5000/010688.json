@@ -1,0 +1,50 @@
+{
+    "Case ID": "010688",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board ignored evidence of subjective and objective fear"
+            ],
+            "state_protection_analysis": [
+                "Inadequate assessment of Jamaica's capacity to protect women despite domestic abuse issues"
+            ],
+            "evidence_assessment": [
+                "Threats from former partner acknowledged"
+            ],
+            "decision_outcome": [
+                "Application for judicial review allowed; decision set aside and referred back"
+            ],
+            "standard_of_review": [
+                "Credibility findings reviewed for patent unreasonableness, state protection findings reviewed for reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Domestic abuse (non-specific charges without more details, potential charges could include Assault, Criminal Harassment, Threatening Death under the Criminal Code of Canada)",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection"
+            ],
+            "credibility_findings": [
+                "patent unreasonableness"
+            ],
+            "evidence_consideration": [
+                "ignored evidence of the applicant's fear",
+                "misinterpreted country conditions"
+            ],
+            "risk_assessment": [
+                "past spousal abuse"
+            ],
+            "country_conditions": [
+                "documentation showing inadequate state protection"
+            ],
+            "reasonableness_of_decision": [
+                "state protection findings are reviewed for reasonableness"
+            ],
+            "refugee_status_nexus": [
+                "fear returning to Jamaica"
+            ]
+        }
+    ]
+}

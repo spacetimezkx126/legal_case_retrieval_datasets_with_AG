@@ -1,0 +1,56 @@
+{
+    "Case ID": "090807",
+    "Different Crime": [
+        {
+            "Crime Name": "Indecent Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 617 of the Criminal Code"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "no credible basis for intervention",
+                "inconsistencies in arguments"
+            ],
+            "evidence_consideration": [
+                "fabricated evidence",
+                "improper lineup procedures"
+            ],
+            "criminal_history": [
+                "convicted of indecent assault and other crimes"
+            ],
+            "risk_assessment": [
+                "indeterminate detention"
+            ],
+            "serious_issue": [
+                "multiple applications for mercy denied"
+            ],
+            "humanitarian_concerns": [
+                "seeking mandamus to compel proper review"
+            ]
+        },
+        {
+            "Crime Name": "Being a Dangerous Offender",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 617 of the Criminal Code"
+            ],
+            "procedural_fairness": [
+                "Ministers' reviews were fair and adequately reviewed"
+            ],
+            "evidence_assessment": [
+                "expert testimony confirming lineup photograph was not doctored",
+                "no new evidence supported claims"
+            ],
+            "decision_reasoning": [
+                "no evidence that Ministers' reviews were improper or that the plaintiff was denied natural justice"
+            ],
+            "application_details": [
+                "Plaintiff applied three times for mercy; all were denied"
+            ],
+            "result_of_case": [
+                "Federal Court dismissed the action"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Case ID": "026618",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "generalized",
+                "personalized"
+            ],
+            "specific_targeting": [
+                "small business ownership"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee status"
+            ],
+            "reasonableness_standard": [
+                "yes"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "appeal_outcome": [
+                "upheld"
+            ],
+            "applicable_statute": [
+                "IRPA s. 97(1)(b)(ii)"
+            ]
+        },
+        {
+            "Crime Name": "Gang-related violence",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "state_protection_analysis": [
+                "inadequate evidence of state protection failure"
+            ],
+            "risk_of_persecution": [
+                "extortion due to owning a small business"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision was reasonable"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ],
+            "refugee_status_nexus": [
+                "not recognized as Convention refugees or persons in need of protection"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report crime",
+            "Crime Type": "others",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "state_protection": [
+                "adequate state protection",
+                "presumption of adequate state protection"
+            ],
+            "evidence_presented": [
+                "business ownership",
+                "gang extortion",
+                "contacting local police"
+            ],
+            "decision_reasonableness": [
+                "Board's decision was reasonable"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed",
+                "no certification for appeal"
+            ],
+            "refugee_status": [
+                "claimants sought refugee status"
+            ],
+            "relevant_statute": [
+                "IRPA s. 97(1)(b)"
+            ]
+        }
+    ]
+}

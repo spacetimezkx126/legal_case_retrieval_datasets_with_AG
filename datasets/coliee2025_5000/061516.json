@@ -1,0 +1,35 @@
+{
+    "Case ID": "061516",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "The Patent Act"
+            ],
+            "patent_validity": [
+                "novelty",
+                "non-obviousness",
+                "compliance with disclosure requirements"
+            ],
+            "expert_testimony": [
+                "evidence from experts and inventors"
+            ],
+            "applicable_statute": [
+                "a patent claim must define distinctly the subject-matter of the invention"
+            ],
+            "technical_details": [
+                "Skyplume apparatus",
+                "'163 patent",
+                "physical bifurcation",
+                "comparable diffuser",
+                "essential elements of claims 1 and 2"
+            ],
+            "decision_outcome": [
+                "Action dismissed",
+                "no infringement found but patent declared valid",
+                "costs awarded to defendant"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Case ID": "047587",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide acceptable identity documentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Applicants failed to provide identity documents"
+            ],
+            "credibility_assessment": [
+                "Credibility issues based on minor testimonial inconsistencies"
+            ],
+            "legal_basis": [
+                "Section 106 of IRPA",
+                "IRPA and Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned; case referred for reassessment"
+            ],
+            "standard_of_review": [
+                "Judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Use of fraudulent documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.106",
+                "IRPA s.72",
+                "Federal Courts Act s.18.1"
+            ],
+            "evidence_provided": [
+                "testimonial evidence",
+                "fraudulent German passports",
+                "Somali identity documents"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned",
+                "case referred for reassessment"
+            ],
+            "procedural_fairness": [
+                "overly microscopic examination of testimonial evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "identity_documents": [
+                "fraudulent German passports",
+                "Somali identity documents"
+            ],
+            "material_misrepresentation": [
+                "minor inconsistencies in testimonial evidence"
+            ]
+        }
+    ]
+}

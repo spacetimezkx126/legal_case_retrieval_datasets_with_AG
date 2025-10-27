@@ -1,0 +1,25 @@
+{
+    "Case ID": "084569",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                " Applicants did not meet the residency requirement under paragraph 5(1)(c) of the Citizenship Act",
+                "Applicants failed to accumulate at least three years (1,095 days) of residence in Canada within four years (1,460 days) before their application"
+            ],
+            "document_authenticity": [
+                "Applicants provided incomplete documentation"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "material_misrepresentation": [
+                "Significant gaps in health card use and extensive travel abroad"
+            ]
+        }
+    ]
+}

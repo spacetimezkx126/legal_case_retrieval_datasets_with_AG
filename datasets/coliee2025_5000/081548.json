@@ -1,0 +1,51 @@
+{
+    "Case ID": "081548",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "not credible"
+            ],
+            "evidence_assessment": [
+                "lacking evidence"
+            ],
+            "misrepresentation_or_fraud": [
+                "false information",
+                "fraudulent documents"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent use of documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "evidence_provided": [
+                "false information",
+                "fraudulent documents"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "credibility assessment"
+            ],
+            "material_misrepresentation": [
+                "submission of false evidence"
+            ],
+            "risk_characterization": [
+                "implausible claims"
+            ],
+            "appeal_outcome": [
+                "upheld Board's decision"
+            ],
+            "cause_of_action": [
+                "initial PIF contained false information"
+            ]
+        }
+    ]
+}

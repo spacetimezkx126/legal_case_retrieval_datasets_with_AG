@@ -1,0 +1,29 @@
+{
+    "Case ID": "054239",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "unbiased decision-making",
+                "discrepancies in documents",
+                "no breach of procedural fairness"
+            ],
+            "document_authenticity": [
+                "questionable document authenticity",
+                "discrepancies and deemed unreliable"
+            ],
+            "decision_outcome": [
+                "refusal was reasonable",
+                "judicial review dismissed"
+            ],
+            "regulatory_compliance": [
+                "IRPR section 112",
+                "six months of classroom training or one year of full-time employment as a live-in caregiver"
+            ],
+            "material_misrepresentation": [
+                "perceived lack of required experience"
+            ]
+        }
+    ]
+}

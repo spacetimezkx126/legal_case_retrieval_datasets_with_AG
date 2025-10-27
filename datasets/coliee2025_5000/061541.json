@@ -1,0 +1,31 @@
+{
+    "Case ID": "061541",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days of residence in Canada within 4 years",
+                "pre-existing residency",
+                "quality of connection with Canada"
+            ],
+            "decision_outcome": [
+                "Appeal granted",
+                "case remanded for reassessment"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed the Citizenship Judge's decision"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "physical presence",
+                "owning property",
+                "returning after absences"
+            ],
+            "identity_verification": [],
+            "material_misrepresentation": []
+        }
+    ]
+}

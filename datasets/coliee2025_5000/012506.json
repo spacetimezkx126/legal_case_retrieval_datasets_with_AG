@@ -1,0 +1,32 @@
+{
+    "Case ID": "012506",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "patent validity",
+                "infringement"
+            ],
+            "procedural_fairness": [
+                "pleadings relevance",
+                "procedural history"
+            ],
+            "applicable_statute": [
+                "rules of pleading"
+            ],
+            "judicial_authority": [
+                "Imperial's motion to strike"
+            ],
+            "patent_validity": [
+                "declaration of invalidity or non-infringement"
+            ],
+            "cause_of_action": [
+                "threatening legal action"
+            ],
+            "decision_outcome": [
+                "partially struck"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Case ID": "092886",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "caused confusion"
+            ],
+            "use_in_trade": [
+                "importing and selling counterfeit products"
+            ],
+            "applicable_statute": [
+                "Trade Marks Act"
+            ],
+            "legal_basis": [
+                "trademark infringement occurs when unauthorized use of a registered trademark causes confusion or depreciates goodwill"
+            ],
+            "decision_outcome": [
+                "permanent injunction, destruction of counterfeit goods, and profit recovery ordered"
+            ],
+            "nature_of_offense": [
+                "imported and sold counterfeit Louis Vuitton products"
+            ],
+            "appeal_outcome": [
+                "no further punitive damages"
+            ]
+        },
+        {
+            "Crime Name": "Passing Off",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "trademark infringement",
+                "passing off"
+            ],
+            "relevant_statute": [
+                "Trade Marks Act"
+            ],
+            "evidence_presented": [
+                "admissions of importing and selling counterfeit goods"
+            ],
+            "decision_reasoning": [
+                "unauthorized use of registered trademarks",
+                "caused confusion",
+                "depreciated goodwill"
+            ],
+            "result_of_case": [
+                "permanent injunction",
+                "profits awarded",
+                "costs awarded"
+            ],
+            "application_details": [
+                "injunction sought",
+                "destruction of counterfeit goods",
+                "accounting of profits",
+                "costs"
+            ]
+        }
+    ]
+}

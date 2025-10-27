@@ -1,0 +1,76 @@
+{
+    "Case ID": "025897",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "extortion",
+                "violence"
+            ],
+            "state_protection": [
+                "inadequate_state_protection",
+                "failure_to_report_incidents"
+            ],
+            "reasonableness_standard": [
+                "manifest_unreasonableness_for_credibility",
+                "reasonableness_simpliciter_for_state_protection"
+            ],
+            "evidence_provided": [
+                "evidence_of_state_incapacity"
+            ],
+            "judicial_authority": [
+                "judicial_review"
+            ],
+            "appeal_outcome": [
+                "decision_overturned",
+                "case_remanded_for_rehearing"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "Credibility assessed under manifest unreasonableness"
+            ],
+            "state_protection_analysis": [
+                "state protection under reasonableness simpliciter",
+                "Evidence showed systemic issues with Mexican state protection"
+            ],
+            "procedural_fairness": [
+                "Judicial review application under IRPA subsection 72(1)"
+            ],
+            "risk_assessment": [
+                "Refugee claim denial due to credibility doubts and perceived state protection adequacy"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision unreasonable; case remanded for rehearing"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide protection to citizens",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "adequate state protection existed in Mexico",
+                "presumption of state protection was rebutted"
+            ],
+            "evidence_assessment": [
+                "claimants must provide clear evidence of state incapacity",
+                "Evidence showed systemic corruption and inefficacy"
+            ],
+            "reasonableness_of_decision": [
+                "The Board's decision was unreasonable"
+            ],
+            "persecution_grounds": [
+                "Applicants faced persecution by police"
+            ],
+            "judicial_review_process": [
+                "Judicial review application challenging the Board's rejection of their refugee claim",
+                "Court allowed judicial review, set aside the Board's decision, and remanded for rehearing"
+            ],
+            "refugee_definition": [
+                "seeking refugee status in Canada"
+            ]
+        }
+    ]
+}

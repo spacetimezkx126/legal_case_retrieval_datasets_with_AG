@@ -1,0 +1,80 @@
+{
+    "Case ID": "033911",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "Applicant's inability to prove her identity as a Chinese national due to lack of credible documentation and inconsistent testimony."
+            ],
+            "evidence_assessment": [
+                "The Board considered the totality of evidence relevant to identity, finding her explanations implausible based on country conditions and documentary evidence."
+            ],
+            "legal_basis": [
+                "Under IRPA s. 106 and Refugee Protection Division Rules s. 7, claimants must provide acceptable documentation establishing identity or a reasonable explanation for its absence."
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; no question certified."
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision; analysis of evidence and legal standards under IRPA."
+            ]
+        },
+        {
+            "Crime Name": "Identity Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "failure to establish identity",
+                "acceptable documentation",
+                "inconsistencies in documentation",
+                "lack of original documents",
+                "unclear reasons for obtaining a new RIC",
+                "discrepancies in testimony"
+            ],
+            "procedural_fairness": [
+                "hearing before the Refugee Protection Division",
+                "judicial review application in Federal Court"
+            ],
+            "decision_outcome": [
+                "Board's decision was reasonable",
+                "judicial review application is dismissed"
+            ],
+            "applicable_statute": [
+                "IRPA s. 106",
+                "Refugee Protection Division Rules s. 7"
+            ],
+            "evidence_provided": [
+                "numerous inconsistencies",
+                "totally of evidence relevant to identity"
+            ],
+            "reasonableness_standard": [
+                "within the range of acceptable outcomes"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 106",
+                "Refugee Protection Division Rules s. 7"
+            ],
+            "evidence_credibility": [
+                "inconsistent explanations",
+                "lacked original documents"
+            ],
+            "procedural_fairness": [
+                "Board considered these factors",
+                "country conditions indicating widespread fraudulent document use"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable and based on the totality of evidence"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "rejecting the applicant's refugee claim"
+            ]
+        }
+    ]
+}

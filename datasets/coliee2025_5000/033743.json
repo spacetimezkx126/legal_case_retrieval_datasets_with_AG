@@ -1,0 +1,116 @@
+{
+    "Case ID": "033743",
+    "Different Crime": [
+        {
+            "Crime Name": "Degree Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Trade-marks Act",
+                "s.12(1)(b)",
+                "s.7(d)",
+                "s.10",
+                "s.18(1)(b)",
+                "s.9(1)(d)"
+            ],
+            "evidence_assessment": [
+                "Yellow Pages ads since 1995"
+            ],
+            "decision_outcome": [
+                "invalid registration",
+                "summary judgment granted to plaintiff",
+                "permanent injunction against use"
+            ],
+            "misrepresentation_or_fraud": [
+                "trademarks are clearly descriptive or deceptively misdescriptive",
+                "lacking distinctiveness",
+                "resembling marks with historical commercial usage"
+            ],
+            "regulatory_compliance": [
+                "violation of Trade-marks Act sections"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation under Trade-marks Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "legal_basis": [
+                "s.12(1)(b)",
+                "s.10",
+                "s.18(1)(b)",
+                "s.7(d)",
+                "s.9(1)(d)"
+            ],
+            "evidence_provided": [
+                "historical use of terms",
+                "public directories since 1995",
+                "confusion caused by trademarks"
+            ],
+            "decision_outcome": [
+                "invalid registrations",
+                "summary judgment granted"
+            ],
+            "distinctiveness_evaluation": [
+                "descriptive",
+                "non-distinctive"
+            ],
+            "confusion_likelihood": [
+                "yes"
+            ],
+            "appeal_outcome": [
+                "permanent injunction against use"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Trade-marks Act"
+            ],
+            "evidence_credibility": [
+                "marks confused the public"
+            ],
+            "procedural_fairness": [
+                "procedural issues"
+            ],
+            "applicable_law_section": [
+                "12(1)(b)",
+                "7(d)",
+                "18(1)(b)"
+            ],
+            "decision_outcome": [
+                "invalid trademarks"
+            ],
+            "court_ruling": [
+                "summary judgment in favor of CTCMA"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Use of Professional Titles",
+            "Crime Type": "others",
+            "relevant_statute": [
+                "Trade-marks Act"
+            ],
+            "specific_rule_applied": [
+                "s.12(1)(b)",
+                "s.7(d)",
+                "s.9(1)(d)",
+                "s.18(1)(b)"
+            ],
+            "evidence_presented": [
+                "public confusion due to CNMCC's use of marks"
+            ],
+            "decision_reasoning": [
+                "trademarks are descriptive and non-distinctive"
+            ],
+            "result_of_case": [
+                "Court granted summary judgment in favor of CTCMA"
+            ],
+            "conclusion_outcome": [
+                "CNMCC trademarks invalid",
+                "permanent injunction issued"
+            ]
+        }
+    ]
+}

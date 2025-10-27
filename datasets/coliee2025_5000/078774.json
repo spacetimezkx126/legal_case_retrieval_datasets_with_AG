@@ -1,0 +1,55 @@
+{
+    "Case ID": "078774",
+    "Different Crime": [
+        {
+            "Crime Name": "Espionage",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "paragraph 19(1)(f)(i) of the Immigration Act"
+            ],
+            "involvement_details": [
+                "reported on CSSA members to Chinese Embassy officials",
+                "attempted to subvert the organization"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "decision set aside"
+            ],
+            "reasoning_given": [
+                "activities did not target democratic government, institutions, or processes"
+            ],
+            "judicial_review_result": [
+                "application remanded for reconsideration"
+            ],
+            "evidence_provided": [
+                "applicant reported on CSSA members",
+                "interaction with Chinese Embassy officials"
+            ],
+            "risk_assessment": [
+                "did not meet criteria for espionage/subversion against democratic entities"
+            ]
+        },
+        {
+            "Crime Name": "Subversion against democratic government, institutions or processes",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration Act paragraph 19(1)(f)(i)"
+            ],
+            "evidence_assessment": [
+                "applicant reported to the Chinese Embassy",
+                "attempted to subvert a Canadian student organization"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed evidentiary standards"
+            ],
+            "specific_legal_test_application": [
+                "definitions of espionage/subversion",
+                "applicability to democratic institutions"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

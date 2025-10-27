@@ -1,0 +1,58 @@
+{
+    "Case ID": "098347",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid"
+            ],
+            "infringement_analysis": [
+                "not infringed"
+            ],
+            "relevant_rule": [
+                "NOC Regulations"
+            ],
+            "evidence_presented": [
+                "expert evidence",
+                "affidavits",
+                "cross-examinations",
+                "legal arguments"
+            ],
+            "decision_reasoning": [
+                "claims anticipated by prior art",
+                "obvious",
+                "broader than disclosed invention"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ],
+            "cause_of_action": [
+                "prohibition of obtaining Notice of Compliance"
+            ],
+            "parties_involved": [
+                "Eli Lilly Canada Inc.",
+                "Apotex"
+            ],
+            "specific_rule_applied": [
+                "balance of probabilities for invalidity",
+                "prove non-infringement allegations unjustified"
+            ],
+            "conclusion_outcome": [
+                "allegations of invalidity justified",
+                "non-infringement allegation not justified"
+            ],
+            "procedure_steps": [
+                "expert evidence",
+                "affidavits",
+                "cross-examinations",
+                "legal arguments"
+            ],
+            "result_details": [
+                "court dismissed application",
+                "patent invalid",
+                "no valid claim infringed"
+            ]
+        }
+    ]
+}

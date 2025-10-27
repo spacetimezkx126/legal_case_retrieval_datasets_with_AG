@@ -1,0 +1,43 @@
+{
+    "Case ID": "095075",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Trust",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Federal Court Rules 75, 76, 77, and 201",
+                "Limitation provisions from Alberta's Limitations Act"
+            ],
+            "procedural_fairness": [
+                "Motion for leave to amend the Statement of Claim was filed and argued based on applicable Federal Court Rules"
+            ],
+            "balance_of_convenience": [
+                "Amendments allowed under Rule 201 as they arise from substantially the same facts as the original claim, serving justice despite potential limitations"
+            ],
+            "risk_assessment": [],
+            "evidence_consideration": [],
+            "humanitarian_compassionate_grounds": []
+        },
+        {
+            "Crime Name": "Breach of Trust",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Federal Court Rules 75, 76, 77, and 201",
+                "Limitation provisions from Alberta's Limitations Act"
+            ],
+            "procedural_fairness": [
+                "Motion for leave to amend the Statement of Claim was filed and argued based on applicable Federal Court Rules"
+            ],
+            "decision_outcome": [
+                "Amendments allowed; no prejudice to defendant; costs awarded appropriately"
+            ],
+            "relevant_factors": [
+                "breaches of trust by the Crown",
+                "failures in managing mineral rights"
+            ],
+            "standard_of_review": [
+                "Rule 201 as they arise from substantially the same facts as the original claim"
+            ]
+        }
+    ]
+}

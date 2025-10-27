@@ -1,0 +1,40 @@
+{
+    "Case ID": "010360",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions",
+                "omissions",
+                "political activities",
+                "broken hand",
+                "death threats"
+            ],
+            "decision_reasoning": [
+                "material contradictions",
+                "omissions in evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "refugee_status": [
+                "claimed refugee protection"
+            ],
+            "cause_of_action": [
+                "persecution in Turkey",
+                "ethnicity",
+                "religion",
+                "political activism"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "Federal Court assessment"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no certification question"
+            ]
+        }
+    ]
+}

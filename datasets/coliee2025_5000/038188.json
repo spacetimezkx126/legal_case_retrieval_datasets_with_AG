@@ -1,0 +1,56 @@
+{
+    "Case ID": "038188",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship caused by separation from a Canadian spouse and children",
+                "irreparable harm",
+                "balance of convenience favoring the applicant"
+            ],
+            "immigration_status": [
+                "faced deportation",
+                "pending sponsorship application",
+                "overstayed visa"
+            ],
+            "decision_outcome": [
+                "stay of deportation granted",
+                "deportation stayed pending decision on leave request"
+            ],
+            "legal_basis": [
+                "Section 48 of the Immigration Act",
+                "removal orders to be executed as soon as reasonably practicable",
+                "discretion in the pace of removal"
+            ],
+            "family_class_considerations": [
+                "married to a Canadian citizen",
+                "three children"
+            ]
+        },
+        {
+            "Crime Name": "Separation of family due to immigration enforcement",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "immigration_status": [
+                "deportation proceedings"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "irreparable harm",
+                "genuine marriage",
+                "family ties"
+            ],
+            "judicial_review_process": [
+                "judicial review via telephone conference"
+            ],
+            "burden_of_proof": [
+                "hardship caused by separation"
+            ],
+            "legal_basis": [
+                "Section 48 of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "stay of removal granted until resolution of sponsorship application"
+            ]
+        }
+    ]
+}

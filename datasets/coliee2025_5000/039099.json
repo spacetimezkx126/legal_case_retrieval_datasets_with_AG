@@ -1,0 +1,51 @@
+{
+    "Case ID": "039099",
+    "Different Crime": [
+        {
+            "Crime Name": "False Statements in Application for Permanent Residence",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to notify applicant of issues"
+            ],
+            "evidence_assessment": [
+                "false statements in application",
+                "FOSS notes used to impugn character"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Board's decision dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "false statements in permanent residence application"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural and legal errors"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "violated"
+            ],
+            "legal_basis": [
+                "Section 5 of the Criminal Records Act"
+            ],
+            "evidence_consideration": [
+                "reliance on pardoned convictions",
+                "reliance on police reports"
+            ],
+            "immigration_status": [
+                "prior deportation",
+                "sponsorship appeal"
+            ],
+            "applicant_characteristics": [
+                "unremorseful"
+            ],
+            "humanitarian_concerns": [
+                "Canadian residency sponsorship"
+            ]
+        }
+    ]
+}

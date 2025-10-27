@@ -1,0 +1,29 @@
+{
+    "Case ID": "000251",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet 1095-day requirement",
+                "centralizing one's mode of living in Canada"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "Citizenship Act residency requirements"
+            ],
+            "evidence_assessment": [
+                "inadequate assessment of centralizing life in Canada"
+            ],
+            "procedural_fairness": [
+                "Federal Court review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Case ID": "029293",
+    "Different Crime": [
+        {
+            "Crime Name": "Potential misrepresentation in immigration applications",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in statements and employment history",
+                "lack of corroborative evidence",
+                "inferred lack of credibility"
+            ],
+            "procedural_fairness": [
+                "requirement for corroborative evidence",
+                "failure to address applicants' explanation",
+                "not confronting inconsistencies"
+            ],
+            "evidence_assessment": [
+                "no corroborative evidence provided",
+                "consideration of inconsistencies"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "no questions certified"
+            ],
+            "misrepresentation_or_fraud": [
+                "perceived lack of credibility",
+                "inconsistencies in employment history"
+            ]
+        },
+        {
+            "Crime Name": "Providing inconsistent employment history",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "Applicants were aware of the information they provided"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "material_misrepresentation": [
+                "Inconsistencies in employment history"
+            ],
+            "relationship_genuineness": [
+                "Credibility concerns"
+            ],
+            "appeal_outcome": [
+                "Dismissed"
+            ]
+        }
+    ]
+}

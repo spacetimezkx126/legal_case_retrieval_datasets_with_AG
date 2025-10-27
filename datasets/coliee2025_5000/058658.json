@@ -1,0 +1,49 @@
+{
+    "Case ID": "058658",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal Entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 40.1 of the Immigration Act"
+            ],
+            "criminality_inadmissibility": [
+                "involvement in violence endangering lives or safety in Canada"
+            ],
+            "evidence_assessment": [
+                "significant involvement in fundraising and recruitment for unlawful activities"
+            ],
+            "decision_outcome": [
+                "certificate is reasonable",
+                "upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in Activities Likely to Endanger Lives or Safety of Persons in Canada",
+            "Crime Type": "Violence-related_Crimes",
+            "security_certificate": [
+                "reasonable grounds to believe the person will engage in acts of violence endangering lives or safety in Canada"
+            ],
+            "membership_in_organization": [
+                "admitted membership in MEK, an organization linked to violent activities"
+            ],
+            "applicant_involvement": [
+                "significant role in MEK activities, including fundraising and recruitment",
+                "involved in planning attacks"
+            ],
+            "credibility_findings": [
+                "testimony lacked credibility"
+            ],
+            "risk_assessment": [
+                "might endanger lives or safety in Canada"
+            ],
+            "legal_basis": [
+                "s. 40.1(4)(d) of the Immigration Act",
+                "s. 19(1)(g)"
+            ]
+        }
+    ]
+}

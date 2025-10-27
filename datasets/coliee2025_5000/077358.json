@@ -1,0 +1,139 @@
+{
+    "Case ID": "077358",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Crossing Irregularities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "RPD doubted credibility due to lack of direct evidence",
+                "court found RPD ignored relevant evidence"
+            ],
+            "state_protection_analysis": [
+                "RPD erred in state protection analysis"
+            ],
+            "refugee_status_eligibility": [
+                "Sections 96 and 97 of IRPA determine refugee status"
+            ],
+            "decision_outcome": [
+                "RPD decision overturned",
+                "case remitted for reconsideration"
+            ],
+            "evidence_assessment": [
+                "lack of direct evidence",
+                "ignored relevant evidence of state corruption and drug-related crime"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "RPD decision overturned; case sent back for reconsideration"
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging the RPD's decision on credibility and state protection grounds"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "state_protection": [
+                "state protection available despite evidence of widespread corruption"
+            ],
+            "risk_characterization": [
+                "threats from the Sinaloa cartel"
+            ],
+            "nexus_to_convention_grounds": [
+                "Applicants claimed refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "doubted",
+                "lack of direct evidence",
+                "failure to seek state protection",
+                "ignored cultural context",
+                "ignored credible evidence of state corruption"
+            ],
+            "state_protection_analysis": [
+                "perceived threat from the Sinaloa cartel",
+                "lack of state protection",
+                "errors in state protection analysis"
+            ],
+            "legal_basis": [
+                "IRPA, Sections 96 and 97"
+            ],
+            "risk_of_persecution": [
+                "due to perceived threat from the Sinaloa cartel"
+            ],
+            "refugee_status_nexus": [
+                "claimed refugee status"
+            ],
+            "reasonableness_of_decision": [
+                "decision set aside due to errors",
+                "credibility and state protection assessments reviewed for reasonableness"
+            ],
+            "country_conditions": [
+                "credible evidence of state corruption"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "err",
+                "concerns"
+            ],
+            "state_protection": [
+                "availability",
+                "undermining",
+                "widespread corruption",
+                "cartel influence"
+            ],
+            "refugee_status": [
+                "claimed",
+                "dismissed"
+            ],
+            "decision_reasoning": [
+                "RPD erred",
+                "redetermination"
+            ],
+            "court_ruling": [
+                "overturned",
+                "remitted for reconsideration"
+            ],
+            "cause_of_action": [
+                "fearing persecution",
+                "drug cartels",
+                "family member's murder"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "doubted",
+                "lack_of_direct_evidence"
+            ],
+            "state_protection": [
+                "available",
+                "evidence_of_widespread_corruption",
+                "state_incapacity_to_protect"
+            ],
+            "refugee_status": [
+                "claimed",
+                "dismissed_by_RPD"
+            ],
+            "decision_outcome": [
+                "RPD_decision_overturned",
+                "case_sent_back_for_reconsideration"
+            ],
+            "applicable_law_or_regulation": [
+                "Sections_96_and_97_of_the_IRPA"
+            ]
+        }
+    ]
+}

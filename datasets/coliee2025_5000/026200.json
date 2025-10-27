@@ -1,0 +1,38 @@
+{
+    "Case ID": "026200",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "not credible",
+                "patently unreasonable",
+                "lack sufficient reasoning"
+            ],
+            "evidence_assessment": [
+                "rejected key documents",
+                "AEUP letter",
+                "university letter",
+                "police report",
+                "Hiwote's age and cultural background"
+            ],
+            "decision_reasoning": [
+                "cumulative errors",
+                "redetermination"
+            ],
+            "refugee_status": [
+                "political persecution",
+                "ethnic targeting"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "IRPA section 72(1)"
+            ],
+            "result_of_case": [
+                "court allowed judicial review",
+                "set aside Board's decision",
+                "remit case for reconsideration"
+            ]
+        }
+    ]
+}

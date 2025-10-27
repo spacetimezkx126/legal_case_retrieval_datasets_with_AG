@@ -1,0 +1,35 @@
+{
+    "Case ID": "013592",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "not credible",
+                "discrepancies"
+            ],
+            "documentary_evidence": [
+                "lack of evidence",
+                "questionable document authenticity"
+            ],
+            "procedural_fairness": [
+                "procedurally fair"
+            ],
+            "reasonableness_standard": [
+                "Board's decision reasonable"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "burden_of_proof": [
+                "Applicants must justify claims with appropriate documentation"
+            ],
+            "risk_of_persecution": [
+                "claimed persecution in China due to religious activities"
+            ],
+            "specific_vulnerabilities": [
+                "psychological issues"
+            ]
+        }
+    ]
+}

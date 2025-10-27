@@ -1,0 +1,59 @@
+{
+    "Case ID": "018618",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with release conditions under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_assessment": [
+                "relied on disputed notes",
+                "failed to consider contradictory evidence"
+            ],
+            "procedural_fairness": [
+                "patently unreasonable",
+                "fettered discretion"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "matter remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Forfeiture of security deposit under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "fettered discretion",
+                "remit for reconsideration"
+            ],
+            "procedural_fairness": [
+                "disregarded contradictory evidence",
+                "failed to exercise discretion"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "nature_of_offense": [
+                "breach of release conditions"
+            ],
+            "mitigating_factors": [
+                "subject returned to Korea"
+            ],
+            "reasonableness_standard": [
+                "manager's decision lacked reasonableness"
+            ]
+        }
+    ]
+}

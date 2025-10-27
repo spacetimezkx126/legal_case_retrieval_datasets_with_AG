@@ -1,0 +1,50 @@
+{
+    "Case ID": "037807",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on grounds of serious criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "No breach of procedural fairness"
+            ],
+            "legal_basis": [
+                "s. 44(1) and (2) of the Immigration and Refugee Protection Act"
+            ],
+            "criminality_inadmissibility": [
+                "Conviction for drug trafficking"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review of decisions under s. 44(1) and (2)"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "No breach of procedural fairness"
+            ],
+            "immigration_status": [
+                "inadmissible under s. 36(1)(a)"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act, s. 44(1)",
+                "Immigration and Refugee Protection Act, s. 44(2)"
+            ],
+            "decision_made_by": [
+                "immigration officers"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "criminal_history": [
+                "convicted of trafficking with a four-year sentence"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ]
+        }
+    ]
+}

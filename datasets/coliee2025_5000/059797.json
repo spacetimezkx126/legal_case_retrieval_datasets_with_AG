@@ -1,0 +1,46 @@
+{
+    "Case ID": "059797",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration Law",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 35(1)(b) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed whether procedural fairness and legal obligations were met"
+            ],
+            "criminality_inadmissibility": [
+                "foreign national is inadmissible if they are a senior official in a government involved in human rights violations"
+            ],
+            "decision_outcome": [
+                "The court dismissed the application for judicial review, upholding the immigration officer's decision"
+            ],
+            "evidence_assessment": [
+                "Evidence showed he was part of the top half of the organizational hierarchy and worked closely with individuals implicated in genocide"
+            ]
+        },
+        {
+            "Crime Name": "Being a prescribed senior official in the service of a government engaging in systematic or gross human rights violations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "senior_official_involvement": [
+                "Minesupres, Rwanda, from 1990 to 1993"
+            ],
+            "human_rights_violations": [
+                "systematic or gross human rights violations"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether the immigration officer's decision was procedurally fair and legally sound."
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed, confirming the applicant's inadmissibility."
+            ],
+            "reasonableness_of_decision": [
+                "The decision was reasonable"
+            ]
+        }
+    ]
+}

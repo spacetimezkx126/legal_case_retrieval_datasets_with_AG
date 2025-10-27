@@ -1,0 +1,30 @@
+{
+    "Case ID": "022855",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "omission of employment at Adapana"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose all employment over ten years"
+            ],
+            "immigration_status": [
+                "application for judicial review"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "legal_basis": [
+                "subsection 40(1) of the Act"
+            ],
+            "evidence_assessment": [
+                "crucial for assessing admissibility"
+            ],
+            "standard_of_review": [
+                "assessed whether the omission was a material fact"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "002964",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to declare dependents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "family relationships",
+                "financial support",
+                "best interests of the child"
+            ],
+            "misrepresentation_or_fraud": [
+                "past misrepresentations"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision set aside",
+                "re-determination by a different visa officer"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "family_class_considerations": [
+                "denial of sponsorship applications under family class"
+            ],
+            "best_interests_of_children": [
+                "consideration required"
+            ]
+        }
+    ]
+}

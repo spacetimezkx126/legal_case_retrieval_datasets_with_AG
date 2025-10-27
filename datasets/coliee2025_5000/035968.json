@@ -1,0 +1,33 @@
+{
+    "Case ID": "035968",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_presented": [
+                "insufficient evidence",
+                "affidavit",
+                "additional evidence"
+            ],
+            "decision_reasoning": [
+                "lack of sufficient evidence"
+            ],
+            "application_details": [
+                "skilled worker application",
+                "NOC 2151"
+            ],
+            "procedural_fairness": [
+                "new evidence inadmissible"
+            ],
+            "result_of_case": [
+                "judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "denial of skilled worker application"
+            ]
+        }
+    ]
+}

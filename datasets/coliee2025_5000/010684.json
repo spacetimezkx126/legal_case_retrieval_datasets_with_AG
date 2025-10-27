@@ -1,0 +1,34 @@
+{
+    "Case ID": "010684",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "insufficient Christian knowledge",
+                "minor errors in understanding"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reassessment by a different panel"
+            ],
+            "reasonableness_standard": [
+                "RPD decision deemed unreasonable"
+            ],
+            "specific_group_membership": [
+                "Christian",
+                "underground church member"
+            ],
+            "evidence_assessment": [
+                "limited education",
+                "fled after raid"
+            ],
+            "decision_outcome": [
+                "case remanded for reassessment"
+            ],
+            "burden_of_proof": [
+                "knowledge of Christianity evaluated"
+            ]
+        }
+    ]
+}

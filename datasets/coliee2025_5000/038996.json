@@ -1,0 +1,48 @@
+{
+    "Case ID": "038996",
+    "Different Crime": [
+        {
+            "Crime Name": "Unreasonable delay in processing immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review application for a writ of mandamus"
+            ],
+            "decision_outcome": [
+                "Court granted the writ, ordering a timely decision on the application"
+            ],
+            "immigration_status": [
+                "permanent residence"
+            ],
+            "standard_of_review": [
+                "as soon as possible"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "procedural_fairness": [
+                "unreasonable delay",
+                "writ of mandamus"
+            ],
+            "criminal_history": [
+                "criminal conviction"
+            ],
+            "security_concerns": [
+                "security checks",
+                "CSIS inactivity"
+            ],
+            "decision_outcome": [
+                "court ordered decision by June 30, 2001"
+            ],
+            "applicable_laws": [
+                "Immigration Act"
+            ]
+        }
+    ]
+}

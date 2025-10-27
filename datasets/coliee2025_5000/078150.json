@@ -1,0 +1,61 @@
+{
+    "Case ID": "078150",
+    "Different Crime": [
+        {
+            "Crime Name": "Corrupt electoral practices",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "partially allowed"
+            ],
+            "judicial_authority": [
+                "Appeal Board",
+                "new panel"
+            ],
+            "cause_of_action": [
+                "corrupt electoral practices",
+                "exclusion of off-reserve members from voting"
+            ],
+            "nature_of_offense": [
+                "corruption"
+            ],
+            "appeal_outcome": [
+                "remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Breach of procedural fairness",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach",
+                "private communications",
+                "public hearing",
+                "cross-examination"
+            ],
+            "decision_reasoning": [
+                "exclusion of applicant",
+                "vital information shared privately"
+            ],
+            "cause_of_action": [
+                "private communication",
+                "corruption allegations"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "procedural fairness breach analysis",
+                "jurisdiction over Charter challenges"
+            ],
+            "result_of_case": [
+                "partially allowed",
+                "reconsideration by new panel",
+                "no jurisdiction over Charter challenge"
+            ],
+            "conclusion_outcome": [
+                "breach of procedural fairness",
+                "invalidation of decision"
+            ]
+        }
+    ]
+}

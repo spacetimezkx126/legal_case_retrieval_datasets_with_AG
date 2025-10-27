@@ -1,0 +1,114 @@
+{
+    "Case ID": "064754",
+    "Different Crime": [
+        {
+            "Crime Name": "Border crossing without prior authorization",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lack of credibility",
+                "implausibility",
+                "contradictory evidence"
+            ],
+            "state_protection_analysis": [
+                "presumption of state protection",
+                "adequate state protection",
+                "clear evidence required"
+            ],
+            "decision_outcome": [
+                "Board's decision unreasonable",
+                "case remanded for reconsideration"
+            ],
+            "evidence_assessment": [
+                "not reporting threats",
+                "quick departure",
+                "questioned applicants' credibility"
+            ],
+            "refugee_status_eligibility": [
+                "denying refugee status",
+                "refugee claimants"
+            ]
+        },
+        {
+            "Crime Name": "Refugee claim processing",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "implausible story",
+                "ignored local context",
+                "relevant evidence"
+            ],
+            "state_protection_analysis": [
+                "negative findings",
+                "clear and convincing evidence required",
+                "professionals at risk"
+            ],
+            "reasonableness_standard": [
+                "Board's findings unreasonable"
+            ],
+            "documentary_evidence": [
+                "local context",
+                "professionals at risk"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "burden_of_proof": [
+                "clear evidence required",
+                "clear and convincing evidence to rebut"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "presumption of state protection",
+                "lack of state protection"
+            ],
+            "credibility_findings": [
+                "implausible actions",
+                "Board's credibility findings unreasonable"
+            ],
+            "evidence_provided": [
+                "local context",
+                "specific risks overlooked"
+            ],
+            "reasonableness_standard": [
+                "findings were unreasonable"
+            ],
+            "appeal_outcome": [
+                "application granted",
+                "case referred back"
+            ],
+            "risk_characterization": [
+                "fearing retaliation"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "implausible actions",
+                "failed to rebut presumption"
+            ],
+            "state_protection_analysis": [
+                "presumption of state protection",
+                "inadequate evidence",
+                "overlooked local context"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "negative decision challenged"
+            ],
+            "risk_assessment": [
+                "specific risks overlooked",
+                "threats from FARC"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision unreasonable",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

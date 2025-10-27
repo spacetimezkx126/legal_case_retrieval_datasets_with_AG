@@ -1,0 +1,29 @@
+{
+    "Case ID": "088713",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to establish identity under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "lack of verifiable identity documents",
+                "inconclusive forensic tests",
+                "altered documents"
+            ],
+            "evidence_assessment": [
+                "unreliable primary or secondary documents",
+                "witness testimonies lacked credibility"
+            ],
+            "decision_outcome": [
+                "Board's decision rejecting the claim is reasonable and upheld",
+                "application for judicial review dismissed"
+            ],
+            "legal_basis": [
+                "IRPA s. 106",
+                "Rules s. 7"
+            ],
+            "refugee_status_eligibility": [
+                "claimants failed to meet burden of proving identities"
+            ]
+        }
+    ]
+}

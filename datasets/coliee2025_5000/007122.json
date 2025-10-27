@@ -1,0 +1,80 @@
+{
+    "Case ID": "007122",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility for Serious Criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "risk_assessment": [
+                "past convictions for molesting children"
+            ],
+            "evidence_assessment": [
+                "reduction of charges from felony to misdemeanor",
+                "equivalent Canadian hybrid offense (sexual interference)",
+                "sentencing differences"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "RPD's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "molesting children"
+            ],
+            "mitigating_factors": [
+                "reduced charges",
+                "potential penalties",
+                "mitigating circumstances"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; RPD's decision upheld"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "applicable_statute": [
+                "Article 1F(b)"
+            ],
+            "nature_of_offense": [
+                "misdemeanor",
+                "hybrid offense in Canada"
+            ],
+            "material_misrepresentation": [
+                "concealed criminal record"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Interference",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "serious_issue": [
+                "crime seriousness"
+            ],
+            "risk_assessment": [
+                "evaluation of crime elements, prosecution mode, prescribed penalty, facts, mitigating/aggravating circumstances"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed RPD's determination using correctness for legal interpretation and reasonableness for fact/law application"
+            ],
+            "reasonableness_of_decision": [
+                "RPD did not err; its decision reasonably assessed the crime's seriousness based on applicable factors and Canadian perspectives"
+            ],
+            "criminal_history": [
+                "reduction of charges from felony to misdemeanor, equivalent Canadian hybrid offense (sexual interference), and sentencing differences"
+            ]
+        }
+    ]
+}

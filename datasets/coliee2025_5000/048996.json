@@ -1,0 +1,59 @@
+{
+    "Case ID": "048996",
+    "Different Crime": [
+        {
+            "Crime Name": "Corrupt practice in connection with an election",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "EPA Section 1(a)"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Parties must object at the first opportunity",
+                "No breach of procedural fairness found"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "applicable_statute": [
+                "Election Procedures Act (EPA)"
+            ],
+            "judicial_authority": [
+                "Appeal Committee"
+            ],
+            "cause_of_action": [
+                "Events from the 2006 election"
+            ]
+        },
+        {
+            "Crime Name": "Election appeal procedural unfairness",
+            "Crime Type": "others",
+            "legal_basis": [
+                "EPA"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_reasoning": [
+                "jurisdictional_issues",
+                "procedure_followed"
+            ],
+            "application_details": [
+                " Appeal Committee interpreted the EPA to allow hearing the Simpson Appeal"
+            ],
+            "conclusion_outcome": [
+                "Application dismissed"
+            ],
+            "cost_awards": [
+                "costs awarded against Applicant"
+            ]
+        }
+    ]
+}

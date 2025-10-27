@@ -1,0 +1,163 @@
+{
+    "Case ID": "087161",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Refugee Claims Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.82(5)"
+            ],
+            "risk_assessment": [
+                "ongoing risk",
+                "dangerous contacts",
+                "links to terrorist organizations"
+            ],
+            "procedural_fairness": [
+                "judicial reviews",
+                "new evidence and behavior"
+            ],
+            "decision_outcome": [
+                "conditions upheld but slightly relaxed"
+            ],
+            "criminality_inadmissibility": [
+                "misrepresentations",
+                "security certificate"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "yes"
+            ],
+            "judicial_authority": [
+                "Judicial reviews"
+            ],
+            "decision_outcome": [
+                "Most conditions upheld with slight modifications"
+            ],
+            "procedural_fairness": [
+                "reasonableness of security certificate and conditions assessed"
+            ],
+            "evidence_provided": [
+                "alleged ties to terrorist organizations",
+                "repeated dishonesty"
+            ],
+            "balance_of_convenience": [
+                "balancing individual liberty with national security"
+            ],
+            "risk_characterization": [
+                "danger to national security"
+            ],
+            "specific_targeting": [
+                "Mr. Mahjoub's past associations with terrorist groups"
+            ],
+            "nexus_to_convention_grounds": [
+                "threat to Canada's security"
+            ],
+            "relationship_genuineness": [
+                "lack of cooperation and secretive behavior"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "appeal_outcome": [
+                "subject to further appeals"
+            ],
+            "cause_of_action": [
+                "perjury and lack of credibility"
+            ],
+            "nature_of_offense": [
+                "untruthful statements, denying knowledge of terrorists"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a Terrorist Entity under the Criminal Code.",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "serious threat based on objectively reasonable suspicion"
+            ],
+            "release_conditions": [
+                "proportional and minimize intrusion on privacy rights while ensuring national security"
+            ],
+            "decision_outcome": [
+                "conditions of release are upheld with minor amendments"
+            ],
+            "reasonableness_of_decision": [
+                "effectively neutralize risks",
+                "proportionally address the assessed danger without excessively infringing on Mr. Mahjoub's rights"
+            ],
+            "evidence_provided": [
+                "public and confidential evidence, past decisions, and the reasonableness of the certificate"
+            ],
+            "involvement_details": [
+                "past associations with terrorist organizations",
+                "lack of cooperation",
+                "non-compliance",
+                "secretive behavior"
+            ],
+            "judicial_review_result": [
+                "most conditions were maintained, with some modifications like reducing reporting frequency and removing mail supervision"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing Justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "decision_reasoning": [
+                "balance individual liberty with national security interests",
+                "ongoing risks",
+                "non-cooperation with authorities",
+                "secretive behavior"
+            ],
+            "evidence_presented": [
+                "history of lying about terrorist contacts",
+                "use of aliases",
+                "judicial reviews finding untruthfulness"
+            ],
+            "result_details": [
+                "most conditions remain",
+                "supervision of communications",
+                "travel restrictions",
+                "reduced reporting frequency",
+                "supervised mobile phone use"
+            ],
+            "relevant_statute": [
+                "IRPA provisions"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Conditions of Release",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA section 82(2)(b)",
+                "Charkoui n°1 (2007 SCC 9)"
+            ],
+            "credibility_findings": [
+                "past associations with terrorists",
+                "lack of cooperation"
+            ],
+            "procedural_fairness": [
+                "reviewed public/confidential evidence",
+                "assessed danger and proportionality of conditions"
+            ],
+            "risk_assessment": [
+                "latent danger",
+                "uncooperative behavior",
+                "secretive actions"
+            ],
+            "charter_rights_analysis": [
+                "balance individual liberty with national security interests",
+                "minimally impairing privacy rights"
+            ],
+            "decision_outcome": [
+                "conditions largely upheld with minor modifications"
+            ]
+        }
+    ]
+}

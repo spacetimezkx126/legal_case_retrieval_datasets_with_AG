@@ -1,0 +1,50 @@
+{
+    "Case ID": "050953",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "evidence_assessment": [
+                "Tribunal ignored applicant's father's sworn declaration"
+            ],
+            "procedural_fairness": [
+                "Omission of relevant evidence"
+            ],
+            "decision_outcome": [
+                "Application for judicial review allowed",
+                "Matter referred back for rehearing"
+            ],
+            "identity_verification": [
+                "Discrepancies in statements about Parbhjit Singh"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed Tribunal's decision"
+            ]
+        },
+        {
+            "Crime Name": "False swearing",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "applicant's evidence",
+                "father's sworn declaration"
+            ],
+            "procedural_fairness": [
+                "failed to consider all material evidence"
+            ],
+            "decision_reasoning": [
+                "err in law by not considering all material evidence"
+            ],
+            "application_details": [
+                "judicial review of the Tribunal's decision"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "Tribunal's decision set aside",
+                "case referred back for reconsideration"
+            ],
+            "cause_of_action": [
+                "discrepancy between sworn statements and testimony"
+            ]
+        }
+    ]
+}

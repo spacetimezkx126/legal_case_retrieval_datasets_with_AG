@@ -1,0 +1,36 @@
+{
+    "Case ID": "016020",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "clearly wrong",
+                "wrong principle",
+                "factual misapprehension"
+            ],
+            "evidence_type": [
+                "discovery questions"
+            ],
+            "decision_reasoning": [
+                "relevance",
+                "proportionality",
+                "not overly burdensome"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cost_awards": [
+                "awarding costs to the respondents"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed the appeal",
+                "prothonotary's refusal of 85 discovery questions"
+            ],
+            "cause_of_action": [
+                "patent validity",
+                "infringement"
+            ]
+        }
+    ]
+}

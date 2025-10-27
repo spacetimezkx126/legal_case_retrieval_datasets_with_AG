@@ -1,0 +1,29 @@
+{
+    "Case ID": "009539",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate (H&C) Grounds Application Rejection",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "reviewed_on_a_correctness_standard"
+            ],
+            "credibility_findings": [
+                "inconsistencies_in_story",
+                "lack_of_evidence",
+                "no_credible_threat"
+            ],
+            "evidence_sufficiency": [
+                "insufficient_evidence_provided"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "application_rejected"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed"
+            ],
+            "review_process": [
+                "reasonableness_standards_applied"
+            ]
+        }
+    ]
+}

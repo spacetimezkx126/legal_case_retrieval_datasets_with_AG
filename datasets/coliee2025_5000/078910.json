@@ -1,0 +1,32 @@
+{
+    "Case ID": "078910",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over inheritance distribution"
+            ],
+            "procedure_followed": [
+                "Defendants moved to dismiss the case under Rule 419",
+                "Court analyzed delays, agreements, and evidence of duress"
+            ],
+            "result_of_case": [
+                "Plaintiff's claim dismissed",
+                "defendants granted costs"
+            ],
+            "rule_regulation": [
+                "Rule 419"
+            ],
+            "decision_reasoning": [
+                "Claim is frivolous, vexatious, and an abuse of process",
+                "Lack of prosecution",
+                "Barred by delay",
+                "Insufficient evidence of duress"
+            ],
+            "cost_awards": [
+                "Defendants are awarded costs"
+            ]
+        }
+    ]
+}

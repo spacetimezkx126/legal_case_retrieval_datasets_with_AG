@@ -1,0 +1,25 @@
+{
+    "Case ID": "031040",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration non-compliance",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Denial of refugee status"
+            ],
+            "procedural_fairness": [
+                "Motion for leave to apply for a stay of departure notices"
+            ],
+            "decision_outcome": [
+                "Application for stay dismissed"
+            ],
+            "credibility_assessment": [
+                "Lack of credible claims"
+            ],
+            "legal_basis": [
+                "Section 18.2 of the Federal Court Act",
+                "Federal Court Act inherent jurisdiction"
+            ]
+        }
+    ]
+}

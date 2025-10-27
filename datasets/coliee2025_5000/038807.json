@@ -1,0 +1,74 @@
+{
+    "Case ID": "038807",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "no nexus to a protected group"
+            ],
+            "risk_assessment": [
+                "deemed risks speculative",
+                "lack of evidence"
+            ],
+            "decision_outcome": [
+                "RPD's decision was reasonable",
+                "judicial review application dismissed"
+            ],
+            "evidence_assessment": [
+                "insufficient risk on the balance of probabilities"
+            ],
+            "legal_basis": [
+                "persecution must link to a Convention ground"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no nexus established"
+            ],
+            "persecution_details": [
+                "fear of persecution over construction dispute"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "serious_criminality": [],
+            "risk_characterization": [
+                "risks were speculative"
+            ],
+            "relationship_genuineness": [],
+            "material_misrepresentation": [],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": []
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "refugee_status": [
+                "no nexus between fear and a Convention ground"
+            ],
+            "decision_reasonableness": [
+                "RPD's decision is reasonable"
+            ],
+            "cause_of_action": [
+                " Applicants claimed refugee status due to alleged persecution in Russia over a construction dispute"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed whether RPD erred in rejecting refugee claims"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; applicants denied refugee status"
+            ],
+            "application_details": [
+                "The principal applicant feared persecution due to his role in a construction dispute, but the RPD found this fear was based on individual actions, not group affiliation"
+            ]
+        }
+    ]
+}

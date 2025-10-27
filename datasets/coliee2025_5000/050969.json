@@ -1,0 +1,32 @@
+{
+    "Case ID": "050969",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application Rejection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "establishment in Canada",
+                "related hardship",
+                "community involvement",
+                "employment",
+                "volunteer work"
+            ],
+            "procedural_fairness": [
+                "failure to reasonably assess establishment and hardship"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "evidence_assessment": [
+                "extensive evidence provided",
+                "perfunctory acknowledgment by officer",
+                "selective interpretation of country conditions"
+            ]
+        }
+    ]
+}

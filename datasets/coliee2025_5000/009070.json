@@ -1,0 +1,28 @@
+{
+    "Case ID": "009070",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Subsection 200(1) of IRPR",
+                "Subsection 22(2) of IRPA"
+            ],
+            "procedural_fairness": [
+                "visa officer ignored evidence",
+                "misapplying the law"
+            ],
+            "evidence_assessment": [
+                "perceived lack of genuineness as a temporary worker"
+            ],
+            "decision_outcome": [
+                "Court allowed the judicial review",
+                "set aside the decision",
+                "referred it back for reconsideration"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed whether the visa officer considered all evidence and applied laws correctly"
+            ]
+        }
+    ]
+}

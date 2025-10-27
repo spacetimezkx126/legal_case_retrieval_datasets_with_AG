@@ -1,0 +1,39 @@
+{
+    "Case ID": "027448",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "United Nations Convention"
+            ],
+            "risk_of_persecution": [
+                "political opinion",
+                "domestic abuse",
+                "military conscription"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "unsubstantiated claims"
+            ],
+            "decision_outcome": [
+                "denied refugee status",
+                "judicial review dismissed"
+            ],
+            "specific_group_membership": [
+                "opposition to military conscription",
+                "victims of domestic abuse"
+            ],
+            "nexus_to_convention_grounds": [
+                "political opinion"
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "evidence_assessment": [
+                "weak claims",
+                "lack of immediate threat"
+            ]
+        }
+    ]
+}

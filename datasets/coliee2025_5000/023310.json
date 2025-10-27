@@ -1,0 +1,60 @@
+{
+    "Case ID": "023310",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized Employment and Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA subsection 40(1)(a)"
+            ],
+            "misrepresentation_or_fraud": [
+                "concealed prior visa refusal",
+                "unauthorized employment"
+            ],
+            "evidence_assessment": [
+                "worked full-time without authorization from December 2010 to June 2012"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "applicant found inadmissible"
+            ],
+            "criminality_inadmissibility": [
+                "material misrepresentations"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA subsection 40(1)(a)"
+            ],
+            "material_misrepresentation": [
+                "prior visa refusal",
+                "unauthorized employment details"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Officer"
+            ],
+            "cause_of_action": [
+                "concealment of prior visa refusal",
+                "unauthorized employment"
+            ],
+            "nature_of_offense": [
+                "misrepresentation"
+            ],
+            "mitigating_factors": [],
+            "appeal_outcome": [
+                "inadmissible for two years"
+            ]
+        }
+    ]
+}

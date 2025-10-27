@@ -1,0 +1,48 @@
+{
+    "Case ID": "005558",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 35(1)(b) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether the visa officer erred in finding Mr. Holway inadmissible and breached procedural fairness."
+            ],
+            "evidence_assessment": [
+                "The officer found his clerical role claim implausible given his rank and chain of command."
+            ],
+            "decision_outcome": [
+                "Court upheld the visa officer's decision, finding it reasonable and not breaching fairness."
+            ],
+            "criminality_inadmissibility": [
+                "Mr. Holway served as a brigadier in Afghanistan's Marxist regime, designated for gross human rights violations."
+            ]
+        },
+        {
+            "Crime Name": "Gross human rights violations association",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "section 35(1)(b) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "procedural fairness"
+            ],
+            "credibility_findings": [
+                "implausible given his rank and chain of command"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "decision_outcome": [
+                "court upheld the refusal",
+                "application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "visa officer's decision",
+                "sponsorship application rejected"
+            ]
+        }
+    ]
+}

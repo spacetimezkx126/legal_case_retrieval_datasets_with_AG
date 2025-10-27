@@ -1,0 +1,61 @@
+{
+    "Case ID": "087042",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 37(1)(a)"
+            ],
+            "membership_in_organization": [
+                "Mara Salvatrucha"
+            ],
+            "specific_actions_or_activities": [
+                "joining Mara Salvatrucha",
+                "participating in activities like graffiti and taxing people"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe he was a member of a criminal organization"
+            ],
+            "involvement_details": [
+                "admitted joining",
+                "acknowledged knowledge of the gang's violent acts",
+                "claimed coercion"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Illegal possession of a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 37(1)(a)"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "evidence_considered": [
+                "membership in Mara Salvatrucha",
+                "activities like graffiti and taxing people",
+                "knowledge of the gang's violent acts"
+            ],
+            "decision_outcome": [
+                "inadmissible",
+                "judicial review dismissed"
+            ],
+            "appeal_process": [
+                "Immigration Division allowed claim",
+                "Immigration Appeal Division overturned",
+                "application for judicial review dismissed"
+            ],
+            "criminal_history": [
+                "member of criminal organization",
+                "no direct involvement in serious crimes"
+            ]
+        }
+    ]
+}

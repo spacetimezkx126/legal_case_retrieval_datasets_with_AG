@@ -1,0 +1,33 @@
+{
+    "Case ID": "089515",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "lack of proper consideration of evidence"
+            ],
+            "evidence_assessment": [
+                "misstated evidence",
+                "dismissed key documents without explanation"
+            ],
+            "reasonableness_standard": [
+                "credibility assessments must be reasonable",
+                "supported by evidence"
+            ],
+            "risk_of_persecution": [
+                "cumulative threats"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination"
+            ],
+            "burden_of_proof": [
+                "alleged lack of credibility"
+            ],
+            "inconsistencies_in_testimony": [
+                "speculative implausibility findings"
+            ]
+        }
+    ]
+}

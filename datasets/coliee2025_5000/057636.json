@@ -1,0 +1,33 @@
+{
+    "Case ID": "057636",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "negligent misrepresentation",
+                "breach of contract",
+                "unjust dismissal"
+            ],
+            "relevant_statute": [
+                "Federal Court Rules 401 and 419(1)(a)",
+                "Public Service Employment Act",
+                "Public Service Staff Relations Act"
+            ],
+            "application_details": [
+                "facts as true under Rule 419(1)(a)"
+            ],
+            "decision_reasoning": [
+                "Claims for misrepresentation and breach of contract were valid",
+                "reinstatement claims fall under statutory review schemes"
+            ],
+            "result_of_case": [
+                "Partially dismissed application",
+                "reinstatement claim and action against Deputy Minister were struck"
+            ]
+        }
+    ]
+}

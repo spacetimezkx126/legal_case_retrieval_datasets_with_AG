@@ -1,0 +1,30 @@
+{
+    "Case ID": "040992",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Misjudgment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "lack of state protection",
+                "dual citizenship"
+            ],
+            "internal_flight_alternative": [
+                "financial considerations",
+                "reasonable refuge possibility",
+                "no serious persecution risk"
+            ],
+            "procedural_fairness": [
+                "Board's decision was unreasonable",
+                "lacked proper application of legal tests"
+            ],
+            "reasonableness_standard": [
+                "correctness and reasonableness standards"
+            ],
+            "decision_outcome": [
+                "Court granted judicial review",
+                "set aside the Board's decision",
+                "remitted the case for redetermination"
+            ]
+        }
+    ]
+}

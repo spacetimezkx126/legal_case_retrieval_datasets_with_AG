@@ -1,0 +1,29 @@
+{
+    "Case ID": "093062",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "documentary_evidence"
+            ],
+            "review_standard": [
+                "reasonableness_standard"
+            ],
+            "evidence_assessment": [
+                "country_conditions",
+                "comparison_with_documentation"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "burden_of_proof": [
+                "lack_of_credible_evidence"
+            ],
+            "standard_of_review": [
+                "RAD_respect_RPD_fact_finding"
+            ]
+        }
+    ]
+}

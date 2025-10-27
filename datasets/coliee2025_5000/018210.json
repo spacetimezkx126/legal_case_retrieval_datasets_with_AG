@@ -1,0 +1,30 @@
+{
+    "Case ID": "018210",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada within four years preceding their application"
+            ],
+            "standard_of_review": [
+                "reasonableness for residency determinations",
+                "correctness for procedural fairness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence to support claims of minimal absences"
+            ],
+            "procedural_fairness": [
+                "inadequate reasons",
+                "procedural errors"
+            ],
+            "decision_outcome": [
+                "appeals granted",
+                "cases sent back for re-evaluation"
+            ],
+            "misrepresentation_or_fraud": [
+                "misrepresented residency status to gain citizenship"
+            ]
+        }
+    ]
+}

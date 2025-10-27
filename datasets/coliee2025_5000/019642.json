@@ -1,0 +1,57 @@
+{
+    "Case ID": "019642",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Suspicion of sham marriage for immigration benefits"
+            ],
+            "evidence_assessment": [
+                "Inconsistencies in evidence",
+                "Unexplained acquisition of a marriage certificate",
+                "Contradictory communication evidence"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "Application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "Marriage primarily for immigration purposes"
+            ],
+            "standard_of_review": [
+                "Balance of probabilities"
+            ],
+            "immigration_status": [
+                "Under scrutiny for potential fraud"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not proven genuine"
+            ],
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "evidence_provided": [
+                "inconsistencies in evidence",
+                "unexplained acquisition of marriage certificate",
+                "contradictory communication evidence"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "suspicion of sham marriage for immigration benefits"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Board"
+            ],
+            "decision_outcome": [
+                "marriage not proven genuine"
+            ]
+        }
+    ]
+}

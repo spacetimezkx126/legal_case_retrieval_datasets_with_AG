@@ -1,0 +1,65 @@
+{
+    "Case ID": "040398",
+    "Different Crime": [
+        {
+            "Crime Name": "Money Laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "reasonable",
+                "transparent",
+                "intelligible"
+            ],
+            "evidence_provided": [
+                "inconsistent testimony",
+                "lack of corroborative evidence",
+                "limited knowledge"
+            ],
+            "reasonableness_standard": [
+                "Board's findings reasonably supported by evidence"
+            ],
+            "persecution_details": [
+                "accused of leaking information during a political campaign"
+            ],
+            "materiality_of_misrepresentation": [
+                "errors noted were not material to the overall decision"
+            ],
+            "appeal_outcome": [
+                "judicial review application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Threats",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistent testimony about kickbacks",
+                "lack of employment records",
+                "limited knowledge of press releases",
+                "errors about the electoral process"
+            ],
+            "decision_reasoning": [
+                "Board’s credibility findings were reasonable and supported by evidence"
+            ],
+            "evidence_assessment": [
+                "some errors not material",
+                "others significantly impacted credibility"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "cause_of_action": [
+                "persecution by PRI members",
+                "accused of leaking information",
+                "threats",
+                "fleeing Mexico"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed the Board’s decision",
+                "analyzing inconsistencies and lack of corroboration in the applicant’s claim"
+            ],
+            "result_of_case": [
+                "Judicial review application dismissed",
+                "no questions of general importance certified"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Case ID": "081896",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "inconsistencies in testimony",
+                "insufficient evidence of financial intermingling",
+                "failed to raise specific concerns with the applicant"
+            ],
+            "evidence_assessment": [
+                "phone bill discrepancies",
+                "photo identification"
+            ],
+            "decision_outcome": [
+                "breach of procedural fairness",
+                "decision quashed",
+                "reconsideration ordered"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged non-genuine marriage"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "inconsistencies in testimony",
+                "insufficient evidence of financial intermingling",
+                "failed to raise specific concerns"
+            ],
+            "relationship_genuineness": [
+                "marriage not genuine if entered primarily for immigration benefits"
+            ],
+            "decision_outcome": [
+                "IAD breached procedural fairness",
+                "decision is quashed",
+                "matter is returned for reconsideration"
+            ],
+            "judicial_authority": [
+                "Judicial review analyzed whether the IAD's decision was procedurally fair and substantively reasonable"
+            ],
+            "appeal_outcome": [
+                "court allowed the application",
+                "ordered reconsideration by a different panel"
+            ],
+            "cause_of_action": [
+                "refusal of her husband's permanent resident application due to an alleged non-genuine marriage"
+            ]
+        }
+    ]
+}

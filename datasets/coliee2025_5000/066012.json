@@ -1,0 +1,34 @@
+{
+    "Case ID": "066012",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "ignored application",
+                "failed to address application"
+            ],
+            "evidence_assessment": [
+                "post-hearing evidence",
+                "relevance",
+                "probative value",
+                "diligence",
+                "dismissed without considering relevant evidence"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for reconsideration"
+            ],
+            "legal_basis": [
+                "Rule 43 of the Refugee Protection Division Rules"
+            ],
+            "reasonableness_standard": [
+                "unreasonably assessed sur place claim"
+            ],
+            "burden_of_proof": [
+                "disbelief in persecution story"
+            ]
+        }
+    ]
+}

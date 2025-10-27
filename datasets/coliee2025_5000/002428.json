@@ -1,0 +1,38 @@
+{
+    "Case ID": "002428",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "Board favored Dr. Verma’s opinion",
+                "dismissed submitted articles without sufficient explanation"
+            ],
+            "credibility_findings": [
+                "credible uncontradicted evidence",
+                "resolve doubts in favor of the applicant"
+            ],
+            "decision_reasoning": [
+                "erred in weighing evidence",
+                "failed to meet reasonableness standards"
+            ],
+            "application_details": [
+                "medical opinions and articles suggesting stress exacerbates scleroderma"
+            ],
+            "relevant_statute": [
+                "Veterans Review and Appeal Board Act"
+            ],
+            "standard_of_review": [
+                "liberal interpretation favoring applicants"
+            ],
+            "result_of_case": [
+                "remitted for redetermination",
+                "allowed judicial review"
+            ],
+            "procedure_followed": [
+                "denials from multiple levels",
+                "sought judicial review in Federal Court"
+            ]
+        }
+    ]
+}

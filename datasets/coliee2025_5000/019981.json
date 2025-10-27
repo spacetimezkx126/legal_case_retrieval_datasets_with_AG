@@ -1,0 +1,64 @@
+{
+    "Case ID": "019981",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of stolen property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Section 197",
+                "Section 64"
+            ],
+            "serious_criminality": [
+                "imprisonment of at least two years"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no certification of question"
+            ],
+            "procedural_fairness": [
+                "Judicial review examined IAD's decision dismissing the appeal for lack of jurisdiction under new Act provisions"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "nature_of_offense": [
+                "breach of stay conditions",
+                "prior serious criminal convictions"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 197 of the Immigration and Refugee Protection Act (IRPA)",
+                "section 64"
+            ],
+            "cause_of_action": [
+                "breach of stay conditions",
+                "serious criminality"
+            ],
+            "decision_reasoning": [
+                "applicant breached Condition No. 5",
+                "prior crimes included breaking and entering"
+            ],
+            "applicable_regulations": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "result_of_case": [
+                "IAD lacked jurisdiction",
+                "judicial review application dismissed"
+            ],
+            "relevant_statute": [
+                "section 197",
+                "section 64(2)"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed IAD's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "Case ID": "014108",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing false information to a police officer",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act, Section 48(2)"
+            ],
+            "judicial_authority": [
+                "Removal Officer"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "family ties",
+                "potential harm to Canadian-born children"
+            ],
+            "criminal_history": [
+                "lengthy criminal record"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "child_best_interests": [
+                "insufficient evidence supporting deferral based on children's interests"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "lack of compelling evidence",
+                "general hardship considerations"
+            ],
+            "criminal_history": [
+                "extensive criminal history",
+                "disregard for Canadian laws"
+            ],
+            "family_ties": [
+                "Canadian-born children"
+            ],
+            "procedural_fairness": [
+                "standard of review is patent unreasonableness",
+                "officer must act fairly"
+            ],
+            "reasonableness_of_decision": [
+                "no error in refusing deferral"
+            ],
+            "immigration_status": [
+                "faced deportation"
+            ],
+            "risk_assessment": [
+                "unfavorable pre-removal risk assessment"
+            ]
+        },
+        {
+            "Crime Name": "Failure to attend court",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "relevant_statute": [
+                "Section 48(2) of the Immigration and Refugee Protection Act"
+            ],
+            "discretion_exercise": [
+                " Removal Officer's discretion"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "interests of affected children",
+                "humanitarian & compassionate grounds"
+            ],
+            "decision_reasoning": [
+                "long criminal record",
+                "general hardship considerations insufficient for deferral"
+            ],
+            "conclusion_outcome": [
+                "did not err",
+                "application for judicial review dismissed"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "upholding the Removal Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "applicable_laws": [
+                "Section 48(2) of the Immigration and Refugee Protection Act"
+            ],
+            "family_impact": [
+                "interests of affected children",
+                "harm to Canadian-born children"
+            ],
+            "criminal_history": [
+                "accurately noted criminal record",
+                "older convictions less relevant"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no question certified"
+            ],
+            "court_ruling": [
+                "Removal Officer did not err"
+            ]
+        }
+    ]
+}

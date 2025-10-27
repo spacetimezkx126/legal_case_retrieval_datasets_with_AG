@@ -1,0 +1,63 @@
+{
+    "Case ID": "052328",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "accepting a bribe"
+            ],
+            "applicable_statute": [
+                "Article 1F(b)",
+                "Criminal Code s. 120"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Board"
+            ],
+            "decision_outcome": [
+                "excluded from refugee status",
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "credibility findings assessed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "convicted of accepting a bribe in Romania"
+            ],
+            "material_misrepresentation": [
+                "claim of being framed not credible"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Article 1F(b) of the Convention",
+                "Criminal Code s. 120"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "credibility_findings": [
+                "lacked credibility"
+            ],
+            "risk_of_persecution": [
+                "claimed political persecution"
+            ],
+            "decision_reasoning": [
+                "properly excluded"
+            ],
+            "applicable_regulations": [
+                "maximum 14-year sentence"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

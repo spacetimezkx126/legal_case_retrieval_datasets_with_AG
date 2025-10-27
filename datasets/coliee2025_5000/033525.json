@@ -1,0 +1,55 @@
+{
+    "Case ID": "033525",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act",
+                "Rule 7 of the Refugee Protection Division Rules"
+            ],
+            "credibility_assessment": [
+                "inconsistent testimony",
+                "lack of supporting documentation"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "refugee_status_eligibility": [
+                "denied refugee status"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "lack of credible explanation for absence of documents"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (sections 96 and 97)",
+                "Refugee Protection Division Rules Rule 7"
+            ],
+            "decision_outcome": [
+                "denied refugee status",
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "credibility issues analyzed",
+                "procedural fairness claims examined"
+            ],
+            "evidence_provided": [
+                "lack of supporting documentation",
+                "inconsistent testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness standard applied"
+            ],
+            "judicial_authority": [
+                "Federal Court upheld Board's decision"
+            ]
+        }
+    ]
+}

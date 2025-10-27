@@ -1,0 +1,31 @@
+{
+    "Case ID": "055056",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation for Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "adverse finding",
+                "discrepancies in narrative",
+                "lack of knowledge"
+            ],
+            "identity_verification": [
+                "failed to prove identity"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status",
+                "fear of forced marriage and rape"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "claim rejected"
+            ],
+            "legal_basis": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "judicial review under IRPA subsection 72(1)"
+            ]
+        }
+    ]
+}

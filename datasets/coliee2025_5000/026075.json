@@ -1,0 +1,51 @@
+{
+    "Case ID": "026075",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration application misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "failure to disclose marriage"
+            ],
+            "family_class_considerations": [
+                "non-accompanying family member",
+                "not examined"
+            ],
+            "procedural_fairness": [
+                "no breach found"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose marital status",
+            "Crime Type": "others",
+            "legal_basis": [
+                "paragraph 117(9)(d) of the Regulations"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness found"
+            ],
+            "application_details": [
+                "Applicant married in May 2004 but did not update his application or disclose this change"
+            ],
+            "decision_reasoning": [
+                "applicant's wife does not qualify as a family class member due to non-disclosure and lack of examination before landing"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "relevant_statute": [
+                "immigration regulations"
+            ]
+        }
+    ]
+}

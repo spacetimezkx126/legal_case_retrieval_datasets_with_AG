@@ -1,0 +1,56 @@
+{
+    "Case ID": "053322",
+    "Different Crime": [
+        {
+            "Crime Name": "Possessing proceeds of crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "providing the report and allowing submissions",
+                "not necessarily detailed internal documents unless specifically requested"
+            ],
+            "decision_outcome": [
+                "Applications for judicial review dismissed",
+                "no interference with prior decisions"
+            ],
+            "applicable_statute": [
+                "IRPA s.44"
+            ],
+            "judicial_authority": [
+                "CBSA processes"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "cause_of_action": [
+                "Applicant's criminal convictions led to admissibility concerns and deportation proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "procedurally fair",
+                "right to make submissions",
+                "receive a copy of the report"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Applications dismissed"
+            ],
+            "evidence_considered": [
+                "conviction for cocaine trafficking"
+            ],
+            "admissibility_hearing": [
+                "admissibility proceedings"
+            ],
+            "review_process": [
+                "Judicial review applications"
+            ],
+            "deportation_order": [
+                "deportation order"
+            ]
+        }
+    ]
+}

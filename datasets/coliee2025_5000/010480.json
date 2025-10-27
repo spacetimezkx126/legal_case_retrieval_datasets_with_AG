@@ -1,0 +1,28 @@
+{
+    "Case ID": "010480",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions between visa application and refugee claim",
+                "lack of medical evidence",
+                "failure to report mistreatment",
+                "delay in filing claim",
+                "implausibility of no after-effects from torture"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status based on alleged persecution in India but was deemed not credible"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

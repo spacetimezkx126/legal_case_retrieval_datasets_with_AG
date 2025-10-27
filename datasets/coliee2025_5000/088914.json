@@ -1,0 +1,33 @@
+{
+    "Case ID": "088914",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "balance of probabilities",
+                "natural justice standards"
+            ],
+            "applicable_statute": [
+                "section 5(1)(c) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "Appeals dismissed"
+            ],
+            "standard_of_review": [
+                "reviewed for correctness"
+            ],
+            "residency_requirements": [
+                "insufficient proof of residency"
+            ],
+            "evidence_provided": [
+                "failed to provide documents within 60 days"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge",
+                "Federal Court"
+            ]
+        }
+    ]
+}

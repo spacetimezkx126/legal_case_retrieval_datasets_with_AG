@@ -1,0 +1,35 @@
+{
+    "Case ID": "057495",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "IRPR"
+            ],
+            "refugee_criteria": [
+                "Convention refugee",
+                "Country of asylum class definitions"
+            ],
+            "risk_of_persecution": [
+                "credible fear of persecution"
+            ],
+            "internal_flight_alternative": [
+                "no viable internal flight alternative"
+            ],
+            "decision_reasoning": [
+                "lack of Convention grounds or serious personal impact"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "conclusion_outcome": [
+                "Application dismissed"
+            ],
+            "result_of_case": [
+                "no basis for review"
+            ]
+        }
+    ]
+}

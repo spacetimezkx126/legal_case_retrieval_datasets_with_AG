@@ -1,0 +1,52 @@
+{
+    "Case ID": "004258",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s 37(1)(b)",
+                "IRPA s 72(1)"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "Decision overturned"
+            ],
+            "criminality_inadmissibility": [
+                "human smuggling"
+            ],
+            "regulatory_compliance": [
+                "failure to provide notice under Rules s 47"
+            ],
+            "charter_rights": [
+                "constitutional arguments dismissed due to lack of notice"
+            ]
+        },
+        {
+            "Crime Name": "People Smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s 37(1)(b)"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable interpretation"
+            ],
+            "judicial_review_process": [
+                "judicial review analyzed application of IRPA provisions"
+            ],
+            "burden_of_proof": [
+                "alignment with international standards required"
+            ],
+            "decision_outcome": [
+                "Board’s decision overturned; matter referred back for redetermination"
+            ],
+            "immigration_policy": [
+                "inadmissibility for people smuggling"
+            ]
+        }
+    ]
+}

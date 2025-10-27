@@ -1,0 +1,57 @@
+{
+    "Case ID": "004109",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "pending H & C application"
+            ],
+            "irreparable_harm": [
+                "not established"
+            ],
+            "serious_issue": [
+                "no serious issue"
+            ],
+            "child_best_interests": [
+                "consideration claimed but rejected"
+            ],
+            "psychological_impact": [
+                "report mentioned but dismissed"
+            ],
+            "family_ties": [
+                "family dependencies cited"
+            ],
+            "procedural_fairness": [
+                "judicial review of enforcement officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Motion dismissed"
+            ],
+            "family_impact": [
+                "family dependencies"
+            ],
+            "procedural_fairness": [
+                "removal is the rule and deferral the exception",
+                "Officers must consider special circumstances but not evaluate H & C applications"
+            ],
+            "immigration_status": [
+                "work permit status"
+            ],
+            "evidence_considered": [
+                "psychological report",
+                "child's best interests"
+            ],
+            "appeal_process": [
+                "Judicial review motion"
+            ]
+        }
+    ]
+}

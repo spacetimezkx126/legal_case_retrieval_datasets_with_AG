@@ -1,0 +1,67 @@
+{
+    "Case ID": "038532",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "consider all evidence",
+                "not interviewing the applicant",
+                "fettering discretion"
+            ],
+            "family_ties": [
+                "family reunification goals"
+            ],
+            "immigration_status": [
+                "temporary resident visa",
+                "repeated TRV denials"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 72(1)"
+            ],
+            "evidence_consideration": [
+                "provided evidence of finances, support letters, employer leave"
+            ],
+            "risk_assessment": [
+                "perceived intent to remain in Canada"
+            ],
+            "reasonableness_of_decision": [
+                "officer considered relevant factors",
+                "acted within discretionary powers"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "consider all evidence",
+                "not interviewing the applicant",
+                "fettering discretion"
+            ],
+            "evidence_considered": [
+                "finances",
+                "support letters",
+                "employer leave"
+            ],
+            "decision_outcome": [
+                "refused due to weak ties to Syria",
+                "no procedural unfairness",
+                "no error in decision"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "Judicial review application under IRPA subsection 72(1)"
+            ],
+            "relevant_factors": [
+                "repeated TRV denials",
+                "perceived intent to remain in Canada"
+            ],
+            "family_impact": [
+                "ignoring family reunification goals"
+            ]
+        }
+    ]
+}

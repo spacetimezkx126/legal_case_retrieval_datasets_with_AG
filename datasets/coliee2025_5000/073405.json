@@ -1,0 +1,75 @@
+{
+    "Case ID": "073405",
+    "Different Crime": [
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "no documentary evidence",
+                "no formal request for deferral"
+            ],
+            "procedural_fairness": [
+                "officer's notes indicate no request was made"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "appeal_outcome": [
+                "upholding the Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_provided": [
+                "no documentary evidence",
+                "no formal deferral request"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "judicial_review_result": [
+                "upholding Officer's decision"
+            ],
+            "refugee_status_claim": [
+                "unsuccessful"
+            ],
+            "reasoning_given": [
+                "no deferral requested",
+                "no obligation to investigate unpresented issues"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Context",
+            "Crime Type": "Drug-related_Crimes",
+            "decision_made_by": [
+                "Officer"
+            ],
+            "deportation_order": [
+                "execution despite alleged health concerns"
+            ],
+            "evidence_sufficiency": [
+                "failed to provide documentary evidence or formally request deferral"
+            ],
+            "review_process": [
+                "Judicial review application filed challenging Officer's decision",
+                "Federal Court reviewed facts and applicable laws"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no questions certified"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "049280",
+    "Different Crime": [
+        {
+            "Crime Name": "Convention Refugee Status",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "race",
+                "religion",
+                "nationality",
+                "membership in a particular social group",
+                "political opinion",
+                "state's inability to protect"
+            ],
+            "social_group_membership": [
+                "family as a particular social group"
+            ],
+            "risk_of_persecution": [
+                "fear of murder due to blood feud"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no Convention refugee status granted"
+            ],
+            "nexus_to_convention_grounds": [
+                "blood feud not considered persecution under Convention grounds"
+            ],
+            "independent_review_by_rad": [
+                "Board's decision upheld by the court"
+            ]
+        }
+    ]
+}

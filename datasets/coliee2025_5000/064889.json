@@ -1,0 +1,48 @@
+{
+    "Case ID": "064889",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration violations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "mootness analysis"
+            ],
+            "procedural_fairness": [
+                "two-step analysis applied"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "denied"
+            ],
+            "misrepresentation_or_fraud": [],
+            "regulatory_compliance": []
+        },
+        {
+            "Crime Name": "Criminal convictions",
+            "Crime Type": "others",
+            "mootness": [
+                "no live controversy affecting the rights of the parties",
+                "case is moot if collateral consequences or justifies use of judicial resources"
+            ],
+            "decision_reasoning": [
+                "applicant removed from Canada",
+                "H & C application dismissed",
+                "issue of deferring removal became academic"
+            ],
+            "court_ruling": [
+                "application for judicial review is moot",
+                "court declines to address merits",
+                "application dismissed"
+            ],
+            "procedure_followed": [
+                "court analyzed whether case was moot",
+                "discretion exercised not to hear despite moot status"
+            ],
+            "cause_of_action": [
+                "judicial review of officer's decision not to defer removal until H & C application decided"
+            ]
+        }
+    ]
+}

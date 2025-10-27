@@ -1,0 +1,30 @@
+{
+    "Case ID": "016224",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days of residence in Canada over four years"
+            ],
+            "legal_basis": [
+                "Section 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness simpliciter"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Citizenship Court"
+            ],
+            "decision_outcome": [
+                "remitted for redetermination"
+            ],
+            "procedural_fairness": [
+                "miscalculation of absences",
+                "ambiguous legal standard"
+            ]
+        }
+    ]
+}

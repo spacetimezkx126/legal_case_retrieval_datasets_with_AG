@@ -1,0 +1,51 @@
+{
+    "Case ID": "005216",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada pursuant to paragraph 34(1)(f) of the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "paragraph 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "officer concluded MQM-A was a terrorist organization without clear reasoning or credible evidence",
+                "analysis lacked specifics on acts meeting the legal definition of terrorism"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "case remitted for reconsideration by another officer"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "criminality_inadmissibility": [
+                "membership in a terrorist organization"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in terrorist activities",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_quality": [
+                "insufficient reasoning or analysis"
+            ],
+            "procedural_fairness": [
+                "analyzed"
+            ],
+            "decision_outcome": [
+                "overturned"
+            ],
+            "judicial_review_result": [
+                "case remitted for reconsideration"
+            ]
+        }
+    ]
+}

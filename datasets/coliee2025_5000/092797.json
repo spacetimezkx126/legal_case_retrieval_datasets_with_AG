@@ -1,0 +1,30 @@
+{
+    "Case ID": "092797",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over judicial review application leading to costs assessment."
+            ],
+            "procedure_followed": [
+                "Judicial review application dismissed; costs assessment process initiated with written submissions from both parties."
+            ],
+            "result_of_case": [
+                "Bill of Costs allowed for $10,537.33, including some double costs from October 12, 2010."
+            ],
+            "specific_rule_applied": [
+                "Federal Courts Rules, specifically Rules 400(3), 420(2), and 407."
+            ],
+            "decision_reasoning": [
+                "Double costs are allowed from October 12, 2010, as the offer became a good compromise by that date."
+            ],
+            "evidence_presented": [
+                "Settlement offer details, written submissions from both parties."
+            ],
+            "relevant_statute": [
+                "Rule 420(2) allows for double costs if a defendant's settlement offer is more favorable than the judgment."
+            ]
+        }
+    ]
+}

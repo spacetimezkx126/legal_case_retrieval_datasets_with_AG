@@ -1,0 +1,65 @@
+{
+    "Case ID": "023355",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Article 1F(a)"
+            ],
+            "exclusion_reason": [
+                "voluntary participation in crimes against humanity"
+            ],
+            "decision_outcome": [
+                "applicant excluded from refugee protection"
+            ],
+            "procedural_fairness": [
+                "Refugee Board reviewed evidence, applied Article 1F(a), and judicial review upheld the decision"
+            ],
+            "standard_of_review": [
+                "lower than 'beyond a reasonable doubt' but higher than 'balance of probabilities'"
+            ],
+            "judicial_authority": [
+                "Judicial review application denied"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Article 1F(a) of the UN Refugee Convention"
+            ],
+            "involvement_details": [
+                "voluntarily joined and participated in CDR activities, including atrocities"
+            ],
+            "standard_of_proof": [
+                "lower than 'beyond a reasonable doubt' but higher than 'balance of probabilities'"
+            ],
+            "refugee_status_outcome": [
+                "excluded from refugee protection"
+            ],
+            "judicial_review_result": [
+                "denied"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(a)"
+            ],
+            "exclusion_reason": [
+                "voluntary participation in crimes against humanity"
+            ],
+            "evidentiary_standard": [
+                "lower than 'beyond a reasonable doubt' but higher than 'balance of probabilities'"
+            ],
+            "credibility_findings": [
+                "actions and seniority indicate active involvement in human rights abuses"
+            ],
+            "decision_outcome": [
+                "Judicial review application denied; applicant excluded from refugee protection"
+            ]
+        }
+    ]
+}

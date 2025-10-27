@@ -1,0 +1,27 @@
+{
+    "Case ID": "054656",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Relevant documents or information that could reasonably lead to advancing a case or undermining an opponent's case must be disclosed during discovery"
+            ],
+            "application_details": [
+                "The defendant argues several categories of questions are relevant, including assignments, inventor correspondence, U.S. patent details, and technical specifics"
+            ],
+            "decision_reasoning": [
+                "The court evaluates each category based on relevance and whether they seek factual or opinion-based responses"
+            ],
+            "result_of_case": [
+                "Court ordered certain questions to be answered and documents produced, reversing parts of the prothonotary’s decision"
+            ],
+            "procedure_followed": [
+                "Appeal from prothonotary’s decision refusing to compel answers/documents. Court reviewed legal principles and applied them to each disputed question category"
+            ],
+            "cause_of_action": [
+                "Defendant sought additional information through discovery, which plaintiffs refused to provide, leading to this appeal"
+            ]
+        }
+    ]
+}

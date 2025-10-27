@@ -1,0 +1,46 @@
+{
+    "Case ID": "072421",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "erroneous facts",
+                "reasonable interpretations of evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "material_misrepresentation": [
+                "insufficient evidence of net worth and business experience"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "adherence to procedural fairness",
+                "opportunities to clarify discrepancies"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "upheld the visa officer's decision"
+            ],
+            "evidence_provided": [
+                "insufficient evidence of net worth and business experience"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ],
+            "applicable_statute": [
+                "IRPA and Regulations"
+            ]
+        }
+    ]
+}

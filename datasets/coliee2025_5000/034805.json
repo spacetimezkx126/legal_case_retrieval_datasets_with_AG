@@ -1,0 +1,33 @@
+{
+    "Case ID": "034805",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "multiple inconsistencies",
+                "negative credibility determination",
+                "errors made",
+                "cumulatively acceptable"
+            ],
+            "reasonableness_standard": [
+                "credibility findings reviewed for reasonableness",
+                "justification, transparency, intelligibility in decision-making process",
+                "RPD's findings were reasonable despite minor errors"
+            ],
+            "evidence_assessment": [
+                "lack of credible evidence"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution",
+                "claims of persecution including military service"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "review_standard": [
+                "Federal Court reviewed RPD’s decision based on reasonableness standard"
+            ]
+        }
+    ]
+}

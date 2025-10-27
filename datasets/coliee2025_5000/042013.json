@@ -1,0 +1,80 @@
+{
+    "Case ID": "042013",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "criminal harassment convictions"
+            ],
+            "decision_outcome": [
+                "refusal to adjourn the hearing",
+                "dismissing the appeal"
+            ],
+            "procedural_fairness": [
+                "considering procedural fairness"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "limited ties to the child",
+                "societal risk"
+            ],
+            "reasonableness_standard": [
+                "IAD's decision was reasonable"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review dismissed",
+                "deportation order upheld"
+            ]
+        },
+        {
+            "Crime Name": "Criminal Harassment",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "refusal to adjourn",
+                "considered relevant factors"
+            ],
+            "procedural_fairness": [
+                "denied due to lateness and irrelevance",
+                "weighed humanitarian factors"
+            ],
+            "criminal_history": [
+                "convicted of criminal harassment",
+                "serious criminality"
+            ],
+            "humanitarian_concerns": [
+                "psychological evaluation sought"
+            ],
+            "immigration_status": [
+                "faced deportation"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "procedural_fairness": [
+                "no breach"
+            ],
+            "new_information": [
+                "late submission of medical evidence",
+                "arguments about intellectual disability not presented"
+            ],
+            "evidence_provided": [
+                "criminal record",
+                "limited ties to the child",
+                "societal risk"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "deportation order upheld"
+            ]
+        }
+    ]
+}

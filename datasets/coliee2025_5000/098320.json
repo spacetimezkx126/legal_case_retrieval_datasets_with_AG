@@ -1,0 +1,28 @@
+{
+    "Case ID": "098320",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "meaningful notice of requests for additional information"
+            ],
+            "decision_outcome": [
+                "refusal of immigration applications"
+            ],
+            "evidence_provided": [
+                "non-receipt of emails",
+                "due diligence in maintaining email systems",
+                "DSN messages"
+            ],
+            "judicial_authority": [
+                "Judicial review application filed"
+            ],
+            "appeal_outcome": [
+                "Judicial review allowed",
+                "original decisions quashed",
+                "matters remitted for re-determination"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "094633",
+    "Different Crime": [
+        {
+            "Crime Name": "Asylum Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies in testimonies",
+                "lack of corroboration",
+                "implausibility"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness"
+            ],
+            "evidence_assessment": [
+                "inadequately addressed inconsistencies",
+                "irrelevant inconsistencies"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "tribunal decision quashed",
+                "case remitted for redetermination"
+            ],
+            "risk_of_persecution": [
+                "fearing persecution in Iran"
+            ],
+            "specific_group_membership": [
+                "daughter's Baha'i faith"
+            ]
+        }
+    ]
+}

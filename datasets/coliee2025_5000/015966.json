@@ -1,0 +1,33 @@
+{
+    "Case ID": "015966",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "consideration of all relevant evidence",
+                "notification of concerns about evidence authenticity"
+            ],
+            "credibility_findings": [
+                "negative credibility findings",
+                "ignored key evidence",
+                "unfounded assumptions"
+            ],
+            "evidence_assessment": [
+                "ordered Personal Information Forms (PIFs)",
+                "assumed document tampering without notifying applicants"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination by a different Board member"
+            ],
+            "review_standard": [
+                "legal errors",
+                "factual reasonableness"
+            ],
+            "standard_of_proof": [
+                "proper procedures and consider all evidence"
+            ]
+        }
+    ]
+}

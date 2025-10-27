@@ -1,0 +1,61 @@
+{
+    "Case ID": "080403",
+    "Different Crime": [
+        {
+            "Crime Name": "Police Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act, s. 97(1)(b)"
+            ],
+            "state_protection": [
+                "Mexico provides state protection"
+            ],
+            "risk_characterization": [
+                "generalized risk of persecution",
+                "personalized risk of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "extortion and kidnapping by Mexican police"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "appeal_outcome": [
+                "Application allowed; case remitted for reconsideration"
+            ],
+            "decision_outcome": [
+                "Board's decision was unreasonable"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "state_protection_analysis": [
+                "widespread police corruption in Mexico"
+            ],
+            "risk_of_persecution": [
+                "repeated kidnappings and extortions by Mexican police"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "country_conditions": [
+                "widespread police corruption in Mexico"
+            ],
+            "refugee_status_nexus": [
+                "victims of kidnapping and extortion"
+            ],
+            "applicant_involvement": [
+                "relocating twice to avoid persecution"
+            ]
+        }
+    ]
+}

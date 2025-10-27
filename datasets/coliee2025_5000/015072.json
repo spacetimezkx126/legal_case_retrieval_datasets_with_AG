@@ -1,0 +1,29 @@
+{
+    "Case ID": "015072",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "duty of fairness"
+            ],
+            "evidence_assessment": [
+                "inadequate documentation",
+                "submitted documents"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "Immigration and Refugee Protection Act"
+            ],
+            "immigration_status": [
+                "visa application",
+                "family relationships"
+            ]
+        }
+    ]
+}

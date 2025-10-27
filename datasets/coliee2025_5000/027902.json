@@ -1,0 +1,91 @@
+{
+    "Case ID": "027902",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "misinterpreting facts",
+                "dismissing plausible reasons",
+                "unfairly questioning affidavits"
+            ],
+            "decision_outcome": [
+                "Board's decision set aside",
+                "claims referred for reassessment"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed Board's decision"
+            ],
+            "evidence_assessment": [
+                "factual inaccuracies",
+                "legal flaws in credibility assessment"
+            ],
+            "refugee_status_eligibility": [
+                "denied due to alleged lack of credibility"
+            ],
+            "procedural_fairness": [
+                "errors in credibility determination"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "misinterpreting facts",
+                "dismissing plausible reasons",
+                "ignoring corroborating affidavits",
+                "unfairly criticizing affidavit"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "referred to a different Board member"
+            ],
+            "evidence_provided": [
+                "incident with drunkards in PIF",
+                "affidavits from uncles",
+                "sister's affidavit"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "risk_characterization": [
+                "fear of military persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee status claim"
+            ],
+            "relationship_genuineness": [
+                "credibility findings"
+            ],
+            "materiality_of_misrepresentation": [
+                "errors in credibility assessment",
+                "lack of proper evidence evaluation"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "misinterpreting facts",
+                "dismissing plausible reasons",
+                "rejecting affidavits without contradiction"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "risk_of_persecution": [
+                "fear of military persecution"
+            ],
+            "evidence_consideration": [
+                "clear evidence",
+                "plausible reasoning",
+                "considering all relevant facts and testimonies"
+            ],
+            "procedural_fairness": [
+                "flaws in credibility assessment",
+                "implausibility conclusions"
+            ]
+        }
+    ]
+}

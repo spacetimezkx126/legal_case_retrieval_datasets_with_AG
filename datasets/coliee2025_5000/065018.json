@@ -1,0 +1,64 @@
+{
+    "Case ID": "065018",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to immigration officials",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "RPD found multiple inconsistencies",
+                "Some findings were reasonable, others questionable",
+                "Overall credibility finding was reasonable"
+            ],
+            "misrepresentation_or_fraud": [
+                "Omissions in forms, travel details, and military documents"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard for credibility assessments"
+            ],
+            "evidence_assessment": [
+                "Inconsistencies in applicant's testimony"
+            ],
+            "refugee_status_eligibility": [
+                "Asylum claim based on persecution fears with credibility issues"
+            ]
+        },
+        {
+            "Crime Name": "Draft evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "issues with threat omission",
+                "suspicious letters about draft evasion"
+            ],
+            "reasonableness_of_decision": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "evidence_quality": [
+                "lack of security features in documents",
+                "appeared suspicious"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "refugee_status_claim": [
+                "persecution in Turkey",
+                "Kurdish activism"
+            ],
+            "decision_making_process": [
+                "RPD's assessment"
+            ],
+            "evidence_assessment": [
+                "inconsistencies",
+                "documentary evidence"
+            ]
+        }
+    ]
+}

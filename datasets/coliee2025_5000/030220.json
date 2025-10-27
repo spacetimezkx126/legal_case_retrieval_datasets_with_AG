@@ -1,0 +1,28 @@
+{
+    "Case ID": "030220",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "patent_validity": [
+                "valid"
+            ],
+            "expert_testimony": [
+                "scientific advancements",
+                "obviousness"
+            ],
+            "evidence_provided": [
+                "significant prior art",
+                "commercial success",
+                "lack of prior development"
+            ],
+            "applicable_statute": [
+                "Canadian patent law"
+            ],
+            "decision_outcome": [
+                "Pfizer's patent upheld",
+                "Apotex prohibited from marketing generic until patent expiry"
+            ]
+        }
+    ]
+}

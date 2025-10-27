@@ -1,0 +1,52 @@
+{
+    "Case ID": "065702",
+    "Different Crime": [
+        {
+            "Crime Name": "Constructive Dismissal",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "patent unreasonableness"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence to overturn the decision"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness, requiring deference unless findings are perverse, capricious, or disregard evidence"
+            ],
+            "procedural_fairness": [
+                "allegations of bias and factual errors"
+            ],
+            "applicant_involvement": [
+                "Mr. Colistro resigned voluntarily"
+            ],
+            "specific_threats_or_incidents": [
+                "disciplinary actions and workplace incidents"
+            ]
+        },
+        {
+            "Crime Name": "Constructive Dismissal",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "adjudicator's decision upheld"
+            ],
+            "evidence_considered": [
+                "disciplinary actions",
+                "workplace incidents",
+                "resignation"
+            ],
+            "claimant_burden": [
+                "constructive dismissal claim"
+            ],
+            "court_ruling": [
+                "application dismissed",
+                "costs awarded to respondent"
+            ],
+            "appeal_process": [
+                "judicial review application in Federal Court"
+            ]
+        }
+    ]
+}

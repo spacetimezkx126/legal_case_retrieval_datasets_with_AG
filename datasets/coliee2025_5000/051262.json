@@ -1,0 +1,49 @@
+{
+    "Case ID": "051262",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Visa Denial",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "consideration of evidence",
+                "no notification of adverse conclusions"
+            ],
+            "evidence_assessment": [
+                "lack of credible financial documents",
+                "inconsistent evidence"
+            ],
+            "immigration_status": [
+                "temporary resident visa denied"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubt on intent to leave Canada"
+            ]
+        },
+        {
+            "Crime Name": "Providing inconsistent financial documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "officer considered all materials"
+            ],
+            "evidence_provided": [
+                "inconsistent financial documents",
+                "lacked evidence of ties to home country"
+            ],
+            "decision_outcome": [
+                "visa refusal upheld"
+            ],
+            "judicial_authority": [
+                "judicial review analyzed officer's decision"
+            ],
+            "balance_of_convenience": [
+                "officer properly exercised discretion"
+            ],
+            "material_misrepresentation": [
+                "inconsistent financial documents"
+            ]
+        }
+    ]
+}

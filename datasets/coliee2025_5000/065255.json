@@ -1,0 +1,34 @@
+{
+    "Case ID": "065255",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 28.3 of the Patent Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "expert_testimony": [
+                "Lilly countered with expert testimony suggesting otherwise"
+            ],
+            "patent_validity": [
+                "The '948 Patent was deemed invalid for obviousness"
+            ],
+            "technical_details": [
+                "particle size and hydrophilic binder differences",
+                "tadalafil's poor solubility was known",
+                "reducing particle size was a common strategy",
+                "excipients used were also standard choices"
+            ],
+            "evidence_provided": [
+                "Mylan argued non-infringement due to particle size and hydrophilic binder differences",
+                "Court analyzed expert testimonies and documentary evidence concerning formulation specifics, particle size measurements, and excipient usage"
+            ],
+            "applicable_statute": [
+                "Patent Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Case ID": "079354",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious non-political crime under Article 1F(b) of the United Nations Convention Relating to the Status of Refugees",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b)",
+                "Section 98 of IRPA"
+            ],
+            "exclusion_reason": [
+                "cocaine trafficking conviction",
+                "burning down a mosque"
+            ],
+            "procedural_fairness": [
+                "misinterpreted Canadian drug laws",
+                "improperly considered extraneous factors"
+            ],
+            "decision_reasoning": [
+                "failure to consider all exclusion grounds",
+                "legal errors in assessing the seriousness of the crime"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "Board’s decision set aside",
+                "referred back for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cocaine for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "serious_criminality": [
+                "presumed serious crime punishable by at least ten years"
+            ],
+            "refugee_status": [
+                "sought refugee status in Canada"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "review_process": [
+                "judicial review by the Federal Court"
+            ],
+            "decision_outcome": [
+                "Board's decision unreasonable",
+                "case referred back for redetermination",
+                "new hearing ordered with a different member"
+            ],
+            "applicable_law_or_regulation": [
+                "Article 1F(b) of the Refugee Convention",
+                "Controlled Drugs and Substances Act"
+            ],
+            "criminal_history": [
+                "convicted of cocaine trafficking in Germany"
+            ]
+        },
+        {
+            "Crime Name": "Arson",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the UN Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "refugee_protection": [
+                "excluded from refugee protection"
+            ],
+            "decision_outcome": [
+                "Board's decision was set aside"
+            ],
+            "appeal_process": [
+                "case was remanded for a new hearing with a different member"
+            ],
+            "court_ruling": [
+                "Federal Court concluded that the Board erred"
+            ]
+        }
+    ]
+}

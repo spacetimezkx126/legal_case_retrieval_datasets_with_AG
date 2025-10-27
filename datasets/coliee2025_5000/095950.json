@@ -1,0 +1,112 @@
+{
+    "Case ID": "095950",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "inadequate disclosure",
+                "lack of opportunity to respond"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "remitted for re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "undisclosed allegations",
+                "association with drug smuggling ring"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "reasonableness of the decision"
+            ]
+        },
+        {
+            "Crime Name": "Possession of stolen property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "insufficient disclosure",
+                "breach of procedural fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "decision_outcome": [
+                "revocation decision quashed",
+                "remit for re-determination"
+            ],
+            "evidence_provided": [
+                "RCMP reports",
+                "identity of 'Subject A' not disclosed",
+                "lack of specific dates, times, or activities"
+            ],
+            "cause_of_action": [
+                "Revocation of security clearance"
+            ],
+            "nature_of_offense": [
+                "association with a drug smuggling ring"
+            ]
+        },
+        {
+            "Crime Name": "Unlawful interference with civil aviation",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "higher level of procedural fairness required"
+            ],
+            "decision_outcome": [
+                "revocation quashed",
+                "re-determination ordered"
+            ],
+            "judicial_review_result": [
+                "application granted"
+            ],
+            "evidence_provided": [
+                "insufficiently disclosed allegations"
+            ],
+            "reasoning_given": [
+                "hindered ability to respond meaningfully"
+            ],
+            "applicable_law_section": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "standard_of_proof": [
+                "not explicitly mentioned"
+            ]
+        },
+        {
+            "Crime Name": "Drug importation",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "inadequate disclosure",
+                "opportunity to respond"
+            ],
+            "evidence_considered": [
+                "allegations linking applicant to drug smuggling",
+                "identity of 'Subject A'",
+                "specifics of association"
+            ],
+            "decision_outcome": [
+                "revocation quashed",
+                "re-determination required"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "Minister must reconsider with proper procedural fairness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Case ID": "077142",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "considered"
+            ],
+            "criminal_history": [
+                "12 convictions"
+            ],
+            "family_ties": [
+                "girlfriend’s pregnancy"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence for unborn child's interest",
+                "context clarified 'convinced'"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with a probation order",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "family ties",
+                "rehabilitation potential",
+                "best interests of children"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "decision_reasonableness": [
+                "reasonable",
+                "within jurisdiction"
+            ],
+            "application_details": [
+                "youth convictions relevance",
+                "pregnant girlfriend's situation",
+                "standard of proof usage"
+            ],
+            "evidence_presented": [
+                "insufficient evidence about girlfriend",
+                "youth records accessible due to adult offenses"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "IAD’s decision upheld"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Case ID": "009663",
+    "Different Crime": [
+        {
+            "Crime Name": "False or misleading information in personal information form (PIF)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Discrepancies in PIF led to credibility concerns"
+            ],
+            "evidence_assessment": [
+                "Plausible explanations for omissions ignored by Board"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed, Board decision quashed, reconsideration ordered"
+            ],
+            "standard_of_review": [
+                "Reasonable explanations not addressed by Board"
+            ],
+            "misrepresentation_or_fraud": [
+                "False or misleading information in PIF"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "Board must address reasonable explanations",
+                "Failed to consider reasonable explanations"
+            ],
+            "evidence_provided": [
+                "Reasonable explanations for discrepancies",
+                "Learning of sister's illness from a friend",
+                "Family withholding police inquiries"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed",
+                "Board's decision quashed",
+                "Reconsideration ordered"
+            ],
+            "judicial_authority": [
+                "Federal Court reviewed the case",
+                "Differently constituted Board ordered"
+            ],
+            "credibility_assessment": [
+                "Board questioned credibility based on unaddressed discrepancies"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review was allowed"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "discrepancies in testimony",
+                "implausibility findings"
+            ],
+            "reasoning_given": [
+                "Board failed to consider reasonable explanations"
+            ],
+            "evidence_assessment": [
+                "reasonable explanations for discrepancies ignored"
+            ],
+            "judicial_review_result": [
+                "application allowed",
+                "decision quashed",
+                "reconsideration ordered"
+            ],
+            "refugee_status_claim": [
+                "fear of persecution in Pakistan"
+            ],
+            "decision_outcome": [
+                "case requires reconsideration by a differently constituted Board"
+            ]
+        }
+    ]
+}

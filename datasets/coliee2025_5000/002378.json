@@ -1,0 +1,49 @@
+{
+    "Case ID": "002378",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "reasonable apprehension of bias",
+                "fair hearing"
+            ],
+            "standard_of_review": [
+                "informed person test",
+                "IAD discretion on adjournments"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "challenge to IAD decision"
+            ],
+            "document_authenticity": [
+                "concerns about document admissibility"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "reasonable apprehension of bias",
+                "fair hearing"
+            ],
+            "standard_of_review": [
+                "informed person test",
+                "more likely than not"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "court"
+            ],
+            "evidence_provided": [
+                "no evidence of animus or hostility",
+                "no formal adjournment request"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "Case ID": "065157",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Subsection 115(2)(a) of IRPA"
+            ],
+            "procedural_fairness": [
+                "procedural fairness was respected"
+            ],
+            "criminality_inadmissibility": [
+                "serious criminality",
+                "multiple convictions",
+                "drug trafficking",
+                "dangerous driving"
+            ],
+            "risk_assessment": [
+                "poses a danger to the public",
+                "unacceptable risk"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "deportation allowed"
+            ],
+            "refugee_status_eligibility": [
+                "Convention refugee"
+            ]
+        },
+        {
+            "Crime Name": "Breaking and Entering with Intent to Commit an Indictable Offence",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "yes"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "judicial_authority": [
+                "Minister's decision"
+            ],
+            "public_interest": [
+                "public safety"
+            ],
+            "risk_characterization": [
+                "danger to the public"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Minister's decision followed procedural fairness"
+            ],
+            "criminal_history": [
+                "multiple offenses",
+                "escalating criminal behavior"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "H&C factors considered but public safety prioritized"
+            ],
+            "risk_assessment": [
+                "applicant poses a danger to the public"
+            ],
+            "past_criminal_convictions": [
+                "convicted of multiple offenses"
+            ],
+            "rehabilitation_or_possibility": [
+                "despite rehabilitation attempts"
+            ],
+            "legal_basis": [
+                "IRPA s.115(2)(a)"
+            ]
+        },
+        {
+            "Crime Name": "Dangerous operation of a motor vehicle",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA, subsection 115(2)(a)"
+            ],
+            "procedural_fairness": [
+                "whether the Minister applied correct legal tests, considered all evidence, and respected procedural fairness in determining deportation eligibility"
+            ],
+            "evidence_assessment": [
+                "Evidence showed limited rehabilitation and significant criminal activity"
+            ],
+            "decision_reasoning": [
+                "The Minister's decision was reasonable and aligned with applicable laws, balancing public safety concerns against potential risks upon deportation"
+            ],
+            "result_of_case": [
+                "The court upheld the Minister's decision, dismissing the application for judicial review"
+            ],
+            "cause_of_action": [
+                "The Applicant's criminal activities and failure to rehabilitate led to concerns about public safety, triggering a deportation review"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cocaine for the purposes of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA s.115(2)(a)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed procedural fairness"
+            ],
+            "risk_assessment": [
+                "pattern of escalating criminal behavior",
+                " Applicant remains dangerous"
+            ],
+            "serious_criminality": [
+                "convicted of drug trafficking and dangerous driving"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the Minister's decision to deport the Applicant"
+            ],
+            "evidence_considered": [
+                "Applicant's criminal activities and perceived danger to the public"
+            ],
+            "deportation_order": [
+                "deportation proceedings"
+            ],
+            "refugee_status": [
+                "Convention refugees cannot be deported if they face persecution unless they pose a danger to the public or commit serious crimes"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "compliance with procedural fairness",
+                "adequate consideration of evidence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_laws": [
+                "IRPA s.115(2)(a)"
+            ],
+            "criminal_history": [
+                "history of criminal offenses",
+                "repeated convictions"
+            ],
+            "refugee_protection": [
+                "recognized refugee"
+            ],
+            "risk_assessment": [
+                "ongoing dangerousness",
+                "public danger"
+            ],
+            "court_ruling": [
+                "reasonable",
+                "upholding deportation decision"
+            ]
+        }
+    ]
+}

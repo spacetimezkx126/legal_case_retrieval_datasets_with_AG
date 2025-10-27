@@ -1,0 +1,60 @@
+{
+    "Case ID": "017383",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "credibility_assessment": [
+                "insufficient personal evidence",
+                "no credible risk of torture or cruel treatment upon return"
+            ],
+            "procedural_fairness": [
+                "PRRA decisions are reviewed on reasonableness unless procedural fairness is at issue"
+            ],
+            "evidence_assessment": [
+                "applicant claimed threats in the Dominican Republic but provided insufficient personal evidence"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to distribute cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "risk_assessment": [
+                "insufficient evidence",
+                "delays in seeking protection",
+                "unreliable letter"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness issues identified"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence"
+            ],
+            "decision_made_by": [
+                "PRRA officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "parties_involved": [
+                "applicant",
+                "PRRA officer"
+            ],
+            "decision_outcome": [
+                "reasonable decision",
+                "no question certified"
+            ]
+        }
+    ]
+}

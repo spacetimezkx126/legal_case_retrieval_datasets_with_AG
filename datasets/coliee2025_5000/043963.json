@@ -1,0 +1,31 @@
+{
+    "Case ID": "043963",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Article 1F(a)",
+                "Article 1F(c)",
+                "Rome Statute"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "evidentiary_standard": [
+                "mere membership without evidence of shared purpose or active participation does not suffice for exclusion"
+            ],
+            "credibility_findings": [
+                "insufficient evidence of complicity"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remitted for reconsideration"
+            ],
+            "administrative_error": [
+                "reviewable error by excluding the applicant without sufficient evidence"
+            ]
+        }
+    ]
+}

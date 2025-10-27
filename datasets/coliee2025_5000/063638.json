@@ -1,0 +1,33 @@
+{
+    "Case ID": "063638",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "serious possibility",
+                "reasonable possibility",
+                "reasonable grounds"
+            ],
+            "reasonableness_standard": [
+                "incorrect standard"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remanded for re-determination"
+            ],
+            "procedural_fairness": [
+                "misapplication of legal standard"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution"
+            ],
+            "standard_of_proof": [
+                "well-founded fear"
+            ],
+            "review_standard": [
+                "judicial review process"
+            ]
+        }
+    ]
+}

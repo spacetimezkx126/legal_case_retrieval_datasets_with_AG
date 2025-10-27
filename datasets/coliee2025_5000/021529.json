@@ -1,0 +1,43 @@
+{
+    "Case ID": "021529",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "minor inconsistencies",
+                "lack of corroboration",
+                "delay in claiming refugee status",
+                "trivial discrepancies",
+                "dismissed a letter from an aid agency without sufficient reasoning"
+            ],
+            "country_conditions": [],
+            "reasonableness_standard": [
+                "Board's decision was unreasonable"
+            ],
+            "documentary_evidence": [
+                "letter from an aid agency"
+            ],
+            "evidence_assessment": [
+                "lacked proper analysis"
+            ],
+            "decision_outcome": [
+                "application for judicial review is granted",
+                "Federal Court overturned the Board’s decision"
+            ],
+            "burden_of_proof": [],
+            "standard_of_proof": [],
+            "specific_group_membership": [],
+            "risk_of_persecution": [],
+            "changed_country_conditions": [],
+            "inconsistencies_in_testimony": [
+                "minor inconsistencies",
+                "trivial discrepancies"
+            ],
+            "procedural_fairness": [],
+            "review_standard": [
+                "judicial review analyzed the Board’s decision"
+            ]
+        }
+    ]
+}

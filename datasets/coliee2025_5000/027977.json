@@ -1,0 +1,31 @@
+{
+    "Case ID": "027977",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "fraudulent misrepresentation"
+            ],
+            "procedural_fairness": [
+                "pleadings must contain a concise statement of material facts but not evidence",
+                "striking out claims that are scandalous, frivolous, or vexatious"
+            ],
+            "application_details": [
+                "Further Amended Statement of Claim includes excessive evidence and lacks clarity"
+            ],
+            "decision_reasoning": [
+                "Some parts meet pleading requirements, while others are struck out for being evidence or irrelevant",
+                "Claims like 'mental agony' require physical symptoms"
+            ],
+            "result_of_case": [
+                "Court allowed some claims to proceed while striking out others",
+                "Plaintiffs were granted time to amend their statement further"
+            ],
+            "relevant_rule": [
+                "Rule 174",
+                "Rule 221"
+            ]
+        }
+    ]
+}

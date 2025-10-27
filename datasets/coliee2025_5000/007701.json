@@ -1,0 +1,36 @@
+{
+    "Case ID": "007701",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "non-compliance",
+                "physical presence",
+                "conflicting data",
+                "insufficient evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal dismissed"
+            ],
+            "procedural_fairness": [
+                "verified physical presence",
+                "cannot solely rely on applicant claims"
+            ],
+            "evidence_provided": [
+                "conflicting data about absences",
+                "insufficient evidence of Canadian presence"
+            ],
+            "material_misrepresentation": [
+                "claimed days vs actual presence"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge",
+                "Federal Court"
+            ]
+        }
+    ]
+}

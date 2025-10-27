@@ -1,0 +1,46 @@
+{
+    "Case ID": "020740",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 48(2)"
+            ],
+            "decision_outcome": [
+                "Removal order upheld"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "immigration_status": [
+                "No valid legal status"
+            ],
+            "misrepresentation_or_fraud": [
+                "Overstaying visa"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Possibly Warrant for Armed Robbery (not confirmed in Canada).",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "not_proven_speculative"
+            ],
+            "irreparable_harm": [
+                "not_shown_family_separation"
+            ],
+            "balance_of_convenience": [
+                "favored_Minister_immigration_history_legal_obligations"
+            ],
+            "family_ties": [
+                "cited_by_applicant"
+            ],
+            "immigration_status": [
+                "history_reviewed"
+            ]
+        }
+    ]
+}

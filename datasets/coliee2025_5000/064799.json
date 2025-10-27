@@ -1,0 +1,54 @@
+{
+    "Case ID": "064799",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "duty of fairness requires disclosure of information relied upon in decision",
+                "Applicant had opportunity to address concerns"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in statements",
+                "discrepancies with relatives' accounts"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "duty of fairness requires disclosure of information relied upon in decision",
+                "Applicant had opportunity to address concerns"
+            ],
+            "decision_outcome": [
+                "application rejected due to credibility issues",
+                "judicial review dismissed"
+            ],
+            "evidence_provided": [
+                "inconsistencies in Applicant's statements",
+                "discrepancies with Faduma and Abdiqani's accounts"
+            ],
+            "applicable_statute": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "claim_nature": [
+                "refugee status claim"
+            ],
+            "judicial_authority": [
+                "court analyzed procedural fairness"
+            ],
+            "material_misrepresentation": [
+                "credibility issues based on inconsistent statements"
+            ]
+        }
+    ]
+}

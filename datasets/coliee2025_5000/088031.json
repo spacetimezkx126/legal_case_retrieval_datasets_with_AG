@@ -1,0 +1,32 @@
+{
+    "Case ID": "088031",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "valid"
+            ],
+            "cause_of_action": [
+                "insufficient disclosure",
+                "lack of utility"
+            ],
+            "relevant_rule": [
+                "novelty",
+                "non-obviousness",
+                "utility"
+            ],
+            "application_details": [
+                "prohibit Notice of Compliance to Apotex"
+            ],
+            "decision_reasoning": [
+                "did not promise reduced side effects in humans",
+                "utility sufficiently demonstrated in animals"
+            ],
+            "result_of_case": [
+                "upheld patent validity",
+                "prohibited marketing of generic version"
+            ]
+        }
+    ]
+}

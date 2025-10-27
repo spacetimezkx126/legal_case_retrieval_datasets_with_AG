@@ -1,0 +1,60 @@
+{
+    "Case ID": "003940",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "blatant disregard of the law",
+                "violation of judicial order"
+            ],
+            "immigration_status": [
+                "detention for deportation",
+                "probation order"
+            ],
+            "legal_basis": [
+                "Federal Court Immigration Rule 22",
+                "Section 50(1)(a) of the Immigration Act"
+            ],
+            "evidence_consideration": [
+                "misinterpretation of case law",
+                "ignoring established rulings"
+            ],
+            "humanitarian_concerns": [
+                "unnecessary legal proceedings"
+            ],
+            "reasonableness_of_decision": [
+                "gross negligence",
+                "special reasons for awarding costs"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Federal Court Immigration Rule 22",
+                "Section 50(1)(a) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "blatant disregard of the law",
+                "gross negligence"
+            ],
+            "decision_outcome": [
+                "costs awarded to applicant"
+            ],
+            "applicable_laws": [
+                "probation order",
+                "s. 50(1)(a) of the Immigration Act"
+            ],
+            "standard_of_review": [
+                "special reasons for awarding costs"
+            ],
+            "court_ruling": [
+                "entitled to costs"
+            ],
+            "immigration_status": [
+                "detained for deportation"
+            ]
+        }
+    ]
+}

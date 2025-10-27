@@ -1,0 +1,60 @@
+{
+    "Case ID": "024065",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "family ties",
+                "community contributions"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "security grounds",
+                "terrorism"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "lacked transparency"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "lacked justification, transparency, and intelligibility"
+            ],
+            "membership_in_organization": [
+                "FMLN"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "family ties",
+                "community support"
+            ],
+            "involvement_details": [
+                "non-combatant political activist"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "applicable_law_section": [
+                "IRPA section 72(1)"
+            ],
+            "decision_outcome": [
+                "remitted for reconsideration by a different Delegate"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "inadmissibility_criteria": [
+                "security-based inadmissibility"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "Case ID": "019591",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to obtain benefit under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions in testimony",
+                "lack of corroborative evidence",
+                "implausibilities"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee protection based on alleged persecution due to sexual orientation"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistent testimonies"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with military duty",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "lack of corroborative evidence"
+            ],
+            "state_protection_analysis": [
+                "adequate protection by the US"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision within acceptable outcomes"
+            ],
+            "refugee_status_claim": [
+                "based on sexual orientation"
+            ],
+            "judicial_review_result": [
+                "upheld Board's decision"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed application"
+            ]
+        },
+        {
+            "Crime Name": "Desertion",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "lack of corroborative evidence"
+            ],
+            "state_protection": [
+                "plausible remedies available in the U.S. military system",
+                "presumption of state protection"
+            ],
+            "decision_reasoning": [
+                "Board's decision reasonable and justified"
+            ],
+            "cause_of_action": [
+                "refugee status claim based on sexual orientation"
+            ],
+            "procedure_followed": [
+                "judicial review of IRB decision",
+                "appeal dismissed by Federal Court"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no questions certified"
+            ]
+        }
+    ]
+}

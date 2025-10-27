@@ -1,0 +1,54 @@
+{
+    "Case ID": "076161",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized Employment and Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's false statements on visa application",
+                "Engaged in unauthorized full-time employment"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application",
+                "Applicant declared inadmissible for two years"
+            ],
+            "standard_of_review": [
+                "Judicial review of Citizenship and Immigration Canada officer's decision denying temporary resident visa"
+            ],
+            "material_misrepresentation": [
+                "Failed to disclose a prior visa refusal"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "failure to disclose prior visa refusal",
+                "falsely answered 'no'"
+            ],
+            "applicable_statute": [
+                "s. 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "misrepresentation was material",
+                "application dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "false statement about prior visa refusal",
+                "unauthorized employment"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ]
+        }
+    ]
+}

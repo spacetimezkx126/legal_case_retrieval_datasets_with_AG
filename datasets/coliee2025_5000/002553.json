@@ -1,0 +1,27 @@
+{
+    "Case ID": "002553",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to declare previous refusals",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Providing applicants an opportunity to respond",
+                "Risk of communication failure shifts to the applicant if proof of sending exists"
+            ],
+            "evidence_assessment": [
+                "Applicant failed to provide complete passports",
+                "Respondent proved the letter was sent"
+            ],
+            "decision_outcome": [
+                "No breach of procedural fairness occurred",
+                "Application dismissed"
+            ],
+            "legal_basis": [
+                "Judicial review application under Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "Incomplete document submission"
+            ]
+        }
+    ]
+}

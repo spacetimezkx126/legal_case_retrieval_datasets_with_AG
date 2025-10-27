@@ -1,0 +1,27 @@
+{
+    "Case ID": "046750",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "Procedural fairness requires disclosing evidence unknown to the applicant"
+            ],
+            "evidence_assessment": [
+                "Publicly available information does not require disclosure"
+            ],
+            "application_details": [
+                "Applicant's permanent resident visa application was rejected due to perceived durable solutions in Ethiopia"
+            ],
+            "procedure_followed": [
+                "Judicial review under Immigration and Refugee Protection Act, analyzing procedural fairness and evidence rules"
+            ],
+            "decision_reasoning": [
+                "No breach of procedural fairness occurred"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, confirming no breach of procedural fairness"
+            ]
+        }
+    ]
+}

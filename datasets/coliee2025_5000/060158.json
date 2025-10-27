@@ -1,0 +1,135 @@
+{
+    "Case ID": "060158",
+    "Different Crime": [
+        {
+            "Crime Name": "Money Laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Corrections and Conditional Release Act",
+                "Sections 100-101"
+            ],
+            "decision_outcome": [
+                "denied",
+                "upheld"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "risk_characterization": [
+                "reoffending risks"
+            ],
+            "balance_of_convenience": [
+                "exemplary behavior",
+                "organized crime involvement"
+            ],
+            "public_interest": [
+                "societal protection"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "temporary exemption",
+                "parole condition"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to Traffic Narcotics",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable",
+                "aligned with statutory principles",
+                "considered relevant factors"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "reasonableness standard"
+            ],
+            "risk_to_national_security": [
+                "re-offending risks"
+            ],
+            "decision_outcome": [
+                "NPB's decision upheld",
+                "no reviewable error"
+            ],
+            "balance_of_interests": [
+                "public safety risks over personal circumstances"
+            ],
+            "evidence_quality": [
+                "exemplary behavior post-conviction",
+                "lack of police objections",
+                "past involvement in organized crime"
+            ],
+            "involvement_details": [
+                " inability to supervise abroad"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Comply with Parole Conditions",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 101(a) of the Corrections and Conditional Release Act",
+                "section 133(6)"
+            ],
+            "decision_reasoning": [
+                "public safety as paramount consideration",
+                "exemplary behavior vs speculative risks",
+                "past association with organized crime",
+                "inability to supervise abroad"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "request for temporary exemption from parole condition",
+                "prohibition on leaving Canada"
+            ],
+            "conclusion_outcome": [
+                "NPB’s decision was reasonable and adequately motivated",
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "seeking permission to visit elderly parents in Italy",
+                "denial due to potential reoffending risks"
+            ],
+            "procedure_followed": [
+                "appeal to NPB Appeal Division",
+                "judicial review in Federal Court"
+            ],
+            "result_of_case": [
+                "Federal Court dismissed application",
+                "no reviewable error found"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to Import Narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "reasonableness standard",
+                "principles set out in sections 100 and 101 of the Corrections and Conditional Release Act"
+            ],
+            "risk_assessment": [
+                "unresolved risks associated with criminal history",
+                "speculative risks",
+                "past association with organized crime"
+            ],
+            "decision_made_by": [
+                "National Parole Board"
+            ],
+            "review_process": [
+                "judicial review process"
+            ],
+            "criminal_history": [
+                "past association with organized crime"
+            ],
+            "decision_outcome": [
+                "denied request for temporary exemption",
+                "dismissed application"
+            ],
+            "applicable_law_or_regulation": [
+                "Corrections and Conditional Release Act"
+            ]
+        }
+    ]
+}

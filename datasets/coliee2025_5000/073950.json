@@ -1,0 +1,58 @@
+{
+    "Case ID": "073950",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to obtain immigration benefits",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "independent, fact-based assessment",
+                "not solely rely on reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "admissibility of new evidence should be flexible",
+                "misapplied PRRA criteria for new evidence without justification"
+            ],
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "case remanded for re-determination with correct legal standards"
+            ],
+            "legal_basis": [
+                "RAD must apply an independent, fact-based assessment"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent obtaining of a visa",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness",
+                "independent, fact-based assessment"
+            ],
+            "evidence_provided": [
+                "new evidence under s 110(4) of IRPA"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "RAD",
+                "RPD"
+            ],
+            "appeal_outcome": [
+                "allowed",
+                "remitted to a different RAD panel for re-determination"
+            ],
+            "cause_of_action": [
+                "extortion by a police officer"
+            ],
+            "nature_of_offense": [
+                "refugee protection claim"
+            ],
+            "procedural_fairness": [
+                "errors in standard of review and evidence admissibility criteria"
+            ]
+        }
+    ]
+}

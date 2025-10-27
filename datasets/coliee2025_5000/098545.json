@@ -1,0 +1,50 @@
+{
+    "Case ID": "098545",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on health grounds",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demand on services"
+            ],
+            "family_class_considerations": [
+                "non-accompanying family member",
+                "future sponsorship rights"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "estimated costs exceeding average Canadian per capita costs"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide credible individualized plan",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_reasoning": [
+                "visa officer's decision was reasonable and aligned with IRPA requirements"
+            ],
+            "application_details": [
+                "applicant provided a plan to leave his disabled son in China but failed to mitigate concerns about potential future sponsorship"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "cause_of_action": [
+                "Applicant's inability to provide a credible plan addressing excessive demand concerns"
+            ]
+        }
+    ]
+}

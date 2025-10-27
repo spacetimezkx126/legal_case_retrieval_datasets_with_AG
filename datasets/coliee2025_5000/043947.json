@@ -1,0 +1,53 @@
+{
+    "Case ID": "043947",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to report change of address prior to moving",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_assessment": [
+                "conflicting evidence about actual moving date"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "case remitted for redetermination of bond forfeiture"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged failure to report change of address"
+            ]
+        },
+        {
+            "Crime Name": "Breaching conditions of release",
+            "Crime Type": "others",
+            "legal_basis": [
+                "breach of release conditions can lead to bond forfeiture"
+            ],
+            "discretion_exercise": [
+                "Officers must exercise discretion considering all case facts, ensuring no irrelevant factors affect the decision"
+            ],
+            "decision_reasoning": [
+                "court upheld this factual finding but noted insufficient reasoning for the forfeiture decision, requiring reevaluation by another Officer"
+            ],
+            "application_details": [
+                "Mr. Mark's address change notification timing was unclear, but the Officer found a breach"
+            ],
+            "conclusion_outcome": [
+                "The application is allowed; the breach finding stands, but the forfeiture decision is remitted for redetermination"
+            ],
+            "cause_of_action": [
+                "Mr. Mark allegedly breached his release conditions, prompting bond forfeiture consideration"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed Officer's decision-making process and legal principles governing bond forfeiture"
+            ],
+            "result_of_case": [
+                "Case remanded for reconsideration of bond forfeiture by a different Officer"
+            ]
+        }
+    ]
+}

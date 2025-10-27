@@ -1,0 +1,36 @@
+{
+    "Case ID": "050300",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach_of_fairness"
+            ],
+            "procedural_fairness": [
+                "failure_to_disclose_extrinsic_evidence",
+                "failure_to_allow_response"
+            ],
+            "decision_reasoning": [
+                "central_evidence_not_addressed_by_applicant"
+            ],
+            "application_details": [
+                "permanent_residency_application"
+            ],
+            "evidence_consideration": [
+                "extrinsic_evidence"
+            ],
+            "procedure_followed": [
+                "judicial_review_application_granted",
+                "federal_court_review"
+            ],
+            "result_of_case": [
+                "decision_set_aside",
+                "case_remitted_for_redetermination"
+            ],
+            "relevant_rule": [
+                "decision_makers_must_act_fairly_and_disclose_material"
+            ]
+        }
+    ]
+}

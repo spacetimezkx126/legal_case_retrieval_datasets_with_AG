@@ -1,0 +1,113 @@
+{
+    "Case ID": "097926",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "credibility_assessment": [
+                "marriage not genuine",
+                "entered into primarily for acquiring status"
+            ],
+            "evidence_assessment": [
+                "financial dependence",
+                "lack of effort to work in Mexico"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "IAD decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspicion of marriage of convenience"
+            ],
+            "regulatory_compliance": [
+                "foreign national not considered a spouse if marriage is not genuine or for acquiring status"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "entered into primarily for acquiring status"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "reasonable under the new disjunctive test of Regulation 4(1)"
+            ],
+            "cause_of_action": [
+                "marriage fraud"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "IAD appeal process"
+            ],
+            "evidence_consideration": [
+                "visa officer's refusal",
+                "suspicions of marriage fraud"
+            ],
+            "applicant_involvement": [
+                "applicant's husband being a failed refugee claimant",
+                "financial dependency on applicant"
+            ],
+            "immigration_status": [
+                "removal order against applicant's husband",
+                "sponsorship application denial"
+            ],
+            "reasonableness_of_decision": [
+                "Federal Court upheld IAD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "Judicial review application dismissed"
+            ],
+            "applicable_laws": [
+                "Regulation 4(1) disjunctive test"
+            ],
+            "evidence_considered": [
+                "Suspicions of marriage fraud",
+                "Financial dependency of applicant's husband"
+            ],
+            "claimant_burden": [
+                "To prove the marriage was genuine and not primarily for immigration purposes"
+            ],
+            "court_ruling": [
+                "IAD's decision reasonable",
+                "Federal Court upheld IAD's decision"
+            ],
+            "immigration_status": [
+                "Failed refugee claimant with removal order",
+                "Sponsorship application denied"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "072981",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "decision_reasoning": [
+                "misinterpreting testimony",
+                "incorrectly stating delay",
+                "interruptions hindering fair hearing"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "fair hearing"
+            ],
+            "refugee_status": [
+                "denied"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "court_ruling": [
+                "set aside decision",
+                "remitted for redetermination"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "analyzed reasonableness and fairness"
+            ],
+            "result_of_case": [
+                "overturned",
+                "referred to different panel"
+            ]
+        }
+    ]
+}

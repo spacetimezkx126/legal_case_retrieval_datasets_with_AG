@@ -1,0 +1,44 @@
+{
+    "Case ID": "054403",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_reasonableness": [
+                "unreasonable rejection of identity documents"
+            ],
+            "new_evidence": [
+                "letter attesting to the applicant's identity"
+            ],
+            "application_details": [
+                "refugee claim",
+                "judicial review application under IRPA subsection 72(1)"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review allowed"
+            ],
+            "result_of_case": [
+                "case remanded to the RAD for reconsideration"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "evidence_presented": [
+                "Eritrean birth certificates",
+                "letter attesting to identity"
+            ],
+            "decision_made": [
+                "RAD dismissed refugee claim"
+            ],
+            "court_ruling": [
+                "RAD must reassess letter as evidence and independently evaluate identities and credibility"
+            ]
+        }
+    ]
+}

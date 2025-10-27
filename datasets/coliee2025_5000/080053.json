@@ -1,0 +1,74 @@
+{
+    "Case ID": "080053",
+    "Different Crime": [
+        {
+            "Crime Name": "Breaching immigration conditions",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "immigration_status": [
+                "negative refugee and PRRA decisions",
+                "failed to comply with immigration conditions"
+            ],
+            "procedural_fairness": [
+                "Federal Court analyzed the case using the tri-partite test"
+            ],
+            "risk_assessment": [
+                "lacked clear evidence of irreparable harm"
+            ],
+            "standard_of_review": [
+                "public interest favored enforcing the removal order"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "no serious issue demonstrated"
+            ],
+            "irreparable_harm": [
+                "no clear evidence of irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "favoring the Minister due to disregard for immigration laws"
+            ],
+            "immigration_status": [
+                "unresolved immigration applications"
+            ],
+            "risk_assessment": [
+                "potential harm upon return to Venezuela"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with court order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "case law"
+            ],
+            "decision_reasoning": [
+                "applicant failed to show a serious issue",
+                "no clear evidence of irreparable harm",
+                "public interest in enforcing removal outweighs individual inconvenience"
+            ],
+            "application_details": [
+                "applicant sought to delay removal"
+            ],
+            "result_of_case": [
+                "Removal order upheld",
+                "no stay granted"
+            ],
+            "standard_of_review": [
+                "tri-partite test for a stay of removal"
+            ],
+            "evidence_assessment": [
+                "deferral discretion is limited",
+                "speculative claims not sufficient"
+            ]
+        }
+    ]
+}

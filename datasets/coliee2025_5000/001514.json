@@ -1,0 +1,27 @@
+{
+    "Case ID": "001514",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "personal risk"
+            ],
+            "best_interests_of_children": [
+                "child's interests"
+            ],
+            "evidence_assessment": [
+                "lacked evidence on the child's welfare",
+                "new evidence excluded"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no reviewable error"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed PRRA decision",
+                "upholding officer's reasoning"
+            ]
+        }
+    ]
+}

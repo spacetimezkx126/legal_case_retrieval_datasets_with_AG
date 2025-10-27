@@ -1,0 +1,26 @@
+{
+    "Case ID": "039093",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "valid"
+            ],
+            "infringement_analysis": [
+                "infringed"
+            ],
+            "expert_testimony": [
+                "evaluated"
+            ],
+            "relevant_statute": [
+                "novelty, utility, non-obviousness"
+            ],
+            "court_ruling": [
+                "upheld patent",
+                "ordered profits payment",
+                "permanent injunction"
+            ]
+        }
+    ]
+}

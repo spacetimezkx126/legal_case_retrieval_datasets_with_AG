@@ -1,0 +1,111 @@
+{
+    "Case ID": "025393",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiring to commit an indictable offence (forgery of a Canadian passport)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness",
+                "failure to assess evidence"
+            ],
+            "evidence_assessment": [
+                "affidavit and letter evidence",
+                "LTTE death threats",
+                "no evidence"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration",
+                " Delegate's decision quashed"
+            ],
+            "criminality_inadmissibility": [
+                "serious criminality",
+                "public danger"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Credit card fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "decision_outcome": [
+                "patently unreasonable"
+            ],
+            "evidence_provided": [
+                "affidavit evidence",
+                "letter suggesting an LTTE death threat"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "serious_criminality": [
+                "credit card fraud and prior convictions"
+            ],
+            "risk_characterization": [
+                "risk from both Sri Lankan authorities and the LTTE"
+            ],
+            "appeal_outcome": [
+                "quashed the Delegate's decision and ordered reconsideration by a different panel"
+            ]
+        },
+        {
+            "Crime Name": "Conspiring to commit an assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "risk_assessment": [
+                "deportation risks torture or cruel treatment"
+            ],
+            "evidence_consideration": [
+                "affidavit evidence",
+                "letter suggesting LTTE death threats"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "criminal_history": [
+                "convicted of conspiracy and other crimes"
+            ],
+            "specific_threats_or_incidents": [
+                "LTTE death threats"
+            ],
+            "availability_of_alternative_remedies": [
+                "reconsideration by a different panel"
+            ],
+            "humanitarian_concerns": [
+                "risk from both government and LTTE"
+            ]
+        },
+        {
+            "Crime Name": "Attempting to obstruct justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "evidence_assessment": [
+                "affidavit",
+                "letter suggesting LTTE issued a death threat"
+            ],
+            "decision_reasoning": [
+                "patently unreasonable for failing to assess and dismiss the evidence regarding the LTTE death threat"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "result_of_case": [
+                "Court allowed judicial review, quashed the Delegate's decision, and ordered reconsideration by a different panel"
+            ],
+            "cause_of_action": [
+                "Fabian challenged his deportation order, arguing the Minister's Delegate ignored crucial evidence about risks to his life in Sri Lanka"
+            ]
+        }
+    ]
+}

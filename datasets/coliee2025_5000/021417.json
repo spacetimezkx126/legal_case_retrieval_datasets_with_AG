@@ -1,0 +1,31 @@
+{
+    "Case ID": "021417",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "discredited testimony",
+                "alleged contradictions"
+            ],
+            "procedural_fairness": [
+                "errors in fact-finding",
+                "failure to consider relevant evidence",
+                "lack of proper section 97 analysis"
+            ],
+            "documentary_evidence": [
+                "new evidence contradicts tribunal's findings"
+            ],
+            "country_conditions": [
+                "not adequately considered"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "tribunal's decision quashed"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (sections 96 and 97)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "032107",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "CBSA breached procedural fairness by not granting a reasonable extension"
+            ],
+            "decision_reasoning": [
+                "Procedural fairness requires that guarantors be given reasonable time to respond before enforcing guarantees. The CBSA must consider each case on its merits."
+            ],
+            "application_details": [
+                "Applicant's son breached release conditions, triggering the $15,000 guarantee. CBSA gave 30 days to contest but denied a requested 90-day extension. The applicant argued insufficient time due to ongoing legal proceedings affecting his response."
+            ],
+            "cause_of_action": [
+                "Applicant's son breached release conditions; CBSA enforced guarantee without granting adequate time for response."
+            ],
+            "procedure_followed": [
+                "Judicial review application filed challenging CBSA's decision. Court analyzed procedural fairness and discretionary powers."
+            ],
+            "result_of_case": [
+                "Court ruled in favor of the applicant, allowing the judicial review and setting aside CBSA's decision."
+            ]
+        }
+    ]
+}

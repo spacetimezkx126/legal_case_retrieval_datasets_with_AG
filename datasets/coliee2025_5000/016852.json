@@ -1,0 +1,75 @@
+{
+    "Case ID": "016852",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Federal Court Act, s. 18.1"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "false name upon entering Canada"
+            ],
+            "standard_of_review": [
+                "jurisdiction to review"
+            ],
+            "document_authenticity": [
+                "refusal to amend refugee claimant's name on official documents"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 18.1 of the Federal Court Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed in the Federal Court, Trial Division"
+            ],
+            "applicable_statute": [
+                "Federal Court Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "identity_documents": [
+                "immigration documents"
+            ],
+            "material_misrepresentation": [
+                "false name upon arrival"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "s. 18.1 of the Federal Court Act"
+            ],
+            "decision_outcome": [
+                "no jurisdiction"
+            ],
+            "refugee_status_claim": [
+                "name amendment request"
+            ],
+            "immigration_status": [
+                "refugee claimant"
+            ],
+            "evidence_provided": [
+                "false name upon arrival",
+                "request to change name"
+            ],
+            "reasoning_given": [
+                "amending names on preliminary documents is not a final decision with legal consequences"
+            ]
+        }
+    ]
+}

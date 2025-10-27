@@ -1,0 +1,74 @@
+{
+    "Case ID": "095905",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Document Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board's credibility findings were unaffected by interpreter errors"
+            ],
+            "procedural_fairness": [
+                "No breach of natural justice due to inadequate translation"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no new questions certified"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed interpreter quality objections and their impact on the case's outcome"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Misrepresentation of Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "fabricated documents",
+                "altered dates",
+                "handwritten changes",
+                "omissions"
+            ],
+            "credibility_issues": [
+                "discrepancies",
+                "implausibilities"
+            ],
+            "decision_outcome": [
+                "refugee claim denied",
+                "judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "interpreter quality",
+                "document authenticity"
+            ],
+            "nexus_to_convention_grounds": [
+                "fear of persecution"
+            ],
+            "identity_documents": [
+                "fabricated documents"
+            ],
+            "relationship_genuineness": [
+                "death of family members"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "negative credibility findings"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_review_result": [
+                "no breach of natural justice"
+            ],
+            "evidence_assessment": [
+                "translation errors did not affect key credibility findings"
+            ],
+            "procedural_fairness": [
+                "complainants must object to interpretation issues at the first reasonable opportunity"
+            ],
+            "reasoning_given": [
+                "applicant did not object to interpreter issues on the first and third days, despite being aware of problems"
+            ]
+        }
+    ]
+}

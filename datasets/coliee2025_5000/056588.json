@@ -1,0 +1,36 @@
+{
+    "Case ID": "056588",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "misinterpreting evidence",
+                "improperly using geographical knowledge",
+                "disallowing detailed responses",
+                "drawing adverse inferences without justification"
+            ],
+            "decision_reasoning": [
+                "several errors by RPD",
+                "undermined fairness"
+            ],
+            "application_details": [
+                "judicial review application filed",
+                "Minister consented to setting aside the decision",
+                "oral arguments held despite consent"
+            ],
+            "result_of_case": [
+                "Decision set aside",
+                "case remanded for new hearing with different panel",
+                "no costs awarded"
+            ],
+            "cause_of_action": [
+                "Mr. Johnson missed his hearing due to illness",
+                "subsequent abandonment declaration by RPD based on flawed reasoning"
+            ]
+        }
+    ]
+}

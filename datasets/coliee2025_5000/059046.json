@@ -1,0 +1,34 @@
+{
+    "Case ID": "059046",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days of residence in Canada within four years"
+            ],
+            "judicial_authority": [
+                "Citizenship Judge",
+                "Federal Court Act"
+            ],
+            "applicable_statute": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "correctness standard"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "nature_of_offense": [
+                "insufficient residency"
+            ],
+            "mitigating_factors": [
+                "ties like property ownership and family presence"
+            ],
+            "cause_of_action": [
+                "extensive absences from Canada due to employment with UNICEF"
+            ]
+        }
+    ]
+}

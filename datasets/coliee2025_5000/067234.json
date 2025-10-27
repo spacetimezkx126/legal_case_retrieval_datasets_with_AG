@@ -1,0 +1,27 @@
+{
+    "Case ID": "067234",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1095 days over four years"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "insufficient documentation of residency and income"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "applicable_statute": [
+                "Citizenship Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ]
+        }
+    ]
+}

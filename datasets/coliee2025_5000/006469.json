@@ -1,0 +1,61 @@
+{
+    "Case ID": "006469",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "subsection 9(1.2) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "minimal procedural protections for administrative decisions"
+            ],
+            "evidence_consideration": [
+                "intent to return to China",
+                "financial support from her cousin",
+                "insufficient evidence to rebut the presumption of immigration"
+            ],
+            "reasonableness_of_decision": [
+                "court upheld the decision as reasonable"
+            ],
+            "immigration_status": [
+                "student visa application refused"
+            ],
+            "applicant_involvement": [
+                "concerns about her intentions and financial support"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 9(1.2) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "minimal procedural protections for administrative decisions"
+            ],
+            "evidence_considered": [
+                "intent to return to China",
+                "financial support from her cousin"
+            ],
+            "decision_outcome": [
+                "visa application refused",
+                "judicial review dismissed"
+            ],
+            "applicable_laws": [
+                "Immigration Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "claimant_burden": [
+                "prove they are not immigrants"
+            ],
+            "court_ruling": [
+                "upheld the decision"
+            ]
+        }
+    ]
+}

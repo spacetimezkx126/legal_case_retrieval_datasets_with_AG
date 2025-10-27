@@ -1,0 +1,87 @@
+{
+    "Case ID": "009347",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Context (alleged)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "delays in reporting",
+                "inconsistencies in narrative",
+                "mental health condition",
+                "insufficient medical evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "refugee_status_eligibility": [
+                "claim of rape",
+                "fear of persecution",
+                "not credible"
+            ],
+            "decision_outcome": [
+                "upheld Board's decision",
+                "application dismissed"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in narrative and behavior",
+                "mental health condition as explanation",
+                "medical evidence found insufficient"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "risk_of_persecution": [
+                "sexual assault by police officer",
+                "fear of persecution in St-Vincent"
+            ],
+            "refugee_status_nexus": [
+                "claimed refugee status based on sexual assault"
+            ],
+            "evidence_consideration": [
+                "medical evidence reviewed but deemed insufficient"
+            ],
+            "procedural_fairness": [
+                "judicial review under Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Perjury (alleged)",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistent details",
+                "delays in reporting",
+                "discrepancies in narrative"
+            ],
+            "evidence_assessment": [
+                "no evidence of deliberate falsehoods"
+            ],
+            "decision_reasoning": [
+                "Board questioned credibility",
+                "no perjury established"
+            ],
+            "application_details": [
+                "applicant claimed she was raped by a police officer"
+            ],
+            "conclusion_outcome": [
+                "no perjury established"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no intervention by the Court"
+            ],
+            "cause_of_action": [
+                "refugee claim denied due to lack of credible evidence"
+            ]
+        }
+    ]
+}

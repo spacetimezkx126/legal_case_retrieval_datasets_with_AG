@@ -1,0 +1,69 @@
+{
+    "Case ID": "043007",
+    "Different Crime": [
+        {
+            "Crime Name": "Wilful Mischief over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian maritime law",
+                "Marine Liability Act",
+                "1976 Limitation Convention"
+            ],
+            "decision_outcome": [
+                "liable for full damages",
+                "lost the right to limit liability"
+            ],
+            "procedural_fairness": [
+                "court analyzed negligence, contributory negligence, and limitation of liability under maritime law"
+            ],
+            "evidence_provided": [
+                "Vallée intentionally cut the cable",
+                "causing $980,433.54 in damages",
+                "despite notices published by Telus",
+                "Vallée failed to verify the cable's status"
+            ],
+            "applicable_statute": [
+                "Article 4 of the 1976 Limitation Convention"
+            ],
+            "nature_of_offense": [
+                "wilfully cutting the submarine fibre optic cable"
+            ],
+            "mitigating_factors": [],
+            "irreparable_harm": [],
+            "reasonableness_standard": [
+                "breach of duty of care"
+            ],
+            "risk_characterization": [],
+            "specific_targeting": [],
+            "nexus_to_convention_grounds": [],
+            "materiality_of_misrepresentation": [],
+            "serious_criminality": [
+                "wilful misconduct"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Navigation and Vessel Regulations",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Canadian maritime law"
+            ],
+            "procedural_fairness": [
+                "negligence",
+                "liability limitation under maritime conventions",
+                "insurance coverage issues"
+            ],
+            "evidence_sufficiency": [
+                "intentional cutting of the cable",
+                "reckless actions",
+                "ignoring navigational hazards"
+            ],
+            "decision_outcome": [
+                "liable for damages",
+                "no right to limit liability"
+            ],
+            "consequences_of_decision": [
+                "$980,433.54 in damages plus interest"
+            ]
+        }
+    ]
+}

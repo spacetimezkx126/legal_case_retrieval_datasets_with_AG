@@ -1,0 +1,31 @@
+{
+    "Case ID": "042609",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Fraud",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "lack_of_corroboration",
+                "implausible_travel_details"
+            ],
+            "specific_group_membership": [
+                "Christian_identity"
+            ],
+            "documentary_evidence": [
+                "no_persecution_of_Christians_in_Guangdong"
+            ],
+            "evidence_assessment": [
+                "limited_religious_knowledge",
+                "doubted_motives"
+            ],
+            "reasonableness_standard": [
+                "Board's_decision_was_reasonable"
+            ],
+            "decision_outcome": [
+                "application_for_judicial_review_dismissed",
+                "Board's_decision_upheld"
+            ]
+        }
+    ]
+}

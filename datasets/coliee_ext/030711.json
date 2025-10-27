@@ -1,0 +1,59 @@
+{
+    "Case ID": "030711",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Dispute over amended release conditions for Mr. Sittampalam, deemed a public danger",
+            "Legal_Issue": "Is the release order amendment by Member Harnum procedurally fair and legally valid?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Fairness": "Member Harnum altered release conditions without clear reasons or party submissions",
+            "Document_Fraud": true
+        },
+        {
+            "Crime_Name": "Engaging in organized criminality",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Accusation": "Mr. Sittampalam's involvement in organized crime and designation as a public danger",
+            "Risk_Nexus": "History of organized crime and risk to public safety",
+            "Procedural_Fairness_Issue": "Member Harnum altered release conditions without requested changes or adequate reasons",
+            "Evidence_Disclosure_Status": "No submissions from parties were allowed before the decision",
+            "Legal_Framework": "Immigration and Refugee Protection Act"
+        },
+        {
+            "Crime_Name": "Obstructing a peace officer",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Is the order altering the terms and conditions of release procedurally fair and adequately reasoned?",
+            "Procedural_Stage": "Judicial review application and motion for stay",
+            "Decision_Outcome": "Order stayed pending final judicial review determination",
+            "Procedural_Fairness_Assessment": "Alteration made without requested amendments or adequate reasons",
+            "Standard_of_Review": "Tripartite test for interim injunctions"
+        },
+        {
+            "Crime_Name": "Failure to comply with a recognizance",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Whether the Immigration Division Member's order altering release conditions without adequate reasons or procedural fairness should be stayed",
+            "Procedural_Issue": "Alteration without consent or submissions from parties",
+            "Remedy_Sought": "Stay of Member Harnum's order",
+            "Judicial_Review_Outcome": "Stay granted, preserving stricter release conditions",
+            "Authority": "Immigration Division Member (Harnum)"
+        },
+        {
+            "Crime_Name": "Serious criminality",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Breach of procedural fairness in immigration release decision",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Issue": "Failure to provide adequate reasons or allow party submissions",
+            "Harm_Assessment": "Risk to public safety due to Mr. Sittampalam's criminal history",
+            "Outcome": "Order stayed pending further judicial review"
+        },
+        {
+            "Crime_Name": "Trafficking in a narcotic",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Accusation": "Criminal history involving drug trafficking contributing to public danger assessment",
+            "Risk_Nexus": "Mr. Sittampalam’s criminal background poses a threat to public safety",
+            "Procedural_Fairness_Issue": "Release conditions altered without compelling reasons or proper process",
+            "Legal_Framework": "Immigration and Refugee Protection Act",
+            "Judicial_Review_Outcome": "Stay granted pending full judicial review"
+        }
+    ]
+}

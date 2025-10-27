@@ -1,0 +1,88 @@
+{
+    "Case ID": "033974",
+    "Different Crime": [
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "state_protection_analysis": [
+                "sufficient state protection in Mexico",
+                "issues like corruption and homophobia"
+            ],
+            "evidence_consideration": [
+                "alternative state protection mechanisms",
+                "documentary evidence"
+            ],
+            "risk_of_persecution": [
+                "persecution due to sexual orientation",
+                "personal vendetta"
+            ],
+            "specific_threats_or_incidents": [
+                "alleged abuse by police and family"
+            ],
+            "refugee_status_nexus": [
+                "claiming refugee status in Canada"
+            ],
+            "standard_of_proof": [
+                "standard of review for the Board's decision is reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Report Crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_of_persecution": [
+                "homosexuality",
+                "police abuse"
+            ],
+            "state_protection": [
+                "adequate state protection",
+                "alternative state mechanisms"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "government initiatives",
+                "effectiveness"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Homosexual Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "Convention refugee",
+                "well-founded fear of persecution",
+                "membership in a particular social group"
+            ],
+            "state_protection": [
+                "adequate state protection",
+                "sufficient state protection",
+                "available state mechanisms"
+            ],
+            "persecution_grounds": [
+                "sexual orientation",
+                "homophobia"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Board's decision under IRPA subsection 72(1)"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable",
+                "documentary evidence",
+                "lack of efforts by the applicant to seek local protection"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no error in Board's decision"
+            ]
+        }
+    ]
+}

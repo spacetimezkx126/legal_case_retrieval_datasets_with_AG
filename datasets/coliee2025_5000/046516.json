@@ -1,0 +1,79 @@
+{
+    "Case ID": "046516",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "sur place claim",
+                "persecution in Turkey",
+                "domestic violence in Canada"
+            ],
+            "decision_outcome": [
+                "reviewable error",
+                "case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review application under IRPA subsection 72(1)"
+            ],
+            "evidence_assessment": [
+                "evidence of domestic violence in Canada and fear of cousin"
+            ],
+            "procedural_fairness": [
+                "Board's failure to address sur place claim"
+            ],
+            "legal_basis": [
+                "Board must examine sur place refugee claims if evidence exists"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Bodily Harm",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "remittance for redetermination",
+                "setting aside the Board’s decision"
+            ],
+            "specific_threats": [
+                "threats and assault by her cousin in Canada"
+            ],
+            "risk_of_persecution": [
+                "persecution in Turkey",
+                "domestic violence in Canada"
+            ],
+            "burden_of_proof": [
+                "Board must examine sur place claims even if not explicitly raised"
+            ],
+            "inconsistencies_in_testimony": [
+                "Board's omission to consider the sur place claim"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "sur_place_claims": [
+                "domestic violence in Canada"
+            ],
+            "procedural_fairness": [
+                "Board's omission to consider sur place claim"
+            ],
+            "risk_of_persecution": [
+                "persecution in Turkey"
+            ],
+            "refugee_status_nexus": [
+                "refugee claim based on threats and assault"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "reasonableness_of_decision": [
+                "reviewable error, warranting judicial review"
+            ]
+        }
+    ]
+}

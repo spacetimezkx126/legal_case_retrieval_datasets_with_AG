@@ -1,0 +1,75 @@
+{
+    "Case ID": "026768",
+    "Different Crime": [
+        {
+            "Crime Name": "Lying to a visa officer",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 19(2)(d)",
+                "s. 11(3) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness"
+            ],
+            "misrepresentation_or_fraud": [
+                "lying",
+                "offering a bribe"
+            ],
+            "decision_outcome": [
+                "refusal quashed",
+                "new interview required"
+            ],
+            "regulatory_compliance": [
+                "compliance with all conditions of the Act"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Attempted bribery of government officials",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 11(3) of the Immigration Regulations"
+            ],
+            "decision_outcome": [
+                "Decision was overturned; new interview ordered with a different visa officer"
+            ],
+            "procedural_fairness": [
+                "procedural unfairness and improper use of discretion"
+            ],
+            "nature_of_offense": [
+                "attempted bribery"
+            ],
+            "judicial_authority": [
+                "Judicial review quashed the visa denial decision"
+            ]
+        },
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "denied procedural fairness",
+                "not informed of real purpose"
+            ],
+            "legal_basis": [
+                "Immigration Act and Regulations",
+                "s. 19(2)(d)",
+                "s. 11(3)"
+            ],
+            "discretion_exercise": [
+                "invalid exercise of discretion under s. 11(3)"
+            ],
+            "decision_reasoning": [
+                "refusal reasons unrelated to economic establishment criteria"
+            ],
+            "application_details": [
+                "applicant sent $500 to an immigration officer"
+            ],
+            "result_of_case": [
+                "Decision quashed",
+                "new interview by a different officer required"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Case ID": "011581",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "reasonableness_of_decision": [
+                "Enforcement Officer's refusal to defer removal"
+            ],
+            "evidence_consideration": [
+                "personal circumstances",
+                "outstanding H&C applications"
+            ],
+            "past_criminal_convictions": [
+                "convicted of assault once"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "fears of returning to Guyana"
+            ],
+            "procedural_fairness": [
+                "misunderstood key facts",
+                "failure to consider relevant factors"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Manslaughter",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "discretion_exercise": [
+                "failed to fully assess risks",
+                "misunderstood facts",
+                "consider all evidence"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "outstanding H&C application"
+            ],
+            "decision_reasoning": [
+                "errors in discretion",
+                "misapprehension of evidence"
+            ],
+            "result_of_case": [
+                "removal deferral denial was overturned",
+                "Enforcement Officer's decision deemed unreasonable"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Enforcement Officer's decision",
+                "mootness concerns"
+            ]
+        }
+    ]
+}

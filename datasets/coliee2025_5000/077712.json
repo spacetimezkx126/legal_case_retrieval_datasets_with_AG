@@ -1,0 +1,51 @@
+{
+    "Case ID": "077712",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Institutional Rules",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "afforded procedural fairness",
+                "provided all necessary information"
+            ],
+            "applicable_regulations": [
+                "Subsection 27(1) of the Corrections and Conditional Release Act",
+                "Subsection 27(3) of the Corrections and Conditional Release Act"
+            ],
+            "evidence_assessment": [
+                "informed about intercepted communications and allegations",
+                "not the identities of confidential informants"
+            ],
+            "decision_reasoning": [
+                "summary provided was sufficient for the applicant to understand and rebut the case against him"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed",
+                "upholding the Warden's decision"
+            ]
+        },
+        {
+            "Crime Name": "Possession of Contraband in a Penitentiary",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "CSC met disclosure obligations",
+                "Warden's decision was procedurally fair and reasonable"
+            ],
+            "evidence_considered": [
+                "CSC withheld informant identities but disclosed summaries of intercepted communications and allegations",
+                "Applicant's rebuttal confirmed receipt of sufficient information"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "CSC fulfilled procedural fairness requirements"
+            ],
+            "applicable_law_or_regulation": [
+                "Subsection 27(1) of the Act",
+                "Subsection 27(3) of the Act"
+            ],
+            "review_process": [
+                "Judicial review assessed whether disclosure obligations were met using reasonableness standard"
+            ]
+        }
+    ]
+}

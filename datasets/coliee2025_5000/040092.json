@@ -1,0 +1,79 @@
+{
+    "Case ID": "040092",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose criminal conviction in immigration documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant failed to disclose a prior fraud conviction"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed; case remanded for redetermination considering updated legal standards"
+            ],
+            "standard_of_review": [
+                "Judicial review application challenging the Board's exclusion decision based on new Supreme Court guidance"
+            ],
+            "criminality_inadmissibility": [
+                "fraud conviction serious due to its Canadian equivalent carrying a maximum sentence of 14 years"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "fraud"
+            ],
+            "applicable_statute": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Court"
+            ],
+            "mitigating_factors": [
+                "low end of Canadian sentencing spectrum",
+                "10 months sentence in Korea"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "remitted for reconsideration"
+            ],
+            "nature_of_offense": [
+                "fraud conviction in Korea"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside Canada",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "decision_reasoning": [
+                "inadequate analysis of mitigating factors",
+                "seriousness presumption based on Canadian equivalent sentence"
+            ],
+            "mitigating_factors": [
+                "actual sentence (10 months)",
+                "only 165 days served",
+                "wide sentencing range"
+            ],
+            "conclusion_outcome": [
+                "Board's decision quashed",
+                "matter remitted for reconsideration"
+            ],
+            "application_details": [
+                "Judicial review application challenging the Board's exclusion decision"
+            ],
+            "result_of_case": [
+                "Application granted",
+                "case remanded for redetermination"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Case ID": "031313",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "connection to Nova Scotia",
+                "property ownership",
+                "voting",
+                "medical services"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_presented": [
+                "property ownership",
+                "voting",
+                "medical services",
+                "Florida residence due to husband’s health needs"
+            ],
+            "decision_reasonableness": [
+                "lacked justification",
+                "transparency",
+                "intelligibility",
+                "failed to analyze critical evidence"
+            ],
+            "relevant_statute": [
+                "Old Age Security Act"
+            ],
+            "application_details": [
+                "substantial evidence of connection to Nova Scotia"
+            ],
+            "review_process": [
+                "Review Tribunal",
+                "judicial review in the Federal Court"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "matter remitted to a differently constituted Review Tribunal for reconsideration"
+            ],
+            "cause_of_action": [
+                "anonymous letter triggered review of OAS pension eligibility"
+            ],
+            "administrative_decision": [
+                "Review Tribunal's decision that Ms. Kiefer was not a resident of Canada from 1981 to 1988"
+            ]
+        }
+    ]
+}

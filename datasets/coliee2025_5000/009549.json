@@ -1,0 +1,49 @@
+{
+    "Case ID": "009549",
+    "Different Crime": [
+        {
+            "Crime Name": "Re-entering Canada without authorization under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_assessment": [
+                "gaps in academic records",
+                "lack of proof of studies in India",
+                "transcripts and diploma suggesting unauthorized presence"
+            ],
+            "immigration_status": [
+                "re-entered Canada illegally",
+                "applied for a student visa after deportation"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the visa officer’s decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose relevant information",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "no procedural unfairness occurred"
+            ],
+            "evidence_provided": [
+                "transcripts showing attendance in Canada post-departure"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "relationship_genuineness": [
+                "concerns about past non-compliance"
+            ],
+            "burden_of_proof": [
+                "applicants bear the burden of proving they will comply with visa terms"
+            ]
+        }
+    ]
+}

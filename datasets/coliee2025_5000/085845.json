@@ -1,0 +1,112 @@
+{
+    "Case ID": "085845",
+    "Different Crime": [
+        {
+            "Crime Name": "Personating with intent",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "imminent risk",
+                "children's best interests",
+                "lateness of H&C application submission"
+            ],
+            "criminality_inadmissibility": [
+                "criminal record",
+                "personating with intent"
+            ],
+            "decision_outcome": [
+                "denied deferral of removal",
+                "judicial review dismissed"
+            ],
+            "best_interests_of_children": [
+                "no imminent risk to children"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "material_misrepresentation": [
+                "late filing deemed unjustified"
+            ]
+        },
+        {
+            "Crime Name": "Fraud under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "HIV status",
+                "children's best interests",
+                "late H&C application filing"
+            ],
+            "reasonableness_standard": [
+                "Officer's decision reviewed for reasonableness"
+            ],
+            "risk_characterization": [
+                "no imminent risk in Zimbabwe"
+            ],
+            "child_best_interests": [
+                "maintained children's care status quo"
+            ],
+            "materiality_of_misrepresentation": [
+                "deemed late filing unjustified"
+            ],
+            "appeal_outcome": [
+                "judicial review application dismissed"
+            ],
+            "decision_outcome": [
+                "Officer's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "HIV status",
+                "children's welfare",
+                "late filing"
+            ],
+            "past_criminal_convictions": [
+                "multiple convictions",
+                "assault charges (withdrawn)"
+            ],
+            "reasonableness_of_decision": [
+                "range of acceptable outcomes based on facts and law"
+            ],
+            "family_ties": [],
+            "applicant_characteristics": [
+                "pending H&C application",
+                "concerns about family welfare"
+            ],
+            "procedural_fairness": [
+                "judicial review process under Immigration and Refugee Protection Act",
+                "Officer’s discretion"
+            ]
+        },
+        {
+            "Crime Name": "Breach of probation",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [
+                "HIV positive",
+                "children in Canada",
+                "late filing of H&C forms"
+            ],
+            "decision_reasonableness": [
+                "no imminent risk",
+                "children's care unaffected",
+                "lack of credible explanation for late filing"
+            ],
+            "best_interests_of_children": [
+                "children's care unaffected by removal"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "decision_conclusion": [
+                "Officer's decision was reasonable"
+            ]
+        }
+    ]
+}

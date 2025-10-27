@@ -1,0 +1,120 @@
+{
+    "Case ID": "079177",
+    "Different Crime": [
+        {
+            "Crime Name": "Uttering Threats",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "YCJA",
+                "IRPA"
+            ],
+            "evidence_provided": [
+                "juvenile criminal records",
+                "Report to Crown Counsel"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "IAD's decision set aside for reconsideration"
+            ],
+            "procedural_fairness": [
+                "err in admitting evidence"
+            ],
+            "applicable_statute": [
+                "YCJA",
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "violation of procedural fairness"
+            ],
+            "evidence_consideration": [
+                "admission of juvenile record",
+                "use of Report to Crown Counsel"
+            ],
+            "standard_of_proof": [
+                "unverified allegations",
+                "lack of corroborating evidence"
+            ],
+            "criminal_history": [
+                "juvenile criminal record",
+                "sexual assault conviction"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "insufficient humanitarian and compassionate grounds"
+            ],
+            "legal_basis": [
+                "YCJA",
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Appear",
+            "Crime Type": "others",
+            "legal_basis": [
+                "YCJA",
+                "IRPA"
+            ],
+            "evidence_assessment": [
+                "juvenile criminal record",
+                "Report to Crown Counsel"
+            ],
+            "decision_reasoning": [
+                "admissibility of evidence",
+                "statutory protections"
+            ],
+            "application_details": [
+                "judicial review application"
+            ],
+            "procedure_steps": [
+                "analysis of legal standards"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "IAD's decision set aside for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a Scheduled Substance for the Purpose of Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "YCJA",
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "violated"
+            ],
+            "evidence_sufficiency": [
+                "insufficient verification"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "consideration required"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "YCJA",
+                "IRPA"
+            ],
+            "criminal_history": [
+                "juvenile record",
+                "unproven charges"
+            ],
+            "decision_outcome": [
+                "set aside for reconsideration"
+            ],
+            "consequences_of_decision": [
+                "re-evaluation of deportation appeal"
+            ]
+        }
+    ]
+}

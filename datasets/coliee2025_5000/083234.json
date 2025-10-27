@@ -1,0 +1,85 @@
+{
+    "Case ID": "083234",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA Section 97(1)(b)(ii)"
+            ],
+            "decision_outcome": [
+                "Judicial review granted",
+                "Case referred back for reassessment"
+            ],
+            "internal_flight_alternative": [
+                "Not applicable due to personalized risk"
+            ],
+            "personalized_vs_generalized_risk": [
+                "Personalized risk required but generalized risk found"
+            ],
+            "risk_characterization": [
+                "Particular risk from Mara Salvatrucha"
+            ],
+            "nexus_to_convention_grounds": [
+                "Reassessment needed"
+            ],
+            "judicial_authority": [
+                "Immigration Refugee Board",
+                "Refugee Protection Division"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk assessment",
+                "generalized risk"
+            ],
+            "risk_of_persecution": [
+                "threats and violence from Mara Salvatrucha"
+            ],
+            "legal_basis": [
+                "section 97(1)(b)(ii) of the IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "Board erred in its legal analysis",
+                "decision is unreasonable"
+            ],
+            "internal_flight_alternative": [],
+            "refugee_status_nexus": [
+                "seeking refugee protection in Canada"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 97(1)(b)(ii) of IRPA"
+            ],
+            "risk_of_persecution": [
+                "personalized risk of harm",
+                "generalized risk"
+            ],
+            "decision_reasoning": [
+                "individualized assessment",
+                "particular risk dismissed as generalized"
+            ],
+            "application_details": [
+                "applicant fled El Salvador",
+                "threats and violence from Mara Salvatrucha (MS)",
+                "seeking refugee protection in Canada"
+            ],
+            "result_of_case": [
+                "case remanded to Immigration and Refugee Board for reconsideration by a different member"
+            ],
+            "court_ruling": [
+                "Board erred in its legal analysis",
+                "decision is unreasonable and must be set aside for reconsideration"
+            ],
+            "procedure_followed": [
+                "judicial review of the Refugee Protection Division's decision",
+                "Federal Court granted the application for judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Case ID": "005798",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 18.5 of the Federal Court Act",
+                "Income Tax Act"
+            ],
+            "cause_of_action": [
+                "challenge assessments",
+                "improper auditing practices"
+            ],
+            "procedure_followed": [
+                "Notice of Motion in Federal Court",
+                "writ of certiorari",
+                "declaratory relief"
+            ],
+            "decision_reasoning": [
+                "exclusive appeal procedures in Income Tax Act"
+            ],
+            "result_of_case": [
+                "dismissed application for certiorari and declaratory relief",
+                "allowed claims regarding audits to proceed"
+            ],
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "application_details": [
+                "challenged assessments via writ of certiorari and declaratory relief"
+            ]
+        }
+    ]
+}

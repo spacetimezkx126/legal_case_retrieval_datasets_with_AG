@@ -1,0 +1,53 @@
+{
+    "Case ID": "067018",
+    "Different Crime": [
+        {
+            "Crime Name": "Impaired driving over 80 mg of alcohol in 100 ml of blood",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 7(b) of the Criminal Records Act"
+            ],
+            "decision_reasoning": [
+                "revocation based on impaired driving conviction",
+                "no longer of good conduct"
+            ],
+            "procedural_fairness": [
+                "endangering public safety"
+            ],
+            "discretion_exercise": [
+                "Parole Board's discretion"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "pardon revocation upheld"
+            ],
+            "cause_of_action": [
+                "conviction for impaired driving"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to export pseudoephedrine",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Criminal Records Act, section 2.1 and paragraph 7(b)"
+            ],
+            "procedural_fairness": [
+                "Lack of procedural fairness challenged"
+            ],
+            "criminal_history": [
+                "Convicted for conspiring to export pseudoephedrine in 2007",
+                "Convicted of driving with a blood alcohol level nearly twice the legal limit in 2012"
+            ],
+            "decision_made_by": [
+                "Parole Board of Canada"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "decision_outcome": [
+                "Pardon revoked",
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

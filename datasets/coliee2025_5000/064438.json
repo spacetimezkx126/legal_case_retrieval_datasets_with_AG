@@ -1,0 +1,32 @@
+{
+    "Case ID": "064438",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1095 days of physical presence",
+                "applicant provided evidence showing 1178 days"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "Appeal allowed; file referred back to another Citizenship Judge"
+            ],
+            "standard_of_review": [
+                "judicial review standards"
+            ],
+            "evidence_provided": [
+                "evidence showing 1178 days of physical presence"
+            ],
+            "procedural_fairness": [
+                "ignoring reliable evidence of physical presence",
+                "improperly applying the qualitative test"
+            ],
+            "applicable_statute": [
+                "Citizenship Act"
+            ]
+        }
+    ]
+}

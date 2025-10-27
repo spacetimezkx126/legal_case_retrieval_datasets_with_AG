@@ -1,0 +1,26 @@
+{
+    "Case ID": "011922",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days",
+                "physical presence in Canada"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "appeal dismissed"
+            ],
+            "immigration_status": [
+                "ineligible for citizenship"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act",
+                "Re Pourghasemi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Border Document Misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Immigration and Refugee Protection",
+            "Legal_Issue": "Reasonableness of Internal Flight Alternative (IFA)",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Immigration and Refugee Board",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Fraudulent Use of Passport",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration and Refugee Protection",
+            "Legal_Issue": "Reasonableness of Internal Flight Alternative (IFA)",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial Review",
+            "Standard_of_Review": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Human Trafficking",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Human Trafficking and Forced Prostitution",
+            "Legal_Issue": "Viability of Internal Flight Alternative (IFA)",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Claimant_Status": "Refugee Applicant",
+            "Harm_Assessment": "Severe trauma, family disownment, illiteracy, psychological stress"
+        },
+        {
+            "Crime_Name": "Forcible Confinement",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee Protection",
+            "Legal_Provision_Involved": "Section 72 of the Immigration and Refugee Protection Act",
+            "Outcome": "Application for judicial review allowed",
+            "Risk_Factor": "Trauma, illiteracy, lack of family support",
+            "State_Protection_Adequacy": "Inadequate in Nigeria"
+        },
+        {
+            "Crime_Name": "Sexual Exploitation",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Sexual Exploitation and FGM Threats",
+            "Victim_Status": "Female survivor of gender-based violence",
+            "Location_of_Incident": "Nigeria and Greece",
+            "Risk_Type": "Persecution based on gender and past victimization",
+            "Evidence_Type": "Personal testimony, psychological evaluation"
+        }
+    ]
+}

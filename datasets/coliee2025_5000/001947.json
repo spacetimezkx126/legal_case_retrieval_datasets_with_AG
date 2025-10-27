@@ -1,0 +1,31 @@
+{
+    "Case ID": "001947",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "obviousness",
+                "lack of demonstrated or soundly predicted utility"
+            ],
+            "evidence_provided": [
+                "expert testimony",
+                "affidavits"
+            ],
+            "technical_details": [
+                "dissolution profiles",
+                "binder inclusion"
+            ],
+            "decision_outcome": [
+                "Application dismissed with costs awarded to Apotex"
+            ],
+            "applicable_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ]
+        }
+    ]
+}

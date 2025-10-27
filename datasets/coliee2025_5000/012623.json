@@ -1,0 +1,31 @@
+{
+    "Case ID": "012623",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over carriage of goods due to breach of charter party agreement"
+            ],
+            "relevant_statute": [
+                "Federal Court Act s. 22(2)(i)",
+                "Federal Court Act s. 43(2)"
+            ],
+            "court_jurisdiction": [
+                "in rem jurisdiction"
+            ],
+            "application_details": [
+                "Paramount's claim involves a different ship ('An Xin Jiang') than the one in the original agreement ('Len Speer')"
+            ],
+            "evidence_consideration": [
+                "No direct connection exists between the cargo and Paramount, as it never possessed or handled the cargo"
+            ],
+            "decision_reasoning": [
+                "Paramount's in rem action discloses no reasonable cause of action"
+            ],
+            "result_of_case": [
+                "Motion granted; Paramount's in rem claims dismissed, warrant for arrest quashed, and bank guarantee returned"
+            ]
+        }
+    ]
+}

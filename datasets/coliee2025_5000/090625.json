@@ -1,0 +1,29 @@
+{
+    "Case ID": "090625",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to question applicants",
+                "inadequate addressing of contradictory evidence"
+            ],
+            "documentary_evidence": [
+                "key documentary evidence not questioned"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration"
+            ],
+            "legal_basis": [
+                "procedural fairness requirements"
+            ],
+            "review_standard": [
+                "judicial review focused on procedural fairness"
+            ],
+            "burden_of_proof": [
+                "perceived lack of evidence rebutting state protection presumption"
+            ]
+        }
+    ]
+}

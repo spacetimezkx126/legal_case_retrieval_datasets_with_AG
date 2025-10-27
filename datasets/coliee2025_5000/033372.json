@@ -1,0 +1,158 @@
+{
+    "Case ID": "033372",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "perceived inconsistencies",
+                "ignored key corroborating evidence"
+            ],
+            "procedural_fairness": [
+                "errors in analyzing specific incidents"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to alleged political persecution"
+            ],
+            "decision_outcome": [
+                "application is allowed",
+                "case is remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "credibility findings reviewed for patent unreasonableness",
+                "procedural fairness issues judged on correctness"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Board failed to notify Mr. Suduwelik of specialized knowledge use",
+                "Dismissed key evidence without clear justification"
+            ],
+            "evidence_consideration": [
+                "Letters, police reports deemed unreliable or self-serving"
+            ],
+            "credibility_findings": [],
+            "risk_of_persecution": [
+                "Political persecution claimed by Mr. Suduwelik"
+            ],
+            "specific_threats_or_incidents": [
+                "Assaults, threats, arrests against him and his family"
+            ],
+            "reasonableness_of_decision": [
+                "Errors in decision-making process identified"
+            ],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Board must provide reasons for rejecting evidence and ensure procedural fairness, including notice of reliance on specialized knowledge."
+            ],
+            "credibility_findings": [
+                "Perceived inconsistencies and unreliable evidence but failed to address key corroborating evidence and made factual errors."
+            ],
+            "procedural_fairness": [
+                "Errors in credibility findings and procedural unfairness."
+            ],
+            "decision_reasoning": [
+                "Reviewable errors and procedural unfairness."
+            ],
+            "result_of_case": [
+                "Case remanded to a different Board for reconsideration on its merits."
+            ],
+            "cause_of_action": [
+                "Claimed political persecution by a Sri Lankan politician, leading to fleeing to Canada."
+            ]
+        },
+        {
+            "Crime Name": "False Imprisonment",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "unreliable",
+                "self-serving"
+            ],
+            "procedural_fairness": [
+                "specialized knowledge use",
+                "notice requirement"
+            ],
+            "refugee_status": [
+                "claimant"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "Federal Court review"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination"
+            ],
+            "evidence_considered": [
+                "key evidence dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Political Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "perceived inconsistencies",
+                "ignored key corroborating evidence",
+                "factual errors"
+            ],
+            "procedural_fairness": [
+                "failed to notify about specialized knowledge",
+                "errors in procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable standard"
+            ],
+            "judicial_review_process": [
+                "case remitted for redetermination"
+            ],
+            "burden_of_proof": [
+                "Board must consider all evidence"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "rehearing ordered"
+            ]
+        },
+        {
+            "Crime Name": "Arson",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "unreliable",
+                "inconsistencies",
+                "second-hand accounts"
+            ],
+            "procedural_fairness": [
+                "notice before using specialized knowledge"
+            ],
+            "refugee_protection": [
+                "political persecution"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination"
+            ],
+            "applicable_laws": [
+                "Board's credibility findings review",
+                "procedural fairness requirements"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "relevant_factors": [
+                "arrests",
+                "assaults",
+                "threats",
+                "firebombing"
+            ],
+            "court_ruling": [
+                "application allowed"
+            ]
+        }
+    ]
+}

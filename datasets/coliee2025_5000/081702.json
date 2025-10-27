@@ -1,0 +1,61 @@
+{
+    "Case ID": "081702",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 109 of the Immigration and Refugee Protection Act",
+                "section 18.1(4) of the Federal Courts Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "Bulgarian fraud conviction"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence regarding crime equivalency"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted to a new panel for re-determination"
+            ],
+            "refugee_status_eligibility": [
+                "vacate Convention refugee status based on alleged misrepresentation"
+            ],
+            "standard_of_review": [
+                "factual findings requiring evidence"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "Article 1F(b)"
+            ],
+            "serious_criminality": [
+                "fraud conviction involving $14,680"
+            ],
+            "evidence_provided": [
+                "Bulgarian certificates"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "case remitted for re-determination"
+            ],
+            "material_misrepresentation": [
+                "concealment of criminal convictions"
+            ],
+            "legal_basis": [
+                "refugee status can be vacated for fraud or misrepresentation"
+            ],
+            "exclusion_reason": [
+                "serious non-political convictions"
+            ],
+            "procedural_fairness": [
+                "insufficient evidence on legal equivalency"
+            ]
+        }
+    ]
+}

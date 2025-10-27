@@ -1,0 +1,28 @@
+{
+    "Case ID": "054829",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "621 days out of 1095 required",
+                "temporary absences allowed if ties to Canada maintained"
+            ],
+            "decision_outcome": [
+                "appeal allowed"
+            ],
+            "standard_of_review": [
+                "considered due to conflicting jurisprudence"
+            ],
+            "identity_verification": [
+                "physical presence in Canada"
+            ],
+            "regulatory_compliance": [
+                "failed to meet residency requirement under paragraph 5(1)(c) of the Citizenship Act"
+            ],
+            "procedural_fairness": [
+                "errors in Citizenship judge's assessment"
+            ]
+        }
+    ]
+}

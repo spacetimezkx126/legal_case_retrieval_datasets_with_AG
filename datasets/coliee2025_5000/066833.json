@@ -1,0 +1,27 @@
+{
+    "Case ID": "066833",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court of Canada"
+            ],
+            "relevant_statute": [
+                "Section 18 of the Federal Court Act"
+            ],
+            "decision_reasoning": [
+                "Farm Credit Corp. and Farm Debt Review Board not considered 'federal boards' due to commercial lending and mediation roles without decision-making powers"
+            ],
+            "cause_of_action": [
+                "Dissatisfaction with settlement options by Canadian farmers"
+            ],
+            "procedure_followed": [
+                "Class action lawsuit filed, defendants moved to strike claim for lack of jurisdiction, court reviewed statutes and precedents"
+            ],
+            "result_of_case": [
+                "Court dismissed plaintiffs' action, interlocutory injunction application struck, confirmed lack of jurisdiction"
+            ]
+        }
+    ]
+}

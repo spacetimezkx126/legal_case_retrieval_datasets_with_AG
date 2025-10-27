@@ -1,0 +1,23 @@
+{
+    "Case ID": "094438",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "did not meet residency requirements",
+                "accumulate at least three years (1,095 days) of residence in Canada within four years preceding their application"
+            ],
+            "document_authenticity": [
+                "incomplete documentation"
+            ],
+            "decision_outcome": [
+                "dismissed the application for judicial review",
+                "upholding the original decision"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

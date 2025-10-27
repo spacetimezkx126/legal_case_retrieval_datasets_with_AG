@@ -1,0 +1,35 @@
+{
+    "Case ID": "059224",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable",
+                "overly scrutinized minor details",
+                "identity assessment flaws"
+            ],
+            "documentary_evidence": [
+                "birth certificate",
+                "official stamps"
+            ],
+            "inconsistencies_in_testimony": [
+                "found by the Board"
+            ],
+            "evidence_assessment": [
+                "authenticity questioned",
+                "reasonable explanations for missing documentation"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "Board's decision overturned"
+            ],
+            "standard_of_proof": [
+                "not explicitly mentioned but implied under IRPA"
+            ],
+            "burden_of_proof": [
+                "on the Applicant to establish identity and credibility"
+            ]
+        }
+    ]
+}

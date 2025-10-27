@@ -1,0 +1,32 @@
+{
+    "Case ID": "035550",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Status",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "review_standard": [
+                "bad faith",
+                "irrelevant considerations",
+                "patently unreasonable actions"
+            ],
+            "country_conditions": [
+                "changes in country conditions"
+            ],
+            "documentary_evidence": [
+                "objective documentary evidence"
+            ],
+            "specific_threats": [
+                "no conclusive evidence of specific threats"
+            ],
+            "procedural_fairness": [
+                "extrinsic evidence was used without applicant knowledge"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "risk_of_persecution": [
+                "risk due to past events in Guatemala"
+            ]
+        }
+    ]
+}

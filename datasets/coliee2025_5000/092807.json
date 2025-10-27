@@ -1,0 +1,45 @@
+{
+    "Case ID": "092807",
+    "Different Crime": [
+        {
+            "Crime Name": "Inducement of Patent Infringement",
+            "Crime Type": "others",
+            "patent_validity": [
+                "424 Patent"
+            ],
+            "cause_of_action": [
+                "inducement of infringement"
+            ],
+            "application_details": [
+                "prohibition application"
+            ],
+            "evidence_presented": [
+                "Product Monograph",
+                "expert evidence"
+            ],
+            "decision_reasoning": [
+                "no reasonable chance of success under the inducement test"
+            ],
+            "result_of_case": [
+                "appeal dismissed",
+                "application struck"
+            ],
+            "cost_awards": [
+                "PPC awarded costs"
+            ],
+            "procedure_followed": [
+                "motion to strike",
+                "de novo review"
+            ],
+            "relevant_rule": [
+                "s 6(5)(b) of the NOC Regulations"
+            ],
+            "dispute_focus": [
+                "inducement via product monograph"
+            ],
+            "court_ruling": [
+                "Prothonotary Lafrenière granted motion to strike"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Case ID": "076138",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "child's sickle cell disease"
+            ],
+            "procedural_fairness": [
+                "officer failed to assess application merits"
+            ],
+            "evidence_consideration": [
+                "lack of updated information",
+                "ignoring substantive basis"
+            ],
+            "family_ties": [
+                "presence in Canada"
+            ],
+            "immigration_status": [
+                "inland application for permanent residence"
+            ],
+            "standard_of_proof": [
+                "alleged non-compliance and outdated information"
+            ],
+            "reasonableness_of_decision": [
+                "judicial review granted, officer erred"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "sickle cell disease",
+                "family presence in Canada"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "reconsideration ordered"
+            ],
+            "applicable_laws": [
+                "Section 25 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_considered": [
+                "lack of updated information",
+                "substantive basis for considering child's illness"
+            ],
+            "procedural_fairness": [
+                "officer failed to assess application merits"
+            ],
+            "appeal_process": [
+                "judicial review application filed with the Federal Court"
+            ],
+            "claimant_burden": [
+                "providing updated information"
+            ]
+        }
+    ]
+}

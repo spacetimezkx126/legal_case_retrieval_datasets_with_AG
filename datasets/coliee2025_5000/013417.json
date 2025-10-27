@@ -1,0 +1,51 @@
+{
+    "Case ID": "013417",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review",
+                "Mandamus"
+            ],
+            "criminality_inadmissibility": [
+                "Potential inadmissibility due to alleged criminal charges"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "No mandamus granted"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "potential fraud charges"
+            ],
+            "judicial_authority": [
+                "CBSA investigating admissibility"
+            ],
+            "residency_requirements": [
+                "family application linked due to residency questions"
+            ],
+            "decision_outcome": [
+                "no writ of mandamus issued"
+            ],
+            "procedural_fairness": [
+                "processing times within average limits"
+            ],
+            "appeal_outcome": [
+                "application dismissed"
+            ],
+            "cause_of_action": [
+                "expedited citizenship processing due to perceived undue delay"
+            ],
+            "legal_basis": [
+                "mandamus requires public legal duty, clear right to performance, no other adequate remedy, and practical value"
+            ]
+        }
+    ]
+}

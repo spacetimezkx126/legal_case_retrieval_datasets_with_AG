@@ -1,0 +1,75 @@
+{
+    "Case ID": "025532",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(a) of the Convention"
+            ],
+            "evidence_assessment": [
+                "insufficient trustworthy evidence",
+                "credibility issues",
+                "inconsistencies in evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "border document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Aiding and abetting a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Article 1F(a)"
+            ],
+            "complicity_in_crimes": [
+                "crimes against humanity"
+            ],
+            "evidence_credibility": [
+                "insufficient trustworthy evidence",
+                "questioning credibility of Interpol notices",
+                "inconsistencies in statements"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "refugee_status_outcome": [
+                "upholding the refugee status"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(a) of the Convention"
+            ],
+            "burden_of_proof": [
+                "Minister failed to meet burden of proof"
+            ],
+            "credibility_findings": [
+                "Insufficient credible evidence linking respondent to LTTE crimes",
+                "Credibility issues noted but not enough for exclusion"
+            ],
+            "evidentiary_standard": [
+                "Reliability of Interpol notices questioned",
+                "Inconsistencies in witness statements"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable",
+                "Within acceptable outcomes based on facts and law"
+            ],
+            "decision_outcome": [
+                "Judicial review application dismissed"
+            ]
+        }
+    ]
+}

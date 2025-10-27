@@ -1,0 +1,28 @@
+{
+    "Case ID": "054236",
+    "Different Crime": [
+        {
+            "Crime Name": "Human Rights Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "insufficiently thorough",
+                "biased and incomplete investigation"
+            ],
+            "evidentiary_standard": [
+                "failed to address crucial evidence",
+                "discrepancies were ignored",
+                "key witnesses were not questioned"
+            ],
+            "judicial_review_process": [
+                "judicial review analyzed procedural fairness, bias, and investigation adequacy under the Canadian Human Rights Act"
+            ],
+            "decision_outcome": [
+                "dismissal of the Commission’s decision",
+                "case remitted for re-investigation"
+            ],
+            "discrimination_grounds": [
+                "mental disability"
+            ]
+        }
+    ]
+}

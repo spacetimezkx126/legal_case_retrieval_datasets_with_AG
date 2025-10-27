@@ -1,0 +1,58 @@
+{
+    "Case ID": "004200",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate consideration refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "family_class_considerations": [
+                "excluded from the family class under paragraph 117(9)(d) of the Regulations"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "insufficient humanitarian and compassionate grounds to waive this non-compliance"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "standard_of_review": [
+                "Judicial review unavailable unless all appeal rights are exhausted"
+            ],
+            "procedural_fairness": [
+                "court reviewed legislative scheme and jurisdictional issues"
+            ]
+        },
+        {
+            "Crime Name": "Immigration loan default",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA) and Regulations"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Immigration Appeal Division (IAD)"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no relief granted"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "insufficient humanitarian and compassionate grounds"
+            ],
+            "procedural_fairness": [
+                "Judicial review unavailable until IAD appeal rights exhausted"
+            ],
+            "relationship_genuineness": [
+                "Spouse did not declare Seshaw as a family member"
+            ],
+            "residency_requirements": [
+                "non-accompanying family members not declared at entry are excluded from the family class"
+            ],
+            "appeal_outcome": [
+                "Officer's decision was reasonable and would likely be upheld"
+            ]
+        }
+    ]
+}

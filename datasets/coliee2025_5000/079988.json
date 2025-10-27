@@ -1,0 +1,60 @@
+{
+    "Case ID": "079988",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 24(1) of IRPA",
+                "Section 36(1)(b) of IRPA"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "judicial_authority": [
+                "visa officer"
+            ],
+            "nature_of_offense": [
+                "conspiracy to commit extortion"
+            ],
+            "mitigating_factors": [
+                "business interests"
+            ],
+            "risk_characterization": [
+                "potential recidivism risk"
+            ],
+            "reasonableness_standard": [
+                "no misinterpretation or unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to commit extortion",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "section 24(1) of the Act",
+                "Section 36(1)(b)"
+            ],
+            "criminal_history": [
+                "convicted of conspiracy to commit extortion"
+            ],
+            "risk_assessment": [
+                "potential recidivism risk"
+            ],
+            "reasonableness_of_decision": [
+                "deemed the decision reasonable"
+            ],
+            "immigration_status": [
+                "inadmissible under Canadian immigration law"
+            ],
+            "procedural_fairness": [
+                "Judicial review of visa officer's refusal of TRP application"
+            ]
+        }
+    ]
+}

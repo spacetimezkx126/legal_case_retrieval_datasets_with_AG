@@ -1,0 +1,100 @@
+{
+    "Case ID": "044769",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "marriage genuineness",
+                "cultural norms of arranged marriages",
+                "cohabitation and communication"
+            ],
+            "evidence_assessment": [
+                "overlooked supportive evidence",
+                "totality of evidence"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage not genuine or entered for immigration benefits"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "reassess using original regulations"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review of IAD's decision"
+            ],
+            "relationship_genuineness": [
+                "not bona fide",
+                "cultural norms of arranged marriages",
+                "family involvement",
+                "shared intentions"
+            ],
+            "standard_of_review": [
+                "facts and legal principles applied by IAD"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "cultural context consideration",
+                "evidence assessment"
+            ],
+            "immigration_status": [
+                "spouse's immigration history"
+            ],
+            "applicant_involvement": [
+                "arranged marriage",
+                "family involvement",
+                "shared intentions"
+            ],
+            "standard_of_proof": [
+                "original conjunctive test"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_findings": [
+                "marriage's genuineness questioned based on Western standards"
+            ],
+            "procedural_fairness": [
+                "IAD ignored cultural norms of arranged marriages",
+                "overemphasized the spouse's immigration history",
+                "overlooked supportive evidence like family involvement and shared intentions"
+            ],
+            "decision_outcome": [
+                "Federal Court remanded the case for reconsideration"
+            ],
+            "applicable_laws": [
+                "law as it existed when the appeal began",
+                "original conjunctive test"
+            ],
+            "standard_of_review": [
+                "Judicial review of IAD's decision"
+            ],
+            "court_ruling": [
+                "Court allowed judicial review, directing IAD to reassess"
+            ]
+        }
+    ]
+}

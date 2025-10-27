@@ -1,0 +1,55 @@
+{
+    "Case ID": "014153",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings are reviewed on a reasonableness standard, with deference to the RPD."
+            ],
+            "evidence_provided": [
+                "Lacked evidentiary support for delay in extortion, MS behavior during threats, and nickname inconsistency."
+            ],
+            "judicial_authority": [
+                "RPD",
+                "The court"
+            ],
+            "appeal_outcome": [
+                "Allowed judicial review application, remitted for re-determination."
+            ],
+            "procedural_fairness": [
+                "Case was remitted for re-assessment after judicial review."
+            ],
+            "material_misrepresentation": [
+                "Implausibility findings must be based on clear evidence or common sense."
+            ]
+        },
+        {
+            "Crime Name": "Threatening death",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "speculative",
+                "contradicted evidence",
+                "implausibility findings"
+            ],
+            "reasonableness_of_decision": [
+                "Board's credibility determination unreasonable",
+                "impermissible speculation"
+            ],
+            "evidence_consideration": [
+                "delay in MS targeting",
+                "lack of immediate killing",
+                "nickname inconsistency",
+                "police reporting discrepancies",
+                "press report interpretations"
+            ],
+            "refugee_status_nexus": [
+                "applicant claimed refugee protection due to threats and extortion by MS-13"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed the Board's decision"
+            ]
+        }
+    ]
+}

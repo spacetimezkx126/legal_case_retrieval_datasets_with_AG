@@ -1,0 +1,32 @@
+{
+    "Case ID": "004173",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violated procedural fairness",
+                "failed to adequately address applicant's explanations"
+            ],
+            "evidence_assessment": [
+                "ignored key evidence",
+                "valid Labour Market Opinion"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "returned for reconsideration"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "failed to declare previous refusals"
+            ],
+            "regulatory_compliance": [
+                "lacked new employment contract",
+                "did not meet specific requirements for work permits"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed legal principles"
+            ]
+        }
+    ]
+}

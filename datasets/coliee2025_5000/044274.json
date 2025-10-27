@@ -1,0 +1,83 @@
+{
+    "Case ID": "044274",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "assessed"
+            ],
+            "evidence_assessment": [
+                "supported by evidence"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "health_grounds_inadmissibility": [],
+            "criminality_inadmissibility": [
+                "raised security concerns"
+            ]
+        },
+        {
+            "Crime Name": "Possession of stolen property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "informed of allegations",
+                "allowed to respond",
+                "represented by counsel"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "s 4.8 of the Aeronautics Act"
+            ],
+            "evidence_provided": [
+                "involvement in a handgun incident",
+                "uncooperative attitude"
+            ],
+            "balance_of_convenience": [
+                "balance of probabilities"
+            ],
+            "decision_outcome": [
+                "process was fair",
+                "evidence sufficiently supported revocation"
+            ],
+            "appeal_outcome": [
+                "application dismissed",
+                "Director's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Unlawfully interfering with civil aviation",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "adequate disclosure",
+                "opportunity to respond"
+            ],
+            "evidence_quality": [
+                "alleged involvement in loading a handgun onto an aircraft",
+                "uncooperative behavior during investigations"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities",
+                "lower than criminal standards"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "TSC revocation upheld"
+            ],
+            "reasonableness_of_decision": [
+                "reasonably supported by evidence"
+            ]
+        }
+    ]
+}

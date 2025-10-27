@@ -1,0 +1,84 @@
+{
+    "Case ID": "054975",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "personalized risk under IRPA"
+            ],
+            "risk_assessment": [
+                "generalized risk",
+                "high crime rates in Mexico"
+            ],
+            "evidence_assessment": [
+                "no evidence of continued pursuit by Los Zetas"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "misrepresentation or fraud regarding border documents"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Court"
+            ],
+            "risk_characterization": [
+                "generalized risk",
+                "personal risk"
+            ],
+            "applicable_statute": [
+                "IRPA section 97(1)(b)(ii)"
+            ],
+            "evidence_provided": [
+                "no evidence of continued threat"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "procedural_fairness": [
+                "individualized inquiry"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "specific_threats_or_incidents": [
+                "kidnapping and extortion by Los Zetas"
+            ],
+            "risk_assessment": [
+                "no evidence of continued threat from the gang"
+            ],
+            "country_conditions": [
+                "high crime rates in Mexico"
+            ],
+            "refugee_status_nexus": [
+                "section 97(1)(b)(ii) of the IRPA"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of the IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision is reasonable"
+            ],
+            "procedural_fairness": [
+                "individualized inquiry"
+            ]
+        }
+    ]
+}

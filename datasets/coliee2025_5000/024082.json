@@ -1,0 +1,33 @@
+{
+    "Case ID": "024082",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement and Unfair Competition",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Trade-marks Act",
+                "Competition Act"
+            ],
+            "evidence_provided": [
+                "intentional copying",
+                "use of phrases implying association with Lego"
+            ],
+            "cause_of_action": [
+                "trademark infringement",
+                "misleading advertising"
+            ],
+            "decision_outcome": [
+                "application for summary judgment dismissed",
+                "case proceeds to trial"
+            ],
+            "confusion_likelihood": [
+                "causing confusion",
+                "misleading descriptions"
+            ],
+            "nature_of_offense": [
+                "copying post-expiry of patents",
+                "false or misleading representations"
+            ]
+        }
+    ]
+}

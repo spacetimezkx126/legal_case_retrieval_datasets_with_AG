@@ -1,0 +1,40 @@
+{
+    "Case ID": "076732",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "judicial review of a negative PRRA decision"
+            ],
+            "procedural_fairness": [
+                "moot if the applicant is no longer in Canada"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "moot due to the applicant's removal from Canada"
+            ]
+        },
+        {
+            "Crime Name": "Pre-Removal Risk Assessment refusal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "section 112 of the Act"
+            ],
+            "decision_outcome": [
+                "dismissed as moot"
+            ],
+            "procedural_fairness": [
+                "no adversarial relationship or public interest in hearing the application post-deportation"
+            ],
+            "stay_of_removal": [
+                "unsuccessfully requested"
+            ],
+            "review_standard": [
+                "judicial review of a negative PRRA decision"
+            ]
+        }
+    ]
+}

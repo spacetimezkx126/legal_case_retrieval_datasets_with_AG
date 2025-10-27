@@ -1,0 +1,140 @@
+{
+    "Case ID": "038396",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Border Document Misrepresentation"
+            ],
+            "decision_outcome": [
+                "Court granted stay of removal"
+            ],
+            "standard_of_review": [
+                "Judicial review principles"
+            ],
+            "procedural_fairness": [
+                "Enforcement officer denied based on procedural grounds"
+            ],
+            "evidence_assessment": [
+                "Lack of subpoena"
+            ],
+            "health_grounds_inadmissibility": [],
+            "criminality_inadmissibility": []
+        },
+        {
+            "Crime Name": "Fraudulent Activity under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "balance_of_convenience": [
+                "favoring the applicant"
+            ],
+            "irreparable_harm": [
+                "potential irreparable harm"
+            ],
+            "judicial_authority": [
+                "court granted a stay"
+            ],
+            "serious_criminality": [
+                "removal despite ongoing criminal proceedings"
+            ],
+            "risk_characterization": [
+                "fears for her safety in Pakistan"
+            ],
+            "appeal_outcome": [
+                "stay of removal granted"
+            ],
+            "cause_of_action": [
+                "denied stay request without considering full context"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "yes"
+            ],
+            "irreparable_harm": [
+                "yes"
+            ],
+            "balance_of_convenience": [
+                "favoring applicant"
+            ],
+            "risk_assessment": [
+                "risk of harm upon return"
+            ],
+            "procedural_fairness": [
+                "inadequate consideration by enforcement officer"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "ongoing legal proceedings"
+            ],
+            "country_conditions": [
+                "risks in Pakistan"
+            ],
+            "specific_threats_or_incidents": [
+                "sexual assault by father-in-law"
+            ],
+            "refugee_status_nexus": [
+                "PRRA application"
+            ],
+            "risk_of_persecution": [
+                "potential persecution in Pakistan"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Comply with Removal Order",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "removal order",
+                "judicial review application",
+                "appeal for stay of removal order"
+            ],
+            "procedural_fairness": [
+                "enforcement officer denied a stay based on procedural grounds"
+            ],
+            "balance_of_interests": [
+                "balance favoring the applicant"
+            ],
+            "risk_to_national_security": [],
+            "decision_outcome": [
+                "court granted stay of removal"
+            ],
+            "reasonableness_of_decision": [
+                "finding serious issues, irreparable harm from removal"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "fears of persecution in Pakistan"
+            ],
+            "evidence_provided": [
+                "ongoing criminal proceedings against her father-in-law"
+            ],
+            "court_ruling": [
+                "allowed Halla Hussain to remain pending further proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Making Threats",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refusal to grant a stay of removal"
+            ],
+            "procedural_fairness": [
+                "failure to consider serious issues and potential irreparable harm"
+            ],
+            "decision_reasoning": [
+                "serious issues in judicial review",
+                "irreparable harm if the stay is denied",
+                "balance of convenience favoring the applicant"
+            ],
+            "application_details": [
+                "Halla Hussain faced sexual assault and threats",
+                "removal could impact ongoing legal proceedings and her safety in Pakistan",
+                "enforcement officer failed to consider these factors adequately"
+            ],
+            "result_of_case": [
+                "court granted the stay",
+                "allowing further examination of risks and legal proceedings"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Case ID": "096865",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "untimeliness",
+                "lack of standing"
+            ],
+            "applicable_statute": [
+                "Federal Courts Act"
+            ],
+            "judicial_authority": [
+                "Judicial review inapplicable to private commercial disputes"
+            ],
+            "cause_of_action": [
+                "Dispute over loan repayments"
+            ],
+            "nature_of_offense": [
+                "Withholding of payments"
+            ]
+        },
+        {
+            "Crime Name": "Breach of trust",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Courts Act"
+            ],
+            "procedural_fairness": [
+                "no procedural duty owed by Third Party Manager"
+            ],
+            "decision_reasoning": [
+                "BCR involves private law matter (commercial loan agreement)"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "cause_of_action": [
+                "Dispute over loan repayments"
+            ],
+            "application_details": [
+                "Judicial review application filed by Peace Hills Trust"
+            ]
+        }
+    ]
+}

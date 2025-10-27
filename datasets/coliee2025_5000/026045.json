@@ -1,0 +1,53 @@
+{
+    "Case ID": "026045",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing false information to immigration authorities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Applicant provided inconsistent statements"
+            ],
+            "procedural_fairness": [
+                "No objections were raised during the hearing regarding questioning order"
+            ],
+            "misrepresentation_or_fraud": [
+                "Inconsistent statements to immigration authorities"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Credibility and plausibility findings reviewed under the patently unreasonable standard; procedural fairness issues reviewed for correctness"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent document use",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "No procedural unfairness established"
+            ],
+            "standard_of_review": [
+                "Patently unreasonable standard for credibility findings",
+                "Correctness for procedural fairness issues"
+            ],
+            "evidence_provided": [
+                "Inconsistencies in applicant's story (brother-in-law's location, Saudi visa story)"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "claim_nature": [
+                "Refugee status claim"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "credibility_assessment": [
+                "Board questioned applicant's credibility due to inconsistencies"
+            ],
+            "appeal_outcome": [
+                "Board’s decision upheld by the court"
+            ]
+        }
+    ]
+}

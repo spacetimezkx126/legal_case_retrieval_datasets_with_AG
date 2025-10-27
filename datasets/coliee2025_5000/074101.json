@@ -1,0 +1,75 @@
+{
+    "Case ID": "074101",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage fraud under Immigration and Nationality Act (USA)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board's credibility assessment using rationality, common sense, corroborating evidence"
+            ],
+            "refugee_status_eligibility": [
+                "Denial of refugee status based on lack of credible timeline and corroboration"
+            ],
+            "misrepresentation_or_fraud": [
+                "Fraudulent marriage after overstaying visa"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed Board’s credibility assessment, delay in seeking protection, and documentary evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to seek asylum in the United States",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lacked credibility",
+                "inconsistencies in her story"
+            ],
+            "risk_of_persecution": [
+                "no credible evidence of persecution"
+            ],
+            "evidence_assessment": [
+                "no corroborating evidence",
+                "delay in seeking asylum"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision under IRPA Section 72"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "burden_of_proof": [
+                "applicant failed to file an asylum claim"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "credibility assessment",
+                "delay in seeking protection",
+                "likelihood of continued FARC interest"
+            ],
+            "evidence_provided": [
+                "no deadline or corroboration"
+            ],
+            "reasonableness_standard": [
+                "within a range of 'possible, acceptable outcomes' based on facts and law"
+            ],
+            "risk_characterization": [
+                "continued FARC interest after eight years"
+            ],
+            "relationship_genuineness": [
+                "actions (e.g., arranging properties) undermined her credibility"
+            ],
+            "nexus_to_convention_grounds": [
+                "applicant claimed refugee status due to alleged extortion threats from FARC in Colombia"
+            ]
+        }
+    ]
+}

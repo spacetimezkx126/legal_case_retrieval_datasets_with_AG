@@ -1,0 +1,29 @@
+{
+    "Case ID": "008179",
+    "Different Crime": [
+        {
+            "Crime Name": "Unreasonable Delay in Processing Permanent Residence Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "statutory duties",
+                "conditions precedent",
+                "justifications for delays"
+            ],
+            "immigration_status": [
+                "permanent residence application",
+                "Convention refugee"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "delays due to legitimate processes",
+                "medical, criminal, and security checks",
+                "unaccounted delay not unreasonable"
+            ],
+            "regulatory_compliance": [
+                "issuance of a writ of mandamus justified if public legal duty owed to applicant with no other adequate remedy"
+            ]
+        }
+    ]
+}

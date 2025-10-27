@@ -1,0 +1,32 @@
+{
+    "Case ID": "045225",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach",
+                "representation",
+                "fair consideration of evidence"
+            ],
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistencies in narratives",
+                "lack of corroborative evidence"
+            ],
+            "state_protection_analysis": [
+                "relied on institutional frameworks",
+                "lacked sufficient basis"
+            ],
+            "refugee_status_eligibility": [
+                "sought refugee status",
+                "alleged persecution"
+            ],
+            "decision_outcome": [
+                "application succeeded",
+                "decision annulled",
+                "case returned for reconsideration"
+            ]
+        }
+    ]
+}

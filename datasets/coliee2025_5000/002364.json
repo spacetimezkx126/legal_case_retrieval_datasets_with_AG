@@ -1,0 +1,30 @@
+{
+    "Case ID": "002364",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_type": [
+                "affidavits",
+                "transcripts"
+            ],
+            "relevant_rule": [
+                "Federal Court Rules 1606(2)(d)"
+            ],
+            "procedure_followed": [
+                "respondent moved to strike affidavits",
+                "applicant argued against mandatory transcription costs"
+            ],
+            "decision_reasoning": [
+                "rule does not mandate transcripts if affidavits are relied upon"
+            ],
+            "result_of_case": [
+                "motion dismissed",
+                "applicant may use affidavits without transcribing tapes"
+            ],
+            "dispute_focus": [
+                "whether affidavits or transcripts should be used in judicial review proceedings"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Case ID": "024758",
+    "Different Crime": [
+        {
+            "Crime Name": "Working without a work permit",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "reliance on undisclosed extrinsic evidence"
+            ],
+            "evidence_assessment": [
+                "use of extrinsic evidence",
+                "crucial evidence not disclosed"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "denying permanent residence on H&C grounds"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "decision quashed"
+            ],
+            "standard_of_review": [
+                "judicial review application under subsection 72(1) of IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material facts",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "relying on extrinsic evidence",
+                "not providing applicants an opportunity to respond"
+            ],
+            "evidence_provided": [
+                "undisclosed internet-based information",
+                "applicant's education and employment history"
+            ],
+            "appeal_outcome": [
+                "decision quashed",
+                "case remitted for re-determination"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "application denied based partly on undisclosed extrinsic evidence"
+            ],
+            "judicial_authority": [
+                "judicial review analyzed procedural fairness and reasonableness"
+            ]
+        }
+    ]
+}

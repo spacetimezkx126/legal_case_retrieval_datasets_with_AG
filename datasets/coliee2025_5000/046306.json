@@ -1,0 +1,63 @@
+{
+    "Case ID": "046306",
+    "Different Crime": [
+        {
+            "Crime Name": "Theft over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_non_political_crime": [
+                "true"
+            ],
+            "applicable_statute": [
+                "Section 322 of the Criminal Code",
+                "Article 1F(b) of the Convention"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "nature_of_offense": [
+                "theft"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "materiality_of_misrepresentation": [
+                "not applicable"
+            ],
+            "appeal_outcome": [
+                "upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Illegal stay in the United States and Theft",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Convention",
+                "Section 98 of IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "Applicant committed a serious non-political crime",
+                "Act constituted theft under Canadian law",
+                "Rejected claims of lack of intent, balancing harm, and poverty as mitigating factors"
+            ],
+            "application_details": [
+                "Stole $1 million from a mafia member",
+                "Fled to the U.S. illegally",
+                "Claimed refugee status in Canada"
+            ],
+            "conclusion_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "result_of_case": [
+                "Court upheld Board's decision",
+                "Denied certification of a legal question"
+            ]
+        }
+    ]
+}

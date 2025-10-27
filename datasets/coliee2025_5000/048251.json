@@ -1,0 +1,57 @@
+{
+    "Case ID": "048251",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA s. 97(1)(b)(ii)"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "risk_characterization": [
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "no specific targeting by 'Los Zetas' after initial extortion"
+            ],
+            "nexus_to_convention_grounds": [
+                "not met due to generalized risk"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "specific_threats_or_incidents": [
+                "kidnapping",
+                "extortion"
+            ],
+            "risk_assessment": [
+                "risk of future harm"
+            ],
+            "country_conditions": [
+                "Mexico"
+            ],
+            "membership_in_organization": [
+                "Los Zetas"
+            ],
+            "reasonableness_of_decision": [
+                "Board's analysis was correct"
+            ],
+            "legal_basis": [
+                "s. 97(1)(b)(ii) of the IRPA"
+            ]
+        }
+    ]
+}

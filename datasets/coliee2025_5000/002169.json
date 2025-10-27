@@ -1,0 +1,67 @@
+{
+    "Case ID": "002169",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "Amnesty International",
+                "Jane's World",
+                "SATP"
+            ],
+            "criminality_inadmissibility": [
+                "terrorism"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonable grounds"
+            ],
+            "refugee_status_eligibility": [
+                "challenged due to alleged ties with MQM-A"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist group",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_credibility": [
+                "Amnesty International reports",
+                "Jane's World reports",
+                "Dr. Rizvi's statement (less weight)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed Officer's use of evidence and legal standards under IRPA"
+            ],
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "risk_to_national_security": [],
+            "reasonableness_of_decision": [
+                "The Officer's decision is reasonable and supported by evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "judicial_review_result": [
+                "Court upheld Officer's decision"
+            ],
+            "inadmissibility_criteria": [
+                "membership in an organization reasonably believed to engage in terrorism"
+            ],
+            "evidence_provided": [
+                "Amnesty International and Jane's World reports showing MQM-A's violent acts for political ends"
+            ],
+            "reasoning_given": [
+                "Officer relied on Amnesty International and Jane's World reports showing MQM-A's violent acts for political ends. Dr. Rizvi's statement was considered but given less weight."
+            ],
+            "complicity_in_crimes": []
+        }
+    ]
+}

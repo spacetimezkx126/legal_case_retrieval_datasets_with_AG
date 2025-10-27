@@ -1,0 +1,29 @@
+{
+    "Case ID": "014837",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining a Passport by Means of False or Misleading Information",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Canadian Passport Order, SI/81-86"
+            ],
+            "misrepresentation_or_fraud": [
+                "false information",
+                "brother's photo",
+                "false statements about losing a passport"
+            ],
+            "decision_outcome": [
+                "revocation of passport",
+                "four-year refusal period",
+                "judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "investigation by Passport Canada",
+                "cooperation led to reduction from five years"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "humanitarian claims considered but prioritized passport integrity"
+            ]
+        }
+    ]
+}

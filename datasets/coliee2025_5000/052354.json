@@ -1,0 +1,31 @@
+{
+    "Case ID": "052354",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "establish residency in Canada",
+                "maintain despite temporary absences",
+                "absent for 875 days",
+                "four-year period"
+            ],
+            "decision_outcome": [
+                "Appeal allowed",
+                "citizenship grant revoked",
+                "Minister awarded costs"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed",
+                "residency criteria and evidence"
+            ],
+            "material_misrepresentation": [
+                "extensive absences",
+                "dual life pattern between Canada and Taiwan"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

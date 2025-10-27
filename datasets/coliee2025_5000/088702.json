@@ -1,0 +1,36 @@
+{
+    "Case ID": "088702",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "met residency requirement",
+                "physical presence",
+                "family ties",
+                "pattern of presence",
+                "intention to return"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "eligible for Canadian citizenship"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "absent for 776 days",
+                "strong family ties",
+                "paid Canadian taxes",
+                "planned to retire in Canada"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "regulatory_compliance": [
+                "demonstrate physical presence",
+                "centralize mode of existence"
+            ]
+        }
+    ]
+}

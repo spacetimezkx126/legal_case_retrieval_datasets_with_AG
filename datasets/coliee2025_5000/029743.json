@@ -1,0 +1,31 @@
+{
+    "Case ID": "029743",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "summary judgment"
+            ],
+            "cause_of_action": [
+                "payment into joint venture account"
+            ],
+            "procedure_followed": [
+                "plaintiff moved for summary judgment",
+                "defendants countered with motions to dismiss claims"
+            ],
+            "decision_reasoning": [
+                "no genuine issue for trial exists",
+                "overlapping claims",
+                "unresolved revenue calculations"
+            ],
+            "result_of_case": [
+                "summary judgment denied",
+                "applications dismissed"
+            ],
+            "relevant_rule": [
+                "Federal Court Rules 432.1-432.6"
+            ]
+        }
+    ]
+}

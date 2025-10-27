@@ -1,0 +1,96 @@
+{
+    "Case ID": "081941",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [],
+            "immigration_status": [
+                "permanent residency application"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "identity_verification": [
+                "discrepancies in documentation"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "hardship due to medical condition"
+            ],
+            "evidence_assessment": [
+                "Medical evidence deemed insufficient",
+                "minor error regarding paternity evidence"
+            ],
+            "misrepresentation_or_fraud": [
+                "claimed a common-law relationship but remained married to another person"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations (ss. 4 and 124(a))",
+                "Federal Courts Act (s. 18.1(4)(d))",
+                "CIC Operations Manual OP 2"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "denied"
+            ],
+            "procedural_fairness": [
+                "followed"
+            ],
+            "judicial_authority": [
+                "Court dismissed the application"
+            ],
+            "decision_outcome": [
+                "upholding the officer's decision"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_provided": [
+                "failed to sever ties with his Indian wife, maintained ambiguous relationships, and provided inconsistent documentation"
+            ],
+            "reasonableness_standard": [
+                "reasonable"
+            ],
+            "cause_of_action": [
+                "unsuccessful refugee claim led to a humanitarian and compassionate grounds application"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "discrepancies_identified": [
+                "forged documents",
+                "conflicting identification details"
+            ],
+            "reasonableness_of_decision": [
+                "doubts about identity"
+            ],
+            "evidence_provided": [
+                "forged documents",
+                "materials with two different names"
+            ],
+            "judicial_review_result": [
+                "Application dismissed",
+                "Officer's decision upheld"
+            ],
+            "decision_outcome": [
+                "identity not established"
+            ],
+            "standard_of_proof": [
+                "all available information"
+            ],
+            "admissibility_criteria": [
+                "proof of identity"
+            ],
+            "evidence_assessment": [
+                "discrepancies in documentation"
+            ]
+        }
+    ]
+}

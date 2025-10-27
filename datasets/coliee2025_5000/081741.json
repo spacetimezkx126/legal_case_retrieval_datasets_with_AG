@@ -1,0 +1,28 @@
+{
+    "Case ID": "081741",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "procedure_followed"
+            ],
+            "standard_of_review": [
+                "reasonableness_of_decision"
+            ],
+            "decision_reasoning": [
+                "administrative_decision",
+                "discretion_exercise"
+            ],
+            "applicable_regulations": [
+                "rule_regulation",
+                "relevant_statute"
+            ],
+            "result_of_case": [
+                "result_details",
+                "decision_made"
+            ]
+        }
+    ]
+}

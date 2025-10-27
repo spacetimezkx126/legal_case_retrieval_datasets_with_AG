@@ -1,0 +1,29 @@
+{
+    "Case ID": "020211",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residency application"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of pilot duties",
+                "generic job descriptions",
+                "basic confirmation of employment"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "failed to provide adequate documentation"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, SC 2001, c 27"
+            ]
+        }
+    ]
+}

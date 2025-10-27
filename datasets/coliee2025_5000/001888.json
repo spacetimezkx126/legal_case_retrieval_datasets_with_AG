@@ -1,0 +1,95 @@
+{
+    "Case ID": "001888",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "charter_rights": [
+                "section 6 of the Charter",
+                "mobility rights"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "set aside",
+                "remanded for reconsideration"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "factual errors",
+                "incorrect facts about the applicant's role"
+            ],
+            "legal_basis": [
+                "ITOA",
+                "section 6 of the Charter"
+            ]
+        },
+        {
+            "Crime Name": "Potential criminal organization offence under Criminal Code",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "decision_reasoning": [
+                "factual errors",
+                "lack of supporting evidence"
+            ],
+            "evidence_assessment": [
+                "applicant had no prior convictions",
+                "not linked to organized crime",
+                "mistakenly identified role"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "Minister's decision overturned",
+                "matter referred back for redetermination within 45 days"
+            ],
+            "cause_of_action": [
+                " Applicant's request for transfer denied by the Minister citing potential involvement in organized crime"
+            ],
+            "procedure_followed": [
+                "Judicial review application"
+            ],
+            "application_details": [
+                "challenging the Minister's decision and constitutionality of ITOA provisions"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to possess with intent to distribute cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "ITOA",
+                "Section 6 of the Charter"
+            ],
+            "constitutional_challenge": [
+                "right to enter Canada"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "criminal_history": [
+                "no prior convictions"
+            ],
+            "decision_outcome": [
+                "unreasonable decision overturned",
+                "case remanded for reconsideration"
+            ],
+            "applicable_law_or_regulation": [
+                "ITOA provisions"
+            ]
+        }
+    ]
+}

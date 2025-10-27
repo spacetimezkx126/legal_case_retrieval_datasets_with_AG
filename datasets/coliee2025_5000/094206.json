@@ -1,0 +1,33 @@
+{
+    "Case ID": "094206",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "utility",
+                "obviousness",
+                "overbreadth"
+            ],
+            "relevant_statute": [
+                "Canadian Patent Law"
+            ],
+            "evidence_assessment": [
+                "experiments in the 924 Patent"
+            ],
+            "decision_reasoning": [
+                "lack of demonstrated or soundly predicted utility",
+                "broader than actual invention demonstrated"
+            ],
+            "cause_of_action": [
+                "preventing sale of generic version"
+            ],
+            "procedure_followed": [
+                "application under NOC Regulations"
+            ],
+            "result_of_case": [
+                "invalid due to insufficient utility and overbreadth"
+            ]
+        }
+    ]
+}

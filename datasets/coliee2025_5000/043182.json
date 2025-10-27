@@ -1,0 +1,31 @@
+{
+    "Case ID": "043182",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "jurisdiction to decide constitutional questions"
+            ],
+            "relevant_statute": [
+                "Bankruptcy and Insolvency Act",
+                "Constitution Act, 1982"
+            ],
+            "application_of_law": [
+                "interpret and apply laws under the Act"
+            ],
+            "decision_reasoning": [
+                "administrative tribunals with jurisdiction to decide questions of law are presumed to have concomitant jurisdiction to decide constitutional validity unless excluded by legislature"
+            ],
+            "cause_of_action": [
+                "lack of structural guarantees for an independent tribunal"
+            ],
+            "procedure_followed": [
+                "judicial review application by Attorney General of Canada against a delegate's decision affirming tribunal's jurisdiction"
+            ],
+            "result_of_case": [
+                "application dismissed; tribunal confirmed to have jurisdiction over constitutional questions"
+            ]
+        }
+    ]
+}

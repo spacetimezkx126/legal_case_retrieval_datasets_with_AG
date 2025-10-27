@@ -1,0 +1,46 @@
+{
+    "Case ID": "095301",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with conditions of stay",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "PRRA officer's credibility findings"
+            ],
+            "procedural_fairness": [
+                "Oral hearings required if credibility is central",
+                "Procedurally fair decision"
+            ],
+            "evidence_assessment": [
+                "Insufficient evidence of personal risk",
+                "Reasonably assessed evidence"
+            ],
+            "decision_outcome": [
+                "Judicial review application dismissed"
+            ],
+            "risk_assessment": [
+                "No credible link between incidents and fear",
+                "No risk of torture or persecution established"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "personal risk of persecution or danger"
+            ],
+            "procedural_fairness": [
+                "procedural fairness and reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence linking specific circumstances to a serious possibility of persecution or torture"
+            ],
+            "decision_reasoning": [
+                "reasonable and based on adequate evidence"
+            ],
+            "result_of_case": [
+                "Court dismissed the judicial review, upholding the PRRA officer's decision"
+            ]
+        }
+    ]
+}

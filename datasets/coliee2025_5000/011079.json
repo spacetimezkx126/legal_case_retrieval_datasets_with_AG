@@ -1,0 +1,49 @@
+{
+    "Case ID": "011079",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act sections 72 et seq."
+            ],
+            "credibility_assessment": [
+                "not assessed"
+            ],
+            "procedural_fairness": [
+                "procedural flaw"
+            ],
+            "state_protection_analysis": [
+                "inadequate analysis"
+            ],
+            "decision_outcome": [
+                "case remanded"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Failure to seek asylum in the United States",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act sections 72 et seq."
+            ],
+            "credibility_findings": [
+                "not assessed"
+            ],
+            "state_protection_analysis": [
+                "focused solely on state protection"
+            ],
+            "risk_of_persecution": [
+                "threats from FARC"
+            ],
+            "evidence_assessment": [
+                "subjective fear of persecution not analyzed"
+            ],
+            "decision_outcome": [
+                "judicial review granted; case referred back"
+            ]
+        }
+    ]
+}

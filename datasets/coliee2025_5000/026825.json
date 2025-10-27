@@ -1,0 +1,46 @@
+{
+    "Case ID": "026825",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "repeated misrepresentation of MQM membership"
+            ],
+            "immigration_status": [
+                "inadmissibility"
+            ],
+            "legal_basis": [
+                "Section 40(1)(a) of IRPA"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness of immigration officer's decision"
+            ],
+            "regulatory_compliance": [
+                "misrepresenting or withholding material facts"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Exploitation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s.40(1)(a)"
+            ],
+            "evidence_assessment": [
+                "misrepresenting or withholding material facts"
+            ],
+            "procedural_fairness": [
+                "Judicial review was sought and dismissed by the Federal Court"
+            ],
+            "decision_outcome": [
+                "Nazim's application for judicial review was dismissed"
+            ],
+            "immigration_status": [
+                "inadmissibility due to material misrepresentation"
+            ]
+        }
+    ]
+}

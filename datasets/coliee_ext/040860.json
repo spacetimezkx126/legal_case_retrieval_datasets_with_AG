@@ -1,0 +1,203 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": [
+                "First degree murder"
+            ],
+            "Crime_Type": [
+                "Violent Crimes"
+            ],
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "s. 50(a) of IRPA"
+            ],
+            "Legal_Provision": [
+                "s. 50(a)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 50(a)"
+            ],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [
+                "Application dismissed"
+            ],
+            "Outcome": [
+                "Removal order enforced"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Judicial review under s. 72(1) of IRPA"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review"
+            ],
+            "Decision_Maker": [
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Citizenship and Immigration Canada (CIC)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Minister of Citizenship and Immigration"
+            ],
+            "Decision_Standard": [
+                "Direct contravention of judicial decision under s. 50(a)"
+            ]
+        },
+        {
+            "Crime_Name": [
+                "Not criminally responsible due to mental illness"
+            ],
+            "Crime_Type": [
+                "Human Rights Violations and Serious International Law Offenses"
+            ],
+            "Dispute_Type": [
+                "Immigration detention and deportation"
+            ],
+            "Legal_Provision_Involved": [
+                "s. 50(a) of IRPA"
+            ],
+            "Outcome": [
+                "Application for stay of removal denied"
+            ],
+            "Grounds_for_Claim": [
+                "Conditional discharge conditions conflict with deportation"
+            ],
+            "Remedy_Requested": [
+                "Stay of deportation"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [],
+            "Decision_Outcome": [
+                "Application dismissed"
+            ],
+            "Institutional_Action": [
+                "Enforcement of removal order"
+            ],
+            "Government_Body_or_Authority": [
+                "Citizenship and Immigration Canada (CIC)",
+                "Immigration Division",
+                "Mental Health Review Board"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "Conditional discharge under mental health legislation"
+            ],
+            "Evidence_Type": [
+                "Medical diagnosis (schizophrenia)",
+                "Review Board decision"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Non-citizen",
+                "Not criminally responsible due to mental disorder"
+            ],
+            "Nature_of_Participation": [
+                "Accused subject to conditional discharge"
+            ],
+            "Temporal_Context": [],
+            "Geographic_Context": [],
+            "Personal_Data_Implicated": [
+                "Mental health status"
+            ],
+            "Legal_Statute": [
+                "IRPA",
+                "Criminal Code (s. 16, not criminally responsible)"
+            ],
+            "Assessment_Standard": [
+                "Would enforcement directly contravene a judicial decision?"
+            ],
+            "Governing_Body": [
+                "Mental Health Review Board",
+                "Federal Court"
+            ],
+            "Complaint_Issues": [
+                "Deportation following NCR finding"
+            ],
+            "Grounds_for_Discrimination": [],
+            "Role_of_Person": [
+                "Applicant",
+                "Non-citizen"
+            ],
+            "Protected_Group": [],
+            "Legal_Standard": [
+                "Interpretation of s. 50(a), IRPA"
+            ],
+            "Protection_Claim": [
+                "Right to remain based on mental health supervision"
+            ],
+            "State_Protection_Assessment": [],
+            "Risk_Factor": [
+                "Risk to public if deported"
+            ],
+            "Credibility": [
+                "Accepted as not criminally responsible by Review Board"
+            ],
+            "Legal_Provision": [
+                "s. 50(a) IRPA",
+                "s. 16 Criminal Code"
+            ],
+            "Targeted_Group": [],
+            "State_Protection_Adequacy": [],
+            "Risk_Nature": [
+                "Public safety risk",
+                "Risk of relapse without supervision"
+            ],
+            "Enforcement_Action": [
+                "Removal order enforcement permitted"
+            ],
+            "Claimant_Status": [
+                "Permanent resident or foreign national"
+            ],
+            "Perpetrator_Entity": [],
+            "Legal_Basis": [
+                "Statutory interpretation",
+                "Administrative law"
+            ],
+            "Victim_Basis": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Case ID": "096103",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "religious conversion",
+                "omissions in PIF",
+                "inconsistencies in testimony",
+                "baptism details",
+                "translation issues",
+                "unreasonable inferences"
+            ],
+            "reasonableness_standard": [
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "unsupported findings",
+                "misinterpreted evidence"
+            ],
+            "procedural_fairness": [
+                "questioning credibility assessments",
+                "procedural fairness"
+            ],
+            "decision_outcome": [
+                "decision overturned",
+                "case remitted to new panel"
+            ],
+            "risk_of_persecution": [
+                "fearing persecution for religious activities in China"
+            ]
+        }
+    ]
+}

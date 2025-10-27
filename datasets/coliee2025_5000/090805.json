@@ -1,0 +1,33 @@
+{
+    "Case ID": "090805",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "adverse credibility finding",
+                "inconsistencies in testimony",
+                "PIF omissions",
+                "lack of corroborating evidence"
+            ],
+            "gender_guidelines": [
+                "Gender Guidelines applicability",
+                "gender-related claims"
+            ],
+            "evidence_assessment": [
+                "key evidence ignored",
+                "corroborating evidence lacking"
+            ],
+            "review_standard": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "application denied",
+                "RPD decision upheld"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

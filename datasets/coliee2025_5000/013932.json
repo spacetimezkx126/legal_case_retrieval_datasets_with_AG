@@ -1,0 +1,24 @@
+{
+    "Case ID": "013932",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to reasonably assess evidence"
+            ],
+            "evidence_assessment": [
+                "ignored submitted evidence",
+                "failed to explain scoring for 'Experience' and 'English Proficiency'"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "Officer's decision overturned"
+            ],
+            "standard_of_review": [
+                "patently unreasonable decisions"
+            ]
+        }
+    ]
+}

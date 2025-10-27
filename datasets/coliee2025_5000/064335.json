@@ -1,0 +1,52 @@
+{
+    "Case ID": "064335",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistent testimony",
+                "lack of corroborative evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "analysis focused on credibility findings and procedural fairness"
+            ],
+            "standard_of_proof": [
+                "failed to meet the burden of proof"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution in Mexico"
+            ],
+            "refugee_status_nexus": [
+                "no credible basis for the refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistent testimony",
+                "lacked supporting evidence"
+            ],
+            "evidence_assessment": [
+                "no corroborating evidence",
+                "medical records",
+                "police reports"
+            ],
+            "decision_reasoning": [
+                "reasonable decision"
+            ],
+            "refugee_status": [
+                "no credible basis for refugee claim"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "evaluates credibility based on consistency, plausibility"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

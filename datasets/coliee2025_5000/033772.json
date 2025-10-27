@@ -1,0 +1,35 @@
+{
+    "Case ID": "033772",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "psychological evidence",
+                "hardship faced by applicant",
+                "mental health impacts",
+                "unusual or disproportionate hardship"
+            ],
+            "evidence_assessment": [
+                "psychologist's report",
+                "severe mental health issues",
+                "inadequate assessment of mental health evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "PRRA Officer's decision quashed",
+                "re-assessment ordered"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "denied refugee status",
+                "denied H&C applications"
+            ],
+            "best_interests_of_children": [],
+            "material_misrepresentation": []
+        }
+    ]
+}

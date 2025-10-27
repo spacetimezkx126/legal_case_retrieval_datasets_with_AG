@@ -1,0 +1,30 @@
+{
+    "Case ID": "089792",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Visa Denial",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "lack of procedural fairness",
+                "thorough interviews",
+                "basing decisions on evidence"
+            ],
+            "evidence_assessment": [
+                "reliance on extrinsic evidence",
+                "reasonable interpretation of evidence"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "visa denial upheld"
+            ],
+            "immigration_status": [
+                "Denial of a three-year employment authorization",
+                "perceived intent to immigrate",
+                "insufficient ties to Pakistan"
+            ],
+            "standard_of_review": [
+                "reasonable and supported by evidence"
+            ]
+        }
+    ]
+}

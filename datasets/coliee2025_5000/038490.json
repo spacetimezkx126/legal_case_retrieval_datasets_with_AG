@@ -1,0 +1,84 @@
+{
+    "Case ID": "038490",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "unavailable",
+                "exhaust all possible state protections"
+            ],
+            "judicial_authority": [
+                "IRB",
+                "judicial review"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard"
+            ],
+            "relationship_genuineness": [
+                "threats from Ana's father"
+            ],
+            "risk_characterization": [
+                "persecuted by the state itself"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "denied"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "threats",
+                "assaults"
+            ],
+            "state_protection_analysis": [
+                "exhausted all state protections",
+                "genuine risk from state agents",
+                "limited legal avenues",
+                "failed to fully engage state protection mechanisms"
+            ],
+            "legal_basis": [
+                "Applicants must prove they exhausted all state protections"
+            ],
+            "refugee_status_nexus": [
+                "persecution by a state official"
+            ],
+            "standard_of_proof": [
+                "burden of proving unavailability of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "IRB correctly applied the reasonableness standard"
+            ],
+            "humanitarian_concerns": [],
+            "immigration_status": [],
+            "criminal_history": [],
+            "family_ties": []
+        },
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee status",
+                "state protection"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "decision_reasoning": [
+                "lack of state protection",
+                "exhaustion of domestic remedies"
+            ],
+            "risk_of_persecution": [
+                "relationship with Ana",
+                "threats and violence"
+            ],
+            "result_of_case": [
+                "judicial review dismissed"
+            ]
+        }
+    ]
+}

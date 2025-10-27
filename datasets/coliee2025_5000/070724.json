@@ -1,0 +1,30 @@
+{
+    "Case ID": "070724",
+    "Different Crime": [
+        {
+            "Crime Name": "False representations in visa applications",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable credibility assessment"
+            ],
+            "evidence_assessment": [
+                "improperly analyze the evidence",
+                "explanations for discrepancies",
+                "prior misrepresentations",
+                "focus on immigration in emails"
+            ],
+            "misrepresentation_or_fraud": [
+                "concerns about marriage genuineness",
+                "prior false information"
+            ],
+            "decision_outcome": [
+                "visa application was refused",
+                "application for judicial review is dismissed",
+                "Court upheld the Board's decision"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

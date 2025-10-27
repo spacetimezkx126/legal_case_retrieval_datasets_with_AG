@@ -1,0 +1,30 @@
+{
+    "Case ID": "037187",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "insufficient detail",
+                "unreasonable assessment"
+            ],
+            "reasonableness_standard": [
+                "RAD reviews RPD decisions under a reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "transcript shows specific details about corruption and drug trafficking"
+            ],
+            "review_standard": [
+                "RAD erred by endorsing unreasonable assessment"
+            ],
+            "decision_outcome": [
+                "Federal Court allowed the judicial review",
+                "RAD decision overturned",
+                "remanded for reconsideration"
+            ],
+            "burden_of_proof": [
+                "perceived lack of detail in testimony"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "067809",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "perceived political persecution"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness for factual findings",
+                "correctness for legal issues"
+            ],
+            "risk_assessment": [
+                "objective risk"
+            ],
+            "state_protection_analysis": [
+                "country conditions relevance"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "Board’s decision quashed",
+                "case remitted back for reconsideration"
+            ]
+        }
+    ]
+}

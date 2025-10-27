@@ -1,0 +1,62 @@
+{
+    "Case ID": "088033",
+    "Different Crime": [
+        {
+            "Crime Name": "Impaired Driving Causing Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "unsourced medical information",
+                "non-disclosure to applicant"
+            ],
+            "evidence_consideration": [
+                "inclusion of unsourced information",
+                "violation of ENF 28 guidelines"
+            ],
+            "risk_assessment": [
+                "danger assessment process",
+                "based on undisclosed medical information"
+            ],
+            "legal_basis": [
+                "ENF 28",
+                "section 44 report"
+            ],
+            "reasonableness_of_decision": [
+                "invalidation of delegate's decision due to procedural breach"
+            ],
+            "availability_of_alternative_remedies": [
+                "case remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Probation Violation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "unsourced medical information",
+                "documentation releasable"
+            ],
+            "decision_reasoning": [
+                "reliance on unsourced information",
+                "violation of ENF 28 guidelines"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "evidence_assessment": [
+                "section 44 report",
+                "factual errors",
+                "danger assessment"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "breach confirmed",
+                "no additional costs"
+            ],
+            "cause_of_action": [
+                "inadmissibility for serious criminality",
+                "danger to the public"
+            ]
+        }
+    ]
+}

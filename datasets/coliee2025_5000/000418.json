@@ -1,0 +1,84 @@
+{
+    "Case ID": "000418",
+    "Different Crime": [
+        {
+            "Crime Name": "Working without authorization",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 24(1) of the Immigration and Refugee Protection Act"
+            ],
+            "immigration_status": [
+                "temporary resident",
+                "work permit expired"
+            ],
+            "decision_outcome": [
+                "denial of TRP application",
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "working without authorization"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 24(1)",
+                "s. 34(1)(f)"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "decision_outcome": [
+                "denied"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "IRPA s. 24(1)",
+                "s. 34(1)(f)"
+            ],
+            "new_information": [
+                "working unauthorized since December 2012",
+                "lack of evidence of pardon"
+            ],
+            "decision_standard": [
+                "reasonableness standard"
+            ],
+            "evidence_provided": [
+                "no evidence of pardon"
+            ],
+            "inadmissibility_criteria": [
+                "working unauthorized",
+                "inadmissibility under s. 34(1)(f)"
+            ]
+        },
+        {
+            "Crime Name": "Criminal conviction under an Act of Parliament punishable by way of indictment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 24(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "denial of Dhaliwal's temporary resident permit application",
+                "four reasons for refusal, including unauthorized work and lack of evidence of a pardon"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "application_details": [
+                "Dhaliwal had been granted TRPs for years but was denied after working unauthorized since his last work permit expired"
+            ],
+            "conclusion_outcome": [
+                "The Federal Court found CIC's decision reasonable and within the range of acceptable outcomes"
+            ],
+            "result_of_case": [
+                "Application dismissed; no question for certification"
+            ]
+        }
+    ]
+}

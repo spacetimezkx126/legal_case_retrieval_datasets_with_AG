@@ -1,0 +1,197 @@
+{
+    "Case ID": "069135",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault Charge",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "Assault"
+            ],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [
+                "Entered into a recognizance"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Summary conviction"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient to show summary treatment"
+            ],
+            "Evidence_Type": [
+                "Court documentation, recognizance record"
+            ],
+            "Evidence_Credibility": [
+                "Credible and accepted by Federal Court"
+            ],
+            "Credibility_Assessment": [
+                "Accepted as reliable"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Canadian Criminal Law"
+            ],
+            "Governing_Law": [
+                "Criminal Code"
+            ],
+            "Applicable_Statute": [
+                "Citizenship Act"
+            ],
+            "Legal_Provision": [
+                "s. 22(1)(b)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 22(1)(b) of the Citizenship Act"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Appeal allowed"
+            ],
+            "Outcome": [
+                "Citizenship granted"
+            ],
+            "Sentencing_Issue": [
+                "Charge dismissed upon recognizance"
+            ],
+            "Procedural_Issues": [
+                "Misapplication of law by citizenship judge"
+            ],
+            "Procedural_Stage": [
+                "Appeal stage"
+            ],
+            "Legal_Procedure": [
+                "Appeal to Federal Court Trial Division"
+            ],
+            "Decision_Maker": [
+                "Citizenship Judge, Federal Court Trial Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration, Refugees and Citizenship Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court Trial Division"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Correct legal interpretation"
+            ]
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "Simple Assault"
+            ],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [
+                "Entered into a recognizance, charge dismissed"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Summary conviction"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient to establish non-indictable nature"
+            ],
+            "Evidence_Type": [
+                "Court records, recognizance documentation"
+            ],
+            "Evidence_Credibility": [
+                "Accepted by Federal Court"
+            ],
+            "Credibility_Assessment": [
+                "Deemed credible"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Canadian Criminal Law"
+            ],
+            "Governing_Law": [
+                "Criminal Code"
+            ],
+            "Applicable_Statute": [
+                "Citizenship Act"
+            ],
+            "Legal_Provision": [
+                "s. 22(1)(b)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 22(1)(b) of the Citizenship Act"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Appeal allowed"
+            ],
+            "Outcome": [
+                "Citizenship granted"
+            ],
+            "Sentencing_Issue": [
+                "No sentencing required; charge dismissed"
+            ],
+            "Procedural_Issues": [
+                "Incorrect assumption by citizenship judge"
+            ],
+            "Procedural_Stage": [
+                "Appeal"
+            ],
+            "Legal_Procedure": [
+                "Federal Court appeal"
+            ],
+            "Decision_Maker": [
+                "Federal Court Trial Division"
+            ],
+            "Government_Body_Involved": [
+                "IRCC"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Correct application of law"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Case ID": "038526",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_characterization": [
+                "generalized"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "nexus_to_convention_grounds": [
+                "not applicable"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "appeal_outcome": [
+                "no question certified"
+            ],
+            "procedural_fairness": [
+                "Board's assessment reviewed"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "risk_assessment": [
+                "risk of extortion",
+                "targeted for perceived wealth or business ownership"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "paragraph 97(1)(b)(ii)"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion demands",
+                "assault and threats"
+            ],
+            "country_conditions": [
+                "common in El Salvador"
+            ],
+            "reasonableness_of_decision": [
+                "Board's assessment upheld"
+            ]
+        }
+    ]
+}

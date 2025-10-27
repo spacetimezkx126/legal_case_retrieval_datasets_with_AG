@@ -1,0 +1,50 @@
+{
+    "Case ID": "092499",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "judicial review",
+                "flagrant impropriety",
+                "malicious prosecution"
+            ],
+            "evidence_assessment": [
+                "no evidence supports a treaty obligation",
+                "consulting legal counsel appropriately"
+            ],
+            "regulatory_compliance": [
+                "RCMP's decision within their discretion"
+            ],
+            "charter_rights": [
+                "Aboriginal and treaty rights"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "border document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Mischief under the Criminal Code",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Police discretion is a cornerstone of the criminal justice system, not subject to judicial review unless flagrant impropriety is shown"
+            ],
+            "decision_reasoning": [
+                "Judicial intervention requires evidence shocking the conscience",
+                "The RCMP investigated thoroughly, sought legal advice, and provided reasoned conclusions for not laying charges"
+            ],
+            "application_details": [
+                "Can the RCMP's decision not to lay trespass or mischief charges be subject to judicial review, and if so, under what standard?"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, affirming RCMP's prosecutorial discretion and finding no grounds for judicial intervention"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed by First Nations challenging RCMP's decision not to lay charges; court analyzed admissibility of evidence and legal principles"
+            ]
+        }
+    ]
+}

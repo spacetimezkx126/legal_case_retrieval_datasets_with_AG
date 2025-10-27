@@ -1,0 +1,35 @@
+{
+    "Case ID": "017246",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "cautious testimony",
+                "unreliable affidavits",
+                "suspicious delay in filing"
+            ],
+            "documentary_evidence": [
+                "did not support claims"
+            ],
+            "reasonableness_standard": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected",
+                "judicial review application dismissed"
+            ],
+            "specific_group_membership": [
+                "forced marriage"
+            ],
+            "burden_of_proof": [
+                "Board's findings only overturned if perverse, capricious, or without regard to evidence"
+            ],
+            "evidence_assessment": [
+                "testimony found cautious",
+                "affidavits unreliable",
+                "delay suspicious"
+            ]
+        }
+    ]
+}

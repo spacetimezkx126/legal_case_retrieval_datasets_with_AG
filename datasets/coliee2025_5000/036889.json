@@ -1,0 +1,33 @@
+{
+    "Case ID": "036889",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "evidence_assessment": [
+                "new evidence",
+                "irrelevant",
+                "insufficiently new"
+            ],
+            "procedural_fairness": [
+                "duty of fairness",
+                "credibility challenges",
+                "translation issues"
+            ],
+            "decision_reasoning": [
+                "reasonable",
+                "followed legal standards"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

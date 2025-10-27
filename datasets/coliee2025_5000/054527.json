@@ -1,0 +1,26 @@
+{
+    "Case ID": "054527",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "vague",
+                "implausible",
+                "inconsistent"
+            ],
+            "evidence_assessment": [
+                "medical reports deemed insufficient"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "denied"
+            ]
+        }
+    ]
+}

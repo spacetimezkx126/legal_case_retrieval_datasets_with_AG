@@ -1,0 +1,26 @@
+{
+    "Case ID": "075160",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "negative_credibility_finding"
+            ],
+            "risk_of_persecution": [
+                "MDC_members_persecution_risk"
+            ],
+            "evidence_assessment": [
+                "failure_to_consider_objective_evidence",
+                "consideration_of_delay"
+            ],
+            "decision_outcome": [
+                "case_remitted_for_redetermination"
+            ],
+            "burden_of_proof": [
+                "objective_evidence_must_be_considered"
+            ]
+        }
+    ]
+}

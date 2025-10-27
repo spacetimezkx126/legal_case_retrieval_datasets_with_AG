@@ -1,0 +1,84 @@
+{
+    "Case ID": "075784",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit an indictable offence",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 3(2) of the Citizenship Act"
+            ],
+            "procedural_fairness": [
+                "procedural fairness examined"
+            ],
+            "decision_reasoning": [
+                "father was a foreign government employee"
+            ],
+            "applicable_regulations": [
+                "Citizenship Act"
+            ],
+            "charter_rights": [
+                "Charter rights examined"
+            ],
+            "application_details": [
+                "Applicant's father held a diplomatic passport and was registered as Vice-Consul"
+            ],
+            "conclusion_outcome": [
+                "Citizenship denial upheld"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in heroin",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "section 3(1) of the Citizenship Act",
+                "section 3(2) of the Citizenship Act"
+            ],
+            "exclusion_reason": [
+                "neither parent is a citizen or permanent resident",
+                "one parent is a diplomatic or consular official"
+            ],
+            "decision_made_by": [
+                "Citizenship Officer"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "constitutional_challenge": [
+                "Charter rights analysis"
+            ],
+            "procedural_fairness": [
+                "analysis of procedural fairness",
+                "bias"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "applicant remains ineligible for Canadian citizenship"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a prohibited weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "section 3(2) of the Citizenship Act"
+            ],
+            "exclusion_reason": [
+                "neither parent is a citizen or permanent resident and one parent is a diplomat or consular official"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed procedural fairness, bias, statutory interpretation, and Charter rights regarding the Citizenship Officer's decision."
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; Citizenship denial upheld."
+            ],
+            "applicable_laws": [
+                "Citizenship Act"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ]
+        }
+    ]
+}

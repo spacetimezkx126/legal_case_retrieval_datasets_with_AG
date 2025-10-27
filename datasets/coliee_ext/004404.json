@@ -1,0 +1,61 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Mischief under $5000",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release by applying the wrong test for public danger?",
+            "Governing_Law": "IRPA",
+            "Legal_Rule": "Under IRPA, detention is justified if the person is a danger to the public, assessed by association with a criminal organization, not membership.",
+            "Application": "The Tribunal incorrectly focused on gang membership rather than association. Evidence showed A.K. Kannan was a criminal organization involved in serious crimes.",
+            "Conclusion": "The Tribunal's decision is set aside, and the case referred back to a different panel for reconsideration."
+        },
+        {
+            "Crime_Name": "Fail to comply with recognizance",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release from detention by applying the wrong test for public danger?",
+            "Governing_Law": "IRPA",
+            "Legal_Rule": "Under IRPA, a person must be detained if they are a danger to the public, assessed by association with a criminal organization, not membership.",
+            "Application": "The Tribunal incorrectly focused on gang membership rather than association. Evidence shows A.K. Kannan is a criminal organization under IRPA definitions.",
+            "Conclusion": "The Tribunal's decision is set aside, and the case referred back to a different panel for reconsideration."
+        },
+        {
+            "Crime_Name": "Membership or association with a criminal organization under Immigration and Refugee Protection Act",
+            "Crime_Type": "Security Threats and Terrorism",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release by misapplying the test for public danger due to association with a criminal organization?",
+            "Governing_Provision": "IRPA subsection 121(2)",
+            "Legal_Standard": "Detention is justified if the person is a public danger, assessed by factors including association (not just membership) with a criminal organization.",
+            "Application": "The Tribunal incorrectly focused on membership rather than association with a criminal organization. Evidence showed the A.K. Kannan gang engaged in organized criminal activities, meeting the definition of a criminal organization.",
+            "Conclusion": "The Tribunal's decision was set aside, and the case referred back to a different panel for reconsideration using the correct legal standard."
+        },
+        {
+            "Crime_Name": "Weapons Dangerous",
+            "Crime_Type": "Violent Crimes",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release by misapplying the test for public danger?",
+            "Governing_Law": "IRPA",
+            "Legal_Provision_Cited": "IRPA provisions on public danger and association with criminal organizations",
+            "Risk_Assessment": "Assessed based on association with a criminal organization or convictions involving violence or weapons.",
+            "Application": "The Tribunal incorrectly focused on gang membership rather than association with a criminal organization. Evidence showed the A.K. Kannan gang engaged in significant criminal activities.",
+            "Conclusion": "The Tribunal applied the wrong test and its decision is set aside; the case is referred back to a different panel."
+        },
+        {
+            "Crime_Name": "Assault with weapon",
+            "Crime_Type": "Violent Crimes",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release by misapplying the test for public danger?",
+            "Governing_Law": "IRPA",
+            "Legal_Provision": "Public danger assessment under IRPA based on association with criminal organizations",
+            "Risk_Nature": "Involves use of weapon and potential for violent reoffending",
+            "Application": "The Tribunal incorrectly focused on gang membership rather than association. The A.K. Kannan gang was involved in significant criminal activities, suggesting it qualifies as a criminal organization under IRPA.",
+            "Conclusion": "The Tribunal applied the wrong legal test and its decision is set aside; the case is referred back to a different panel for reconsideration."
+        },
+        {
+            "Crime_Name": "Carry concealed weapon",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Did the Tribunal err in ordering the respondent's release from detention?",
+            "Governing_Law": "IRPA",
+            "Legal_Rule": "Under IRPA, a person must be released unless they are a danger to the public, unlikely to appear for proceedings, or associated with a criminal organization.",
+            "Application": "The Tribunal incorrectly focused on gang membership rather than association with a criminal organization. The A.K. Kannan gang was involved in significant criminal activities, suggesting it qualifies as a criminal organization.",
+            "Conclusion": "The Tribunal applied the wrong test and its decision is set aside; the case is referred back to a different panel for reconsideration."
+        }
+    ]
+}

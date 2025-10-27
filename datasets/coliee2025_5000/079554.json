@@ -1,0 +1,88 @@
+{
+    "Case ID": "079554",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "membership in Amal"
+            ],
+            "criminality_inadmissibility": [
+                "subsection 34(1)(f) of the IRPA"
+            ],
+            "evidence_assessment": [
+                "no evidence supporting civil wing involvement"
+            ],
+            "decision_outcome": [
+                "IRB's decision upheld; Applicant remains inadmissible to Canada"
+            ],
+            "legal_basis": [
+                "IRPA subsection 34(1)(f)"
+            ]
+        },
+        {
+            "Crime Name": "Being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Amal"
+            ],
+            "inadmissibility_criteria": [
+                "subsection 34(1)(f) of the IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "evidence_provided": [
+                "admitted membership",
+                "long-standing involvement"
+            ],
+            "decision_outcome": [
+                "deemed inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Overstaying visa and membership in a terrorist organization",
+            "Crime Type": "others",
+            "legal_basis": [
+                "subsection 34(1)(f) of the IRPA"
+            ],
+            "decision_reasoning": [
+                "Applicant admitted being a member of Amal for 25 years",
+                "no evidence supported a distinct non-terrorist wing"
+            ],
+            "application_details": [
+                "overstayed his visa in the U.S.",
+                "sought refugee status in Canada"
+            ],
+            "procedure_followed": [
+                "CBSA investigated",
+                "referred the case to an admissibility hearing",
+                "IRB found the Applicant inadmissible",
+                "Judicial review followed"
+            ],
+            "result_of_case": [
+                "Court dismissed the judicial review application",
+                "upholding the IRB's decision"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "discretion_exercise": [
+                "relief may be available under subsection 34(2)"
+            ],
+            "evidence_presented": [
+                "Applicant's admission of membership in Amal",
+                "long-standing involvement in Amal"
+            ],
+            "decision_made": [
+                "IRB reasonably concluded he was a member of a terrorist organization"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

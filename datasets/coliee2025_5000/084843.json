@@ -1,0 +1,27 @@
+{
+    "Case ID": "084843",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal exit from country",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "failed refugee claim"
+            ],
+            "risk_assessment": [
+                "fear of persecution",
+                "risk of severe or extra-judicial treatment"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "CRDD's decision set aside",
+                "case remitted for reconsideration"
+            ],
+            "legal_basis": [
+                "Punishment for illegal exit under a law of general application is not persecution unless there is evidence of excessive or extra-judicial punishment"
+            ],
+            "standard_of_review": [
+                "Judicial review application challenging CRDD's decision"
+            ]
+        }
+    ]
+}

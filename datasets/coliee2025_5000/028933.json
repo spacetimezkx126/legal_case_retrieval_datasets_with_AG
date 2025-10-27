@@ -1,0 +1,37 @@
+{
+    "Case ID": "028933",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "constructive dismissal",
+                "tort",
+                "Charter violations"
+            ],
+            "relevant_statute": [
+                "Rule 221(1)(a) of the Federal Court Rules, 1998",
+                "Section 12 of the Royal Canadian Mounted Police Act"
+            ],
+            "application_details": [
+                "plaintiff resigned due to alleged constructive dismissal by the RCMP",
+                "claiming bad faith, negligence, and discrimination under the Charter"
+            ],
+            "decision_reasoning": [
+                "claims are not plainly without merit and should proceed to trial"
+            ],
+            "court_ruling": [
+                "appeal is dismissed",
+                "plaintiff's claim to continue"
+            ],
+            "procedure_followed": [
+                "defendant appealed the Prothonotary's decision",
+                "appeal was heard de novo"
+            ],
+            "result_of_case": [
+                "plaintiff's claim was allowed to proceed",
+                "defendant granted an extension to file their defense"
+            ]
+        }
+    ]
+}

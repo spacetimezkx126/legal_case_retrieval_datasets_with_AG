@@ -1,0 +1,31 @@
+{
+    "Case ID": "095255",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days",
+                "four years preceding application",
+                "physical presence in Canada"
+            ],
+            "legal_basis": [
+                "Citizenship Act paragraph 5(1)(c)"
+            ],
+            "evidence_assessment": [
+                "family presence in Canada",
+                "property ownership",
+                "community involvement",
+                "lacked sufficient documentation of physical presence and financial ties"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "Citizenship Judge's decision overturned"
+            ],
+            "standard_of_review": [
+                "review of Citizenship Judge's decision",
+                "applicable legal tests analyzed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "053542",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material facts under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Omission and misrepresentation of material facts"
+            ],
+            "immigration_status": [
+                "foreign national"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ],
+            "legal_basis": [
+                "IRPA s.40(1)(a)"
+            ],
+            "evidence_assessment": [
+                "Discrepancies were material to admissibility"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissible for misrepresenting or withholding material facts"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "045031",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirements",
+                "accumulate three years of residence",
+                "four years preceding application"
+            ],
+            "evidence_assessment": [
+                "lack of corroborating evidence",
+                "addresses and family's presence in Canada"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "reapply after re-establishing residency"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

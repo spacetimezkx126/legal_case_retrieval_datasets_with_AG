@@ -1,0 +1,59 @@
+{
+    "Case ID": "078061",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal Entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 97 of the Immigration and Refugee Protection Act"
+            ],
+            "risk_assessment": [
+                "generalized violence",
+                "particularized risk"
+            ],
+            "evidence_assessment": [
+                "gang targeted bus fare collectors",
+                "widespread gang activity"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "Board's decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Border Crossing Violation",
+            "Crime Type": "Drug-related_Crimes",
+            "refugee_status": [
+                "claimed refugee protection"
+            ],
+            "risk_assessment": [
+                "generalized risk",
+                "non-generalized risk",
+                "gang threats"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA s. 97"
+            ],
+            "evidence_considered": [
+                "gang violence prevalent in Honduras",
+                "gangs target bus fare collectors"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Board's decision upheld"
+            ],
+            "consequences_of_decision": [
+                "return to Honduras"
+            ]
+        }
+    ]
+}

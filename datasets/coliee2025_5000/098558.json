@@ -1,0 +1,74 @@
+{
+    "Case ID": "098558",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on grounds of organized criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "parties have the right to be heard",
+                "changes to release conditions must be reviewed regularly",
+                "cannot be disproportionate to the risk"
+            ],
+            "decision_outcome": [
+                "application for judicial review is granted",
+                "decision is set aside",
+                "referred back for redetermination by a different officer"
+            ],
+            "risk_assessment": [
+                "serious criminality",
+                "organized criminality"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a police officer",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "parties have the opportunity to be heard and know the case against them"
+            ],
+            "decision_reasoning": [
+                "Member made changes to conditions not requested by the respondent, depriving the applicant of an opportunity to address these conditions"
+            ],
+            "standard_of_review": [
+                "no deference to the decision-maker on issues of procedural fairness"
+            ],
+            "result_of_case": [
+                "decision was overturned, matter referred back for redetermination"
+            ],
+            "application_details": [
+                "Judicial review pursuant to IRPA subsection 72(1)"
+            ],
+            "cause_of_action": [
+                "release conditions altered without allowing parties to make submissions"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking heroin",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "opportunity to be heard",
+                "conditions altered without notice"
+            ],
+            "decision_made_by": [
+                "Member Harnum"
+            ],
+            "review_process": [
+                "judicial review process"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "decision set aside for redetermination"
+            ],
+            "consequences_of_decision": [
+                "redetermination by a different officer"
+            ],
+            "applicable_law_or_regulation": [
+                "procedural fairness principles"
+            ],
+            "parties_involved": [
+                "Mr. Sittampalam",
+                "Member Harnum"
+            ]
+        }
+    ]
+}

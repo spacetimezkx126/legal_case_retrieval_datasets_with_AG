@@ -1,0 +1,49 @@
+{
+    "Case ID": "027316",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "independent evidence review",
+                "admissibility of additional evidence"
+            ],
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted to a new RAD panel for re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "independent, fact-based assessment",
+                "flexible test for evidence admissibility under IRPA s 110(4)"
+            ],
+            "procedural_fairness": [
+                "RAD relied on incorrect legal precedents",
+                "applied reasonableness instead of independent assessment",
+                "misused PRRA criteria for evidence"
+            ],
+            "decision_outcome": [
+                "Judicial review application allowed",
+                "case remitted to a new RAD panel for re-determination"
+            ],
+            "cause_of_action": [
+                "extortion by a police officer in Uzbekistan"
+            ],
+            "judicial_authority": [
+                "Court found RAD erred in review standards and evidence admissibility, ordering re-determination"
+            ]
+        }
+    ]
+}

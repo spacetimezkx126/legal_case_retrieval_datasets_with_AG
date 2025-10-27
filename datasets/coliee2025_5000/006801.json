@@ -1,0 +1,77 @@
+{
+    "Case ID": "006801",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to obtain immigration benefits",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Contradictions in testimony",
+                "Omissions in forms",
+                "Negative credibility finding"
+            ],
+            "state_protection_analysis": [
+                "Failure to test state protection",
+                "Did not seek Mexican state protection"
+            ],
+            "refugee_status_eligibility": [
+                "Claimed refugee status",
+                "Lacked credibility"
+            ],
+            "decision_outcome": [
+                "Board's decision reasonable",
+                "Judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "False statements",
+                "Omitted key details"
+            ]
+        },
+        {
+            "Crime Name": "Omission of crucial information in Personal Information Form",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "contradictions between testimony, port of entry statements, and PIFs",
+                "omissions of crucial elements in PIFs"
+            ],
+            "decision_outcome": [
+                "negative credibility finding",
+                "application for judicial review dismissed; no serious question certified"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Refugee Protection Division's decision"
+            ],
+            "material_misrepresentation": [
+                "omission of crucial information in the Personal Information Form"
+            ],
+            "state_protection": [
+                "failure to demonstrate unavailability of state protection"
+            ],
+            "reasonableness_standard": [
+                "supporting the decision's reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Failure to demonstrate state protection efforts.",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "evidence_assessment": [
+                "contradictions in testimony",
+                "omissions in testimony"
+            ],
+            "state_protection": [
+                "failure to demonstrate state protection",
+                "did not report threats to authorities"
+            ],
+            "decision_reasoning": [
+                "Board's decision is reasonable",
+                "judicial review does not permit re-evaluating evidence"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "no serious question certified"
+            ]
+        }
+    ]
+}

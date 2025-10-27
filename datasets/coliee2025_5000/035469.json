@@ -1,0 +1,34 @@
+{
+    "Case ID": "035469",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "violation of procedural fairness",
+                "failure to notify applicant of concerns"
+            ],
+            "evidence_provided": [
+                "employment certificates",
+                "Tower letter",
+                "CAIPS notes"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case remanded for reassessment"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "material_misrepresentation": [
+                "alleged fraudulent employment certificates"
+            ],
+            "relationship_genuineness": [
+                "credibility concerns"
+            ],
+            "appeal_outcome": [
+                "refusal decision overturned"
+            ]
+        }
+    ]
+}

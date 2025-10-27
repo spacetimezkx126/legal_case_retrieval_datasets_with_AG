@@ -1,0 +1,30 @@
+{
+    "Case ID": "035551",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "procedural_fairness": [
+                "patent error in law or fact"
+            ],
+            "inconsistencies_in_testimony": [
+                "omissions of events"
+            ],
+            "legal_basis": [
+                "events occurring after the PIF was signed"
+            ],
+            "decision_outcome": [
+                "refugee claim dismissed"
+            ],
+            "review_standard": [
+                "unreasonable decision"
+            ],
+            "burden_of_proof": [
+                "reasonableness of omission"
+            ]
+        }
+    ]
+}

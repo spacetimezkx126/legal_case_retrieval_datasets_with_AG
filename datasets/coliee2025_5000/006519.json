@@ -1,0 +1,38 @@
+{
+    "Case ID": "006519",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "valid if meets novelty, inventiveness, sufficiency criteria",
+                "selection patents require proving special advantages over prior art"
+            ],
+            "cause_of_action": [
+                "anticipation",
+                "obviousness",
+                "double patenting",
+                "misrepresentation"
+            ],
+            "evidence_presented": [
+                "extensive research to identify olanzapine's unique properties"
+            ],
+            "relevant_statute": [
+                "Canadian Patent Law"
+            ],
+            "decision_reasoning": [
+                "Apotex failed to prove invalidity on any grounds"
+            ],
+            "result_of_case": [
+                "Lilly's application granted",
+                "'113 Patent is valid"
+            ],
+            "procedure_followed": [
+                "NOC proceedings",
+                "detailed affidavits",
+                "expert testimonies",
+                "legal arguments focusing on patent validity"
+            ]
+        }
+    ]
+}

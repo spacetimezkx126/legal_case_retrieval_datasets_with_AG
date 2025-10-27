@@ -1,0 +1,44 @@
+{
+    "Case ID": "081068",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "valid"
+            ],
+            "sound_prediction": [
+                "factual basis",
+                "line of reasoning",
+                "proper disclosure"
+            ],
+            "expert_testimony": [
+                "scientific community understanding",
+                "accepted animal studies"
+            ],
+            "evidence_presented": [
+                "affidavits",
+                "cross-examinations"
+            ],
+            "decision_reasoning": [
+                "adequate disclosure",
+                "prima facie reasonable inference"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "prohibition of Notice of Compliance"
+            ],
+            "cause_of_action": [
+                "generic drug approval",
+                "challenge to patent validity"
+            ],
+            "procedure_followed": [
+                "expert testimonies",
+                "focus on patent promise"
+            ],
+            "conclusion_outcome": [
+                "patent valid"
+            ]
+        }
+    ]
+}

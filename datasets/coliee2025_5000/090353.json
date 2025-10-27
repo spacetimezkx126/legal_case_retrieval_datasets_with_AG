@@ -1,0 +1,26 @@
+{
+    "Case ID": "090353",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicants must accumulate at least three years of residence in Canada within four years before applying for citizenship."
+            ],
+            "evidence_assessment": [
+                "The Applicant was physically present in Canada for 571 days out of 1,095 required."
+            ],
+            "decision_outcome": [
+                "Appeal dismissed; Applicant did not meet residency requirements."
+            ],
+            "standard_of_review": [
+                "Reasonableness standard applied."
+            ],
+            "legal_basis": [
+                "Federal Courts Act",
+                "Citizenship Act",
+                "paragraph 5(1)(c)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Case ID": "020111",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent use of travel documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "implausibility of abuse",
+                "omitted details"
+            ],
+            "state_protection_analysis": [
+                "Georgian improvements in handling domestic abuse"
+            ],
+            "decision_outcome": [
+                "Court allowed the application",
+                "referred back to a different Board member"
+            ],
+            "misrepresentation_or_fraud": [
+                "used a fraudulent Israeli passport"
+            ],
+            "refugee_status_eligibility": [
+                "sought refugee protection in Canada"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining documents by deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "flawed credibility",
+                "state protection assessments"
+            ],
+            "standard_of_review": [
+                "reasonableness for credibility and state protection",
+                "correctness for procedural fairness"
+            ],
+            "state_protection": [
+                "gender-specific guidelines",
+                "inadequate consideration"
+            ],
+            "credibility_assessment": [
+                "implausible assumptions about domestic abuse",
+                "misinterpreted evidence"
+            ],
+            "appeal_outcome": [
+                "remanded for reconsideration"
+            ],
+            "judicial_authority": [
+                "Court allowed the application"
+            ],
+            "procedural_fairness": [
+                "analyzed under applicable legal standards"
+            ]
+        },
+        {
+            "Crime Name": "Domestic violence",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "flawed credibility analysis"
+            ],
+            "state_protection_analysis": [
+                "inadequate consideration of state protection claims"
+            ],
+            "gender_related_persecution_guidelines": [
+                "not considered by the Board"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "refugee_status_nexus": [
+                "applicant claimed refugee status due to domestic abuse"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural fairness"
+            ]
+        }
+    ]
+}

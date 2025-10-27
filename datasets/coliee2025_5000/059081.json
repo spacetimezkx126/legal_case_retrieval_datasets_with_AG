@@ -1,0 +1,103 @@
+{
+    "Case ID": "059081",
+    "Different Crime": [
+        {
+            "Crime Name": "Uttering Threats",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Crown Liability Act"
+            ],
+            "decision_outcome": [
+                "Judgment for plaintiff"
+            ],
+            "expert_testimony": [
+                "yes"
+            ],
+            "nature_of_offense": [
+                "intentional infliction of nervous shock",
+                "assault",
+                "harassment"
+            ],
+            "irreparable_harm": [
+                "psychological harm"
+            ],
+            "procedural_fairness": [
+                "Trial court analyzed evidence, legal precedents"
+            ],
+            "judicial_authority": [
+                "trial court"
+            ],
+            "relationship_genuineness": [
+                "supervisor's abusive behavior"
+            ],
+            "mitigating_factors": [],
+            "public_interest": [],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_likelihood": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "appeal_outcome": [],
+            "cause_of_action": [
+                "psychological harm due to supervisor's abusive behavior and threats"
+            ]
+        },
+        {
+            "Crime Name": "Intimidation",
+            "Crime Type": "Violence-related_Crimes",
+            "psychological_impact": [
+                "severe psychological harm",
+                "nervous shock",
+                "mental vulnerability"
+            ],
+            "risk_assessment": [
+                "verbal abuse",
+                "threats",
+                "intimidation"
+            ],
+            "evidence_consideration": [
+                "expert testimony on plaintiff's mental health",
+                "applicable tort law under the Crown Liability Act"
+            ],
+            "legal_basis": [
+                "Crown Liability Act",
+                "torts committed by its servants",
+                "scope of employment"
+            ],
+            "humanitarian_concerns": [
+                "psychological trauma"
+            ],
+            "applicant_characteristics": [
+                "supervisory role",
+                "plaintiff's mental vulnerability"
+            ],
+            "rehabilitation_or_possibility": [
+                "not applicable"
+            ]
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Crown Liability Act"
+            ],
+            "evidence_assessment": [
+                "expert testimonies",
+                "legal precedents"
+            ],
+            "decision_reasoning": [
+                "Mr. Stalinski knowingly exploited the plaintiff's mental vulnerability",
+                "His actions were intentional and malicious",
+                "His role as a supervisor placed him in a position of trust"
+            ],
+            "result_of_case": [
+                "Judgment awarded to plaintiff"
+            ],
+            "damages_awarded": [
+                "$40,000 in damages",
+                "interest calculated under Alberta Judgment Interest Act"
+            ]
+        }
+    ]
+}

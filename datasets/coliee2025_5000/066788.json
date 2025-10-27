@@ -1,0 +1,58 @@
+{
+    "Case ID": "066788",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration laws",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship",
+                "ties to Canada",
+                "risks upon return"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "credibility_assessment": [
+                "not credible"
+            ],
+            "decision_outcome": [
+                "motion dismissed",
+                "upholding removal order"
+            ],
+            "immigration_status": [
+                "subject to removal"
+            ],
+            "evidence_assessment": [
+                "no new evidence provided"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [
+                "hardship due to ties in Canada and risks in Hungary"
+            ],
+            "applicable_regulations": [
+                "IRPA s. 25(1)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of unusual hardship or credible risks upon return to Hungary"
+            ],
+            "decision_reasoning": [
+                "no serious issue, irreparable harm, or favorable balance of convenience"
+            ],
+            "cause_of_action": [
+                "prevention of removal to Hungary based on humanitarian and compassionate grounds after theft conviction"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed the decision denying her application for exemption"
+            ],
+            "result_of_case": [
+                "motion for a stay of removal was dismissed"
+            ]
+        }
+    ]
+}

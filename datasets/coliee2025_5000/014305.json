@@ -1,0 +1,29 @@
+{
+    "Case ID": "014305",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Calculation Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Excise Tax Act",
+                "Memorandum ET 207"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "No refund granted"
+            ],
+            "procedural_fairness": [
+                "Court reviewed applicable laws, memoranda, and submissions"
+            ],
+            "applicable_statute": [
+                "Excise Tax Act"
+            ],
+            "cause_of_action": [
+                "Dispute over proper tax calculation method under the Excise Tax Act"
+            ],
+            "nature_of_offense": [
+                "Improper use of FMV method for tax calculation"
+            ]
+        }
+    ]
+}

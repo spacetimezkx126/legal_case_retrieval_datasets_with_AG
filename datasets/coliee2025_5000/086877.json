@@ -1,0 +1,50 @@
+{
+    "Case ID": "086877",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "genuineness of arranged marriage"
+            ],
+            "evidence_assessment": [
+                "supportive evidence like photos and testimonies"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged non-genuine marriage"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted to a new IAD panel"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "genuineness of arranged marriage"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "IAD"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remitted to a new IAD panel"
+            ],
+            "procedural_fairness": [
+                "cultural context must be considered",
+                "supportive evidence overlooked",
+                "focused on spouse's immigration history"
+            ],
+            "standard_of_review": [
+                "legal standards and cultural considerations"
+            ]
+        }
+    ]
+}

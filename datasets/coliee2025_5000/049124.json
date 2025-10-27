@@ -1,0 +1,34 @@
+{
+    "Case ID": "049124",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Evasion / Jeopardy Order",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "s. 225.2(8) of the Income Tax Act"
+            ],
+            "decision_outcome": [
+                "Jeopardy order revoked"
+            ],
+            "evidence_provided": [
+                "inaccuracies and omissions in CRA's affidavits",
+                "misleading characterizations of re-assessments",
+                "lack of disclosure about intention to appeal",
+                "unsupported claims about asset liquidation or relocation"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe that delay would jeopardize tax collection"
+            ],
+            "applicable_statute": [
+                "Income Tax Act"
+            ],
+            "procedural_fairness": [
+                "full and fair disclosure required in ex parte applications"
+            ],
+            "nature_of_offense": [
+                "alleged intent to evade taxes by liquidating assets or moving abroad"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Case ID": "002236",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "not obvious",
+                "sufficiently described",
+                "utility established for claim 17"
+            ],
+            "relevant_statute": [
+                "Patent Act s. 28.3",
+                "Patent Act s. 2(Definitions)",
+                "Patent Act s. 27(3)"
+            ],
+            "evidence_presented": [
+                "expert testimonies",
+                "prior art",
+                "legal principles",
+                "significant effort and experimentation required",
+                "sound prediction of utility",
+                "adequate description provided"
+            ],
+            "cause_of_action": [
+                "invalidity allegations unjustified"
+            ],
+            "procedure_followed": [
+                "Federal Court analyzed expert testimonies, prior art, and legal principles"
+            ],
+            "result_of_case": [
+                "Leo Pharma's application granted",
+                "Minister of Health prohibited from issuing Teva a Notice of Compliance until patent expires"
+            ],
+            "decision_reasoning": [
+                "claims not obvious",
+                "utility demonstrated or soundly predicted",
+                "sufficient information provided for skilled persons"
+            ]
+        }
+    ]
+}

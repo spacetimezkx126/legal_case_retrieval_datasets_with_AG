@@ -1,0 +1,35 @@
+{
+    "Case ID": "058297",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "in personam jurisdiction",
+                "maritime claim"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act",
+                "Marine Liability Act"
+            ],
+            "cause_incident": [
+                "death of a child",
+                "maritime rescue",
+                "provincial negligence"
+            ],
+            "procedure_steps": [
+                "Plaintiffs filed an action",
+                "Alberta moved to dismiss",
+                "Federal Court ruled on jurisdiction pre-trial"
+            ],
+            "decision_made": [
+                "concurrent jurisdiction exists under the Federal Courts Act"
+            ],
+            "result_of_case": [
+                "Court declared it had jurisdiction over Alberta",
+                "case allowed to proceed"
+            ]
+        }
+    ]
+}

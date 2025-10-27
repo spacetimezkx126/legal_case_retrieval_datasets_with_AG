@@ -1,0 +1,45 @@
+{
+    "Case ID": "011191",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 113(b)",
+                "Regulations s. 167"
+            ],
+            "procedural_fairness": [
+                "hearing requirement"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "lack of evidence regarding risk"
+            ],
+            "credibility_findings": [
+                "no explicit credibility findings"
+            ],
+            "risk_of_persecution": [
+                "political activities"
+            ],
+            "decision_reasoning": [
+                "officer’s decision was reasonable",
+                "based on evidence and law"
+            ],
+            "application_details": [
+                "applicant's involvement in protests outside Iran"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "cause_of_action": [
+                "claimed risk of persecution if returned to Iran"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed PRRA officer's evidence consideration and hearing necessity"
+            ],
+            "result_of_case": [
+                "Application denied; no question certified"
+            ]
+        }
+    ]
+}

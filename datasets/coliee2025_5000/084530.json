@@ -1,0 +1,120 @@
+{
+    "Case ID": "084530",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "lack of credible fear of persecution"
+            ],
+            "credibility_assessment": [
+                "inconsistent testimony",
+                "implausible statements",
+                "lacked detailed knowledge of events"
+            ],
+            "procedural_fairness": [
+                "evaluation of credibility based on testimony, behavior, and documentary evidence"
+            ],
+            "decision_outcome": [
+                "IRB's decision upheld",
+                "applicant not granted refugee status"
+            ],
+            "standard_of_review": [
+                "judicial review of IRB’s decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canada's Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "IRB's decision upheld",
+                "refugee status denied"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IRB’s decision"
+            ],
+            "evidence_provided": [
+                "inconsistent testimony",
+                "lack of detailed knowledge",
+                "implausible statements"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "party_involved": [
+                "applicant",
+                "IRB"
+            ],
+            "claim_nature": [
+                "political persecution"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "material_misrepresentation": [
+                "inconsistent testimony",
+                "delayed asylum seeking"
+            ],
+            "risk_characterization": [
+                "credible fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "political persecution"
+            ],
+            "relationship_genuineness": [
+                "testimony consistency evaluated"
+            ],
+            "materiality_of_misrepresentation": [
+                "inconsistencies in testimony"
+            ],
+            "persecution_details": [
+                "not specified due to lack of credible evidence"
+            ],
+            "serious_non_political_crime": [
+                "not applicable"
+            ],
+            "balance_of_convenience": [
+                "not applicable"
+            ],
+            "irreparable_harm": [
+                "not applicable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not mentioned"
+            ],
+            "child_best_interests": [
+                "not applicable"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ],
+            "distinctiveness_evaluation": [
+                "not applicable"
+            ],
+            "use_in_trade": [
+                "not applicable"
+            ],
+            "special_circumstances": [
+                "not mentioned"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "request for judicial review"
+            ],
+            "nature_of_offense": [
+                "immigration fraud"
+            ],
+            "mitigating_factors": [
+                "none identified"
+            ]
+        }
+    ]
+}

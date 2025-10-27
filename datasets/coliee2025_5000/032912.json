@@ -1,0 +1,130 @@
+{
+    "Case ID": "032912",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "forged passport",
+                "false identity"
+            ],
+            "legal_basis": [
+                "IRPA s.98",
+                "Refugee Convention Article 1F(b)"
+            ],
+            "decision_outcome": [
+                "RPD decision overturned",
+                "case remanded for reconsideration"
+            ],
+            "criminality_inadmissibility": [
+                "forgery",
+                "identity fraud"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "credibility_assessment": [
+                "lack of criminal history",
+                "context of persecution"
+            ]
+        },
+        {
+            "Crime Name": "Shoplifting and Identity Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "yes"
+            ],
+            "applicable_statute": [
+                "IRPA Section 98",
+                "Refugee Convention Article 1F(b)"
+            ],
+            "mitigating_factors": [
+                "use of forged passport to escape persecution",
+                "possibility of lesser sentence in Canada"
+            ],
+            "decision_outcome": [
+                "unreasonable decision set aside"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "standard_of_review": [
+                "nuanced test for serious criminality"
+            ],
+            "appeal_outcome": [
+                "judicial review granted"
+            ],
+            "cause_of_action": [
+                "shoplifting",
+                "use of false identity and passport"
+            ],
+            "nature_of_offense": [
+                "identity fraud",
+                "forgery"
+            ],
+            "relationship_genuineness": [
+                "not applicable"
+            ],
+            "risk_characterization": [
+                "not applicable"
+            ],
+            "material_misrepresentation": [
+                "not applicable"
+            ],
+            "balance_of_convenience": [
+                "not applicable"
+            ],
+            "irreparable_harm": [
+                "not applicable"
+            ],
+            "public_interest": [
+                "not applicable"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "not applicable"
+            ],
+            "child_best_interests": [
+                "not applicable"
+            ],
+            "confusion_likelihood": [
+                "not applicable"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 98",
+                "Refugee Convention Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "serious criminality"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "applicable_law_section": [
+                "IRPA s. 98",
+                "Refugee Convention Article 1F(b)"
+            ],
+            "decision_outcome": [
+                "set aside for reconsideration"
+            ],
+            "refugee_status_claim": [
+                "exclusion claimed"
+            ],
+            "evidence_assessment": [
+                "failed to consider mitigating factors"
+            ],
+            "standard_of_proof": [
+                "presumption rebuttable"
+            ],
+            "court_ruling": [
+                "redetermination required"
+            ]
+        }
+    ]
+}

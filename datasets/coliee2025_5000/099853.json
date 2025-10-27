@@ -1,0 +1,101 @@
+{
+    "Case ID": "099853",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiring to commit an indictable offence (forgery of a Canadian passport)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "failure to address crucial evidence",
+                "patent error in disregarding evidence"
+            ],
+            "evidence_assessment": [
+                "dismissal of affidavit and letter as key evidence",
+                "inadequate consideration of LTTE death threats"
+            ],
+            "risk_assessment": [
+                "no risk of torture or persecution upon return"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "remit for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Credit card fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "evidence_provided": [
+                "affidavit",
+                "letter"
+            ],
+            "decision_outcome": [
+                "patently unreasonable"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "risk_characterization": [
+                "LTTE death threat"
+            ],
+            "serious_criminality": [
+                "credit card fraud"
+            ],
+            "public_interest": [
+                "public danger"
+            ],
+            "appeal_outcome": [
+                "allowed judicial review application"
+            ],
+            "cause_of_action": [
+                "deportation risk"
+            ],
+            "nature_of_offense": [
+                "convicted of credit card fraud"
+            ]
+        },
+        {
+            "Crime Name": "Conspiring to commit an assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "evidence_consideration": [
+                "LTTE death threats via affidavit and a letter"
+            ],
+            "risk_assessment": [
+                "risks in Sri Lanka"
+            ],
+            "reasonableness_of_decision": [
+                "Delegate’s decision was unreasonable"
+            ],
+            "rehabilitation_or_possibility": [
+                "rehabilitation"
+            ]
+        },
+        {
+            "Crime Name": "Attempting to obstruct justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)"
+            ],
+            "evidence_assessment": [
+                "affidavit and letter suggesting LTTE death threat",
+                "Delegate dismissed evidence with a blanket statement"
+            ],
+            "procedural_fairness": [
+                "failure to engage with critical evidence deemed patently unreasonable"
+            ],
+            "decision_reasoning": [
+                "Delegate erred by not addressing evidence of LTTE threat"
+            ],
+            "result_of_case": [
+                "Court allowed judicial review application, ordering reconsideration by a different panel"
+            ],
+            "standard_of_review": [
+                "reasonableness under IRPA standards"
+            ]
+        }
+    ]
+}

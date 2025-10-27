@@ -1,0 +1,106 @@
+{
+    "Case ID": "033823",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose income",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Courts Act",
+                "Excise Tax Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "CRA's actions upheld as reasonable"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "applicable_statute": [
+                "Tax Court of Canada jurisdiction"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Tax Court of Canada"
+            ],
+            "cause_of_action": [
+                "Judicial review application"
+            ],
+            "nature_of_offense": [
+                "Involuntary GST registration",
+                "Investigation"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Federal Court Rules",
+                "ETA"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "application dismissed with costs awarded to CRA"
+            ],
+            "reasoning_given": [
+                "CRA can assign a GST number and assess individuals without voluntary application",
+                "McCartie's claims about prior actions are time-barred or fall under Tax Court jurisdiction",
+                "constitutional issues belong in Tax Court"
+            ],
+            "evidence_provided": [
+                "involuntary GST registration",
+                "issuance of a Request for Information (RFI)"
+            ],
+            "applicable_law_section": [
+                "Federal Court Rules",
+                "ETA"
+            ]
+        },
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules (Rule 302)",
+                "Excise Tax Act",
+                "Federal Courts Act",
+                "Canadian Charter of Rights and Freedoms",
+                "Canadian Bill of Rights"
+            ],
+            "cause_of_action": [
+                "involuntary GST registration",
+                "investigative measures"
+            ],
+            "decision_reasoning": [
+                "CRA's Pacesetter RFI was a separate action",
+                "court lacks jurisdiction over GST registration challenges",
+                "constitutional issues dismissed"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "Pacesetter RFI reviewable",
+                "no constitutional violations found"
+            ],
+            "court_jurisdiction": [
+                "Federal Court",
+                "Tax Court"
+            ],
+            "cost_awards": [
+                "Costs awarded to CRA"
+            ],
+            "application_details": [
+                "Judicial review application filed in Federal Court"
+            ],
+            "procedure_followed": [
+                "CRA argued time-barred actions and jurisdictional limits"
+            ],
+            "dispute_focus": [
+                "CRA's actions regarding alleged GST debt",
+                "lack of due process",
+                "constitutional violations"
+            ]
+        }
+    ]
+}

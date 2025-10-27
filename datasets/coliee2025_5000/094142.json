@@ -1,0 +1,76 @@
+{
+    "Case ID": "094142",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "substantial evidence of ties to China, including family and savings"
+            ],
+            "procedural_fairness": [
+                "Judicial review in Federal Court analyzed the reasonableness of the visa officer’s decision"
+            ],
+            "decision_outcome": [
+                "officer's decision was unreasonable and is set aside; case is remanded for redetermination by another officer"
+            ],
+            "misrepresentation_or_fraud": []
+        },
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_consideration": [
+                "substantial evidence provided",
+                "relied on general assumptions"
+            ],
+            "family_ties": [
+                "ties to China"
+            ],
+            "procedural_fairness": [
+                "judicial review in Federal Court"
+            ],
+            "immigration_status": [
+                "temporary work permit application refused"
+            ]
+        },
+        {
+            "Crime Name": "Administrative Error in Visa Application",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "evidence_considered": [
+                "ties to home country",
+                "family",
+                "savings",
+                "declaration"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "claimant_burden": [
+                "provided substantial evidence"
+            ],
+            "court_ruling": [
+                "allowed judicial review",
+                "overturned the decision",
+                "ordered reconsideration by a different officer"
+            ],
+            "appeal_process": [
+                "judicial review in Federal Court"
+            ]
+        }
+    ]
+}

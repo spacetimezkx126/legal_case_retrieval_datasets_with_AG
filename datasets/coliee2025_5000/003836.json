@@ -1,0 +1,58 @@
+{
+    "Case ID": "003836",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "not a Convention refugee",
+                "no person in need of protection"
+            ],
+            "credibility_assessment": [
+                "questioned due to discrepancies",
+                "no subjective or objective basis for fear of persecution"
+            ],
+            "state_protection_analysis": [
+                "state protection was available"
+            ],
+            "procedural_fairness": [
+                "analyzed for reasonableness",
+                "no breach of natural justice"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "factual findings reviewed on patent unreasonableness",
+                "state protection and procedural fairness reviewed for reasonableness and correctness"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material facts",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "credibility_findings": [
+                "patent unreasonableness"
+            ],
+            "state_protection": [
+                "availability",
+                "documentary evidence supported"
+            ],
+            "natural_justice": [
+                "no breach occurred",
+                "serious possibility of denying a ground of review"
+            ],
+            "delay_in_claiming_refugee_status": [
+                "explained but deemed insufficient"
+            ],
+            "cause_of_action": [
+                "extortion threats"
+            ],
+            "judicial_authority": [
+                "Board's decision reasonable and not patently unreasonable"
+            ],
+            "appeal_outcome": [
+                "Application dismissed"
+            ]
+        }
+    ]
+}

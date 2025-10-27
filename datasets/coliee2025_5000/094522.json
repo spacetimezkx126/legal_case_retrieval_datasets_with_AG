@@ -1,0 +1,31 @@
+{
+    "Case ID": "094522",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "implausibility in story",
+                "insufficient evidence linking psychological state to fear of persecution",
+                "delay in filing claim"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable",
+                "deference to administrative tribunals unless capricious or lacking supporting evidence"
+            ],
+            "refugee_definition": [
+                "applicant sought refugee status in Canada"
+            ],
+            "judicial_review_process": [
+                "judicial review analyzed Board's decision under reasonableness standard"
+            ],
+            "burden_of_proof": [
+                "valid grounds for denying refugee status"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

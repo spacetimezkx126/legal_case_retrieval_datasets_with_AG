@@ -1,0 +1,54 @@
+{
+    "Case ID": "081718",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Applications",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "mootness analysis"
+            ],
+            "misrepresentation_or_fraud": [
+                "yes"
+            ],
+            "immigration_status": [
+                "deported"
+            ],
+            "refugee_status_eligibility": [
+                "denied"
+            ],
+            "procedural_fairness": [
+                "considered"
+            ],
+            "charter_rights": [
+                "assessed"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in Acts of Terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "judicial_review_result": [
+                "moot"
+            ],
+            "decision_outcome": [
+                "refused to exercise discretion"
+            ],
+            "membership_in_organization": [
+                "terrorist organization"
+            ],
+            "risk_to_national_security": [],
+            "refugee_status_claim": [
+                "denied refugee protection"
+            ],
+            "court_ruling": [
+                "no tangible effects",
+                "lack of public interest"
+            ],
+            "legal_basis": [
+                "Canadian law mootness principle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Case ID": "052954",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Section 5(1)(c)",
+                "three years of residence",
+                "four years preceding application",
+                "physical presence",
+                "intent to reside in Canada"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "citizenship denied"
+            ],
+            "evidence_assessment": [
+                "physically present for 232 days",
+                "maintained a home in Canada",
+                "paid taxes as a resident",
+                "promoted Canadian interests in Hong Kong",
+                "business responsibilities in Hong Kong"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "Section 5(1)(c)"
+            ],
+            "standard_of_review": [
+                "trial de novo",
+                "Federal Court"
+            ]
+        }
+    ]
+}

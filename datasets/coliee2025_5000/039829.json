@@ -1,0 +1,81 @@
+{
+    "Case ID": "039829",
+    "Different Crime": [
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "criminal intimidation",
+                "corruption",
+                "sufficient state efforts"
+            ],
+            "evidence_consideration": [
+                "failed to report key incidents",
+                "substantial evidence"
+            ],
+            "risk_assessment": [
+                "insufficient state protection",
+                "systemic issues"
+            ],
+            "refugee_status_nexus": [
+                "seeking international protection",
+                "rebutted presumption of state protection"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable",
+                "supported by evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Individuals must attempt to access state protection services before seeking international protection"
+            ],
+            "evidence_assessment": [
+                "Applicants failed to report multiple incidents, including kidnapping and intimidation, to authorities"
+            ],
+            "state_protection": [
+                "Mexican state agencies were making efforts to combat crime and corruption"
+            ],
+            "decision_reasoning": [
+                "Board's decision was reasonable and supported by evidence"
+            ],
+            "cause_of_action": [
+                "Applicants claimed refugee status due to alleged criminal threats and kidnappings but failed to adequately seek state protection in Mexico"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Refugee Protection Division's decision rejecting the Applicants' claims based on insufficient efforts to seek state protection"
+            ],
+            "result_of_case": [
+                "The court dismissed the application for judicial review, upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Armed Robbery",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "state_protection": [
+                "sufficient state protection efforts in Mexico"
+            ],
+            "credibility_findings": [
+                "failed to report incidents or seek help from multiple agencies"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed whether the Board erred in assessing state protection evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_laws": [
+                "individuals must attempt to access state protection services before seeking international protection"
+            ],
+            "refugee_protection": [
+                "applicants sought refugee protection in Canada"
+            ],
+            "court_ruling": [
+                "the Board's decision was reasonable"
+            ]
+        }
+    ]
+}

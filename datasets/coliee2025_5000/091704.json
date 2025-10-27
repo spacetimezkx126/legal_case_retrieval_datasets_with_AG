@@ -1,0 +1,39 @@
+{
+    "Case ID": "091704",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'203 Patent is valid for Claims 5, 7, 29, 44, and 46",
+                "Claims 1-4 are invalid"
+            ],
+            "relevant_statute": [
+                "Patent Act"
+            ],
+            "evidence_presented": [
+                "expert testimonies",
+                "analysis of patent specifications",
+                "evaluation of testing data"
+            ],
+            "infringement_analysis": [
+                "Apotex's remaining bulk imatinib was exempt from infringement under regulatory use exemptions"
+            ],
+            "decision_reasoning": [
+                "sound prediction was supported by prior art and disclosed data",
+                "fulfilling utility requirements",
+                "Disclosure included methods and results sufficient for skilled persons to practice the invention"
+            ],
+            "application_details": [
+                "Teva and Apotex sought to invalidate Novartis's '203 Patent claiming selective kinase inhibitors"
+            ],
+            "conclusion_outcome": [
+                "Most claims of the '203 Patent were upheld as valid"
+            ],
+            "specific_rule_applied": [
+                "a patent must describe an invention that is both new and useful",
+                "Utility can be demonstrated or soundly predicted based on factual basis, articulable reasoning, and adequate disclosure in the patent"
+            ]
+        }
+    ]
+}

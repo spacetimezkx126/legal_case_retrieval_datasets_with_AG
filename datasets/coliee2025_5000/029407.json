@@ -1,0 +1,85 @@
+{
+    "Case ID": "029407",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "businesspeople"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee protection"
+            ],
+            "internal_flight_alternative": [
+                "not applicable"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "decision_outcome": [
+                "Board's decision unreasonable"
+            ],
+            "appeal_outcome": [
+                "Court granted judicial review, quashed the Board’s decision, and remitted the case for reconsideration"
+            ],
+            "applicable_statute": [
+                "section 97(1)(b)(ii) of the Immigration and Refugee Protection Act",
+                "section 72 of the Act"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized"
+            ],
+            "specific_threats_or_incidents": [
+                "threats",
+                "violence from the Zetas gang"
+            ],
+            "risk_assessment": [
+                "risk to life or cruel treatment"
+            ],
+            "legal_basis": [
+                "section 97(1)(b)(ii) of the Act",
+                "section 72 of the Act"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "refugee_status_nexus": [
+                "need of protection"
+            ]
+        },
+        {
+            "Crime Name": "Theft",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "personalized risk"
+            ],
+            "legal_basis": [
+                "section 97 of the Immigration and Refugee Protection Act",
+                "section 97(1)(b)(ii) of the Act"
+            ],
+            "decision_reasoning": [
+                "specific targeting indicates personalized risk"
+            ],
+            "application_details": [
+                "applicants were targeted for extortion due to their business"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was unreasonable"
+            ],
+            "reconsideration_order": [
+                "case is referred back for reconsideration"
+            ],
+            "procedure_followed": [
+                "judicial review application under section 72 of the Act"
+            ]
+        }
+    ]
+}

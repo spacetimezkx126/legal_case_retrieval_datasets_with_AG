@@ -1,0 +1,128 @@
+{
+    "Case ID": "010903",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying Visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "distinct legal standards",
+                "separate assessment"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "family_class_considerations": [
+                "deportation",
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Making False Statements to Obtain Immigration Benefits",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration"
+            ],
+            "procedural_fairness": [
+                "alleged errors in assessing hardship and risk factors"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "unusual or disproportionate hardship"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "relationship_genuineness": [
+                "assessing hardship"
+            ],
+            "appeal_outcome": [
+                "allowed the judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling of Persons",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "unusual, undeserved, or disproportionate hardship",
+                "broader factors like health and socio-economic conditions"
+            ],
+            "risk_assessment": [
+                "PRRA risk conclusions reused in H&C application"
+            ],
+            "procedural_fairness": [
+                "alleged errors in hardship assessment",
+                "discretion fettering"
+            ],
+            "family_ties": [
+                "Ramirez with her non-Canadian daughter"
+            ],
+            "immigration_status": [
+                "deportation after denied H&C and PRRA applications"
+            ],
+            "reasonableness_of_decision": [
+                "decision unreasonable due to lack of proper H&C assessment"
+            ]
+        },
+        {
+            "Crime Name": "Making False Statements to Obtain Immigration Benefits",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "not properly assessed"
+            ],
+            "discrepancies_identified": [
+                "reused PRRA findings in H&C decision"
+            ],
+            "standard_of_proof": [
+                "different standards for H&C and PRRA applications"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling of Persons",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "unusual hardship",
+                "undeserved hardship",
+                "disproportionate hardship"
+            ],
+            "risk_assessment": [
+                "PRRA risk assessment",
+                "H&C hardship assessment"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "H&C application remitted"
+            ],
+            "relevant_factors": [
+                "health conditions",
+                "socio-economic conditions",
+                "broader hardship factors"
+            ],
+            "court_ruling": [
+                "officer erred",
+                "decision unreasonable"
+            ],
+            "appeal_process": [
+                "judicial review",
+                "reconsideration by a different officer"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "Case ID": "025789",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "complicity_in_crimes": [
+                "complicity by association"
+            ],
+            "legal_basis": [
+                "Article 1F(b) of the Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "evidence_consideration": [
+                "evidence suggests he was aware of and tolerated these acts"
+            ],
+            "applicant_involvement": [
+                "senior leader in Ennahda"
+            ],
+            "membership_in_organization": [
+                "Ennahda"
+            ],
+            "risk_assessment": [
+                "violent acts, including arson at Bab Souika in 1991"
+            ],
+            "procedural_fairness": [
+                "Judicial review of Refugee Division's decision"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "art. 1F(b)",
+                "art. 1F(c)"
+            ],
+            "membership_in_organization": [
+                "Ennahda"
+            ],
+            "complicity_in_crimes": [
+                "arson",
+                "killing a guard"
+            ],
+            "involvement_details": [
+                "leader",
+                "continued involvement"
+            ],
+            "reasonableness_of_decision": [
+                "knowledge and tolerance of such acts"
+            ],
+            "decision_outcome": [
+                "excluded from refugee status"
+            ],
+            "refugee_status_claim": [
+                "denied"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_assessment": [
+                "leadership role suggests knowledge"
+            ],
+            "applicable_law_section": [
+                "Convention relating to the Status of Refugees"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in serious non-political crimes",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Convention"
+            ],
+            "exclusion_reason": [
+                "complicity in serious non-political crimes"
+            ],
+            "evidence_assessment": [
+                "evidence suggests he knew about and tolerated these acts"
+            ],
+            "risk_of_persecution": [],
+            "decision_reasoning": [
+                "plaintiff was a leader in Ennahda during violent acts",
+                "continuing his leadership role afterward"
+            ],
+            "applicable_regulations": [
+                "Article 1F(b)"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "plaintiff excluded from refugee status"
+            ],
+            "refugee_status": [
+                "excluded from refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Promotion of acts contrary to the purposes and principles of the United Nations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(c) of the Convention"
+            ],
+            "exclusion_reason": [
+                "acts contrary to the UN's purposes and principles",
+                "human rights violations"
+            ],
+            "evidence_assessment": [
+                "Ennahda supported acts violating UN principles"
+            ],
+            "credibility_findings": [
+                "Plaintiff was a regional leader of Ennahda promoting anti-UN policies"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "complicity_in_crimes": [
+                "complicity in acts contrary to UN principles"
+            ]
+        },
+        {
+            "Crime Name": "Weapons trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b)",
+                "Article 1F(c)"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes",
+                "acts contrary to UN principles",
+                "complicity by association"
+            ],
+            "refugee_protection": [
+                "excluded from refugee status"
+            ],
+            "complicity_determination": [
+                "knowing participation",
+                "tolerance of such crimes"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "plaintiff excluded from refugee status"
+            ],
+            "criminal_history": [
+                "linked to violent activities by Ennahda"
+            ],
+            "credibility_findings": [
+                "contradictions in his testimony"
+            ],
+            "appeal_process": [
+                "Judicial review of Refugee Division's decision"
+            ]
+        }
+    ]
+}

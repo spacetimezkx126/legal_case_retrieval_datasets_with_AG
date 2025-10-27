@@ -1,0 +1,35 @@
+{
+    "Case ID": "086105",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dismissal",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "three years",
+                "84% absence"
+            ],
+            "applicable_regulations": [
+                "Citizenship Act",
+                "Section 5(4)"
+            ],
+            "discretion_exercise": [
+                "Governor-in-Council discretion"
+            ],
+            "application_details": [
+                "absent from Canada for work",
+                "business-related connections",
+                "significant contributions to Canadian economy"
+            ],
+            "decision_reasoning": [
+                "residency requirement not met"
+            ],
+            "result_of_case": [
+                "appeal dismissed",
+                "referred to Governor-in-Council for consideration"
+            ],
+            "cause_of_action": [
+                "insufficient residency"
+            ]
+        }
+    ]
+}

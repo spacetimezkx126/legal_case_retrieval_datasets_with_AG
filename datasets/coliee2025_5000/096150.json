@@ -1,0 +1,34 @@
+{
+    "Case ID": "096150",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "RPD rejected due to lack of credibility",
+                "RAD upheld RPD's assessment"
+            ],
+            "review_standard": [
+                "reasonableness"
+            ],
+            "internal_flight_alternative": [
+                "RPD considered an internal flight alternative"
+            ],
+            "independent_review_by_rad": [
+                "RAD showed deference to RPD's assessment"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed the application"
+            ],
+            "standard_of_proof": [
+                "reasonableness for RAD decisions"
+            ],
+            "risk_personalization": [
+                "not explicitly addressed"
+            ],
+            "specific_vulnerabilities": [
+                "forced marriage in Cameroon"
+            ]
+        }
+    ]
+}

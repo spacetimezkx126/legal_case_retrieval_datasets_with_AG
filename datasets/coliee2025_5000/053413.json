@@ -1,0 +1,32 @@
+{
+    "Case ID": "053413",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "risk of failed communication",
+                "due diligence",
+                "safeguards in critical email communications"
+            ],
+            "evidence_provided": [
+                "DSNs confirmed relay but not receipt",
+                "no evidence of fault by applicant"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "decisions quashed",
+                "matters remitted for re-determination"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "procedural fairness"
+            ],
+            "balance_of_convenience": [
+                "respondent (government) bears the risk"
+            ]
+        }
+    ]
+}

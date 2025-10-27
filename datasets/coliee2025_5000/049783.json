@@ -1,0 +1,101 @@
+{
+    "Case ID": "049783",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of property obtained by crime under $1000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 509(c) of the Marine Transportation Security Regulations"
+            ],
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "decision_outcome": [
+                "refusal of security clearance was reasonable"
+            ],
+            "cause_of_action": [
+                "Applicant's criminal history and ongoing marijuana use"
+            ],
+            "judicial_authority": [
+                "Court dismissed the application for judicial review"
+            ],
+            "nature_of_offense": [
+                "criminal record, including possession of property obtained by crime under $1000, and continued marijuana use"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "adequacy of notice",
+                "reasons for refusal"
+            ],
+            "criminal_history": [
+                "criminal record",
+                "marijuana use"
+            ],
+            "risk_assessment": [
+                "subornment risks",
+                "marine transportation security"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to suspect"
+            ],
+            "reasonableness_of_decision": [
+                "legislative purpose",
+                "initial clearance denials"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Dangerous operation of a motor vehicle",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 509(c) of the Marine Transportation Security Regulations"
+            ],
+            "procedural_fairness": [
+                "adequacy of notice, reasons, and relevance of considerations under procedural fairness"
+            ],
+            "evidence_assessment": [
+                "criminal record, including drug-related convictions, ongoing marijuana use"
+            ],
+            "decision_reasoning": [
+                "these factors relevant to potential subornment risks in marine security"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the Minister's decision to deny security clearance"
+            ]
+        },
+        {
+            "Crime Name": "Producing a Schedule II substance (marijuana)",
+            "Crime Type": "Drug-related_Crimes",
+            "security_clearance": [
+                "refusal",
+                "reasonable grounds",
+                "suspect",
+                "risk"
+            ],
+            "procedural_fairness": [
+                "upheld",
+                "adequacy of notice",
+                "reasons",
+                "fairness"
+            ],
+            "criminal_history": [
+                "criminal record",
+                "recent drug conviction",
+                "ongoing marijuana use",
+                "association with criminals"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "Minister's decision upheld"
+            ],
+            "applicable_law_or_regulation": [
+                "Marine Transportation Security Regulations, s. 509(c)"
+            ]
+        }
+    ]
+}

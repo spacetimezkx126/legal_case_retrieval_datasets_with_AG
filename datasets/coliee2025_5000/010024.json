@@ -1,0 +1,29 @@
+{
+    "Case ID": "010024",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "discrepancies in narrative",
+                "lack of corroboration",
+                "inconsistencies in testimony"
+            ],
+            "reasonableness_standard": [
+                "RPD's decision reviewed under reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "insufficient corroboration"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "burden_of_proof": [
+                "credibility issues remained despite errors"
+            ],
+            "review_standard": [
+                "reasonableness unless capricious or unsupported"
+            ]
+        }
+    ]
+}

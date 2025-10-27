@@ -1,0 +1,31 @@
+{
+    "Case ID": "046266",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 34(1)",
+                "IRPA s. 34(2)"
+            ],
+            "membership_in_organization": [
+                "MQM"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed"
+            ],
+            "decision_outcome": [
+                "Removal order issued"
+            ],
+            "refugee_status_claim": [
+                "Linked to membership in MQM"
+            ],
+            "inadmissibility_criteria": [
+                "Membership in a terrorist organization"
+            ],
+            "court_ruling": [
+                "Board has jurisdiction to issue removal orders before ministerial decision"
+            ]
+        }
+    ]
+}

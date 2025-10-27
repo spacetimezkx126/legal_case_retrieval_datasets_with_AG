@@ -1,0 +1,144 @@
+{
+    "Case ID": "040016",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "credibility and plausibility reasonably assessed",
+                "avoiding speculation",
+                "findings based on clear evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "unreasonable implausibility findings by the Board"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "risk_characterization": [
+                "extortion and threats from a gang in El Salvador"
+            ],
+            "relationship_genuineness": [
+                "implausibilities in applicant's story",
+                "gang awareness of his job",
+                "survival despite threats"
+            ],
+            "expert_testimony": [
+                "misunderstanding of evidence, timelines, and contextual details about gangs' operations"
+            ],
+            "appeal_outcome": [
+                "decision quashed",
+                "case returned to differently constituted panel"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "implausible",
+                "speculative reasoning",
+                "misunderstood evidence"
+            ],
+            "reasonableness_of_decision": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "risk_assessment": [
+                "forward-looking risk evaluation"
+            ],
+            "evidence_consideration": [
+                "documentary evidence assessments"
+            ],
+            "refugee_status_nexus": [
+                "refugee protection claim"
+            ],
+            "specific_threats_or_incidents": [
+                "threats from a gang"
+            ],
+            "country_conditions": [
+                "El Salvador"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable implausibility findings",
+                "misunderstood evidence",
+                "speculative reasoning"
+            ],
+            "credibility_findings": [
+                "implausible story",
+                "adverse findings"
+            ],
+            "judicial_review_result": [
+                "application allowed",
+                "decision quashed"
+            ],
+            "refugee_status_claim": [
+                "refused to provide confidential court information",
+                "threats from gang"
+            ],
+            "evidence_assessment": [
+                "timeline of notes",
+                "father's murder"
+            ],
+            "decision_outcome": [
+                "reconsideration by differently constituted panel"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "Board's decision was unreasonable",
+                "lacked proper justification"
+            ],
+            "credibility_findings": [
+                "applicant's story implausible",
+                "based on speculation",
+                "misunderstanding of evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is allowed"
+            ],
+            "result_of_case": [
+                "Decision quashed",
+                "case returned to a differently constituted panel of the Board for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "People Trafficking",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "implausible",
+                "speculative reasoning",
+                "misunderstood evidence"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable plausibility findings"
+            ],
+            "judicial_review_process": [
+                "analyzed plausibility, credibility, documentary evidence assessments, forward-looking risk evaluation"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "returned for reconsideration"
+            ],
+            "burden_of_proof": [
+                "defensible in respect to facts and law"
+            ]
+        }
+    ]
+}

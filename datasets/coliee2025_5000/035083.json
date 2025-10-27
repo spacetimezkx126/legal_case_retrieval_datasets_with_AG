@@ -1,0 +1,35 @@
+{
+    "Case ID": "035083",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "missing documentation",
+                "inconsistencies"
+            ],
+            "procedural_fairness": [
+                "no breach found"
+            ],
+            "reasonableness_standard": [
+                "applies to credibility assessments"
+            ],
+            "documentary_evidence": [
+                "lack of key documents"
+            ],
+            "evidence_assessment": [
+                "RPD considered omissions reasonable grounds for doubting credibility"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "burden_of_proof": [
+                "not explicitly breached"
+            ],
+            "review_standard": [
+                "correctness for procedural fairness",
+                "reasonableness for credibility"
+            ]
+        }
+    ]
+}

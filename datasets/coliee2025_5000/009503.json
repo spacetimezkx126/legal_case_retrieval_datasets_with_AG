@@ -1,0 +1,29 @@
+{
+    "Case ID": "009503",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "failure to provide opportunity to refute negative assessments"
+            ],
+            "immigration_status": [
+                "request for permanent residence",
+                "denied based on lack of self-employment experience"
+            ],
+            "decision_outcome": [
+                "decision set aside",
+                "reassessment directed"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "application for certiorari and mandamus"
+            ],
+            "regulatory_compliance": [
+                "Immigration Act and Regulations",
+                "fair assessment of applicant's ability to contribute to Canada's economy or cultural life"
+            ]
+        }
+    ]
+}

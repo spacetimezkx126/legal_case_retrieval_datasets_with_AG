@@ -1,0 +1,35 @@
+{
+    "Case ID": "043695",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement",
+            "Crime Type": "others",
+            "residency_requirement": [
+                "three years of residence in Canada within four years",
+                "physical presence",
+                "normal residency"
+            ],
+            "application_details": [
+                "applicant was short by 67 days of required physical presence"
+            ],
+            "decision_reasoning": [
+                "Koo test applied",
+                "property ownership",
+                "trips abroad considered"
+            ],
+            "result_of_case": [
+                "citizenship application rejected",
+                "appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_presented": [
+                "normal residency criteria reviewed"
+            ],
+            "relevant_statute": [
+                "Citizenship Act, paragraph 5(1)(c)"
+            ]
+        }
+    ]
+}

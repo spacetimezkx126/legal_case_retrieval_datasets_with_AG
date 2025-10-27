@@ -1,0 +1,144 @@
+{
+    "Case ID": "080379",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "not Convention refugees",
+                "not persons in need of protection"
+            ],
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "objectively unreasonable to seek",
+                "Mexico's state protection adequate"
+            ],
+            "risk_assessment": [
+                "threats and violence from Los Zetas",
+                "no link to Convention grounds"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Board's decision reasonable"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "IRPA section 72(1)"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequate state protection in Mexico"
+            ],
+            "serious_criminality": [
+                "torture by Los Zetas"
+            ],
+            "risk_characterization": [
+                "concerns over police corruption"
+            ],
+            "nexus_to_convention_grounds": [
+                "Convention refugees or persons in need of protection"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection in Mexico",
+                "did not seek state protection",
+                "presumption exists that democratic states can provide protection"
+            ],
+            "risk_assessment": [
+                "kidnapping and threats by Los Zetas"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "IRPA section 72(1)"
+            ],
+            "procedural_fairness": [
+                "Board's detailed analysis",
+                "decision was reasonable and defensible"
+            ],
+            "refugee_status_nexus": [
+                "claimants must show they sought state protection or prove it was objectively unreasonable to do so"
+            ],
+            "country_conditions": [
+                "efforts to combat corruption",
+                "no evidence of a collapsed police force"
+            ],
+            "specific_threats_or_incidents": [
+                "threatened by Los Zetas"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection in Mexico",
+                "police corruption concerns"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ],
+            "applicable_law_section": [
+                "IRPA section 72(1)"
+            ],
+            "refugee_status_claim": [
+                "Convention refugees",
+                "persons in need of protection"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "decision_outcome": [
+                "no question certified"
+            ]
+        },
+        {
+            "Crime Name": "Forced sale under duress",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection": [
+                "claimants must show they sought or could not reasonably seek state protection",
+                "presumption exists in democratic states that state protection is available unless proven otherwise"
+            ],
+            "decision_reasoning": [
+                "Board found no evidence of diligent efforts to obtain state protection",
+                "noting Mexico's ongoing efforts to combat corruption"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was reasonable and within acceptable outcomes"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "no question certified"
+            ],
+            "cause_of_action": [
+                "applicant suffered threats and extortion by Los Zetas but did not seek help from Mexican authorities before fleeing to Canada"
+            ],
+            "procedure_followed": [
+                "Judicial review application under IRPA section 72(1) challenging the Board’s decision denying refugee status"
+            ]
+        }
+    ]
+}

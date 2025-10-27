@@ -1,0 +1,30 @@
+{
+    "Case ID": "086097",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA s. 36(1)(b)"
+            ],
+            "nature_of_offense": [
+                "US wire fraud",
+                "Canadian fraud over $5000"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "family ties",
+                "rehabilitation potential"
+            ],
+            "decision_outcome": [
+                "Equivalency finding upheld",
+                "H&C decision overturned and remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ]
+        }
+    ]
+}

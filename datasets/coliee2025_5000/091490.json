@@ -1,0 +1,78 @@
+{
+    "Case ID": "091490",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with conditions of stay",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "IAD must consider all circumstances"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "broader humanitarian factors ignored"
+            ],
+            "evidence_assessment": [
+                "breaches deemed minor"
+            ],
+            "decision_outcome": [
+                "Application for judicial review allowed; decision set aside; case remitted to IAD for reconsideration"
+            ],
+            "criminality_inadmissibility": [
+                "traffic convictions"
+            ]
+        },
+        {
+            "Crime Name": "Driving without a proper license",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian immigration law"
+            ],
+            "decision_reasoning": [
+                "IAD erred by not considering all circumstances and misinterpreting case law"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether IAD properly applied legal standards regarding 'good behaviour' and considered all case circumstances"
+            ],
+            "cause_of_action": [
+                "Mr. Stephenson breached conditions of his stay due to traffic convictions, leading to reconsideration of his removal order"
+            ],
+            "result_of_case": [
+                "The application for judicial review was allowed, and the case was sent back to the IAD for reconsideration by a different panel"
+            ],
+            "relevant_rule": [
+                "Under Canadian immigration law, to 'be of good behaviour' means abiding by federal, provincial, and municipal statutes"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a narcotic",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "rehabilitation",
+                "family ties",
+                "hardship"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "evidence_considered": [
+                "traffic convictions",
+                "minor traffic offenses"
+            ],
+            "decision_outcome": [
+                "application for judicial review was allowed",
+                "case is remitted for redetermination"
+            ],
+            "applicable_law_or_regulation": [
+                "good behaviour condition"
+            ]
+        }
+    ]
+}

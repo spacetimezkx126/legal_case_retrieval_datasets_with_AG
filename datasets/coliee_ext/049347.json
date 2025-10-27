@@ -1,0 +1,32 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Overstaying visa",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Legal_Issue": "Does the Immigration Appeal Division (IAD) have jurisdiction to consider a constitutional challenge to s. 68(4) of the Immigration and Refugee Protection Act (IRPA)?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Ferri, a permanent resident with a criminal record, had his deportation stay canceled under s. 68(4) after being convicted of heroin trafficking.",
+            "Decision_Outcome": "The Federal Court dismissed Ferri's application, confirming that the IAD does not have jurisdiction to consider constitutional challenges under s. 68(4).",
+            "Cause_Description": "Ferri's new conviction triggered s. 68(4), canceling his stay and terminating his appeal."
+        },
+        {
+            "Crime_Name": "Immigration-related offences under Immigration and Refugee Protection Act",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Does the Immigration Appeal Division (IAD) have jurisdiction to consider a constitutional challenge to s. 68(4) of the Immigration and Refugee Protection Act (IRPA)?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Ferri, a permanent resident with a criminal record, had his deportation stay canceled under s. 68(4) after a narcotics conviction.",
+            "Decision_Outcome": "The Federal Court dismissed Ferri's application, confirming that the IAD lacks jurisdiction to consider constitutional challenges under s. 68(4).",
+            "Procedural_Context": "Ferri served a Notice of Constitutional Question; the IAD ruled against jurisdiction; Ferri sought judicial review."
+        },
+        {
+            "Crime_Name": "Possession of heroin for the purpose of trafficking",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Does the Immigration Appeal Division (IAD) have jurisdiction to consider a constitutional challenge to s. 68(4) of the Immigration and Refugee Protection Act (IRPA)?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Ferri, a permanent resident with a criminal record, was subject to a deportation order stayed by IAD. After being convicted of heroin possession, the Minister invoked s. 68(4) to cancel the stay.",
+            "Decision_Outcome": "The Federal Court dismissed Ferri's application, concluding that s. 68(4) explicitly deprived IAD of jurisdiction to decide constitutional questions, thus upholding the IAD's decision.",
+            "Standard_of_Review": "Correctness standard"
+        }
+    ]
+}

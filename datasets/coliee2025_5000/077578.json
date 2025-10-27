@@ -1,0 +1,30 @@
+{
+    "Case ID": "077578",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "incorrect assessment"
+            ],
+            "documentary_evidence": [
+                "Amnesty International reports",
+                "doctor's certificate",
+                "wife's letter",
+                "human rights organization's letter"
+            ],
+            "evidence_assessment": [
+                "failed to address critical evidence"
+            ],
+            "procedural_fairness": [
+                "erred in law"
+            ],
+            "decision_outcome": [
+                "case remitted to a new panel"
+            ],
+            "review_standard": [
+                "Federal Court reviewed under s. 18.1 of the Federal Court Act"
+            ]
+        }
+    ]
+}

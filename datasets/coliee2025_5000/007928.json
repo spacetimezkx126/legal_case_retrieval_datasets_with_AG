@@ -1,0 +1,62 @@
+{
+    "Case ID": "007928",
+    "Different Crime": [
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "section 167 of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "no credibility issue",
+                "insufficient evidence"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "risk_characterization": [
+                "risk due to sexual orientation"
+            ],
+            "nature_of_offense": [
+                "drug trafficking"
+            ],
+            "serious_criminality": [
+                "loss of permanent resident status"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "insufficient evidence to prove sexual orientation"
+            ],
+            "procedural_fairness": [
+                "no oral hearing required"
+            ],
+            "evidence_sufficiency": [
+                "decision based on insufficient evidence"
+            ],
+            "immigration_status": [
+                "lost permanent resident status"
+            ],
+            "decision_made_by": [
+                "PRRA officer"
+            ],
+            "review_process": [
+                "Federal Court reviewed PRRA decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "section 167 of the Immigration and Refugee Protection Regulations"
+            ]
+        }
+    ]
+}

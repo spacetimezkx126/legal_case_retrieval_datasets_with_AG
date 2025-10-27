@@ -1,0 +1,59 @@
+{
+    "Case ID": "045670",
+    "Different Crime": [
+        {
+            "Crime Name": "Uttering forged identity documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violated principles of procedural fairness",
+                "not adequately inform the applicant of allegations",
+                "meaningful opportunity to respond"
+            ],
+            "charter_rights": [
+                "section 6(1) of the Charter guarantees mobility rights",
+                "Charter rights infringed"
+            ],
+            "decision_outcome": [
+                "court set aside the Minister's decision",
+                "declared section 10.1 invalid"
+            ],
+            "legal_basis": [
+                "section 10.1 of the Canadian Passport Order",
+                "Charter guarantees mobility rights including entering, remaining in, and leaving Canada"
+            ],
+            "misrepresentation_or_fraud": [
+                "convicted of terrorism-related offenses and passport fraud"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "section 10.1 of the Canadian Passport Order",
+                "s.6(1) of the Charter"
+            ],
+            "procedural_fairness": [
+                "violation of procedural fairness"
+            ],
+            "charter_rights_violation": [
+                "mobility rights under s.6(1) of the Charter"
+            ],
+            "risk_to_national_security": [
+                "concerns about national security"
+            ],
+            "judicial_review_result": [
+                "Court invalidated section 10.1 of the Order",
+                "Minister's decision set aside"
+            ],
+            "decision_outcome": [
+                "six months to redraft the provision"
+            ],
+            "evidence_provided": [
+                "undisclosed CSIS reports"
+            ],
+            "reasoning_given": [
+                "principles of procedural fairness were violated"
+            ]
+        }
+    ]
+}

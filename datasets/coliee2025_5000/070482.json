@@ -1,0 +1,46 @@
+{
+    "Case ID": "070482",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "refugee_status": [
+                "Convention refugee",
+                "persons in need of protection"
+            ],
+            "risk_assessment": [
+                "well-founded fear of persecution",
+                "risk to life",
+                "cruel treatment",
+                "torture"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "evidence_assessment": [
+                "lack of objective evidence"
+            ],
+            "decision_reasoning": [
+                "misapplied legal tests",
+                "ignored relevant evidence"
+            ],
+            "relevant_statute": [
+                "section 96",
+                "section 97"
+            ],
+            "application_details": [
+                "past persecution by the SLA and EPDP",
+                "sur place claim"
+            ],
+            "court_ruling": [
+                "unreasonable assessment",
+                "reconsideration by a different panel"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "RPD's decision quashed",
+                "ordered reconsideration"
+            ]
+        }
+    ]
+}

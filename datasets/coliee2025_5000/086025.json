@@ -1,0 +1,105 @@
+{
+    "Case ID": "086025",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "disclosing evidence necessary for meaningful participation",
+                "reliance on undisclosed evidence"
+            ],
+            "criminality_inadmissibility": [
+                "refusal due to criminal inadmissibility"
+            ],
+            "evidence_assessment": [
+                "Institut Philippe-Pinel letter",
+                "CTV report deemed known or accessible"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "disclosure of evidence",
+                "meaningful participation in decision-making",
+                "duty to disclose relevant information"
+            ],
+            "evidence_provided": [
+                "CTV report",
+                "hospital letter"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "H&C application refused"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "refusal based on new evidence"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "Procedural fairness requires disclosure of evidence if it affects meaningful participation in decision-making."
+            ],
+            "evidence_provided": [
+                "hospital letter",
+                "CTV report"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed; no breach of procedural fairness."
+            ],
+            "new_information": [
+                "hospital letter and CTV report"
+            ],
+            "decision_outcome": [
+                "Adewole's H&C application was refused based on new evidence."
+            ],
+            "reasoning_given": [
+                "Adewole was aware of the CTV report and consented to communication between CIC and the hospital. His lawyer failed to respond to CIC's request for updates, and Adewole had a duty to disclose relevant information."
+            ]
+        },
+        {
+            "Crime Name": "Impaired Driving",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "reasonable opportunity to participate meaningfully",
+                "disclosure of evidence affecting response"
+            ],
+            "evidence_presented": [
+                "letter from the Institut Philippe-Pinel",
+                "CTV report"
+            ],
+            "decision_reasoning": [
+                "applicant was aware of evidence",
+                "had opportunity to respond but chose not to"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no breach of procedural fairness found"
+            ],
+            "cause_of_action": [
+                "refusal of H&C application due to criminal convictions and lack of updated information"
+            ],
+            "procedure_followed": [
+                "judicial review arguing procedural unfairness",
+                "Federal Court reviewed under correctness standard"
+            ],
+            "standard_of_review": [
+                "correctness standard"
+            ]
+        }
+    ]
+}

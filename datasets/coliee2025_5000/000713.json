@@ -1,0 +1,35 @@
+{
+    "Case ID": "000713",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "invalidated",
+                "anticipated",
+                "obvious",
+                "improper disclaimers"
+            ],
+            "expert_testimony": [
+                "included"
+            ],
+            "decision_outcome": [
+                "action dismissed",
+                "counterclaim allowed"
+            ],
+            "applicable_statute": [
+                "Patent Act"
+            ],
+            "technical_details": [
+                "alarm system products"
+            ],
+            "evidence_provided": [
+                "prior art",
+                "disclaimers evaluation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Case ID": "005239",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "patent_validity": [
+                "invalid due to anticipation, obviousness, lack of utility"
+            ],
+            "applicable_statute": [
+                "Canadian Patent Law"
+            ],
+            "expert_testimony": [
+                "submitted"
+            ],
+            "evidence_provided": [
+                "WO371 disclosed similar particle sizes",
+                "common knowledge included dosage ranges",
+                "utility claims lacked substantiation",
+                "'about' was narrowly interpreted"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "allowing Apotex to proceed with its generic product"
+            ],
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "nature_of_offense": [
+                "anticipation",
+                "obviousness",
+                "lack of utility"
+            ],
+            "mitigating_factors": [
+                "costs were awarded to Apotex but reduced due to dropped allegations"
+            ]
+        }
+    ]
+}

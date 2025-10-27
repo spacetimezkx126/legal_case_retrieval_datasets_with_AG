@@ -1,0 +1,35 @@
+{
+    "Case ID": "033467",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "unpaid bonuses",
+                "wrongful dismissal damages",
+                "maritime lien"
+            ],
+            "specific_rule_applied": [
+                "damages for wrongful dismissal can be considered 'wages'",
+                "may secure a maritime lien if linked to service on specific ships"
+            ],
+            "decision_reasoning": [
+                "service was directly linked to the ships"
+            ],
+            "evidence_presented": [
+                "Mr. MacKenzie served as Chief Engineer",
+                "unpaid bonuses (disallowed due to lack of evidence)"
+            ],
+            "result_of_case": [
+                "not entitled to bonuses",
+                "entitled to wrongful dismissal damages",
+                "entitled to a maritime lien on the ship LE CHENE No. 1"
+            ],
+            "procedure_followed": [
+                "Prothonotary Lafrenière initially ruled",
+                "appeal to the Federal Court",
+                "Judge Snider reviewed the case de novo"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Case ID": "088744",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient"
+            ],
+            "regulatory_compliance": [
+                "Section 117(9)(d) of the Immigration and Refugee Protection Regulations"
+            ],
+            "misrepresentation_or_fraud": [
+                "spouse failed to disclose marriage"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose marital status",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "reviewed but found insufficient"
+            ],
+            "administrative_decision": [
+                "visa officer's decision"
+            ],
+            "decision_reasonableness": [
+                "justification and transparency provided"
+            ],
+            "application_details": [
+                "spouse failed to disclose marriage before becoming permanent resident"
+            ],
+            "relevant_rule": [
+                "Section 117(9)(d) of Immigration and Refugee Protection Regulations"
+            ],
+            "procedure_followed": [
+                "judicial review application filed"
+            ],
+            "result_of_case": [
+                "court dismissed the application, upheld visa officer's decision"
+            ]
+        }
+    ]
+}

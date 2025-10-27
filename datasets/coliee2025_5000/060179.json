@@ -1,0 +1,50 @@
+{
+    "Case ID": "060179",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act Section 10"
+            ],
+            "misrepresentation_or_fraud": [
+                "false representation",
+                "fraud"
+            ],
+            "evidence_assessment": [
+                "balance of probabilities"
+            ],
+            "decision_outcome": [
+                "summary judgment granted"
+            ],
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "material_misrepresentation": [
+                "concealing criminal charges"
+            ]
+        },
+        {
+            "Crime Name": "Knowingly Concealing Material Circumstances",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 10 of the Citizenship Act"
+            ],
+            "past_criminal_convictions": [
+                "Attempted homicide"
+            ],
+            "standard_of_proof": [
+                "Summary judgment standard"
+            ],
+            "risk_assessment": [
+                "Intentional misleading of authorities"
+            ],
+            "evidence_consideration": [
+                "False information on application"
+            ],
+            "procedural_fairness": [
+                "Motion for summary judgment considered"
+            ]
+        }
+    ]
+}

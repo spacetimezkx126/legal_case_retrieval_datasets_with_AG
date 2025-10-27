@@ -1,0 +1,27 @@
+{
+    "Case ID": "038737",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "implausible",
+                "inconsistencies_in_testimony",
+                "omissions_in_application"
+            ],
+            "procedural_fairness": [
+                "Board's decision-making process"
+            ],
+            "reasonableness_standard": [
+                "standard_of_review_for_Board's_findings"
+            ],
+            "evidence_assessment": [
+                "lacked credible evidence"
+            ],
+            "decision_outcome": [
+                "application_dismissed",
+                "upholding_Board's_decision"
+            ]
+        }
+    ]
+}

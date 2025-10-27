@@ -1,0 +1,30 @@
+{
+    "Case ID": "051020",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "review_standard": [
+                "reasonableness",
+                "independent review"
+            ],
+            "legal_basis": [
+                "Sections 110 and 111 of the IRPA"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case referred back to RAD"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "independent_review_by_rad": [
+                "reconsideration required"
+            ],
+            "procedural_fairness": [
+                "judicial analysis of RAD's legal reasoning"
+            ]
+        }
+    ]
+}

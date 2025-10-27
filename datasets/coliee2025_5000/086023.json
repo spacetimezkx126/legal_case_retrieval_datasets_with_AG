@@ -1,0 +1,36 @@
+{
+    "Case ID": "086023",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid due to lack of utility"
+            ],
+            "utility": [
+                "failed to demonstrate or soundly predict improvement"
+            ],
+            "novelty": [
+                "achieved high optical purity of 99.8%ee, inventive and not obvious"
+            ],
+            "obviousness": [
+                "non-obvious"
+            ],
+            "expert_testimony": [
+                "analyzed through expert testimonies"
+            ],
+            "relevant_rule": [
+                "valid if demonstrates or soundly predicts utility, novel, and non-obvious"
+            ],
+            "cause_of_action": [
+                "AstraZeneca's patent challenged by Apotex"
+            ],
+            "procedure_followed": [
+                "Federal Court analyzed claims, utility, novelty, and obviousness"
+            ],
+            "result_of_case": [
+                "patent declared invalid, infringement claim dismissed, counterclaim granted"
+            ]
+        }
+    ]
+}

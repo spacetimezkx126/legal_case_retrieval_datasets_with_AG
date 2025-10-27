@@ -1,0 +1,57 @@
+{
+    "Case ID": "059651",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Election Procedures Act (EPA)",
+                "Procedural Manual"
+            ],
+            "decision_outcome": [
+                "unlawful obstruction",
+                "failure to call a special election"
+            ],
+            "procedural_fairness": [
+                "judicial review hearings"
+            ],
+            "evidence_provided": [
+                "denied access to financial records",
+                "barred from meetings",
+                "no special election called"
+            ],
+            "applicable_statute": [
+                "Election Procedures Act (EPA)"
+            ],
+            "judicial_authority": [
+                "court ordered"
+            ]
+        },
+        {
+            "Crime Name": "Denial of Access to Information",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Procedural Manual",
+                "Section 8.2.1"
+            ],
+            "procedural_fairness": [
+                "denied full access",
+                "excluded from meetings",
+                "failed to justify restrictions"
+            ],
+            "judicial_review_process": [
+                "Judicial review applications filed",
+                "hearings held",
+                "evidence reviewed",
+                "judgments issued"
+            ],
+            "decision_outcome": [
+                "entitled to meaningful access",
+                "Court ordered Respondents to provide access"
+            ],
+            "burden_of_proof": [
+                "Respondents argued restrictions were necessary"
+            ]
+        }
+    ]
+}

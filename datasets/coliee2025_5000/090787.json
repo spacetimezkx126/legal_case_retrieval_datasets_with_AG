@@ -1,0 +1,55 @@
+{
+    "Case ID": "090787",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "criminality_inadmissibility": [
+                "prior conviction"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "adequate reasons provided"
+            ],
+            "legal_basis": [
+                "IRPA s.24",
+                "IRPR s.183(5)"
+            ]
+        },
+        {
+            "Crime Name": "Impaired Driving",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.24"
+            ],
+            "decision_reasoning": [
+                "risk vs. need factors",
+                "criminal conviction",
+                "failure to leave Canada"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "status expired Dec 31, 2009",
+                "convicted of impaired driving"
+            ],
+            "conclusion_outcome": [
+                "no factual or legal errors",
+                "application dismissed"
+            ],
+            "procedure_followed": [
+                "judicial review assessed Officer's decision"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "TRP refusal upheld"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Case ID": "049418",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal negligence causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "seriousness of crime",
+                "possibility of rehabilitation",
+                "establishment in Canada",
+                "hardship upon removal"
+            ],
+            "criminal_history": [
+                "conviction for criminal negligence causing bodily harm"
+            ],
+            "immigration_status": [
+                "admissibility hearing under IRPA"
+            ],
+            "rehabilitation_or_possibility": [
+                "evidence of rehabilitation considered"
+            ],
+            "family_ties": [],
+            "risk_assessment": [],
+            "legal_basis": [
+                "IRPA s.67(1)(c)"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility for serious criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA section 36(1)"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "hardship",
+                "rehabilitation",
+                "establishment"
+            ],
+            "decision_reasoning": [
+                "weighed evidence",
+                "applied legal standards"
+            ],
+            "result_of_case": [
+                "Court dismissed application",
+                "upholding the removal order"
+            ],
+            "cause_of_action": [
+                "criminal conviction for not disclosing HIV status"
+            ]
+        }
+    ]
+}

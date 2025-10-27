@@ -1,0 +1,57 @@
+{
+    "Case ID": "039457",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration status violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "ss. 27(2)(a)",
+                "19(2)(a.1)(i) of the Immigration Act"
+            ],
+            "immigration_status": [
+                "overstayed visitor status"
+            ],
+            "criminality_inadmissibility": [
+                "U.S. convictions equivalent to Canadian offenses"
+            ],
+            "decision_outcome": [
+                "motion discharged",
+                "application dismissed",
+                "deportation order upheld"
+            ],
+            "standard_of_review": [
+                "judicial review application for a stay of deportation"
+            ]
+        },
+        {
+            "Crime Name": "Conviction for theft (misdemeanour)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Act",
+                "California Penal Code §459",
+                "Canadian Criminal Code §322"
+            ],
+            "decision_reasoning": [
+                "equivalence of foreign convictions to Canadian offences",
+                "irreparable harm",
+                "balance of convenience"
+            ],
+            "application_details": [
+                "judicial review application for a stay of deportation order"
+            ],
+            "procedural_fairness": [
+                "use of Black's Law Dictionary for equivalence determination"
+            ],
+            "evidence_assessment": [
+                "arguments on equivalence, irreparable harm, and public interest"
+            ],
+            "result_of_case": [
+                "deportation order upheld",
+                "motion and application dismissed"
+            ],
+            "conclusion_outcome": [
+                "court dismissed the application"
+            ]
+        }
+    ]
+}

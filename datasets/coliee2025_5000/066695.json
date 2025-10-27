@@ -1,0 +1,32 @@
+{
+    "Case ID": "066695",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unwarranted inferences",
+                "mischaracterized testimony",
+                "overemphasized omissions"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "reasonableness_standard": [
+                "patent unreasonableness standard",
+                "reasonableness simpliciter"
+            ],
+            "risk_of_persecution": [
+                "alleged persecution in Bulgaria"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remitted for redetermination"
+            ],
+            "evidence_assessment": [
+                "flawed credibility assessment",
+                "dismissed plausible explanations"
+            ]
+        }
+    ]
+}

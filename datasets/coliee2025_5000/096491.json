@@ -1,0 +1,46 @@
+{
+    "Case ID": "096491",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "hardship in India",
+                "establishment in Canada"
+            ],
+            "procedural_fairness": [
+                "fair assessment of hardship and establishment"
+            ],
+            "evidence_consideration": [
+                "insufficient establishment evidence"
+            ],
+            "past_criminal_convictions": [],
+            "immigration_status": [
+                "unsuccessful refugee claims"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 114(2) of the Immigration Act"
+            ],
+            "humanitarian_concerns": [
+                "hardship in India"
+            ],
+            "evidence_considered": [
+                "establishment in Canada",
+                "previous claims"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "procedural_fairness": [
+                "assess hardship and establishment fairly"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

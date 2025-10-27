@@ -1,0 +1,30 @@
+{
+    "Case ID": "004078",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "unreasonable demands for corroborative evidence",
+                "breaches of procedural fairness",
+                "credibility findings without an oral hearing"
+            ],
+            "evidence_assessment": [
+                "required more evidence than provided",
+                "ignored some evidence"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "sexual orientation",
+                "perceived Jewish identity"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness standard for questions of law or procedural fairness"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "cases remanded for reconsideration"
+            ]
+        }
+    ]
+}

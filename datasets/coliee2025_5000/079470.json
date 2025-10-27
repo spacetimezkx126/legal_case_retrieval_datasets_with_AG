@@ -1,0 +1,35 @@
+{
+    "Case ID": "079470",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s 96",
+                "s 97",
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "refugee_status": [
+                "Convention refugee",
+                "person in need of protection"
+            ],
+            "decision_reasoning": [
+                "unreasonable decision",
+                "specific targeting post-military involvement"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed",
+                "Board's decision overturned"
+            ],
+            "cause_of_action": [
+                "targeted by MS 13",
+                "refusal to join gang",
+                "involvement in anti-gang operations"
+            ]
+        }
+    ]
+}

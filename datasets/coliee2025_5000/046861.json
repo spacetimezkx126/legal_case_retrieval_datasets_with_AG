@@ -1,0 +1,36 @@
+{
+    "Case ID": "046861",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "s. 56 of the Patent Act",
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "legal_basis": [
+                "s. 56 of the Patent Act"
+            ],
+            "decision_outcome": [
+                "prohibition order issued until both patents expire"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "patent_validity": [
+                "'350 patent",
+                "'351 patent"
+            ],
+            "technical_details": [
+                "lisinopril",
+                "novel use described in the '351 patent"
+            ],
+            "cause_of_action": [
+                "potential patent infringement"
+            ],
+            "nature_of_offense": [
+                "acquired lisinopril before the '350 patent but not the use described in the '351 patent"
+            ]
+        }
+    ]
+}

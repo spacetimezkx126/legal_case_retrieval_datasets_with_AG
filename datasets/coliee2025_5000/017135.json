@@ -1,0 +1,30 @@
+{
+    "Case ID": "017135",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credible evidence"
+            ],
+            "evidence_assessment": [
+                "failure to assess documentary evidence",
+                "confusion of documents",
+                "ignored NIC as credible evidence"
+            ],
+            "procedural_fairness": [
+                "insufficient assessment of the minor's case"
+            ],
+            "risk_of_persecution": [
+                "specific risk of persecution for the minor"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remanded for reevaluation"
+            ],
+            "standard_of_proof": [
+                "objective assessment of all evidence"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Case ID": "074245",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage fraud suspicion",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "No breach of procedural fairness occurred"
+            ],
+            "evidence_assessment": [
+                "Ms. Tovar failed to provide updated evidence or inform authorities about changes in her situation"
+            ],
+            "decision_outcome": [
+                "PRRA decision upheld",
+                "Both challenges dismissed; no certification question granted"
+            ],
+            "immigration_status": [
+                "refugee claim was denied",
+                "PRRA application",
+                "removal order"
+            ]
+        },
+        {
+            "Crime Name": "Immigration-related procedural fairness breach",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "PRRA officer assessment",
+                "removal officer discretion"
+            ],
+            "evidentiary_standard": [
+                "new risks based on evidence provided"
+            ],
+            "administrative_error": [
+                "delay in processing due to applicant inaction"
+            ],
+            "judicial_review_process": [
+                "analyzed procedural fairness in PRRA and removal processes"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "applications dismissed"
+            ]
+        }
+    ]
+}

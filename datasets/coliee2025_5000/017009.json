@@ -1,0 +1,73 @@
+{
+    "Case ID": "017009",
+    "Different Crime": [
+        {
+            "Crime Name": "Possibly Unlawful Employment Concealment from US Authorities.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "concealment of employment details",
+                "financial discrepancies"
+            ],
+            "credibility_assessment": [
+                "incomplete and misleading information",
+                "affecting credibility and reliability of submitted documents"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness found"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "immigration_status": [
+                "U.S. residency details"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Comply with Duty of Candour under IRPA",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "documentary_evidence": [
+                "insufficient documentation",
+                "failed to provide consistent employment records",
+                "inadequate proof of settlement funds"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness found"
+            ],
+            "reasonableness_standard": [
+                "decision was reasonable"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Work Without Authorization in the USA",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "not credible",
+                "discrepancies",
+                "untruthful information"
+            ],
+            "evidentiary_standard": [
+                "insufficient evidence",
+                "incomplete documentation"
+            ],
+            "procedural_fairness": [
+                "adherence to IRPA regulations"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable due to lack of credibility"
+            ],
+            "decision_outcome": [
+                "application denied",
+                "judicial review dismissed"
+            ]
+        }
+    ]
+}

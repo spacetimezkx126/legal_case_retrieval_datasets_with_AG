@@ -1,0 +1,28 @@
+{
+    "Case ID": "005628",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Refusal",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "decision_reasoning": [
+                "insufficient residency",
+                "strict day count without clear reasoning"
+            ],
+            "procedure_followed": [
+                "residency tests",
+                "Federal Court appeal"
+            ],
+            "result_of_case": [
+                "appeal allowed",
+                "case remitted for rehearing",
+                "costs awarded to Yang"
+            ],
+            "relevant_rule": [
+                "1,095 days of physical presence"
+            ]
+        }
+    ]
+}

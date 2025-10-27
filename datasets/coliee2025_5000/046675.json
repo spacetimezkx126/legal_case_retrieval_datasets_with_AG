@@ -1,0 +1,33 @@
+{
+    "Case ID": "046675",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "errors in credibility assessment",
+                "mischaracterized facts",
+                "speculated without evidence",
+                "omitted key documents"
+            ],
+            "procedural_fairness": [
+                "tribunal must assess fairly",
+                "avoiding speculation or bias"
+            ],
+            "decision_reasoning": [
+                "unreasonable findings",
+                "potential bias",
+                "inconsistent reasoning"
+            ],
+            "application_details": [
+                "Bulgarian applicant",
+                "claimed refugee status",
+                "alleged persecution as a Roma in Bulgaria"
+            ],
+            "result_of_case": [
+                "application for judicial review allowed",
+                "case remitted for reevaluation"
+            ]
+        }
+    ]
+}

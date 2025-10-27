@@ -1,0 +1,32 @@
+{
+    "Case ID": "032968",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian law"
+            ],
+            "procedural_fairness": [
+                "amendments to pleadings should only be denied in plain and obvious cases"
+            ],
+            "evidence_provided": [
+                "file record material may be admissible if relevant to factual issues"
+            ],
+            "applicable_statute": [
+                "patent claims"
+            ],
+            "decision_outcome": [
+                "motion to amend pleadings is allowed"
+            ],
+            "technical_details": [
+                "subclasses of patent claims",
+                "pharmacological predictability"
+            ],
+            "expert_testimony": [],
+            "standard_of_review": [
+                "best left for trial"
+            ]
+        }
+    ]
+}

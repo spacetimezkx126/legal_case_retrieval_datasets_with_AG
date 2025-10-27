@@ -1,0 +1,59 @@
+{
+    "Case ID": "054872",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Convention refugees",
+                "well-founded fear of persecution"
+            ],
+            "credibility_assessment": [
+                "doubted political activity",
+                "omissions in police reports and immigration interviews"
+            ],
+            "decision_outcome": [
+                "Board erred",
+                "remanding the case for redetermination"
+            ],
+            "standard_of_review": [
+                "Judicial review application"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "remanding the case for redetermination"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "evidence_provided": [
+                "police reports",
+                "immigration interviews"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "persecution_details": [
+                "political persecution in Sri Lanka"
+            ],
+            "nexus_to_convention_grounds": [
+                "race, religion, nationality, social group, or political opinion"
+            ],
+            "relationship_genuineness": [
+                "credibility assessment"
+            ]
+        }
+    ]
+}

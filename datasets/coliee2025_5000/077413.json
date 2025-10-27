@@ -1,0 +1,157 @@
+{
+    "Case ID": "077413",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of False Documents for Entry",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "lack of credible evidence"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "insufficient evidence"
+            ],
+            "evidence_assessment": [
+                "failed to provide sufficient objective evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "removal order upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of false British passports"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death (alleged)",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "standard of review for immigration decisions is reasonableness"
+            ],
+            "credibility_findings": [
+                "claims were deemed untrustworthy by the Board"
+            ],
+            "evidence_consideration": [
+                "required objective evidence to support new allegations",
+                "failed to provide credible evidence"
+            ],
+            "risk_of_persecution": [
+                "claimed fear of persecution due to threats from a former spouse"
+            ],
+            "reasonableness_of_decision": [
+                "officer's decisions were reasonable"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "H&C applications were assessed"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed the reasonableness of the immigration officer's decisions"
+            ]
+        },
+        {
+            "Crime Name": "Perjury or Fabrication of Evidence (attempted)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 25",
+                "IRPA s. 113"
+            ],
+            "decision_reasoning": [
+                "officer reasonably required objective evidence",
+                "found state protection adequate"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "applicants failed to prove future risks",
+                "required credible new evidence"
+            ],
+            "conclusion_outcome": [
+                "immigration officer's decisions were reasonable"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking (alleged)",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_findings": [
+                "prior credibility issues",
+                "equivocal evidence",
+                "unverified claims"
+            ],
+            "evidence_sufficiency": [
+                "insufficient proof",
+                "objective evidence required"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "best interests of children"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "removal order upheld"
+            ],
+            "state_protection": [
+                "inadequate state protection"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking (alleged)",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "evidentiary_standard": [
+                "credible evidence of risk or hardship"
+            ],
+            "credibility_findings": [
+                "insufficiently credible"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "no undue hardship proven"
+            ],
+            "judicial_review_process": [
+                "application for judicial review dismissed"
+            ],
+            "state_protection": [
+                "no inadequacy of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Possession of Firearms (historical)",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "immigration decisions",
+                "PRRA and H&C applications"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "past risks",
+                "objective evidence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "humanitarian_concerns": [
+                "domestic violence"
+            ],
+            "refugee_protection": [
+                "refugee claim denied"
+            ],
+            "procedural_fairness": [
+                "justification, transparency, and intelligibility"
+            ],
+            "credibility_findings": [
+                "prior credibility issues"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "029475",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "abuse of process",
+                "delay significantly prejudices defense"
+            ],
+            "criminal_history": [
+                "convicted of sexual assault in 1991",
+                "pardoned"
+            ],
+            "standard_of_proof": [
+                "foreign national is inadmissible if linked to terrorism"
+            ],
+            "availability_of_alternative_remedies": [
+                "no action was taken for 22 years"
+            ],
+            "risk_assessment": [
+                "likely impaired his ability to locate witnesses and defend himself"
+            ],
+            "humanitarian_concerns": [
+                "offensive to fair play"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "admissibility_criteria": [
+                "membership in a terrorist organization"
+            ],
+            "procedural_fairness": [
+                "abuse of process",
+                "unreasonable delay",
+                "significant prejudice"
+            ],
+            "decision_outcome": [
+                "admissibility hearing stayed"
+            ],
+            "judicial_review_result": [
+                "delay constituted abuse of process",
+                "hearing permanently stayed"
+            ]
+        }
+    ]
+}

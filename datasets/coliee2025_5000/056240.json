@@ -1,0 +1,78 @@
+{
+    "Case ID": "056240",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of conditions of stay",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA Section 64(2)",
+                "Criminal Code Section 719(3)"
+            ],
+            "decision_outcome": [
+                "Judicial review granted",
+                "Rehearing ordered"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IAD's decision"
+            ],
+            "criminality_inadmissibility": [
+                "Sentence including pre-sentence custody"
+            ],
+            "immigration_status": [
+                "Foreign national"
+            ],
+            "standard_of_review": [
+                "Certification of legal question"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 64(2) of the IRPA",
+                "section 719(3) of the Criminal Code"
+            ],
+            "decision_reasoning": [
+                "pre-sentence custody forms part of the term of imprisonment under IRPA"
+            ],
+            "application_details": [
+                "respondent served 20 months of pre-sentence custody and received an additional 6 months for robbery"
+            ],
+            "procedural_fairness": [
+                "IAD incorrectly excluded pre-sentence custody"
+            ],
+            "relevant_statute": [
+                "IRPA",
+                "Criminal Code"
+            ],
+            "result_of_case": [
+                "judicial review application is granted, and the case is remitted for rehearing"
+            ]
+        },
+        {
+            "Crime Name": "Use of an imitation firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "section 64(2) of the IRPA",
+                "section 719(3) of the Criminal Code"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for rehearing"
+            ],
+            "applicable_laws": [
+                "IRPA",
+                "Criminal Code"
+            ],
+            "standard_of_review": [
+                "incorrect interpretation of IRPA"
+            ],
+            "criminal_history": [
+                "convicted of robbery and use of imitation firearm"
+            ],
+            "procedural_fairness": [
+                "Judicial review of IAD decision"
+            ]
+        }
+    ]
+}

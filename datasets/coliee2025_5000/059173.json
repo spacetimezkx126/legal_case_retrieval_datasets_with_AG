@@ -1,0 +1,30 @@
+{
+    "Case ID": "059173",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "negative substituted evaluation",
+                "failure to inform applicant"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness and procedural fairness analysis"
+            ],
+            "immigration_status": [
+                "permanent residence application rejected"
+            ],
+            "regulatory_compliance": [
+                "s. 76(3) of the Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_assessment": [
+                "concerns about labor market integration"
+            ]
+        }
+    ]
+}

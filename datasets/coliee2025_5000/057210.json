@@ -1,0 +1,24 @@
+{
+    "Case ID": "057210",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicants must accumulate at least 1,095 days of residence in Canada within four years preceding their application."
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Citizenship Judge's decision based on procedural fairness and adequacy of reasons."
+            ],
+            "decision_outcome": [
+                "Decision set aside; case returned for reconsideration."
+            ],
+            "standard_of_review": [
+                "The decision was unreasonable due to unclear reasoning and unresolved issues."
+            ],
+            "document_authenticity": [
+                "Applicant's failure to meet residency requirements and ambiguous documentation."
+            ]
+        }
+    ]
+}

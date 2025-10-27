@@ -1,0 +1,102 @@
+{
+    "Case ID": "021081",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault under subsection 266(b)",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 197 of the IRPA",
+                "sections 64 and 68(4)",
+                "subsection 36(1)"
+            ],
+            "criminal_history": [
+                "convicted of crimes in 1998 and 1999"
+            ],
+            "past_criminal_convictions": [
+                "assault",
+                "mischief"
+            ],
+            "immigration_status": [
+                "breached stay conditions"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed statutory interpretation of IRPA transitional provisions"
+            ]
+        },
+        {
+            "Crime Name": "Mischief under paragraph 430(4)(b)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 197 of IRPA",
+                "sections 64 and 68(4)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed IRPA transitional provisions (sections 196, 197) and their interaction with sections 64 and 68(4)"
+            ],
+            "decision_reasoning": [
+                "Hyde breached his stay by committing mischief and assault, receiving sentences below 6 months. As these offenses do not meet thresholds in sections 64 or 68(4), they do not trigger automatic cancellation or bar IAD jurisdiction."
+            ],
+            "applicable_regulations": [
+                "Section 197 of IRPA",
+                "sections 64 and 68(4)",
+                "IRPA transitional provisions (sections 196, 197)"
+            ],
+            "result_of_case": [
+                "IAD maintains jurisdiction; application dismissed with costs."
+            ],
+            "cause_of_action": [
+                "Hyde breached his stay conditions with minor offenses post-IRPA implementation."
+            ]
+        },
+        {
+            "Crime Name": "Possession of narcotics for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "section 197 of the IRPA",
+                "sections 64 and 68(4)"
+            ],
+            "serious_criminality": [
+                "imprisonment of at least two years",
+                "eight days imprisonment"
+            ],
+            "decision_made_by": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA transitional provisions"
+            ],
+            "criminal_history": [
+                "breached stay conditions",
+                "committed new offenses"
+            ],
+            "decision_outcome": [
+                "IAD retains jurisdiction",
+                "judicial review application dismissed with costs"
+            ]
+        },
+        {
+            "Crime Name": "Possession of an unregistered restricted weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "applicable_laws": [
+                "IRPA sections 197, 64, 68(4), 36(1)",
+                "sections 196 and 197 transitional provisions"
+            ],
+            "decision_outcome": [
+                "IAD retains jurisdiction",
+                "judicial review application dismissed"
+            ],
+            "criminal_history": [
+                "convictions for assault and mischief (sentences <6 months)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed statutory interpretation"
+            ],
+            "standard_of_review": [
+                "statutory interpretation of IRPA transitional provisions"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ]
+        }
+    ]
+}

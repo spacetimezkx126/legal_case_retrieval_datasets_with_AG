@@ -1,0 +1,54 @@
+{
+    "Case ID": "069554",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "marriage not in good faith"
+            ],
+            "immigration_status": [
+                "fiancée immigration application"
+            ],
+            "decision_outcome": [
+                "Federal Court upheld IAD's decision",
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "contradictions in testimonies"
+            ],
+            "legal_basis": [
+                "Canadian Immigration Regulations (1978)"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "marriage not in good faith",
+                "contradictions in testimonies"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "upheld the IAD's decision",
+                "dismissed the application for judicial review"
+            ],
+            "applicable_statute": [
+                "Canadian Immigration Regulations (1978)"
+            ],
+            "claim_nature": [
+                "genuineness of marriage",
+                "visa officer's refusal"
+            ],
+            "standard_of_review": [
+                "manifest unreasonableness"
+            ],
+            "appeal_outcome": [
+                "upheld"
+            ]
+        }
+    ]
+}

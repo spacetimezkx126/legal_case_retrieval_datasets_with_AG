@@ -1,0 +1,47 @@
+{
+    "Case ID": "034615",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 34(1)(f)"
+            ],
+            "criminality_inadmissibility": [
+                "membership in an organization engaging in subversion by force"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "applicant deemed inadmissible"
+            ],
+            "standard_of_review": [
+                "reasonableness of Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Being a member of an organization that there are reasonable grounds to believe has engaged in an act of subversion against any government by force",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "CLA"
+            ],
+            "inadmissibility_criteria": [
+                "subsection 34(1)(f) of IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "involvement_details": [
+                "minimal involvement irrelevant"
+            ]
+        }
+    ]
+}

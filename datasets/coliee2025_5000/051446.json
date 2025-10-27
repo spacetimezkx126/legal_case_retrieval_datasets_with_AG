@@ -1,0 +1,33 @@
+{
+    "Case ID": "051446",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court Act, Section 18"
+            ],
+            "rule_regulation": [
+                "Farm Credit Act",
+                "Rule 1711"
+            ],
+            "application_context": [
+                "class action",
+                "same interest requirement"
+            ],
+            "decision_reasoning": [
+                "F.C.C. operates as commercial lender",
+                "F.D.R.B. acts as mediator",
+                "plaintiffs lack common interests"
+            ],
+            "conclusion_outcome": [
+                "court lacks jurisdiction",
+                "class action requirements unmet"
+            ],
+            "result_of_case": [
+                "defendants' motion to strike granted",
+                "plaintiffs' motion and action dismissed"
+            ]
+        }
+    ]
+}

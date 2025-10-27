@@ -1,0 +1,47 @@
+{
+    "Case ID": "018993",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "H&C application",
+                "establishment in Canada",
+                "family connections"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "No evidence supported the H&C application"
+            ],
+            "decision_outcome": [
+                "Judicial review application dismissed",
+                "no deferral granted"
+            ],
+            "risk_assessment": [
+                "alleged risks",
+                "risks paralleled previous assessments"
+            ]
+        },
+        {
+            "Crime Name": "Making a refugee claim without valid grounds",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "The standard of review for an enforcement officer's decision on deferral requests is reasonableness."
+            ],
+            "procedural_fairness": [
+                "Removal orders must be enforced as soon as reasonably practicable unless specific exceptions apply (e.g., risk of death or inhumane treatment)."
+            ],
+            "evidence_assessment": [
+                "The H&C application lacked evidence and timeliness; risks paralleled previously rejected claims; family support was deemed adequate."
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review application, upholding the officer's decision not to defer removal."
+            ],
+            "review_standard": [
+                "Federal Court reviewed the CBSA officer's decision under the reasonableness standard, analyzing H&C application validity, risk assessment, and child's best interests."
+            ]
+        }
+    ]
+}

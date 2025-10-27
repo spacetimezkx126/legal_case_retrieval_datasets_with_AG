@@ -1,0 +1,29 @@
+{
+    "Case ID": "014647",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada during the previous four years",
+                "physical test",
+                "qualitative test"
+            ],
+            "decision_outcome": [
+                "appeal is allowed",
+                "citizenship approval was overturned"
+            ],
+            "evidence_assessment": [
+                "absent from Canada for significant periods",
+                "maintained ties like property ownership and tax payments",
+                "insufficient evidence of establishing residence"
+            ],
+            "legal_basis": [
+                "s. 5(1) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "interpretation and application of the residency requirement"
+            ]
+        }
+    ]
+}

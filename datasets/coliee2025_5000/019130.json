@@ -1,0 +1,41 @@
+{
+    "Case ID": "019130",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian refugee law"
+            ],
+            "evidence_assessment": [
+                "outdated evidence",
+                "forced sterilization risks"
+            ],
+            "decision_reasoning": [
+                "good faith test",
+                "religious conversion claims",
+                "current Christian practices"
+            ],
+            "application_details": [
+                "refugee status",
+                "fearing forced sterilization",
+                "persecution for converting to Christianity"
+            ],
+            "conclusion_outcome": [
+                "judicial review granted",
+                "remitting the case to a different panel for reconsideration"
+            ],
+            "cause_of_action": [
+                "Board's errors in assessing refugee claim"
+            ],
+            "procedure_followed": [
+                "Huang applied for judicial review",
+                "Federal Court reviewed the Board's decision"
+            ],
+            "result_of_case": [
+                "application was granted",
+                "case sent back to the Board for re-evaluation"
+            ]
+        }
+    ]
+}

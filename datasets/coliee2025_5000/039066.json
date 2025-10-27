@@ -1,0 +1,37 @@
+{
+    "Case ID": "039066",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "decision_reasoning": [
+                "officer failed to properly assess risk",
+                "minimized the best interests of the children",
+                "underestimated the Applicants' establishment in Canada"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "risk",
+                "best interests of children",
+                "establishment in Canada"
+            ],
+            "decision_standard": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "officer's decision annulled",
+                "case sent back for redetermination"
+            ],
+            "cause_of_action": [
+                "insufficient consideration of key factors"
+            ],
+            "procedure_followed": [
+                "judicial review application granted",
+                "analyzing the officer's decision against legal principles"
+            ],
+            "conclusion_outcome": [
+                "officer erred",
+                "decision is quashed"
+            ]
+        }
+    ]
+}

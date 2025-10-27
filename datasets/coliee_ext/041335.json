@@ -1,0 +1,68 @@
+{
+    "Case ID": "041335",
+    "Crimes": [
+        {
+            "Crime_Name": "Human Trafficking",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Domestic violence and potential forced involvement in criminal activities",
+            "Legal_Issue": "Is the state of Albania able and willing to protect the applicant?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Applicant claimed risk of persecution, torture, or cruel treatment due to domestic abuse and threats from ex-husband",
+            "Decision_Outcome": "PRRA officer found state protection adequate"
+        },
+        {
+            "Crime_Name": "Aggravated Assault",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Domestic violence and state protection adequacy",
+            "Legal_Issue": "Is the state capable and willing to protect the applicant?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review of PRRA decision",
+            "Evidence_Assessment": "PRRA officer reviewed laws, NGOs, and state initiatives in Albania"
+        },
+        {
+            "Crime_Name": "Sexual Assault",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Domestic violence-related sexual assault",
+            "Perpetrator_Type": "Ex-husband",
+            "Victim_Status": "Abused woman seeking refugee protection",
+            "Risk_Type": "Risk of persecution and gender-based violence",
+            "Geographic_Context": "Albania"
+        },
+        {
+            "Crime_Name": "Criminal Harassment",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Domestic violence and state protection adequacy",
+            "Legal_Issue": "Capability of Albanian state to protect applicant upon return",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Standard_of_Review": "Reasonableness",
+            "Key_Evidence_Considered": "Available resources for abused women, police corruption"
+        },
+        {
+            "Crime_Name": "Forcible Confinement",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Grounds_for_Claim": "Risk of persecution, torture, or harm due to domestic abuse",
+            "Legal_Framework": "International human rights standards and IRPA",
+            "State_Protection_Adequacy": "Assessed as adequate despite systemic issues",
+            "Risk_Nature": "Gender-based violence and lack of effective protection",
+            "Claimant_Status": "Refugee claimant fearing return to Albania"
+        },
+        {
+            "Crime_Name": "Drug Trafficking",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Accusation": "Potential forced involvement in drug trafficking by ex-husband",
+            "Risk_Nexus": "Connection between domestic abuse and criminal exploitation",
+            "Legal_Standard": "Claimant must rebut presumption of state protection",
+            "Evidence_Type": "Country condition reports, NGO assessments, legal framework in Albania",
+            "Risk_Persecution": "Fear of being drawn into criminal activities upon return"
+        },
+        {
+            "Crime_Name": "Uttering Threats",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Threats from ex-husband related to domestic abuse",
+            "Legal_Issue": "Adequacy of state protection in Albania against threats",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Review_Standard": "Reasonableness simpliciter",
+            "Cause_Description": "Fear of persecution and harassment upon return to Albania"
+        }
+    ]
+}

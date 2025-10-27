@@ -1,0 +1,77 @@
+{
+    "Case ID": "092379",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to report change of address",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Administrative non-compliance",
+            "Legal_Issue": "Breach of duty of procedural fairness",
+            "Governing_Law": "Immigration Appeal Division Rules, SOR/2002-230",
+            "Application_Facts": "Respondent failed to report change of address and employment; IAD found some breaches serious but extended stay",
+            "Decision_Outcome": "Stay of removal extended despite non-compliance"
+        },
+        {
+            "Crime_Name": "Uttering threats",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal inadmissibility",
+            "Sub_Crime_Type": "Threats to safety or security",
+            "Perpetrator_Type": "Non-citizen subject to removal",
+            "Victim_Status": "Undisclosed",
+            "Location_of_Incident": "Canada"
+        },
+        {
+            "Crime_Name": "Traffic violations",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Regulatory non-compliance",
+            "Legal_Issue": "Breach of duty of procedural fairness",
+            "Governing_Law": "Immigration Appeal Division Rules, SOR/2002-230",
+            "Application_Facts": "Respondent alleged to have breached conditions of stay; IAD extended stay without clear rationale",
+            "Decision_Outcome": "Stay of removal extended despite findings of non-compliance"
+        },
+        {
+            "Crime_Name": "Robbery",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal inadmissibility",
+            "Sub_Crime_Type": "Violent property crime",
+            "Perpetrator_Type": "Permanent resident with criminal convictions",
+            "Prior_Criminality": "Multiple convictions including robbery",
+            "Criminality_Severity": "Serious"
+        },
+        {
+            "Crime_Name": "Possession of cannabis",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Breach of duty of procedural fairness",
+            "Governing_Law": "Immigration Appeal Division Rules",
+            "Procedural_Stage": "Judicial review under IRPA s. 72(1)",
+            "Evidence_Assessment": "Findings of breach not aligned with decision to extend stay",
+            "Decision_Outcome": "IAD decision overturned due to inadequate reasons"
+        },
+        {
+            "Crime_Name": "Assault with a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Criminal inadmissibility",
+            "Sub_Crime_Type": "Aggravated assault",
+            "Perpetrator_Type": "Non-compliant permanent resident",
+            "Risk_Assessment": "Public safety concern",
+            "Credibility_Assessment": "Non-compliance with reporting conditions"
+        },
+        {
+            "Crime_Name": "Mischief over $5000",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Adequacy of reasons in administrative decision-making",
+            "Governing_Law": "Immigration Appeal Division Rules, SOR/2002-230",
+            "Procedural_Stage": "Judicial review",
+            "Review_Standard": "Correctness",
+            "Outcome": "Decision set aside and remitted to new panel"
+        },
+        {
+            "Crime_Name": "Tax evasion suspicions",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Procedural fairness in immigration decisions",
+            "Governing_Law": "Immigration Appeal Division Rules, subsection 54(1)",
+            "Procedural_Stage": "Judicial review under IRPA s. 72(1)",
+            "Cause_Description": "Respondent breached conditions of stay order, including potential tax law non-compliance",
+            "Outcome": "IAD decision referred to different panel for redetermination"
+        }
+    ]
+}

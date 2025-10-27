@@ -1,0 +1,59 @@
+{
+    "Case ID": "041201",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "failure to establish identity",
+                "acceptable identification",
+                "reasonable explanation for absence"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in dates",
+                "lack of corroborating evidence",
+                "insufficient knowledge"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "applicant's refugee claim was rejected"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "Board's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Section 106 of IRPA"
+            ],
+            "identity_documents": [
+                "lack of credible documents",
+                "inconsistencies in dates"
+            ],
+            "judicial_authority": [
+                "Board",
+                "Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "material_misrepresentation": [
+                "inability to prove identity"
+            ],
+            "expert_testimony": [
+                "insufficient knowledge about UDPS"
+            ],
+            "procedural_fairness": [
+                "credibility assessment"
+            ]
+        }
+    ]
+}

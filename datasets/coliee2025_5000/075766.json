@@ -1,0 +1,34 @@
+{
+    "Case ID": "075766",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of false documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "document_authenticity": [
+                "inauthenticity",
+                "anomalies",
+                "inconsistencies",
+                "tampering signs",
+                "mismatched professions",
+                "erased signatures",
+                "stapled photographs"
+            ],
+            "credibility_assessment": [
+                "numerous inconsistencies",
+                "justified dismissing the documents' probative value"
+            ],
+            "refugee_status_eligibility": [
+                "claiming refugee status"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no question certified"
+            ],
+            "legal_basis": [
+                "RPD can reject documents if anomalies are evident",
+                "must provide clear reasoning",
+                "expert evidence is not mandatory"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Case ID": "030711",
+    "Different Crime": [
+        {
+            "Crime Name": "Engaging in organized criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breached procedural fairness"
+            ],
+            "risk_assessment": [
+                "risked public safety"
+            ],
+            "decision_outcome": [
+                "court granted a stay"
+            ],
+            "standard_of_review": [
+                "tripartite test for interim injunctions"
+            ],
+            "criminality_inadmissibility": [
+                "history of organized crime and danger designation"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lacking procedural fairness"
+            ],
+            "serious_issue": [
+                "tripartite test for interim injunctions includes serious issues"
+            ],
+            "irreparable_harm": [
+                "risking irreparable harm if conditions are relaxed"
+            ],
+            "balance_of_convenience": [
+                "tripartite test for interim injunctions includes balance of convenience"
+            ],
+            "risk_assessment": [
+                "Sittampalam is a public danger"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act requires reasons for decisions and procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_reasoning": [
+                "altered release conditions without requested changes or providing reasons"
+            ],
+            "standard_of_review": [
+                "serious issue, irreparable harm, and balance of convenience"
+            ],
+            "conclusion_outcome": [
+                "order stayed due to procedural unfairness"
+            ],
+            "result_of_case": [
+                "Member's order stayed pending further judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a narcotic",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breached procedural fairness"
+            ],
+            "decision_made_by": [
+                "Member Harnum"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "criminal_history": [
+                "Mr. Sittampalam's criminal history"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "stay of Member Harnum's order",
+                "preserving stricter release conditions"
+            ],
+            "decision_outcome": [
+                "court granted the stay"
+            ]
+        }
+    ]
+}

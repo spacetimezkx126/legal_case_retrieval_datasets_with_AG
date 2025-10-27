@@ -1,0 +1,84 @@
+{
+    "Case ID": "008771",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-removal risk assessment refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "internal_flight_alternative": [
+                "Mumbai was a viable IFA",
+                "evidence showed barriers to cancer treatment there"
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging PRRA decision"
+            ],
+            "risk_assessment": [
+                "Refusal of pre-removal risk assessment based on an unreasonable IFA determination"
+            ],
+            "decision_outcome": [
+                "PRRA decision remitted for reconsideration by a different officer"
+            ],
+            "standard_of_review": [
+                "The Federal Court granted judicial review, finding the IFA conclusion unreasonable due to medical barriers"
+            ]
+        },
+        {
+            "Crime Name": "Unreasonable internal flight alternative determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "unreasonable",
+                "Mumbai",
+                "barriers to specialized cancer treatment"
+            ],
+            "risk_of_persecution": [
+                "claimed risk of persecution in India"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed procedural fairness"
+            ],
+            "reasonableness_standard": [
+                "IFA finding was unreasonable",
+                "no serious possibility of persecution",
+                "not unreasonable for claimant to seek refuge"
+            ],
+            "country_conditions": [
+                "lack of adequate medical care in India"
+            ],
+            "specific_vulnerabilities": [
+                "daughter's medical needs",
+                "specialized cancer treatment for daughter with leukemia"
+            ],
+            "decision_outcome": [
+                "PRRA decision overturned",
+                "Court granted judicial review",
+                "remitting the PRRA for reconsideration by a different officer"
+            ]
+        },
+        {
+            "Crime Name": "Failure to consider best interests of child",
+            "Crime Type": "others",
+            "best_interests_of_children": [
+                "best interests of the child"
+            ],
+            "decision_reasonableness": [
+                "officer's internal flight alternative finding was unreasonable"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act",
+                "UN Convention on the Rights of the Child"
+            ],
+            "evidence_consideration": [
+                "child's medical needs",
+                "adequate treatment was available in Mumbai",
+                "significant barriers to cancer treatment in India"
+            ],
+            "procedure_followed": [
+                "Judicial review application argued procedural fairness breach and inadequate consideration of the child's best interests",
+                "Federal Court reviewed the decision under reasonableness and correctness standards"
+            ],
+            "result_details": [
+                "Court allowed judicial review, remitting the PRRA for reconsideration by a different officer",
+                "No costs awarded"
+            ]
+        }
+    ]
+}

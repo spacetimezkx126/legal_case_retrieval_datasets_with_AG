@@ -1,0 +1,111 @@
+{
+    "Case ID": "003184",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "doubts about marriage authenticity",
+                "perceived lack of intent to reside permanently"
+            ],
+            "evidence_assessment": [
+                "ignoring relevant evidence",
+                "unreasonable inferences",
+                "insufficient evidence of ongoing communication"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "set aside original decision",
+                "ordered reconsideration by a new panel"
+            ],
+            "family_class_considerations": [
+                "spouse who marries primarily for immigration purposes is excluded from the family class"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage authenticity"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "set aside"
+            ],
+            "procedural_fairness": [
+                "errors in evidence interpretation",
+                "unreasonable inferences"
+            ],
+            "evidence_provided": [
+                "consistent testimony",
+                "documentation"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "relationship_genuineness": [
+                "perceived lack of intent to reside permanently",
+                "haste in marriage"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inadequate reasoning",
+                "unreasonable inferences"
+            ],
+            "evidence_consideration": [
+                "ignored relevant evidence",
+                "insufficient basis for conclusions"
+            ],
+            "procedural_fairness": [
+                "errors in credibility assessment"
+            ],
+            "standard_of_proof": [
+                "not explicitly mentioned but implied through unreasonable inferences"
+            ],
+            "immigration_status": [
+                "sponsorship application denied"
+            ],
+            "applicant_characteristics": [
+                "provided consistent testimony and documentation"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "inadequate reasoning",
+                "ignored relevant evidence",
+                "unreasonable inferences"
+            ],
+            "procedural_fairness": [
+                "errors in evidence interpretation",
+                "judicial review identified flaws"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remanded for redetermination"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed Board's decision"
+            ],
+            "evidence_considered": [
+                "consistent testimony",
+                "documentation provided by applicant"
+            ],
+            "claimant_burden": [
+                "perceived lack of intent to reside permanently"
+            ],
+            "appeal_process": [
+                "case remitted to a different panel for reconsideration"
+            ]
+        }
+    ]
+}

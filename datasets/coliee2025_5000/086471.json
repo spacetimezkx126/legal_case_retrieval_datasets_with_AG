@@ -1,0 +1,62 @@
+{
+    "Case ID": "086471",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "granted judicial review",
+                "remanded for redetermination"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "risk_characterization": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "gang extortion and threats"
+            ],
+            "nexus_to_convention_grounds": [
+                "failure of state protection"
+            ],
+            "relationship_genuineness": [
+                "credible testimony"
+            ],
+            "appeal_outcome": [
+                "redetermination by a new Board panel"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "risk_of_persecution": [
+                "persecution by gang"
+            ],
+            "specific_threats_or_incidents": [
+                "targeted after reporting the gang",
+                "facing reprisals and threats"
+            ],
+            "credibility_findings": [
+                "credible testimony"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "reasonableness_of_decision": [
+                "Board erred in focusing on generalized risks"
+            ],
+            "refugee_status_nexus": [
+                "personalized risk of persecution linked to Convention grounds"
+            ]
+        }
+    ]
+}

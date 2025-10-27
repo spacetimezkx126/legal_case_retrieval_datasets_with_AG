@@ -1,0 +1,33 @@
+{
+    "Case ID": "010352",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "no reasonable cause of action"
+            ],
+            "application_details": [
+                "lacks specific details",
+                "identifies no clear defendants",
+                "uses vague language",
+                "claims protection under numerous laws without basis",
+                "requests damages unsupported by facts"
+            ],
+            "procedure_followed": [
+                "Crown moved to strike the claim under Rule 221",
+                "Court reviewed and found it lacking"
+            ],
+            "result_of_case": [
+                "Claim was struck",
+                "costs awarded to the Defendant"
+            ],
+            "relevant_rule": [
+                "Rule 221"
+            ],
+            "decision_reasoning": [
+                "Statement of Claim is vexatious and embarrassing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Case ID": "022346",
+    "Different Crime": [
+        {
+            "Crime Name": "Dismissal of Michel Vennat",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "duty to act fairly",
+                "giving reasons for dissatisfaction",
+                "allowing meaningful opportunity to respond",
+                "conducting personalized inquiry",
+                "providing sufficient reasoning in decision"
+            ],
+            "decision_reasoning": [
+                "limited time to respond",
+                "lacked personalized inquiry",
+                "incorrect standard of proof",
+                "decision lacked adequate reasoning"
+            ],
+            "cause_of_action": [
+                "Judicial review application"
+            ],
+            "procedure_followed": [
+                "judicial review process",
+                "analysis of procedural fairness",
+                "applicable legal standards"
+            ],
+            "result_of_case": [
+                "orders of suspension and dismissal quashed",
+                "case remanded to the Governor in Council"
+            ],
+            "standard_of_proof": [
+                "incorrect standard of proof"
+            ],
+            "decision_conclusion": [
+                "Governor in Council did not fulfill duty to act fairly"
+            ]
+        }
+    ]
+}

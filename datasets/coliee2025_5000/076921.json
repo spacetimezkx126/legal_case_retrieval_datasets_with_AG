@@ -1,0 +1,66 @@
+{
+    "Case ID": "076921",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized crime offence",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "decision_outcome": [
+                "denial of transfer request"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "conviction of international drug trafficking",
+                "premeditation",
+                "lack of cooperation with authorities",
+                "no evidence of severed ties with conspirators"
+            ],
+            "serious_criminality": [
+                "international drug trafficking"
+            ],
+            "risk_characterization": [
+                "significant risk of committing organized crime offence in Canada"
+            ],
+            "relationship_genuineness": [
+                "no evidence of severed ties with conspirators"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "transfer of sentence from Costa Rica to Canada"
+            ]
+        },
+        {
+            "Crime Name": "International drug trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "risk_assessment": [
+                "significant risk of committing organized crime offenses"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "criminal_history": [
+                "conviction for international drug trafficking"
+            ],
+            "decision_outcome": [
+                "transfer request denied",
+                "application for judicial review dismissed"
+            ],
+            "evidence_considered": [
+                "Applicant's conviction",
+                "CSC's contrary assessment"
+            ]
+        }
+    ]
+}

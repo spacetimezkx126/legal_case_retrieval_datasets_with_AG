@@ -1,0 +1,42 @@
+{
+    "Case ID": "080457",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Law",
+                "Canadian Patent Act"
+            ],
+            "patent_validity": [
+                "utility",
+                "non-obviousness",
+                "sufficient disclosure"
+            ],
+            "expert_testimony": [
+                "considered"
+            ],
+            "decision_outcome": [
+                "Novartis's patent was upheld for compound claims"
+            ],
+            "procedural_fairness": [
+                "Federal Court analyzed Teva's allegations"
+            ],
+            "applicable_statute": [
+                "utility",
+                "obviousness",
+                "sufficiency"
+            ],
+            "technical_details": [
+                "compound claims were valid",
+                "use claims lacked demonstrated utility"
+            ],
+            "standard_of_review": [
+                "significant inventive steps were involved"
+            ],
+            "cause_of_action": [
+                "Teva sought to market a generic version of Novartis's patented drug EXJADE"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Case ID": "065756",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration bond forfeiture offense",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness",
+                "correctness"
+            ],
+            "evidence_assessment": [
+                "hearsay evidence",
+                "contradictory affidavit evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "lacked proper exercise of discretion",
+                "remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "failed to exercise discretion regarding forfeiture amount",
+                "inadequate reasoning"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged breach of release conditions"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with release conditions",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "Ms. Lee's absence during one visit",
+                "conflicting evidence",
+                "relied on hearsay",
+                "no rational explanation for forfeiture amount"
+            ],
+            "discretion_exercise": [
+                "officers retain discretion even upon finding a breach"
+            ],
+            "evidence_assessment": [
+                "hearsay",
+                "contradictory evidence"
+            ],
+            "result_of_case": [
+                "Application granted",
+                "case remanded for redetermination"
+            ],
+            "relevant_rule": [
+                "Forfeiture of $5,000 deposit due to alleged breach of release conditions"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Operations Manager's decision based on disputed facts and procedural fairness"
+            ]
+        }
+    ]
+}

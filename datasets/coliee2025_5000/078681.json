@@ -1,0 +1,46 @@
+{
+    "Case ID": "078681",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of natural justice",
+                "undisclosed extrinsic evidence"
+            ],
+            "evidence_assessment": [
+                "anonymous letter",
+                "consistent interview responses",
+                "supporting documents"
+            ],
+            "decision_outcome": [
+                "set aside for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Extrinsic Evidence",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach_of_fairness"
+            ],
+            "evidence_consideration": [
+                "non-disclosure",
+                "anonymous_letter"
+            ],
+            "decision_reasonableness": [
+                "set_aside_for_redetermination"
+            ],
+            "procedure_followed": [
+                "judicial_review_application",
+                "federal_court_review"
+            ],
+            "result_of_case": [
+                "decision_overturned",
+                "reconsideration_with_new_officer"
+            ]
+        }
+    ]
+}

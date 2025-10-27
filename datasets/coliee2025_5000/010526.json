@@ -1,0 +1,31 @@
+{
+    "Case ID": "010526",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "doubted credibility",
+                "lack of corroborative evidence",
+                "misinterpreted documentary evidence"
+            ],
+            "reasonableness_standard": [
+                "credibility findings reviewed under reasonableness standard"
+            ],
+            "documentary_evidence": [
+                "lack of corroborative evidence",
+                "misinterpreted documentary evidence"
+            ],
+            "evidence_assessment": [
+                "failed to identify specific inconsistencies or implausibilities"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remitted for re-determination"
+            ],
+            "risk_of_persecution": [
+                "persecution for homosexuality in Oman"
+            ]
+        }
+    ]
+}

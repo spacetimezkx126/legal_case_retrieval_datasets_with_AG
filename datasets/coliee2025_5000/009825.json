@@ -1,0 +1,30 @@
+{
+    "Case ID": "009825",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Removal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "reliance on undisclosed extrinsic evidence"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for other aspects"
+            ],
+            "evidence_assessment": [
+                "use of internet-based evidence",
+                "non-disclosure to applicants"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "medical concerns",
+                "deferral of removal request"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "officer’s decision set aside",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

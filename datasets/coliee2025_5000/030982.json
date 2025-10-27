@@ -1,0 +1,28 @@
+{
+    "Case ID": "030982",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "evidence_implausibility"
+            ],
+            "gender_guidelines": [
+                "considered_but_not_used_as_corroboration"
+            ],
+            "evidence_assessment": [
+                "insufficient_proof_of_persecution"
+            ],
+            "reasonableness_standard": [
+                "Board_decision_found_reasonable"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "burden_of_proof": [
+                "not_met_by_applicant"
+            ]
+        }
+    ]
+}

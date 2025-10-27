@@ -1,0 +1,60 @@
+{
+    "Case ID": "020418",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "serious_criminality": [
+                "aggravated assault",
+                "attempted murder",
+                "extortion"
+            ],
+            "decision_outcome": [
+                "judicial review leave denied",
+                "application dismissed"
+            ],
+            "procedural_fairness": [
+                "waiting for charge disposition"
+            ],
+            "nature_of_offense": [
+                "punishable by 10+ years imprisonment"
+            ],
+            "judicial_authority": [
+                "Federal Court, Trial Division"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration Act, R.S.C. 1985"
+            ],
+            "criminal_history": [
+                "pending criminal charges",
+                "aggravated assault",
+                "attempted murder",
+                "extortion"
+            ],
+            "procedural_fairness": [
+                "delay processing",
+                "disposition of charges before ruling"
+            ],
+            "serious_issue": [
+                "reasonably believed to commit serious offenses",
+                "convicted of such offenses"
+            ],
+            "risk_assessment": [
+                "maximum sentences indicate serious crimes"
+            ],
+            "immigration_status": [
+                "immigration application"
+            ],
+            "humanitarian_concerns": [
+                "compel the Minister to process"
+            ]
+        }
+    ]
+}

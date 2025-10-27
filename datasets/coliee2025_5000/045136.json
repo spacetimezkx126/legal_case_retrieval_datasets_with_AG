@@ -1,0 +1,83 @@
+{
+    "Case ID": "045136",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with residency obligations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirements"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in travel records, employment details, financial documents"
+            ],
+            "evidence_assessment": [
+                "conflicting evidence",
+                "bank statements and veterinary visits overlooked"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "considered as grounds for appeal"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remanded for redetermination"
+            ],
+            "procedural_fairness": [
+                "patently unreasonable finding",
+                "ignoring relevant evidence"
+            ]
+        },
+        {
+            "Crime Name": "Loan sharking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "residency_requirements": [
+                "non-compliance with residency obligations"
+            ],
+            "evidence_provided": [
+                "bank statements",
+                "vet visits"
+            ],
+            "decision_outcome": [
+                "case remanded for redetermination"
+            ],
+            "judicial_authority": [
+                "Judicial review of the Board's decision"
+            ],
+            "appeal_outcome": [
+                "Application allowed"
+            ],
+            "material_misrepresentation": [],
+            "serious_criminality": [],
+            "balance_of_convenience": [],
+            "irreparable_harm": [],
+            "reasonableness_standard": [
+                "patently unreasonable finding"
+            ],
+            "public_interest": [],
+            "relationship_genuineness": [],
+            "risk_characterization": [],
+            "specific_targeting": [],
+            "nexus_to_convention_grounds": [],
+            "personalized_vs_generalized_risk": [],
+            "materiality_of_misrepresentation": [],
+            "persecution_details": [],
+            "serious_non_political_crime": [],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_analysis": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "cause_of_action": [
+                "losing permanent resident status"
+            ],
+            "nature_of_offense": [
+                "loan sharking"
+            ],
+            "mitigating_factors": [],
+            "confusion_likelihood": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Case ID": "016651",
+    "Different Crime": [
+        {
+            "Crime Name": "Police Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "s. 97(1)(b)",
+                "s. 108(4)"
+            ],
+            "judicial_authority": [
+                "Board",
+                "judge"
+            ],
+            "risk_characterization": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "persecution_details": [
+                "extortion",
+                "kidnapping by Mexican police"
+            ],
+            "state_protection": [
+                "state protection in Mexico"
+            ],
+            "reasonableness_standard": [
+                "unreasonable decision"
+            ],
+            "appeal_outcome": [
+                "application allowed",
+                "matter remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "state_protection_analysis": [
+                "widespread police corruption in Mexico",
+                "Mexico provides state protection"
+            ],
+            "risk_of_persecution": [
+                "kidnapping and extortion by Mexican police"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "kidnapping and extortion"
+            ],
+            "legal_basis": [
+                "s. 97(1)(b) of the Immigration and Refugee Protection Act",
+                "section 108(4) analysis"
+            ]
+        }
+    ]
+}

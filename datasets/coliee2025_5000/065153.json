@@ -1,0 +1,27 @@
+{
+    "Case ID": "065153",
+    "Different Crime": [
+        {
+            "Crime Name": "Security Certificate Detention Review",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "neutralized"
+            ],
+            "decision_outcome": [
+                "conditional release with strict preventive conditions"
+            ],
+            "evidence_quality": [
+                "polygraph evidence deemed unreliable"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe"
+            ],
+            "balance_of_interests": [
+                "balancing national security concerns with individual rights"
+            ],
+            "release_conditions": [
+                "curfews, restricted communication, electronic surveillance"
+            ]
+        }
+    ]
+}

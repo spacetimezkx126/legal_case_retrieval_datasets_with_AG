@@ -1,0 +1,45 @@
+{
+    "Case ID": "084929",
+    "Different Crime": [
+        {
+            "Crime Name": "Indirect Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ],
+            "misrepresentation_or_fraud": [
+                "indirect misrepresentation",
+                "withholding material facts"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "dismissed humanitarian/compassionate grounds"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissible for indirectly misrepresenting material facts"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA s. 40(1)(a)"
+            ],
+            "material_misrepresentation": [
+                "Husband's misrepresentation about his marital status and family composition during immigration application."
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division",
+                "Judicial review of the Immigration Appeal Division's decision"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "certified question regarding interpretation of IRPA s. 40(1)(a)"
+            ]
+        }
+    ]
+}

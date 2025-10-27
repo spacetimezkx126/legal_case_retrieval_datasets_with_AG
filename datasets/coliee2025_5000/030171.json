@@ -1,0 +1,27 @@
+{
+    "Case ID": "030171",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Law Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian law"
+            ],
+            "patent_validity": [
+                "determined solely by its issued terms"
+            ],
+            "procedural_fairness": [
+                "representations made during patent prosecution cannot alter the patent's scope or create estoppel"
+            ],
+            "appeal_outcome": [
+                "allowed the appeal, striking out the paragraphs"
+            ],
+            "decision_outcome": [
+                "Paragraphs relying on patent prosecution history for estoppel were struck out"
+            ],
+            "cause_of_action": [
+                "Plaintiffs sought to strike out paragraphs in defendants' defense alleging estoppel based on patent prosecution statements"
+            ]
+        }
+    ]
+}

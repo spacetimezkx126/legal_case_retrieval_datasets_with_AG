@@ -1,0 +1,26 @@
+{
+    "Case ID": "084418",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to meet residency requirements under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "permanent residents must be physically present in Canada for at least 730 days in a five-year period or employed full-time by a Canadian business outside Canada"
+            ],
+            "evidence_assessment": [
+                "Ambat spent only 312 days in Canada during the relevant period and worked in the UAE",
+                "claim of employment by a Canadian business was rejected as the company lacked ongoing operations in Canada"
+            ],
+            "decision_outcome": [
+                "Ambat failed to meet the residency requirements",
+                "the IAD's decision was reasonable and upheld"
+            ],
+            "standard_of_review": [
+                "Judicial review assessed whether the IAD erred in law or fact regarding residency requirements and procedural fairness"
+            ],
+            "procedural_fairness": [
+                "assessed"
+            ]
+        }
+    ]
+}

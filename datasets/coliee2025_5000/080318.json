@@ -1,0 +1,79 @@
+{
+    "Case ID": "080318",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining a passport by false pretenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "more likely than not",
+                "ignoring instability and potential future persecution"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Application granted; case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "refugee_status_eligibility": [
+                "fled Bangladesh due to political persecution fears"
+            ],
+            "state_protection_analysis": [
+                "new government would protect him"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "persecution",
+                "instability",
+                "potential future persecution"
+            ],
+            "balance_of_convenience": [
+                "balance of probabilities"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "case remitted for reconsideration"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Judicial review"
+            ],
+            "claim_nature": [
+                "political activities"
+            ],
+            "standard_of_review": [
+                "speculation about political changes"
+            ],
+            "appeal_outcome": [
+                "remitted for reconsideration by a different panel"
+            ]
+        },
+        {
+            "Crime Name": "Possession of illegal weapons",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "risk_assessment": [
+                "errors in evaluating risk and government stability"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Case remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "Judicial review of RPD's decision"
+            ],
+            "immigration_status": [
+                "fled Bangladesh"
+            ],
+            "court_ruling": [
+                "application is granted"
+            ]
+        }
+    ]
+}

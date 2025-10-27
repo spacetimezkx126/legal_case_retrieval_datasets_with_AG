@@ -1,0 +1,94 @@
+{
+    "Case ID": "024181",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "applicable_statute": [
+                "section 97 of IRPA"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "risk_characterization": [
+                "financial motivation",
+                "not distinct from others in Mexico"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "cause_of_action": [
+                "extortion",
+                "kidnapping threats linked to family wealth"
+            ],
+            "state_protection": [
+                "refugee protection"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "section 97 of IRPA"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk for wealthy Mexicans"
+            ],
+            "risk_assessment": [
+                "repeated criminal victimization in Mexico"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "country_conditions": [
+                "criminal victimization in Mexico"
+            ],
+            "refugee_status_nexus": [
+                " Applicants were victims of kidnapping and extortion"
+            ]
+        },
+        {
+            "Crime Name": "Break and Enter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 97 of IRPA"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "generalized risks"
+            ],
+            "decision_reasoning": [
+                "Board's decision was reasonable",
+                "supported by applicable case law"
+            ],
+            "cause_of_action": [
+                "extortion",
+                "kidnapping threats"
+            ],
+            "procedure_followed": [
+                "Judicial review application"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "refugee_status": [
+                "denial of refugee status"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "claim_nature": [
+                "refugee protection"
+            ],
+            "court_ruling": [
+                "no error found"
+            ]
+        }
+    ]
+}

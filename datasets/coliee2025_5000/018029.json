@@ -1,0 +1,82 @@
+{
+    "Case ID": "018029",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Aeronautics Act"
+            ],
+            "decision_outcome": [
+                "TSC cancellation upheld"
+            ],
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "correctness (for procedural fairness)"
+            ],
+            "nature_of_offense": [
+                "fraud",
+                "public mischief"
+            ],
+            "judicial_authority": [
+                "court dismissed application"
+            ],
+            "material_misrepresentation": [
+                "omitted key details about crimes"
+            ]
+        },
+        {
+            "Crime Name": "Public Mischief",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "fraud",
+                "public mischief"
+            ],
+            "procedural_fairness": [
+                "opportunity to respond",
+                "Advisory Body review"
+            ],
+            "risk_assessment": [
+                "security risk",
+                "trustworthiness"
+            ],
+            "standard_of_proof": [
+                "patently unreasonable",
+                "procedural fairness correctness"
+            ],
+            "applicant_involvement": [
+                "omitted key details"
+            ],
+            "immigration_status": [],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Public Mischief",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Aeronautics Act"
+            ],
+            "standard_of_review": [
+                "patently unreasonable",
+                "correctness"
+            ],
+            "procedural_fairness": [
+                "complied with procedural fairness standards"
+            ],
+            "security_concerns": [
+                "trustworthiness",
+                "risk to airport security"
+            ],
+            "decision_outcome": [
+                "TSC cancellation upheld"
+            ],
+            "criminal_history": [
+                "conviction for fraud",
+                "conviction for public mischief"
+            ]
+        }
+    ]
+}

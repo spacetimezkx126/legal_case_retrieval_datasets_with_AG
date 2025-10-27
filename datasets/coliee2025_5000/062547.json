@@ -1,0 +1,78 @@
+{
+    "Case ID": "062547",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession with Intent to Distribute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "charter_rights": [
+                "mobility rights under the Canadian Charter of Rights and Freedoms",
+                "Section 6(1) of the Charter grants every Canadian citizen the right to enter, remain in, and leave Canada"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Minister's decision upheld"
+            ],
+            "legal_basis": [
+                "International Transfer of Offenders Act"
+            ],
+            "immigration_status": [
+                "Canadian citizen"
+            ],
+            "criminality_inadmissibility": [
+                "convicted in the U.S. for drug offenses"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in Cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "constitutional_challenge": [
+                " mobility rights under the Canadian Charter of Rights and Freedoms"
+            ],
+            "applicable_law_or_regulation": [
+                "Section 6(1) of the Charter",
+                "International Transfer of Offenders Act"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "charter_rights_analysis": [
+                "right to enter, remain in, and leave Canada"
+            ],
+            "criminal_history": [
+                "convicted of drug trafficking in the U.S."
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Minister's decision upheld"
+            ],
+            "evidence_considered": [
+                "lack of ties to Canada",
+                "intent to abandon residence"
+            ]
+        },
+        {
+            "Crime Name": "Possession with Intent to Distribute",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "charter_rights_violation": [
+                "mobility rights under the Canadian Charter of Rights and Freedoms"
+            ],
+            "legal_basis": [
+                "Section 6(1) of the Charter",
+                "International Transfer of Offenders Act"
+            ],
+            "administrative_error": [],
+            "reasonableness_of_decision": [
+                "not patently unreasonable"
+            ],
+            "judicial_review_process": [
+                "Judicial review of the Minister's decision"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; Minister's decision upheld."
+            ]
+        }
+    ]
+}

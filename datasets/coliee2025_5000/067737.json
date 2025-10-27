@@ -1,0 +1,57 @@
+{
+    "Case ID": "067737",
+    "Different Crime": [
+        {
+            "Crime Name": "Possible immigration misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable rejection of testimony",
+                "lack of documentation",
+                "implausibility of situation"
+            ],
+            "evidence_assessment": [
+                "requirement for corroborative evidence",
+                "contradictory evidence not provided"
+            ],
+            "refugee_status_eligibility": [
+                "forced abortion under one-child policy"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "RPD decision set aside",
+                "case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "significant errors in reasoning"
+            ]
+        },
+        {
+            "Crime Name": "Forced abortion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "evidence_assessment": [
+                "corroborative evidence",
+                "contextual factors",
+                "advanced pregnancy symptoms",
+                "documented forced abortions in similar cases"
+            ],
+            "credibility_findings": [
+                "implausible reasoning",
+                "lack of documentation",
+                "inability to name medication"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "lacked proper justification"
+            ],
+            "judicial_review_process": [
+                "application for judicial review",
+                "court's intervention",
+                "set aside the RPD’s decision",
+                "ordered a redetermination by a different panel"
+            ],
+            "burden_of_proof": [
+                "Rational and plausible reasons for rejecting an applicant's testimony"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "055091",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of residency",
+                "applicant claimed 1099 days"
+            ],
+            "credibility_assessment": [
+                "limited employment",
+                "financial records",
+                "inconsistent contact details",
+                "lack of immediate family in Canada"
+            ],
+            "evidence_assessment": [
+                "insufficient credible evidence"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "procedural_fairness": [
+                "procedures followed were fair"
+            ]
+        }
+    ]
+}

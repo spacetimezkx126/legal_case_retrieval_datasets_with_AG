@@ -1,0 +1,52 @@
+{
+    "Case ID": "068338",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate_state_protection",
+                "abuse_by_ex_husband",
+                "arrested_charged_trial",
+                "presumption_of_effective_state_protection"
+            ],
+            "risk_assessment": [
+                "domestic_abuse",
+                "insufficient_state_protection"
+            ],
+            "reasonableness_of_decision": [
+                "factual_findings",
+                "justification_transparency_intelligibility"
+            ],
+            "legal_basis": [
+                "Immigration_and_Refugee_Protection_Act"
+            ],
+            "refugee_status_nexus": [
+                "claim_for_refugee_status",
+                "state_protection_availability"
+            ],
+            "standard_of_proof": [
+                "reasonableness_standard"
+            ]
+        },
+        {
+            "Crime Name": "Destruction of Evidence",
+            "Crime Type": "others",
+            "state_protection": [
+                "available to the applicant"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of systemic inadequacy"
+            ],
+            "decision_reasoning": [
+                "justification, transparency, and intelligibility in decision-making"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed"
+            ]
+        }
+    ]
+}

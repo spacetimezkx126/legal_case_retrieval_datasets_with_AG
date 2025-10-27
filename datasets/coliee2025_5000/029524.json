@@ -1,0 +1,51 @@
+{
+    "Case ID": "029524",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "contempt of court"
+            ],
+            "decision_outcome": [
+                "fine of $2,000 or 30 days' incarceration for non-payment",
+                "ordered to pay costs of $750 plus disbursements"
+            ],
+            "evidence_provided": [
+                "court order prohibiting sale of counterfeit Rolex watches",
+                "admission of sale by Herson",
+                "confirmation that the watch was counterfeit"
+            ],
+            "standard_of_review": [
+                "knowingly violates a clear and unambiguous court order"
+            ],
+            "nature_of_offense": [
+                "selling counterfeit Rolex watches"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "contempt of court occurs when a person violates a clear and unambiguous court order"
+            ],
+            "evidence_presented": [
+                "witness testimony",
+                "affidavits",
+                "admission by Herson himself"
+            ],
+            "decision_reasoning": [
+                "Herson sold a counterfeit Rolex watch after being personally served with a clear court order prohibiting such actions"
+            ],
+            "result_of_case": [
+                "fined $2,000 or 30 days' incarceration for non-payment"
+            ],
+            "procedure_followed": [
+                "The Federal Court reviewed evidence, including affidavits and testimonies, to determine if Herson's actions constituted contempt"
+            ],
+            "cause_of_action": [
+                "Herson violated a court order by selling counterfeit Rolex watches despite being aware of the prohibition"
+            ]
+        }
+    ]
+}

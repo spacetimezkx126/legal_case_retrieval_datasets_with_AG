@@ -1,0 +1,32 @@
+{
+    "Case ID": "071167",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "decision_reasonableness": [
+                "patently unreasonable"
+            ],
+            "cause_of_action": [
+                "visa denial",
+                "factual error",
+                "residency"
+            ],
+            "specific_rule_applied": [
+                "significant factual error affecting material issue"
+            ],
+            "application_details": [
+                "incorrect residency identification",
+                "impact on ties to homeland"
+            ],
+            "result_of_case": [
+                "application granted",
+                "reconsideration by different decision-maker"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "court analysis of visa officer's decision"
+            ]
+        }
+    ]
+}

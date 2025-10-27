@@ -1,0 +1,29 @@
+{
+    "Case ID": "036792",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach_of_fairness"
+            ],
+            "decision_reasoning": [
+                "generalization",
+                "unaddressed concerns"
+            ],
+            "procedural_fairness": [
+                "opportunity to address concerns"
+            ],
+            "cause_of_action": [
+                "perceived inability to return"
+            ],
+            "procedure_followed": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "reassessment by another visa officer"
+            ]
+        }
+    ]
+}

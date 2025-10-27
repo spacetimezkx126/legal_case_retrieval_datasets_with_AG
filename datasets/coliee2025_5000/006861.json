@@ -1,0 +1,33 @@
+{
+    "Case ID": "006861",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "judicial review",
+                "issue estoppel"
+            ],
+            "procedural_fairness": [
+                "interlocutory rulings",
+                "final decision",
+                "special circumstances"
+            ],
+            "decision_reasoning": [
+                "hardship",
+                "irreparable harm",
+                "typical litigation challenges"
+            ],
+            "application_details": [
+                "Ms. Sherman's application",
+                "Tribunal's refusal",
+                "ITPR findings"
+            ],
+            "conclusion_outcome": [
+                "application dismissed",
+                "premature",
+                "proceed to final decision"
+            ]
+        }
+    ]
+}

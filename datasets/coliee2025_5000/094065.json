@@ -1,0 +1,27 @@
+{
+    "Case ID": "094065",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet quantitative residency requirement",
+                "physical presence test",
+                "1,095 days of residence in Canada within four years"
+            ],
+            "decision_outcome": [
+                "Court upheld the Citizenship Judge's decision",
+                "application denied"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence to meet exceptions or qualitative criteria"
+            ],
+            "legal_basis": [
+                "section 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

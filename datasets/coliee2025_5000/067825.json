@@ -1,0 +1,33 @@
+{
+    "Case ID": "067825",
+    "Different Crime": [
+        {
+            "Crime Name": "Religious Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "well-founded fear of persecution due to race, religion, nationality, membership in a particular social group, or political opinion"
+            ],
+            "persecution_grounds": [
+                "religion"
+            ],
+            "credibility_findings": [
+                "lack of summons",
+                "perceived low risk for small churches"
+            ],
+            "risk_analysis": [
+                "inconsistent enforcement",
+                "persecution through church destructions"
+            ],
+            "judicial_review_process": [
+                "Judicial review of the Board's decision under IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable findings by the Board"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "re-determination by a different panel"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "007698",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "lack_of_evidence"
+            ],
+            "state_protection_analysis": [
+                "inaccessible_state_protection"
+            ],
+            "internal_flight_alternative": [
+                "unsafe_internal_flight_alternatives"
+            ],
+            "reasonableness_standard": [
+                "RPD_decision_reasonable"
+            ],
+            "evidence_assessment": [
+                "undermined_credibility"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed"
+            ]
+        }
+    ]
+}

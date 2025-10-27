@@ -1,0 +1,356 @@
+{
+    "Case ID": "050603",
+    "Crimes": [
+        {
+            "Crime_Name": "Uttering threats",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Abusive father"
+            ],
+            "Victim_Status": [
+                "Applicants",
+                "Brothers"
+            ],
+            "Location_of_Incident": [],
+            "Threat_Source": [
+                "Father"
+            ],
+            "Aggravating_Factors": [
+                "History of abuse",
+                "Machete attack"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "History of abusive behavior by father"
+            ],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial evidence",
+                "Documentary evidence"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Panel ignored credible testimony and documents"
+            ],
+            "Risk_Assessment": [
+                "High risk of harm"
+            ],
+            "Risk_Type": [
+                "Personal safety risk"
+            ],
+            "Risk_Nature": [
+                "Ongoing familial violence"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicants"
+            ],
+            "Targeted_Individual_Status": [
+                "Family members of perpetrator"
+            ],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Canadian refugee law"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 97(1) IRPA - Convention refugee definition"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review allowed",
+                "Decision set aside",
+                "Case remanded"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to consider key evidence"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court judicial review"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to provide protection (non-criminal but relevant to immigration context)",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Refugee claim denial"
+            ],
+            "Legal_Provision_Involved": [
+                "Section 97(1) IRPA"
+            ],
+            "Outcome": [
+                "Decision overturned",
+                "Case remitted for reevaluation"
+            ],
+            "Grounds_for_Claim": [
+                "Well-founded fear of persecution",
+                "Lack of state protection"
+            ],
+            "Remedy_Requested": [
+                "Refugee protection"
+            ],
+            "Legal_Framework": [
+                "Canadian refugee law",
+                "International refugee law"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Evidence of state inability or unwillingness to protect"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable rejection of claim"
+            ],
+            "Institutional_Action": [
+                "IRB rejected claim based on presumed state protection"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [],
+            "Evidence_Type": [
+                "Testimonial evidence",
+                "Documentary evidence on police ineffectiveness"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Refugee claimants"
+            ],
+            "Nature_of_Participation": [
+                "Victims seeking protection"
+            ],
+            "Temporal_Context": [],
+            "Geographic_Context": [],
+            "Personal_Data_Implicated": [],
+            "Legal_Statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Assessment_Standard": [
+                "Whether state protection is reasonably available"
+            ],
+            "Governing_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Complaint_Issues": [
+                "Inadequate assessment of state protection"
+            ],
+            "Grounds_for_Discrimination": [],
+            "Role_of_Person": [
+                "Applicants fleeing abuse"
+            ],
+            "Protected_Group": [
+                "Family members at risk"
+            ],
+            "Legal_Standard": [
+                "Reasonable expectation of state protection"
+            ],
+            "Protection_Claim": [
+                "State failed to provide effective protection"
+            ],
+            "State_Protection_Assessment": [
+                "Inadequate"
+            ],
+            "Risk_Factor": [
+                "Domestic violence",
+                "Police inaction"
+            ],
+            "Credibility": [
+                "Credible claims supported by evidence"
+            ],
+            "Legal_Provision": [
+                "Section 97(1) IRPA"
+            ],
+            "Targeted_Group": [
+                "Family victims of domestic violence"
+            ],
+            "State_Protection_Adequacy": [
+                "Inadequate due to ineffective enforcement and prior inaction"
+            ],
+            "Risk_Nature": [
+                "Persistent threat from family member"
+            ],
+            "Enforcement_Action": [
+                "No effective enforcement of protection orders"
+            ],
+            "Claimant_Status": [
+                "Refugee claimants"
+            ],
+            "Perpetrator_Entity": [
+                "Private individual (father)",
+                "State failure to act"
+            ],
+            "Legal_Basis": [
+                "Refugee Convention grounds"
+            ],
+            "Victim_Basis": [
+                "Family-based persecution"
+            ]
+        },
+        {
+            "Crime_Name": "Assault with a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Family violence"
+            ],
+            "Sub_Crime_Type": [
+                "Assault with a weapon"
+            ],
+            "Perpetrator_Type": [
+                "Abusive father"
+            ],
+            "Victim_Status": [
+                "Applicants",
+                "Brothers"
+            ],
+            "Location_of_Incident": [],
+            "Threat_Source": [
+                "Father"
+            ],
+            "Aggravating_Factors": [
+                "Use of machete",
+                "Prior history of abuse"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "Pattern of abusive behavior"
+            ],
+            "Criminality_Severity": [
+                "Severe"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial evidence",
+                "Documentary evidence"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Claims corroborated by history and documentation"
+            ],
+            "Risk_Assessment": [
+                "High"
+            ],
+            "Risk_Type": [
+                "Physical harm",
+                "Life-threatening"
+            ],
+            "Risk_Nature": [
+                "Immediate and ongoing danger from armed attacker"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicants"
+            ],
+            "Targeted_Individual_Status": [
+                "Children of perpetrator"
+            ],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Canadian refugee law"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 97(1) IRPA - Convention refugee"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable decision"
+            ],
+            "Outcome": [
+                "Judicial review granted",
+                "Case remanded"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to assess evidence of state protection"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        }
+    ]
+}

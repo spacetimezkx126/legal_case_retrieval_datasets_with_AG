@@ -1,0 +1,31 @@
+{
+    "Case ID": "050936",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies in testimonies",
+                "failed to claim asylum in the US",
+                "actions inconsistent with genuine fear"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "risk_of_persecution": [
+                "personalized risk",
+                "persecution by gangs in El Salvador"
+            ],
+            "decision_reasoning": [
+                "reasonable, justified, transparent, and intelligible"
+            ],
+            "application_details": [
+                "Judicial review application based on alleged errors in credibility assessment, subjective fear, section 97 analysis, and consideration of Safe Third Country Agreement"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ]
+        }
+    ]
+}

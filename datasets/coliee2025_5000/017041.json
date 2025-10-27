@@ -1,0 +1,24 @@
+{
+    "Case ID": "017041",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicant claimed 840 days of presence but was 347 days short"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "Judge applied strict count of days and rejected flexible tests due to insufficient documentation"
+            ]
+        }
+    ]
+}

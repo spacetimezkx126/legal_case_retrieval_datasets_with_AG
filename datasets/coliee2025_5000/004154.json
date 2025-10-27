@@ -1,0 +1,70 @@
+{
+    "Case ID": "004154",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "evidence_assessment": [
+                "insufficient credible evidence supporting ASD",
+                "weighed conflicting medical opinions",
+                "inconsistencies in Dr. Fraser's testimony"
+            ],
+            "decision_outcome": [
+                "did not commit a reviewable error",
+                "upholding the Appeal Board’s decision"
+            ],
+            "standard_of_review": [
+                "burden of proof",
+                "interpret evidence favorably towards the applicant",
+                "reasonable assessment of the evidence and applicable law"
+            ]
+        },
+        {
+            "Crime Name": "Dangerous Driving Causing Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Veterans Review and Appeal Board Act",
+                "sections 3 and 39"
+            ],
+            "evidence_consideration": [
+                "medical opinions",
+                "Dr. Fraser's diagnosis of ASD",
+                "lack of objective analysis",
+                "inconsistencies with other evidence",
+                "reliance on the Applicant's recollections"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "psychological_impact": [
+                "Acute Stress Disorder (ASD)"
+            ],
+            "risk_assessment": [
+                "car accident caused by ASD"
+            ],
+            "credibility_findings": [
+                "unreliable due to lack of objective analysis",
+                "inconsistencies with other evidence"
+            ]
+        },
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "favorable inferences for applicants, balance of probabilities"
+            ],
+            "evidence_assessment": [
+                "weighed evidence, considered credibility"
+            ],
+            "application_details": [
+                "denied pension benefits due to insufficient evidence"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed decision-making process under relevant statutes"
+            ],
+            "result_of_case": [
+                "Application for Judicial Review dismissed, costs awarded to Respondent"
+            ]
+        }
+    ]
+}

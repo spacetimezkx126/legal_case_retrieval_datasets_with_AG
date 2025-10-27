@@ -1,0 +1,27 @@
+{
+    "Case ID": "044484",
+    "Different Crime": [
+        {
+            "Crime Name": "Civil Procedure Violation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules, 1998"
+            ],
+            "decision_reasoning": [
+                "Non-compliance with court orders and schedules can lead to dismissal of actions for delay"
+            ],
+            "procedure_followed": [
+                "Court issued notices and orders for status reviews and show-cause submissions before dismissing the case"
+            ],
+            "result_of_case": [
+                "Action dismissed"
+            ],
+            "evidence_presented": [
+                "Plaintiffs failed to meet deadlines set by the court, including serving affidavits and conducting discovery"
+            ],
+            "conclusion_outcome": [
+                "Action was dismissed for delay due to unjustified non-compliance with court orders"
+            ]
+        }
+    ]
+}

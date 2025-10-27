@@ -1,0 +1,29 @@
+{
+    "Case ID": "051398",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirement",
+                "1,095 days within four years",
+                "493 days absent",
+                "636 days of physical presence"
+            ],
+            "legal_basis": [
+                "section 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "remanded for new hearing"
+            ],
+            "procedural_fairness": [
+                "errors in application of law",
+                "insufficient reasoning"
+            ]
+        }
+    ]
+}

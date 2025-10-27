@@ -1,0 +1,31 @@
+{
+    "Case ID": "052525",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unwarranted inferences",
+                "misconstrued testimony",
+                "overemphasized omissions"
+            ],
+            "procedural_fairness": [
+                "minor omissions in the PIF",
+                "plausible explanations ignored"
+            ],
+            "reasonableness_standard": [
+                "state protection findings reviewed under reasonableness simpliciter"
+            ],
+            "evidence_assessment": [
+                "perceived errors in credibility assessments"
+            ],
+            "review_standard": [
+                "patent unreasonableness standard"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remitted for redetermination"
+            ]
+        }
+    ]
+}

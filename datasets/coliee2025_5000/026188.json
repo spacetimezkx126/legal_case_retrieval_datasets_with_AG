@@ -1,0 +1,28 @@
+{
+    "Case ID": "026188",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility finding for Mr. Kina",
+                "no negative credibility finding for Ms. Kinova"
+            ],
+            "state_protection_analysis": [
+                "inadequate analysis",
+                "focus on systemic efforts rather than operational adequacy"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "refugee_status_eligibility": [
+                "denial based on lack of credibility and failure to rebut state protection presumption"
+            ]
+        }
+    ]
+}

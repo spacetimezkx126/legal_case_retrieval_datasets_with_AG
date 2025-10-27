@@ -1,0 +1,52 @@
+{
+    "Case ID": "062174",
+    "Different Crime": [
+        {
+            "Crime Name": "Indecent assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the UN Convention"
+            ],
+            "risk_assessment": [
+                "Equivalency of foreign crimes"
+            ],
+            "evidence_consideration": [
+                "statutory language",
+                "evidence of essential ingredients"
+            ],
+            "serious_issue": [
+                "inadequate application of equivalency tests"
+            ],
+            "criminal_history": [
+                "convicted of indecent assault in New Zealand"
+            ],
+            "refugee_status_nexus": [
+                "exclusion based on Article 1F(b)"
+            ],
+            "procedural_fairness": [
+                "errors in the Board's decision-making process"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside Canada",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the UN Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "procedural_fairness": [
+                "improper consideration of acquitted charge"
+            ],
+            "decision_reasoning": [
+                "error in equivalency determination",
+                "failure to apply specific tests"
+            ],
+            "result_of_case": [
+                "set aside decision",
+                "remitted for redetermination"
+            ]
+        }
+    ]
+}

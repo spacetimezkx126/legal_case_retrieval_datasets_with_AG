@@ -1,0 +1,56 @@
+{
+    "Case ID": "067744",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of fraudulent passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent information about marital status, passport history, financial capability"
+            ],
+            "evidence_assessment": [
+                "use of fraudulent passport raised doubts about credibility"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to fear of forced sterilization in China"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed; Board's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of fraudulent passport"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material information",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonableness"
+            ],
+            "credibility_assessment": [
+                "lack of credibility",
+                "inconsistent information"
+            ],
+            "evidence_provided": [
+                "inconsistent information",
+                "fraudulent documents"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Refugee Protection Division"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "risk_characterization": [
+                "risk of forced sterilization"
+            ],
+            "nexus_to_convention_grounds": [
+                "violating the one-child policy"
+            ],
+            "material_misrepresentation": [
+                "inconsistent information about marital status",
+                "use of fraudulent documents"
+            ]
+        }
+    ]
+}

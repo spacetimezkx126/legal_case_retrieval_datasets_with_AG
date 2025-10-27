@@ -1,0 +1,70 @@
+{
+    "Case ID": "069962",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation (if applicable based on suppressed fragments).",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "insufficient analysis of corroborative evidence"
+            ],
+            "state_protection_analysis": [
+                "lack of reasonable analysis in St. Vincent"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness",
+                "reasonableness simpliciter"
+            ],
+            "refugee_status_eligibility": [
+                "denied due to credibility and state protection issues"
+            ]
+        },
+        {
+            "Crime Name": "Failure to apply for refugee protection in a timely manner",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "delay in applying",
+                "trauma",
+                "learning about protection",
+                "assistance from Montreal City Mission"
+            ],
+            "standard_of_proof": [
+                "mitigating circumstances"
+            ],
+            "reasonableness_standard": [
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "Board failed to adequately consider explanations"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted for reconsideration"
+            ],
+            "burden_of_proof": [
+                "justification for delay required"
+            ]
+        },
+        {
+            "Crime Name": "Domestic abuse (as described, potentially involving Assault or Criminal Harassment under the Criminal Code)",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inadequate_credibility_assessment"
+            ],
+            "state_protection_analysis": [
+                "lack_of_analysis_on_state_protection"
+            ],
+            "procedural_fairness": [
+                "errors_in_procedural_evaluation"
+            ],
+            "risk_assessment": [
+                "credible_threats"
+            ],
+            "evidence_consideration": [
+                "failure_to_address_corroborative_evidence"
+            ]
+        }
+    ]
+}

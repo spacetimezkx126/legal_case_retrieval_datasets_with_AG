@@ -1,0 +1,34 @@
+{
+    "Case ID": "042226",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days of residence in Canada within 1,460 days"
+            ],
+            "evidence_provided": [
+                "incomplete documentation",
+                "tax returns",
+                "health records",
+                "bank statements with gaps"
+            ],
+            "judicial_authority": [
+                "Federal Courts Act",
+                "Citizenship Act"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "cause_of_action": [
+                "insufficient proof of residency"
+            ],
+            "appeal_outcome": [
+                "upholding the citizenship judge's decision"
+            ]
+        }
+    ]
+}

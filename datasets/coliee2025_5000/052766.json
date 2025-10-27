@@ -1,0 +1,38 @@
+{
+    "Case ID": "052766",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration Act",
+                "subsection 2(3)"
+            ],
+            "risk_of_persecution": [
+                "Roma ethnicity"
+            ],
+            "specific_group_membership": [
+                "Roma"
+            ],
+            "evidence_assessment": [
+                "isolated event",
+                "six-year delay"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "nexus_to_convention_grounds": [
+                "race"
+            ],
+            "compelling_reasons_exception": [
+                "previous persecution"
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "inconsistencies_in_testimony": [
+                "unexplained delay"
+            ]
+        }
+    ]
+}

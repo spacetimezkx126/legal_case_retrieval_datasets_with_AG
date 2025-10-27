@@ -1,0 +1,82 @@
+{
+    "Case ID": "020291",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee claim based on perceived LTTE links",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Convention Refugee Grounds"
+            ],
+            "risk_of_persecution": [
+                "perceived LTTE links"
+            ],
+            "nexus_to_convention_grounds": [
+                "nationality",
+                "perceived political opinion"
+            ],
+            "decision_outcome": [
+                "refugee status granted"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "country_conditions": [
+                "Sri Lanka"
+            ]
+        },
+        {
+            "Crime Name": "No criminal conduct under Canadian law identified in the judicial review context",
+            "Crime Type": "others",
+            "legal_basis": [
+                "judicial review standards"
+            ],
+            "decision_reasoning": [
+                "determining if the decision was reasonable",
+                "considering nexus grounds like race, nationality, or perceived political opinion"
+            ],
+            "application_details": [
+                "applicant argued against previous rulings but the judge found facts aligned with prior cases (A068 and A069)"
+            ],
+            "conclusion_outcome": [
+                "Application for judicial review dismissed",
+                "no serious general issue to certify"
+            ],
+            "cause_of_action": [
+                "Refugee status granted to a Tamil from Sri Lanka due to perceived LTTE links"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed RPD's decision and compared it with similar cases"
+            ],
+            "result_of_case": [
+                "Judicial review denied",
+                "original decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "People smuggling by vessel",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "race",
+                "nationality",
+                "political opinion"
+            ],
+            "membership_in_persecutory_group": [
+                "Tamil",
+                "LTTE links"
+            ],
+            "judicial_review_process": [
+                "comparison with similar cases A068 and A069"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "RPD's decision upheld"
+            ],
+            "persecution_grounds": [
+                "race",
+                "nationality",
+                "political opinion"
+            ]
+        }
+    ]
+}

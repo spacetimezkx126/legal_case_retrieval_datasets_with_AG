@@ -1,0 +1,32 @@
+{
+    "Case ID": "033537",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "section 5(1)(c) of the Citizenship Act",
+                "three years of residence in Canada within four years",
+                "physical presence or connection tests like Koo"
+            ],
+            "decision_outcome": [
+                "Court quashed the Citizenship Judge's decision"
+            ],
+            "legal_basis": [
+                "Section 5(1)(c)",
+                "Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "Respondent was absent from Canada for 774 days over four years",
+                "living primarily in the USA",
+                "failed all residency tests (Koo, Pourghasemi, Papadogiorgakis)"
+            ],
+            "standard_of_review": [
+                "Appeal to Federal Court"
+            ],
+            "material_misrepresentation": [
+                "applied for Canadian citizenship despite spending significant time outside Canada"
+            ]
+        }
+    ]
+}

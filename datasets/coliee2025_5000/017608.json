@@ -1,0 +1,30 @@
+{
+    "Case ID": "017608",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "risk_of_persecution": [
+                "nationality",
+                "political opinion",
+                "social group membership"
+            ],
+            "decision_reasoning": [
+                "factual errors",
+                "impact on fear of persecution",
+                "internal flight alternative"
+            ],
+            "application_details": [
+                "Convention refugee status",
+                "well-founded fear of persecution"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "046791",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistent evidence",
+                "omissions"
+            ],
+            "state_protection": [
+                "sufficient state protection",
+                "available agencies",
+                "documentary evidence"
+            ],
+            "decision_reasoning": [
+                "correct legal standards",
+                "reasonable conclusions"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed",
+                "Board's decision upheld"
+            ]
+        }
+    ]
+}

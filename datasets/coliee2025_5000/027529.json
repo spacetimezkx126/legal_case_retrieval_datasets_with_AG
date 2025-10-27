@@ -1,0 +1,29 @@
+{
+    "Case ID": "027529",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "insufficient explanations for missing documents",
+                "doubted credibility due to omission"
+            ],
+            "documentary_evidence": [
+                "failure to provide corroborative documents",
+                "produced family documents but not UNP involvement proof"
+            ],
+            "evidence_assessment": [
+                "Board considered lack of documentation significant"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_proof": [
+                "Board's decision not patently unreasonable"
+            ],
+            "burden_of_proof": [
+                "claimant must provide acceptable documents or explain absence"
+            ]
+        }
+    ]
+}

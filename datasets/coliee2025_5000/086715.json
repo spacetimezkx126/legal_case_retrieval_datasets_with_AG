@@ -1,0 +1,84 @@
+{
+    "Case ID": "086715",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Real Estate Transactions",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "insufficient state protection"
+            ],
+            "internal_flight_alternative": [
+                "reasonable internal flight alternative in Mexico City"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard"
+            ],
+            "risk_characterization": [
+                "well-founded fear of persecution or risk to life"
+            ],
+            "nexus_to_convention_grounds": [
+                "sexual abuse and fraudulent real estate transactions"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death or Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "sufficient state protection"
+            ],
+            "credibility_findings": [
+                "lacked corroboration"
+            ],
+            "gender_related_persecution_guidelines": [
+                "ignored gender-specific issues"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "risk_assessment": [
+                "fear of persecution from uncle"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Report Crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence corroborating claims"
+            ],
+            "credibility_findings": [
+                "Board erred in assessing credibility"
+            ],
+            "state_protection": [
+                "adequate state protection exists"
+            ],
+            "internal_flight_alternative": [
+                "internal flight alternative is viable"
+            ],
+            "decision_reasoning": [
+                "considered all evidence and applied relevant legal standards"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is dismissed"
+            ]
+        }
+    ]
+}

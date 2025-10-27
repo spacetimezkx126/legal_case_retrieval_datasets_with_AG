@@ -1,0 +1,91 @@
+{
+    "Case ID": "087175",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of State Protection Capability",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "ineffective state protection",
+                "ability to access effective state protection"
+            ],
+            "risk_characterization": [
+                "individual risks",
+                "gang threats"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application for judicial review is dismissed",
+                "Board's decision was reasonable"
+            ],
+            "evidence_provided": [
+                "Police had previously acted effectively, arresting gang members",
+                "no evidence of ineffective state protection"
+            ],
+            "serious_criminality": [
+                "gang threats in Argentina"
+            ],
+            "nexus_to_convention_grounds": [
+                "potential persecution in China"
+            ],
+            "relationship_genuineness": [
+                "refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping Attempt",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "failed to report incidents",
+                "no evidence of police failure",
+                "reasonable expectations for state protection"
+            ],
+            "refugee_status_claim": [
+                "refugee status due to gang threats and attempted kidnapping"
+            ],
+            "judicial_review_result": [
+                "application for judicial review dismissed",
+                "Board's decision was reasonable"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application"
+            ],
+            "reasonableness_of_decision": [
+                "upheld as reasonable"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_provided": [
+                "incidents not reported to police",
+                "police success in initial intervention"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Testify in Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "serious possibility of persecution or danger"
+            ],
+            "state_protection": [
+                "presumption of state protection",
+                "availability of state protection"
+            ],
+            "decision_reasoning": [
+                "refusal to testify against a criminal gang due to threats",
+                "police had previously acted effectively"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "result_of_case": [
+                "Court dismissed the application",
+                "upholding the Board's decision that state protection was adequate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Case ID": "019075",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "patent infringement",
+                "anti-competitive conduct"
+            ],
+            "application_details": [
+                "amend statement of claim",
+                "include allegations of misconduct during litigation"
+            ],
+            "rule_applied": [
+                "amendments to pleadings allowed unless prejudicial",
+                "pleadings can be struck if no reasonable cause of action"
+            ],
+            "evidence_presented": [
+                "allegations of withholding documents",
+                "causing delays and expenses"
+            ],
+            "decision_reasoning": [
+                "conduct does not shift burden of proof",
+                "does not justify exemplary damages",
+                "allegations relevant only to costs inappropriate"
+            ],
+            "result_of_case": [
+                "motion denied",
+                "allegations immaterial",
+                "potentially prejudicial to trial fairness"
+            ]
+        }
+    ]
+}

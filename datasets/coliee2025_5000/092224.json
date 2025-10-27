@@ -1,0 +1,39 @@
+{
+    "Case ID": "092224",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "refugee claims rejected"
+            ],
+            "court_jurisdiction": [
+                "outside country of nationality",
+                "physically present in Canada"
+            ],
+            "decision_reasoning": [
+                "rights under IRPA remain",
+                "dismissing as moot would contradict IRPA objectives"
+            ],
+            "application_details": [
+                "judicial review application"
+            ],
+            "result_of_case": [
+                "motion dismissed",
+                "judicial review to proceed"
+            ],
+            "relevant_statute": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "mootness": [
+                "claimant returns to their country of nationality"
+            ],
+            "procedure_followed": [
+                "Minister's motion to dismiss based on mootness"
+            ],
+            "refugee_status": [
+                "denied refugee status"
+            ]
+        }
+    ]
+}

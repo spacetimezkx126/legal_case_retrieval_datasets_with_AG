@@ -1,0 +1,27 @@
+{
+    "Case ID": "003640",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "no chance to respond",
+                "manifest error in fact-finding"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in interviews",
+                "discrepancies not evident from notes"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "decision quashed",
+                "re-hearing ordered"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "administrative decisions must be based on fair procedures and factual accuracy"
+            ]
+        }
+    ]
+}

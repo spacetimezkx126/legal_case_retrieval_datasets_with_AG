@@ -1,0 +1,30 @@
+{
+    "Case ID": "049136",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "inadequate translation",
+                "violation of procedural fairness rights"
+            ],
+            "charter_rights": [
+                "Section 14 of the Charter",
+                "right to adequate translation"
+            ],
+            "evidence_assessment": [
+                "translation errors affecting credibility findings",
+                "expert affidavit confirming errors"
+            ],
+            "decision_reasoning": [
+                "translation errors significant enough to warrant setting aside decision",
+                "no proof of awareness for waiver argument"
+            ],
+            "result_of_case": [
+                "application for judicial review granted",
+                "RPD's decision set aside",
+                "claim remitted for re-determination with adequate translation"
+            ]
+        }
+    ]
+}

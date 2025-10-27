@@ -1,0 +1,48 @@
+{
+    "Case ID": "063950",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "misrepresentation_or_fraud": [
+                "Marriage primarily for immigration purposes"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness",
+                "Correctness"
+            ],
+            "regulatory_compliance": [
+                "Amended version of section 4 applied"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "genuine"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations, Section 4"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "appeal_outcome": [
+                "upholding the IAD's decision"
+            ]
+        }
+    ]
+}

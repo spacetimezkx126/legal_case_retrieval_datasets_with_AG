@@ -1,0 +1,73 @@
+{
+    "Case ID": "060692",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration decision errors",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "paragraph 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "judicial review process",
+                "section 87 non-disclosure issues"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "redetermination by another officer"
+            ],
+            "criminality_inadmissibility": [
+                "terrorism",
+                "subversive activities",
+                "family inadmissibility"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to association with terrorist or subversive activities",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "paragraph 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "inadequate definition of terrorism",
+                "reviewable error"
+            ],
+            "membership_in_organization": [
+                "Eritrean Liberation Front (ELF)"
+            ],
+            "judicial_review_result": [
+                "granted",
+                "referred for redetermination by a different immigration officer"
+            ],
+            "decision_outcome": [
+                "original decision set aside"
+            ],
+            "reasoning_given": [
+                "failed to provide clear understanding of 'terrorism'"
+            ]
+        },
+        {
+            "Crime Name": "Section 87 non-disclosure application delays and over-assertion of secrecy",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "delays",
+                "over-assertion of secrecy"
+            ],
+            "decision_reasoning": [
+                "need for external input to balance openness and confidentiality"
+            ],
+            "result_of_case": [
+                "Application for judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "relevant_statute": [
+                "Section 87"
+            ]
+        }
+    ]
+}

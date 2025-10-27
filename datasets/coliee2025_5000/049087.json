@@ -1,0 +1,109 @@
+{
+    "Case ID": "049087",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "standard of review for state protection findings is patent unreasonableness",
+                " Applicant must provide clear evidence rebutting the presumption of state protection"
+            ],
+            "evidence_assessment": [
+                "no evidence showing police target women reporting drug smugglers",
+                "subjective belief was insufficient without objective corroboration"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status due to fear of persecution"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the Board's decision"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "unavailable",
+                "physically impossible",
+                "government cannot provide"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution",
+                "alleged ties with her employers"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence",
+                "clear evidence showing state protection is unavailable"
+            ],
+            "refugee_status_nexus": [
+                "seeking refugee status in Canada",
+                "inability to access state protection in India"
+            ],
+            "procedural_fairness": [
+                "Immigration and Refugee Board reviewed and denied her claim",
+                "judicial review"
+            ],
+            "reasonableness_of_decision": [
+                "no error in the Board's conclusion",
+                "upholding the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "unavailable",
+                "physically impossible",
+                "government cannot provide"
+            ],
+            "refugee_status": [
+                "claimed",
+                "denied"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence"
+            ],
+            "decision_made_by": [
+                "Immigration and Refugee Board",
+                "Federal Court"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "clear evidence requirement"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "state_protection": [
+                "unavailable",
+                "physically impossible",
+                "government cannot provide"
+            ],
+            "credibility_findings": [
+                "insufficient evidence"
+            ],
+            "decision_outcome": [
+                "dismissed application"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Board rules"
+            ],
+            "court_ruling": [
+                "upholding the Board's decision"
+            ],
+            "refugee_protection": [
+                "claimed inability to access state protection"
+            ],
+            "family_impact": []
+        }
+    ]
+}

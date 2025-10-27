@@ -1,0 +1,53 @@
+{
+    "Case ID": "018963",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a forged passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167",
+                "IRPA s.72(1)"
+            ],
+            "credibility_assessment": [
+                "adverse credibility findings"
+            ],
+            "procedural_fairness": [
+                "oral hearing requirement",
+                "procedural fairness in PRRA decision-making"
+            ],
+            "evidence_assessment": [
+                "statutory declarations",
+                "insufficient evidence of persecution risk"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "forged passport"
+            ]
+        },
+        {
+            "Crime Name": "Making false or deceptive statements under the Excise Tax Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167"
+            ],
+            "procedural_fairness": [
+                "oral hearing required for serious credibility issues"
+            ],
+            "evidence_provided": [
+                "past convictions",
+                "inconsistent statements",
+                "technical flaws in Declarations"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "judicial_authority": [
+                "Court upheld PRRA decision"
+            ]
+        }
+    ]
+}

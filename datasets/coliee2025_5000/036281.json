@@ -1,0 +1,110 @@
+{
+    "Case ID": "036281",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness",
+                "correctness"
+            ],
+            "nexus_to_convention_grounds": [
+                "unrelated to religion or political opinion"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_provided": [
+                "documentary evidence",
+                "credibility assessments"
+            ],
+            "procedural_fairness": [
+                "Judicial review of CRDD decision"
+            ],
+            "persecution_details": [
+                "extortion and persecution in Bangladesh"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "standard of review for CRDD decisions is patent unreasonableness for factual/mixed questions and correctness for statutory interpretation"
+            ],
+            "credibility_findings": [
+                "applicant's claims implausible and not linked to Convention grounds"
+            ],
+            "evidence_consideration": [
+                "documentary evidence reviewed",
+                "selective use of evidence"
+            ],
+            "risk_of_persecution": [
+                "claimed refugee status due to alleged persecution in Bangladesh based on religion and activism"
+            ],
+            "refugee_status_nexus": [
+                "not linked to Convention grounds"
+            ]
+        },
+        {
+            "Crime Name": "Break and enter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "implausible findings",
+                "selective use of evidence"
+            ],
+            "credibility_findings": [
+                "CRDD's credibility assessments"
+            ],
+            "decision_reasoning": [
+                "within the CRDD's jurisdiction",
+                "reasonably supported by evidence"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "persecution based on religion, political opinion, and activism work"
+            ],
+            "procedure_followed": [
+                "judicial review of the CRDD's decision"
+            ],
+            "decision_made": [
+                "court upheld the CRDD's decision"
+            ],
+            "refugee_status": [
+                "applicant sought refugee status in Canada"
+            ],
+            "claim_nature": [
+                "claiming persecution in Bangladesh due to religion and activism"
+            ]
+        },
+        {
+            "Crime Name": "Persecution based on religion or political opinion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "Convention Refugee"
+            ],
+            "credibility_findings": [
+                "unreasonable credibility and plausibility findings"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "reasonableness_of_decision": [
+                "CRDD's decision was reasonable and supported by evidence"
+            ],
+            "judicial_review_process": [
+                "Court upheld CRDD's decision; application dismissed"
+            ],
+            "persecution_grounds": [
+                "religion and political activism"
+            ]
+        }
+    ]
+}

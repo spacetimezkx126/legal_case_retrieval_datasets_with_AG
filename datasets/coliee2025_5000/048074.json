@@ -1,0 +1,62 @@
+{
+    "Case ID": "048074",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Duty of Care under Corrections and Conditional Release Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "Prothonotary's decision affirmed"
+            ],
+            "procedural_fairness": [
+                "reviewed under correctness for legal issues",
+                "palpable error for factual findings"
+            ],
+            "applicable_statute": [
+                "Corrections and Conditional Release Act"
+            ],
+            "judicial_authority": [
+                "Prothonotary Milczynski",
+                "Federal Court"
+            ],
+            "risk_characterization": [
+                "foreseeable risks",
+                "pre-indicators of violence"
+            ],
+            "mitigating_factors": [
+                "inadequate static and dynamic security"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Correctional Service of Canada's duty of care",
+                "Federal Courts Rules",
+                "Corrections and Conditional Release Act"
+            ],
+            "risk_assessment": [
+                "Pre-indicators of violence",
+                "Foreseeable risks"
+            ],
+            "evidence_consideration": [
+                "Verbal altercation",
+                "Inadequate security measures",
+                "Lack of surveillance cameras",
+                "Unclear phone area policies"
+            ],
+            "procedural_fairness": [
+                "Appeal from Prothonotary Milczynski's decision"
+            ],
+            "serious_issue": [
+                "Breach of duty of care"
+            ],
+            "irreparable_harm": [
+                "Plaintiff assaulted"
+            ]
+        }
+    ]
+}

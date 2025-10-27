@@ -1,0 +1,107 @@
+{
+    "Case ID": "094421",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable and unsupported by evidence"
+            ],
+            "document_authenticity": [
+                "presumed valid unless proven otherwise",
+                "suspicions about authenticity"
+            ],
+            "identity_verification": [
+                "multiple documents provided",
+                "initial deception upon arrival"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed",
+                "case remanded for redetermination"
+            ],
+            "misrepresentation_or_fraud": [
+                "applicant misrepresented his identity upon arrival"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "birth certificate",
+                "school certificate",
+                "NIC",
+                "passport photocopy"
+            ],
+            "material_misrepresentation": [
+                "initial deception upon arrival"
+            ],
+            "judicial_authority": [
+                "Board",
+                "judge"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_provided": [
+                "multiple documents under the name Sohail Rasheed"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed; case sent back for reconsideration by a different panel"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision; analysis of documentary evidence and credibility assessment"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistent identity claims",
+                "use of false passport"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_consideration": [
+                "foreign documents presumed valid unless proven otherwise",
+                "inconsistencies in submitted documents",
+                "ease of obtaining fake documents in Pakistan"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision deemed unreasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review of Board's decision"
+            ],
+            "refugee_status_nexus": [
+                "rejection of refugee claim due to credibility concerns"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "inconsistent identity claims",
+                "use of false passport"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_considered": [
+                "false British passport",
+                "Pakistani documents (birth certificate, school certificate, NIC)"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed",
+                "case remitted to a new panel"
+            ],
+            "refugee_protection": [
+                "rejection of refugee claim due to lack of credibility"
+            ],
+            "court_ruling": [
+                "unreasonable decision",
+                "remand for redetermination"
+            ]
+        }
+    ]
+}

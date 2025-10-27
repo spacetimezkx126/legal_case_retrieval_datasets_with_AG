@@ -1,0 +1,25 @@
+{
+    "Case ID": "004541",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent obtaining of passport or visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "failed to meet burden of proof",
+                "inability to consistently verify identity"
+            ],
+            "document_authenticity": [
+                "use of false documents"
+            ],
+            "refugee_status_eligibility": [
+                "dismissal of refugee claim"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ]
+        }
+    ]
+}

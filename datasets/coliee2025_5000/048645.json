@@ -1,0 +1,25 @@
+{
+    "Case ID": "048645",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Removal Order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "new evidence inadmissible unless pertains to procedural fairness"
+            ],
+            "evidence_assessment": [
+                "doctor's letter irrelevant to original decision"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "new evidence excluded"
+            ],
+            "standard_of_review": [
+                "focuses on original decision's legality"
+            ],
+            "immigration_status": [
+                "removal order denial"
+            ]
+        }
+    ]
+}

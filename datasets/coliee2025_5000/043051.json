@@ -1,0 +1,47 @@
+{
+    "Case ID": "043051",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "irreparable_harm": [
+                "lack_of_irreparable_harm"
+            ],
+            "serious_issue": [
+                "no_serious_issue_found"
+            ],
+            "balance_of_convenience": [
+                "public_interest_outweighs_inconvenience"
+            ],
+            "credibility_findings": [
+                "prior_negative_credibility_findings"
+            ],
+            "evidence_consideration": [
+                "no_new_evidence_presented"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "credibility_findings": [
+                "not credible"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed RPD and PRRA decisions"
+            ],
+            "risk_assessment": [
+                "no risk of torture or harm"
+            ],
+            "decision_outcome": [
+                "motion for stay dismissed",
+                "removal order upheld"
+            ],
+            "applicable_laws": [
+                "stay of removal requirements"
+            ],
+            "family_impact": [
+                "Applicants sought to delay removal"
+            ]
+        }
+    ]
+}

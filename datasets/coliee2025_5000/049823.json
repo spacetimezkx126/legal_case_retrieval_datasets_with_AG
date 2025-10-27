@@ -1,0 +1,73 @@
+{
+    "Case ID": "049823",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Rule 466(b) of the Federal Courts Rules"
+            ],
+            "decision_outcome": [
+                "guilty of contempt"
+            ],
+            "evidence_provided": [
+                "deliberate non-compliance",
+                "enhancement of infringing activities"
+            ],
+            "standard_of_review": [
+                "beyond a reasonable doubt"
+            ],
+            "applicable_statute": [
+                "interim injunction prohibiting unauthorized decoding and use of trademarked materials"
+            ],
+            "judicial_authority": [
+                "Court issued an interim injunction, followed by a show-cause order"
+            ],
+            "nature_of_offense": [
+                "unauthorized use of encrypted programming and trademarks"
+            ],
+            "mitigating_factors": []
+        },
+        {
+            "Crime Name": "Decoding Encrypted Signals without Authorization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Rule 466(b) of the Federal Courts Rules"
+            ],
+            "evidence_credibility": [
+                "deliberate actions post-order, including enhanced operations"
+            ],
+            "procedural_fairness": [
+                "Court issued a show-cause order, reviewed evidence"
+            ],
+            "decision_outcome": [
+                "guilty of contempt of court"
+            ],
+            "impact_of_delay_or_conditions": [
+                "fined, ordered to pay costs, and one faced imprisonment unless compliance was achieved"
+            ]
+        },
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 466(b) of the Federal Courts Rules"
+            ],
+            "evidence_presented": [
+                "ongoing infringement post-injunction",
+                "unauthorized use of trademarks and copyrighted content"
+            ],
+            "decision_reasoning": [
+                "deliberate violation of the court order"
+            ],
+            "result_of_case": [
+                "fines",
+                "website removal required",
+                "conditional imprisonment imposed"
+            ],
+            "cause_of_action": [
+                "illegally decoded and distributed copyrighted television programming"
+            ]
+        }
+    ]
+}

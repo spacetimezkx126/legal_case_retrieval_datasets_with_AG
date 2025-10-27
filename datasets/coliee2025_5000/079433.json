@@ -1,0 +1,125 @@
+{
+    "Case ID": "079433",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "police"
+            ],
+            "risk_characterization": [
+                "generalized"
+            ],
+            "specific_targeting": [
+                "transportation workers"
+            ],
+            "nexus_to_convention_grounds": [
+                "gang extortion and threats"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act, Section 97"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Attempted murder",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "generalized risk",
+                "personal risk"
+            ],
+            "specific_threats_or_incidents": [
+                "threats and violence from a gang"
+            ],
+            "applicant_involvement": [
+                "reporting them to the police"
+            ],
+            "country_conditions": [
+                "El Salvador"
+            ],
+            "refugee_status_nexus": [
+                "gang violence"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "legal_basis": [
+                "Section 97 of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "personalized_vs_generalized_risk": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "relevant_statute": [
+                "Section 97 of the Immigration and Refugee Protection Act"
+            ],
+            "application_details": [
+                "applicant faced threats from a gang after reporting them to police"
+            ],
+            "decision_reasoning": [
+                "Board reasonably considered the applicant's unique circumstances"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "cause_of_action": [
+                "gang violence",
+                "extortion targeting the applicant"
+            ],
+            "procedure_followed": [
+                "judicial review of the Refugee Protection Division's decision",
+                "standard of reasonableness applied"
+            ],
+            "result_of_case": [
+                "Court upheld the Board's decision",
+                "applicant not granted refugee status or protection"
+            ],
+            "risk_assessment": [
+                "risk to life",
+                "cruel and unusual treatment"
+            ],
+            "refugee_status": [
+                "not granted"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 97 of the Immigration and Refugee Protection Act",
+                "Sections 96 and 97 of the Act"
+            ],
+            "risk_assessment": [
+                "generalized risk",
+                "personalized risk"
+            ],
+            "refugee_protection": [
+                "not granted refugee protection"
+            ],
+            "court_ruling": [
+                "application for judicial review dismissed"
+            ],
+            "security_concerns": [
+                "gang violence",
+                "extortion threats"
+            ],
+            "decision_outcome": [
+                "Court upheld the Board's decision"
+            ],
+            "relevant_factors": [
+                "targeted by a gang",
+                "reporting them",
+                "occupation and actions"
+            ]
+        }
+    ]
+}

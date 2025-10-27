@@ -1,0 +1,68 @@
+{
+    "Case ID": "060054",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal Organization Offense",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ITOA §10(2)(a)"
+            ],
+            "decision_reasoning": [
+                "public safety",
+                "justice administration",
+                "rehabilitation"
+            ],
+            "evidence_assessment": [
+                "ties to organized crime",
+                "history of drug offenses",
+                "no demonstrated rehabilitation efforts"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "consistency",
+                "transparency",
+                "adherence to ITOA principles"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to Possess with Intent to Distribute Cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "transfer_request": [
+                "denied"
+            ],
+            "legal_basis": [
+                "ITOA"
+            ],
+            "public_safety": [
+                "considered"
+            ],
+            "criminal_history": [
+                "prior criminal record"
+            ],
+            "organized_crime_links": [
+                "present"
+            ],
+            "rehabilitation_needs": [
+                "no demonstrated need for Canadian-specific programs"
+            ],
+            "family_ties": [
+                "positive factor considered"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "upheld"
+            ],
+            "consequences_of_decision": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

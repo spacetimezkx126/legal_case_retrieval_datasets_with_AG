@@ -1,0 +1,27 @@
+{
+    "Case ID": "083654",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of residence in Canada over four years"
+            ],
+            "decision_outcome": [
+                "Appeal granted; application remitted for re-determination without costs"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ],
+            "identity_verification": [
+                "lack of sufficient physical presence but had ties like family and business in Canada"
+            ],
+            "evidence_assessment": [
+                "judge did not specify which test was applied, making it unclear how the residency requirement was met"
+            ]
+        }
+    ]
+}

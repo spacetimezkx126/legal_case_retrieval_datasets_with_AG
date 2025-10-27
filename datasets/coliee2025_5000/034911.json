@@ -1,0 +1,32 @@
+{
+    "Case ID": "034911",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "ignored_reasonable_explanations"
+            ],
+            "evidence_assessment": [
+                "failed_to_address_evidence_proving_Christianity_in_Canada"
+            ],
+            "review_standard": [
+                "reasonableness_standard"
+            ],
+            "decision_outcome": [
+                "judicial_review_granted",
+                "case_remanded_for_redetermination"
+            ],
+            "specific_group_membership": [
+                "Christian_identity"
+            ],
+            "burden_of_proof": [
+                "Board_must_justify_conclusions_with_evidence"
+            ],
+            "procedural_fairness": [
+                "errors_in_credibility_assessment_and_religious_practice_evaluation"
+            ]
+        }
+    ]
+}

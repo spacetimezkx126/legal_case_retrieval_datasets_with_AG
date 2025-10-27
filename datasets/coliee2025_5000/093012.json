@@ -1,0 +1,87 @@
+{
+    "Case ID": "093012",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of proceeds of crime",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "paragraph 37(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "home used for criminal activities",
+                "acted as a messenger",
+                "knowledge of the group’s activities"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "party_involved": [
+                "applicant",
+                "Wolf Pack street gang"
+            ],
+            "cause_of_action": [
+                "membership in organization engaging in planned and organized criminal activity"
+            ],
+            "nature_of_offense": [
+                "organized criminality"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Participating in organized criminal activity",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "paragraph 37(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "membership_in_organization": [
+                "Wolf Pack"
+            ],
+            "applicant_involvement": [
+                "messenger",
+                "home used as meeting place",
+                "phone line facilitated activities"
+            ],
+            "evidence_consideration": [
+                "electronic surveillance",
+                "police testimony"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "immigration_status": [
+                "inadmissible to Canada"
+            ]
+        },
+        {
+            "Crime Name": "Facilitating prostitution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "paragraph 37(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "applicant's home used for meetings",
+                "phone used for criminal activities",
+                "acted as messenger and receptionist",
+                "knowledge of group’s activities"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed reasonableness of decision"
+            ],
+            "decision_outcome": [
+                "inadmissible under the Act",
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

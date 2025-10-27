@@ -1,0 +1,48 @@
+{
+    "Case ID": "044567",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b) of the UN Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "no evidence of use of weapons or illegal entry"
+            ],
+            "decision_outcome": [
+                "exclusion based on Article 1F(b) overturned",
+                "case returned for reassessment"
+            ],
+            "criminality_inadmissibility": [
+                "habitual shoplifting"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the UN Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "decision_reasoning": [
+                "repeated shoplifting not considered serious",
+                "no use of weapons or illegal entry"
+            ],
+            "conclusion_outcome": [
+                "not a serious non-political crime"
+            ],
+            "result_of_case": [
+                "case remitted for reconsideration"
+            ],
+            "application_details": [
+                "applicants admitted to repeated shoplifting"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Case ID": "092876",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee claim exclusion under Article 1F(b) of the United Nations Convention Relating to the Status of Refugees",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "credibility_findings": [
+                "credible and trustworthy evidence"
+            ],
+            "evidence_assessment": [
+                "initial charges without thoroughly addressing the recantation",
+                "dismissal was prima facie evidence against guilt"
+            ],
+            "decision_outcome": [
+                "application is granted",
+                "case remanded for reconsideration"
+            ],
+            "review_standard": [
+                "judicial review of RPD decision"
+            ],
+            "burden_of_proof": [
+                "serious reasons for considering"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside Canada",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "serious reasons for considering they committed a serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "RPD relied on dismissed charges as credible evidence",
+                "not properly assessing the recantation",
+                "giving insufficient weight to corroborating evidence"
+            ],
+            "decision_reasoning": [
+                "error in not properly assessing the recantation and corroborating evidence"
+            ],
+            "standard_of_review": [
+                "judicial review of the RPD decision"
+            ],
+            "result_of_case": [
+                "application granted",
+                "case remanded for rehearing by a different panel"
+            ],
+            "cause_of_action": [
+                "Minister sought to exclude the applicant based on dismissed charges of serious crimes"
+            ]
+        }
+    ]
+}

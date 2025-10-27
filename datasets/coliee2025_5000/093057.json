@@ -1,0 +1,52 @@
+{
+    "Case ID": "093057",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Proceeds of Crime (Money Laundering) and Terrorist Financing Act"
+            ],
+            "evidence_credibility": [
+                "FINTRAC identified violations"
+            ],
+            "procedural_fairness": [
+                "penalty calculation used an undisclosed formula not aligned with statutory criteria"
+            ],
+            "reasonableness_of_decision": [
+                "penalty unreasonable due to lack of transparency in its calculation"
+            ],
+            "decision_outcome": [
+                "Appeal partially allowed; matter returned to FINTRAC for re-determination of penalties"
+            ],
+            "compliance_with_regulations": [
+                "Kabul Farms failed to meet regulatory requirements"
+            ]
+        },
+        {
+            "Crime Name": "Failure to develop and apply written compliance policies and procedures",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Proceeds of Crime (Money Laundering) and Terrorist Financing Act"
+            ],
+            "applicable_regulations": [
+                "requirement for written compliance policies",
+                "risk assessments",
+                "training programs"
+            ],
+            "evidence_presented": [
+                "rudimentary policies",
+                "lack of risk assessment",
+                "lack of employee training"
+            ],
+            "decision_reasoning": [
+                "violation of the Act",
+                "unreasonable penalty calculation"
+            ],
+            "result_of_case": [
+                "appeal partially allowed",
+                "matter returned for reconsideration of penalties"
+            ]
+        }
+    ]
+}

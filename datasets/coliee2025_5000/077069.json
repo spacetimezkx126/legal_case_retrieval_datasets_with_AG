@@ -1,0 +1,68 @@
+{
+    "Case ID": "077069",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "late declaration of birth",
+                "passport",
+                "secondary documents"
+            ],
+            "document_authenticity": [
+                "reliability of identity documents"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in document declaration",
+                "probative value of the documents"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "panel decision set aside",
+                "remitted for redetermination"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Immigration and Refugee Board's Appeal Division"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "late declaration of birth",
+                "passport",
+                "secondary documents"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "case remitted for reconsideration"
+            ],
+            "evidence_provided": [
+                "late declaration of birth",
+                "passport",
+                "secondary documents"
+            ],
+            "balance_of_convenience": [
+                "identity must be proven on a balance of probabilities"
+            ],
+            "materiality_of_misrepresentation": [
+                "doubts about the late declaration of birth"
+            ],
+            "appeal_outcome": [
+                "set aside the decision"
+            ]
+        }
+    ]
+}

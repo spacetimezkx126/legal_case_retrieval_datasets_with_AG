@@ -1,0 +1,44 @@
+{
+    "Case ID": "074187",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "incomplete information",
+                "misrepresentation"
+            ],
+            "decision_reasoning": [
+                "reliance on incomplete information",
+                "Bell's misrepresentation"
+            ],
+            "application_details": [
+                "termination based on age and perceived disability",
+                "dismissal citing settlement agreement"
+            ],
+            "cause_of_action": [
+                "employment termination",
+                "discrimination complaint"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "analysis of decision-making process",
+                "focus on procedural fairness and adequacy of investigation"
+            ],
+            "result_of_case": [
+                "court allowed judicial review",
+                "remitted to CHRC for reconsideration"
+            ],
+            "relevant_statute": [
+                "Canadian Human Rights Act"
+            ],
+            "standard_of_review": [
+                "limited unless procedural fairness is breached"
+            ],
+            "discretion_exercise": [
+                "CHRC can dismiss complaints if trivial, frivolous, vexatious, or made in bad faith"
+            ]
+        }
+    ]
+}

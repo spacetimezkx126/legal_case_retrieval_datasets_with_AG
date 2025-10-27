@@ -1,0 +1,32 @@
+{
+    "Case ID": "002134",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "administrative_decision": [
+                "failure to consider all material evidence",
+                "dismissed application without addressing UNHCR recognition"
+            ],
+            "decision_reasonableness": [
+                "unreasonable due to lack of analysis"
+            ],
+            "evidence_consideration": [
+                "UNHCR's recognition of the applicant as a refugee"
+            ],
+            "procedural_fairness": [
+                "inadequate reasons provided"
+            ],
+            "relevant_statute": [
+                "IRPA section 72(1)"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "court_ruling": [
+                "Court allowed judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Case ID": "089853",
+    "Different Crime": [
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "exclusion_reason": [
+                "information less than 20 years old",
+                "prepared during lawful investigations",
+                "could harm penal institution security"
+            ],
+            "decision_outcome": [
+                "dismissed the application"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed by the applicant challenging CSC's decision; court reviewed evidence and legal arguments."
+            ],
+            "applicable_statute": [
+                "Privacy Act"
+            ],
+            "judicial_authority": [
+                "court"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review of CSC’s decision"
+            ],
+            "evidence_consideration": [
+                "withheld information was gathered by investigative bodies within 20 years and involved lawful investigations"
+            ],
+            "risk_assessment": [
+                "Disclosing it could harm penal security or compromise ongoing investigations"
+            ],
+            "reasonableness_of_decision": [
+                "CSC's refusal to disclose information was lawful under the Privacy Act, as exemptions were correctly applied"
+            ],
+            "standard_of_proof": [
+                "exemptions for disclosure if information was obtained by an investigative body during lawful investigations or could harm penal institution security"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "document_disclosure_issues": [
+                "non-disclosure of information",
+                "third-party personal data",
+                "exemptions under Privacy Act"
+            ],
+            "applicable_law_section": [
+                "Privacy Act",
+                "paragraphs 19(1)(c), 19(1)(d), 22(1)(a), 22(1)(c), section 26"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "reasoning_given": [
+                "correctly identified exemptions",
+                "reasonably exercised discretion"
+            ],
+            "decision_outcome": [
+                "upholding CSC’s decision"
+            ]
+        },
+        {
+            "Crime Name": "Manslaughter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review of CSC's decision"
+            ],
+            "evidence_assessment": [
+                "withheld information was from investigative bodies within 20 years and related to lawful investigations"
+            ],
+            "decision_reasoning": [
+                "exemptions were correctly applied"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "relevant_statute": [
+                "Privacy Act"
+            ]
+        },
+        {
+            "Crime Name": "Weapons Offences",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review application",
+                "Office of the Privacy Commissioner investigation"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application"
+            ],
+            "applicable_laws": [
+                "sections 19, 22, and 26 of the Privacy Act"
+            ],
+            "standard_of_review": [
+                "exemptions were correctly applied"
+            ],
+            "court_ruling": [
+                "CSC's refusal to disclose information was in accordance with the Privacy Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "075654",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Confidentiality under Income Tax Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Income Tax Act"
+            ],
+            "decision_outcome": [
+                "RFIs invalidated; applicants awarded costs"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed statutory authority, purpose of RFIs, and confidentiality breaches"
+            ],
+            "evidence_provided": [
+                "lack of urgency, invasive service methods, disclosure of taxpayer information to police"
+            ],
+            "applicable_statute": [
+                "principle 'delegatus non potest delegare'"
+            ],
+            "judicial_authority": [
+                "CRA official improperly issued RFIs for police purposes"
+            ]
+        },
+        {
+            "Crime Name": "Improper Purpose in Issuing Requirements for Information",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 231.2(1) of the Income Tax Act"
+            ],
+            "decision_reasoning": [
+                "RFIs issued without proper authority",
+                "RFIs used for police assistance rather than genuine tax inquiries"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed issuance authority, purpose, and procedural irregularities of RFIs"
+            ],
+            "result_of_case": [
+                "RFIs quashed",
+                "applicants awarded costs"
+            ],
+            "relevant_statute": [
+                "Income Tax Act"
+            ]
+        }
+    ]
+}

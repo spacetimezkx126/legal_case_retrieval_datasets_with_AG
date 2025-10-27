@@ -1,0 +1,34 @@
+{
+    "Case ID": "038706",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "San Salvador",
+                "San Miguel",
+                "San Vicente"
+            ],
+            "reasonableness_standard": [
+                "factually possible",
+                "reasonable for the specific claimant"
+            ],
+            "risk_of_persecution": [
+                "credible threats from Mara 18"
+            ],
+            "country_conditions": [
+                "high crime and unemployment rates"
+            ],
+            "specific_vulnerabilities": [
+                "fragile mental health",
+                "limited education"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "decision_outcome": [
+                "unreasonable decision remitted for reassessment"
+            ]
+        }
+    ]
+}

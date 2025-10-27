@@ -1,0 +1,34 @@
+{
+    "Case ID": "073752",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Law Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "notification of changes",
+                "reasonable opportunity to respond"
+            ],
+            "decision_outcome": [
+                "judicial review partially allowed",
+                "original decision set aside",
+                "reconsideration ordered"
+            ],
+            "legal_basis": [
+                "administrative law",
+                "visa officer duty to notify"
+            ],
+            "appeal_outcome": [
+                "partially successful appeal",
+                "reconsideration with proper notice"
+            ],
+            "cause_of_action": [
+                "rejection under new rules",
+                "lack of prior notice"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ]
+        }
+    ]
+}

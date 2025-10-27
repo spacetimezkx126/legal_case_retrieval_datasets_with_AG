@@ -1,0 +1,32 @@
+{
+    "Case ID": "044691",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee status",
+                "religious persecution"
+            ],
+            "decision_reasoning": [
+                "unreasonable rejection of documents",
+                "lack of proper analysis"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "failure to analyze authenticity",
+                "acceptance of identity documents"
+            ],
+            "conclusion_outcome": [
+                "case returned for reconsideration"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "RPD decision quashed",
+                "reconsideration ordered"
+            ]
+        }
+    ]
+}

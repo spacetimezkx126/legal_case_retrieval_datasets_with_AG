@@ -1,0 +1,35 @@
+{
+    "Case ID": "020904",
+    "Different Crime": [
+        {
+            "Crime Name": "Absence Without Leave",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Charter of Rights and Freedoms, s. 7",
+                "Crown Liability and Proceedings Act, s. 22"
+            ],
+            "cause_of_action": [
+                "refusal to grant leave of absence or voluntary release"
+            ],
+            "relevant_statute": [
+                "Canadian Charter of Rights and Freedoms",
+                "Crown Liability and Proceedings Act"
+            ],
+            "application_details": [
+                "plaintiff signed an agreement obligating him to serve in exchange for funding",
+                "changes in medical licensing requirements justify his request for leave"
+            ],
+            "decision_reasoning": [
+                "no contractual or legal obligation to release him",
+                "grievance process was ongoing"
+            ],
+            "conclusion_outcome": [
+                "application for an injunction or stay is dismissed"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "ruling that the plaintiff's claim did not meet the criteria for injunctive relief or establish a violation of s. 7 rights"
+            ]
+        }
+    ]
+}

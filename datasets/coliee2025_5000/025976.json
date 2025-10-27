@@ -1,0 +1,30 @@
+{
+    "Case ID": "025976",
+    "Different Crime": [
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "officer of the court owes a duty to respect and enforce court orders"
+            ],
+            "decision_reasoning": [
+                "technical breach in good faith may still constitute contempt but can be mitigated in sentencing"
+            ],
+            "application_details": [
+                "Mr. Hughes disclosed material believing it was not confidential under the order, committing an error of law shared by the trial judge"
+            ],
+            "conclusion_outcome": [
+                "guilty of contempt but granted a discharge with a reduced cost penalty of $15,000"
+            ],
+            "cause_of_action": [
+                "Disclosure of allegedly non-confidential material contrary to a protective order"
+            ],
+            "procedure_steps": [
+                "Initial acquittal, appeal confirming legal error, final determination of guilt with mitigated penalty"
+            ],
+            "result_details": [
+                "Discharge granted; costs reduced to $15,000"
+            ]
+        }
+    ]
+}

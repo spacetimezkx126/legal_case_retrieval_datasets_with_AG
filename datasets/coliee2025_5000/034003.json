@@ -1,0 +1,43 @@
+{
+    "Case ID": "034003",
+    "Different Crime": [
+        {
+            "Crime Name": "Veterans Pension Entitlement Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Pension Act",
+                "VRAB Act Section 39",
+                "Federal Court Act Section 18.1"
+            ],
+            "evidence_assessment": [
+                "lack of evidence linking the injury to service",
+                "new medical evidence suggested the injury was service-related"
+            ],
+            "decision_reasoning": [
+                "unreasonably concluded that the applicant's injury was not service-related",
+                "Board rejected new medical evidence without addressing credibility"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "applicant fell in a shower aboard a military ship during training"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is allowed",
+                "VRAB's decision is set aside",
+                "matter is referred back for reconsideration by a different panel"
+            ],
+            "cause_of_action": [
+                "disability pension claim due to injury during military service"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed against legislative requirements and standards of review"
+            ],
+            "result_of_case": [
+                "court found Board's decision unreasonable",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

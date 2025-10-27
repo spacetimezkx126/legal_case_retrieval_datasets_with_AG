@@ -1,0 +1,32 @@
+{
+    "Case ID": "012737",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "refusal to postpone hearing",
+                "failure to consider relevant factors"
+            ],
+            "legal_basis": [
+                "Rule 48(4) of the Refugee Protection Division Rules"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "case remanded for re-determination"
+            ],
+            "burden_of_proof": [
+                "untimeliness and lack of diligence cited by Board"
+            ],
+            "contextual_factors": [
+                "applicants' youth",
+                "education level",
+                "complexity of case"
+            ],
+            "documentary_evidence": [
+                "Legal Aid delays"
+            ]
+        }
+    ]
+}

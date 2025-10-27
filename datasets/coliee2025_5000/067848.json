@@ -1,0 +1,40 @@
+{
+    "Case ID": "067848",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "natural justice",
+                "Convention refugee principles"
+            ],
+            "procedural_fairness": [
+                "incompetence of counsel",
+                "prejudice"
+            ],
+            "evidence_assessment": [
+                "past group persecution",
+                "state protection"
+            ],
+            "decision_reasoning": [
+                "inadequate representation",
+                "legal errors in persecution determination"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed",
+                "CRDD decision set aside and referred for redetermination"
+            ],
+            "cause_of_action": [
+                "denial of Convention refugee status"
+            ],
+            "procedure_followed": [
+                "application for judicial review",
+                "Federal Court reviewed issues"
+            ],
+            "result_of_case": [
+                "Court found incompetence of counsel and legal errors",
+                "ordering redetermination"
+            ]
+        }
+    ]
+}

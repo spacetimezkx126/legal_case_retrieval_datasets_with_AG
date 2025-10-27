@@ -1,0 +1,55 @@
+{
+    "Case ID": "009186",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide sufficient evidence of full-time employment by a Canadian business",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "did not meet residency requirements under IRPA"
+            ],
+            "document_authenticity": [
+                "doubted document authenticity"
+            ],
+            "credibility_assessment": [
+                "found credibility issues due to inconsistencies in testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient proof of remuneration or consistent documentation"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Federal Court dismissed Jin's application"
+            ]
+        },
+        {
+            "Crime Name": "Humanitarian and compassionate grounds insufficient for special relief",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "insufficient H&C grounds"
+            ],
+            "decision_reasonableness": [
+                "reasonable conclusion by IAD"
+            ],
+            "application_details": [
+                "long absences from Canada, questionable employment evidence, limited establishment in Canada"
+            ],
+            "relevant_statute": [
+                "IRPA s. 67(1)(c)"
+            ],
+            "cause_of_action": [
+                "failed to meet residency requirements"
+            ],
+            "procedure_steps": [
+                "Immigration officer issued removal order",
+                "IAD dismissed appeal",
+                "Federal Court reviewed decision"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed"
+            ]
+        }
+    ]
+}

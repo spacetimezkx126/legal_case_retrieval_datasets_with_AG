@@ -1,0 +1,27 @@
+{
+    "Case ID": "098606",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over the validity and infringement of Merck's patent by Apotex"
+            ],
+            "procedure_followed": [
+                "Merck filed a motion to strike paragraph 14 of Apotex's defense in a new proceeding, arguing res judicata. The court analyzed prior decisions and legal principles."
+            ],
+            "specific_rule_applied": [
+                "Res judicata principles, including issue estoppel, prevent re-litigation of issues already decided in prior proceedings if the same parties are involved and the decision was final."
+            ],
+            "decision_reasoning": [
+                "Apotex previously challenged Merck's patent validity in earlier proceedings. The Federal Court and Court of Appeal confirmed the patent's validity. Apotex now claims licensee estoppel to argue invalidity again, but this does not override issue estoppel as the same question was already decided."
+            ],
+            "result_of_case": [
+                "The court granted Merck's motion, striking out paragraph 14 of Apotex's defense with costs."
+            ],
+            "court_ruling": [
+                "Apotex cannot re-litigate the invalidity of Merck's patent due to issue estoppel."
+            ]
+        }
+    ]
+}

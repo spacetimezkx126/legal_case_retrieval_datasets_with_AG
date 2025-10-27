@@ -1,0 +1,32 @@
+{
+    "Case ID": "016586",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 113(a) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "new evidence",
+                "prior findings"
+            ],
+            "state_protection": [
+                "effective state protection",
+                "conflicting evidence"
+            ],
+            "procedural_fairness": [
+                "oral hearing",
+                "credibility issues"
+            ],
+            "decision_reasoning": [
+                "failure to consider new evidence",
+                "inadequate assessment of state protection"
+            ],
+            "result_of_case": [
+                "remanded for reconsideration",
+                "allowed application"
+            ]
+        }
+    ]
+}

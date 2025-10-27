@@ -1,0 +1,79 @@
+{
+    "Case ID": "005942",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal obligations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "insufficient H&C grounds"
+            ],
+            "procedural_fairness": [
+                "no breach of fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "document_authenticity": [
+                "refusal to submit necessary documents"
+            ],
+            "residency_requirements": [
+                "failed attempts to establish residency"
+            ],
+            "criminality_inadmissibility": [
+                "history of non-compliance, criminal activity"
+            ]
+        },
+        {
+            "Crime Name": "Fraud under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "insufficient hardship justifications",
+                "doubts about cooperation with authorities"
+            ],
+            "judicial_authority": [
+                "IRPA subsection 72"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter",
+                "correctness and reasonableness standards"
+            ],
+            "mitigating_factors": [
+                "received a pardon"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Officer must assess H&C considerations reasonably, without bias, and provide fair notice to the applicant"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "assessed reasonably",
+                "no bias",
+                "fair notice of negative factors"
+            ],
+            "past_criminal_convictions": [
+                "considered in context",
+                "not used as negative factor"
+            ],
+            "family_ties": [
+                "ties to Canada assessed"
+            ],
+            "procedural_fairness": [
+                "no procedural unfairness"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable"
+            ],
+            "immigration_status": [
+                "applicant sought permanent residence"
+            ]
+        }
+    ]
+}

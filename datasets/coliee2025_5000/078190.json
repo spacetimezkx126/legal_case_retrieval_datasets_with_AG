@@ -1,0 +1,61 @@
+{
+    "Case ID": "078190",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized crime offence",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "decision_outcome": [
+                "denied"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "international drug trafficking"
+            ],
+            "serious_criminality": [
+                "premeditated crime involving significant planning and financing"
+            ],
+            "reasonableness_standard": [
+                "significant risk of future organized crime involvement"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "International drug trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "risk_assessment": [
+                "significant risk of committing organized crime"
+            ],
+            "evidence_sufficiency": [
+                "seriousness of the offense and lack of cooperation"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "ITOA"
+            ],
+            "criminal_history": [
+                "convicted of drug trafficking"
+            ],
+            "transfer_request": [
+                "denied"
+            ]
+        }
+    ]
+}

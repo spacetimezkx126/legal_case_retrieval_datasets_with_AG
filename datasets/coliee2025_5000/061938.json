@@ -1,0 +1,54 @@
+{
+    "Case ID": "061938",
+    "Different Crime": [
+        {
+            "Crime Name": "Threatening to cause bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "family_ties": [
+                "applicant's son"
+            ],
+            "criminal_history": [
+                "son convicted of threatening bodily harm"
+            ],
+            "legal_basis": [
+                "s. 72(1)(e)(i) of the Regulations",
+                "s. 42"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed family member status"
+            ],
+            "immigration_status": [
+                "inadmissibility issues"
+            ],
+            "humanitarian_concerns": [],
+            "risk_assessment": []
+        },
+        {
+            "Crime Name": "Criminality leading to inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Regulations"
+            ],
+            "application_details": [
+                "Applicant's son was under 22 when the application was submitted, making him a dependent child"
+            ],
+            "decision_reasoning": [
+                "Section 42 did not apply as it pertains to admissibility, not permanent residency requirements"
+            ],
+            "relevant_statute": [
+                "Section 42",
+                "s. 72(1)(e)(i)"
+            ],
+            "cause_of_action": [
+                "Applicant's son convicted of a crime outside Canada, making him inadmissible"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed whether the son was a 'family member' and if s. 42 applied. Standard of reasonableness used"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; applicant can reapply if all conditions are met"
+            ]
+        }
+    ]
+}

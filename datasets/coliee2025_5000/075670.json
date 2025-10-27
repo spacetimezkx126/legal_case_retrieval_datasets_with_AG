@@ -1,0 +1,108 @@
+{
+    "Case ID": "075670",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "perceived LTTE association"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "M/V Sun Sea",
+                "LTTE connections"
+            ],
+            "risk_assessment": [
+                "lack of personal LTTE ties"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "immigration proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Association with a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "refugee_status_claim": [
+                "Applicant claimed refugee protection fearing persecution due to perceived LTTE association"
+            ],
+            "judicial_review_result": [
+                "Application dismissed; no certification of general importance"
+            ],
+            "evidence_assessment": [
+                "Evidence showing some MV Sun Sea passengers had LTTE ties"
+            ],
+            "decision_outcome": [
+                "Denial of refugee status"
+            ],
+            "standard_of_proof": [
+                "Reasonableness standard applied in judicial review"
+            ],
+            "credibility_findings": [
+                "Applicant unlikely to be perceived as linked to the LTTE"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "risk_to_national_security": [],
+            "membership_in_organization": [
+                "Perceived association with LTTE"
+            ]
+        },
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "justification, transparency, and intelligibility"
+            ],
+            "evidence_assessment": [
+                "M/V Sun Sea passengers",
+                "lack of LTTE ties"
+            ],
+            "risk_of_persecution": [
+                "perceived LTTE association"
+            ],
+            "conclusion_outcome": [
+                "reasonable and upheld"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Participating in or facilitating people smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "potential persecution in Sri Lanka"
+            ],
+            "persecution_grounds": [
+                "association with the M/V Sun Sea",
+                "link to the LTTE"
+            ],
+            "reasonableness_of_decision": [
+                "justification, transparency, and intelligibility",
+                "within a range of acceptable outcomes"
+            ],
+            "evidence_assessment": [
+                "Board considered evidence about the M/V Sun Sea's association with the LTTE",
+                "substance was addressed"
+            ],
+            "judicial_review_process": [
+                "Immigration and Refugee Protection Act",
+                "Federal Court applied reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

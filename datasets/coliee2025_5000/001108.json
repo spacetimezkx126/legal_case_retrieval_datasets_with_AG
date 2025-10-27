@@ -1,0 +1,29 @@
+{
+    "Case ID": "001108",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "little resemblance",
+                "differences in appearance, sound, and meaning"
+            ],
+            "distinctiveness_evaluation": [
+                "word 'London' lacks inherent distinctiveness"
+            ],
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "no likelihood of confusion"
+            ],
+            "procedural_fairness": [
+                "Initial opposition before the Trade-marks Opposition Board",
+                "appeal to the Federal Court under Section 56"
+            ]
+        }
+    ]
+}

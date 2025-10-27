@@ -1,0 +1,27 @@
+{
+    "Case ID": "034649",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(b) of the Citizenship Act",
+                "three years of residence in Canada within four years"
+            ],
+            "decision_outcome": [
+                "appeals allowed",
+                "Citizenship Court's orders rescinded"
+            ],
+            "immigration_status": [
+                "applicants for Canadian citizenship"
+            ],
+            "evidence_assessment": [
+                "insufficient physical presence",
+                "limited integration into Canadian society or institutions"
+            ],
+            "legal_basis": [
+                "s. 5(1)(b) of the Citizenship Act"
+            ]
+        }
+    ]
+}

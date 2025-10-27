@@ -1,0 +1,32 @@
+{
+    "Case ID": "010200",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "PM (NOC) Regulations"
+            ],
+            "decision_outcome": [
+                "Genpharm's allegation of non-infringement is justified",
+                "Court dismissed Lundbeck's application"
+            ],
+            "expert_testimony": [
+                "Expert evidence shows citalopram treats depression but lacks substantial proof of treating dementia or CVD"
+            ],
+            "applicable_statute": [
+                "PM (NOC) Regulations"
+            ],
+            "patent_validity": [
+                "Lundbeck's '368 patent covering dementia and cerebrovascular disorders"
+            ],
+            "technical_details": [
+                "citalopram for depression only",
+                "overlap between depression and dementia/CVD"
+            ],
+            "cause_of_action": [
+                "Genpharm sought approval to produce citalopram for depression, challenging Lundbeck's '368 patent"
+            ]
+        }
+    ]
+}

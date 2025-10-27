@@ -1,0 +1,33 @@
+{
+    "Case ID": "068800",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Crown Liability Act",
+                "Pension Act"
+            ],
+            "cause_of_action": [
+                "breach of contract",
+                "tortious conduct",
+                "constructive dismissal"
+            ],
+            "applicable_regulations": [
+                "Sections 9 of the Crown Liability Act",
+                "Section 111 of the Pension Act"
+            ],
+            "decision_reasoning": [
+                "Section 9 likely bars tort claims but not contract claims",
+                "Section 111 does not clearly bar contract-based claims"
+            ],
+            "procedure_followed": [
+                "Federal Court analyzed statutory provisions and case law"
+            ],
+            "result_of_case": [
+                "Summary judgment denied",
+                "claims proceed to trial"
+            ]
+        }
+    ]
+}

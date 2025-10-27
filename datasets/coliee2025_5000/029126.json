@@ -1,0 +1,28 @@
+{
+    "Case ID": "029126",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "not credible",
+                "contradictions"
+            ],
+            "evidence_assessment": [
+                "failed to analyze key evidence",
+                "inadequate reasoning"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "procedural flaws"
+            ],
+            "decision_reasonableness": [
+                "unreasonable decision-making"
+            ],
+            "refugee_status": [
+                "claimed refugee status",
+                "threats from a former client in Haiti"
+            ]
+        }
+    ]
+}

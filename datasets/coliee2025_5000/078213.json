@@ -1,0 +1,30 @@
+{
+    "Case ID": "078213",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "overstayed visa",
+                "worked without authorization"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage not genuine",
+                "marriage for immigration purposes"
+            ],
+            "evidence_assessment": [
+                "inconsistent evidence about relationship"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "Officer's decision upheld"
+            ],
+            "procedural_fairness": [
+                "analyzed whether Officer erred"
+            ],
+            "regulatory_compliance": [
+                "s. 4 of the Regulations"
+            ]
+        }
+    ]
+}

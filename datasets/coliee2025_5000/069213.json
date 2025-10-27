@@ -1,0 +1,32 @@
+{
+    "Case ID": "069213",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship",
+                "ability to adapt",
+                "EU membership",
+                "lack of cumulative impact evidence",
+                "Roma discrimination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "transparency",
+                "justification",
+                "intelligibility"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "upheld"
+            ],
+            "evidence_assessment": [
+                "contrary evidence",
+                "absence of personal experiences"
+            ]
+        }
+    ]
+}

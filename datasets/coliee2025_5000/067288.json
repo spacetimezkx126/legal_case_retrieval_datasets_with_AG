@@ -1,0 +1,47 @@
+{
+    "Case ID": "067288",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural Fairness Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "lacked procedural fairness",
+                "flaws in bias, notice, and participation"
+            ],
+            "legal_basis": [
+                "Administrative decisions must adhere to procedural fairness standards"
+            ],
+            "risk_assessment": [],
+            "humanitarian_compassionate_grounds": [],
+            "balance_of_convenience": [
+                "effects are stayed until a new tribunal resolves the appeal to avoid administrative disruption"
+            ],
+            "serious_issue": [
+                "Was the May 5, 1992 decision of the Cowessess Indian Band #73 Appeal Tribunal procedurally fair?"
+            ],
+            "irreparable_harm": []
+        },
+        {
+            "Crime Name": "Procedural Fairness Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "lacked procedural fairness",
+                "flaws in bias, notice, and participation"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "re-determination by a new tribunal"
+            ],
+            "applicable_laws": [
+                "administrative decisions must adhere to procedural fairness standards"
+            ],
+            "appeal_process": [
+                "judicial review identified procedural issues",
+                "directions were issued for re-determination"
+            ],
+            "court_ruling": [
+                "effects are stayed until a new tribunal resolves the appeal"
+            ]
+        }
+    ]
+}

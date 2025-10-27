@@ -1,0 +1,31 @@
+{
+    "Case ID": "099900",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Dispute over travel allowances and status classification during temporary assignments."
+            ],
+            "specific_rule_applied": [
+                "CBI",
+                "CFTDTI"
+            ],
+            "evidence_presented": [
+                "applicant worked at LFQA TC",
+                "lacked explicit consent documentation",
+                "position there supporting attached posting status"
+            ],
+            "decision_reasoning": [
+                "CDS reasonably concluded the applicant was on attached posting"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "CDS decision upheld"
+            ],
+            "procedure_followed": [
+                "Judicial review of CDS decision after grievance process involving initial authority and CFGB findings."
+            ]
+        }
+    ]
+}

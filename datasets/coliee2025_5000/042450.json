@@ -1,0 +1,79 @@
+{
+    "Case ID": "042450",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "numerous contradictions",
+                "implausible elements"
+            ],
+            "procedural_fairness": [],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraudulent passport use"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible"
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "credibility_findings": [
+                "cumulative inconsistencies",
+                "contradictions",
+                "implausibilities"
+            ],
+            "evidence_provided": [
+                "conflicting statements",
+                "fraudulent document use"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "IRPA Section 72"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "relationship_genuineness": [
+                "not credible"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "numerous inconsistencies",
+                "fraudulent entry",
+                "conflicting statements",
+                "implausible explanations"
+            ],
+            "standard_of_proof": [
+                "balance of probabilities"
+            ],
+            "refugee_status_claim": [
+                "rejected due to credibility issues"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "IRPA section 72"
+            ],
+            "decision_outcome": [
+                "upholding the Board's decision"
+            ]
+        }
+    ]
+}

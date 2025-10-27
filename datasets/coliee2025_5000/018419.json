@@ -1,0 +1,27 @@
+{
+    "Case ID": "018419",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Claim Abandonment",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "ss. 69.1(6)",
+                "ss. 69.1(11)"
+            ],
+            "procedural_fairness": [
+                "failure_to_attend_hearing",
+                "insufficient_justification_provided"
+            ],
+            "evidence_consideration": [
+                "key_facts_referenced",
+                "legal_requirements_mentioned"
+            ],
+            "reasonableness_of_decision": [
+                "met_legal_standards"
+            ],
+            "immigration_status": [
+                "claim_abandonment"
+            ]
+        }
+    ]
+}

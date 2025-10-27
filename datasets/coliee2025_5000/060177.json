@@ -1,0 +1,26 @@
+{
+    "Case ID": "060177",
+    "Different Crime": [
+        {
+            "Crime Name": "Passport alteration or misuse",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "insufficient residency evidence",
+                "altered passport",
+                "selective documents"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "residency_requirements": [
+                "failed to provide sufficient evidence of active residency"
+            ]
+        }
+    ]
+}

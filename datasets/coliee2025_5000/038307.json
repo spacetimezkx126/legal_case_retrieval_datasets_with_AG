@@ -1,0 +1,25 @@
+{
+    "Case ID": "038307",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "evidence_assessment": [
+                "completed 18 years of study",
+                "second Master’s and diploma not in progression of highest credential"
+            ],
+            "regulatory_compliance": [
+                "Section 78(3) of Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review before the Federal Court"
+            ]
+        }
+    ]
+}

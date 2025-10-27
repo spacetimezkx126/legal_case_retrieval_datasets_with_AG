@@ -1,0 +1,158 @@
+{
+    "Case ID": "045483",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in statements"
+            ],
+            "state_protection_analysis": [
+                "Italian state protection effective"
+            ],
+            "evidence_assessment": [
+                "lack of clear evidence"
+            ],
+            "refugee_status_eligibility": [
+                "failed to meet refugee criteria"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "presumption of adequate state protection",
+                "insufficient evidence to rebut"
+            ],
+            "credibility_findings": [
+                "central to the Board's jurisdiction"
+            ],
+            "evidence_provided": [
+                "limited evidence of seeking help from Italian authorities"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "risk_characterization": [
+                "fear of persecution by Sister Diana and her gang in Italy"
+            ],
+            "nexus_to_convention_grounds": [
+                "not a Convention refugee"
+            ],
+            "reasonableness_standard": [
+                "Board's decision on state protection and credibility was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "insufficient evidence",
+                "central to Board's jurisdiction"
+            ],
+            "state_protection_analysis": [
+                "presumption of adequate state protection",
+                "not rebutted by clear and convincing evidence"
+            ],
+            "risk_assessment": [
+                "fear of persecution in Italy"
+            ],
+            "evidence_consideration": [
+                "limited evidence of seeking help from Italian authorities"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable"
+            ],
+            "refugee_status_nexus": [
+                "applicant not a Convention refugee"
+            ],
+            "specific_threats_or_incidents": [
+                "threats from Sister Diana and her gang"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "insufficient evidence",
+                "central to Board's jurisdiction"
+            ],
+            "state_protection_analysis": [
+                "presumption of adequate state protection",
+                "rebuttal requires clear and convincing evidence"
+            ],
+            "evidence_quality": [
+                "limited evidence provided",
+                "not trustworthy"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision found reasonable"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ],
+            "refugee_status_claim": [
+                "fear of persecution in Italy"
+            ],
+            "refugee_status_outcome": [
+                "not a Convention refugee"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "decision_outcome": [
+                "upheld Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inconsistent claims"
+            ],
+            "state_protection": [
+                "inadequate state protection claimed"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence provided"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "decision_made_by": [
+                "Board",
+                "Federal Court"
+            ],
+            "review_process": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_findings": [
+                "inconsistent claims"
+            ],
+            "state_protection": [
+                "adequate state protection"
+            ],
+            "evidence_considered": [
+                "insufficient evidence"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "court_ruling": [
+                "Board's decision reasonable"
+            ]
+        }
+    ]
+}

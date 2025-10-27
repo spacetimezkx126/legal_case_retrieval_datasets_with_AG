@@ -1,0 +1,30 @@
+{
+    "Case ID": "079028",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "adequate_notice_to_former_counsel"
+            ],
+            "legal_basis": [
+                "section_55(4)_of_the_refugee_protection_division_rules"
+            ],
+            "decision_reasoning": [
+                "no_breach_of_procedural_fairness",
+                "insufficient_complaints_to_regulatory_bodies"
+            ],
+            "application_details": [
+                "applicants_claimed_previous_counsel_incompetence_prevented_presenting_critical_evidence"
+            ],
+            "result_of_case": [
+                "application_for_judicial_review_dismissed"
+            ],
+            "conclusion_outcome": [
+                "federal_court_dismissed_application",
+                "rpd_decision_reasonable_and_not_procedurally_unfair"
+            ]
+        }
+    ]
+}

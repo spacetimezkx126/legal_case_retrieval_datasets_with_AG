@@ -1,0 +1,33 @@
+{
+    "Case ID": "095095",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining documents through fraudulent means",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "false documents",
+                "inconsistencies",
+                "implausibilities"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of false documents",
+                "fraudulent means"
+            ],
+            "evidence_assessment": [
+                "ample evidence rejecting identity documents"
+            ],
+            "credibility_assessment": [
+                "inconsistencies and implausibilities in testimony"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "regulatory_compliance": [
+                "IRPA provisions for proving identity"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "035375",
+    "Crimes": [
+        {
+            "Crime_Name": "Overstaying visa",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Residency non-compliance",
+            "Legal_Issue": "Did the Board err in determining that Mr. Acosta faced generalized violence rather than a personalized risk?",
+            "Governing_Law": "Section 97 of the Immigration and Refugee Protection Act",
+            "Application_Facts": "The Board considered evidence showing the gang still sought Mr. Acosta but concluded his risk was not distinct from general Honduran violence.",
+            "Decision_Outcome": "The Board's decision was reasonable; application for judicial review dismissed."
+        },
+        {
+            "Crime_Name": "Failure to report to Customs/Immigration",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Non-reporting at entry",
+            "Legal_Issue": "Did the applicant fail to report to Customs/Immigration upon entering Canada, and does this affect his refugee claim?",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Acosta entered Canada without reporting to Customs/Immigration; his refugee claim was assessed based on personal versus generalized risk.",
+            "Decision_Outcome": "Court dismissed the application, upholding the Board's decision."
+        },
+        {
+            "Crime_Name": "Border crossing without authorization",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Refugee claim rejection based on risk assessment",
+            "Legal_Issue": "Did the Board reasonably conclude that Mr. Acosta faced generalized violence rather than a personalized risk?",
+            "Governing_Law": "Section 97 of the Immigration and Refugee Protection Act",
+            "Application_Facts": "Mr. Acosta entered Canada illegally after fleeing gang threats in Honduras; Board found risk was generalized.",
+            "Decision_Outcome": "Application for judicial review dismissed; Board's decision upheld."
+        }
+    ]
+}

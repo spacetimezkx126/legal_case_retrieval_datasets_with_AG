@@ -1,0 +1,30 @@
+{
+    "Case ID": "021198",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'694 Patent",
+                "'748 Patent"
+            ],
+            "specific_rule_applied": [
+                "Section 6(5)(a)",
+                "Section 6(5)(b)"
+            ],
+            "application_details": [
+                "'694 Patent irrelevant to approved PPI use",
+                "'748 Patent relevant to pantoprazole combined with antibiotics"
+            ],
+            "decision_reasoning": [
+                "'694 Patent improperly listed",
+                "'748 Patent properly listed"
+            ],
+            "result_of_case": [
+                "'694 Patent dismissed",
+                "'748 Patent retained",
+                "Genpharm's broader motion dismissed"
+            ]
+        }
+    ]
+}

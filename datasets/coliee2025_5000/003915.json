@@ -1,0 +1,30 @@
+{
+    "Case ID": "003915",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act provisions"
+            ],
+            "cause_of_action": [
+                "mandamus test"
+            ],
+            "application_details": [
+                "passed citizenship requirements",
+                "put on hold due to cessation proceedings"
+            ],
+            "decision_reasoning": [
+                "lacked statutory authority",
+                "public legal duty owed to the applicant",
+                "clear right to performance",
+                "no other adequate remedy",
+                "practical value",
+                "no equitable bar"
+            ],
+            "result_of_case": [
+                "Court granted mandamus order compelling CIC to process the application"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "014977",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "no serious issue identified"
+            ],
+            "irreparable_harm": [
+                "no clear evidence of irreparable harm"
+            ],
+            "balance_of_convenience": [
+                "public interest favors efficient enforcement of removal orders"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "unsuccessful H&C application"
+            ],
+            "procedural_fairness": [
+                "judicial review motion dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "tri-partite test for a stay of removal"
+            ],
+            "procedural_fairness": [
+                "H&C Officer's decision",
+                "judicial review motion filed with Federal Court"
+            ],
+            "evidence_considered": [
+                "no clear evidence of irreparable harm"
+            ],
+            "decision_outcome": [
+                "motion for stay of removal dismissed",
+                "Court dismissed the motion, upholding the removal order"
+            ],
+            "relevant_factors": [
+                "serious issue to be tried",
+                "irreparable harm if the stay is not granted",
+                "balance of convenience favoring the Applicants",
+                "public interest favors enforcing removal orders efficiently"
+            ],
+            "appeal_process": [
+                "challenging H&C Officer's decision"
+            ]
+        }
+    ]
+}

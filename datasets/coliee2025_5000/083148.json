@@ -1,0 +1,76 @@
+{
+    "Case ID": "083148",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "lack of nexus",
+                "no Convention ground"
+            ],
+            "evidence_assessment": [
+                "speculative risks",
+                "could not prove persecution"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "ineligible for refugee protection"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "misrepresentation in documents"
+            ]
+        },
+        {
+            "Crime Name": "Money Laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no Convention ground nexus exists"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Court"
+            ],
+            "decision_outcome": [
+                "dismissed the judicial review application",
+                "upholding the RPD's decision"
+            ],
+            "persecution_details": [
+                "alleged persecution in Russia over a construction dispute"
+            ],
+            "reasonableness_standard": [
+                "The RPD's decision was reasonable"
+            ],
+            "party_involved": [
+                "principal applicant"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "balance_of_interests": [
+                "prove risk on a balance of probabilities"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was reasonable"
+            ],
+            "refugee_status_claim": [
+                "no link between his fear and a Convention ground"
+            ],
+            "evidence_quality": [
+                "deemed the risks speculative due to lack of evidence"
+            ],
+            "judicial_review_result": [
+                "application for judicial review was dismissed"
+            ],
+            "court_ruling": [
+                "Court upheld RPD's decision"
+            ]
+        }
+    ]
+}

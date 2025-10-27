@@ -1,0 +1,31 @@
+{
+    "Case ID": "080261",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "presumed valid unless proven otherwise"
+            ],
+            "obviousness_analysis": [
+                "identifying inventive concept",
+                "determining self-evident to try"
+            ],
+            "utility_analysis": [
+                "demonstrated or soundly predicted at filing date"
+            ],
+            "evidence_presented": [
+                "expert testimonies",
+                "Notice of Allegation"
+            ],
+            "decision_reasoning": [
+                "differences from prior art were self-evident",
+                "promised utility was soundly predicted"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "costs awarded to Apotex"
+            ]
+        }
+    ]
+}

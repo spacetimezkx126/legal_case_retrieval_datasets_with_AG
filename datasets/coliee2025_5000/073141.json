@@ -1,0 +1,57 @@
+{
+    "Case ID": "073141",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 34(1)(f)",
+                "Section 34(2) of the Immigration and Refugee Protection Act"
+            ],
+            "criminality_inadmissibility": [
+                "terrorism links",
+                "membership in a terrorist organization"
+            ],
+            "decision_outcome": [
+                "unreasonable inadmissibility decision",
+                "patently unreasonable Minister's refusal",
+                "decisions set aside"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "regulatory_compliance": [
+                "officer's reasons lacked clarity",
+                "Minister's refusal ignored key guidelines"
+            ]
+        },
+        {
+            "Crime Name": "Engaging in Acts of Terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "decision_outcome": [
+                "denied permanent residence",
+                "judicial review applications allowed"
+            ],
+            "inadmissibility_criteria": [
+                "member of an organization reasonably believed to engage in terrorism"
+            ],
+            "reasoning_given": [
+                "insufficient reasoning",
+                "failure to apply the definition of terrorism"
+            ],
+            "judicial_review_result": [
+                "set aside both the officer's and Minister's decisions"
+            ]
+        }
+    ]
+}

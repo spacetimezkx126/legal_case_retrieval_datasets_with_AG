@@ -1,0 +1,30 @@
+{
+    "Case ID": "091701",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days",
+                "four years",
+                "physical presence test",
+                "normally resident test"
+            ],
+            "evidence_assessment": [
+                "inconclusive evidence",
+                "lacked evidence for part of the period"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "original rejection maintained"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "regulatory_compliance": [
+                " Citizenship Act",
+                "paragraph 5(1)(c)"
+            ]
+        }
+    ]
+}

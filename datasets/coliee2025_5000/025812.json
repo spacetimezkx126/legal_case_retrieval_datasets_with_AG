@@ -1,0 +1,115 @@
+{
+    "Case ID": "025812",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Means or Misrepresentation in Immigration Context",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "correctness"
+            ],
+            "procedural_fairness": [
+                "natural justice",
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of risk",
+                "lack of state protection attempts"
+            ],
+            "misrepresentation_or_fraud": [
+                "consultant's incompetence",
+                "failure to file written submissions"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "PRRA application denied"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "natural justice",
+                "fairness"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard",
+                "reasonable professional assistance"
+            ],
+            "evidence_provided": [
+                "lacked objective evidence",
+                "new evidence post-decision"
+            ],
+            "judicial_authority": [
+                "court dismissed the application"
+            ],
+            "appeal_outcome": [
+                "rejected"
+            ],
+            "cause_of_action": [
+                "PRRA application denied",
+                "consultant incompetence"
+            ],
+            "relationship_genuineness": [
+                "failed to file written submissions"
+            ],
+            "state_protection": [
+                "attempts of state protection"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "natural justice",
+                "fairness"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard",
+                "reasonable professional assistance"
+            ],
+            "evidence_provided": [
+                "written submissions",
+                "objective evidence of state protection attempts",
+                "new evidence post-decision"
+            ],
+            "judicial_review_result": [
+                "application dismissed",
+                "insufficient evidence of incompetence or prejudice"
+            ],
+            "decision_outcome": [
+                "PRRA application denied"
+            ],
+            "standard_of_proof": [
+                "correctness",
+                "competence must be proven"
+            ]
+        },
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "natural justice",
+                "procedural fairness"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "decision_reasoning": [
+                "insufficient evidence of incompetence or prejudice"
+            ],
+            "application_details": [
+                "PRRA application",
+                "consultant's actions"
+            ],
+            "result_of_case": [
+                "judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "no objective evidence of incompetence"
+            ]
+        }
+    ]
+}

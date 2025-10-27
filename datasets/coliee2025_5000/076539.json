@@ -1,0 +1,26 @@
+{
+    "Case ID": "076539",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency obligation non-compliance under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "IRPA s. 28(1)",
+                "Citizenship Act s. 5(1)"
+            ],
+            "immigration_status": [
+                "permanent residents",
+                "citizenship"
+            ],
+            "procedural_fairness": [
+                "refused an in-Canada interview"
+            ],
+            "decision_outcome": [
+                "mandamus application denied"
+            ],
+            "material_misrepresentation": [
+                "failure to meet residency requirements"
+            ]
+        }
+    ]
+}

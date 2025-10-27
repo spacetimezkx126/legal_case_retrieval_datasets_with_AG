@@ -1,0 +1,36 @@
+{
+    "Case ID": "001542",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "s. 2(3) of the Immigration Act"
+            ],
+            "risk_of_persecution": [
+                "past persecution",
+                "tortured by MQM",
+                "faced police persecution"
+            ],
+            "credibility_findings": [
+                "doubted his credibility"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case remanded for a new hearing"
+            ],
+            "standard_of_proof": [
+                "high threshold of s. 2(3)"
+            ],
+            "nexus_to_convention_grounds": [
+                "qualifies as a Convention refugee"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed the Board's interpretation"
+            ],
+            "specific_vulnerabilities": [
+                "continuing psychological effects"
+            ]
+        }
+    ]
+}

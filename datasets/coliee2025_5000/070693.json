@@ -1,0 +1,75 @@
+{
+    "Case ID": "070693",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lacked credible evidence",
+                "credibility concerns"
+            ],
+            "evidence_assessment": [
+                "significant deficiencies in the applicant's evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review",
+                "upholding the visa officer's decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "inability to provide credible proof of work experience",
+                "inconsistencies in his application"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.11",
+                "Regulations s.200(3)(a)"
+            ],
+            "decision_outcome": [
+                "work permit refused"
+            ],
+            "procedural_fairness": [
+                "judicial review filed under IRPA s.72(1)"
+            ],
+            "evidence_provided": [
+                "lacked credible evidence of professional experience",
+                "failed to answer questions",
+                "could not explain missing work certificates"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "party_involved": [
+                "visa officer",
+                "applicant"
+            ],
+            "claim_nature": [
+                "credibility issues"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "insufficient evidence and credibility concerns"
+            ],
+            "appeal_outcome": [
+                "Court upheld the visa officer's decision",
+                "applicant's judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "lack of credible evidence and experience"
+            ],
+            "nature_of_offense": [
+                "Immigration Fraud"
+            ]
+        }
+    ]
+}

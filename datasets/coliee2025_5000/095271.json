@@ -1,0 +1,46 @@
+{
+    "Case ID": "095271",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "Judicial review application with a request for time extension due to late filing"
+            ],
+            "decision_outcome": [
+                "Application denied; deportation order remains valid"
+            ],
+            "criminality_inadmissibility": [
+                "deportation order based on conviction"
+            ],
+            "standard_of_review": [
+                "time limit for judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Mischief under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_reasoning": [
+                "deportation orders are valid if based on a conviction that was lawful at the time",
+                "judicial review focuses on legality of decision when made, not retroactive annulment"
+            ],
+            "application_details": [
+                "applicant convicted of mischief and deported",
+                "conviction later overturned",
+                "delayed filing for judicial review"
+            ],
+            "conclusion_outcome": [
+                "application for extension of time and judicial review dismissed"
+            ],
+            "result_of_case": [
+                "deportation order remains valid as it was lawful when issued"
+            ]
+        }
+    ]
+}

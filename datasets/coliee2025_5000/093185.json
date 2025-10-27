@@ -1,0 +1,62 @@
+{
+    "Case ID": "093185",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of counterfeit identity documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "document_authenticity": [
+                "counterfeit identity documents",
+                "inconsistencies in explanations",
+                "first-generation RIC deemed counterfeit"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in explanations",
+                "country information indicating personal application required"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ],
+            "identity_verification": [
+                "Resident Identity Card (RIC) and passport provided by applicant"
+            ],
+            "misrepresentation_or_fraud": [
+                "male applicant used fraudulent documents to support his refugee claim"
+            ]
+        },
+        {
+            "Crime Name": "Use of fraudulent documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "Resident Identity Card (RIC)",
+                "passport"
+            ],
+            "evidence_provided": [
+                "inconsistencies with official procedures",
+                "implausible acquisition methods",
+                "ease of counterfeiting"
+            ],
+            "decision_outcome": [
+                "documents fraudulent",
+                "claims dismissed"
+            ],
+            "legal_basis": [
+                "IRPA Section 106",
+                "Rule 7"
+            ],
+            "procedural_fairness": [
+                "Refugee Protection Division reviewed evidence",
+                "judicial review upheld the decision"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "Male applicant used fraudulent documents to establish Chinese nationality while claiming refugee status in Canada"
+            ],
+            "standard_of_review": [
+                "reasonable"
+            ]
+        }
+    ]
+}

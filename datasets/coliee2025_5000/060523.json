@@ -1,0 +1,35 @@
+{
+    "Case ID": "060523",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Act, s. 22 and s. 43"
+            ],
+            "cause_of_action": [
+                "unpaid lease obligations"
+            ],
+            "relevant_statute": [
+                "Canadian maritime law"
+            ],
+            "application_details": [
+                "defendant defaulted on lease payments",
+                "lease agreement explicitly granted the plaintiff a maritime lien"
+            ],
+            "procedure_followed": [
+                "Plaintiff filed an in rem claim",
+                "defendant moved to dismiss it",
+                "oral arguments and analysis of relevant case law followed"
+            ],
+            "decision_reasoning": [
+                "containers were integral to the vessel's operation",
+                "maritime liens are recognized if agreed upon by parties in leases"
+            ],
+            "result_of_case": [
+                "Defendant's motion dismissed",
+                "plaintiff retains right to enforce lien"
+            ]
+        }
+    ]
+}

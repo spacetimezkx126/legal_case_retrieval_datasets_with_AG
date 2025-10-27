@@ -1,0 +1,147 @@
+{
+    "Case ID": "010770",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of property obtained by crime under $1000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "International Transfer of Offenders Act, s. 10"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "possession of property obtained by crime under $1000",
+                "drug conspiracy"
+            ],
+            "reasonableness_standard": [
+                "considering factors like threat to Canadian security and likelihood of committing future crimes"
+            ],
+            "mitigating_factors": [
+                "supportive family",
+                "CSC report favoring transfer"
+            ],
+            "risk_characterization": [
+                "perceived risks of reoffending"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "International Transfer of Offenders Act",
+                "Federal Courts Act"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "risk_assessment": [
+                "threat to Canadian security",
+                "potential for committing future crimes"
+            ],
+            "family_ties": [
+                "social/family ties"
+            ],
+            "criminal_history": [
+                "premeditated drug trafficking offense"
+            ],
+            "serious_issue": [
+                "involvement in organized crime"
+            ],
+            "reasonableness_of_decision": [
+                "Minister's decision is reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Criminal organization offence",
+            "Crime Type": "others",
+            "legal_basis": [
+                "International Transfer of Offenders Act"
+            ],
+            "decision_reasoning": [
+                "threat to Canadian security",
+                "social/family ties",
+                "likelihood of committing a criminal organization offence post-transfer"
+            ],
+            "discretion_exercise": [
+                "Minister's discretion",
+                "balancing relevant factors"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed Minister's discretion and reasonableness of decision-making process"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "costs awarded against the applicant"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to possess with intent to distribute cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "transfer_request": [
+                "denied"
+            ],
+            "serious_criminality": [
+                "yes"
+            ],
+            "criminal_history": [
+                "past criminal record"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_considered": [
+                "ties to disbanded criminal organization",
+                "supportive family",
+                "CSC report favoring transfer"
+            ],
+            "applicable_law_or_regulation": [
+                "International Transfer of Offenders Act"
+            ],
+            "balance_of_probabilities": [
+                "weighed appropriately"
+            ],
+            "consequences_of_decision": [
+                "applicant remains in U.S. to serve sentence"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Minister's decision upheld, judicial review application dismissed"
+            ],
+            "relevant_factors": [
+                "threat to security",
+                "social/family ties",
+                "risk of committing future crimes"
+            ],
+            "criminal_history": [
+                "ties to disbanded criminal organization",
+                "history of crime",
+                "serious drug offense"
+            ],
+            "family_impact": [
+                "supportive family"
+            ],
+            "court_ruling": [
+                "reasonable considering relevant factors and potential risks"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "018749",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 34(1)(b) and (f) of the IRPA"
+            ],
+            "criminality_inadmissibility": [
+                "engagement in subversion by force",
+                "membership in an organization engaging in subversion"
+            ],
+            "credibility_assessment": [
+                "reasonable grounds to believe the applicant was a member of KDPI"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "applicant remains inadmissible"
+            ],
+            "charter_rights": [
+                "arguments dismissed"
+            ],
+            "state_protection_analysis": [
+                "international law arguments dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Subversion by force of a government",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "34(1)(b)"
+            ],
+            "membership_in_organization": [
+                "KDPI"
+            ],
+            "involvement_details": [
+                "engaged in or instigated subversion by force"
+            ],
+            "evidence_provided": [
+                "history of insurrections and armed struggles"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ]
+        }
+    ]
+}

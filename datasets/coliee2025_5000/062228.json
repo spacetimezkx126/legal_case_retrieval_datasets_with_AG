@@ -1,0 +1,33 @@
+{
+    "Case ID": "062228",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "unreasonable analysis",
+                "ignored relevant evidence",
+                "undue hardship in Tirana"
+            ],
+            "reasonableness_standard": [
+                "RAD failed to apply properly",
+                "upheld RPD's IFA finding"
+            ],
+            "review_standard": [
+                "RAD's assessment of IFA",
+                "standards of review not met"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for redetermination"
+            ],
+            "evidence_assessment": [
+                "failed to address evidence",
+                "personal circumstances not considered"
+            ],
+            "risk_personalization": [
+                "applicant's personal circumstances"
+            ]
+        }
+    ]
+}

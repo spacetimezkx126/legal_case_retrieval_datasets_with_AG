@@ -1,0 +1,38 @@
+{
+    "Case ID": "064299",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "principles of natural justice"
+            ],
+            "procedural_fairness": [
+                "consideration of all evidence",
+                "opportunity to address discrepancies"
+            ],
+            "credibility_findings": [
+                "deemed not credible"
+            ],
+            "decision_reasoning": [
+                "Board ignored late submissions",
+                "relied on translation errors",
+                "failed to confront applicant with key inconsistencies"
+            ],
+            "court_ruling": [
+                "application for judicial review is allowed",
+                "case returned for rehearing before a different panel"
+            ],
+            "cause_of_action": [
+                "denied a fair hearing"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Board's decision-making process"
+            ],
+            "result_of_case": [
+                "breach of natural justice",
+                "ordered rehearing with new panel"
+            ]
+        }
+    ]
+}

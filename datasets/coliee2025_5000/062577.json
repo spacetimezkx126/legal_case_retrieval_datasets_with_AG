@@ -1,0 +1,80 @@
+{
+    "Case ID": "062577",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related Risk Assessment",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "risk_assessment": [
+                "PRRA assessments must consider new evidence not available during the original refugee claim"
+            ],
+            "evidence_consideration": [
+                "affidavit, letter, documents"
+            ],
+            "personalized_vs_generalized_risk": [
+                "no personalized risk existed"
+            ],
+            "reasonableness_of_decision": [
+                "The officer's decision was reasonable"
+            ],
+            "past_criminal_convictions": [],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Immigration-related Risk Assessment",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_sufficiency": [
+                "insufficient new evidence"
+            ],
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "risk_assessment": [
+                "no personalized risk"
+            ],
+            "decision_made_by": [
+                "CBSA officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "PRRA assessments must consider new evidence"
+            ],
+            "decision_outcome": [
+                "decision upheld",
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Immigration-related Risk Assessment",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "lack of credibility in asylum claim"
+            ],
+            "evidence_considered": [
+                "affidavit",
+                "letter",
+                "documents"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "judicial review application dismissed"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

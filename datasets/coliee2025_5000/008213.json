@@ -1,0 +1,52 @@
+{
+    "Case ID": "008213",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration sponsorship fraudulence suspicion",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.35(1)(b)",
+                "IRPA s.35(2)"
+            ],
+            "credibility_assessment": [
+                "divorce claim lacks substantiation"
+            ],
+            "evidence_assessment": [
+                "deemed inadmissible, but evidence shows no senior official status or involvement in atrocities"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for rehearing",
+                "decision overturned"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged senior military status",
+                "convenience divorce"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility for being a prescribed senior official in the service of a government engaging in human rights violations",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "section 35(1)(b) of IRPA",
+                "Section 16"
+            ],
+            "senior_official_involvement": [
+                "lieutenant colonel",
+                "aircraft maintenance engineer"
+            ],
+            "evidentiary_standard": [
+                "lacked on military hierarchy and his role's significance"
+            ],
+            "reasonableness_of_decision": [
+                "decision denying his sponsorship was unreasonable"
+            ],
+            "judicial_review_process": [
+                "Judicial review in Federal Court analyzing IRPA sections and evidence sufficiency"
+            ],
+            "decision_outcome": [
+                "Court granted judicial review, allowing Mr. Lutfi to potentially seek an exemption"
+            ]
+        }
+    ]
+}

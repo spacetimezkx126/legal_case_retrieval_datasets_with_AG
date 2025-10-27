@@ -1,0 +1,31 @@
+{
+    "Case ID": "002149",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_assessment": [
+                "implausible",
+                "not credible"
+            ],
+            "evidence_assessment": [
+                "documentary evidence",
+                "medical reports"
+            ],
+            "risk_assessment": [
+                "persecution risk",
+                "past torture",
+                "political suspicions"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "064085",
+    "Different Crime": [
+        {
+            "Crime Name": "Withholding material facts relating to a relevant matter under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "withholding material facts",
+                "refusal to disclose information"
+            ],
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissibility due to misrepresentation"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "refusal could have led to an inaccurate assessment of admissibility"
+            ],
+            "immigration_status": [
+                "permanent residency application refused"
+            ]
+        }
+    ]
+}

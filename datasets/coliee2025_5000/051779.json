@@ -1,0 +1,28 @@
+{
+    "Case ID": "051779",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "consideration of unique circumstances"
+            ],
+            "evidence_assessment": [
+                "refusal to consider new evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "reconsideration request denied",
+                "judicial review process initiated"
+            ],
+            "document_authenticity": [
+                "failure to submit updated documents",
+                "reliance on outdated instructions"
+            ]
+        }
+    ]
+}

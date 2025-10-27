@@ -1,0 +1,33 @@
+{
+    "Case ID": "008075",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "inability or unwillingness to seek state protection",
+                "credible fear",
+                "systemic corruption"
+            ],
+            "evidence_assessment": [
+                "failed to analyze credible fear",
+                "unsupported by evidence",
+                "unreasonable conclusion"
+            ],
+            "decision_outcome": [
+                "flawed due to inadequate reasoning",
+                "remitted for reconsideration"
+            ],
+            "risk_of_persecution": [
+                "threats and kidnappings in Mexico"
+            ],
+            "standard_of_review": [
+                "correctness for legal errors",
+                "reasonableness for factual findings"
+            ]
+        }
+    ]
+}

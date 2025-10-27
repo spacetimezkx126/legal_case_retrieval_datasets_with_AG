@@ -1,0 +1,76 @@
+{
+    "Case ID": "098329",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized criminality",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 37(1)(a)",
+                "IRPA s. 173"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "procedural_fairness": [
+                "adequate reasoning",
+                "reasonable grounds"
+            ],
+            "evidence_provided": [
+                "Exhibit 4",
+                "police interview transcript",
+                "P.A.'s affidavit",
+                "Applicant's testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "serious_criminality": [
+                "membership in a criminal organization"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "improper evidence handling",
+                "insufficient reasoning"
+            ],
+            "nature_of_offense": [
+                "organized criminality"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "inadmissibility_criteria": [
+                "membership in a criminal organization"
+            ],
+            "applicable_law_section": [
+                "IRPA s. 37(1)(a)"
+            ],
+            "evidence_provided": [
+                "Exhibit 4, a police interview"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; Board’s decision upheld."
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_assessment": [
+                "credible evidence supported the Board’s conclusion"
+            ],
+            "procedural_fairness": [
+                "no procedural errors"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Case ID": "090295",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Convention refugees",
+                "persons in need of protection"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of personalized risk",
+                "lack of evidence"
+            ],
+            "credibility_assessment": [
+                "Board's decision reasonable and adequately reasoned"
+            ],
+            "risk_assessment": [
+                "generalized violence in Haiti",
+                "past sexual assault and reporting it"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed the application",
+                "Refugee Protection Division denied protection"
+            ],
+            "legal_basis": [
+                "IRPA, s. 96",
+                "IRPA, s. 97",
+                "IRPA, s. 108(4)"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "generalized"
+            ],
+            "refugee_status_nexus": [
+                "sexual assault",
+                "membership in a particular social group"
+            ],
+            "specific_threats_or_incidents": [
+                "sexual assault"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "legal_basis": [
+                "IRPA s. 96",
+                "IRPA s. 97"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "religion",
+                "nationality",
+                "membership in a particular social group",
+                "political opinion"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision reasonable"
+            ],
+            "country_conditions": [
+                "Haiti"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Protect Victims",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "well-founded fear of persecution",
+                "personalized risk of harm"
+            ],
+            "procedural_fairness": [
+                "inconsistencies in the applicant's story",
+                "lack of evidence"
+            ],
+            "judicial_review_process": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "persecution_grounds": [
+                "past sexual assault",
+                "fear of future harm"
+            ],
+            "burden_of_proof": [
+                "demonstrate a well-founded fear of persecution or personalized risk of harm"
+            ],
+            "legal_basis": [
+                "IRPA ss. 96 and 97"
+            ]
+        }
+    ]
+}

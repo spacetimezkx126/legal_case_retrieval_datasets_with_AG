@@ -1,0 +1,29 @@
+{
+    "Case ID": "020165",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "review_standard": [
+                "complete review",
+                "no deference to RPD decisions"
+            ],
+            "procedural_fairness": [
+                "bias allegations",
+                "material evidence required"
+            ],
+            "credibility_findings": [
+                "RPD credibility assessment",
+                "deferential reasonableness standard"
+            ],
+            "decision_outcome": [
+                "judicial review partially succeeds",
+                "remanded to new RAD panel"
+            ],
+            "standard_of_review": [
+                "incorrect standard applied by RAD",
+                "full review of factual, legal, and mixed questions"
+            ]
+        }
+    ]
+}

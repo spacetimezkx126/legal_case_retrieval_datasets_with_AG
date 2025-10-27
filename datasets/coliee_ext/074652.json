@@ -1,0 +1,41 @@
+{
+    "Case ID": "074652",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Refugee claim based on gang threats",
+            "Sub_Crime_Type": "Threats and violence",
+            "Perpetrator_Type": "Gang (MS)",
+            "Victim_Status": "Businesspeople perceived as wealthy",
+            "Location_of_Incident": "El Salvador"
+        },
+        {
+            "Crime_Name": "Theft",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act, s. 97(1)",
+            "Procedural_Fairness_Issue": "Alleged error in Board's reasoning on risk assessment",
+            "Decision_Outcome": "Application for judicial review dismissed",
+            "Review_Mechanism": "Federal Court judicial review",
+            "Authority_Responsible": "Refugee Protection Division"
+        },
+        {
+            "Crime_Name": "Failure to report crime",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Generalized vs. personalized risk; availability of state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial review stage",
+            "Evidence_Assessment": "Applicants did not report incidents to authorities",
+            "Decision_Outcome": "Claim denied; application for judicial review dismissed"
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Threat_Source": "MS gang",
+            "Risk_Type": "Generalized risk",
+            "Risk_Nature": "Due to perceived wealth as businesspeople",
+            "Targeted_Victimization": "No evidence of unique targeting",
+            "Geographic_Context": "El Salvador"
+        }
+    ]
+}

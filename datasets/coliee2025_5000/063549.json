@@ -1,0 +1,122 @@
+{
+    "Case ID": "063549",
+    "Different Crime": [
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings and state protection assessments are reviewed for reasonableness. Decisions must be justified, transparent, and intelligible."
+            ],
+            "state_protection": [
+                "Country conditions evidence showed some government measures against extremists, suggesting possible state protection."
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "persecution_details": [
+                "Mr. Cheema claimed persecution by Sunni extremists due to his writings."
+            ],
+            "appeal_outcome": [
+                "Judicial review application dismissed"
+            ],
+            "relationship_genuineness": [
+                "The RPD found inconsistencies in Mr. Cheema's testimony regarding death threats and police involvement."
+            ]
+        },
+        {
+            "Crime Name": "Making Death Threats",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "adverse credibility finding"
+            ],
+            "reasonableness_of_decision": [
+                "justification",
+                "transparency",
+                "intelligibility"
+            ],
+            "evidence_consideration": [
+                "lack of credible evidence",
+                "contradictions in claim"
+            ],
+            "risk_of_persecution": [
+                "persecution due to articles criticizing religious extremism"
+            ],
+            "refugee_status_nexus": [
+                "denial of refugee status"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony regarding death threats and police involvement"
+            ],
+            "state_protection_analysis": [
+                "some government measures against extremists, suggesting possible state protection"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable based on credibility issues and available state protection"
+            ],
+            "refugee_status_claim": [
+                "persecution by Sunni extremists due to his writings"
+            ],
+            "judicial_review_result": [
+                "judicial review application dismissed"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "failed to prove inability to access state protection"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies in testimony vs. PIF affected credibility"
+            ],
+            "state_protection": [
+                "lack of evidence on police inefficiency undermined state protection claims"
+            ],
+            "decision_reasonableness": [
+                "RPD's decision was reasonable"
+            ],
+            "cause_of_action": [
+                "persecution by Sunni extremists due to Shia beliefs and writings"
+            ],
+            "procedure_steps": [
+                "judicial review analyzed RPD's credibility findings and state protection conclusions"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed; no question certified"
+            ]
+        },
+        {
+            "Crime Name": "Arson",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "reasonableness standard"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "undermined credibility"
+            ],
+            "state_protection": [
+                "state protection available in urban areas"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "applicable_laws": [
+                "reasonableness standard"
+            ],
+            "relevant_factors": [
+                "death threats",
+                "police involvement",
+                "extremist actions"
+            ]
+        }
+    ]
+}

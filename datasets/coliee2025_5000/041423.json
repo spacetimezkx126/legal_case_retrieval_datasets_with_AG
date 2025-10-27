@@ -1,0 +1,68 @@
+{
+    "Case ID": "041423",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "Applicant's criminal record led to deportation proceedings"
+            ],
+            "procedural_fairness": [
+                "Decisions on adjournments and appeals are reviewed for reasonableness, considering factors like procedural fairness"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "The IAD weighed humanitarian factors but prioritized societal risk over family ties"
+            ],
+            "reasonableness_standard": [
+                "The IAD's decisions were reasonable and did not breach procedural fairness"
+            ],
+            "judicial_authority": [
+                "Court upheld IAD's decisions, dismissing the application for judicial review"
+            ],
+            "public_interest": [
+                "prioritized societal risk over family ties"
+            ]
+        },
+        {
+            "Crime Name": "Criminal Harassment",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "procedural_fairness": [
+                "no breach"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "considered"
+            ],
+            "criminal_history": [
+                "convicted"
+            ],
+            "child_best_interests": [
+                "considered"
+            ],
+            "past_criminal_convictions": [
+                "yes"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "procedural_fairness": [
+                "upheld"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "weighed but not prioritized"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "deportation proceedings upheld"
+            ]
+        }
+    ]
+}

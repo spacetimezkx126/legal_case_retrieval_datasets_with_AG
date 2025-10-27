@@ -1,0 +1,77 @@
+{
+    "Case ID": "014290",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "citizenship rights in Guyana"
+            ],
+            "risk_assessment": [
+                "section 97 analysis"
+            ],
+            "evidence_assessment": [
+                "assumed citizenship without evidence"
+            ],
+            "decision_outcome": [
+                "tribunal's decision quashed; case remitted for reconsideration"
+            ],
+            "immigration_status": [
+                "Refugee claim denial"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "section 97"
+            ],
+            "decision_outcome": [
+                "Tribunal's decision quashed",
+                "case remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "Judicial review application",
+                "standard of review applied for legal and factual errors"
+            ],
+            "state_protection": [
+                "lack of state protection analysis"
+            ],
+            "identity_documents": [
+                "false passport"
+            ],
+            "cause_of_action": [
+                "Refugee claim denial"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "section 97",
+                "section 96"
+            ],
+            "procedural_fairness": [
+                "Judicial review application",
+                "standard of review applied for legal and factual errors"
+            ],
+            "refugee_status_claim": [
+                "Refugee claim denial based on perceived alternative citizenship and lack of state protection analysis"
+            ],
+            "state_protection_analysis": [
+                "Failed to conduct a proper section 97 analysis for Mr. Khan"
+            ],
+            "decision_outcome": [
+                "Tribunal's decision quashed; case remitted for reconsideration by a differently constituted tribunal"
+            ],
+            "evidence_provided": [
+                "Mrs. Khan used a false passport to enter the U.S."
+            ],
+            "reasoning_given": [
+                "The tribunal erred in assuming Mrs. Khan’s citizenship acquisition was within her control"
+            ]
+        }
+    ]
+}

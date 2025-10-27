@@ -1,0 +1,171 @@
+{
+    "Case ID": "003523",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation (implied by deportation context)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.115(2)(b)"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C application lacked sufficient hardship evidence"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant's criminal activities and gang involvement led to inadmissibility findings"
+            ],
+            "decision_outcome": [
+                "Applications dismissed; no certification questions granted"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed Delegate's decision on procedural fairness, legal standards, and evidence sufficiency"
+            ],
+            "risk_assessment": [
+                "deportation justified due to substantial gravity of acts"
+            ]
+        },
+        {
+            "Crime Name": "Fraud involving false mortgage applications (alleged, not convicted)",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "Applications for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed procedural fairness"
+            ],
+            "evidence_provided": [
+                "fraud charges",
+                "emphasized other evidence questioning the applicant's income"
+            ],
+            "standard_of_review": [
+                "reasonable belief"
+            ],
+            "judicial_authority": [
+                "Delegate"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "considering unproven fraud charges against the applicant under humanitarian and compassionate grounds"
+            ],
+            "nature_of_offense": [
+                "criminal conduct even if it did not lead to conviction"
+            ],
+            "mitigating_factors": [
+                "fraud allegations were minor compared to other crimes like aiding in homicide"
+            ]
+        },
+        {
+            "Crime Name": "Possibly aiding in the commission of a homicide",
+            "Crime Type": "Violence-related_Crimes",
+            "complicity_in_crimes": [
+                "aiding or abetting under Canadian criminal law (section 21)"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "evidence_consideration": [
+                "police reports",
+                "polygraph results indicating deceit"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness breach occurred"
+            ],
+            "reasonableness_of_decision": [
+                "Delegate's decision was reasonable and based on sufficient evidence"
+            ],
+            "applicant_involvement": [
+                "transported weapons for a gang-related homicide"
+            ],
+            "immigration_status": [
+                "deportation proceedings under IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Participation in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "yes"
+            ],
+            "complicity_in_crimes": [
+                "homicide"
+            ],
+            "evidence_provided": [
+                "prior convictions",
+                "gang involvement",
+                "LTTE links"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "decision_outcome": [
+                "deportation justified"
+            ],
+            "inadmissibility_criteria": [
+                "substantial gravity of acts"
+            ],
+            "applicable_law_section": [
+                "IRPA s.115(2)(b)"
+            ],
+            "judicial_review_result": [
+                "applications dismissed"
+            ],
+            "procedural_fairness": [
+                "analyzed"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds"
+            ]
+        },
+        {
+            "Crime Name": "Breaking and entering",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA section 115(2)(b)"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "evidence_presented": [
+                "police reports",
+                "polygraph results"
+            ],
+            "decision_reasoning": [
+                "acts substantially grave"
+            ],
+            "result_of_case": [
+                "Applications for judicial review dismissed"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Delegate's decision under IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 115(2)(b)",
+                "Criminal Code s. 21"
+            ],
+            "complicity_determination": [
+                "transported weapons for a gang-related homicide"
+            ],
+            "evidence_considered": [
+                "police reports",
+                "polygraph evidence",
+                "past convictions",
+                "gang involvement"
+            ],
+            "decision_outcome": [
+                "deportation justified"
+            ],
+            "criminal_history": [
+                "assault with a weapon",
+                "breaking and entering"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed procedural fairness"
+            ]
+        }
+    ]
+}

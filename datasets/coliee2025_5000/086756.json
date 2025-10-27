@@ -1,0 +1,58 @@
+{
+    "Case ID": "086756",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "Yes"
+            ],
+            "membership_in_organization": [
+                "Suspected ties with a criminal organization"
+            ],
+            "reasonableness_of_decision": [
+                "Reasonable"
+            ],
+            "evidence_credibility": [
+                "Lacking credibility"
+            ],
+            "judicial_review_result": [
+                "Dismissed"
+            ],
+            "applicable_law_section": [
+                "Section 19(1)(c.2) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "Denied permanent residence"
+            ]
+        },
+        {
+            "Crime Name": "Participation in organized crime",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 19(1)(c.2) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "procedural fairness examined"
+            ],
+            "evidence_assessment": [
+                "reasonable grounds",
+                "credible evidence",
+                "confidential information"
+            ],
+            "credibility_findings": [
+                "explanations not credible"
+            ],
+            "decision_reasoning": [
+                "national security concerns",
+                "specialized knowledge of triad activities"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "relevant_statute": [
+                "Immigration Act"
+            ]
+        }
+    ]
+}

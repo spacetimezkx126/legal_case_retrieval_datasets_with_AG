@@ -1,0 +1,27 @@
+{
+    "Case ID": "093321",
+    "Different Crime": [
+        {
+            "Crime Name": "Human Rights Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "specific_legal_test_application": [
+                "Grismer test"
+            ],
+            "burden_of_proof": [
+                "bona fide occupational requirements"
+            ],
+            "evidentiary_standard": [
+                "reasonableness"
+            ],
+            "judicial_review_process": [
+                "Judicial review application alleging Commission errors"
+            ],
+            "decision_outcome": [
+                "Judicial review granted; Commission's decision overturned and case remanded for further investigation"
+            ],
+            "charter_rights_violation": [
+                "Applicant's employment contract was not extended allegedly due to poor performance linked to undisclosed ADHD"
+            ]
+        }
+    ]
+}

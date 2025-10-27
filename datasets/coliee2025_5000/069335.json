@@ -1,0 +1,58 @@
+{
+    "Case ID": "069335",
+    "Different Crime": [
+        {
+            "Crime Name": "False Refugee Claim",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in evidence",
+                "unreliable corroborating documents",
+                "hearsay"
+            ],
+            "evidence_assessment": [
+                "negative inferences",
+                "PIF and testimony",
+                "psychological evidence"
+            ],
+            "decision_outcome": [
+                "reasonable decision",
+                "no errors warrant Court intervention"
+            ],
+            "refugee_status_eligibility": [
+                "lack of credibility",
+                "alleged Taliban persecution"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "Immigration and Refugee Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "Board's decision within acceptable outcomes"
+            ],
+            "evidence_provided": [
+                "inconsistencies in evidence",
+                "unreliable or hearsay documents"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "credibility_findings": [
+                "lack of credibility",
+                "negative inferences"
+            ],
+            "relationship_genuineness": [
+                "cumulative inconsistencies suggested lack of credibility"
+            ],
+            "serious_criminality": [
+                "refugee protection claim due to alleged persecution"
+            ],
+            "appeal_outcome": [
+                "no certification of general importance question"
+            ]
+        }
+    ]
+}

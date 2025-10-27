@@ -1,0 +1,83 @@
+{
+    "Case ID": "091216",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of trust by a public official",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "RRAFN Constitution and Election Act",
+                "Federal Courts Act",
+                "quo warranto"
+            ],
+            "decision_outcome": [
+                "Nelson Respondents ceased to hold office",
+                "Custom Council's decision upheld",
+                "costs awarded on solicitor-client basis"
+            ],
+            "procedural_fairness": [
+                "judicial review application",
+                "evidence through affidavits and cross-examinations"
+            ],
+            "cause_of_action": [
+                "Financial mismanagement",
+                "refusal to cooperate with audits"
+            ],
+            "nature_of_offense": [
+                "misconduct",
+                "ignoring governance rules and court rulings"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Quo warranto"
+            ],
+            "evidence_credibility": [
+                "fake resolution",
+                "knowingly disregarded governance rules"
+            ],
+            "procedural_fairness": [
+                "Judicial review application under Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Nelson Respondents ceased to hold office",
+                "Henry Respondents recognized as legitimate officials"
+            ],
+            "reasoning_given": [
+                "Financial mismanagement allegations",
+                "removal by Custom Council"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of court",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "Financial mismanagement"
+            ],
+            "relevant_rule": [
+                "RRAFN Constitution and Election Act",
+                "Custom Council authority"
+            ],
+            "procedure_followed": [
+                "Judicial review application under Federal Courts Act subsection 18.1"
+            ],
+            "evidence_presented": [
+                "affidavits",
+                "cross-examinations",
+                "legal arguments"
+            ],
+            "decision_reasoning": [
+                "disregarded governance rules and rule of law"
+            ],
+            "result_of_case": [
+                "Nelson Respondents ceased holding positions",
+                "Henry Respondents confirmed as legitimate Chief and Council",
+                "costs awarded on solicitor-client basis"
+            ],
+            "court_ruling": [
+                "declaratory and quo warranto relief granted"
+            ]
+        }
+    ]
+}

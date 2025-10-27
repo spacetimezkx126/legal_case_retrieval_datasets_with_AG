@@ -1,0 +1,48 @@
+{
+    "Case ID": "088955",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide required documentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Officer acted reasonably; no breach of procedural fairness occurred"
+            ],
+            "legal_basis": [
+                "Under IRPA, applicants must prove they are not inadmissible. Subsection 16(1) requires submission of all relevant documents."
+            ],
+            "evidence_assessment": [
+                "Applicant failed to provide UK tax returns despite being given time and reminders"
+            ],
+            "decision_outcome": [
+                "Court upheld officer's decision; judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review assessed whether officer's decision met procedural fairness and legal standards"
+            ]
+        },
+        {
+            "Crime Name": "Potential tax evasion under Income Tax Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Income Tax Act"
+            ],
+            "decision_outcome": [
+                "Court upheld the visa officer's decision"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed whether procedural fairness and legal requirements were met by the visa officer"
+            ],
+            "evidence_provided": [
+                "Applicant failed to provide UK tax documents despite multiple reminders"
+            ],
+            "applicable_statute": [
+                "Tax evasion is an indictable offense in both Canada and the UK"
+            ],
+            "judicial_authority": [
+                "visa officer",
+                "Court"
+            ]
+        }
+    ]
+}

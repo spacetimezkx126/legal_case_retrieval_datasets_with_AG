@@ -1,0 +1,74 @@
+{
+    "Case ID": "097034",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "available"
+            ],
+            "internal_flight_alternative": [
+                "not applicable"
+            ],
+            "risk_characterization": [
+                "diminished due to changed circumstances"
+            ],
+            "specific_targeting": [
+                "no longer present"
+            ],
+            "nexus_to_convention_grounds": [
+                "not established"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk no longer exists"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "decision_outcome": [
+                "denied claim"
+            ],
+            "procedural_fairness": [
+                "reviewed"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_provided": [
+                "Atyanski's conviction, Hungary addressing corruption"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "credible threats from Atyanski's criminal organization"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "police protection available",
+                "corruption addressed in Hungary"
+            ],
+            "evidence_consideration": [
+                "misinterpretation of evidence"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable conclusions by the RPD"
+            ],
+            "past_criminal_convictions": [
+                "Atyanski was convicted and sentenced"
+            ],
+            "refugee_status_nexus": [
+                "well-founded fear of persecution or risk to life"
+            ],
+            "country_conditions": [
+                "changed country conditions in Hungary"
+            ]
+        }
+    ]
+}

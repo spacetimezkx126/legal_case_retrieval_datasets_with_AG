@@ -1,0 +1,29 @@
+{
+    "Case ID": "094232",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days",
+                "four years preceding application",
+                "840 days claimed",
+                "347 days short"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "Ineligible for citizenship"
+            ],
+            "evidence_assessment": [
+                "Additional documentation rejected as insufficient"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ]
+        }
+    ]
+}

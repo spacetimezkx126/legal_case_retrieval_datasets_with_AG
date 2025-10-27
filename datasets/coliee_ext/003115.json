@@ -1,0 +1,170 @@
+{
+    "Case ID": "003115",
+    "Crimes": [
+        {
+            "Crime_Name": "Being a Member of an Organization Reasonably Believed to Engage in Terrorism",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "MQM-A engaged in terrorism during the applicant's membership",
+            "Risk_Factor": "Membership in an organization linked to violence",
+            "Nature_of_Acts": [
+                "Killings",
+                "Torture"
+            ],
+            "Target_Entity": "Civilians or political opponents (implied by context)",
+            "Organization_Involved": "MQM-A",
+            "Admission_or_Involvement": "Applicant admitted membership; involvement details inconsistent",
+            "Individual_Behavior": "Changing statements deemed self-serving and unreliable",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "General membership, level of involvement disputed",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Credible evidence from intelligence or reports",
+                "Applicant’s statements"
+            ],
+            "Key_Evidence_Issue": "Inconsistencies in applicant's account",
+            "Evidence_Credibility": "Applicant's statements found not credible",
+            "Credibility_Factors": [
+                "Self-serving nature",
+                "Contradictory accounts"
+            ],
+            "Credibility_Assessment": "Unreliable",
+            "Evidence_Issues": [
+                "Reliance on unverified organizational links",
+                "Lack of corroboration for denial"
+            ],
+            "Standard_of_Proof": "Reasonable belief",
+            "Legal_Provision": "IRPA s. 34(1)(f)",
+            "Legal_Provision_Cited": "IRPA s. 34(1)(f)",
+            "Governing_Provision": "Immigration and Refugee Protection Act",
+            "Legal_Standard": "Reasonableness",
+            "Authority_Body": "Immigration Officer",
+            "Authority_Decision_Level": "Administrative decision",
+            "Decision_Level": "First-level determination",
+            "Authority_Decision": "Applicant is inadmissible",
+            "Decision_Outcome": "Permanent residency application denied",
+            "Outcome": "Inadmissible to Canada",
+            "Process": "Immigration screening and assessment",
+            "Procedural_Element": "Judicial review available",
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Application dismissed",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        },
+        {
+            "Crime_Name": "Inadmissibility to Canada for Membership in Terrorist Organization",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Inadmissibility under immigration law",
+            "Legal_Issue": "Was the immigration officer’s decision reasonable?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Applicant denied permanent residence due to alleged ties with MQM-A",
+            "Decision_Outcome": "Application for permanent residence denied",
+            "Remedy_Requested": "Judicial review to overturn inadmissibility finding",
+            "Court_Ruling": "Application for judicial review dismissed",
+            "Claimant_Status": "Applicant seeking permanent residency",
+            "Defendant_Behavior": "Alleged membership in MQM-A",
+            "Grounds_for_Claim": "Alleged inadmissibility under IRPA s. 34(1)(f)",
+            "Legal_Standard": "Reasonableness",
+            "Assessment_Factor": "Credible evidence linking MQM-A to terrorism",
+            "Applicable_Legislation": "IRPA s. 34(1)(f)",
+            "Procedural_Issue": null,
+            "Review_Standard": "Reasonableness",
+            "Credibility_Assessment": "Applicant's claims of minimal involvement not accepted",
+            "Evidence_Used": [
+                "Credible evidence of MQM-A’s terrorist activities",
+                "Applicant’s admission of membership"
+            ],
+            "Legal_Provision_Cited": "IRPA s. 34(1)(f)",
+            "Application_Basis": "Membership in organization reasonably believed to engage in terrorism",
+            "Evidence_Assessed": "Link between MQM-A and terrorism during applicant’s membership",
+            "Relief_Sought": "Overturn of inadmissibility decision",
+            "Governing_Rule": "IRPA s. 34(1)(f)",
+            "Evidentiary_Deficiency": null,
+            "Outcome": "Inadmissible upheld",
+            "Decisional_Body": "Immigration Officer",
+            "Harm_Assessment": "Risk to national security",
+            "Cause_Description": "Denial of permanent residence due to alleged ties with terrorist organization",
+            "Evidence_Handling": "Relied on credible intelligence and applicant testimony",
+            "Legal_Provision_Violated": "IRPA s. 34(1)(f)",
+            "Evidence_Issues": [
+                "Applicant’s inconsistent statements"
+            ],
+            "Residency_Compliance": "Failed admissibility check",
+            "Misrepresentation_Element": null,
+            "Legal_Provision": "IRPA s. 34(1)(f)",
+            "Jurisdictional_Issue": null,
+            "Evidence_Assessment": "Sufficient to establish reasonable belief",
+            "Decision_Rationale": "MQM-A engaged in killings and torture; applicant was a member",
+            "Country_of_Origin": null,
+            "Decision_Making_Body": "Immigration Officer",
+            "Evidentiary_Issues": [
+                "Credibility of applicant’s denial"
+            ],
+            "Legal_Standard_Applied": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Engaging in Terrorism",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "MQM-A engaged in violent acts including killings and torture",
+            "Risk_Factor": "Membership during active terrorist operations",
+            "Nature_of_Acts": [
+                "Killings",
+                "Torture"
+            ],
+            "Target_Entity": "Civilians or political opponents (implied)",
+            "Organization_Involved": "MQM-A",
+            "Admission_or_Involvement": "Applicant admitted membership; claimed minimal role",
+            "Individual_Behavior": "Claims of minimal involvement rejected based on lack of credibility",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "Active period coincided with terrorist activities",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Official reports",
+                "Intelligence",
+                "Applicant’s statements"
+            ],
+            "Key_Evidence_Issue": "Discrepancy between applicant’s claimed role and organizational conduct",
+            "Evidence_Credibility": "Applicant’s statements considered not credible",
+            "Credibility_Factors": [
+                "Self-serving",
+                "Lack of corroboration"
+            ],
+            "Credibility_Assessment": "Unreliable",
+            "Evidence_Issues": [
+                "Weight given to organizational behavior over individual claims"
+            ],
+            "Standard_of_Proof": "Reasonable belief",
+            "Legal_Provision": "IRPA s. 34(1)(f)",
+            "Legal_Provision_Cited": "IRPA s. 34(1)(f)",
+            "Governing_Provision": "Immigration and Refugee Protection Act",
+            "Legal_Standard": "Reasonableness",
+            "Authority_Body": "Immigration Officer",
+            "Authority_Decision_Level": "Administrative",
+            "Decision_Level": "Initial determination",
+            "Authority_Decision": "Applicant inadmissible due to membership in terrorist-linked organization",
+            "Decision_Outcome": "Permanent residency application denied",
+            "Outcome": "Inadmissible to Canada",
+            "Process": "Immigration inadmissibility assessment",
+            "Procedural_Element": "Subject to judicial review",
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Application dismissed",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        }
+    ]
+}

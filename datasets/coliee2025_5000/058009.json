@@ -1,0 +1,53 @@
+{
+    "Case ID": "058009",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistencies",
+                "minor and peripheral"
+            ],
+            "refugee_status_eligibility": [
+                "claim rejected",
+                "persecution by a gang in Turkey"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "Board's decision quashed",
+                "referred for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "inadequately considered psychologist's report",
+                "narratives, testimony, and documentation"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings by the Immigration and Refugee Board are reviewed on a reasonableness standard."
+            ],
+            "evidence_provided": [
+                "psychologist's report explaining memory issues",
+                "inconsistencies in the applicant's narratives, testimony, and documentation"
+            ],
+            "decision_outcome": [
+                "The Federal Court allowed the judicial review, quashed the Board's decision, and referred the matter to a different panel for reconsideration."
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed with the Federal Court challenging the Board's decision."
+            ],
+            "persecution_details": [
+                "The applicant claimed refugee status due to persecution by a gang in Turkey."
+            ],
+            "materiality_of_misrepresentation": [
+                "Inconsistencies must be rationally related to the applicant's credibility."
+            ]
+        }
+    ]
+}

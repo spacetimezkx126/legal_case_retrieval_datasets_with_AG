@@ -1,0 +1,30 @@
+{
+    "Case ID": "031191",
+    "Different Crime": [
+        {
+            "Crime Name": "Living in Canada without status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "assessed by officer",
+                "insufficient evidence provided"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "limited evidence provided",
+                "family unity mentioned",
+                "lack of integration",
+                "ability to visit Canada without visas"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "officer's decision upheld as reasonable"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of hardship",
+                "general letter on family unity"
+            ]
+        }
+    ]
+}

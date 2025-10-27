@@ -1,0 +1,29 @@
+{
+    "Case ID": "099397",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination based on race and color",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Canadian Human Rights Act"
+            ],
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "insufficient investigation"
+            ],
+            "evidentiary_standard": [
+                "focus on intent and motivation rather than circumstantial evidence"
+            ],
+            "specific_legal_test_application": [
+                "incorrect legal standards applied"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Commission's decision"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "referred back for reinvestigation"
+            ]
+        }
+    ]
+}

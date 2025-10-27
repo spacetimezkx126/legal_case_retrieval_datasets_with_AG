@@ -1,0 +1,26 @@
+{
+    "Case ID": "059798",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "solicitor-client privilege"
+            ],
+            "evidence_assessment": [
+                "irrelevance",
+                "mix facts with legal arguments or opinions"
+            ],
+            "procedural_fairness": [
+                "disclosure to another party but not used in the decision"
+            ],
+            "decision_reasoning": [
+                "protection of communications unless waived",
+                "does not prejudice the respondent"
+            ],
+            "result_of_case": [
+                "partially granted motion"
+            ]
+        }
+    ]
+}

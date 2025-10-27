@@ -1,0 +1,31 @@
+{
+    "Case ID": "014058",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "vague answers",
+                "doubts about marriage’s authenticity"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the IAD’s decision under IRPA subsection 72(1)"
+            ],
+            "evidence_assessment": [
+                "financial support",
+                "relationship duration",
+                "age difference",
+                "credibility of testimonies",
+                "significant financial transactions"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no question certified"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "deference to the tribunal's factual findings"
+            ]
+        }
+    ]
+}

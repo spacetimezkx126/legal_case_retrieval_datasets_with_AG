@@ -1,0 +1,47 @@
+{
+    "Case ID": "048419",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Obtain Authorization to Return Under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "PRRA Officer must disclose post-application evidence impacting the decision"
+            ],
+            "evidence_assessment": [
+                "applicant lacked corroborating evidence",
+                "Officer reviewed available documentation"
+            ],
+            "risk_assessment": [
+                "no significant risk found by Officer"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "returned to Canada without authorization after deportation"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality Leading to Deportation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "disclosing post-application evidence affecting the decision"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "officer reasonably weighed the evidence"
+            ],
+            "application_details": [
+                "applicant claimed the officer ignored his risk evidence and failed to disclose post-application documents"
+            ],
+            "conclusion_outcome": [
+                "judicial review application is dismissed"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the PRRA Officer's determination"
+            ]
+        }
+    ]
+}

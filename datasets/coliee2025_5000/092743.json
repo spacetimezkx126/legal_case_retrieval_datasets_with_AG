@@ -1,0 +1,55 @@
+{
+    "Case ID": "092743",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Provide Protection by Police",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "police inaction",
+                "domestic violence cases"
+            ],
+            "evidence_assessment": [
+                "applicant reported abuse five times",
+                "unsupported claims of improved policing",
+                "contrary evidence ignored"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "case referred back to the Board for reevaluation"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed",
+                "unreasonable expectations",
+                "burden of proof"
+            ],
+            "risk_assessment": [
+                "nearly being strangled to death",
+                "Repeated police inaction"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection_analysis": [
+                "inadequate police response",
+                "unsupported claims of improved policing"
+            ],
+            "evidence_consideration": [
+                "ignoring contrary evidence"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "risk_of_persecution": [
+                "repeated domestic abuse"
+            ],
+            "humanitarian_concerns": [
+                "fled Saint Lucia after repeated domestic abuse"
+            ]
+        }
+    ]
+}

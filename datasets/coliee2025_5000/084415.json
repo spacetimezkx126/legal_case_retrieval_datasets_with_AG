@@ -1,0 +1,77 @@
+{
+    "Case ID": "084415",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "officer failed to provide CBSA reports",
+                "officer did not define 'terrorism'"
+            ],
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted for redetermination"
+            ],
+            "criminality_inadmissibility": [
+                "ELF involvement in terrorism"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Membership in organization engaging in terrorism or subversion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "subsection 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "membership_in_organization": [
+                "ELF"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "remitted for redetermination by another visa officer"
+            ],
+            "evidence_provided": [
+                "Mr. Mekonen admitted to being a member of ELF but denied involvement in armed struggle"
+            ],
+            "reasoning_given": [
+                "officer found him inadmissible without disclosing relevant documents or defining 'terrorism'"
+            ]
+        },
+        {
+            "Crime Name": "Breach of procedural fairness in immigration decisions",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach",
+                "failure to disclose documents",
+                "hindering meaningful participation"
+            ],
+            "legal_basis": [
+                "subsection 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_review_process": [
+                "analyzed procedural fairness",
+                "focused on document disclosure and definitional clarity"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "remitted to a different visa officer"
+            ],
+            "burden_of_proof": [
+                "adequate procedural safeguards not met"
+            ],
+            "immigration_status": [
+                "deemed inadmissible"
+            ]
+        }
+    ]
+}

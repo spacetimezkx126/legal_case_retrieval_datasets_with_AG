@@ -1,0 +1,33 @@
+{
+    "Case ID": "062829",
+    "Different Crime": [
+        {
+            "Crime Name": "Maritime Collision",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Collision Regulations",
+                "Seaway Regulations",
+                "subrogation principles under Brazilian and Canadian law"
+            ],
+            "evidence_assessment": [
+                "expert testimonies",
+                "evidence on navigation practices",
+                "insurance contracts",
+                "liability"
+            ],
+            "decision_reasoning": [
+                "'Federal Danube' was anchored legally",
+                "'Beograd' navigated incorrectly",
+                "failed to account for currents"
+            ],
+            "conclusion_outcome": [
+                "Action dismissed",
+                "'Federal Danube' not at fault",
+                "costs awarded to defendants"
+            ],
+            "procedure_followed": [
+                "Trial"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "066993",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "insufficient evidence of residency"
+            ],
+            "evidence_assessment": [
+                "passive indicators of residence",
+                "low income",
+                "medical visits",
+                "tenancy agreements",
+                "laser treatment schedule"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case referred to another Citizenship Judge"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "procedural_fairness": [
+                "concerns not adequately addressed with the applicant during the interview"
+            ]
+        }
+    ]
+}

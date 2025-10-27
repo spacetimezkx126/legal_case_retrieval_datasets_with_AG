@@ -1,0 +1,55 @@
+{
+    "Case ID": "073407",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration application misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Regulation 125(1)(d)"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether the immigration officer applied the correct legal test for 'common-law partner'."
+            ],
+            "decision_outcome": [
+                "Case remanded for reconsideration"
+            ],
+            "immigration_status": [
+                "permanent resident application denied"
+            ],
+            "misrepresentation_or_fraud": [
+                "non-compliance with Regulation 125(1)(d)"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose common-law partner status",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Regulation 125(1)(d)"
+            ],
+            "procedural_fairness": [
+                "immigration officer failed to assess relationship"
+            ],
+            "decision_reasoning": [
+                "relationship not properly evaluated against 'common-law partner' definition"
+            ],
+            "application_details": [
+                "cohabitation began in 2002, mutual commitment formed in late 2005"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed, case remanded for reconsideration"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "acknowledged as potential factors"
+            ],
+            "procedure_followed": [
+                "judicial review application filed, Federal Court reviewed decision"
+            ],
+            "result_of_case": [
+                "case returned for reconsideration by a different immigration officer"
+            ]
+        }
+    ]
+}

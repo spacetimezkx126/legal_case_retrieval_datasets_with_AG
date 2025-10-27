@@ -1,0 +1,52 @@
+{
+    "Case ID": "093125",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [],
+            "applicable_regulations": [
+                "IRPA, s. 44(1)",
+                "IRPA, s. 36(1)(a)"
+            ],
+            "decision_reasoning": [
+                "Immigration officers must report inadmissible permanent residents based on 'relevant facts'",
+                "Humanitarian grounds are not part of the inquiry for serious criminality"
+            ],
+            "procedure_followed": [
+                "Immigration officer reported Mr. Correia",
+                "Delegate referred the case to Immigration Division",
+                "Removal order issued"
+            ],
+            "result_of_case": [
+                "Court dismissed the application",
+                "Referral process complied with IRPA"
+            ],
+            "cause_of_action": [
+                "Cocaine importation conviction"
+            ]
+        },
+        {
+            "Crime Name": "Importation of cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "Not considered"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act, ss. 44 and 45"
+            ],
+            "serious_criminality": [
+                "Conviction for cocaine importation"
+            ],
+            "decision_made_by": [
+                "Minister's delegate"
+            ],
+            "admissibility_hearing": [
+                "Referred to Immigration Division"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed, removal order issued"
+            ]
+        }
+    ]
+}

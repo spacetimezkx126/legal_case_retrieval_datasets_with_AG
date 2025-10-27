@@ -1,0 +1,29 @@
+{
+    "Case ID": "031095",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of fraudulent travel document",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 96 and 97",
+                "section 106",
+                "subsection 72(1)"
+            ],
+            "credibility_assessment": [
+                "lacked credible identity documentation",
+                "failed to provide reasonable efforts",
+                "weak witness testimony"
+            ],
+            "evidence_assessment": [
+                "applicant failed to establish credible persecution claims",
+                "minor errors about identity"
+            ],
+            "refugee_status_eligibility": [
+                "RPD’s decision rejecting the applicant's refugee status claim"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ]
+        }
+    ]
+}

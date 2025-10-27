@@ -1,0 +1,59 @@
+{
+    "Case ID": "044901",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "denied"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection in St. Lucia"
+            ],
+            "evidence_assessment": [
+                "domestic abuse claims",
+                "police corruption and ineffectiveness"
+            ],
+            "decision_outcome": [
+                "dismissed application for judicial review"
+            ],
+            "criminality_inadmissibility": [
+                "not applicable"
+            ],
+            "standard_of_review": [
+                "no reviewable error"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "police corruption",
+                "availability of state protection"
+            ],
+            "risk_of_persecution": [
+                "domestic abuse",
+                "abuser's connections",
+                "endanger her life"
+            ],
+            "legal_basis": [
+                "Canadian refugee law",
+                "seek state protection",
+                "rebut its availability"
+            ],
+            "humanitarian_concerns": [
+                "fled domestic violence",
+                "inadequate state protection"
+            ],
+            "reasonableness_of_decision": [
+                "no reviewable error",
+                "upheld the Board's decision"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "arguments from both parties"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Case ID": "060330",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_assessment": [
+                "issues with credibility based on cultural norms",
+                "questioning knowledge of persecution reasons"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "document_authenticity": [
+                "errors in document verification",
+                "alleged false documents"
+            ],
+            "refugee_status_eligibility": [
+                "claim for refugee status due to persecution"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "referred for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness for procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "breached procedural fairness"
+            ],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "evidence_provided": [
+                "document verification",
+                "credibility assessments",
+                "knowledge of persecution reasons"
+            ],
+            "claim_nature": [
+                "refugee claim"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "material_misrepresentation": [
+                "alleged false documents"
+            ],
+            "persecution_details": [
+                "persecution in Ethiopia"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "credibility issues"
+            ],
+            "nature_of_offense": [
+                "Immigration Fraud"
+            ]
+        }
+    ]
+}

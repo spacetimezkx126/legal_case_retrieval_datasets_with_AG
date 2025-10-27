@@ -1,0 +1,129 @@
+{
+    "Case ID": "064918",
+    "Crimes": [
+        {
+            "Crime_Name": "Membership in a terrorist organization",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "Respondent’s association with BK/BKI assessed as posing a security threat",
+            "Risk_Factor": "Financial support, contact with key members, incongruous testimony",
+            "Nature_of_Acts": "Association, financial support, communication with known members",
+            "Target_Entity": null,
+            "Organization_Involved": [
+                "Babbar Khalsa",
+                "Babbar Khalsa International (BKI)"
+            ],
+            "Admission_or_Involvement": "Involvement inferred beyond mere friendship",
+            "Individual_Behavior": "Incongruous testimony affecting credibility",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "Broad interpretation of membership under s. 19(1)(f)(iii)(B)",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Security intelligence reports",
+                "Testimony",
+                "Behavioral assessment"
+            ],
+            "Key_Evidence_Issue": "Credibility of respondent's testimony",
+            "Evidence_Credibility": "Low – testimony found incongruous",
+            "Credibility_Factors": [
+                "Inconsistencies in testimony",
+                "Concealment of associations"
+            ],
+            "Credibility_Assessment": "Negative – undermines reliability",
+            "Evidence_Issues": [
+                "Reliance on intelligence reports",
+                "Subjective assessment of behavior"
+            ],
+            "Standard_of_Proof": "Reasonable grounds to believe",
+            "Legal_Provision": "s. 19(1)(f)(iii)(B) of the Immigration Act",
+            "Legal_Provision_Cited": "s. 19(1)(f)(iii)(B)",
+            "Governing_Provision": "Immigration Act",
+            "Legal_Standard": "Reasonable grounds to believe",
+            "Authority_Body": "Ministers (Canadian government authorities)",
+            "Authority_Decision_Level": "Administrative",
+            "Decision_Level": "Ministerial certificate",
+            "Authority_Decision": "Certificate filed alleging inadmissibility",
+            "Decision_Outcome": "Respondent found inadmissible",
+            "Outcome": "Certificate deemed reasonable; deportation risk established",
+            "Process": "Judicial review of ministerial certificate",
+            "Procedural_Element": [
+                "Examination of intelligence reports",
+                "Hearing of evidence",
+                "Credibility assessment"
+            ],
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Certificate upheld",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        },
+        {
+            "Crime_Name": "Engaging in or supporting terrorism",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": true,
+            "National_Security_Danger": true,
+            "Threat_Assessment": "Association and financial support viewed as support for terrorism",
+            "Risk_Factor": "Financial contributions, interaction with key figures in BK/BKI",
+            "Nature_of_Acts": "Support through association and funding",
+            "Target_Entity": null,
+            "Organization_Involved": [
+                "Babbar Khalsa",
+                "Babbar Khalsa International (BKI)"
+            ],
+            "Admission_or_Involvement": "Involvement suggested beyond denial",
+            "Individual_Behavior": "Incongruous testimony indicating lack of candor",
+            "Leadership_Role": null,
+            "Nature_of_Membership": "Broad interpretation applied",
+            "Age_at_Time_of_Membership": null,
+            "Evidence_Type": [
+                "Security intelligence reports",
+                "Testimony",
+                "Associational links"
+            ],
+            "Key_Evidence_Issue": "Credibility of denials and explanations",
+            "Evidence_Credibility": "Low – testimony inconsistent",
+            "Credibility_Factors": [
+                "Inconsistencies",
+                "Failure to disclose connections"
+            ],
+            "Credibility_Assessment": "Negative – diminished reliability",
+            "Evidence_Issues": [
+                "Use of classified intelligence",
+                "Assessment based on indirect evidence"
+            ],
+            "Standard_of_Proof": "Reasonable grounds to believe",
+            "Legal_Provision": "s. 19(1)(f)(iii)(B) of the Immigration Act",
+            "Legal_Provision_Cited": "s. 19(1)(f)(iii)(B)",
+            "Governing_Provision": "Immigration Act",
+            "Legal_Standard": "Reasonable grounds to believe",
+            "Authority_Body": "Ministers (Canadian government authorities)",
+            "Authority_Decision_Level": "Administrative",
+            "Decision_Level": "Ministerial certificate",
+            "Authority_Decision": "Certificate filed alleging support for terrorism",
+            "Decision_Outcome": "Respondent found associated with terrorist organizations",
+            "Outcome": "Certificate upheld; inadmissibility confirmed",
+            "Process": "Judicial review with evidentiary hearing",
+            "Procedural_Element": [
+                "Review of intelligence",
+                "Credibility evaluation",
+                "Legal assessment"
+            ],
+            "Procedural_Issue": null,
+            "Procedural_Fairness_Issue": null,
+            "Standard_of_Review": "Reasonableness",
+            "Review_Standard": "Reasonableness",
+            "Judicial_Review_Outcome": "Certificate found reasonable",
+            "Institutional_Bias_Allegation": null,
+            "Reasoning_Deficiency": null,
+            "Detention_Factors": null,
+            "Length_of_Detention": null,
+            "Deportation_Risk": true
+        }
+    ]
+}

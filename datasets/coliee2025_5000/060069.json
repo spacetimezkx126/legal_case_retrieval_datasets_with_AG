@@ -1,0 +1,37 @@
+{
+    "Case ID": "060069",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "ensured"
+            ],
+            "evidence_assessment": [
+                "credibility",
+                "relevance",
+                "newness",
+                "materiality",
+                "state protection"
+            ],
+            "decision_reasoning": [
+                "no new evidence of risk or changes in country conditions"
+            ],
+            "applicable_regulations": [
+                "Immigration and Refugee Protection Act (IRPA) s. 113(a)"
+            ],
+            "cause_of_action": [
+                "judicial review after PRRA application denied"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed PRRA decision under reasonableness standard and addressed claims of procedural unfairness"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed; no question certified"
+            ]
+        }
+    ]
+}

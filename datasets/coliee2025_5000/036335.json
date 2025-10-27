@@ -1,0 +1,70 @@
+{
+    "Case ID": "036335",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized criminality",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "risk of torture or cruel treatment"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "quashed"
+            ],
+            "evidence_provided": [
+                "dated evidence",
+                "newer reports",
+                "NGO findings",
+                "corroborative evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "applicable_statute": [
+                "IRPA s. 115(1)",
+                "IRPA s. 97"
+            ],
+            "judicial_authority": [
+                "Delegate"
+            ],
+            "specific_targeting": [
+                "potential targeting in Sri Lanka"
+            ],
+            "nexus_to_convention_grounds": [
+                "risks of torture upon return"
+            ],
+            "appeal_outcome": [
+                "remitted for re-evaluation"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 115(2) of IRPA",
+                "Section 97"
+            ],
+            "evidence_assessment": [
+                "outdated evidence",
+                "ignored relevant NGO reports",
+                "failed to adequately address corroborating evidence"
+            ],
+            "decision_reasoning": [
+                "flawed evidence assessment"
+            ],
+            "risk_of_persecution": [
+                "potential targeting by Sri Lankan authorities or the LTTE"
+            ],
+            "cause_of_action": [
+                "Applicant's history of serious criminality and gang involvement"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Delegate's risk assessment"
+            ],
+            "result_of_case": [
+                "Delegate's decision quashed",
+                "case remanded for new risk assessment and balancing exercise"
+            ]
+        }
+    ]
+}

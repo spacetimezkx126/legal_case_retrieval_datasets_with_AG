@@ -1,0 +1,65 @@
+{
+    "Case ID": "001206",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Offense",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "reasonableness"
+            ],
+            "special_circumstances": [
+                "health issues",
+                "sexual assault allegations",
+                "potential risks in Pakistan"
+            ],
+            "judicial_authority": [
+                "enforcement officer"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "appeal_outcome": [
+                "judicial review application allowed",
+                "officer's decision quashed",
+                "reconsideration ordered"
+            ],
+            "cause_of_action": [
+                "refusal to defer removal"
+            ],
+            "procedural_fairness": [
+                "ignored health issues",
+                "focused on lack of subpoena",
+                "delayed PRRA application"
+            ]
+        },
+        {
+            "Crime Name": "Making Death Threats",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "fear of reprisals"
+            ],
+            "evidence_consideration": [
+                "credible evidence"
+            ],
+            "procedural_fairness": [
+                "failure to consider key factors"
+            ],
+            "humanitarian_concerns": [
+                "health",
+                "age"
+            ],
+            "criminal_history": [
+                "ongoing criminal proceedings"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

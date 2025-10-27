@@ -1,0 +1,29 @@
+{
+    "Case ID": "079279",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide required documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "various documents provided",
+                "omitted diplomatic passport",
+                "gaps in financial records",
+                "missing documents"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case remitted"
+            ],
+            "document_authenticity": [
+                "diplomatic passport crucial for verification",
+                "failure to submit or explain absence"
+            ]
+        }
+    ]
+}

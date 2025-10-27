@@ -1,0 +1,42 @@
+{
+    "Case ID": "024116",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies",
+                "implausibilities",
+                "not credible",
+                "evasive answers",
+                "contradictions"
+            ],
+            "procedural_fairness": [
+                "procedural error",
+                "not informing about specialized knowledge",
+                "did not affect overall decision"
+            ],
+            "reasonableness_standard": [
+                "Federal Court reviews under reasonableness",
+                "considering evidence, credibility, and procedural fairness"
+            ],
+            "decision_outcome": [
+                "denied refugee status",
+                "Commission’s decision reasonable",
+                "judicial review application dismissed"
+            ],
+            "inconsistencies_in_testimony": [
+                "inconsistencies",
+                "implausibilities",
+                "evasive answers",
+                "contradictions"
+            ],
+            "burden_of_proof": [
+                "Commission’s decision upheld"
+            ],
+            "risk_of_persecution": [
+                "alleged persecution in Syria"
+            ]
+        }
+    ]
+}

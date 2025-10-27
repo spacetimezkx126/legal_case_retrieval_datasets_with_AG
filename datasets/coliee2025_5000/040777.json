@@ -1,0 +1,27 @@
+{
+    "Case ID": "040777",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "burden_of_proof": [
+                "reasonable chance of persecution"
+            ],
+            "evidence_assessment": [
+                "errors in evaluating evidence",
+                "assuming facts not presented in evidence",
+                "misinterpreting testimony"
+            ],
+            "specific_threats": [
+                "perceived military threats"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed",
+                "case remitted for rehearing"
+            ],
+            "risk_of_persecution": [
+                "claimed risk of persecution in Honduras"
+            ]
+        }
+    ]
+}

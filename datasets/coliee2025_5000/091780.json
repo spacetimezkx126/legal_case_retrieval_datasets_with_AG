@@ -1,0 +1,80 @@
+{
+    "Case ID": "091780",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of False Documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "failure to prove identity"
+            ],
+            "document_authenticity": [
+                "Foreign documents presumed valid unless proven otherwise",
+                "Speculative reasoning without substantial evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "rehearing ordered"
+            ],
+            "standard_of_review": [
+                "Judicial review application allowed"
+            ],
+            "material_misrepresentation": [
+                "alleged failure to prove identity"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Process",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "ss. 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "identity_documents": [
+                "birth certificate",
+                "school certificate",
+                "NIC"
+            ],
+            "reasonableness_standard": [
+                "reasonableness simpliciter"
+            ],
+            "material_misrepresentation": [
+                "initial misrepresentation upon arrival"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "overturned",
+                "rehearing by a different panel"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_provided": [
+                "birth certificate",
+                "school certificate",
+                "NIC duplicate"
+            ],
+            "evidence_assessment": [
+                "dismissed due to speculative concerns about forgery and procedural issues"
+            ],
+            "judicial_review_result": [
+                "allowed judicial review",
+                "quashed the Board's decision",
+                "ordered a rehearing with a different panel"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

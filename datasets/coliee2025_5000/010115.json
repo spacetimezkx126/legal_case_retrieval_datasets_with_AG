@@ -1,0 +1,32 @@
+{
+    "Case ID": "010115",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Rule 397(1)",
+                "Section 72(2)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Motion dismissed"
+            ],
+            "procedural_fairness": [
+                "no-parallel-proceedings rule"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Immigration Appeal Division"
+            ],
+            "cause_of_action": [
+                "visa refusal"
+            ],
+            "appeal_outcome": [
+                "denied leave"
+            ]
+        }
+    ]
+}

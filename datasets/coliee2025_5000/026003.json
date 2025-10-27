@@ -1,0 +1,27 @@
+{
+    "Case ID": "026003",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules 81 and 82"
+            ],
+            "application_details": [
+                "affiant, a solicitor, lacked personal knowledge of the facts, relied on others' information, and did not seek court leave to argue based on his affidavit. A second affidavit attempted to address deficiencies but still violated Rule 82."
+            ],
+            "decision_reasoning": [
+                "Both affidavits are struck out due to violations of Rules 81 and 82."
+            ],
+            "cause_of_action": [
+                "Dispute over validity of affidavits filed in support of plaintiff's summary judgment motion."
+            ],
+            "procedure_followed": [
+                "Defendant moved to strike affidavits; court reviewed applicable rules and analyzed compliance."
+            ],
+            "result_of_case": [
+                "Motion granted; both affidavits struck out; no costs awarded."
+            ]
+        }
+    ]
+}

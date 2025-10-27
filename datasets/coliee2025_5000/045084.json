@@ -1,0 +1,91 @@
+{
+    "Case ID": "045084",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 7 of the Charter",
+                "Paragraph 113(a)",
+                "section 167"
+            ],
+            "procedural_fairness": [
+                "PRRA procedures",
+                "reasonableness and patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "no new evidence or risks",
+                "insufficient proof of persecution or torture upon return",
+                "no credible new evidence post-RPD rejection"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Court confirmed constitutional validity of paragraphs 113(a) and (b)"
+            ],
+            "charter_rights": [
+                "life, liberty, and security of person",
+                "subject to principles of fundamental justice"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 7 of the Charter",
+                "paragraph 113(a)",
+                "section 167"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "no violation occurred; application dismissed"
+            ],
+            "procedural_fairness": [
+                "PRRA procedures",
+                "Charter rights"
+            ],
+            "evidence_provided": [
+                "insufficient evidence post-rejection",
+                "no credible new evidence emerged post-RPD rejection"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Charter",
+                "Immigration Act"
+            ],
+            "claim_nature": [
+                "refugee status",
+                "political persecution"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "serious_criminality": [
+                "none"
+            ],
+            "material_misrepresentation": [
+                "none"
+            ],
+            "risk_characterization": [
+                "persecution or torture upon return"
+            ],
+            "nexus_to_convention_grounds": [
+                "political persecution"
+            ],
+            "personalized_vs_generalized_risk": [
+                "none"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "violation of Charter rights"
+            ],
+            "nature_of_offense": [
+                "Immigration Fraud"
+            ]
+        }
+    ]
+}

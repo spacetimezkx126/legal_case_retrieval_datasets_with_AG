@@ -1,0 +1,57 @@
+{
+    "Case ID": "038483",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of extrinsic evidence"
+            ],
+            "evidence_consideration": [
+                "undisclosed medical information",
+                "extrinsic evidence"
+            ],
+            "risk_assessment": [
+                "medical evidence about Jamaica"
+            ],
+            "humanitarian_concerns": [
+                "deferral of removal"
+            ],
+            "reasonableness_of_decision": [
+                "decision set aside and referred back"
+            ],
+            "legal_basis": [
+                "Section 48 of IRPA",
+                "Administrative law"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Duty of Fairness in Immigration Process",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of extrinsic evidence",
+                "natural justice principles"
+            ],
+            "evidentiary_standard": [
+                "undisclosed CBSA Medical Services Branch data"
+            ],
+            "judicial_review_process": [
+                "judicial review application filed",
+                "Federal Court analyzed duty of fairness"
+            ],
+            "administrative_error": [
+                "reliance on undisclosed extrinsic evidence"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "set aside the decision",
+                "referred back for updated PRRA and reconsideration"
+            ],
+            "immigration_status": [
+                "removal decision under IRPA Section 48"
+            ]
+        }
+    ]
+}

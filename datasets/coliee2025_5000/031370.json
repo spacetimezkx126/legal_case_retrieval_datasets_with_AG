@@ -1,0 +1,46 @@
+{
+    "Case ID": "031370",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate application refusal under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "insufficient evidence for irreparable harm or serious questions"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed applicant’s motion for stay using three legal tests"
+            ],
+            "decision_outcome": [
+                "Motion denied"
+            ],
+            "risk_assessment": [
+                "alleged risks in Peru were deemed insufficient"
+            ]
+        },
+        {
+            "Crime Name": "Pre-removal risk assessment refusal under Immigration and Refugee Protection Act",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA Section 48"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "risk_of_persecution": [
+                "deemed speculative or previously dismissed"
+            ],
+            "procedural_fairness": [
+                "Federal Court evaluated based on legal precedents and evidence provided"
+            ],
+            "stay_of_removal": [
+                "rejected"
+            ],
+            "burden_of_proof": [
+                "serious question, irreparable harm, or favorable balance of convenience"
+            ]
+        }
+    ]
+}

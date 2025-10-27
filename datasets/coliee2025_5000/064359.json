@@ -1,0 +1,27 @@
+{
+    "Case ID": "064359",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Sections 96, 97, 110, 111 of the IRPA"
+            ],
+            "credibility_assessment": [
+                "lack of credibility",
+                "discrepancies in visa application"
+            ],
+            "procedural_fairness": [
+                "RAD failed independent analysis",
+                "denied proper appeal"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "RAD erred in deferring to RPD findings"
+            ]
+        }
+    ]
+}

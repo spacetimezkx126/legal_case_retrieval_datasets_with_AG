@@ -1,0 +1,33 @@
+{
+    "Case ID": "094501",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "evidence_assessment"
+            ],
+            "legal_basis": [
+                "standard_of_proof",
+                "burden_of_proof"
+            ],
+            "decision_outcome": [
+                "stay_of_removal",
+                "independent_review_by_rad"
+            ],
+            "documentary_evidence": [
+                "translation_quality",
+                "contextual_factors"
+            ],
+            "procedural_fairness": [
+                "review_standard",
+                "standard_of_review"
+            ],
+            "risk_of_persecution": [
+                "specific_group_membership",
+                "social_group_membership"
+            ]
+        }
+    ]
+}

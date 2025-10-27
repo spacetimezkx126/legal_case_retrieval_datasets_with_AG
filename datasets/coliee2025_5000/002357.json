@@ -1,0 +1,27 @@
+{
+    "Case ID": "002357",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "visa officer failed to provide opportunity to address concerns"
+            ],
+            "decision_reasoning": [
+                "breach of procedural fairness due to unverified credibility concerns"
+            ],
+            "application_details": [
+                "authenticity of documents questioned, insufficient work experience description"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "decision quashed, reconsideration ordered by different visa officer"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

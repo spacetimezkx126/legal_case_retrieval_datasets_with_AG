@@ -1,0 +1,72 @@
+{
+    "Case ID": "025275",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration reporting requirements",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act",
+                "Section 113"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence provided by applicant"
+            ],
+            "risk_assessment": [
+                "personalized risks upon return to Romania"
+            ],
+            "decision_outcome": [
+                "PRRA officer's decision upheld",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed legal standards and procedures"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "evidence_sufficiency": [
+                "insufficient proof of personalized risk"
+            ],
+            "procedural_fairness": [
+                "officer is not obligated to seek additional evidence"
+            ],
+            "review_process": [
+                "Judicial review of PRRA decision"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "refugee_status": [
+                "Applicant's refugee claim was abandoned"
+            ],
+            "deportation_order": [
+                "convicted of drug offenses leading to deportation proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Risk of torture or cruel and unusual treatment upon deportation.",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "insufficient trustworthy evidence",
+                "documentary evidence was not submitted"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness or fundamental justice"
+            ],
+            "burden_of_proof": [
+                "applicant's responsibility to provide evidence"
+            ],
+            "decision_outcome": [
+                "Decision upheld",
+                "judicial review application is dismissed"
+            ]
+        }
+    ]
+}

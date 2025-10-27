@@ -1,0 +1,80 @@
+{
+    "Case ID": "047538",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown (corruption allegations not directly linked to specific criminal charges in the text)",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no nexus between extortion and Convention grounds"
+            ],
+            "state_protection": [
+                "insufficient evidence to rebut state protection"
+            ],
+            "internal_flight_alternative": [
+                "viable IFA to Kiev"
+            ],
+            "reasonableness_standard": [
+                "reviewed under reasonableness standard"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "judicial_authority": [
+                "Court dismissed the application, upholding the Board's original decision"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "insufficient evidence"
+            ],
+            "state_protection_analysis": [
+                "inability to access state protection",
+                "sufficient state protection"
+            ],
+            "internal_flight_alternative": [
+                "internal flight alternative to Kiev"
+            ],
+            "nexus_to_convention_grounds": [
+                "no nexus to enumerated grounds"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision was reasonable"
+            ],
+            "risk_of_persecution": [
+                "failed to prove lack of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Arson",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "state_protection": [
+                "credible evidence of state protection in Ukraine",
+                "internal flight alternative"
+            ],
+            "decision_outcome": [
+                "does not qualify as a Convention refugee or person in need of protection",
+                "judicial review application is dismissed"
+            ],
+            "applicable_laws": [
+                "Convention grounds (race, religion, nationality, political opinion, social group)"
+            ],
+            "procedural_fairness": [
+                "Refugee Protection Division reviewed the claim",
+                "Federal Court assessed the reasonableness of the Board's decision"
+            ],
+            "refugee_protection": [
+                "applicant claimed refugee status",
+                "alleging inability to access state protection"
+            ],
+            "court_ruling": [
+                "Federal Court dismissed the application for judicial review",
+                "upholding the Board's decision"
+            ]
+        }
+    ]
+}

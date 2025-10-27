@@ -1,0 +1,30 @@
+{
+    "Case ID": "030893",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Admissibility",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demands on social services",
+                "mental disability"
+            ],
+            "evidence_assessment": [
+                "sheltered workshop services",
+                "open labor market"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "original decision invalidated",
+                "reconsideration ordered"
+            ],
+            "legal_basis": [
+                "s. 19(1)(a)(ii) of the Immigration Act",
+                "s. 22(e) of the Regulations"
+            ],
+            "procedural_fairness": [
+                "failure to consider service accessibility",
+                "two-stage judicial review"
+            ]
+        }
+    ]
+}

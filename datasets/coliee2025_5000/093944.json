@@ -1,0 +1,38 @@
+{
+    "Case ID": "093944",
+    "Different Crime": [
+        {
+            "Crime Name": "Arson causing death",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "new expert reports",
+                "circumstantial evidence"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "criminality_inadmissibility": []
+        },
+        {
+            "Crime Name": "Second-degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "Minister's decision is reasonable"
+            ],
+            "evidence_consideration": [
+                "new expert reports",
+                "circumstantial evidence"
+            ],
+            "specific_threats_or_incidents": [
+                "use of an accelerant",
+                "intentional fire-setting"
+            ],
+            "criminal_history": [
+                "second-degree murder conviction"
+            ]
+        }
+    ]
+}

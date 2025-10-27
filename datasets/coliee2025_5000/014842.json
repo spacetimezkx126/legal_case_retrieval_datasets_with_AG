@@ -1,0 +1,28 @@
+{
+    "Case ID": "014842",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "adequate_reasons"
+            ],
+            "evidence_assessment": [
+                "minimal_evidence",
+                "insufficient_evidence"
+            ],
+            "decision_reasoning": [
+                "brief_reasons",
+                "key_issues_addressed"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "result_of_case": [
+                "application_dismissed",
+                "no_intervention_warranted"
+            ]
+        }
+    ]
+}

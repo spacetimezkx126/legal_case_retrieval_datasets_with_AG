@@ -1,0 +1,66 @@
+{
+    "Case ID": "031950",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "personal risk",
+                "generalized risk"
+            ],
+            "specific_targeting": [
+                "targeted by a gang for extortion"
+            ],
+            "irreparable_harm": [
+                "severe injuries",
+                "facial scar"
+            ],
+            "nexus_to_convention_grounds": [
+                "personal vendetta"
+            ],
+            "internal_flight_alternative": [],
+            "appeal_outcome": [
+                "overturned",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed"
+            ],
+            "procedural_fairness": [
+                "overlooked evidence of personal risk"
+            ],
+            "decision_outcome": [
+                "allowed"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "personal risk of persecution or harm"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "fearing further violence if returned"
+            ],
+            "internal_flight_alternative": [
+                "not applicable due to specific gang targeting"
+            ],
+            "risk_assessment": [
+                " Applicant targeted by a gang, beaten, and shot multiple times"
+            ],
+            "credibility_findings": [
+                "facial scar makes him easily identifiable"
+            ],
+            "decision_outcome": [
+                "Board's initial decision is overturned"
+            ],
+            "judicial_review_result": [
+                "case remanded for redetermination"
+            ]
+        }
+    ]
+}

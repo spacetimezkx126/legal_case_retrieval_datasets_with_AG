@@ -1,0 +1,29 @@
+{
+    "Case ID": "026970",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Pension Act"
+            ],
+            "evidence_assessment": [
+                "medical evidence",
+                "audiograms",
+                "patient history"
+            ],
+            "decision_reasoning": [
+                "not considering all evidence",
+                "relying only on audiograms"
+            ],
+            "application_details": [
+                "new medical evidence linking hearing loss to military service"
+            ],
+            "result_of_case": [
+                "application granted",
+                "case remanded for redetermination",
+                "costs awarded to Beauchene"
+            ]
+        }
+    ]
+}

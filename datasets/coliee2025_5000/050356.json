@@ -1,0 +1,37 @@
+{
+    "Case ID": "050356",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "procedural errors",
+                "clerical errors"
+            ],
+            "decision_outcome": [
+                "refusal invalidated",
+                "case remanded for reassessment"
+            ],
+            "applicable_statute": [
+                "Immigration Regulations, 1978"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "residency_requirements": [
+                "score at least 65 units (assisted relative)",
+                "score 70 units (independent immigrant)"
+            ],
+            "relationship_genuineness": [
+                "personal suitability"
+            ],
+            "standard_of_review": [
+                "officer's decision-making process"
+            ],
+            "mitigating_factors": [
+                "errors in assessing occupation",
+                "funds sufficiency"
+            ]
+        }
+    ]
+}

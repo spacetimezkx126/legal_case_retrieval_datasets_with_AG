@@ -1,0 +1,90 @@
+{
+    "Case ID": "059907",
+    "Different Crime": [
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 97(1)(b)(iv)"
+            ],
+            "exclusion_reason": [
+                "inadequate health care"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "evidence_provided": [
+                "mischaracterized evidence"
+            ],
+            "serious_criminality": [
+                " Applicant faced deportation due to serious criminality"
+            ],
+            "risk_characterization": [
+                "persecution due to mental illness"
+            ],
+            "nexus_to_convention_grounds": [
+                "state or community persecution"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "section 97(1)(b)(iv)"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection"
+            ],
+            "risk_assessment": [
+                "risk of abuse"
+            ],
+            "serious_issue": [
+                "mental illness"
+            ],
+            "criminal_history": [
+                "convicted of sexual assault"
+            ],
+            "psychological_impact": [
+                "paranoid schizophrenia"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "immigration_status": [
+                "faces deportation"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 97(1)(b)(iv)"
+            ],
+            "exclusion_reason": [
+                "inadequate health care"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "reconsideration by a different PRRA officer"
+            ],
+            "risk_assessment": [
+                "persecution due to mental illness"
+            ],
+            "evidence_assessment": [
+                "mischaracterized evidence"
+            ],
+            "applicable_law_section": [
+                "section 97"
+            ]
+        }
+    ]
+}

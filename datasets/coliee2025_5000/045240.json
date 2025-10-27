@@ -1,0 +1,28 @@
+{
+    "Case ID": "045240",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "insufficient physical presence"
+            ],
+            "procedural_fairness": [
+                "violation of natural justice",
+                "lack of prior notice"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case remanded for redetermination"
+            ],
+            "legal_basis": [
+                "section 5(1)(c) of the Citizenship Act",
+                "physical presence test"
+            ],
+            "standard_of_review": [
+                "applicable legal tests",
+                "principles of natural justice"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Case ID": "011311",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "refugee_status": [
+                "Convention Refugee",
+                "persecution in Israel",
+                "religion",
+                "military service"
+            ],
+            "applicable_regulations": [
+                "Immigration Act",
+                "refugee status requires proof of persecution"
+            ],
+            "decision_reasoning": [
+                "administrative decisions must materially affect outcomes to warrant reversal",
+                "faced discrimination as a Russian immigrant",
+                "received state support",
+                "military service alone does not constitute persecution",
+                "no evidence shows Israeli military activity violated international standards",
+                "applicant did not object to service as a conscientious objector"
+            ],
+            "conclusion_outcome": [
+                "application for refugee status is dismissed",
+                "no errors by the Board would change the outcome"
+            ],
+            "cause_of_action": [
+                "claimed refugee status in Canada",
+                "alleged persecution in Israel",
+                "based on religion and mandatory military service"
+            ],
+            "procedure_followed": [
+                "judicial review assessed whether the Board's decision was legally sound",
+                "certification of a legal question was warranted"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no serious question of general importance certified"
+            ]
+        }
+    ]
+}

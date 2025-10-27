@@ -1,0 +1,32 @@
+{
+    "Case ID": "001354",
+    "Different Crime": [
+        {
+            "Crime Name": "Disability Pension Eligibility",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canada Pension Plan",
+                "Pensions Appeal Board (PAB) decision"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "thumb injury in 1999",
+                "worked regularly until 2004",
+                "delusional disorder began post-MQP"
+            ],
+            "decision_reasoning": [
+                "no severe and prolonged disability by MQP end date"
+            ],
+            "application_details": [
+                "applicant claimed disability due to a thumb injury"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "applicant ineligible for benefits"
+            ]
+        }
+    ]
+}

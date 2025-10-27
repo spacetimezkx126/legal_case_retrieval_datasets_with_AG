@@ -1,0 +1,104 @@
+{
+    "Case ID": "088786",
+    "Crimes": [
+        {
+            "Crime_Name": "Obstruct Peace Officer",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration and Deportation",
+            "Legal_Issue": "Whether the Removal Officer erred in refusing to defer removal by failing to consider children's interests or misinterpreting criminal history",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial Review of Removal Order",
+            "Evidence_Assessment": "General hardship claims without specific evidence regarding children; accurate reflection of criminal record"
+        },
+        {
+            "Crime_Name": "Parole Violation",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration and Deportation",
+            "Legal_Issue": "Whether the Removal Officer erred in refusing to defer removal due to lack of consideration of children’s interests or misinterpretation of criminal history",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial Review of Removal Decision",
+            "Evidence_Assessment": "Extensive criminal record considered; insufficient evidence for deferral based on child welfare"
+        },
+        {
+            "Crime_Name": "Escape Lawful Custody",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration and Deportation",
+            "Legal_Issue": "Whether the Removal Officer improperly denied deferral by not considering children's interests or wrongly assessing criminal history",
+            "Governing_Law": "Section 48(2), Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial Review Application",
+            "Evidence_Assessment": "Vague claims of emotional harm; lengthy criminal record appropriately weighed"
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Violent Offense with Immigration Consequences",
+            "Perpetrator_Type": "Non-citizen with criminal record",
+            "Victim_Status": "Not specified",
+            "Location_of_Incident": "Canada",
+            "Threat_Source": "Applicant's prior conduct and criminality"
+        },
+        {
+            "Crime_Name": "Disguise with intent",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": "Potential risk due to past behavior and disregard for laws",
+            "Threat_Assessment": "Considered in context of immigration admissibility",
+            "Risk_Factor": "History of deception and non-compliance",
+            "Evidence_Type": "Criminal record and behavioral patterns",
+            "Standard_of_Proof": "Balance of probabilities"
+        },
+        {
+            "Crime_Name": "Robbery",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Serious Criminal Offense affecting immigration status",
+            "Prior_Criminality": "Longstanding criminal record including violent offenses",
+            "Criminality_Severity": "High – multiple indictable offenses",
+            "Risk_Assessment": "Significant public safety and compliance concerns",
+            "Decision_Outcome": "Removal order upheld"
+        },
+        {
+            "Crime_Name": "Fail to comply with Recognizance",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration Compliance and Enforcement",
+            "Legal_Issue": "Failure to meet bail conditions impacting immigration status",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Key_Evidence_Considered": "Criminal history, lack of compelling evidence for deferral",
+            "Outcome_on_Merits": "Application dismissed"
+        },
+        {
+            "Crime_Name": "Fail to attend court",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Breach of Legal Obligations Affecting Immigration Status",
+            "Legal_Issue": "Whether failure to appear justified refusal of deferral",
+            "Procedural_Stage": "Post-removal risk assessment and judicial review",
+            "Defendant_Response": "Claimed family ties and hardship",
+            "Evidence_Type": "Self-reported emotional impact on children"
+        },
+        {
+            "Crime_Name": "Possession of a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Weapons Offense with Immigration Consequences",
+            "Aggravating_Factors": "History of repeated criminal behavior",
+            "Mitigating_Factors": "Claims of reformation and family integration",
+            "Risk_Nature": "Public safety and law enforcement trust",
+            "Decision_Maker": "Removal Officer under IRPA"
+        },
+        {
+            "Crime_Name": "Providing false information to a police officer",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Misrepresentation and Credibility in Immigration Proceedings",
+            "Credibility_Assessment": "Negative due to criminal history involving dishonesty",
+            "Document_Fraud": "False statements during law enforcement interaction",
+            "Legal_Provision_Cited": "Relevant provisions of IRPA related to misrepresentation",
+            "Grounds_for_Inadmissibility": "Serious criminality and lack of credibility"
+        },
+        {
+            "Crime_Name": "Obstruction of Justice",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Interference with legal processes affecting immigration outcomes",
+            "Legal_Standard": "Patent unreasonableness standard on judicial review",
+            "Evidence_Used": "Criminal record, deferral request content, officer notes",
+            "Governing_Rule": "Section 48(2), Immigration and Refugee Protection Act",
+            "Outcome": "Removal order enforced; no deferral granted"
+        }
+    ]
+}

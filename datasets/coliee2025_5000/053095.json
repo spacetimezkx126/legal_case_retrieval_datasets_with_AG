@@ -1,0 +1,84 @@
+{
+    "Case ID": "053095",
+    "Different Crime": [
+        {
+            "Crime Name": "Re-entering Canada under false pretenses",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "Officer failed to assess risk of persecution or torture upon return to China"
+            ],
+            "decision_outcome": [
+                "case returned for reconsideration focusing solely on risk assessment"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed reasonableness of Officer's decision"
+            ],
+            "criminality_inadmissibility": [
+                "re-entered Canada illegally"
+            ],
+            "procedural_fairness": [
+                "Officer erred by not considering the risk Mr. Wong might face"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a narcotic for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "risk_assessment": [
+                "risk he would face upon returning to China",
+                "potential risks"
+            ],
+            "decision_made_by": [
+                "Enforcement Officer"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "criminal_history": [
+                "re-entered Canada illegally",
+                "criminal record"
+            ],
+            "decision_outcome": [
+                "The application was partially allowed",
+                "sent back for reconsideration focused on the risk aspect"
+            ],
+            "applicable_law_or_regulation": [
+                "Enforcement Officers must consider allegations of risk when no timely PRRA assessment has occurred"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "interests of his Canadian-born children"
+            ],
+            "deportation_order": [
+                "faced deportation"
+            ],
+            "evidence_considered": [
+                "second PRRA application"
+            ]
+        },
+        {
+            "Crime Name": "Possessing prohibited weapons",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "risk_assessment": [
+                "risk of persecution or torture upon return"
+            ],
+            "immigration_status": [
+                "re-entered Canada illegally",
+                "PRRA application filed late"
+            ],
+            "decision_outcome": [
+                "case is returned for reconsideration"
+            ],
+            "court_ruling": [
+                "application was partially allowed"
+            ],
+            "criminal_history": [
+                "history of criminal convictions"
+            ],
+            "procedural_fairness": [
+                "Enforcement Officers must consider allegations of risk"
+            ],
+            "appeal_process": [
+                "sought judicial review"
+            ]
+        }
+    ]
+}

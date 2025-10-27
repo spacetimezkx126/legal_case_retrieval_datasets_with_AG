@@ -1,0 +1,30 @@
+{
+    "Case ID": "097656",
+    "Different Crime": [
+        {
+            "Crime Name": "Maritime Lien Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "U.S. Maritime Liens Act (46 U.S.C. § 31341-31342)"
+            ],
+            "application_details": [
+                "plaintiff supplied bunkers to the ship based on a contract with the bareboat charterer",
+                "choice of law clause in the contract favoring U.S. law is enforceable"
+            ],
+            "decision_reasoning": [
+                "charterer was presumed to have authority under U.S. law",
+                "no effective notice was given to rebut this presumption"
+            ],
+            "relevant_statute": [
+                "U.S. Maritime Liens Act"
+            ],
+            "result_of_case": [
+                "court ruled in favor of the plaintiff, granting a maritime lien and ordering payment of Cdn $123,914.74 plus interest"
+            ],
+            "procedure_followed": [
+                "plaintiff filed an action in rem against the ship, leading to its arrest in Canada",
+                "court analyzed the validity of the maritime lien under U.S. law and the enforceability of the choice of law clause"
+            ]
+        }
+    ]
+}

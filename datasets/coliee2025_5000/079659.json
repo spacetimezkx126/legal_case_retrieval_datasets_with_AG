@@ -1,0 +1,36 @@
+{
+    "Case ID": "079659",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "credibility_findings": [
+                "RPD's credibility findings"
+            ],
+            "decision_reasoning": [
+                "RAD upheld RPD's decision",
+                "Federal Court agreed with RAD's deference"
+            ],
+            "refugee_status": [
+                "denied"
+            ],
+            "cause_of_action": [
+                "persecution due to homosexuality"
+            ],
+            "procedure_steps": [
+                "RPD denied refugee status",
+                "RAD upheld the decision",
+                "Federal Court reviewed the RAD's decision"
+            ],
+            "result_of_case": [
+                "Federal Court dismissed the application"
+            ],
+            "conclusion_outcome": [
+                "upholding the RAD's decision"
+            ]
+        }
+    ]
+}

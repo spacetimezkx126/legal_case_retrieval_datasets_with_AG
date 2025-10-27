@@ -1,0 +1,34 @@
+{
+    "Case ID": "001833",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "PRRA",
+                "H&C"
+            ],
+            "procedural_fairness": [
+                "PRRA",
+                "H&C"
+            ],
+            "new_evidence_impact": [
+                "PRRA"
+            ],
+            "evidentiary_standard": [
+                "H&C"
+            ],
+            "judicial_review_process": [
+                "PRRA",
+                "H&C"
+            ],
+            "decision_outcome": [
+                "negative PRRA",
+                "negative H&C"
+            ],
+            "burden_of_proof": [
+                "Applicant"
+            ]
+        }
+    ]
+}

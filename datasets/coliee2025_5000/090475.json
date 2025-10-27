@@ -1,0 +1,68 @@
+{
+    "Case ID": "090475",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Federal Court Rules"
+            ],
+            "decision_outcome": [
+                "Guilty of contempt"
+            ],
+            "evidence_provided": [
+                "Private investigator gathered evidence"
+            ],
+            "standard_of_review": [
+                "Proof beyond a reasonable doubt"
+            ],
+            "applicable_statute": [
+                "Contempt of court rules"
+            ],
+            "party_involved": [
+                "Lyons Partnership",
+                "MacGregor"
+            ],
+            "claim_nature": [
+                "Breach of interlocutory injunction"
+            ],
+            "judicial_authority": [
+                "Canadian Federal Court"
+            ],
+            "irreparable_harm": [],
+            "balance_of_convenience": [],
+            "confusion_likelihood": []
+        },
+        {
+            "Crime Name": "Passing Off",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "trademark and copyright infringement",
+                "contempt of court"
+            ],
+            "evidence_presented": [
+                "wearing a Barney costume at a performance",
+                "selling merchandise",
+                "visiting a hospital as Barney",
+                "knowingly breached the injunction"
+            ],
+            "decision_reasoning": [
+                "proof beyond a reasonable doubt of personal knowledge of the order",
+                "being the primary actor",
+                "mens rea"
+            ],
+            "result_of_case": [
+                "fined $3,000",
+                "ordered to pay up to $2,000 in legal costs"
+            ],
+            "procedure_followed": [
+                "Federal Court of Canada, Trial Division",
+                "contempt hearing",
+                "evidence from a private investigator"
+            ],
+            "relevant_statute": [
+                "Federal Court Rules"
+            ]
+        }
+    ]
+}

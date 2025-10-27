@@ -1,0 +1,54 @@
+{
+    "Case ID": "042566",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of Official Endorsement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "internal grievance procedures",
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "relationship_genuineness": [
+                "high duty of care",
+                "reasonable and prudent parent"
+            ],
+            "material_misrepresentation": [
+                "unauthorized survey",
+                "use of military rank"
+            ],
+            "risk_characterization": [
+                "ethical concerns",
+                "potential risks to Cadets"
+            ],
+            "balance_of_convenience": [
+                "harm to reputation",
+                "lack of evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Obtain Required Approvals",
+            "Crime Type": "others",
+            "legal_basis": [
+                "NDA s.29.15"
+            ],
+            "decision_reasoning": [
+                "CDS's decision was reasonable and justifiable under the duty of care owed to Cadets"
+            ],
+            "procedure_followed": [
+                "Grievance process through CFGB and CDS, followed by judicial review application"
+            ],
+            "result_of_case": [
+                "Court dismissed the application, upholding the CDS's decision"
+            ],
+            "cause_of_action": [
+                "Applicant conducted a survey without obtaining required approvals, leading to CF intervention"
+            ]
+        }
+    ]
+}

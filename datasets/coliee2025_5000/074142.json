@@ -1,0 +1,52 @@
+{
+    "Case ID": "074142",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b) of the Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "recantation evidence"
+            ],
+            "procedural_fairness": [
+                "insufficient consideration of recantation evidence"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "rehearing and reconsideration by a different panel"
+            ],
+            "misrepresentation_or_fraud": [
+                "dismissed charges"
+            ]
+        },
+        {
+            "Crime Name": "Serious non-political crime outside Canada",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(b) of the Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crime"
+            ],
+            "evidence_assessment": [
+                "recantation evidence",
+                "dismissed charges"
+            ],
+            "credibility_findings": [
+                "insufficient consideration of recantation"
+            ],
+            "decision_reasoning": [
+                "RPD's decision unreasonable"
+            ],
+            "conclusion_outcome": [
+                "judicial review allowed",
+                "case remanded for rehearing"
+            ]
+        }
+    ]
+}

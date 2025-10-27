@@ -1,0 +1,51 @@
+{
+    "Case ID": "058208",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Irregularity",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "lack of analysis on the best interests of the children"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "refusal of humanitarian and compassionate grounds application"
+            ],
+            "decision_outcome": [
+                "case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "immigration_status": [
+                "application for permanent residence refused"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Activity Abroad",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "child_best_interests": [
+                "best interests of the children",
+                "impact on education or integration"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "humanitarian and compassionate grounds application"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "case remitted for redetermination"
+            ],
+            "appeal_outcome": [
+                "judicial review granted"
+            ],
+            "cause_of_action": [
+                "seeking permanent residence based on humanitarian grounds"
+            ],
+            "nature_of_offense": [
+                "fraud issue in South Korea"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Case ID": "076296",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Disclose Material Information under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "withholding material facts",
+                "inducing error in administration of the Act"
+            ],
+            "legal_basis": [
+                "paragraph 40(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "IAD's decision set aside",
+                "appeal remanded for re-determination"
+            ],
+            "credibility_assessment": [
+                "honest and reasonable belief",
+                "belief in accuracy of information"
+            ],
+            "immigration_status": [
+                "sponsorship withdrawal",
+                "inadmissibility"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose sponsorship withdrawal",
+                "non-disclosure of material facts"
+            ],
+            "judicial_authority": [
+                "Immigration Division",
+                "Appeal Division",
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "decision overturned",
+                "re-evaluation ordered"
+            ],
+            "relationship_genuineness": [
+                "husband withdrew sponsorship"
+            ],
+            "procedural_fairness": [
+                "remanded for re-determination"
+            ]
+        }
+    ]
+}

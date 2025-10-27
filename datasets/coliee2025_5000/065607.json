@@ -1,0 +1,32 @@
+{
+    "Case ID": "065607",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Comply with Immigration Requirements",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship",
+                "best interests of children"
+            ],
+            "evidence_assessment": [
+                "dismissed evidence",
+                "speculation without evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "best_interests_of_children": [
+                "not assessed"
+            ],
+            "immigration_status": [
+                "inability to prove nationality",
+                "statelessness assessment"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Case ID": "045863",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "decision_procedurally_fair",
+                "no_reviewable_error"
+            ],
+            "humanitarian_concerns": [
+                "considered_but_not_sufficient"
+            ],
+            "immigration_status": [
+                "temporary_resident_visa_denied"
+            ],
+            "evidence_consideration": [
+                "no_extrinsic_evidence_used"
+            ],
+            "standard_of_proof": [
+                "determination_based_on_likelihood"
+            ],
+            "applicant_characteristics": [
+                "claim_of_visiting_terminally_ill_relative",
+                "economic_opportunities_as_factor"
+            ],
+            "reasonableness_of_decision": [
+                "upheld_by_court"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "visa officer's decision",
+                "no reviewable error",
+                "no extrinsic evidence",
+                "no interview required"
+            ],
+            "humanitarian_concerns": [
+                "terminally ill relative"
+            ],
+            "decision_outcome": [
+                "denied temporary resident visa",
+                "application dismissed"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act, s. 2(1)"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "procedural fairness"
+            ],
+            "claimant_burden": [
+                "likely to remain in Canada",
+                "economic opportunities"
+            ],
+            "court_ruling": [
+                "upheld visa officer's decision"
+            ]
+        }
+    ]
+}

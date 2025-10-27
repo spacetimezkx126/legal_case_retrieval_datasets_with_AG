@@ -1,0 +1,30 @@
+{
+    "Case ID": "071394",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Denial",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "1095 days in 4 years",
+                "Koo factors"
+            ],
+            "judicial_authority": [
+                "citizenship judge",
+                "Federal Court"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "applicant did not meet residency requirement"
+            ],
+            "procedural_fairness": [
+                "Judge applied Koo factors"
+            ]
+        }
+    ]
+}

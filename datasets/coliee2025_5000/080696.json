@@ -1,0 +1,26 @@
+{
+    "Case ID": "080696",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada during the four years preceding their application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in travel records",
+                "lack of documentation for certain periods"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "referred back for redetermination"
+            ],
+            "regulatory_compliance": [
+                "errors in fact and law"
+            ]
+        }
+    ]
+}

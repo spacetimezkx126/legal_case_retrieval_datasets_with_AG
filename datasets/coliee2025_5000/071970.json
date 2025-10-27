@@ -1,0 +1,136 @@
+{
+    "Case ID": "071970",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation under Immigration Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 53(1)(a) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "opportunity for written submissions"
+            ],
+            "criminality_inadmissibility": [
+                "convicted of robbery and forceable confinement"
+            ],
+            "decision_outcome": [
+                "application for a stay of deportation is dismissed"
+            ],
+            "charter_rights": [
+                "no violation of Charter rights"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "opportunity for written submissions"
+            ],
+            "applicable_statute": [
+                "Immigration Act",
+                "s. 53(1)(a)"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "irreparable_harm": [
+                "not established"
+            ],
+            "cause_of_action": [
+                "criminal convictions"
+            ],
+            "nature_of_offense": [
+                "danger to the public"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "opportunity for written submissions",
+                "failure to consider positive factors"
+            ],
+            "criminal_history": [
+                "convicted of forcible confinement and other crimes"
+            ],
+            "irreparable_harm": [
+                "did not establish irreparable harm"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable given his criminal record"
+            ],
+            "Charter_rights": [
+                "argued violation of Charter rights"
+            ],
+            "past_criminal_convictions": [
+                "criminal convictions led to a determination that he was a danger to the public"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 53(1)(a) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "opportunity for written submissions"
+            ],
+            "charter_rights_violation": [
+                "no violation found"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable given criminal record"
+            ],
+            "immigration_status": [
+                "Convention refugee"
+            ],
+            "judicial_review_result": [
+                "deportation allowed to proceed"
+            ],
+            "applicable_law_section": [
+                "s. 53(1)(a) of the Immigration Act"
+            ],
+            "evidence_provided": [
+                "criminal convictions"
+            ],
+            "reasoning_given": [
+                "chance to submit references but failed to do so"
+            ],
+            "risk_assessment": [
+                "deemed a danger to the public"
+            ],
+            "court_ruling": [
+                "application for stay of deportation dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 53(1)(a) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "opportunity for written submissions"
+            ],
+            "charter_rights": [],
+            "decision_reasoning": [
+                "no violation of procedural fairness",
+                "no irreparable harm"
+            ],
+            "application_details": [
+                "Judicial review application",
+                "stay request"
+            ],
+            "result_of_case": [
+                "Court dismissed the stay application",
+                "upholding the deportation order"
+            ]
+        }
+    ]
+}

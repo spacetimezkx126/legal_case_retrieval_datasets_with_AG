@@ -1,0 +1,32 @@
+{
+    "Case ID": "093486",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Act"
+            ],
+            "patent_validity": [
+                "'505 patent valid",
+                "'186 patent invalid"
+            ],
+            "expert_testimony": [
+                "analyzed expert testimonies"
+            ],
+            "technical_details": [
+                "expandable intraluminal vascular graft",
+                "slots",
+                "connectors between tubular members",
+                "integrated cellular structure"
+            ],
+            "decision_outcome": [
+                "'505 patent not infringed",
+                "'186 patent invalidated for obviousness"
+            ],
+            "appeal_outcome": [
+                "Boston Scientific's counterclaim partially succeeds"
+            ]
+        }
+    ]
+}

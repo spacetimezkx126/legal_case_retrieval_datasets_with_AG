@@ -1,0 +1,54 @@
+{
+    "Case ID": "063918",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy to commit murder",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Section 743.5 of the Criminal Code",
+                "Section 139 of the CCRA",
+                "Federal Courts Act"
+            ],
+            "criminal_history": [
+                "youth sentence",
+                "adult sentences",
+                "consecutive sentences"
+            ],
+            "procedural_fairness": [
+                "judicial review application"
+            ],
+            "risk_assessment": [
+                "parole eligibility"
+            ],
+            "standard_of_proof": [
+                "inclusion of non-custodial youth sentence in parole calculations"
+            ],
+            "past_criminal_convictions": [
+                "non-custodial YCJA sentence"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 743.5(3)(a) of the Criminal Code",
+                "Section 139 of the CCRA"
+            ],
+            "application_details": [
+                "applicant received both a custodial and non-custodial YCJA sentence, followed by adult sentences"
+            ],
+            "decision_reasoning": [
+                "these sentences merge into one under CCRA Section 139, including the non-custodial portion"
+            ],
+            "cause_of_action": [
+                "Dispute over inclusion of non-custodial youth sentence in parole eligibility calculations after legislative amendments"
+            ],
+            "procedure_followed": [
+                "Judicial review application under Federal Courts Act challenging CSC's decision on parole eligibility date calculations"
+            ],
+            "result_of_case": [
+                "Court upheld CSC's decision, affirming that non-custodial YCJA sentences are included in parole eligibility calculations"
+            ]
+        }
+    ]
+}

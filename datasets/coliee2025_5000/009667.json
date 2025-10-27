@@ -1,0 +1,114 @@
+{
+    "Case ID": "009667",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "inadequate state protection",
+                "failure to seek state protection"
+            ],
+            "state_protection_analysis": [
+                "presumption of state protection",
+                "systemic discrimination and violence"
+            ],
+            "evidence_assessment": [
+                "clear and convincing evidence",
+                "cumulative impact of systemic discrimination"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "reconsideration by a different panel"
+            ],
+            "criminality_inadmissibility": [],
+            "humanitarian_and_compassionate_factors": []
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "failure to follow up with police",
+                "continued experiencing violence despite moving"
+            ],
+            "risk_assessment": [
+                "repeated assaults",
+                "discrimination"
+            ],
+            "procedural_fairness": [
+                "unreasonable expectation for further police follow-up",
+                "failed to consider applicant's specific circumstances"
+            ],
+            "refugee_status_nexus": [
+                "applicant sought refugee protection"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "country_conditions": [
+                "Czech Republic"
+            ]
+        },
+        {
+            "Crime Name": "Discrimination leading to Violent Acts",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "ineffective police response",
+                "lack of effective state protection"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable",
+                "Board's reasoning unreasonable"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "credible fear"
+            ],
+            "burden_of_proof": [
+                "presumption of state protection"
+            ],
+            "judicial_review_process": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Board's decision quashed",
+                "matter remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Arson",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "state_protection": [
+                "inadequate protection",
+                "systemic issues",
+                "repeated attacks"
+            ],
+            "credibility_findings": [],
+            "procedural_fairness": [
+                "unreasonable decision",
+                "judicial review allowed"
+            ],
+            "humanitarian_concerns": [
+                "racial discrimination",
+                "Roma family",
+                "violent attacks"
+            ],
+            "decision_outcome": [
+                "case remanded",
+                "Board’s decision quashed"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "relevant_factors": [
+                "repeated racially motivated attacks",
+                "no arrests made",
+                "lack of follow-up"
+            ],
+            "refugee_protection": [
+                "asylum claim rejected",
+                "presumption of state protection"
+            ]
+        }
+    ]
+}

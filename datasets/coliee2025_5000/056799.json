@@ -1,0 +1,76 @@
+{
+    "Case ID": "056799",
+    "Different Crime": [
+        {
+            "Crime Name": "Forcible confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable",
+                "guided by sections 17 and 18 of the Corrections and Conditional Release Regulations"
+            ],
+            "evidence_consideration": [
+                "violent incidents in multiple regions",
+                "three psychological assessments"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed the reasonableness of the Commissioner's decision based on regulations and facts presented"
+            ],
+            "criminal_history": [
+                "outdated information",
+                "violent incidents"
+            ],
+            "psychological_impact": [
+                "three psychological assessments"
+            ],
+            "immigration_status": [],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Corrections and Conditional Release Regulations (SOR/92-620)"
+            ],
+            "decision_reasoning": [
+                "Deputy Commissioner's decision to deny third-level grievance regarding security classification"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "Mr. Wood argued his security classification was inaccurate due to outdated information and lack of updated psychological assessment"
+            ],
+            "evidence_presented": [
+                "violent incidents in multiple regions",
+                "three psychological assessments"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is dismissed"
+            ],
+            "result_of_case": [
+                "dismissed",
+                "no costs granted"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Regulations (SOR/92-620)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "violent incidents in Quebec",
+                "psychological assessments"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed, reviewed under reasonableness standard"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "052384",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "refugee_status": [
+                "assessed",
+                "claimed"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risks",
+                "individualized risks"
+            ],
+            "decision_reasonableness": [
+                "unreasonably applied",
+                "decision unreasonable"
+            ],
+            "application_details": [
+                "facing threats and violence",
+                "work with NGOs",
+                "perceived wealth"
+            ],
+            "result_of_case": [
+                "judicial review application granted",
+                "case remanded for redetermination"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "decision_made": [
+                "new hearing ordered"
+            ]
+        }
+    ]
+}

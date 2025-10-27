@@ -1,0 +1,155 @@
+{
+    "Case ID": "012060",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to report change of address",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate reasons"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted to a new IAD panel"
+            ],
+            "standard_of_review": [
+                "adequacy of reasons provided by IAD"
+            ],
+            "immigration_status": [
+                "breach of conditions",
+                "failure to report address changes"
+            ]
+        },
+        {
+            "Crime Name": "Mischief over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach",
+                "inadequate reasons",
+                "failure to explain decision-making process"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remitted to new IAD panel"
+            ],
+            "legal_basis": [
+                "Immigration Appeal Division Rules, SOR/2002-230"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "court"
+            ],
+            "cause_of_action": [
+                "breach of stay order conditions",
+                "inadequate reasoning in IAD decision"
+            ],
+            "appeal_outcome": [
+                "overturned due to insufficient reasoning"
+            ]
+        },
+        {
+            "Crime Name": "Uttering threats",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate reasons"
+            ],
+            "legal_basis": [
+                "Immigration Appeal Division Rules, SOR/2002-230",
+                "IRPA subsection 72(1)"
+            ],
+            "risk_assessment": [],
+            "evidence_consideration": [
+                "findings not explained in reasons"
+            ],
+            "standard_of_proof": [],
+            "reasonableness_of_decision": [
+                "case remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Traffic violations under Highway Traffic Act",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate reasons"
+            ],
+            "decision_reasoning": [
+                "inadequate explanation",
+                "unclear rationale behind the extension"
+            ],
+            "application_details": [
+                "IAD found breaches of conditions but extended the stay"
+            ],
+            "cause_of_action": [
+                "multiple traffic violations",
+                "breaches of conditions during stay in Canada"
+            ],
+            "procedure_followed": [
+                "IAD reviewed the case",
+                "Minister sought judicial review"
+            ],
+            "result_of_case": [
+                "judicial review application allowed",
+                "case referred to a different IAD panel"
+            ],
+            "relevant_rule": [
+                "subsection 54(1) of the Immigration Appeal Division Rules"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cannabis",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach",
+                "inadequate reasons"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA subsection 72(1)",
+                "subsection 54(1) of the Immigration Appeal Division Rules"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "referred to a different IAD panel for redetermination"
+            ],
+            "evidence_considered": [
+                "breaches of conditions",
+                "address reporting",
+                "behavior",
+                "employment requirements"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate reasons"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "matter referred to a different IAD panel for redetermination"
+            ],
+            "applicable_laws": [
+                "Immigration Appeal Division Rules, SOR/2002-230, s. 54(1)"
+            ],
+            "standard_of_review": [
+                "adequacy, clarity of reasons explaining decision-making process"
+            ],
+            "relevant_factors": [
+                "breaches of conditions (address reporting, lawful behavior, employment efforts)",
+                "extension of stay order"
+            ],
+            "appeal_process": [
+                "judicial review of IAD's decision",
+                "case remitted to new IAD panel"
+            ]
+        }
+    ]
+}

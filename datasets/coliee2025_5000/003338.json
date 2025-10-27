@@ -1,0 +1,129 @@
+{
+    "Case ID": "003338",
+    "Different Crime": [
+        {
+            "Crime Name": "Income Tax Act non-compliance",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "legal_basis": [
+                "subsection 54(1) of the Immigration Appeal Division Rules",
+                "IRPA subsection 72(1)"
+            ],
+            "decision_outcome": [
+                "case is remitted to a different panel for redetermination",
+                "IAD's decision was overturned"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "cause_of_action": [
+                "breach of conditions of his stay order"
+            ]
+        },
+        {
+            "Crime Name": "Uttering threats",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "inadequate reasons for decision"
+            ],
+            "evidence_consideration": [
+                "findings about breaches",
+                "lack of clarity on evidence and rationale"
+            ],
+            "reasonableness_of_decision": [
+                "decision lacked sufficient explanation"
+            ],
+            "legal_basis": [
+                "subsection 54(1) of the Immigration Appeal Division Rules",
+                "IRPA subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "applicable_regulations": [
+                "subsection 54(1) of the Immigration Appeal Division Rules"
+            ],
+            "decision_reasoning": [
+                "failed to explain how breaches supported extending the stay",
+                "unclear reasons",
+                "no articulated rationale behind final decision"
+            ],
+            "cause_of_action": [
+                "judicial review of IAD's decision to extend a stay of removal"
+            ],
+            "procedure_followed": [
+                "court reviewed sufficiency of IAD's reasons for extending the stay despite evidence of non-compliance"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "matter referred to a different IAD panel"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cannabis",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach",
+                "adequate reasons",
+                "clarity",
+                "intelligibility"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "deportation_order": [
+                "appeal"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "decision_outcome": [
+                "remitted for redetermination",
+                "application allowed"
+            ],
+            "evidence_considered": [
+                "condition breaches",
+                "stay extension"
+            ],
+            "consequences_of_decision": [
+                "referral to different IAD panel"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to provide adequate reasons"
+            ],
+            "decision_outcome": [
+                "IAD's decision overturned",
+                "case referred to a new panel for reconsideration"
+            ],
+            "applicable_laws": [
+                "IRPA",
+                "procedural fairness principles"
+            ],
+            "evidence_considered": [
+                "reckless driving",
+                "inconclusive employment evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "relevant_factors": [
+                "alleged breaches of conditions"
+            ]
+        }
+    ]
+}

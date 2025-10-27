@@ -1,0 +1,46 @@
+{
+    "Case ID": "039135",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized use of passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraudulent activities"
+            ],
+            "decision_outcome": [
+                "set aside and remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "regulatory_compliance": [
+                "lacks explicit provisions for such sanctions"
+            ]
+        },
+        {
+            "Crime Name": "Identity theft related activities",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "decision_outcome": [
+                "Decision overturned; case remanded for new determination."
+            ],
+            "procedural_fairness": [
+                "Judicial review of Adjudicator’s decision based on legal authority."
+            ],
+            "applicable_statute": [
+                "Canadian Passport Order"
+            ],
+            "judicial_authority": [
+                "Adjudicator lacked explicit authority under the Order to withhold passport services as a standalone sanction."
+            ],
+            "identity_documents": [
+                "Passport misuse linked to identity theft activities."
+            ]
+        }
+    ]
+}

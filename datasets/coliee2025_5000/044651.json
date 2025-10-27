@@ -1,0 +1,54 @@
+{
+    "Case ID": "044651",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under subsection 29(2) of the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "No breach of procedural fairness occurred"
+            ],
+            "immigration_status": [
+                "Overstayed visitor status",
+                "Deemed inadmissible"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C considerations are separate from exclusion orders"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Exclusion order upheld"
+            ],
+            "legal_basis": [
+                "subsection 29(2) of the Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed procedural fairness claims"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with residency obligation under section 28",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "natural_justice_principles"
+            ],
+            "application_details": [
+                "overstayed his visa",
+                "failed to attend initial proceedings",
+                "H&C application"
+            ],
+            "decision_reasoning": [
+                "officer followed legal procedures",
+                "confirmed inadmissibility"
+            ],
+            "conclusion_outcome": [
+                "no breach of procedural fairness",
+                "exclusion order lawful"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "exclusion order upheld"
+            ]
+        }
+    ]
+}

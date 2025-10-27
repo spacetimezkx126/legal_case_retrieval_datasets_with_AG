@@ -1,0 +1,28 @@
+{
+    "Case ID": "005075",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent misrepresentation in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "inaccurate reporting of absences",
+                "lack of credible evidence"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence for absences",
+                "memory lapses cited without corroboration"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "citizenship revoked"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "Federal Courts Act section 21"
+            ],
+            "material_misrepresentation": [
+                "misrepresentation in residency period"
+            ]
+        }
+    ]
+}

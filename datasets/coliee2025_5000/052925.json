@@ -1,0 +1,30 @@
+{
+    "Case ID": "052925",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 332(1)",
+                "Rule 319(2)"
+            ],
+            "procedural_fairness": [
+                "procedural rules",
+                "expedited trial agreement",
+                "complexity"
+            ],
+            "evidence_assessment": [
+                "admissibility",
+                "affidavit"
+            ],
+            "decision_reasoning": [
+                "non-compliance with procedural rules",
+                "context of expedited trial agreement",
+                "appropriateness for trial judge assessment"
+            ],
+            "result_of_case": [
+                "motion to strike dismissed"
+            ]
+        }
+    ]
+}

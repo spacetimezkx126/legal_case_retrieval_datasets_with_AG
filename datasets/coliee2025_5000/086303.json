@@ -1,0 +1,52 @@
+{
+    "Case ID": "086303",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "visa officer's decision was reasonable"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness for fact-based decisions"
+            ],
+            "procedural_fairness": [
+                "compliance with natural justice requirements"
+            ],
+            "evidence_consideration": [
+                "lacked proof of financial stability",
+                "insufficient evidence of ties to China"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review process was available"
+            ],
+            "immigration_status": [
+                "student visa application denied"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "natural justice",
+                "adequate reasons",
+                "administrative efficiency"
+            ],
+            "evidence_considered": [
+                "financial stability",
+                "ties to China"
+            ],
+            "decision_outcome": [
+                "visa denied",
+                "judicial review dismissed"
+            ],
+            "court_ruling": [
+                "reasonable decision",
+                "compliant with natural justice"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Case ID": "064061",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged failure to meet educational requirements"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application allowed, case remitted for reassessment"
+            ],
+            "regulatory_compliance": [
+                "NOC 1122.2 occupational requirements"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Case ID": "080634",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration context",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "charter_rights": [
+                "Section 7 of the Charter",
+                "Section 1 of the Charter"
+            ],
+            "misrepresentation_or_fraud": [
+                "subversive activities"
+            ],
+            "decision_outcome": [
+                "term 'subversion' is justifiable under Section 1 of the Charter"
+            ],
+            "legal_basis": [
+                "paragraph 19(1)(e) of the Immigration Act"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization likely to engage in acts of violence",
+            "Crime Type": "Violence-related_Crimes",
+            "membership_in_organization": [
+                "PFLP"
+            ],
+            "complicity_in_crimes": [
+                "engaging in subversive activities"
+            ],
+            "legal_basis": [
+                "paragraph 19(1)(e) of the Immigration Act",
+                "Charter rights under sections 7, 2, and 15"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed the constitutional validity of 'subversion' under the Immigration Act"
+            ],
+            "reasonableness_of_decision": [
+                "The term 'subversion' lacks clear boundaries but has some meaning. Despite its vagueness, it serves important social and security objectives."
+            ],
+            "balance_of_convenience": [
+                "The court balanced societal interests with individual rights, concluding that the term does not result in unconstitutional vagueness."
+            ]
+        },
+        {
+            "Crime Name": "Engaging in acts of subversion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "paragraph 19(1)(e) of the Immigration Act",
+                "s. 7 of the Charter"
+            ],
+            "charter_rights_violation": [
+                "vagueness under s. 7 of the Charter"
+            ],
+            "reasonableness_of_decision": [
+                "term 'subversion' is vague but not unconstitutionally so"
+            ],
+            "judicial_review_result": [
+                "remitted for reconsideration by a differently constituted panel"
+            ],
+            "involvement_details": [
+                "engaging in subversive activities against democratic governments",
+                "involvement with the PFLP"
+            ],
+            "decision_outcome": [
+                "not unconstitutionally vague",
+                "justified in a free and democratic society"
+            ],
+            "human_rights_concerns": [
+                "lacks sufficient precision to guide legal debate",
+                "does not provide fair notice or limit enforcement discretion"
+            ]
+        }
+    ]
+}

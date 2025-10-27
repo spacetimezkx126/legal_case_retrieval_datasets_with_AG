@@ -1,0 +1,31 @@
+{
+    "Case ID": "060737",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration Act",
+                "Convention refugee definition"
+            ],
+            "risk_of_persecution": [
+                "no evidence of persecution in Russia"
+            ],
+            "country_conditions": [
+                "Russia",
+                "Latvia"
+            ],
+            "documentary_evidence": [
+                "Russian citizenship",
+                "statelessness claim"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "not recognized as a Convention refugee"
+            ],
+            "specific_group_membership": [
+                "stateless persons"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Case ID": "037835",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court of Canada",
+                "Indian Act",
+                "fiduciary obligations"
+            ],
+            "relevant_statute": [
+                "Federal Court Act",
+                "Indian Act"
+            ],
+            "specific_rule_applied": [
+                "Section 17(4) of the Federal Court Act",
+                "s. 23 of the Indian Act"
+            ],
+            "cause_of_action": [
+                "compensation",
+                "possession rights",
+                "Crown's fiduciary duty"
+            ],
+            "dispute_focus": [
+                "conflicting claims",
+                "possessory title to reserve land"
+            ],
+            "procedure_followed": [
+                "Defendants moved to stay the action",
+                "court analyzed jurisdictional requirements"
+            ],
+            "result_of_case": [
+                "Motions for stay dismissed",
+                "court has jurisdiction"
+            ]
+        }
+    ]
+}

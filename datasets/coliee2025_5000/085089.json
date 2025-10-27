@@ -1,0 +1,63 @@
+{
+    "Case ID": "085089",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with removal order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.48(2)"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "domestic abuse",
+                "lack of identity documents",
+                "children with medical issues",
+                "separation from extended family",
+                "irreparable harm to children"
+            ],
+            "risk_assessment": [
+                "risks in St. Lucia due to domestic abuse",
+                "lack of state protection in St. Lucia"
+            ],
+            "best_interests_of_children": [
+                "consideration of best interests of the child"
+            ],
+            "decision_outcome": [
+                "stay of removal granted until H&C application is resolved"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Domestic violence",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "yes"
+            ],
+            "irreparable_harm": [
+                "yes"
+            ],
+            "balance_of_convenience": [
+                "favorable"
+            ],
+            "child_best_interests": [
+                "considered"
+            ],
+            "risk_of_persecution": [
+                "domestic violence risks"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "pending application"
+            ],
+            "family_ties": [
+                "Canadian citizens with medical issues"
+            ],
+            "procedural_fairness": [
+                "Officer failed to consider factors adequately"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ]
+        }
+    ]
+}

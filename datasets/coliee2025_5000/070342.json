@@ -1,0 +1,30 @@
+{
+    "Case ID": "070342",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "induced patent infringement"
+            ],
+            "specific_rule_applied": [
+                "s. 6(5)(b) of the PMNOC Regulations"
+            ],
+            "application_details": [
+                "Bayer claims PPC induces infringement of the 424 Patent through its product monograph"
+            ],
+            "evidence_presented": [
+                "no explicit instructions for infringement, reliance on speculation about future actions"
+            ],
+            "decision_reasoning": [
+                "dismissed as vexatious due to no reasonable chance of success in proving induced infringement"
+            ],
+            "result_of_case": [
+                "Court granted PPC's motion, dismissing parts of Bayer's application and ordering costs against Bayer"
+            ],
+            "procedure_followed": [
+                "PPC moved under s. 6(5)(b) to strike portions of Bayer's application, arguing lack of evidence for induced infringement"
+            ]
+        }
+    ]
+}

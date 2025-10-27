@@ -1,0 +1,50 @@
+{
+    "Case ID": "015565",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility based on health grounds",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "moderate mental retardation",
+                "excessive demand on social services"
+            ],
+            "family_class_considerations": [
+                "non-accompanying family member",
+                "future sponsorship concerns"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "certified question regarding individualized plans"
+            ],
+            "standard_of_review": [
+                "visa officer's decision reasonable",
+                "aligned with IRPA objectives"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide credible individualized plan to mitigate excessive demand",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 38(1)(c)",
+                "Immigration and Refugee Protection Act, s. 38(2)"
+            ],
+            "decision_reasoning": [
+                "visa officer's decision was reasonable and aligned with legal requirements"
+            ],
+            "application_details": [
+                "applicant failed to provide a credible plan addressing potential excessive demand"
+            ],
+            "cause_of_action": [
+                "Applicant's failure to meet immigration requirements due to lack of credible plan for mitigating excessive demand"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed by the applicant",
+                "Federal Court reviewed visa officer's decision based on reasonableness and correctness standards"
+            ],
+            "result_of_case": [
+                "Application dismissed",
+                "certified question regarding acceptability of stating non-accompanying family members won't cause excessive demand"
+            ]
+        }
+    ]
+}

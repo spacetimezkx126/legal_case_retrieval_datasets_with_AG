@@ -1,0 +1,33 @@
+{
+    "Case ID": "077890",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 4(2)(b) of the PMNOC Regulations"
+            ],
+            "relevant_rule": [
+                "Section 4(2)(b) of the PMNOC Regulations"
+            ],
+            "expert_testimony": [
+                "expert testimony confirms they cover such formulations but lack specific claims required by law"
+            ],
+            "decision_reasoning": [
+                "patents in question relate to controlled-release systems and tablets but do not explicitly claim paroxetine hydrochloride or its use"
+            ],
+            "conclusion_outcome": [
+                "393 and 479 patents do not meet the requirements of s. 4(2)(b) and are ineligible for inclusion on the Patent Register"
+            ],
+            "cause_of_action": [
+                "GSK sought judicial review after Health Canada rejected their patents for non-compliance with PMNOC Regulations"
+            ],
+            "procedure_followed": [
+                "Court analyzed patent claims, expert evidence, and relevant case law to determine compliance with statutory requirements"
+            ],
+            "result_of_case": [
+                "Application dismissed; patents remain ineligible for registration"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "006254",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to conduct proper section 97 analysis under IRPA",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 97 of the IRPA",
+                "sections 96 and 97"
+            ],
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "refugee_status_eligibility": [
+                "claim based on fear of persecution"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed whether the Board erred in its decision-making process"
+            ]
+        },
+        {
+            "Crime Name": "Procedural fairness breach in immigration process",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "Guideline 7 analysis",
+                "Section 97 separate analysis"
+            ],
+            "immigration_status": [
+                "refugee status claim"
+            ],
+            "judicial_review_process": [
+                "Board decision-making process"
+            ],
+            "burden_of_proof": [
+                "objections during hearing",
+                "new evidence for section 97"
+            ],
+            "decision_outcome": [
+                "no breach of procedural fairness",
+                "application dismissed"
+            ],
+            "persecution_grounds": [
+                "alleged persecution in Algeria",
+                "lack of state protection"
+            ]
+        }
+    ]
+}

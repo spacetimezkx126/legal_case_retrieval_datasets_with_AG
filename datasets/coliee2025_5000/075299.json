@@ -1,0 +1,79 @@
+{
+    "Case ID": "075299",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "no nexus between fear and Convention ground"
+            ],
+            "procedural_fairness": [
+                "judicial review of RPD's decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness of RPD's decision"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "no nexus found"
+            ],
+            "persecution_details": [
+                "fear due to construction dispute"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_statute": [
+                "refugee protection laws"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "party_involved": [
+                "applicant",
+                "RPD"
+            ]
+        },
+        {
+            "Crime Name": "Potential obstruction of justice",
+            "Crime Type": "others",
+            "refugee_status": [
+                "fear of persecution",
+                "Convention ground",
+                "nexus"
+            ],
+            "cause_of_action": [
+                "business dispute",
+                "Russia"
+            ],
+            "decision_reasoning": [
+                "reasonable decision",
+                "no error"
+            ],
+            "application_details": [
+                "judicial review",
+                "RPD's decision",
+                "lack of nexus"
+            ],
+            "result_of_case": [
+                "dismissed",
+                "no refugee status granted"
+            ],
+            "relevant_rule": [
+                "persecution linked to race, religion, nationality, political opinion, or membership in a particular social group"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Case ID": "041038",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of identity documents belonging to another person",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "IRPA s. 36(1)(c)"
+            ],
+            "evidence_assessment": [
+                "discrepancies in the applicant's story",
+                "evidence of escorting an imposter",
+                "possession of others' documents"
+            ],
+            "procedural_fairness": [
+                "issues included procedural fairness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged involvement in abetting personation"
+            ]
+        },
+        {
+            "Crime Name": "Abetting personation with intent",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.36(1)(c)"
+            ],
+            "decision_reasoning": [
+                "discrepancies in the applicant's story",
+                "evidence of escorting an imposter",
+                "documents in others' names in his baggage"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "Applicant's involvement in abetting personation incidents"
+            ],
+            "procedure_followed": [
+                "Judicial review analyzed whether the immigration officer erred in declaring the applicant inadmissible"
+            ]
+        }
+    ]
+}

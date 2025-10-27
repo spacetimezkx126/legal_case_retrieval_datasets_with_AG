@@ -1,0 +1,450 @@
+{
+    "Case ID": "002473",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "There was no systemic failure or refusal by authorities to investigate"
+            ],
+            "Evidence_Type": [
+                "Applicant testimony",
+                "Documentary evidence"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Philippines"
+            ],
+            "Jurisdiction": [
+                "Philippines"
+            ],
+            "Legal_Framework": [
+                "Refugee protection framework"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 96 - Convention refugee"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "State protection was available"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Royal Canadian Mounted Police (RCMP)",
+                "Philippine National Police"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court of Canada"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Domestic Violence",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Psychological abuse",
+                "Physical abuse"
+            ],
+            "Perpetrator_Type": [
+                "Intimate partner"
+            ],
+            "Victim_Status": [
+                "Survivor of domestic violence"
+            ],
+            "Location_of_Incident": [
+                "Philippines"
+            ],
+            "Threat_Source": [
+                "Husband"
+            ],
+            "Aggravating_Factors": [
+                "History of repeated incidents",
+                "Failure to receive effective assistance despite reporting"
+            ],
+            "Mitigating_Factors": [
+                "Police provided advice to report future incidents",
+                "Referral to crisis desk"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Moderate to severe"
+            ],
+            "Evidence_Sufficiency": [
+                "Reports made to police twice",
+                "Documentary evidence considered"
+            ],
+            "Evidence_Type": [
+                "Applicant testimony",
+                "Police reports",
+                "Documentary evidence"
+            ],
+            "Evidence_Credibility": [
+                "Tribunal found applicant's testimony credible but insufficient to rebut presumption"
+            ],
+            "Credibility_Assessment": [
+                "Credible but not sufficient to establish lack of state protection"
+            ],
+            "Risk_Assessment": [
+                "Risk of continued domestic violence"
+            ],
+            "Risk_Type": [
+                "Personal safety risk"
+            ],
+            "Risk_Nature": [
+                "Ongoing threat from intimate partner"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Female citizen of the Philippines"
+            ],
+            "Geographic_Context": [
+                "Philippines"
+            ],
+            "Jurisdiction": [
+                "Philippines"
+            ],
+            "Legal_Framework": [
+                "Refugee protection framework"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 96 - Convention refugee"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard",
+                "Clear and convincing evidence required to rebut presumption"
+            ],
+            "Decision_Outcome": [
+                "State protection was adequate"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Philippine National Police",
+                "Crisis desk"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court of Canada"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Rape",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Domestic"
+            ],
+            "Sub_Crime_Type": [
+                "Sexual assault within domestic violence context"
+            ],
+            "Perpetrator_Type": [
+                "Intimate partner"
+            ],
+            "Victim_Status": [
+                "Survivor of sexual and domestic violence"
+            ],
+            "Location_of_Incident": [
+                "Philippines"
+            ],
+            "Threat_Source": [
+                "Husband"
+            ],
+            "Aggravating_Factors": [
+                "Rape as part of domestic violence",
+                "Vulnerability due to relationship dynamics"
+            ],
+            "Mitigating_Factors": [
+                "New laws addressing domestic violence",
+                "Police advised follow-up"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Severe"
+            ],
+            "Evidence_Sufficiency": [
+                "Incidents reported to police",
+                "Documentary evidence on legal reforms"
+            ],
+            "Evidence_Type": [
+                "Applicant testimony",
+                "Documentary evidence on legislation"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "Credible allegations, but state response deemed adequate"
+            ],
+            "Risk_Assessment": [
+                "High risk of re-victimization"
+            ],
+            "Risk_Type": [
+                "Sexual and physical safety risk"
+            ],
+            "Risk_Nature": [
+                "Non-consensual sexual acts within coercive relationship"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Female citizen of the Philippines"
+            ],
+            "Geographic_Context": [
+                "Philippines"
+            ],
+            "Jurisdiction": [
+                "Philippines"
+            ],
+            "Legal_Framework": [
+                "Refugee protection framework",
+                "Domestic violence legislation"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act",
+                "Anti-Violence Against Women and Their Children Act (Philippines)"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 96 - Convention refugee"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard",
+                "Clear and convincing evidence required"
+            ],
+            "Decision_Outcome": [
+                "State protection available despite rape occurrence"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Philippine National Police",
+                "Legislative bodies implementing anti-DV laws"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court of Canada"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Kidnapping",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Custodial dispute within domestic violence context"
+            ],
+            "Sub_Crime_Type": [
+                "Child abduction by parent"
+            ],
+            "Perpetrator_Type": [
+                "Intimate partner"
+            ],
+            "Victim_Status": [
+                "Mother of abducted children"
+            ],
+            "Location_of_Incident": [
+                "Philippines"
+            ],
+            "Threat_Source": [
+                "Husband"
+            ],
+            "Aggravating_Factors": [
+                "Children taken after history of domestic violence",
+                "Potential for parental child abduction"
+            ],
+            "Mitigating_Factors": [
+                "Police advised to report future incidents",
+                "No evidence of complete refusal to act"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Incident reported",
+                "Context of domestic violence established"
+            ],
+            "Evidence_Type": [
+                "Applicant testimony",
+                "Documentary evidence"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "Allegations accepted as credible but state response deemed adequate"
+            ],
+            "Risk_Assessment": [
+                "Risk to children and maternal rights"
+            ],
+            "Risk_Type": [
+                "Family separation",
+                "Child safety"
+            ],
+            "Risk_Nature": [
+                "Enforcement gap in custody matters amid domestic violence"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant and her children"
+            ],
+            "Targeted_Individual_Status": [
+                "Mother and minor children"
+            ],
+            "Geographic_Context": [
+                "Philippines"
+            ],
+            "Jurisdiction": [
+                "Philippines"
+            ],
+            "Legal_Framework": [
+                "Refugee protection framework",
+                "Family law",
+                "Child protection laws"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act",
+                "Family Code of the Philippines"
+            ],
+            "Applicable_Statute": [],
+            "Legal_Provision": [
+                "Section 96 - Convention refugee"
+            ],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "State protection available despite incident"
+            ],
+            "Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Federal Court review"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Philippine National Police",
+                "Family courts"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court of Canada"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        }
+    ]
+}

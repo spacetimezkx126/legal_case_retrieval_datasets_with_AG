@@ -1,0 +1,95 @@
+{
+    "Case ID": "059009",
+    "Different Crime": [
+        {
+            "Crime Name": "Improper entry by an alien",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "International Transfer of Offenders Act (ITOA)"
+            ],
+            "procedural_fairness": [
+                "Judicial review assessed whether the Minister's denial was reasonable under ITOA standards."
+            ],
+            "criminality_inadmissibility": [
+                "Convicted of cocaine possession and improper entry",
+                "Large quantity of cocaine",
+                "Lack of cooperation with authorities",
+                "Potential ties to organized crime"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application for judicial review",
+                "Minister's decision was reasonable and within the bounds of the ITOA"
+            ]
+        },
+        {
+            "Crime Name": "Criminal organization offence",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "decision_reasoning": [
+                "public safety",
+                "justice administration",
+                "offender reintegration"
+            ],
+            "evidence_assessment": [
+                "conviction for cocaine possession with intent to distribute",
+                "large quantities of drugs",
+                "organized crime involvement"
+            ],
+            "credibility_findings": [
+                "lack of cooperation with authorities",
+                "failed to identify accomplices"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "request for transfer to Canada"
+            ],
+            "conclusion_outcome": [
+                "denied the transfer request"
+            ],
+            "cause_of_action": [
+                "drug trafficking",
+                "potential future criminal activity"
+            ],
+            "procedure_followed": [
+                "review under ITOA framework",
+                "consideration of ties to Canada and risk to public safety"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed",
+                "Minister's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Possession of cocaine for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "transfer_request": [
+                "denied"
+            ],
+            "evidence_considered": [
+                "conviction for cocaine possession",
+                "intent to distribute",
+                "lack of cooperation with authorities"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "applicable_law_or_regulation": [
+                "International Transfer of Offenders Act (ITOA)"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed with costs"
+            ],
+            "risk_assessment": [
+                "public safety concerns",
+                "potential threat to Canadian security"
+            ],
+            "procedural_fairness": [
+                "Minister reviewed case under ITOA"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "088068",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Citizenship Act, subsection 5.1(1)"
+            ],
+            "judicial_authority": [
+                "reasonableness_standard"
+            ],
+            "relationship_genuineness": [
+                "genuine parent-child relationship"
+            ],
+            "child_best_interests": [
+                "in the child's best interest"
+            ],
+            "evidence_provided": [
+                "home study report",
+                "court-approved adoption"
+            ],
+            "decision_outcome": [
+                "application for judicial review was granted"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

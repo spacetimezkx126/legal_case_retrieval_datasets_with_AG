@@ -1,0 +1,67 @@
+{
+    "Case ID": "097118",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "family ties in Canada",
+                "insufficient rehabilitation",
+                "credibility"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [],
+            "nature_of_offense": [
+                "fraud convictions",
+                "breached probation conditions"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "rejection of appeal",
+                "removal order"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Probation",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_grounds": [
+                "insufficient humanitarian grounds"
+            ],
+            "decision_standard": [
+                "reasonableness standard"
+            ],
+            "relevant_factors": [
+                "rehabilitation",
+                "risk of reoffending",
+                "multiple fraud convictions",
+                "breach of probation",
+                "lack of remorse",
+                "family ties"
+            ],
+            "decision_reasoning": [
+                "criminal behavior prioritized over family ties"
+            ],
+            "conclusion_outcome": [
+                "tribunal acted reasonably"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "deportation order upheld"
+            ],
+            "cause_of_action": [
+                "repeated criminal activity",
+                "breach of probation"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed tribunal’s decision on humanitarian grounds and procedural fairness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Case ID": "065808",
+    "Different Crime": [
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.64(2)"
+            ],
+            "procedural_fairness": [
+                "insufficient evidence of sentencing details"
+            ],
+            "decision_reasoning": [
+                "pre-sentence custody can count toward the term of imprisonment"
+            ],
+            "applicable_regulations": [
+                "serious criminality involving a crime punished by at least two years' imprisonment"
+            ],
+            "discretion_exercise": [
+                "IAD jurisdiction to hear the appeal"
+            ],
+            "evidence_presented": [
+                "17 months pre-trial custody",
+                "34 months credit assumption (2:1 ratio)"
+            ],
+            "result_of_case": [
+                "IAD decision quashed",
+                "appeal to proceed normally"
+            ]
+        },
+        {
+            "Crime Name": "Using an imitation firearm during the commission of an offence",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 64(2) of IRPA"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "IAD's decision quashed",
+                "appeal will proceed normally"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "relevant_factors": [
+                "pre-trial custody",
+                "term of imprisonment"
+            ],
+            "court_ruling": [
+                "IAD must reconsider the appeal"
+            ]
+        }
+    ]
+}

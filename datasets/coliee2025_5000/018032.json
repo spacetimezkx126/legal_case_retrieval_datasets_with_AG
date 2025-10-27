@@ -1,0 +1,81 @@
+{
+    "Case ID": "018032",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Establish Identity under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "discrepancies in identity documents",
+                "failed to explain inconsistencies"
+            ],
+            "credibility_assessment": [
+                "RPD found discrepancies",
+                "undermining her credibility"
+            ],
+            "evidence_assessment": [
+                "assesses credibility based on all evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "identity_documents": [
+                "birth certificates",
+                "passports",
+                "student IDs",
+                "diplomas"
+            ],
+            "procedural_fairness": [
+                "RPD must reasonably assess identity documents and consider the totality of evidence"
+            ],
+            "reasonableness_standard": [
+                "Decisions are reviewed for reasonableness"
+            ],
+            "material_misrepresentation": [
+                "Applicant provided inconsistent identity documents, raising doubts about her credibility"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review dismissed; RPD’s decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable",
+                "supported by evidence"
+            ],
+            "evidence_credibility": [
+                "inconsistent identity documents",
+                "discrepancies in birth certificates, passports, student IDs, and diplomas"
+            ],
+            "credibility_findings": [
+                "undermining credibility",
+                "failed to clarify inconsistencies"
+            ],
+            "judicial_review_result": [
+                "dismissed",
+                "RPD’s decision upheld"
+            ],
+            "evidence_assessment": [
+                "questioned discrepancies",
+                "considered totality of evidence"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

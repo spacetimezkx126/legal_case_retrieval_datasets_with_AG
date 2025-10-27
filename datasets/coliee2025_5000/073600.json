@@ -1,0 +1,82 @@
+{
+    "Case ID": "073600",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Aeronautics Act"
+            ],
+            "credibility_assessment": [
+                "insufficient denials"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "past allegations of theft"
+            ],
+            "decision_outcome": [
+                "denial of transportation security clearance",
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Possession of stolen property under $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Minister's authority to deny security clearance"
+            ],
+            "decision_outcome": [
+                "denial of transportation security clearance"
+            ],
+            "procedural_fairness": [
+                "review under reasonableness standard"
+            ],
+            "evidence_provided": [
+                "police report",
+                "past allegations of theft"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "nature_of_offense": [
+                "theft"
+            ],
+            "mitigating_factors": [
+                "charges were withdrawn due to credibility issues"
+            ],
+            "balance_of_convenience": [
+                "reasonable belief on a balance of probabilities"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Aeronautics Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "credible evidence of involvement in thefts"
+            ],
+            "decision_reasoning": [
+                "denial based on past incidents and aviation security risks"
+            ],
+            "cause_of_action": [
+                "past involvement in thefts at an airport"
+            ],
+            "procedure_followed": [
+                "review by Advisory Body and Minister's delegate, judicial review in Federal Court"
+            ],
+            "result_of_case": [
+                "application dismissed, security clearance denial upheld"
+            ]
+        }
+    ]
+}

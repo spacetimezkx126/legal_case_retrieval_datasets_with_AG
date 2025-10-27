@@ -1,0 +1,30 @@
+{
+    "Case ID": "066955",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship evidence",
+                "establishment in Canada",
+                "medical care unavailability",
+                "discrimination in the Philippines"
+            ],
+            "evidence_assessment": [
+                "insufficient hardship"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "deference to immigration officers' discretion"
+            ],
+            "legal_basis": [
+                "Section 25(1) of IRPA"
+            ]
+        }
+    ]
+}

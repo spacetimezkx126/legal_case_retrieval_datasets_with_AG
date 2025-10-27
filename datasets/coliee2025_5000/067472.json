@@ -1,0 +1,29 @@
+{
+    "Case ID": "067472",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1(F)(a) and (c) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "evidentiary_standard": [
+                "international law"
+            ],
+            "decision_outcome": [
+                "refugee claim denied",
+                "judicial review dismissed"
+            ],
+            "complicity_in_crimes": [
+                "knowing complicity"
+            ],
+            "judicial_review_process": [
+                "Refugee Protection Division rejected claim",
+                "Federal Court dismissed judicial review"
+            ]
+        }
+    ]
+}

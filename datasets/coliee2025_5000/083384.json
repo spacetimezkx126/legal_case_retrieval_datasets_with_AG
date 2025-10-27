@@ -1,0 +1,32 @@
+{
+    "Case ID": "083384",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "individualized_assessment"
+            ],
+            "evidence_assessment": [
+                "financial_stability",
+                "private_insurance_intent"
+            ],
+            "decision_reasoning": [
+                "no_reviewable_error",
+                "awareness_of_issue"
+            ],
+            "application_details": [
+                "renal_transplant",
+                "daily_medication",
+                "excessive_demand"
+            ],
+            "relevant_statute": [
+                "Immigration_and_Refugee_Protection_Act"
+            ],
+            "result_of_case": [
+                "application_dismissed"
+            ]
+        }
+    ]
+}

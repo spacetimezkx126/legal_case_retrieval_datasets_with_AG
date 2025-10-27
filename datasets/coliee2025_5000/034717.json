@@ -1,0 +1,41 @@
+{
+    "Case ID": "034717",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Administrative law",
+                "Baker decision"
+            ],
+            "procedural_fairness": [
+                "meaningful opportunity to present case",
+                "reliance on undisclosed sources"
+            ],
+            "decision_reasoning": [
+                "breach of procedural fairness",
+                "denial of chance to respond"
+            ],
+            "application_details": [
+                "judicial review application filed"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review allowed",
+                "matter referred back for redetermination"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "request for landing in Canada"
+            ],
+            "relevant_statute": [
+                "Administrative law requirements"
+            ],
+            "procedure_followed": [
+                "Federal Court analysis of procedural fairness breach"
+            ],
+            "result_of_case": [
+                "decision set aside",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "049011",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "claim for refugee protection"
+            ],
+            "evidence_assessment": [
+                "lack of reliable evidence",
+                "uncontradicted oral testimony",
+                "objective evidence indicating potential persecution"
+            ],
+            "credibility_assessment": [
+                "unwarranted credibility findings"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "new hearing before a different panel is ordered"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ]
+        }
+    ]
+}

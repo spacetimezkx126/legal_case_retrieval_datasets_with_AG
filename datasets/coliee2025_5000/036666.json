@@ -1,0 +1,28 @@
+{
+    "Case ID": "036666",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "delays_in_filing"
+            ],
+            "reasonableness_standard": [
+                "upheld_by_RAD"
+            ],
+            "evidence_assessment": [
+                "domestic_violence_claim"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "review_standard": [
+                "reasonableness_standard_applied"
+            ],
+            "specific_vulnerabilities": [
+                "domestic_violence"
+            ]
+        }
+    ]
+}

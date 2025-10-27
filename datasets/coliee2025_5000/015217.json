@@ -1,0 +1,85 @@
+{
+    "Case ID": "015217",
+    "Different Crime": [
+        {
+            "Crime Name": "Abuse of Corporate Structure",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Article 317 C.C.Q.",
+                "Rule 459 of Federal Courts Rules"
+            ],
+            "decision_outcome": [
+                "Charging order absolute granted",
+                "judgment creditor entitled to costs"
+            ],
+            "evidence_provided": [
+                "audits",
+                "affidavits"
+            ],
+            "applicable_statute": [
+                "Article 317 C.C.Q."
+            ],
+            "party_involved": [
+                "Laquerre and his companies"
+            ],
+            "claim_nature": [
+                "lifting the corporate veil"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "nature_of_offense": [
+                "tax evasion",
+                "structuring companies to avoid liabilities"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Rule 459 of the Federal Courts Rules",
+                "Article 317 of the Civil Code of Quebec"
+            ],
+            "evidence_credibility": [
+                "mingling of personal and corporate assets",
+                "use of companies to evade taxes",
+                "fraudulent schemes"
+            ],
+            "procedural_fairness": [
+                "Ex parte motions for interim and absolute charging orders",
+                "opposition by respondents",
+                "analysis of evidence, and legal arguments"
+            ],
+            "decision_outcome": [
+                "Charging order absolute issued"
+            ],
+            "reasoning_given": [
+                "evidence supports lifting the corporate veil and protecting the judgment creditor's rights"
+            ]
+        },
+        {
+            "Crime Name": "Contravention of Public Order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 459(1)",
+                "article 317 C.C.Q."
+            ],
+            "evidence_assessment": [
+                "deliberate schemes to defraud creditors and evade taxes"
+            ],
+            "decision_reasoning": [
+                "motion for a charging order absolute is justified and not premature",
+                "lifting the corporate veil due to fraudulent activities"
+            ],
+            "application_details": [
+                "Laquerre and his companies evaded taxes by mingling personal and corporate assets, using trusts to avoid liabilities"
+            ],
+            "procedure_steps": [
+                "Judgment creditor sought an interim charging order, followed by a motion for an absolute charging order. Respondents opposed, citing legitimate business activities."
+            ],
+            "result_of_case": [
+                "Court granted the charging order absolute and allowed the motion, holding Laquerre and his entities accountable for tax evasion."
+            ]
+        }
+    ]
+}

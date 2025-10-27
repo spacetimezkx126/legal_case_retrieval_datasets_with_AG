@@ -1,0 +1,40 @@
+{
+    "Case ID": "032139",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-Removal Risk Assessment Case",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act s. 113(b)",
+                "Regulations s. 167"
+            ],
+            "credibility_findings": [
+                "bisexuality",
+                "alcoholism"
+            ],
+            "risk_of_persecution": [
+                "bisexuality",
+                "alcoholism"
+            ],
+            "country_conditions": [
+                "Ethiopia"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "new risk assessment ordered with a hearing"
+            ],
+            "procedural_fairness": [
+                "hearing required"
+            ],
+            "specific_group_membership": [
+                "bisexual"
+            ],
+            "burden_of_proof": [
+                "central claims require hearing if they raise serious credibility issues"
+            ],
+            "standard_of_proof": [
+                "serious credibility issue"
+            ]
+        }
+    ]
+}

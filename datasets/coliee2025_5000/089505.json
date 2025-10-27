@@ -1,0 +1,31 @@
+{
+    "Case ID": "089505",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "patent_validity": [
+                "claims exceed actual invention",
+                "lack of utility based on unsound prediction"
+            ],
+            "applicable_statute": [
+                "NOC Regulations"
+            ],
+            "expert_testimony": [
+                "prior data supports utility prediction for all compounds"
+            ],
+            "decision_outcome": [
+                "applications for prohibition are allowed"
+            ],
+            "cause_of_action": [
+                "Novopharm sought to market a generic version of Pfizer's quinapril drug"
+            ],
+            "nature_of_offense": [
+                "challenging the '330 patent's validity"
+            ]
+        }
+    ]
+}

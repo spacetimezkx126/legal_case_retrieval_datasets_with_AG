@@ -1,0 +1,68 @@
+{
+    "Case ID": "081689",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing false information in Personal Identification Form",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.98",
+                "Refugee Convention Art.1F(b)"
+            ],
+            "misrepresentation_or_fraud": [
+                "forged passport",
+                "fraudulent identity",
+                "incomplete/incorrect info in PIF"
+            ],
+            "decision_outcome": [
+                "RPD's exclusion decision overturned",
+                "case returned for reassessment"
+            ],
+            "standard_of_review": [
+                "judicial review application granted"
+            ],
+            "procedural_fairness": [
+                "remanded for redetermination by a different panel"
+            ],
+            "risk_assessment": [
+                "seriousness of offense assessed per Supreme Court guidelines"
+            ],
+            "document_authenticity": [
+                "use of forged passport"
+            ]
+        },
+        {
+            "Crime Name": "Shoplifting and Identity Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "maximum penalty of at least 10 years",
+                "nature, mode of prosecution, prescribed penalty, circumstances"
+            ],
+            "mitigating_factors": [
+                "ignored mitigating factors",
+                "possibility of summary conviction with lower penalties"
+            ],
+            "applicable_statute": [
+                "IRPA s.98",
+                "Refugee Convention Art.1F(b)"
+            ],
+            "judicial_authority": [
+                "RPD",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "unreasonable and set aside",
+                "case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "analyzing the full sentencing range and actual conduct"
+            ],
+            "cause_of_action": [
+                "used a forged passport and false identity",
+                "committing shoplifting offenses in the U.S."
+            ],
+            "procedural_fairness": [
+                "Judicial review application after RPD excluded applicant from refugee protection"
+            ]
+        }
+    ]
+}

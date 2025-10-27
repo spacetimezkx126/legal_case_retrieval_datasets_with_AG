@@ -1,0 +1,63 @@
+{
+    "Case ID": "028118",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on grounds of organized criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA paragraph 37(1)(a)"
+            ],
+            "evidence_assessment": [
+                "membership in a criminal organization",
+                "association with Los Zetas members",
+                "received drugs",
+                "provided stolen goods",
+                "knowledge of operations"
+            ],
+            "credibility_assessment": [
+                "actions indicated membership beyond mere social association"
+            ],
+            "criminality_inadmissibility": [
+                "organized criminal activity"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Board's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Los Zetas"
+            ],
+            "inadmissibility_criteria": [
+                "paragraph 37(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "applicable_law_section": [
+                "IRPA s.37(1)(a)"
+            ],
+            "evidence_provided": [
+                "associated with Los Zetas members",
+                "received drugs",
+                "provided stolen goods",
+                "knew details of their operations"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable and supported by evidence"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "inadmissible due to membership in a criminal organization"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds based on credible information"
+            ],
+            "involvement_details": [
+                "indicated membership beyond mere social interaction"
+            ]
+        }
+    ]
+}

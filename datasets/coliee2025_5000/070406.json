@@ -1,0 +1,47 @@
+{
+    "Case ID": "070406",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "failed to provide documents verifying net worth"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "visa denial upheld"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "applicant's inability to prove legal source of net worth"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "failed to provide documents verifying net worth legitimacy"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; visa denial upheld"
+            ],
+            "cause_of_action": [
+                "Applicant's inability to prove the legal source of his net worth under IRPA requirements"
+            ]
+        }
+    ]
+}

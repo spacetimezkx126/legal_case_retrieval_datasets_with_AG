@@ -1,0 +1,47 @@
+{
+    "Case ID": "053459",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining Convention refugee status by misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "insufficient evidence after discounting misrepresentations"
+            ],
+            "misrepresentation_or_fraud": [
+                "applicant misrepresented facts about her family and persecution"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "RPD's decision upheld"
+            ],
+            "evidence_assessment": [
+                "only general country conditions and demographic details remained"
+            ],
+            "legal_basis": [
+                "IRPA s.109(2)"
+            ]
+        },
+        {
+            "Crime Name": "Withholding material facts relating to a relevant matter",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.109"
+            ],
+            "decision_outcome": [
+                "refugee status vacated"
+            ],
+            "material_misrepresentation": [
+                "family and persecution details"
+            ],
+            "procedural_fairness": [
+                "judicial review of RPD’s decision"
+            ],
+            "balance_of_convenience": [
+                "general country conditions and demographic details"
+            ],
+            "personalized_vs_generalized_risk": [
+                "only general country conditions remained after discounting misrepresentations"
+            ]
+        }
+    ]
+}

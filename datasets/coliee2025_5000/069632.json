@@ -1,0 +1,125 @@
+{
+    "Case ID": "069632",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a forged passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167",
+                "IRPA s.72(1)"
+            ],
+            "credibility_assessment": [
+                "inconsistent statements",
+                "fraudulent documents",
+                "technical defects",
+                "past credibility issues"
+            ],
+            "procedural_fairness": [
+                "no error in the PRRA Officer’s decision",
+                "some procedural fairness concerns",
+                "oral hearing not required"
+            ],
+            "evidence_assessment": [
+                "return to Syria under a false name",
+                "no fear of persecution"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "forged passport",
+                "history of fraudulent documents"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent document possession",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167",
+                "IRPA s.72(1)"
+            ],
+            "procedural_fairness": [
+                "oral hearing requirement",
+                "credibility issues"
+            ],
+            "evidence_provided": [
+                "statutory declarations",
+                "history of fraudulent documents",
+                "inconsistent statements"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no oral hearing ordered"
+            ],
+            "risk_characterization": [
+                "persecution risk in Syria",
+                "speculative risk"
+            ],
+            "relationship_genuineness": [
+                "MB association"
+            ],
+            "expert_testimony": [],
+            "state_protection": [],
+            "internal_flight_alternative": [],
+            "material_misrepresentation": [],
+            "serious_criminality": [],
+            "balance_of_convenience": [],
+            "irreparable_harm": [],
+            "reasonableness_standard": [],
+            "identity_documents": [
+                "fraudulent documents"
+            ],
+            "public_interest": [],
+            "nexus_to_convention_grounds": [],
+            "personalized_vs_generalized_risk": [],
+            "materiality_of_misrepresentation": [],
+            "persecution_details": [],
+            "serious_non_political_crime": [],
+            "residency_requirements": [],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_analysis": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "judicial review"
+            ],
+            "nature_of_offense": [
+                "fraudulent document possession"
+            ],
+            "mitigating_factors": [],
+            "confusion_likelihood": []
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s.113(b)",
+                "Regulations s.167",
+                "IRPA s.72(1)"
+            ],
+            "credibility_findings": [
+                "serious credibility issues",
+                "adverse credibility findings"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "statutory declarations"
+            ],
+            "decision_outcome": [
+                "no error in the PRRA Officer's decision"
+            ],
+            "reasoning_given": [
+                "even if the evidence was accepted, it wouldn't change the outcome due to other factors"
+            ]
+        }
+    ]
+}

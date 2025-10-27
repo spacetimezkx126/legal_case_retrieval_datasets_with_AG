@@ -1,0 +1,30 @@
+{
+    "Case ID": "039092",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose material information in refugee claim",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent statements",
+                "questioned credibility"
+            ],
+            "document_authenticity": [
+                "falsified documents",
+                "insufficient proof of identity"
+            ],
+            "internal_flight_alternative": [
+                "IFA available",
+                "substantial evidence for safe relocation within India"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "entered Canada with false documents"
+            ]
+        }
+    ]
+}

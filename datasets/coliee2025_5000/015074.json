@@ -1,0 +1,29 @@
+{
+    "Case ID": "015074",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "patent_validity": [
+                "invalid due to obviousness"
+            ],
+            "expert_testimony": [
+                "based on prior art and expert testimony"
+            ],
+            "technical_details": [
+                "70 mg weekly alendronate dosage",
+                "higher doses of alendronate were known to be safe and effective",
+                "increasing dose frequency while reducing administration"
+            ],
+            "cause_of_action": [
+                "Merck sought to extend its market exclusivity by patenting a modified dosing regimen for alendronate"
+            ],
+            "decision_outcome": [
+                "The court dismissed Merck's application"
+            ]
+        }
+    ]
+}

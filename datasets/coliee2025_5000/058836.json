@@ -1,0 +1,80 @@
+{
+    "Case ID": "058836",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Proceedings",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of fairness",
+                "unreasonable findings"
+            ],
+            "credibility_assessment": [
+                "perceived lack of credibility"
+            ],
+            "evidence_assessment": [
+                "dismissed corroborating documents"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed decision-making process"
+            ],
+            "refugee_status_eligibility": [
+                "refugee claim dismissed"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of fairness",
+                "opportunity to respond"
+            ],
+            "evidence_provided": [
+                "medical reports",
+                "police reports"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "judicial review granted"
+            ],
+            "judicial_authority": [
+                "Court allowed judicial review"
+            ],
+            "appeal_outcome": [
+                "set aside the Board's decision",
+                "remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "False Documents",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach of fairness",
+                "opportunity to respond to doubts about evidence"
+            ],
+            "evidence_credibility": [
+                "medical and police reports dismissed as false",
+                "linguistic issues"
+            ],
+            "judicial_review_result": [
+                "judicial review granted",
+                "Board's decision set aside",
+                "case remitted for redetermination"
+            ],
+            "reasonableness_of_decision": [
+                "decision patently unreasonable"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "refugee_status_outcome": [
+                "refugee claim dismissed"
+            ],
+            "decision_making_process": [
+                "concerns not raised during hearing"
+            ]
+        }
+    ]
+}

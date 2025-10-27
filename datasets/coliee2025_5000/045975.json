@@ -1,0 +1,27 @@
+{
+    "Case ID": "045975",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Delay Dispute",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "subsection 21(3) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "unreasonable delay",
+                "security concerns"
+            ],
+            "immigration_status": [
+                "permanent residence application",
+                "cessation application"
+            ],
+            "judicial_review_process": [
+                "mandamus order"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "no mandamus order granted"
+            ]
+        }
+    ]
+}

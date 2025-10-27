@@ -1,0 +1,29 @@
+{
+    "Case ID": "013853",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "frequent absences",
+                "maintained a home and business in Canada",
+                "perceived failure to meet residency requirements"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "accumulate at least 1,095 days of residence in Canada within four years"
+            ],
+            "decision_outcome": [
+                "citizenship application denied",
+                "appeal allowed",
+                "case referred back for reassessment"
+            ],
+            "standard_of_review": [
+                "legal errors identified"
+            ],
+            "procedural_fairness": [
+                "Appeal filed to Federal Court challenging Citizenship Judge's decision"
+            ]
+        }
+    ]
+}

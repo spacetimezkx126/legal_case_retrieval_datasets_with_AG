@@ -1,0 +1,33 @@
+{
+    "Case ID": "004975",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "contradictions in testimony",
+                "questioned credibility of new allegations"
+            ],
+            "risk_of_persecution": [
+                "persecution as a journalist",
+                "imputed political opinions"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "Board’s decision reasonably based on evidence"
+            ],
+            "nexus_to_convention_grounds": [
+                "imputed political opinion",
+                "membership in a particular social group"
+            ],
+            "reasonableness_standard": [
+                "Decisions must be reasonable and supported by evidence"
+            ],
+            "inconsistencies_in_testimony": [
+                "ability to travel freely despite alleged surveillance"
+            ]
+        }
+    ]
+}

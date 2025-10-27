@@ -1,0 +1,105 @@
+{
+    "Case ID": "001725",
+    "Different Crime": [
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequate state protection"
+            ],
+            "risk_characterization": [
+                "sexual and physical assaults by police"
+            ],
+            "nexus_to_convention_grounds": [
+                "persecution based on sexual orientation"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act, S.C. 2001, c. 27"
+            ],
+            "decision_outcome": [
+                "judicial review allowed; case remanded to a new panel for reassessment"
+            ],
+            "evidence_provided": [
+                "medical evidence corroborating the abuse"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection"
+            ],
+            "risk_of_persecution": [
+                "sexual orientation-based persecution"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, subsection 108(4)"
+            ],
+            "refugee_status_nexus": [
+                "past persecution"
+            ],
+            "country_conditions": [
+                "Argentina"
+            ],
+            "reasonableness_of_decision": [
+                "incongruous with facts"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "compelling reasons exception"
+            ]
+        },
+        {
+            "Crime Name": "Cruel and Unusual Treatment or Punishment",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "adequate state protection"
+            ],
+            "refugee_status": [
+                "persecution based on sexual orientation",
+                "refugee claim dismissed"
+            ],
+            "evidence_considered": [
+                "medical evidence corroborating claims"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "re-determination ordered"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_made_by": [
+                "Board",
+                "court"
+            ],
+            "review_process": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Persecution Based on Membership in a Particular Social Group",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "adequate state protection"
+            ],
+            "compelling_reasons": [
+                "exception applies if there are compelling reasons arising from past persecution"
+            ],
+            "credibility_findings": [
+                "medical evidence corroborating the applicant's account"
+            ],
+            "human_rights_violations": [
+                "sexual and physical assaults by police due to his sexual orientation"
+            ],
+            "refugee_definition": [
+                "reasons for seeking refugee protection have ceased to exist"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Board's decision dismissing the applicant's refugee claim"
+            ],
+            "decision_outcome": [
+                "Board erred in its findings; application for judicial review is allowed, and the matter is remitted for re-determination"
+            ]
+        }
+    ]
+}

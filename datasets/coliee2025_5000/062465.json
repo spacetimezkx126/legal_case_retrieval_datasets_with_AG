@@ -1,0 +1,37 @@
+{
+    "Case ID": "062465",
+    "Different Crime": [
+        {
+            "Crime Name": "Persecution based on sexual orientation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "unwilling or unable to protect",
+                "police disinterest",
+                "hostility due to sexual orientation"
+            ],
+            "evidentiary_standard": [
+                "clear and convincing evidence"
+            ],
+            "administrative_error": [
+                "failed to consider key evidence"
+            ],
+            "reasonableness_of_decision": [
+                "decision unreasonable"
+            ],
+            "refugee_definition": [
+                "applicant claimed refugee status"
+            ],
+            "judicial_review_process": [
+                "judicial review application under Immigration and Refugee Protection Act"
+            ],
+            "persecution_grounds": [
+                "sexual orientation"
+            ],
+            "decision_outcome": [
+                "Court allowed the judicial review",
+                "overturned the Board's decision",
+                "ordered a rehearing"
+            ]
+        }
+    ]
+}

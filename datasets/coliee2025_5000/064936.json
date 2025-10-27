@@ -1,0 +1,51 @@
+{
+    "Case ID": "064936",
+    "Different Crime": [
+        {
+            "Crime Name": "Providing false or misleading information to a visa officer",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lack of credibility",
+                "discrepancies in visa application and testimony"
+            ],
+            "procedural_fairness": [
+                "RAD failed to conduct independent analysis",
+                "denied true appeal"
+            ],
+            "evidence_assessment": [
+                "RAD relied solely on RPD's credibility findings"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "redetermination ordered by different RAD panel"
+            ],
+            "standard_of_review": [
+                "independent assessment required",
+                "reasonableness of RPD's findings"
+            ]
+        },
+        {
+            "Crime Name": "Falsification of documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "case remanded for reassessment"
+            ],
+            "evidence_provided": [
+                "discrepancies in visa and refugee claims"
+            ],
+            "procedural_fairness": [
+                "RAD failed to conduct independent analysis"
+            ],
+            "material_misrepresentation": [
+                "credibility issues due to discrepancies"
+            ]
+        }
+    ]
+}

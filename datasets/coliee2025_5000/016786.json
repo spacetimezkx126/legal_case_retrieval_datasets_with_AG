@@ -1,0 +1,24 @@
+{
+    "Case ID": "016786",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Profit from real estate transactions is taxable as income if the taxpayer was in the business of buying and selling real estate, or had a secondary intention to resell for profit at acquisition."
+            ],
+            "evidence_provided": [
+                "Plaintiffs bought and sold multiple properties over years. The Cusson property was listed for sale before tenant issues arose, suggesting an intention to sell for profit."
+            ],
+            "decision_outcome": [
+                "Court ruled profit is ordinary income; action dismissed with costs."
+            ],
+            "cause_of_action": [
+                "Dispute over tax treatment of profit from Cusson property sale."
+            ],
+            "procedural_fairness": [
+                "Trial based on evidence and legal precedents; analysis of plaintiffs' intentions and history."
+            ]
+        }
+    ]
+}

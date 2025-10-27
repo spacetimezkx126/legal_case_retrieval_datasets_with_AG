@@ -1,0 +1,31 @@
+{
+    "Case ID": "024156",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "application_details": [
+                "motion to dismiss",
+                "amendment of Notice of Application"
+            ],
+            "procedure_followed": [
+                "Novopharm moved to dismiss",
+                "Eli Lilly sought to amend"
+            ],
+            "evidence_presented": [
+                "expert evidence suggested potential conversion"
+            ],
+            "decision_reasoning": [
+                "unresolved legal questions",
+                "insufficient evidence to dismiss"
+            ],
+            "result_of_case": [
+                "appeal dismissed",
+                "prohibition application proceeds to trial"
+            ]
+        }
+    ]
+}

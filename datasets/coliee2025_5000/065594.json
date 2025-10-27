@@ -1,0 +1,48 @@
+{
+    "Case ID": "065594",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of Official Documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "inflammatory documents falsely attributed",
+                "violated court orders"
+            ],
+            "procedural_fairness": [
+                "proceeding with removal without proper procedures",
+                "not allowing fair hearing"
+            ],
+            "legal_basis": [
+                "Indian Act",
+                "Amended Blood Tribe Custom Election Bylaws"
+            ],
+            "decision_outcome": [
+                "found in contempt of court",
+                "purged contempt by agreeing to new elections"
+            ],
+            "regulatory_compliance": [
+                "breach of court orders",
+                "required compliance with court orders"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Contempt of court occurs when a party disobeys or undermines the authority of a court order."
+            ],
+            "evidence_assessment": [
+                "Defendants violated multiple court orders by attempting to remove Harley Frank as Chief, organizing unauthorized elections, and refusing to cooperate with him despite injunctions."
+            ],
+            "decision_reasoning": [
+                "The defendants were found in contempt of court but no penalties were imposed due to subsequent actions purging the contempt, including holding a general election."
+            ],
+            "procedure_followed": [
+                "Series of court orders, motions, and hearings involving injunctions, contempt proceedings, and attempts to resolve disputes through referendums or elections."
+            ],
+            "result_of_case": [
+                "Court confirmed contempt but avoided penalties after defendants complied with requirements, leading to a new election resolving the dispute."
+            ]
+        }
+    ]
+}

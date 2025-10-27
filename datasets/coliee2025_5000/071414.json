@@ -1,0 +1,25 @@
+{
+    "Case ID": "071414",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicants must physically reside in Canada for at least 1,095 days during a four-year period preceding their citizenship application."
+            ],
+            "decision_outcome": [
+                "Appeal allowed; case returned for a new hearing with a different Citizenship Judge."
+            ],
+            "standard_of_review": [
+                "Decisions are reviewed for reasonableness."
+            ],
+            "evidence_assessment": [
+                "The Judge did not explain calculations or consider all evidence like ICES and OHIP reports."
+            ],
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act",
+                "subsection 14(5) of the Citizenship Act"
+            ]
+        }
+    ]
+}

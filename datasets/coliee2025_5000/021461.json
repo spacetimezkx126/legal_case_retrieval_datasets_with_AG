@@ -1,0 +1,31 @@
+{
+    "Case ID": "021461",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada within the four years preceding the application",
+                "physical presence",
+                "centralized mode of living",
+                "combination of both"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "case remanded for rehearing"
+            ],
+            "standard_of_review": [
+                "applicable case law"
+            ],
+            "identity_verification": [
+                "maintains significant ties to Canada, including taxes, medical insurance, and family"
+            ],
+            "immigration_status": [
+                "citizenship application"
+            ]
+        }
+    ]
+}

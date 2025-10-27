@@ -1,0 +1,39 @@
+{
+    "Case ID": "005585",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Board's decision"
+            ],
+            "decision_reasoning": [
+                "denied refugee status",
+                "not credible due to perceived implausibilities and delays in seeking asylum"
+            ],
+            "evidence_assessment": [
+                "conclusions were not supported by evidence",
+                "ignored key details like threats against his group and explanations for delays"
+            ],
+            "credibility_findings": [
+                "Mr. Duran not credible"
+            ],
+            "risk_of_persecution": [
+                "threats from ELN in Colombia"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "result_of_case": [
+                "application for judicial review is granted",
+                "case remitted for reconsideration"
+            ],
+            "court_ruling": [
+                "The court overturned the Board's decision"
+            ],
+            "reconsideration_order": [
+                "ordering a new panel to reconsider the case"
+            ]
+        }
+    ]
+}

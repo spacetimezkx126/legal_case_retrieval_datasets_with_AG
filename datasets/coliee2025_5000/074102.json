@@ -1,0 +1,78 @@
+{
+    "Case ID": "074102",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "fraudulent documents"
+            ],
+            "marriage_genuineness": [
+                "not primarily for immigration benefits",
+                "lack of family introductions",
+                "timing of the relationship"
+            ],
+            "evidence_assessment": [
+                "phone bills",
+                "letters"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "immigration_status": [
+                "permanent residence application refused"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not credible",
+                "lack of family introductions",
+                "timing of the relationship"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "IRPA",
+                "IRPR"
+            ],
+            "evidence_provided": [
+                "phone bills",
+                "letters"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "material_misrepresentation": [
+                "fraudulent documents"
+            ],
+            "procedural_fairness": [
+                "IAD's determination"
+            ],
+            "humanitarian_compassionate_considerations": [],
+            "child_best_interests": [],
+            "confusion_likelihood": [],
+            "distinctiveness_evaluation": [],
+            "use_in_trade": [],
+            "special_circumstances": [],
+            "appeal_outcome": [
+                "upholding the IAD's decision"
+            ],
+            "cause_of_action": [
+                "permanent residence application refusal"
+            ],
+            "nature_of_offense": [
+                "lack of genuine marriage"
+            ],
+            "mitigating_factors": []
+        }
+    ]
+}

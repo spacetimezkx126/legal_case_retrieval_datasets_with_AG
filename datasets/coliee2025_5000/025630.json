@@ -1,0 +1,104 @@
+{
+    "Case ID": "025630",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies",
+                "lack of credible evidence"
+            ],
+            "evidence_assessment": [
+                "false testimony",
+                "omission of key facts"
+            ],
+            "misrepresentation_or_fraud": [
+                "lied about departure date",
+                "route",
+                "concealed living in Switzerland"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness of decision based on evidence"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Refugee Claim Process",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "reasonableness_standard": [
+                "Judicial review examines the reasonableness of the Board's decision based on evidence presented."
+            ],
+            "inconsistencies_in_testimony": [
+                "Applicant lied about his departure date, route to Canada, and concealed his stay in Switzerland."
+            ],
+            "decision_outcome": [
+                "Application dismissed; no further questions certified."
+            ],
+            "burden_of_proof": [
+                "Misconduct, like lying under oath, can dismiss the application."
+            ],
+            "evidence_assessment": [
+                "Despite new evidence, the court found his misconduct disqualifies him from judicial review."
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Judicial review examines the reasonableness of a decision based on evidence presented"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed"
+            ],
+            "evidence_provided": [
+                "letter from Bishop Cornil"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "material_misrepresentation": [
+                "false testimony",
+                "concealment of facts"
+            ],
+            "relationship_genuineness": [
+                "deliberate false testimony and concealment of facts"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review denied"
+            ]
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_credibility": [
+                "false testimony",
+                "concealment of facts"
+            ],
+            "reasonableness_of_decision": [
+                "examined based on evidence presented"
+            ],
+            "discrepancies_identified": [
+                "incompetence of counsel not clear",
+                "deliberate falsehoods"
+            ],
+            "new_information": [
+                "letter from Bishop Cornil"
+            ],
+            "decision_outcome": [
+                "no reopening of case",
+                "denied"
+            ],
+            "refugee_status_claim": [
+                "applicant lied about departure date, route, and stay in Switzerland"
+            ],
+            "reasoning_given": [
+                "perjury disqualifies claims for discretionary relief"
+            ]
+        }
+    ]
+}

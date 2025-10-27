@@ -1,0 +1,33 @@
+{
+    "Case ID": "040729",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "undue",
+                "undeserved",
+                "disproportionate hardship"
+            ],
+            "risk_assessment": [
+                "generalized hardship claims",
+                "personal links to risks",
+                "FARC and Mexican gangs",
+                "past experiences",
+                "potential harm"
+            ],
+            "legal_basis": [
+                "s. 25(1.3) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "decision quashed",
+                "case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "correctness for legal tests",
+                "reasonableness for factual applications"
+            ]
+        }
+    ]
+}

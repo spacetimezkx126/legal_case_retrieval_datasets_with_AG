@@ -1,0 +1,24 @@
+{
+    "Case ID": "033419",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "applicant was physically present for 621 days out of 1095 required",
+                "absences may be counted if they are temporary and ties to Canada are maintained"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "case remanded with instructions to reassess residency based on proper criteria"
+            ],
+            "procedural_fairness": [
+                "appeal heard by Federal Court - Trial Division under new rules treating appeals as applications rather than trials de novo"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act",
+                "applicants must accumulate at least three years of residence in Canada within four years before applying"
+            ]
+        }
+    ]
+}

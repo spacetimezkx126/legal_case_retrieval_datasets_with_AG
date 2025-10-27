@@ -1,0 +1,29 @@
+{
+    "Case ID": "066072",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirement",
+                "accumulate at least three years of residence",
+                "preceding their application"
+            ],
+            "evidence_assessment": [
+                "claimed 1,204 days of presence",
+                "significant absences",
+                "lacked corroborating documentation"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "reapply after re-establishing residency"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "Case ID": "097564",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "pregnant wife with medical issues",
+                "outstanding H&C application",
+                "business concerns"
+            ],
+            "procedural_fairness": [
+                "reliance on outdated information",
+                "insufficient evidence assessment"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "case set aside",
+                "no re-determination ordered"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 48(2)"
+            ]
+        },
+        {
+            "Crime Name": "Credit card fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 48(2) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside"
+            ],
+            "judicial_authority": [
+                "enforcement officer"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "pending H&C application"
+            ],
+            "relationship_genuineness": [
+                "wife's pregnancy",
+                "family dynamics"
+            ],
+            "nature_of_offense": [
+                "credit card fraud",
+                "obstructing a police officer"
+            ],
+            "appeal_outcome": [
+                "Decision overturned"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "unreasonable reliance on outdated information"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "pending H&C application",
+                "wife's pregnancy",
+                "family dynamics"
+            ],
+            "reasonableness_of_decision": [
+                "decision was set aside due to procedural unfairness"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 48(2)"
+            ],
+            "family_ties": [
+                "wife's pregnancy"
+            ]
+        }
+    ]
+}

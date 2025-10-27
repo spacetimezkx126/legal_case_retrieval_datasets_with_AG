@@ -1,0 +1,57 @@
+{
+    "Case ID": "055579",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation order under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 162(1)",
+                "IRPA s. 68(4)"
+            ],
+            "procedural_fairness": [
+                "jurisdiction of IAD",
+                "constitutional challenge to s. 68(4)"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "IAD lacks jurisdiction for constitutional challenges"
+            ],
+            "criminality_inadmissibility": [
+                "narcotics conviction"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Possession of heroin for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "constitutional_challenge": [
+                "s. 68(4) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_made_by": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "applicable_law_or_regulation": [
+                "s. 162(1) of IRPA",
+                "s. 68(4) of IRPA"
+            ],
+            "review_process": [
+                "judicial review in Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed application",
+                "confirmed IAD's lack of jurisdiction"
+            ],
+            "criminal_history": [
+                "permanent resident with a criminal record"
+            ],
+            "deportation_order": [
+                "automatic cancellation of deportation stay"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ]
+        }
+    ]
+}

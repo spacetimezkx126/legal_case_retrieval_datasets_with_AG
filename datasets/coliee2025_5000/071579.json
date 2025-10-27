@@ -1,0 +1,118 @@
+{
+    "Case ID": "071579",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "rules of natural justice",
+                "procedural fairness"
+            ],
+            "decision_outcome": [
+                "refusal to postpone the hearing",
+                "revocation of stay"
+            ],
+            "reasonableness_standard": [
+                "reasonableness standard for IAD's assessment"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "consideration of humanitarian and compassionate factors"
+            ],
+            "mitigating_factors": [
+                "lack of sufficient efforts to secure psycho-social assessment"
+            ],
+            "nature_of_offense": [
+                "multiple fraud offenses",
+                "non-compliance with stay conditions"
+            ],
+            "appeal_outcome": [
+                "application for judicial review dismissed",
+                "IAD's decisions upheld"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "fair hearing",
+                "refusal to postpone",
+                "reasonable exercise of discretion"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "compliance with stay conditions",
+                "rehabilitation efforts",
+                "criminal behavior during stay period"
+            ],
+            "evidence_consideration": [
+                "repeated offenses",
+                "lack of credible rehabilitation"
+            ],
+            "reasonableness_of_decision": [
+                "within acceptable outcomes",
+                "based on facts and law"
+            ],
+            "past_criminal_convictions": [
+                "convicted of multiple crimes",
+                "committed further offenses"
+            ],
+            "immigration_status": [
+                "removal order",
+                "refugee status"
+            ],
+            "standard_of_proof": [
+                "reviewed under the standard of reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "considered",
+                "upheld"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "no breach"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "refusal to postpone"
+            ],
+            "evidence_provided": [
+                "psycho-social assessment"
+            ],
+            "reasoning_given": [
+                "undue delay",
+                "lack of diligence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with a court order",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "rules of natural justice",
+                "procedural fairness"
+            ],
+            "discretion_exercise": [
+                "discretion to grant or deny postponement requests"
+            ],
+            "decision_reasoning": [
+                "balancing procedural fairness with timely resolution of appeals",
+                "unreasonable to grant the request"
+            ],
+            "application_details": [
+                "request for postponement to obtain a psycho-social assessment",
+                "lack of diligence by applicant"
+            ],
+            "decision_made": [
+                "refusal to postpone was reasonable",
+                "did not violate procedural fairness"
+            ],
+            "result_of_case": [
+                "application for judicial review is dismissed"
+            ]
+        }
+    ]
+}

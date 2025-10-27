@@ -1,0 +1,46 @@
+{
+    "Case ID": "099321",
+    "Different Crime": [
+        {
+            "Crime Name": "Obtaining forged passports",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "lack of nexus to Convention grounds"
+            ],
+            "internal_flight_alternative": [
+                "existence of internal flight alternative in Mumbai"
+            ],
+            "evidence_assessment": [
+                "Board's findings on detention reasons"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "use of forged passports"
+            ]
+        },
+        {
+            "Crime Name": "Victim of extortion by police",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "Convention refugee must show a well-founded fear of persecution based on race, religion, nationality, social group, or political opinion"
+            ],
+            "persecution_grounds": [
+                "race, religion, nationality, social group, political opinion"
+            ],
+            "reasonableness_of_decision": [
+                "Board's factual findings were reasonable given evidence showing arrests were motivated by financial gain"
+            ],
+            "judicial_review_process": [
+                "Judicial review examined whether Board's factual findings were perverse or capricious under reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Court upheld Board's decision; applicants are neither Convention refugees nor persons in need of protection"
+            ],
+            "burden_of_proof": [
+                "Applicants must demonstrate nexus between fear of persecution and Convention grounds"
+            ]
+        }
+    ]
+}

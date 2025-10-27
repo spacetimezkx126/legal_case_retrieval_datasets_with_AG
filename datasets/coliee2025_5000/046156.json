@@ -1,0 +1,30 @@
+{
+    "Case ID": "046156",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of physical presence in Canada over four years",
+                "undeclared absences",
+                "inconsistent documentation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "case remanded for re-determination"
+            ],
+            "evidence_assessment": [
+                "Ms. Hussein provided evidence showing 1099 days of presence"
+            ],
+            "document_authenticity": [
+                "inconsistent documentation"
+            ],
+            "legal_basis": [
+                "subsection 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

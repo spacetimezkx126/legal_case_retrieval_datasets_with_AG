@@ -1,0 +1,34 @@
+{
+    "Case ID": "077774",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "valid"
+            ],
+            "technical_details": [
+                "fluconazole",
+                "unexpected properties",
+                "ACIC Pathway",
+                "obvious chemical equivalent"
+            ],
+            "expert_testimony": [
+                "considered"
+            ],
+            "decision_outcome": [
+                "prohibition order granted"
+            ],
+            "nature_of_offense": [
+                "manufacture fluconazole using a different process"
+            ],
+            "appeal_outcome": [
+                "Court ruled in favor of Pfizer"
+            ]
+        }
+    ]
+}

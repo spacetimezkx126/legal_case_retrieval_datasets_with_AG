@@ -1,0 +1,32 @@
+{
+    "Case ID": "076555",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "breach_of_fairness",
+                "charter_rights"
+            ],
+            "court_jurisdiction": [
+                "court_of_competent_jurisdiction"
+            ],
+            "relevant_rule": [
+                "section_24_of_the_Charter"
+            ],
+            "procedure_followed": [
+                "grievance_process_analysis"
+            ],
+            "decision_reasoning": [
+                "lack_of_key_elements",
+                "inability_to_grant_monetary_compensation",
+                "no_hearings",
+                "no_witness_testimony"
+            ],
+            "result_of_case": [
+                "appeal_allowed",
+                "motion_to_strike_dismissed"
+            ]
+        }
+    ]
+}

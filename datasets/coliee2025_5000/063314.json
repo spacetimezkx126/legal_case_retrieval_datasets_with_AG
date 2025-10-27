@@ -1,0 +1,62 @@
+{
+    "Case ID": "063314",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa or immigration status due to criminal conviction and subsequent deportation order",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "immigration_status": [
+                "permanent resident",
+                "deportable"
+            ],
+            "criminality_inadmissibility": [
+                "criminal convictions"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "PRRA officer jurisdiction assessed"
+            ],
+            "evidence_assessment": [
+                "no error found in PRRA decision"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality leading to deportation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 112(3)(b)"
+            ],
+            "decision_reasoning": [
+                "convicted of crimes in Canada and sentenced to over two years",
+                "inadmissible on grounds of serious criminality",
+                "PRRA application failed to establish sufficient risk of torture or persecution"
+            ],
+            "risk_of_persecution": [
+                "lack of evidence supporting significant risk upon removal"
+            ],
+            "application_details": [
+                "Judicial review assessed whether PRRA officer erred in jurisdiction, legal standards, or evidence consideration"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; no reviewable error found"
+            ],
+            "relevant_statute": [
+                "IRPA"
+            ],
+            "claimant_credential": [
+                "Cambodian national",
+                "former Indochinese Designated Class member"
+            ],
+            "refugee_status": [
+                "excluded from refugee protection due to serious criminality"
+            ],
+            "immigration_status": [
+                "subject to deportation order"
+            ]
+        }
+    ]
+}

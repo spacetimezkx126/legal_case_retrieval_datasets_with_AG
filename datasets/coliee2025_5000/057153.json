@@ -1,0 +1,53 @@
+{
+    "Case ID": "057153",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "paragraph 34(1)(f) of IRPA"
+            ],
+            "membership_in_organization": [
+                "TNA",
+                "LTTE"
+            ],
+            "evidence_credibility": [
+                "TNA's collaboration with LTTE through intimidation and shared goals"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable due to the close relationship between TNA and LTTE"
+            ],
+            "inadmissibility_criteria": [
+                "membership in an organization reasonably believed to engage in terrorism"
+            ],
+            "decision_outcome": [
+                "partially allowed; inadmissibility under 35(1)(a) quashed, but upheld under 34(1)(f)"
+            ],
+            "applicable_law_section": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s. 35(1)(a)"
+            ],
+            "complicity_in_crimes": [
+                "voluntary, significant, and knowing contribution"
+            ],
+            "membership_in_persecutory_group": [
+                "TNA, linked to LTTE"
+            ],
+            "evidentiary_standard": [
+                "insufficient evidence of voluntary contribution"
+            ],
+            "judicial_review_process": [
+                "Immigration Division review, Federal Court judicial review"
+            ],
+            "decision_outcome": [
+                "Judicial review granted, inadmissibility under s. 35(1)(a) quashed"
+            ]
+        }
+    ]
+}

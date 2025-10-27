@@ -1,0 +1,33 @@
+{
+    "Case ID": "022477",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 19(1), 20(1)(b), and 24(1) of the ATIA"
+            ],
+            "evidence_assessment": [
+                "signatures and names as personal information",
+                "Joint Venture Agreement's content",
+                "Defence Production Act exemption"
+            ],
+            "decision_reasoning": [
+                "whether signatures and names constitute personal information",
+                "if redacted portions qualify as confidential commercial information",
+                "retroactive application of Defence Production Act exemption"
+            ],
+            "result_of_case": [
+                "partial disclosure: names/signatures exempt",
+                "Joint Venture Agreement content disclosed"
+            ],
+            "relevant_statute": [
+                "Access to Information Act (ATIA)",
+                "Defence Production Act"
+            ],
+            "procedure_followed": [
+                "judicial review application"
+            ]
+        }
+    ]
+}

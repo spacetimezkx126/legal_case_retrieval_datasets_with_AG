@@ -1,0 +1,76 @@
+{
+    "Case ID": "082096",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 44 of the Patent Act",
+                "Section 39(2)"
+            ],
+            "decision_outcome": [
+                "Plaintiffs' action partially succeeded",
+                "Counterclaims dismissed",
+                "'380 Patent valid, and Merck & Co. has standing"
+            ],
+            "evidence_provided": [
+                "DNA evidence showed presence of Aspergillus terreus in CR0157 tablets",
+                "Evidence also suggested Blue Treasure reverted to AFI-1 after March 1998 due to cost efficiency"
+            ],
+            "applicable_statute": [
+                "Patent Act"
+            ],
+            "party_involved": [
+                "Apotex",
+                "Merck"
+            ],
+            "claim_nature": [
+                "Infringement of '380 Patent"
+            ],
+            "judicial_authority": [],
+            "patent_validity": [
+                "'380 Patent valid"
+            ],
+            "technical_details": [
+                "Aspergillus terreus microorganism",
+                "lovastatin",
+                "AFI batch CR0157",
+                "Blue Treasure"
+            ],
+            "expert_testimony": [
+                "microbial genetics",
+                "fermentation processes",
+                "DNA analysis"
+            ]
+        },
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "'380 Patent"
+            ],
+            "infringement_analysis": [
+                "use of Aspergillus terreus to produce lovastatin"
+            ],
+            "evidence_presented": [
+                "DNA testing",
+                "expert testimonies"
+            ],
+            "decision_reasoning": [
+                "credible and consistent with the promise of the patent"
+            ],
+            "result_of_case": [
+                "Apotex infringed the '380 Patent in specific batches"
+            ],
+            "procedure_steps": [
+                "claims construction",
+                "infringement evidence",
+                "validity challenges"
+            ],
+            "court_ruling": [
+                "Merck succeeded partially",
+                "counterclaims by Apotex dismissed"
+            ]
+        }
+    ]
+}

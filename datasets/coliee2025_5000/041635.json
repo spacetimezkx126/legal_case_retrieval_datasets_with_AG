@@ -1,0 +1,28 @@
+{
+    "Case ID": "041635",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicant must be physically present in Canada for 1095 days",
+                "centralization of mode of existence in Canada"
+            ],
+            "evidence_assessment": [
+                "frequent absences",
+                "business ties to Colombia"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "ineligible for Canadian citizenship"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "Koo (Re) factors"
+            ]
+        }
+    ]
+}

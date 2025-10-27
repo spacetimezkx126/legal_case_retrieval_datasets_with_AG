@@ -1,0 +1,37 @@
+{
+    "Case ID": "031710",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "specific_rule_applied": [
+                "Rule 420(2)",
+                "Rule 400(3)",
+                "Rule 317"
+            ],
+            "discretionary_factors": [
+                "offer to settle",
+                "complexity",
+                "conduct prolonging proceedings"
+            ],
+            "evidence_presented": [
+                "written submissions from both parties"
+            ],
+            "decision_reasoning": [
+                "valid offer to settle",
+                "lack of evidence or relevance"
+            ],
+            "result_of_case": [
+                "Respondent awarded $10,537.33 in costs",
+                "some claims disallowed"
+            ],
+            "procedure_followed": [
+                "judicial review dismissed",
+                "costs assessment process followed"
+            ],
+            "cause_of_action": [
+                "Dispute over judicial review application and associated costs"
+            ]
+        }
+    ]
+}

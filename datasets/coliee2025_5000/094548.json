@@ -1,0 +1,29 @@
+{
+    "Case ID": "094548",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Regulations Breach",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "No breach of procedural fairness"
+            ],
+            "immigration_status": [
+                "Live-in caregiver class",
+                "Permanent residency application"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "Reasonableness",
+                "Correctness"
+            ],
+            "criminality_inadmissibility": [
+                "Enforceable removal order"
+            ],
+            "regulatory_compliance": [
+                "IRPA and Regulations compliance"
+            ]
+        }
+    ]
+}

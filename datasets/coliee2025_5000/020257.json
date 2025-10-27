@@ -1,0 +1,28 @@
+{
+    "Case ID": "020257",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "clear communication",
+                "no bad faith"
+            ],
+            "document_authenticity": [
+                "statutory declaration",
+                "objective third-party evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review denied"
+            ],
+            "regulatory_compliance": [
+                "Immigration and Refugee Protection Act and Regulations",
+                "residency proof requirements"
+            ],
+            "misrepresentation_or_fraud": [
+                "failure to submit required documents"
+            ]
+        }
+    ]
+}

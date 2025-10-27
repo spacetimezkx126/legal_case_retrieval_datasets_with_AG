@@ -1,0 +1,41 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Obstruction of justice",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Was the process procedurally fair and did the evidence reasonably support the decision to revoke Mr. Clue's Transportation Security Clearance?",
+            "Governing_Law": "Standard of review is reasonableness; procedural fairness assessed under correctness",
+            "Standard_of_Review": "Reasonableness",
+            "Procedural_Fairness_Assessment": "Process was procedurally fair with adequate opportunity to respond",
+            "Evidence_Assessment": "Director had reasonable belief based on Mr. Clue's behavior and attitude toward airport security"
+        },
+        {
+            "Crime_Name": "Revocation of Transportation Security Clearance",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Legal_Issue": "Was procedural fairness breached and was the evidence sufficient to revoke Mr. Clue's TSC?",
+            "Governing_Law": "Director must reasonably believe, on a balance of probabilities, that an individual may unlawfully interfere with civil aviation",
+            "Standard_of_Review": "Reasonableness",
+            "Evidence_Used": "Affidavits, police reports, Advisory Body recommendations",
+            "Decision_Rationale": "Mr. Clue's suspected involvement in placing a loaded handgun on an aircraft and uncooperative behavior raised security concerns"
+        },
+        {
+            "Crime_Name": "Unlawful possession of a firearm",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Was the process procedurally fair and did the evidence reasonably support the decision to revoke Mr. Clue's Transportation Security Clearance?",
+            "Governing_Law": "Standard of review is reasonableness; Director must reasonably believe on balance of probabilities of potential unlawful interference with civil aviation",
+            "Standard_of_Review": "Reasonableness",
+            "Procedural_Fairness_Assessment": "No breach of procedural fairness; Mr. Clue had opportunity to respond",
+            "Key_Evidence_Considered": "Alleged placement of loaded handgun on aircraft and uncooperative attitude during investigation"
+        },
+        {
+            "Crime_Name": "Possession of stolen property",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Was the decision to revoke Mr. Clue's Transportation Security Clearance procedurally fair and supported by reasonable evidence?",
+            "Governing_Law": "Director must reasonably believe, on a balance of probabilities, that an individual may unlawfully interfere with civil aviation",
+            "Standard_of_Review": "Reasonableness",
+            "Evidence_Assessed": "Mr. Clue's uncooperative behavior, alleged firearm incident, and purchase of stolen property",
+            "Procedural_Fairness_Assessment": "Procedural fairness upheld as Mr. Clue had opportunities to respond"
+        }
+    ]
+}

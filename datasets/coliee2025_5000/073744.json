@@ -1,0 +1,31 @@
+{
+    "Case ID": "073744",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days over four years",
+                "discrepancies in residency evidence",
+                "conflicting addresses",
+                "unclear living arrangements"
+            ],
+            "evidence_assessment": [
+                "insufficient to establish residency",
+                "inconsistencies in residency evidence"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "original decision upheld"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "Section 5(1)(c) of the Citizenship Act",
+                "Re Pourghasemi",
+                "Koo"
+            ]
+        }
+    ]
+}

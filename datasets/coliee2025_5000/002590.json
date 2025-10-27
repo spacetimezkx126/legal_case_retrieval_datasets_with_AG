@@ -1,0 +1,31 @@
+{
+    "Case ID": "002590",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "physical presence test",
+                "1,095 days",
+                "four years preceding application"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "Citizenship Judge's decision upheld"
+            ],
+            "evidence_assessment": [
+                "applicant present for 584 days",
+                "insufficient ties to Canada"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c)",
+                "Federal Courts Rules"
+            ],
+            "standard_of_review": [
+                "statutory interpretation",
+                "case law comparison"
+            ]
+        }
+    ]
+}

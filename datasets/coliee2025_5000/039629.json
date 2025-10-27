@@ -1,0 +1,56 @@
+{
+    "Case ID": "039629",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility due to criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "conviction of theft under $5,000",
+                "history of non-compliance with immigration laws"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "Minister's decision upheld",
+                "judicial review application dismissed"
+            ],
+            "regulatory_compliance": [
+                "non-compliance with immigration laws"
+            ],
+            "misrepresentation_or_fraud": []
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "discretion_exercise": [
+                "highly discretionary"
+            ],
+            "application_details": [
+                "convicted of theft under $5000",
+                "overstayed visitor status",
+                "excluded from Canada for one year",
+                "family reunification claims",
+                "failed to provide compelling reasons or evidence"
+            ],
+            "decision_reasoning": [
+                "did not satisfy the criteria for a TRP"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "criminal conviction",
+                "non-compliance with immigration laws",
+                "lack of compelling evidence for TRP issuance"
+            ],
+            "procedure_followed": [
+                "Judicial review using the patent unreasonableness standard",
+                "considering legislative framework and Immigration Manual guidelines"
+            ]
+        }
+    ]
+}

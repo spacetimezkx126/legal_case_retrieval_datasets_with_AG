@@ -1,0 +1,50 @@
+{
+    "Case ID": "036604",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstating Language Proficiency",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "overstated language proficiency"
+            ],
+            "immigration_status": [
+                "permanent residence application"
+            ],
+            "evidence_assessment": [
+                "lacked sufficient evidence of work experience and funds"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "legal_basis": [
+                "Immigration Act and Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Embellishing Work Experience",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration Act and Regulations"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "evidence_provided": [
+                "Overstated English proficiency",
+                "Overstated work experience as a numerical control tool programmer"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "material_misrepresentation": [
+                "Embellished work experience and language skills"
+            ],
+            "judicial_authority": [
+                "Judicial review of visa officer's decision"
+            ]
+        }
+    ]
+}

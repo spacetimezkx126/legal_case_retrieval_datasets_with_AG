@@ -1,0 +1,74 @@
+{
+    "Case ID": "048695",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and compassionate grounds application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "new evidence of risk",
+                "Chechen ethnicity",
+                "risk of persecution"
+            ],
+            "evidence_assessment": [
+                "restored birth certificate"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "removal deferral decision set aside"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "procedural_fairness": [
+                "officer failed to consider evidence adequately"
+            ]
+        },
+        {
+            "Crime Name": "Pre-Removal Risk Assessment refusal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "documentary_evidence": [
+                "reissued birth certificate"
+            ],
+            "decision_outcome": [
+                "deferral was warranted due to exceptional circumstances"
+            ],
+            "reasonableness_standard": [
+                "patently unreasonable"
+            ],
+            "specific_group_membership": [
+                "Chechen ethnicity"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "risk_of_persecution": [
+                "risk if returned"
+            ]
+        },
+        {
+            "Crime Name": "Risk of persecution based on ethnicity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "evidence_assessment": [
+                "new evidence (re-issued birth certificate)"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "judicial_review_process": [
+                "judicial review filed with Federal Court"
+            ],
+            "decision_outcome": [
+                "Court allowed the judicial review, setting aside the decision not to defer removal"
+            ],
+            "persecution_grounds": [
+                "ethnicity"
+            ]
+        }
+    ]
+}

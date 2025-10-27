@@ -1,0 +1,52 @@
+{
+    "Case ID": "040475",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate application refusal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "rejection of application"
+            ],
+            "credibility_assessment": [
+                "negative credibility findings"
+            ],
+            "risk_assessment": [
+                "no credible risk of torture"
+            ],
+            "decision_outcome": [
+                "denial of stay of removal"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence for tri-partite test"
+            ],
+            "standard_of_review": [
+                "tri-partite test applied"
+            ]
+        },
+        {
+            "Crime Name": "Pre-Removal Risk Assessment refusal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "stay_of_removal": [
+                "denied"
+            ],
+            "decision_outcome": [
+                "negative"
+            ],
+            "review_standard": [
+                "tri-partite test"
+            ],
+            "risk_of_persecution": [
+                "not proven"
+            ],
+            "documentary_evidence": [
+                "insufficient"
+            ],
+            "inconsistencies_in_testimony": [
+                "none mentioned"
+            ],
+            "burden_of_proof": [
+                "not met"
+            ]
+        }
+    ]
+}

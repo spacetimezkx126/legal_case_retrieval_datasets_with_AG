@@ -1,0 +1,157 @@
+{
+    "Case ID": "077675",
+    "Different Crime": [
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Judicial review analyzed Board and Appeal Division decisions using reasonableness standard."
+            ],
+            "risk_characterization": [
+                "increased risk",
+                "high reoffending risk"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "no intervention warranted"
+            ],
+            "procedural_fairness": [
+                "decisions of the Board and Appeal Division were reasonable based on evidence"
+            ],
+            "legal_basis": [
+                "cruel and unusual punishment under section 12 of the Charter"
+            ],
+            "relationship_genuineness": [
+                "lack of cooperation"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "criminal_history": [
+                "significant criminal record"
+            ],
+            "risk_assessment": [
+                "increased risk",
+                "high reoffending risk"
+            ],
+            "procedural_fairness": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "section 12 of the Charter",
+                "cruel and unusual punishment"
+            ],
+            "rehabilitation_or_possibility": [
+                "lack of cooperation",
+                "behavior deteriorated"
+            ],
+            "humanitarian_concerns": [
+                "protection of society"
+            ],
+            "standard_of_proof": [
+                "reasonableness of decision"
+            ]
+        },
+        {
+            "Crime Name": "Unknown (due to suppressed fragments potentially involving additional crimes)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 12 of the Charter"
+            ],
+            "decision_reasoning": [
+                "society's protection",
+                "least restrictive determination",
+                "reasonable decisions",
+                "relevant evidence",
+                "fundamental justice principles"
+            ],
+            "evidence_assessment": [
+                "psychological assessments",
+                "case management reports",
+                "lack of cooperation",
+                "high reoffending risk"
+            ],
+            "charter_rights": [
+                "cruel and unusual punishment"
+            ],
+            "conclusion_outcome": [
+                "decisions were reasonable and lawful",
+                "continued detention does not constitute cruel and unusual punishment"
+            ],
+            "cause_of_action": [
+                "judicial review after being denied parole"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed reasonableness of parole denial decisions",
+                "compliance with statutory criteria and Charter rights"
+            ],
+            "result_of_case": [
+                "application for judicial review was dismissed without costs"
+            ]
+        },
+        {
+            "Crime Name": "First Degree Murder",
+            "Crime Type": "Drug-related_Crimes",
+            "risk_assessment": [
+                "high reoffending risks",
+                "lack of cooperation",
+                "program participation"
+            ],
+            "constitutional_challenge": [
+                "Section 12 of the Charter",
+                "cruel and unusual punishment"
+            ],
+            "parole_decision": [
+                "denial of parole",
+                "protection of society",
+                "reintegration as a law-abiding citizen"
+            ],
+            "criminal_history": [
+                "significant criminal record",
+                "deteriorated behavior"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "no violation of Section 12 found"
+            ],
+            "review_process": [
+                "judicial review process",
+                "analysis of Board and Appeal Division decisions"
+            ],
+            "evidence_considered": [
+                "behavioral assessments",
+                "legal principles"
+            ]
+        },
+        {
+            "Crime Name": "Armed Robbery",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Act"
+            ],
+            "risk_assessment": [
+                "high reoffending risk",
+                "uncooperative attitudes",
+                "denial of offenses"
+            ],
+            "charter_violation": [
+                "Section 12 of the Charter",
+                "cruel and unusual punishment"
+            ],
+            "decision_outcome": [
+                "refusal of parole",
+                "judicial review application dismissed"
+            ],
+            "evidence_considered": [
+                "behavioral regression",
+                "past good conduct",
+                "recent evaluations"
+            ],
+            "procedural_fairness": [
+                "least restrictive measures",
+                "reasonable decisions based on reliable evidence"
+            ]
+        }
+    ]
+}

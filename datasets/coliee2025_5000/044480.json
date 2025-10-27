@@ -1,0 +1,27 @@
+{
+    "Case ID": "044480",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 76(3) of the Immigration and Refugee Protection Act",
+                "s. 72(1) of the Act"
+            ],
+            "procedural_fairness": [
+                "officer failed to mention updated settlement funds",
+                "lacked transparency and justification"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case remanded for reevaluation"
+            ],
+            "evidence_assessment": [
+                "updated financial information ($90,000 vs. $25,000)"
+            ]
+        }
+    ]
+}

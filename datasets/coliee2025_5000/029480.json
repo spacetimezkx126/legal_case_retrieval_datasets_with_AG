@@ -1,0 +1,29 @@
+{
+    "Case ID": "029480",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Act"
+            ],
+            "patent_validity": [
+                "invalid"
+            ],
+            "applicable_statute": [
+                "Patented Medicine (Notice of Compliance) Regulations"
+            ],
+            "expert_testimony": [
+                "analyzed"
+            ],
+            "technical_details": [
+                "Ursodiol for treating PBC at 13-15 mg/kg/day",
+                "method of medical treatment"
+            ],
+            "decision_outcome": [
+                "Court dismissed Axcan’s application",
+                "Pharmascience allowed to proceed without prohibition order"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "089172",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "unreasonable findings",
+                "bias"
+            ],
+            "evidence_assessment": [
+                "dismissed key documents",
+                "mischaracterized testimony",
+                "unsupported speculation"
+            ],
+            "procedural_fairness": [
+                "potential bias",
+                "lack of impartiality"
+            ],
+            "decision_reasoning": [
+                "err in assessing credibility",
+                "implausibility",
+                "demeanor"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "costs awarded"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "048572",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration Act",
+                "Federal Court Act"
+            ],
+            "risk_of_persecution": [
+                "discrimination",
+                "fear of persecution based on Romani ethnicity"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection in Hungary",
+                "systemic discrimination equates to persecution",
+                "ineffective state protection"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "applicants not recognized as Convention refugees"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "social group"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Immigration and Refugee Board's decision"
+            ]
+        }
+    ]
+}

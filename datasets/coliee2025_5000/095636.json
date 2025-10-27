@@ -1,0 +1,100 @@
+{
+    "Case ID": "095636",
+    "Different Crime": [
+        {
+            "Crime Name": "Constructive Dismissal",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "Harassment and hostile work environment"
+            ],
+            "evidence_consideration": [
+                "Prolonged harassment, stress, resignation, failure to address complaints"
+            ],
+            "procedural_fairness": [
+                "Testimony from plaintiff, medical professionals, and colleagues"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "Mental distress"
+            ],
+            "legal_basis": [
+                "Crown Liability Act",
+                "Tort law",
+                "Constructive dismissal claims"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Harassment",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "tort law",
+                "Canadian law"
+            ],
+            "evidence_credibility": [
+                "Evidence supports intentional infliction of mental distress and negligence"
+            ],
+            "procedural_fairness": [
+                "A four-day hearing was conducted in Edmonton, followed by written submissions"
+            ],
+            "reasonableness_of_decision": [
+                "The court acknowledged her suffering and held the Crown vicariously liable for tortious acts of its servants"
+            ],
+            "decision_outcome": [
+                "The defendant is liable for intentional infliction of nervous shock and negligence"
+            ],
+            "court_ruling": [
+                "The plaintiff received $93,000 in damages plus interest and costs"
+            ]
+        },
+        {
+            "Crime Name": "Harassment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Crown Liability Act"
+            ],
+            "evidence_assessment": [
+                "prolonged harassment",
+                "derogatory comments",
+                "lack of support",
+                "threats"
+            ],
+            "decision_reasoning": [
+                "supervisors and peers acted in ways calculated to cause distress"
+            ],
+            "result_of_case": [
+                "Plaintiff awarded $88,000 for lost earnings and $5,000 for pain and suffering"
+            ],
+            "procedure_followed": [
+                "Four-day hearing followed by written submissions"
+            ]
+        },
+        {
+            "Crime Name": "Constructive Dismissal",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Crown Liability Act",
+                "tort law"
+            ],
+            "evidence_considered": [
+                "prolonged harassment",
+                "stress and resignation",
+                "supervisors' failure to address complaints",
+                "toxic work environment"
+            ],
+            "decision_outcome": [
+                "liable for intentional infliction of nervous shock and negligence",
+                "awarding $93,000 in damages",
+                "no claim for wrongful dismissal upheld"
+            ],
+            "applicable_laws": [
+                "Crown Liability Act"
+            ],
+            "relevant_factors": [
+                "ambiguous employment status",
+                "constructive dismissal claims require evidence of fundamental breach of employment terms"
+            ],
+            "court_ruling": [
+                "defendant is liable for intentional infliction of nervous shock and negligence"
+            ]
+        }
+    ]
+}

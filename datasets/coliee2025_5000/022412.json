@@ -1,0 +1,32 @@
+{
+    "Case ID": "022412",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "changed_country_conditions": [
+                "meaningful",
+                "effective",
+                "durable"
+            ],
+            "risk_of_persecution": [
+                "well-founded fear",
+                "insufficient evidence"
+            ],
+            "documentary_evidence": [
+                "preliminary evidence",
+                "articles",
+                "peace accord",
+                "continued death squad activity"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "Board’s decision set aside",
+                "case referred back"
+            ],
+            "standard_of_proof": [
+                "mere possibility of persecution"
+            ]
+        }
+    ]
+}

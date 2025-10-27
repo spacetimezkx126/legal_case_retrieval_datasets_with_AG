@@ -1,0 +1,25 @@
+{
+    "Case ID": "048338",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Delay",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "subsection 46.04(6) of the Immigration Act"
+            ],
+            "procedural_fairness": [
+                "unreasonable delay",
+                "justification required"
+            ],
+            "judicial_review_process": [
+                "mandamus order"
+            ],
+            "burden_of_proof": [
+                "delays not applicant-caused"
+            ],
+            "decision_outcome": [
+                "court granted mandamus order"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "Case ID": "050017",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation Following Criminal Convictions",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "inadequate care for quadriplegics in Jamaica",
+                "no family in Jamaica"
+            ],
+            "evidence_assessment": [
+                "ignored evidence from authoritative sources",
+                "relied on undisclosed internet research"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "returned for reconsideration"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "hardship as a quadriplegic",
+                "no family in Jamaica",
+                "limited care facilities"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "relied on independent research not disclosed",
+                "ignored key evidence"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "risk_assessment": [
+                "severe disability",
+                "lack of support in Jamaica"
+            ],
+            "evidence_consideration": [
+                "ignored probative evidence"
+            ],
+            "family_ties": [
+                "no family in Jamaica"
+            ],
+            "health_or_medical_conditions": [
+                "quadriplegic"
+            ],
+            "country_conditions": [
+                "limited care facilities in Jamaica"
+            ],
+            "past_criminal_convictions": [
+                "entered Canada using a false passport"
+            ],
+            "immigration_status": [
+                "faces removal"
+            ],
+            "applicant_characteristics": [
+                "quadriplegic"
+            ]
+        },
+        {
+            "Crime Name": "Trespass",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "limited care facilities for quadriplegics in Jamaica"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness by relying on irrelevant internet research without disclosure"
+            ],
+            "decision_reasonableness": [
+                "unreasonable decision due to ignoring specific circumstances"
+            ],
+            "application_details": [
+                "exemption based on hardship due to severe disability and lack of family support in Jamaica"
+            ],
+            "result_of_case": [
+                "application allowed, decision quashed, case sent for reconsideration"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act s. 25(1)"
+            ],
+            "review_process": [
+                "judicial review analyzing procedural fairness and reasonable assessment of H&C grounds"
+            ]
+        },
+        {
+            "Crime Name": "Possession of Cocaine with Intent to Transport",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "severe hardship due to lack of care facilities in Jamaica"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "application allowed, decision quashed, matter referred back for reconsideration"
+            ],
+            "applicable_law_or_regulation": [
+                "s. 25(1) of the Immigration and Refugee Protection Act",
+                "s. 72(1) of the Act"
+            ],
+            "evidence_considered": [
+                "undisclosed internet research about care facilities",
+                "contradictory evidence not addressed"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_made_by": [
+                "Officer"
+            ],
+            "consequences_of_decision": [
+                "reconsideration by a different officer"
+            ]
+        },
+        {
+            "Crime Name": "Using a False Passport",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "hardship as a quadriplegic",
+                "limited care facilities in Jamaica"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "reliance on undisclosed research",
+                "ignoring key evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "application allowed",
+                "decision quashed",
+                "reconsideration ordered"
+            ],
+            "applicable_laws": [
+                "s. 25(1) of the Immigration and Refugee Protection Act"
+            ],
+            "immigration_status": [
+                "facing removal",
+                " Applicant entered using a false passport"
+            ],
+            "evidence_considered": [
+                "independent research not disclosed",
+                "evidence about inadequate care for severe disabilities"
+            ],
+            "court_ruling": [
+                "judicial review",
+                "Officer's decision unreasonable",
+                "matter returned for reconsideration"
+            ]
+        }
+    ]
+}

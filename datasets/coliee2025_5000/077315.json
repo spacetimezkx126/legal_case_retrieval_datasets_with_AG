@@ -1,0 +1,29 @@
+{
+    "Case ID": "077315",
+    "Different Crime": [
+        {
+            "Crime Name": "Tax Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Income Tax Act s. 31(1)"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "reassessments restored"
+            ],
+            "procedural_fairness": [
+                "trial de novo from Tax Court decision"
+            ],
+            "evidence_provided": [
+                "time spent on farming",
+                "investment in farming",
+                "accountancy income",
+                "farming losses",
+                "profitability uncertainty"
+            ],
+            "cause_of_action": [
+                "deduction of farming losses"
+            ]
+        }
+    ]
+}

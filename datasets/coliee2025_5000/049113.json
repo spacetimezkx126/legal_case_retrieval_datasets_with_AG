@@ -1,0 +1,32 @@
+{
+    "Case ID": "049113",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination Complaint",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "informing parties of evidence",
+                "allowing responses",
+                "thorough and neutral investigation"
+            ],
+            "new_evidence_impact": [
+                "new evidence was not considered"
+            ],
+            "judicial_review_process": [
+                "arguments from both sides presented",
+                "court analyzed procedural fairness and discretion"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "Commission's decision upheld"
+            ],
+            "discrimination_grounds": [
+                "color",
+                "national/ethnic origin"
+            ],
+            "legal_basis": [
+                "s. 44(3) of the Canadian Human Rights Act"
+            ]
+        }
+    ]
+}

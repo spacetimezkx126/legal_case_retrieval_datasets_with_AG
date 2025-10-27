@@ -1,0 +1,49 @@
+{
+    "Case ID": "095618",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in testimony",
+                "lack of evidence linking to LTTE-related persecution"
+            ],
+            "refugee_status_eligibility": [
+                "not a Convention refugee or person in need of protection"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness under subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling migrants",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "Board's decision reasonable"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "doubted sur place refugee claim"
+            ],
+            "evidentiary_standard": [
+                "lack of evidence linking to persecution"
+            ],
+            "refugee_definition": [
+                "not a Convention refugee or person in need of protection"
+            ],
+            "judicial_review_process": [
+                "judicial review of Refugee Protection Division's decision"
+            ],
+            "decision_outcome": [
+                "Federal Court dismissed application",
+                "upheld Board's decision"
+            ]
+        }
+    ]
+}

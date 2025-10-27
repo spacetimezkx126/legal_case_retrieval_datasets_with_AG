@@ -1,0 +1,27 @@
+{
+    "Case ID": "071594",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court of Canada"
+            ],
+            "relevant_rule": [
+                "Rule 419 of the Federal Court Rules"
+            ],
+            "cause_of_action": [
+                "Plaintiff's request for declaratory relief regarding his marital status and truthfulness in immigration proceedings."
+            ],
+            "procedure_followed": [
+                "Defendant moved to strike the claim under Rule 419, arguing lack of jurisdiction and abuse of process. The court reviewed applicable law and assessed the claim's merits."
+            ],
+            "result_of_case": [
+                "Claim dismissed; court lacks jurisdiction over factual declarations."
+            ],
+            "cost_awards": [
+                "with costs awarded to the defendant"
+            ]
+        }
+    ]
+}

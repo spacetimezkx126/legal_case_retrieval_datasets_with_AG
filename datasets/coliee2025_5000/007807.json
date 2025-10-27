@@ -1,0 +1,27 @@
+{
+    "Case ID": "007807",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "denied"
+            ],
+            "evidence_assessment": [
+                "Board's discretion",
+                "documentary evidence over applicant testimony"
+            ],
+            "credibility_assessment": [
+                "claim implausible",
+                "citing credible evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "no capricious errors or disregard for evidence"
+            ],
+            "misrepresentation_or_fraud": []
+        }
+    ]
+}

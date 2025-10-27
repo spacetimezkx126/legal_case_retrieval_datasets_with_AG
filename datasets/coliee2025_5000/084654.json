@@ -1,0 +1,31 @@
+{
+    "Case ID": "084654",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court",
+                "provincial private property disputes"
+            ],
+            "relevant_statute": [
+                "Constitution Act, 1867 s. 101"
+            ],
+            "cause_of_action": [
+                "wrongful foreclosure"
+            ],
+            "procedure_followed": [
+                "motions to dismiss based on lack of jurisdiction"
+            ],
+            "decision_reasoning": [
+                "no federal interest or applicable federal law",
+                "Supreme Court precedent"
+            ],
+            "result_of_case": [
+                "motions granted",
+                "case dismissed",
+                "costs against the plaintiff"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "021971",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "psychological report",
+                "inconsistencies in testimony",
+                "PTSD"
+            ],
+            "evidence_assessment": [
+                "psychological evidence",
+                "all evidence"
+            ],
+            "decision_outcome": [
+                "new hearing ordered"
+            ],
+            "burden_of_proof": [
+                "credibility issues"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "specific_vulnerabilities": [
+                "cognitive impairments"
+            ]
+        }
+    ]
+}

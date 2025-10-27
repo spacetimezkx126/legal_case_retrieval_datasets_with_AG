@@ -1,0 +1,29 @@
+{
+    "Case ID": "023484",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "meaningful_opportunity_to_respond"
+            ],
+            "evidence_assessment": [
+                "undisclosed_CBSA_information",
+                "credibility_concerns"
+            ],
+            "decision_reasoning": [
+                "officer_doubted_credibility",
+                "no_chance_to_respond"
+            ],
+            "application_details": [
+                "permanent_residency_application",
+                "Canadian_Experience_Class"
+            ],
+            "result_of_case": [
+                "judicial_review_allowed",
+                "case_sent_back_for_reassessment"
+            ]
+        }
+    ]
+}

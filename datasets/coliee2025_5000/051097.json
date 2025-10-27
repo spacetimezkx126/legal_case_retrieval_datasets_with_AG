@@ -1,0 +1,61 @@
+{
+    "Case ID": "051097",
+    "Different Crime": [
+        {
+            "Crime Name": "Revocation of Security Clearance",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "adequate disclosure",
+                "opportunity to respond"
+            ],
+            "applicable_law_section": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "evidence_provided": [
+                "associations with Subject A",
+                "involvement in drug smuggling",
+                "RCMP LERC report"
+            ],
+            "judicial_review_result": [
+                "granted",
+                "decision overturned"
+            ],
+            "decision_outcome": [
+                "revocation quashed",
+                "re-determination required"
+            ],
+            "document_disclosure_issues": [
+                "insufficient details",
+                "key documents withheld"
+            ]
+        },
+        {
+            "Crime Name": "Possession for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach",
+                "insufficient disclosure"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "evidence_sufficiency": [
+                "lack of key details"
+            ],
+            "security_clearance": [
+                "revocation"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "decision overturned"
+            ],
+            "applicable_law_or_regulation": [
+                "procedural fairness standard of review"
+            ]
+        }
+    ]
+}

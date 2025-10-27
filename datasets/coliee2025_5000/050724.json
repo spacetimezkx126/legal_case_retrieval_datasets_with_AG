@@ -1,0 +1,41 @@
+{
+    "Case ID": "050724",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules",
+                "Rule 1003(1)",
+                "Rule 1006"
+            ],
+            "application_details": [
+                "one-third ownership of the vessel",
+                "alleged agreement",
+                "vessel purchased free of claims",
+                "in rem claims"
+            ],
+            "evidence_assessment": [
+                "reasonably best arguable case",
+                "capped at the vessel's value"
+            ],
+            "decision_reasoning": [
+                "vessel's value ($800,000)",
+                "operational risks",
+                "appropriate security"
+            ],
+            "result_of_case": [
+                "released under security provided through insurance policies",
+                "specified terms",
+                "plaintiffs' interests are protected",
+                "without hindering commercial operations"
+            ],
+            "procedure_followed": [
+                "Dispute over ownership interest",
+                "arrest by plaintiffs",
+                "defendants moved for release or alternative security measures",
+                "court analyzed claims and vessel's value"
+            ]
+        }
+    ]
+}

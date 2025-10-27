@@ -1,0 +1,570 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Gang-related activities",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": [],
+            "Legal_Provision_Involved": [],
+            "Procedural_Fairness_Issue": [],
+            "Evidence_Disclosure_Status": [],
+            "Decision_Outcome": [],
+            "Review_Mechanism": [],
+            "Authority_Responsible": [],
+            "Legal_Provision": [
+                "IRPA sections 96 and 97"
+            ],
+            "Assessment_Factor": [],
+            "Evidentiary_Issue": [],
+            "Procedural_Requirement": [],
+            "Risk_Nexus": [
+                "personalized risk linked to Convention grounds"
+            ],
+            "Country_of_Origin": [
+                "Guatemala"
+            ],
+            "Legal_Standard": [
+                "personalized risk"
+            ],
+            "Evidence_Source": [],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Outcome": [
+                "asylum claim rejected initially, judicial review granted"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Basis_for_Decision": [
+                "generalized vs. personalized risk"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Grounds_for_Inadmissibility_or_Denial": [
+                "perceived generalized risk"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Charter_Issues": [],
+            "Evidence_Type": [],
+            "Credibility_Assessment": [
+                "applicant's credible testimony acknowledged"
+            ],
+            "Procedural_Fairness_Issues": [
+                "failure to analyze personalized risk"
+            ],
+            "Basis_for_Inadmissibility": [],
+            "Risk_Assessment_Factors": [
+                "gang threats, extortion, retaliation after reporting"
+            ],
+            "Judicial_Review_Outcome": [
+                "granted, remanded for redetermination"
+            ],
+            "Accusation": [
+                "gang persecution and threats"
+            ],
+            "Procedural_Issue": [
+                "lack of individualized risk analysis"
+            ],
+            "Review_Type": [
+                "judicial review"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Credibility_Findings": [
+                "credible"
+            ],
+            "Risk_Persecution": [
+                "gang-related persecution"
+            ],
+            "Mode_of_Entry": [
+                "temporary worker"
+            ],
+            "Applicant_Status": [
+                "asylum seeker"
+            ],
+            "Legal_Issue": [
+                "personalized vs. generalized risk"
+            ],
+            "Charter_Section_Involved": [],
+            "Relevant_Factors_Considered": [
+                "extortion, threats, police report, retaliation, witness to killing"
+            ],
+            "Decision_Level": [
+                "Board decision under review"
+            ]
+        },
+        {
+            "Crime_Name": "Retaliation against informants",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "personalized vs. generalized risk"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "credible testimony acknowledged"
+            ],
+            "Decision_Outcome": [
+                "asylum denied initially"
+            ],
+            "Burden_of_Proof": [],
+            "Credibility_Factor": [
+                "applicant's credibility accepted"
+            ],
+            "Legal_Rule": [
+                "refugee claim requires nexus to Convention grounds or particularized risk"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Procedural_Issue": [
+                "failure to assess personalized risk"
+            ],
+            "Grounds_for_Claim": [
+                "fear of gang retaliation after reporting extortion"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed due to perceived generalized risk"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Judicial_Review_Outcome": [
+                "review granted, remanded"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "inadequate individualized analysis"
+            ],
+            "Key_Evidence_Considered": [
+                "extortion attempts, reporting to authorities, threats"
+            ],
+            "Legal_Framework": [
+                "IRPA sections 96 and 97"
+            ],
+            "Applicant_Challenge": [
+                "Board failed to recognize personalized risk"
+            ],
+            "Court_Result": [
+                "remanded for redetermination"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA"
+            ],
+            "Standard_of_Proof": [],
+            "Defendant_Response": [],
+            "Evidence_Type": [],
+            "Remedy_Requested": [
+                "asylum protection"
+            ],
+            "Outcome": [
+                "judicial review granted"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "refugee status"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "IRPA sections 96 and 97"
+            ],
+            "Authority": [
+                "Immigration and Refugee Board"
+            ],
+            "Claimant_Status": [
+                "asylum seeker"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA sections 96 and 97"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "generalized violence in Guatemala"
+            ],
+            "Applicable_Process": [
+                "refugee determination process"
+            ],
+            "Outcome_of_Review": [
+                "remanded"
+            ],
+            "Pending_Relief_or_Application": [
+                "refugee claim"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Governing_Rule": [
+                "IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Threatening death",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "death threats"
+            ],
+            "Perpetrator_Type": [
+                "criminal gang (MS)"
+            ],
+            "Victim_Status": [
+                "individual targeted for resistance"
+            ],
+            "Location_of_Incident": [
+                "Guatemala"
+            ],
+            "Threat_Source": [
+                "MS gang"
+            ],
+            "Aggravating_Factors": [
+                "witnessed killing, refusal to comply with extortion"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "gang activity"
+            ],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "sufficient, credible testimony"
+            ],
+            "Evidence_Type": [
+                "testimonial, circumstantial"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Assessment": [
+                "applicant found credible"
+            ],
+            "Risk_Assessment": [
+                "high risk due to specific targeting"
+            ],
+            "Risk_Type": [
+                "persecution by non-state actor"
+            ],
+            "Risk_Nature": [
+                "personalized"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "former vendor, informant"
+            ],
+            "Geographic_Context": [
+                "Guatemala"
+            ],
+            "Jurisdiction": [
+                "Canada (for asylum claim)"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "IRPA sections 96 and 97"
+            ],
+            "Applicable_Statute": [
+                "IRPA"
+            ],
+            "Legal_Provision": [
+                "sections 96 and 97"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA sections 96 and 97"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "asylum claim denied initially"
+            ],
+            "Outcome": [
+                "judicial review granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to conduct individualized risk analysis"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "refugee determination and appeal"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Immigration and Refugee Board"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Asylum Claim Rejection",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "failure to properly assess personal risk"
+            ],
+            "Legal_Issue": [
+                "reasonableness of Board’s conclusion on risk generalization"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Application_Facts": [
+                "applicant resisted gang, reported them, faced threats"
+            ],
+            "Decision_Outcome": [
+                "claim rejected"
+            ],
+            "Remedy_Requested": [
+                "refugee protection"
+            ],
+            "Court_Ruling": [
+                "Board decision unreasonable"
+            ],
+            "Claimant_Status": [
+                "asylum seeker"
+            ],
+            "Defendant_Behavior": [
+                "Board focused on generalized violence"
+            ],
+            "Grounds_for_Claim": [
+                "fear of gang persecution due to defiance and cooperation"
+            ],
+            "Legal_Standard": [
+                "reasonableness standard for mixed questions"
+            ],
+            "Assessment_Factor": [
+                "individualized risk analysis required"
+            ],
+            "Applicable_Legislation": [
+                "IRPA section 97"
+            ],
+            "Procedural_Issue": [
+                "lack of personalized risk evaluation"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Credibility_Assessment": [
+                "applicant credible"
+            ],
+            "Evidence_Used": [
+                "applicant's testimony"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA section 97"
+            ],
+            "Application_Basis": [
+                "Convention refugee definition"
+            ],
+            "Evidence_Assessed": [
+                "testimony on threats and retaliation"
+            ],
+            "Relief_Sought": [
+                "refugee status"
+            ],
+            "Governing_Rule": [
+                "IRPA"
+            ],
+            "Evidentiary_Deficiency": [
+                "Board ignored specific circumstances"
+            ],
+            "Outcome": [
+                "judicial review granted"
+            ],
+            "Decisional_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Harm_Assessment": [
+                "risk of persecution if returned"
+            ],
+            "Cause_Description": [
+                "asylum claim rejected due to mischaracterization of risk as generalized"
+            ],
+            "Evidence_Handling": [
+                "insufficient consideration of personal factors"
+            ],
+            "Legal_Provision_Violated": [
+                "section 97 IRPA – failure to assess individual risk"
+            ],
+            "Evidence_Issues": [
+                "failure to weigh personal targeting"
+            ],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "IRPA section 97"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "incomplete"
+            ],
+            "Decision_Rationale": [
+                "focused on country condition over personal circumstances"
+            ],
+            "Country_of_Origin": [
+                "Guatemala"
+            ],
+            "Decision_Making_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Evidentiary_Issues": [
+                "inadequate analysis of evidence"
+            ],
+            "Legal_Standard_Applied": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "extortion by criminal gang"
+            ],
+            "Perpetrator_Type": [
+                "MS gang"
+            ],
+            "Victim_Status": [
+                "targeted vendor"
+            ],
+            "Location_of_Incident": [
+                "Guatemala"
+            ],
+            "Threat_Source": [
+                "MS gang"
+            ],
+            "Aggravating_Factors": [
+                "retaliation after reporting, murder of another vendor"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "gang involvement"
+            ],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "sufficient"
+            ],
+            "Evidence_Type": [
+                "testimonial, circumstantial"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Assessment": [
+                "applicant credible"
+            ],
+            "Risk_Assessment": [
+                "high, personalized risk"
+            ],
+            "Risk_Type": [
+                "persecution by non-state actor"
+            ],
+            "Risk_Nature": [
+                "targeted due to defiance and cooperation with authorities"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "vendor who refused extortion"
+            ],
+            "Geographic_Context": [
+                "Guatemala"
+            ],
+            "Jurisdiction": [
+                "Canada (asylum jurisdiction)"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA sections 96 and 97"
+            ],
+            "Legal_Provision": [
+                "IRPA sections 96 and 97"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA sections 96 and 97"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "asylum claim denied initially"
+            ],
+            "Outcome": [
+                "judicial review granted, remanded"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to analyze personalized risk"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "refugee determination process"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Immigration and Refugee Board"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

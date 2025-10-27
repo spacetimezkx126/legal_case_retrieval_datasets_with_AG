@@ -1,0 +1,73 @@
+{
+    "Case ID": "080093",
+    "Different Crime": [
+        {
+            "Crime Name": "Conduct to the prejudice of good order and discipline",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "mixed questions of fact and law",
+                "military expertise"
+            ],
+            "application_details": [
+                "rewrite personnel evaluation report",
+                "remove repatriation letter",
+                "declare harassment"
+            ],
+            "decision_made": [
+                "refusal to grant all requested remedies"
+            ],
+            "evidence_consideration": [
+                "administrative actions",
+                "grievance review process"
+            ],
+            "conclusion_outcome": [
+                "reasonable decision",
+                "acceptable outcomes",
+                "judicial intervention unwarranted"
+            ],
+            "cause_of_action": [
+                "accidental firearm discharges"
+            ],
+            "procedure_followed": [
+                "Grievance Board review",
+                "CDS review",
+                "judicial review application"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed",
+                "CDS's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Accidental discharge of a firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_considered": [
+                "administrative actions",
+                "grievances",
+                "personnel evaluation report (PER)",
+                "repatriation letter"
+            ],
+            "procedural_fairness": [
+                "Grievances reviewed by the Grievance Board and decided by the CDS"
+            ],
+            "claimant_burden": [
+                "applicant challenged the CDS's refusal"
+            ],
+            "court_ruling": [
+                "CDS's decision upheld"
+            ],
+            "relevant_factors": [
+                "mixed questions of fact and law within military expertise"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Case ID": "015523",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "failure to disclose the June 21 phone call",
+                "withholding material information"
+            ],
+            "legal_basis": [
+                "IRPA s.40(1)(a)"
+            ],
+            "decision_outcome": [
+                "Federal Court allowed the application",
+                "IAD decision set aside",
+                "redetermination ordered"
+            ],
+            "standard_of_review": [
+                "Judicial review of IAD decision"
+            ],
+            "immigration_status": [
+                "inadmissibility due to misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "material_misrepresentation": [
+                "sponsorship withdrawal"
+            ],
+            "decision_outcome": [
+                "re-determination ordered"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "procedural_fairness": [
+                "Judicial review by the Federal Court after IAD overturned the inadmissibility ruling"
+            ]
+        }
+    ]
+}

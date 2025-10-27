@@ -1,0 +1,33 @@
+{
+    "Case ID": "075817",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud / Refugee Claim Credibility Issue",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent and incomplete information",
+                "significant changes to his story",
+                "omitting key details"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "changes to his story",
+                "omitting key details"
+            ],
+            "refugee_status_eligibility": [
+                "lacked credibility"
+            ],
+            "evidence_assessment": [
+                "RAD deferred to RPD's findings"
+            ],
+            "legal_basis": [
+                "Judicial review under IRPA subsection 72(1)"
+            ]
+        }
+    ]
+}

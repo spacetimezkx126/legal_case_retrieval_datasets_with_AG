@@ -1,0 +1,77 @@
+{
+    "Case ID": "082443",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refugee claim decision",
+            "Legal_Issue": "Application of the 'compelling reasons' exception under section 108(4)",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Beating",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Physical assault",
+            "Perpetrator_Type": "State actors (police)",
+            "Victim_Status": "Political activist and family",
+            "Location_of_Incident": "Tanzania",
+            "Threat_Source": "Government authorities due to political affiliation"
+        },
+        {
+            "Crime_Name": "Maltreatment by police",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Abuse of power and unlawful treatment",
+            "Legal_Issue": "Misapplication of 'compelling reasons' exception",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Credible history of beatings, detention, and harassment",
+            "Decision_Outcome": "Initial denial of refugee status"
+        },
+        {
+            "Crime_Name": "Persecution based on political opinion",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Grounds_for_Claim": "Political opinion and CUF membership",
+            "Protected_Group": "Political activists",
+            "Geographic_Context": "Tanzania",
+            "Risk_Nature": "Targeted persecution by state actors",
+            "Legal_Provision": "Section 96 and section 108(4) of IRPA"
+        },
+        {
+            "Crime_Name": "Detention without charge",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Arbitrary detention",
+            "Legal_Issue": "Failure to consider past detention as compelling reason for protection",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Application_Facts": "Multiple detentions linked to political activities",
+            "Harm_Assessment": "Psychological trauma and fear of recurrence"
+        },
+        {
+            "Crime_Name": "Harassment",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Ongoing intimidation and threats",
+            "Perpetrator_Type": "Police and government agents",
+            "Victim_Status": "Refugee claimant with political background",
+            "Location_of_Incident": "Tanzania",
+            "Targeted_Victimization": "Due to political opinions and activism"
+        },
+        {
+            "Crime_Name": "Denial of refugee status",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of administrative decision",
+            "Legal_Issue": "Erroneous interpretation of 'compelling reasons' threshold",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Standard_of_Review": "Reasonableness",
+            "Outcome_of_Review": "Application granted; remanded for redetermination"
+        },
+        {
+            "Crime_Name": "Confiscation of property",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Loss of livelihood due to political persecution",
+            "Legal_Issue": "Economic harm as part of past persecution",
+            "Evidence_Type": "Testimony regarding business disruption and seizure",
+            "Key_Evidence_Considered": "Credible claims of property confiscation linked to political views",
+            "Remedy_Sought": "Refugee protection based on compelling reasons"
+        }
+    ]
+}

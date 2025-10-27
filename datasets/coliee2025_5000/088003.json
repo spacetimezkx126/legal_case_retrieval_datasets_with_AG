@@ -1,0 +1,211 @@
+{
+    "Case ID": "088003",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA sections 115(2)(a)",
+                "IRPA sections 115(2)(b)"
+            ],
+            "criminality_inadmissibility": [
+                "danger to the public",
+                "organized criminality"
+            ],
+            "evidence_assessment": [
+                "multiple convictions",
+                "gang-related incidents",
+                "pattern of criminal behavior",
+                "insufficient rehabilitation evidence"
+            ],
+            "procedural_fairness": [
+                "ignored May 2006 submissions"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "matter remitted for reassessment"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 115(2)(a)",
+                "IRPA s. 115(2)(b)"
+            ],
+            "decision_outcome": [
+                "Application allowed",
+                "matter remitted for reassessment"
+            ],
+            "procedural_fairness": [
+                "breach analyzed"
+            ],
+            "evidence_provided": [
+                "criminal history",
+                "gang leadership",
+                "unconvicted incidents",
+                "May 2006 evidence"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "judicial_authority": [
+                "Delegate",
+                "court"
+            ],
+            "risk_characterization": [
+                "risk to Sittampalam upon return to Sri Lanka"
+            ],
+            "serious_criminality": [
+                "involvement in criminal activities and gangs"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a Weapon",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 115(2)(a)",
+                "s. 115(2)(b)"
+            ],
+            "criminal_history": [
+                "drug trafficking",
+                "obstructing a peace officer",
+                "gang activities"
+            ],
+            "risk_assessment": [
+                "pattern of dangerous behavior"
+            ],
+            "procedural_fairness": [
+                "reconsideration required"
+            ],
+            "past_criminal_convictions": [
+                "drug trafficking",
+                "obstructing a peace officer"
+            ],
+            "applicant_involvement": [
+                "linked to gang activities"
+            ],
+            "standard_of_proof": [
+                "patently unreasonable standard"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "IRPA, s. 115(2)(a) and (b)"
+            ],
+            "involvement_details": [
+                "criminal history",
+                "gang leadership",
+                "non-conviction incidents"
+            ],
+            "evidence_quality": [
+                "serious crimes despite no conviction"
+            ],
+            "reasonableness_of_decision": [
+                "not patently unreasonable"
+            ],
+            "judicial_review_result": [
+                "application partially allowed",
+                "risk assessment remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "focus on procedural fairness and evidence consideration"
+            ]
+        },
+        {
+            "Crime Name": "Failing to Comply with a Recognizance",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA, s. 115(2)(a)",
+                "IRPA, s. 115(2)(b)"
+            ],
+            "evidence_assessment": [
+                "multiple convictions",
+                "gang-related incidents",
+                "ongoing danger",
+                "criminal history",
+                "gang involvement"
+            ],
+            "decision_reasoning": [
+                "substantial evidence of criminal history",
+                "pattern of criminal behavior",
+                "deterrence of further crimes"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "consideration of non-conviction incidents",
+                "balancing risk versus danger"
+            ],
+            "result_of_case": [
+                "application for judicial review partially allowed",
+                "case remitted for reassessment"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a Narcotic",
+            "Crime Type": "Drug-related_Crimes",
+            "serious_criminality": [
+                "convictions for drug trafficking and other offenses"
+            ],
+            "risk_assessment": [
+                "Applicant poses a danger",
+                "involved in organized crime"
+            ],
+            "admissibility_hearing": [
+                "inadmissible due to serious criminality"
+            ],
+            "decision_outcome": [
+                "Application partially allowed",
+                "risk assessment remitted for reconsideration"
+            ],
+            "evidence_considered": [
+                "history of criminal activity",
+                "gang leadership",
+                "non-conviction incidents"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA, s. 115(2)(a)",
+                "s. 115(2)(b)"
+            ],
+            "review_process": [
+                "Judicial review analyzed whether the Delegate properly assessed danger, inadmissibility, and risk upon deportation"
+            ]
+        },
+        {
+            "Crime Name": "Pointing a Firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA, s. 115(2)(a) and (b)"
+            ],
+            "procedural_fairness": [
+                "patently unreasonable",
+                "breach of procedural fairness analyzed"
+            ],
+            "risk_assessment": [
+                "consideration of non-conviction incidents",
+                "pattern of behavior",
+                "evidence of danger and severity"
+            ],
+            "decision_outcome": [
+                "Delegate did not err",
+                "Application partially allowed",
+                "risk assessment remitted for reconsideration"
+            ],
+            "criminal_history": [
+                "history of criminal activity",
+                "gang involvement"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

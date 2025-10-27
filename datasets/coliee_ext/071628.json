@@ -1,0 +1,598 @@
+{
+    "Case ID": "071628",
+    "Crimes": [
+        {
+            "Crime_Name": "Intimidation of witnesses",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Election Misconduct"
+            ],
+            "Sub_Crime_Type": [
+                "Witness Intimidation"
+            ],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "Insufficient evaluation of evidence"
+            ],
+            "Evidence_Type": [
+                "Testimonial",
+                "Investigative Report"
+            ],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [
+                "Improperly evaluated"
+            ],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Elder",
+                "Voters"
+            ],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Federal",
+                "First Nation Reserve"
+            ],
+            "Legal_Framework": [
+                "Indian Band Election Regulations",
+                "Indian Act"
+            ],
+            "Governing_Law": [
+                "Indian Act, s. 79",
+                "Indian Band Election Regulations, ss. 12, 14"
+            ],
+            "Applicable_Statute": [
+                "s. 79 Indian Act",
+                "ss. 12, 14 Indian Band Election Regulations"
+            ],
+            "Legal_Provision": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Standard_of_Proof": [
+                "Appearance of wrongdoing"
+            ],
+            "Decision_Outcome": [
+                "Decision set aside"
+            ],
+            "Outcome": [
+                "Appeal referred back for re-determination"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Incorrect evidentiary standard applied"
+            ],
+            "Procedural_Stage": [
+                "Appeal review"
+            ],
+            "Legal_Procedure": [
+                "Ministerial appeal process"
+            ],
+            "Decision_Maker": [
+                "Minister's Delegate"
+            ],
+            "Government_Body_Involved": [
+                "Minister of Indigenous Services"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Minister of Indigenous Services Canada"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to investigate credible allegations of electoral misconduct",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Election Misconduct"
+            ],
+            "Legal_Issue": [
+                "Application of correct evidentiary standard"
+            ],
+            "Governing_Law": [
+                "Indian Act, s. 79",
+                "Indian Band Election Regulations, ss. 12, 14"
+            ],
+            "Procedural_Stage": [
+                "Appeal review"
+            ],
+            "Evidence_Assessment": [
+                "Narrow focus on direct exchange",
+                "Ignored broader evidence"
+            ],
+            "Decision_Outcome": [
+                "Decision set aside"
+            ],
+            "Burden_of_Proof": [
+                "Appearance of wrongdoing"
+            ],
+            "Credibility_Factor": [
+                "Evaluator dismissed substantial evidence"
+            ],
+            "Legal_Rule": [
+                "Proof of appearance of wrongdoing required"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Incorrect legal standard applied"
+            ],
+            "Grounds_for_Claim": [
+                "Corrupt practices: vote-buying, intimidation"
+            ],
+            "Outcome_on_Merits": [
+                "Remanded for re-evaluation"
+            ],
+            "Decision_Maker": [
+                "Minister's Delegate"
+            ],
+            "Judicial_Review_Outcome": [
+                "Overturned"
+            ],
+            "Review_Standard": [
+                "Correct legal standard not followed"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Deficient"
+            ],
+            "Key_Evidence_Considered": [
+                "Alcohol use",
+                "Voter influence allegations"
+            ],
+            "Legal_Framework": [
+                "Indian Band Election Regulations",
+                "Indian Act"
+            ],
+            "Applicant_Challenge": [
+                "Dismissal of appeal due to high evidentiary standard"
+            ],
+            "Court_Result": [
+                "Decision set aside, remanded"
+            ],
+            "Legal_Rule_Source": [
+                "s. 79 Indian Act",
+                "ss. 12, 14 Indian Band Election Regulations"
+            ],
+            "Standard_of_Proof": [
+                "Appearance of wrongdoing"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "Investigative report",
+                "Testimonial"
+            ],
+            "Remedy_Requested": [
+                "Re-determination of appeal"
+            ],
+            "Outcome": [
+                "Re-determination ordered"
+            ],
+            "Decision_Authority": [
+                "Minister of Indigenous Services"
+            ],
+            "Remedy_Sought": [
+                "Overturn election results"
+            ],
+            "Resolution_Mechanism": [
+                "Ministerial re-evaluation"
+            ],
+            "Legal_Provision": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Authority": [
+                "Minister of Indigenous Services"
+            ],
+            "Claimant_Status": [
+                "Election loser"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [],
+            "Applicable_Process": [
+                "Section 79 appeal process"
+            ],
+            "Outcome_of_Review": [
+                "Remanded"
+            ],
+            "Pending_Relief_or_Application": [
+                "Re-investigation pending"
+            ],
+            "Jurisdiction": [
+                "Federal",
+                "First Nation"
+            ],
+            "Governing_Rule": [
+                "Indian Band Election Regulations"
+            ]
+        },
+        {
+            "Crime_Name": "Possession and supplying of alcohol on a dry reserve",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Election-related misconduct"
+            ],
+            "Legal_Issue": [
+                "Evidentiary standard in election appeals"
+            ],
+            "Governing_Law": [
+                "Indian Act, s. 79",
+                "Indian Band Election Regulations, s. 14"
+            ],
+            "Procedural_Stage": [
+                "Post-election investigation and appeal"
+            ],
+            "Evidence_Assessment": [
+                "Evidence dismissed due to lack of direct confirmation"
+            ],
+            "Decision_Outcome": [
+                "Decision set aside"
+            ],
+            "Burden_of_Proof": [
+                "Appearance of wrongdoing"
+            ],
+            "Credibility_Factor": [
+                "Investigator's findings ignored"
+            ],
+            "Legal_Rule": [
+                "s. 14 requires appearance of wrongdoing"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Incorrect application of legal standard"
+            ],
+            "Grounds_for_Claim": [
+                "Supply of alcohol near polling site"
+            ],
+            "Outcome_on_Merits": [
+                "Remanded for reconsideration"
+            ],
+            "Decision_Maker": [
+                "Minister's Delegate"
+            ],
+            "Judicial_Review_Outcome": [
+                "Overturned"
+            ],
+            "Review_Standard": [
+                "Correct legal standard not applied"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Deficient"
+            ],
+            "Key_Evidence_Considered": [
+                "Alcohol presence near election site"
+            ],
+            "Legal_Framework": [
+                "Indian Band Election Regulations",
+                "Indian Act"
+            ],
+            "Applicant_Challenge": [
+                "Failure to consider appearance standard"
+            ],
+            "Court_Result": [
+                "Decision set aside"
+            ],
+            "Legal_Rule_Source": [
+                "s. 14 Indian Band Election Regulations"
+            ],
+            "Standard_of_Proof": [
+                "Appearance of wrongdoing"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "Field observations",
+                "Witness statements"
+            ],
+            "Remedy_Requested": [
+                "Re-evaluation of appeal"
+            ],
+            "Outcome": [
+                "Re-determination ordered"
+            ],
+            "Decision_Authority": [
+                "Minister of Indigenous Services"
+            ],
+            "Remedy_Sought": [
+                "Set aside election results"
+            ],
+            "Resolution_Mechanism": [
+                "Ministerial re-assessment"
+            ],
+            "Legal_Provision": [
+                "s. 14"
+            ],
+            "Authority": [
+                "Minister of Indigenous Services"
+            ],
+            "Claimant_Status": [
+                "Election challenger"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 14"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [],
+            "Applicable_Process": [
+                "Election appeal under s. 79"
+            ],
+            "Outcome_of_Review": [
+                "Remanded"
+            ],
+            "Pending_Relief_or_Application": [
+                "Re-determination pending"
+            ],
+            "Jurisdiction": [
+                "Federal",
+                "First Nation Reserve"
+            ],
+            "Governing_Rule": [
+                "Indian Band Election Regulations"
+            ]
+        },
+        {
+            "Crime_Name": "Contravention of Indian Band Election Regulations",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Election integrity"
+            ],
+            "Legal_Provision_Involved": [
+                "ss. 12, 14 Indian Band Election Regulations"
+            ],
+            "Outcome": [
+                "Decision set aside, remanded"
+            ],
+            "Grounds_for_Claim": [
+                "Corrupt practices",
+                "Vote-buying",
+                "Intimidation"
+            ],
+            "Remedy_Requested": [
+                "Re-determination of appeal"
+            ],
+            "Legal_Framework": [
+                "Indian Band Election Regulations",
+                "Indian Act"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Appearance of wrongdoing"
+            ],
+            "Decision_Outcome": [
+                "Set aside"
+            ],
+            "Institutional_Action": [
+                "Ministerial appeal dismissal"
+            ],
+            "Government_Body_or_Authority": [
+                "Minister of Indigenous Services"
+            ],
+            "Exemptions_or_Defenses_Cited": [],
+            "Evidence_Type": [
+                "Investigative report",
+                "Testimonial evidence"
+            ],
+            "Jurisdiction": [
+                "Federal",
+                "First Nation"
+            ],
+            "Individual_Status_or_Claim": [
+                "Election candidate"
+            ],
+            "Nature_of_Participation": [
+                "Electoral process"
+            ],
+            "Temporal_Context": [
+                "During election period"
+            ],
+            "Geographic_Context": [
+                "On-reserve"
+            ],
+            "Personal_Data_Implicated": [],
+            "Legal_Statute": [
+                "Indian Band Election Regulations"
+            ],
+            "Assessment_Standard": [
+                "Appearance of wrongdoing"
+            ],
+            "Governing_Body": [
+                "Ministry of Indigenous Services"
+            ],
+            "Complaint_Issues": [
+                "Vote-buying with alcohol",
+                "Voter influence"
+            ],
+            "Grounds_for_Discrimination": [],
+            "Role_of_Person": [
+                "Candidate",
+                "Voter",
+                "Elder"
+            ],
+            "Protected_Group": [
+                "First Nations voters"
+            ],
+            "Legal_Standard": [
+                "Appearance standard under s. 14"
+            ],
+            "Protection_Claim": [],
+            "State_Protection_Assessment": [],
+            "Risk_Factor": [],
+            "Credibility": [
+                "Evidence credibility improperly assessed"
+            ],
+            "Legal_Provision": [
+                "ss. 12, 14"
+            ],
+            "Targeted_Group": [
+                "Vulnerable voters"
+            ],
+            "State_Protection_Adequacy": [
+                "Deficient"
+            ],
+            "Risk_Nature": [],
+            "Enforcement_Action": [
+                "Judicial intervention"
+            ],
+            "Claimant_Status": [
+                "Applicant in appeal"
+            ],
+            "Perpetrator_Entity": [
+                "Supporters of winning candidate"
+            ],
+            "Legal_Basis": [
+                "s. 79 Indian Act"
+            ],
+            "Victim_Basis": [
+                "Voters influenced"
+            ]
+        },
+        {
+            "Crime_Name": "Corrupt practices in connection with an election",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Electoral corruption"
+            ],
+            "Legal_Issue": [
+                "Evidentiary standard in election misconduct"
+            ],
+            "Governing_Law": [
+                "Indian Act, s. 79",
+                "Indian Band Election Regulations, ss. 12, 14"
+            ],
+            "Application_Facts": [
+                "Alleged vote-buying with alcohol",
+                "Voter influence"
+            ],
+            "Decision_Outcome": [
+                "Decision set aside"
+            ],
+            "Remedy_Requested": [
+                "Re-evaluation of appeal"
+            ],
+            "Court_Ruling": [
+                "Incorrect standard applied"
+            ],
+            "Claimant_Status": [
+                "Election loser"
+            ],
+            "Defendant_Behavior": [
+                "Alleged distribution of alcohol for votes"
+            ],
+            "Grounds_for_Claim": [
+                "Corrupt practices under s. 79"
+            ],
+            "Legal_Standard": [
+                "Appearance of wrongdoing"
+            ],
+            "Assessment_Factor": [
+                "Evaluator focused on definitive proof"
+            ],
+            "Applicable_Legislation": [
+                "Indian Act",
+                "Indian Band Election Regulations"
+            ],
+            "Procedural_Issue": [
+                "Flawed reasoning by Delegate"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Credibility_Assessment": [
+                "Evidence credibility downplayed"
+            ],
+            "Evidence_Used": [
+                "Investigator’s report",
+                "Witness accounts"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Application_Basis": [
+                "Post-election appeal"
+            ],
+            "Evidence_Assessed": [
+                "Alcohol use",
+                "Voter influence"
+            ],
+            "Relief_Sought": [
+                "Overturn election"
+            ],
+            "Governing_Rule": [
+                "Indian Band Election Regulations"
+            ],
+            "Evidentiary_Deficiency": [
+                "Lack of direct voter confirmation"
+            ],
+            "Outcome": [
+                "Remanded for re-evaluation"
+            ],
+            "Decisional_Body": [
+                "Minister's Delegate"
+            ],
+            "Harm_Assessment": [
+                "Undermined electoral integrity"
+            ],
+            "Cause_Description": [
+                "Alleged corrupt practices during First Nation election"
+            ],
+            "Evidence_Handling": [
+                "Improper dismissal of circumstantial evidence"
+            ],
+            "Legal_Provision_Violated": [
+                "s. 79 Indian Act"
+            ],
+            "Evidence_Issues": [
+                "Focus on definitive proof over appearance"
+            ],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "s. 79",
+                "ss. 12, 14"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "Incomplete"
+            ],
+            "Decision_Rationale": [
+                "Applied higher burden than required"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Minister's Delegate"
+            ],
+            "Evidentiary_Issues": [
+                "Incorrect standard"
+            ],
+            "Legal_Standard_Applied": [
+                "Proof of actual wrongdoing instead of appearance"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "006307",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized Criminality under Immigration Law",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "low level of procedural fairness",
+                "written submissions",
+                "access to the report"
+            ],
+            "evidence_assessment": [
+                "cross-examine the enforcement officer",
+                "misleading statements"
+            ],
+            "decision_reasoning": [
+                "written submissions suffice at this administrative stage",
+                "full testing of evidence possible later in quasi-judicial proceedings"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act",
+                "subsection 44(1)"
+            ],
+            "result_of_case": [
+                "applications are dismissed",
+                "upholding the low standard of procedural fairness",
+                "no breach of procedural fairness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Case ID": "072064",
+    "Different Crime": [
+        {
+            "Crime Name": "Organized Criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "para 37(1)(b) of the IRPA",
+                "section 117"
+            ],
+            "evidence_assessment": [
+                "applicant aided migrants entering Canada without required documents",
+                "worked as crew, receiving better conditions"
+            ],
+            "decision_reasoning": [
+                "ID reasonably concluded the applicant engaged in people smuggling"
+            ],
+            "applicable_regulations": [
+                "IRPA"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "specific_rule_applied": [
+                "section 117"
+            ]
+        },
+        {
+            "Crime Name": "People Smuggling",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "para 37(1)(b) of the IRPA",
+                "section 117"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "evidentiary_standard": [
+                "wilful blindness"
+            ],
+            "judicial_review_process": [
+                "dismissed"
+            ],
+            "burden_of_proof": [
+                "reasonably imputed"
+            ],
+            "decision_outcome": [
+                "confirmed ID's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "092359",
+    "Different Crime": [
+        {
+            "Crime Name": "Human Rights Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "jurisdictional_issue": [
+                "lack of jurisdiction"
+            ],
+            "legal_basis": [
+                "section 41(1)(c) of the Canadian Human Rights Act"
+            ],
+            "discrimination_grounds": [
+                "prohibited discrimination grounds"
+            ],
+            "evidentiary_standard": [
+                "factual and legal analysis"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Commission's decision"
+            ],
+            "decision_outcome": [
+                "application is allowed",
+                "Commission's decision is set aside",
+                "case is remitted for re-determination"
+            ],
+            "administrative_error": [
+                "misunderstanding of the law",
+                "failure to investigate"
+            ]
+        }
+    ]
+}

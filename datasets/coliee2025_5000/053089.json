@@ -1,0 +1,30 @@
+{
+    "Case ID": "053089",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "reliance on undisclosed information",
+                "not notifying applicant of adverse information"
+            ],
+            "credibility_assessment": [
+                "impacting credibility based on prior statements"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C application review"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspicions of immigration fraud post-denied refugee claim"
+            ]
+        }
+    ]
+}

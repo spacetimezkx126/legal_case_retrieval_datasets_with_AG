@@ -1,0 +1,36 @@
+{
+    "Case ID": "077882",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "reviewed ICCMC process",
+                "acknowledged lack of transparency",
+                "insufficient evidence to conclude unfairness",
+                "provided detailed reasons for not following CFGB recommendations"
+            ],
+            "cause_of_action": [
+                " Applicant grieved being passed over for promotion",
+                "CFGB recommended upholding grievance",
+                "CDS disagreed"
+            ],
+            "procedure_followed": [
+                "Judicial review application challenging CDS's decision",
+                "Court reviewed adequacy of reasons provided"
+            ],
+            "result_of_case": [
+                "Court denied judicial review application",
+                "upholding CDS's decision"
+            ],
+            "decision_conclusion": [
+                "CDS's decision was reasonable",
+                "fell within acceptable outcomes based on facts and law",
+                "Judicial intervention is not warranted"
+            ]
+        }
+    ]
+}

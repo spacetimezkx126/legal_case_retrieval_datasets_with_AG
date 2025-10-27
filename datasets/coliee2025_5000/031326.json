@@ -1,0 +1,117 @@
+{
+    "Case ID": "031326",
+    "Different Crime": [
+        {
+            "Crime Name": "Potential Immigration Offences (if any misrepresentation occurred in the process of entering Canada)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Convention refugees",
+                "persons in need of protection"
+            ],
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "ineffective Mexican protection"
+            ],
+            "evidence_assessment": [
+                "clear and convincing evidence",
+                "partial intervention by Mexican authorities"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "persecution",
+                "domestic violence"
+            ]
+        },
+        {
+            "Crime Name": "Uttering Threats",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequate state protection"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_authority": [
+                "tribunal's decision"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "risk_characterization": [
+                "well-founded fear of persecution or risk to life"
+            ],
+            "relationship_genuineness": [
+                "domestic violence"
+            ],
+            "expert_testimony": [
+                "no conclusive evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate_state_protection",
+                "existence_of_state_mechanisms_in_Mexico"
+            ],
+            "evidence_consideration": [
+                "insufficient_evidence",
+                "clear_and_convincing_evidence_required"
+            ],
+            "risk_assessment": [
+                "domestic_violence",
+                "ineffective_state_protection_alleged"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable_decision_by_panel",
+                "standard_of_review_reasonableness"
+            ],
+            "legal_basis": [
+                "sections_96_and_97_of_the_Immigration_and_Refugee_Protection_Act"
+            ],
+            "refugee_status_nexus": [
+                "Convention_refugees",
+                "persons_in_need_of_protection"
+            ],
+            "country_conditions": [
+                "Mexico_state_protection_mechanisms"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Support (if applicable under context not fully provided)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "domestic violence"
+            ],
+            "state_protection": [
+                "inadequate state protection",
+                "presumption of state protection unless proven otherwise"
+            ],
+            "evidence_assessment": [
+                "failed to follow up on police complaints",
+                "some state intervention and available services"
+            ],
+            "decision_reasoning": [
+                "tribunal's decision rejecting refugee status was reasonable"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                "court upheld tribunal's decision"
+            ]
+        }
+    ]
+}

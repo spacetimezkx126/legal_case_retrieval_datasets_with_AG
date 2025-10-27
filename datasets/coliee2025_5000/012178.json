@@ -1,0 +1,28 @@
+{
+    "Case ID": "012178",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a false passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "unreasonable inferences",
+                "ignored key evidence",
+                "challenges obtaining documentation"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "church letter",
+                "affidavit",
+                "hearing transcripts"
+            ],
+            "decision_outcome": [
+                "remitted for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "used a false passport"
+            ]
+        }
+    ]
+}

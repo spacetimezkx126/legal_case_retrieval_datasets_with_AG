@@ -1,0 +1,28 @@
+{
+    "Case ID": "025537",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "yes"
+            ],
+            "applicable_statute": [
+                "Section 6 of the Trade-Marks Act"
+            ],
+            "evidence_provided": [
+                "extensive use and advertising of BAY/BAIE marks",
+                "no Canadian market presence for BEYMEN"
+            ],
+            "technical_details": [
+                "phonetic and visual resemblance between BAY/BAIE and BEYMEN"
+            ],
+            "appeal_outcome": [
+                "partially successful"
+            ],
+            "cause_of_action": [
+                "opposition to trademark registration"
+            ]
+        }
+    ]
+}

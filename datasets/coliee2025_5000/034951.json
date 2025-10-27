@@ -1,0 +1,32 @@
+{
+    "Case ID": "034951",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of extrinsic evidence"
+            ],
+            "administrative_decision": [
+                "dismissal of exemption request",
+                "reliance on undisclosed evidence"
+            ],
+            "decision_reasoning": [
+                "violation of applicants' right to respond",
+                "use of novel or significant evidence"
+            ],
+            "judicial_review": [
+                "granted due to procedural unfairness",
+                "focus on relevance of extrinsic evidence"
+            ],
+            "result_of_case": [
+                "remitted for redetermination",
+                "different officer assigned"
+            ],
+            "relevant_rule": [
+                "Administrative law - disclosure requirements"
+            ]
+        }
+    ]
+}

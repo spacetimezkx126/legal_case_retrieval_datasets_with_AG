@@ -1,0 +1,32 @@
+{
+    "Case ID": "018224",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "expert_testimony": [
+                "Berger Report",
+                "Satzewich Report"
+            ],
+            "evidence_assessment": [
+                "relevance",
+                "necessity",
+                "exclusionary rule",
+                "proper qualification"
+            ],
+            "admissibility_criteria": [
+                "legal arguments",
+                "probative value",
+                "prejudicial effect"
+            ],
+            "decision_reasoning": [
+                "lack of relevance",
+                "disproportionate trial time"
+            ],
+            "conclusion_outcome": [
+                "Berger Report partially admissible",
+                "Satzewich Report fully excluded"
+            ]
+        }
+    ]
+}

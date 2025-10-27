@@ -1,0 +1,72 @@
+{
+    "Case ID": "029204",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "not credible due to perceived inconsistencies"
+            ],
+            "internal_flight_alternative": [
+                "rejected without proper analysis"
+            ],
+            "risk_assessment": [
+                "deemed risks generalized without individualized inquiry"
+            ],
+            "state_protection_analysis": [
+                "improperly assessed state protection"
+            ],
+            "decision_outcome": [
+                "Board's decision overturned; case remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "credibility_assessment": [
+                "unreasonable credibility findings"
+            ],
+            "internal_flight_alternative": [
+                "errors in internal flight alternatives"
+            ],
+            "state_protection": [
+                "errors in state protection availability"
+            ],
+            "generalized_risk": [
+                "errors in generalized risk assessment"
+            ],
+            "judicial_authority": [
+                "Board's decision reviewed and found unreasonable"
+            ],
+            "appeal_outcome": [
+                "case remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Threatening death",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "unreasonable",
+                "inconsistent",
+                "evasive",
+                "doubting extortion claims",
+                "minor and speculative inconsistencies"
+            ],
+            "internal_flight_alternative": [
+                "IFA analysis ignored evidence of gang presence in La Union"
+            ],
+            "generalized_risk": [
+                "conclusions relied on flawed credibility findings"
+            ],
+            "state_protection_analysis": [
+                "conclusions relied on flawed credibility findings"
+            ],
+            "reasonableness_of_decision": [
+                "Board's credibility findings were unreasonable"
+            ],
+            "risk_of_persecution": [
+                "fled El Salvador due to gang threats and extortion"
+            ]
+        }
+    ]
+}

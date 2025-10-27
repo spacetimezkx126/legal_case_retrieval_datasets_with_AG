@@ -1,0 +1,29 @@
+{
+    "Case ID": "090465",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Section 5(1)(c)",
+                "1095 days of residence",
+                "four years"
+            ],
+            "procedural_fairness": [
+                "adequate reasons",
+                "unclear reasoning",
+                "breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed the case"
+            ],
+            "misrepresentation_or_fraud": [
+                "omitted declaring six trips"
+            ]
+        }
+    ]
+}

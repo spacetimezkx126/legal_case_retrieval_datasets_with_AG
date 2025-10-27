@@ -1,0 +1,39 @@
+{
+    "Case ID": "085872",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Section 167(2)",
+                "Section 97"
+            ],
+            "procedural_fairness": [
+                "appointment of representative",
+                "distinct analysis under section 97"
+            ],
+            "credibility_findings": [
+                "lacked credibility"
+            ],
+            "decision_reasoning": [
+                "no need for Section 97 analysis due to lack of credibility"
+            ],
+            "application_details": [
+                "asylum claim",
+                "persecution by 'chimères'"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "two issues: lack of representative appointment and insufficient Section 97 analysis"
+            ],
+            "result_of_case": [
+                "dismissed",
+                "no question certified"
+            ]
+        }
+    ]
+}

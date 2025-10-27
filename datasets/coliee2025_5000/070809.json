@@ -1,0 +1,87 @@
+{
+    "Case ID": "070809",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements in an application for permanent residence",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "false statements"
+            ],
+            "refugee_status_eligibility": [
+                "pending annulment request"
+            ],
+            "procedural_fairness": [
+                "judicial review sought"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "involvement in genocide"
+            ],
+            "security_checks": [
+                "ongoing"
+            ]
+        },
+        {
+            "Crime Name": "Ongoing security checks indicating possible criminal activity unknown at this stage.",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "writ of mandamus"
+            ],
+            "evidence_provided": [
+                "documents related to involvement in genocide"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "rejection of mandamus application"
+            ],
+            "risk_to_national_security": [
+                "unresolved security issues"
+            ],
+            "refugee_status_claim": [
+                "pending annulment of refugee status"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": [],
+            "complicity_in_crimes": [
+                "involvement in genocide"
+            ],
+            "security_certificate_validity": [],
+            "document_disclosure_issues": [],
+            "balance_of_interests": [],
+            "specific_actions_or_activities": [],
+            "immigration_status": [
+                "permanent residence application pending"
+            ],
+            "new_information": [
+                "significant information regarding involvement in genocide"
+            ],
+            "reasoning_given": [
+                "issuing writ of mandamus would not serve a purpose until Minister's application is decided"
+            ]
+        },
+        {
+            "Crime Name": "Potential involvement in genocide",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Mandamus is an extraordinary remedy requiring a public legal duty, clear right to performance, no other remedies, and practical value."
+            ],
+            "national_security_concerns": [
+                "Security checks justify delays.",
+                "Delay in processing permanent residence application due to security concerns."
+            ],
+            "judicial_review_process": [
+                "Judicial review sought for mandamus writ to compel decision on permanent residence application."
+            ],
+            "decision_outcome": [
+                "Application dismissed; security checks and potential annulment of refugee status justified delay."
+            ],
+            "war_crimes_complicity": [
+                "Potential involvement in genocide"
+            ]
+        }
+    ]
+}

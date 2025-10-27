@@ -1,0 +1,129 @@
+{
+    "Case ID": "016748",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "concerns about signatures, stamps, and procurement methods"
+            ],
+            "credibility_assessment": [
+                "document credibility"
+            ],
+            "procedural_fairness": [
+                "refusal to grant an adjournment",
+                "ignored contradictory evidence",
+                "failed to consider deportation risks"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status based on domestic abuse"
+            ],
+            "decision_outcome": [
+                "Court granted judicial review, set aside the RPD's decision, and remitted the case for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "fair procedures",
+                "consideration of all evidence"
+            ],
+            "identity_documents": [
+                "Tazkira"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "breached procedural fairness"
+            ],
+            "appeal_outcome": [
+                "set aside",
+                "remitted to a new panel for reassessment"
+            ],
+            "reasonableness_standard": [
+                "Findings on identity, credibility, and procedural fairness are reviewed for reasonableness or correctness"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "concerns about authenticity"
+            ],
+            "procedural_fairness": [
+                "refusal to grant an adjournment",
+                "unreasonable actions"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was unreasonable"
+            ],
+            "identity": [
+                "rejection of the applicant's Tazkira"
+            ],
+            "refugee_status_nexus": [
+                "applicant sought refugee protection"
+            ],
+            "legal_basis": [
+                "judicial review application in Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "doubted credibility due to lack of corroborating evidence"
+            ],
+            "procedural_fairness": [
+                "failed to consider the gravity of her situation"
+            ],
+            "reasonableness_of_decision": [
+                "decision was unreasonable"
+            ],
+            "refugee_status_claim": [
+                "claimant must prove personal identity and credibility"
+            ],
+            "judicial_review_result": [
+                "Court granted judicial review, set aside RPD's decision, and remitted the case for reevaluation"
+            ],
+            "evidence_provided": [
+                "threats of violence or death must be substantiated with evidence"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "fled Afghanistan due to domestic abuse and threats of death"
+            ],
+            "decision_outcome": [
+                "case is remanded for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "concerns about signatures, stamps, procurement methods"
+            ],
+            "procedural_fairness": [
+                "lacked proper analysis of Afghan practices",
+                "breached procedural fairness"
+            ],
+            "refugee_status": [
+                "seeking refugee protection in Canada"
+            ],
+            "decision_made_by": [
+                "RPD"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ]
+        }
+    ]
+}

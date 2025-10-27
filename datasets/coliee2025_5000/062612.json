@@ -1,0 +1,55 @@
+{
+    "Case ID": "062612",
+    "Different Crime": [
+        {
+            "Crime Name": "Association with organized crime group",
+            "Crime Type": "others",
+            "legal_basis": [
+                "International Transfer of Offenders Act"
+            ],
+            "procedural_fairness": [
+                "failure to disclose material information",
+                "inadequate reasons"
+            ],
+            "decision_reasoning": [
+                "unverified allegations about Applicant's ties to organized crime",
+                "contradicted U.S. Department of Justice findings"
+            ],
+            "natural_justice_principles": [
+                "failure to adhere to principles of natural justice"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "ordering reconsideration"
+            ],
+            "procedure_followed": [
+                "judicial review examined whether Minister followed legal procedures and provided sufficient reasoning"
+            ]
+        },
+        {
+            "Crime Name": "Drug trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "transfer_request": [
+                "denied"
+            ],
+            "procedural_fairness": [
+                "failure to follow natural justice principles"
+            ],
+            "evidence_considered": [
+                "undisclosed allegations about organized crime ties"
+            ],
+            "applicable_law_or_regulation": [
+                "International Transfer of Offenders Act"
+            ],
+            "decision_outcome": [
+                "judicial review allowed; costs awarded to applicant"
+            ]
+        }
+    ]
+}

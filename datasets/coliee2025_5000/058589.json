@@ -1,0 +1,107 @@
+{
+    "Case ID": "058589",
+    "Different Crime": [
+        {
+            "Crime Name": "Battery",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Section 25 of the Criminal Code",
+                "Canadian tort law"
+            ],
+            "risk_of_persecution": [],
+            "evidence_assessment": [
+                "Trial proceedings included witness testimonies from inmates and guards, analysis of medical reports, and examination of institutional policies and procedures."
+            ],
+            "decision_outcome": [
+                "The court ruled in favor of the plaintiff, finding the defendant liable for battery"
+            ],
+            "specific_threats": [
+                "An altercation involving two inmates led to guards using firearms, resulting in unintended injuries to uninvolved inmates like Abbott."
+            ],
+            "standard_of_proof": []
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "use of force",
+                "firing of a shotgun",
+                "justified under the circumstances"
+            ],
+            "legal_basis": [
+                "Crown Liability Act",
+                "common law principles",
+                "duty of care to inmates"
+            ],
+            "evidence_consideration": [
+                "witness testimonies",
+                "medical reports",
+                "procedural documents"
+            ],
+            "serious_issue": [
+                "excessive force",
+                "breach of duty of care"
+            ],
+            "humanitarian_concerns": [
+                "injury to uninvolved inmate"
+            ],
+            "procedural_fairness": [
+                "Trial process"
+            ]
+        },
+        {
+            "Crime Name": "Cruel and Unusual Punishment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "common law"
+            ],
+            "evidence_assessment": [
+                "extensive witness testimonies",
+                "documentation reviewed"
+            ],
+            "decision_reasoning": [
+                "unjustified segregation",
+                "shot and maced without provocation",
+                "third period of segregation lacked legal or factual justification"
+            ],
+            "relevant_statute": [
+                "cruel and unusual punishment under common law"
+            ],
+            "result_of_case": [
+                "$2,000 in general damages",
+                "$10,000 in exemplary damages"
+            ],
+            "procedure_followed": [
+                "case was tried with extensive witness testimonies and documentation reviewed"
+            ],
+            "conclusion_outcome": [
+                "plaintiff's treatment amounted to cruel and unusual punishment",
+                "defendant is liable for damages"
+            ]
+        },
+        {
+            "Crime Name": "False Imprisonment",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Penitentiary Service Regulations s. 40"
+            ],
+            "evidence_sufficiency": [
+                "Unfounded charges",
+                "Cleared by Security Inquiry report"
+            ],
+            "procedural_fairness": [
+                "Testimony from multiple witnesses",
+                "Examination of institutional reports and procedures"
+            ],
+            "decision_outcome": [
+                "Awarded $2,000 in general damages",
+                "Awarded $10,000 in exemplary damages",
+                "Interest and costs"
+            ],
+            "consequences_of_decision": [
+                "Constituted false imprisonment",
+                "Cruel and unusual punishment"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Case ID": "013206",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "availability of state protection",
+                "inability to avail themselves of state protection",
+                "selective analysis",
+                "disregard of critical evidence"
+            ],
+            "reasonableness_standard": [
+                "standard of review for state protection adequacy is reasonableness",
+                "Panel's decision was unreasonable"
+            ],
+            "risk_of_persecution": [
+                "removal would subject them to risk"
+            ],
+            "evidence_assessment": [
+                "selectively used evidence",
+                "ignored negative aspects of state protection",
+                "failed to consider the applicant's unique circumstances"
+            ],
+            "specific_vulnerabilities": [
+                "lack of family support",
+                "past abuse",
+                "minor"
+            ],
+            "decision_outcome": [
+                "Application granted",
+                "Panel's decision set aside",
+                "case referred back for reconsideration"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

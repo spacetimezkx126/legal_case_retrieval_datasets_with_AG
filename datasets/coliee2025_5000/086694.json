@@ -1,0 +1,27 @@
+{
+    "Case ID": "086694",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination Complaint",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "reasonable investigation",
+                "not interviewing all proposed witnesses"
+            ],
+            "evidentiary_standard": [
+                "no credible evidence supported reactivation"
+            ],
+            "judicial_review_process": [
+                "examined breach of procedural fairness",
+                "errored in dismissing the complaint under s. 41(1)(d)"
+            ],
+            "reasonableness_of_decision": [
+                "decision reasonable",
+                "no breach of procedural fairness"
+            ],
+            "legal_basis": [
+                "Section 41(1)(d) of the Canadian Human Rights Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Case ID": "092295",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "section 27(1)(e) and (g) of the Immigration Act"
+            ],
+            "credibility_assessment": [
+                "patently unreasonable standard",
+                "contradictions in testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness for mixed questions of fact and law",
+                "patently unreasonable for credibility findings"
+            ],
+            "misrepresentation_or_fraud": [
+                "omission of involvement in war crimes",
+                "failure to disclose exclusion as a Convention Refugee"
+            ],
+            "decision_outcome": [
+                "dismissed application for judicial review",
+                "upheld IRB's decision to deport"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "not patently unreasonable"
+            ],
+            "complicity_in_crimes": [
+                "guilty knowledge",
+                "personal involvement"
+            ],
+            "evidentiary_standard": [
+                "reasonableness standard"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "judicial_review_process": [
+                "Judicial review of IRB decision regarding deportation under Immigration Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "burden_of_proof": [
+                "participation in military operations and killing on orders"
+            ]
+        }
+    ]
+}

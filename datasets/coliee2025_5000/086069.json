@@ -1,0 +1,31 @@
+{
+    "Case ID": "086069",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days during a four-year period",
+                "physical presence",
+                "attachment to Canada"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "application premature"
+            ],
+            "immigration_status": [
+                "Canadian citizenship"
+            ],
+            "identity_verification": [
+                "physical presence in Canada"
+            ],
+            "regulatory_compliance": [
+                "s. 5(c) of the Citizenship Act"
+            ],
+            "evidence_assessment": [
+                "absences not temporary",
+                "efforts to integrate into Canadian society"
+            ]
+        }
+    ]
+}

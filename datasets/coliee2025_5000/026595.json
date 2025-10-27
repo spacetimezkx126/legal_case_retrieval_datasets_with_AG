@@ -1,0 +1,56 @@
+{
+    "Case ID": "026595",
+    "Different Crime": [
+        {
+            "Crime Name": "Transportation Security Clearance Denial",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "minimal safeguards for clearance applications",
+                "knowledge of alleged facts",
+                "opportunity to respond"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "reasoning_given": [
+                "procedural fairness not violated",
+                "no right to a hearing",
+                "applicant informed of incident",
+                "chance to respond given",
+                "request for specific grounds deemed unnecessary"
+            ],
+            "judicial_review_result": [
+                "court dismissed the application"
+            ],
+            "legal_basis": [
+                "Transport Canada's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "minimal safeguards for new clearance applications",
+                "knowledge of alleged facts",
+                "opportunity to respond"
+            ],
+            "decision_reasoning": [
+                "applicant was informed of the robbery incident and given a chance to explain"
+            ],
+            "cause_of_action": [
+                "applicant's involvement in a robbery"
+            ],
+            "procedure_followed": [
+                "judicial review assessed if procedural fairness was upheld during clearance denial process"
+            ],
+            "result_of_case": [
+                "court dismissed the application",
+                "upholding the decision to deny security clearance"
+            ],
+            "legal_basis": [
+                "procedural fairness requires minimal safeguards for new clearance applications",
+                "no right to a hearing exists"
+            ]
+        }
+    ]
+}

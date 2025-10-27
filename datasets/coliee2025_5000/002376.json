@@ -1,0 +1,32 @@
+{
+    "Case ID": "002376",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of Duty to Consult",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "breach_of_fairness",
+                "administrative_decision"
+            ],
+            "relevant_rule": [
+                "rule_regulation"
+            ],
+            "application_details": [
+                "procedure_followed"
+            ],
+            "decision_reasoning": [
+                "decision_reasonableness",
+                "discretion_exercise"
+            ],
+            "conclusion_outcome": [
+                "court_ruling"
+            ],
+            "result_of_case": [
+                "decision_made"
+            ],
+            "specific_rule_applied": [
+                "governing_rule"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Case ID": "044832",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement/Invalidity",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "invalid"
+            ],
+            "technical_details": [
+                "atomoxetine",
+                "treat ADHD",
+                "MGH Study"
+            ],
+            "expert_testimony": [
+                "presented"
+            ],
+            "applicable_statute": [
+                "Section 60(1) of the Patent Act"
+            ],
+            "decision_outcome": [
+                "invalid and void"
+            ],
+            "cause_of_action": [
+                "obviousness",
+                "anticipated",
+                "lacked utility"
+            ],
+            "evidence_provided": [
+                "study deemed too small",
+                "short-term",
+                "lacked necessary disclosure"
+            ]
+        }
+    ]
+}

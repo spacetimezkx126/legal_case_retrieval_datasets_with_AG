@@ -1,0 +1,58 @@
+{
+    "Case ID": "062586",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "security_clearance": [
+                "denied"
+            ],
+            "evidence_sufficiency": [
+                "sufficient evidence"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "applicable_law_or_regulation": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "consequences_of_decision": [
+                "application for judicial review dismissed"
+            ],
+            "criminal_history": [
+                "arrested during a drug investigation",
+                "no conviction"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a loaded prohibited firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 4.8 of the Aeronautics Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "association with criminal activities",
+                "presence during police raid",
+                "drugs and loaded firearm found in vehicle"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "applicable_laws": [
+                "Aeronautics Act"
+            ],
+            "criminal_history": [
+                "no conviction but potential knowledge or wilful blindness"
+            ],
+            "court_ruling": [
+                "Minister's decision was reasonable"
+            ]
+        }
+    ]
+}

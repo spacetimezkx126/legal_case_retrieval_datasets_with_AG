@@ -1,0 +1,32 @@
+{
+    "Case ID": "010508",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "review_standard": [
+                "reasonableness standard",
+                "correctness standard"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted"
+            ],
+            "standard_of_review": [
+                "reasonableness standard",
+                "correctness standard"
+            ],
+            "legal_basis": [
+                "questions of central importance to the legal system",
+                "constitutional questions",
+                "jurisdictional issues"
+            ],
+            "independent_review_by_rad": [
+                "RAD's dismissal of refugee claim"
+            ],
+            "procedural_fairness": [
+                "RAD's decision-making process analyzed"
+            ]
+        }
+    ]
+}

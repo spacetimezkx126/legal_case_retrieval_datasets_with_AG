@@ -1,0 +1,36 @@
+{
+    "Case ID": "043143",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "breach_of_fairness": [
+                "failure to hold a hearing"
+            ],
+            "evidence_assessment": [
+                "new evidence from relatives countering prior negative credibility findings"
+            ],
+            "credibility_findings": [
+                "significant credibility concerns"
+            ],
+            "decision_reasoning": [
+                "officer breached the duty of fairness"
+            ],
+            "result_of_case": [
+                "case referred for redetermination by a different PRRA officer"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed whether the officer erred in assessment, misconstrued risks, or breached fairness"
+            ],
+            "cause_of_action": [
+                "applicants' PRRA application was denied due to lack of new evidence showing risk in Colombia"
+            ],
+            "court_ruling": [
+                "court allowed judicial review"
+            ]
+        }
+    ]
+}

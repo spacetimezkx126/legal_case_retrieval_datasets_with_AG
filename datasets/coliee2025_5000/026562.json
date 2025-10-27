@@ -1,0 +1,53 @@
+{
+    "Case ID": "026562",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "section 248 of the Regulations"
+            ],
+            "procedural_fairness": [
+                "Judicial review by Federal Court"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's history shows non-compliance with CBSA procedures"
+            ],
+            "decision_outcome": [
+                "Application dismissed; continued detention upheld as reasonable"
+            ],
+            "standard_of_review": [
+                "Decisions are reviewed for reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "balance_of_convenience": [
+                "liberty interests vs public interest"
+            ],
+            "flight_risk": [
+                "high risk due to history of non-compliance"
+            ],
+            "reasonableness_standard": [
+                "Board's decision reviewed for reasonableness"
+            ],
+            "past_behavior": [
+                "history of lying to authorities, missing interviews"
+            ],
+            "relationship_genuineness": [
+                "doubts about bondsmen's influence"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "continue detention until next review"
+            ]
+        }
+    ]
+}

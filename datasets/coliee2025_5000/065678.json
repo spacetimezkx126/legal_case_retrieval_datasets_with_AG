@@ -1,0 +1,27 @@
+{
+    "Case ID": "065678",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Statement of Claim must disclose a reasonable cause of action with material facts, not speculation. Quia timet actions require deliberate intent, imminent activity, and substantial damage."
+            ],
+            "evidence_provided": [
+                "no concrete evidence or material facts were provided beyond assumptions about future intentions."
+            ],
+            "decision_outcome": [
+                "The Statement of Claim was struck out as it failed to meet the criteria for a quia timet action and was deemed speculative and an abuse of process."
+            ],
+            "appeal_outcome": [
+                "The court dismissed the action, allowing Novopharm costs, but left room for AstraZeneca to file a new action if non-speculative circumstances arise."
+            ],
+            "cause_of_action": [
+                "AstraZeneca filed a claim alleging Novopharm would infringe their patent upon receiving regulatory approval."
+            ],
+            "patent_validity": [
+                "alleged patent infringement"
+            ]
+        }
+    ]
+}

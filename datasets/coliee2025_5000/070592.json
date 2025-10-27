@@ -1,0 +1,30 @@
+{
+    "Case ID": "070592",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "confusion_likelihood": [
+                "no likelihood of confusion"
+            ],
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "confusion_analysis": [
+                "determined by public association, considering s. 6(5) factors"
+            ],
+            "distinctiveness_evaluation": [
+                "plaintiff's trademarks are weak due to common use of 'sentinel'"
+            ],
+            "use_in_trade": [
+                "defendant's products target cost-conscious DIY consumers, unlike plaintiff's high-end services; marks differ in appearance and usage context"
+            ],
+            "appeal_outcome": [
+                "action dismissed"
+            ],
+            "cause_of_action": [
+                "trademark infringement"
+            ]
+        }
+    ]
+}

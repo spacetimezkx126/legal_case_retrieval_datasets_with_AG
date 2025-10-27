@@ -1,0 +1,59 @@
+{
+    "Case ID": "004471",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to provide state protection",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee status determination",
+            "Legal_Provision_Involved": "IRPA",
+            "Outcome": "RPD accepted refugee claims; Minister's judicial review dismissed",
+            "Grounds_for_Claim": "Persecution of Roma, lack of state protection",
+            "Remedy_Requested": "Refugee protection in Canada"
+        },
+        {
+            "Crime_Name": "Discrimination",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee status determination",
+            "Legal_Provision_Involved": "IRPA",
+            "Outcome": "RPD accepted refugee claims; Minister's judicial review dismissed",
+            "Grounds_for_Claim": "Racial discrimination against Roma in Hungary",
+            "Remedy_Requested": "Refugee protection in Canada"
+        },
+        {
+            "Crime_Name": "Police misconduct",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Inadequacy of state protection due to police complicity and inaction",
+            "Governing_Law": "IRPA",
+            "Decision_Outcome": "RPD decision upheld; judicial review dismissed",
+            "Evidence_Assessment": "Credible evidence of police failure and complicity in persecution",
+            "Standard_of_Review": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Persecution based on race",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee status determination",
+            "Legal_Provision_Involved": "IRPA",
+            "Outcome": "RPD accepted claims; judicial review dismissed",
+            "Grounds_for_Claim": "Racial persecution of Roma in Hungary",
+            "Remedy_Requested": "Refugee protection in Canada"
+        },
+        {
+            "Crime_Name": "Hate crimes",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "State protection inadequacy regarding hate-motivated violence",
+            "Governing_Law": "IRPA",
+            "Decision_Outcome": "RPD decision upheld; judicial review dismissed",
+            "Evidence_Assessment": "Credible evidence of hate-based persecution in Gyöngyöspata",
+            "Standard_of_Review": "Reasonableness"
+        },
+        {
+            "Crime_Name": "Incitement to violence against a racial group",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Incitement to violence",
+            "Perpetrator_Type": "Non-state actors, potential state tolerance",
+            "Victim_Status": "Roma family seeking refugee protection",
+            "Geographic_Context": "Hungary",
+            "Risk_Nature": "Targeted victimization based on race"
+        }
+    ]
+}

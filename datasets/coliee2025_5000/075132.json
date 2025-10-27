@@ -1,0 +1,78 @@
+{
+    "Case ID": "075132",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "opportunity to respond to adverse findings"
+            ],
+            "credibility_assessment": [
+                "impacted credibility unfairly"
+            ],
+            "document_authenticity": [
+                "doubted authenticity of conscription notice"
+            ],
+            "decision_outcome": [
+                "case remitted to a different panel for reassessment"
+            ],
+            "standard_of_review": [
+                "judicial review application filed",
+                "Federal Court reviewed the CRDD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose material information",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "violated procedural fairness principles",
+                "notifying parties of adverse findings and allowing them to respond"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "quashed the CRDD's decision",
+                "case remitted to a new panel"
+            ],
+            "claim_nature": [
+                "doubted credibility based on document date"
+            ],
+            "standard_of_review": [
+                "procedural fairness review"
+            ],
+            "material_misrepresentation": [
+                "discrepancies in the conscription notice"
+            ],
+            "appeal_outcome": [
+                "one question certified for appeal"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness in decision-making process"
+            ],
+            "administrative_decision": [
+                "CRDD's decision-making process"
+            ],
+            "decision_reasoning": [
+                "concluded call-up notice not genuine without seeking explanation from Gabor"
+            ],
+            "court_ruling": [
+                "allowed judicial review, quashed CRDD's decision, remitted case for reassessment"
+            ],
+            "cause_of_action": [
+                "refugee claim denied due to perceived lack of credibility"
+            ],
+            "procedure_followed": [
+                "judicial review application followed by Federal Court analysis of procedural fairness"
+            ],
+            "result_of_case": [
+                "case remitted to a differently constituted CRDD panel; one question certified for appeal"
+            ]
+        }
+    ]
+}

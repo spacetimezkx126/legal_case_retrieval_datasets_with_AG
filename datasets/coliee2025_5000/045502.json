@@ -1,0 +1,87 @@
+{
+    "Case ID": "045502",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Canada Evidence Act"
+            ],
+            "procedural_fairness": [
+                "objections reviewed",
+                "hearings conducted",
+                "criteria applied"
+            ],
+            "public_interest": [
+                "openness",
+                "national security"
+            ],
+            "decision_outcome": [
+                "partial disclosure authorized",
+                "remaining information protected"
+            ],
+            "legal_basis": [
+                "section 38"
+            ],
+            "balance_of_convenience": [
+                "public interest vs national security"
+            ]
+        },
+        {
+            "Crime Name": "Unauthorized Disclosure of Information",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 38 of the Canada Evidence Act"
+            ],
+            "disclosure_of_sensitive_information": [
+                "search warrant details",
+                "anonymous informants"
+            ],
+            "balance_of_interests": [
+                "public interest in openness",
+                "national security",
+                "third-party rule concerns"
+            ],
+            "decision_outcome": [
+                "Partial disclosure ordered",
+                "certain sensitive details remained protected"
+            ],
+            "evidence_provided": [
+                "sealed documents from a criminal investigation"
+            ],
+            "judicial_review_result": [
+                "importance of judicial discretion in managing competing public interests"
+            ]
+        },
+        {
+            "Crime Name": "Violation of Third Party Rule",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 38 of the Canada Evidence Act",
+                "third party rule",
+                "Section 2(b) of the Canadian Charter of Rights and Freedoms"
+            ],
+            "procedural_fairness": [
+                "open court principle",
+                "ex parte hearings",
+                "balancing tests"
+            ],
+            "decision_reasoning": [
+                "national security concerns",
+                "public interest in openness"
+            ],
+            "evidence_assessment": [
+                "sensitive national security information",
+                "disclosure of certain information"
+            ],
+            "result_of_case": [
+                "partial disclosure authorized",
+                "third party rule upheld for specific details",
+                "appeal allowed in part"
+            ],
+            "relevant_statute": [
+                "Canada Evidence Act"
+            ]
+        }
+    ]
+}

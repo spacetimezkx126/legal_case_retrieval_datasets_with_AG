@@ -1,0 +1,27 @@
+{
+    "Case ID": "002393",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days over four years"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "discrepancies in applicant's evidence",
+                "missing re-entry stamps",
+                "incomplete documentation"
+            ],
+            "credibility_assessment": [
+                "travel history as credible despite gaps"
+            ],
+            "decision_outcome": [
+                "citizenship judge's decision reasonable",
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

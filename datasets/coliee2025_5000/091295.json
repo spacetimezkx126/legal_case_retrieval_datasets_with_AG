@@ -1,0 +1,32 @@
+{
+    "Case ID": "091295",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "officer's decision",
+                "arranged employment",
+                "interview",
+                "rejection",
+                "IELTS scores",
+                "manual versions",
+                "ambiguity in language skills"
+            ],
+            "decision_reasoning": [
+                "zero points",
+                "insufficient points",
+                "unclear language skill assessment"
+            ],
+            "application_details": [
+                "permanent residence application",
+                "judicial review"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "case reconsideration",
+                "procedural fairness issues"
+            ]
+        }
+    ]
+}

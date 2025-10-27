@@ -1,0 +1,107 @@
+{
+    "Case ID": "046879",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 35(1)(a)"
+            ],
+            "procedural_fairness": [
+                "no breach of fairness duties"
+            ],
+            "evidence_assessment": [
+                "credible evidence",
+                "inconsistent and implausible denials"
+            ],
+            "criminality_inadmissibility": [
+                "crimes against humanity or war crimes"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "Jayasinghe remains inadmissible"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "s. 35(1)(a) of IRPA"
+            ],
+            "standard_of_review": [
+                "reasonable grounds to believe"
+            ],
+            "evidence_provided": [
+                "admitted commanding troops involved in operations with civilian casualties",
+                "inconsistent statements",
+                "documented human rights abuses"
+            ],
+            "decision_outcome": [
+                "upheld the visa officer's decision",
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "did not breach fairness duties"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "nature_of_offense": [
+                "crimes against humanity",
+                "war crimes"
+            ],
+            "serious_criminality": [
+                "potential involvement in human rights abuses"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 35(1)(a) of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_credibility": [
+                "inconsistent statements",
+                "documented human rights abuses"
+            ],
+            "complicity_in_crimes": [
+                "commanding troops involved in operations with civilian casualties and interrogations"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "upheld the visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s.35(1)(a)"
+            ],
+            "evidence_assessment": [
+                "credible evidence"
+            ],
+            "procedural_fairness": [
+                "fair opportunities for response"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe"
+            ],
+            "judicial_review_process": [
+                "Judicial review examined whether the visa refusal breached fairness or lacked reasonable grounds"
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed"
+            ]
+        }
+    ]
+}

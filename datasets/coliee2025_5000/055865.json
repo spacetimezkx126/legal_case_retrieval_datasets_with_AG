@@ -1,0 +1,33 @@
+{
+    "Case ID": "055865",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration Act"
+            ],
+            "risk_of_persecution": [
+                "opposition to China's one-child policy",
+                "forced abortion",
+                "fines",
+                "shrimp pool confiscation"
+            ],
+            "country_conditions": [
+                "China's one-child policy"
+            ],
+            "documentary_evidence": [
+                "no direct harm beyond economic sanctions and emotional distress"
+            ],
+            "decision_outcome": [
+                "ineligible for refugee status"
+            ],
+            "standard_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "political opinion"
+            ]
+        }
+    ]
+}

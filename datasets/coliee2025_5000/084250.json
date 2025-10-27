@@ -1,0 +1,29 @@
+{
+    "Case ID": "084250",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "disclosure of significant extrinsic evidence"
+            ],
+            "risk_assessment": [
+                "sustained/systemic discrimination",
+                "personal risks"
+            ],
+            "hardship_assessment": [
+                "unusual/undeserved disproportionate impact",
+                "family dependence"
+            ],
+            "decision_reasonableness": [
+                "PRRA decision reasonable",
+                "H&C decision unreasonable"
+            ],
+            "result_of_case": [
+                "PRRA decision upheld",
+                "H&C decision remanded"
+            ]
+        }
+    ]
+}

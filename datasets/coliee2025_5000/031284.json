@@ -1,0 +1,89 @@
+{
+    "Case ID": "031284",
+    "Different Crime": [
+        {
+            "Crime Name": "Conspiracy",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "permanent resident",
+                "inadmissible due to serious criminality",
+                "convicted of another serious offense"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act",
+                "subsection 68(4)"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "subsection 68(4) deemed constitutional"
+            ],
+            "procedural_fairness": [
+                "Judicial review challenging constitutionality"
+            ],
+            "cause_of_action": [
+                "violation of sections 7, 12, and 15 of the Charter"
+            ],
+            "nature_of_offense": [
+                "conspiracy",
+                "breaking and entering"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Charter sections 7, 12, and 15"
+            ],
+            "decision_reasoning": [
+                "law aimed to protect public safety",
+                "consistent with the Charter"
+            ],
+            "charter_rights": [
+                "sections 7, 12, and 15"
+            ],
+            "specific_rule_applied": [
+                "subsection 68(4)"
+            ],
+            "application_details": [
+                "Dufour's removal stay canceled after new conviction"
+            ],
+            "conclusion_outcome": [
+                "subsection 68(4) constitutional"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Charter sections 7, 12, 15"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application"
+            ],
+            "applicable_laws": [
+                "subsection 68(4) of the Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "Judicial review in Federal Court"
+            ],
+            "charter_violation": [
+                "No violation of sections 7, 12, or 15 of the Charter"
+            ],
+            "criminal_history": [
+                "Convicted of assault with a weapon and breaking and entering",
+                "Committed another offense after receiving a stay of removal"
+            ],
+            "court_ruling": [
+                "Subsection 68(4) is constitutional"
+            ]
+        }
+    ]
+}

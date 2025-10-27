@@ -1,0 +1,49 @@
+{
+    "Case ID": "066323",
+    "Different Crime": [
+        {
+            "Crime Name": "False Passport Offence",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistencies in testimony and documents"
+            ],
+            "refugee_status_eligibility": [
+                "claim rejected",
+                "persecution risk not proven"
+            ],
+            "internal_flight_alternative": [
+                "considered"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for re-evaluation"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of false French passport"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings are assessed under the reasonableness standard."
+            ],
+            "internal_flight_alternative": [
+                "Concluded an internal flight alternative existed if he remained discreet about his sexuality."
+            ],
+            "appeal_outcome": [
+                "Court granted judicial review, remitting the case for reassessment by a different board."
+            ],
+            "decision_outcome": [
+                "Refugee claim denial based on perceived lack of credibility and existence of an internal flight alternative."
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging the Refugee Protection Division's decision."
+            ]
+        }
+    ]
+}

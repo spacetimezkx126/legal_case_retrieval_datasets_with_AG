@@ -1,0 +1,46 @@
+{
+    "Case ID": "072721",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ],
+            "legal_basis": [
+                "National Defence Act and Regulations"
+            ],
+            "standard_of_review": [
+                "judicial reviews"
+            ],
+            "decision_outcome": [
+                "court ruled in favor of the Attorney General, declaring the Commission's decisions invalid due to lack of jurisdiction"
+            ],
+            "procedural_fairness": [
+                "jurisdiction to investigate complaints"
+            ],
+            "charter_rights": []
+        },
+        {
+            "Crime Name": "Transfer of detainees without safeguards against torture",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "jurisdictional_issue": [
+                "Military Police Complaints Commission jurisdiction",
+                "established military custom or practice exclusion"
+            ],
+            "legal_basis": [
+                "National Defence Act and Regulations"
+            ],
+            "judicial_review_process": [
+                "Attorney General challenged Commission's jurisdiction"
+            ],
+            "decision_outcome": [
+                "Commission lacks jurisdiction",
+                "Court quashed Commission's decisions"
+            ],
+            "human_rights_violations": [
+                "Detainee transfers without torture safeguards"
+            ]
+        }
+    ]
+}

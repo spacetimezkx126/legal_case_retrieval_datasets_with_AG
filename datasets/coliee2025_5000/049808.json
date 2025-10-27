@@ -1,0 +1,25 @@
+{
+    "Case ID": "049808",
+    "Different Crime": [
+        {
+            "Crime Name": "Enforcement of Foreign Arbitral Award",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "jurisdictional_issue": [
+                "Prothonotary lacked jurisdiction to register foreign judgments"
+            ],
+            "evidentiary_standard": [
+                "applicant provided an affidavit with a true copy of the award but lacked formal certification"
+            ],
+            "procedural_fairness": [
+                "Rule 3 mandates securing just determination on merits",
+                "court found no prejudice or impediment to enforcement"
+            ],
+            "decision_outcome": [
+                "Award registered retroactively; original order voided; no consolidation; parties bear own costs"
+            ],
+            "legal_basis": [
+                "Federal Court Rules 327, 329(1), 392(2)"
+            ]
+        }
+    ]
+}

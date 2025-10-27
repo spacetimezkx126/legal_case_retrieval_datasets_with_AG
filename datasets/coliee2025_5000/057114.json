@@ -1,0 +1,63 @@
+{
+    "Case ID": "057114",
+    "Different Crime": [
+        {
+            "Crime Name": "Participating in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_standard": [
+                "transparent, intelligible reasoning",
+                "acceptable result based on facts and applicable law"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "set aside",
+                "redetermination required"
+            ],
+            "reasoning_given": [
+                "failed to explain deviation from first PRRA risk determination",
+                "ignored Justice Mactavish's direction",
+                "focused irrelevantly on absence of threats in Canada"
+            ],
+            "judicial_review_result": [
+                "second PRRA decision overturned",
+                "remitted for re-evaluation",
+                "no appeal question certified"
+            ],
+            "risk_assessment": [
+                "conflicting PRRA decisions",
+                "risk of harm in Jamaica due to informant role"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_reasoning": [
+                "justified, transparent, and intelligible reasoning with an acceptable result"
+            ],
+            "application_details": [
+                "failed to explain departure from the first risk determination",
+                "ignored Justice Mactavish's direction",
+                "focused on irrelevant facts"
+            ],
+            "conclusion_outcome": [
+                "unreasonable",
+                "set aside",
+                "redetermination"
+            ],
+            "cause_of_action": [
+                "PRRA application dismissed despite risks due to informant role"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "case remitted for re-determination"
+            ],
+            "result_of_case": [
+                "second PRRA decision set aside",
+                "new assessment ordered"
+            ]
+        }
+    ]
+}

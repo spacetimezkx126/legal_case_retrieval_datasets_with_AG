@@ -1,0 +1,34 @@
+{
+    "Case ID": "072821",
+    "Different Crime": [
+        {
+            "Crime Name": "Removal order non-compliance",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "establishment",
+                "hardship"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for re-determination"
+            ],
+            "immigration_status": [
+                "unauthorized presence",
+                "no legal status"
+            ],
+            "legal_basis": [
+                "section 25 of the IRPA"
+            ],
+            "evidence_assessment": [
+                "misinterpretation of hardship criteria"
+            ],
+            "procedural_fairness": [
+                "officer's error in hardship assessment"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Case ID": "073494",
+    "Different Crime": [
+        {
+            "Crime Name": "False or Misleading Information in Citizenship Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Discrepancies in residency records",
+                "Weak explanations for memory lapse"
+            ],
+            "procedural_fairness": [
+                "Judge accepted explanation without further inquiry",
+                "Altered applicant's burden of proof"
+            ],
+            "evidence_assessment": [
+                "Significant inconsistencies in reported absences"
+            ],
+            "decision_outcome": [
+                "Appeal granted",
+                "Citizenship decision quashed"
+            ],
+            "standard_of_review": [
+                "Reasonableness assessed by Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "procedural_fairness": [
+                "justification, transparency, and intelligibility in decisions"
+            ],
+            "evidence_consideration": [
+                "discrepancies in reported absences",
+                "lack of corroboration",
+                "expired passport for verification"
+            ],
+            "standard_of_proof": [
+                "applicant's burden of proof"
+            ],
+            "reasonableness_of_decision": [
+                "judge's decision was unreasonable"
+            ],
+            "immigration_status": [
+                "citizenship application"
+            ]
+        },
+        {
+            "Crime Name": "False or Misleading Information in Citizenship Application",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_credibility": [
+                "discrepancies",
+                "weak explanations"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "decision quashed"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "discrepancies_identified": [
+                "six trips out of Canada not reported"
+            ],
+            "reasoning_given": [
+                "memory lapse accepted without further inquiry"
+            ],
+            "standard_of_proof": [
+                "applicant's burden of proof altered"
+            ],
+            "evidence_assessment": [
+                "inadequate justification by judge"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "weak explanations",
+                "discrepancies in reported absences"
+            ],
+            "applicable_law_or_regulation": [
+                "Citizenship Act"
+            ],
+            "decision_made_by": [
+                "citizenship judge"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "evidence_sufficiency": [
+                "lack of corroboration",
+                "no expired passport for verification"
+            ],
+            "decision_outcome": [
+                "unreasonable decision quashed",
+                "applicant can reapply"
+            ],
+            "procedural_fairness": [
+                "justification, transparency, and intelligibility required"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "credibility_findings": [
+                "Discrepancies in reported absences",
+                "Weak explanations attributed to memory failure"
+            ],
+            "procedural_fairness": [
+                "Judicial review of reasonableness"
+            ],
+            "decision_outcome": [
+                "Unreasonable decision quashed"
+            ],
+            "claimant_burden": [
+                "Applicant's burden of proof not met"
+            ],
+            "applicable_laws": [
+                "Residency requirements for citizenship"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ]
+        }
+    ]
+}

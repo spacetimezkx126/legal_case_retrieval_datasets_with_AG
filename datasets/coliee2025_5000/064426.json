@@ -1,0 +1,53 @@
+{
+    "Case ID": "064426",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act violations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 14(1.1) of the Citizenship Act",
+                "IRPA s. 44(1)"
+            ],
+            "immigration_status": [
+                "permanent residents"
+            ],
+            "decision_outcome": [
+                "mandamus application dismissed"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "criminality_inadmissibility": [
+                "alleged FARC ties"
+            ],
+            "procedural_fairness": [
+                "Unreasonable delay in processing"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility due to association with a terrorist entity",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 14(1.1) of the Citizenship Act"
+            ],
+            "immigration_status": [
+                "deportation proceedings"
+            ],
+            "judicial_review_result": [
+                "Mandamus application dismissed"
+            ],
+            "decision_outcome": [
+                "no costs awarded; applicant must await admissibility hearing outcome"
+            ],
+            "membership_in_organization": [
+                "FARC"
+            ],
+            "risk_to_national_security": [
+                "security concerns"
+            ],
+            "applicable_law_section": [
+                "Section 14(1.1) of the Citizenship Act"
+            ]
+        }
+    ]
+}

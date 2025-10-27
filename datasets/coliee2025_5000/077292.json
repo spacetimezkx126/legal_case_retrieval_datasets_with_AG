@@ -1,0 +1,34 @@
+{
+    "Case ID": "077292",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal Due to Translation Errors",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness due to unreasonable translation errors"
+            ],
+            "translation_quality": [
+                "erroneous Swahili translation",
+                "flawed Swahili translation",
+                "significant translation discrepancies"
+            ],
+            "credibility_findings": [
+                "adverse credibility findings"
+            ],
+            "evidence_assessment": [
+                "expert affidavit highlighted significant translation discrepancies",
+                "unchallenged by the respondent"
+            ],
+            "decision_outcome": [
+                "Board's decision was quashed",
+                "referred back for a new determination"
+            ],
+            "standard_of_proof": [
+                "no proof of actual prejudice is required for relief"
+            ],
+            "inconsistencies_in_testimony": [
+                "impacting their credibility"
+            ]
+        }
+    ]
+}

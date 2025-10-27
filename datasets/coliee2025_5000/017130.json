@@ -1,0 +1,91 @@
+{
+    "Case ID": "017130",
+    "Different Crime": [
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_provided": [
+                "contradictions in testimony",
+                "payments to Los Zetas",
+                "interactions with police"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed under reasonableness standard"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Refugee Protection Division"
+            ],
+            "relationship_genuineness": [
+                "credibility issues"
+            ],
+            "cause_of_action": [
+                "challenged legality of decision denying refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "inconsistent testimony",
+                "contradictions",
+                "implausibilities in testimony"
+            ],
+            "risk_assessment": [
+                "alleged threats by Los Zetas",
+                "extortion"
+            ],
+            "reasonableness_of_decision": [
+                "cumulative contradictions",
+                "implausibilities"
+            ],
+            "specific_threats_or_incidents": [
+                "kidnapping",
+                "extortion by Los Zetas"
+            ],
+            "refugee_status_nexus": [
+                "denial of refugee status"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard of review"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "contradictions",
+                "implausibilities",
+                "discrepancies in payments",
+                "confusion regarding interactions with police"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on evidence and contradictions"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_assessment": [
+                "principal applicant's testimony"
+            ],
+            "reasoning_given": [
+                "clear and unmistakable reasoning"
+            ],
+            "decision_outcome": [
+                "not Convention refugees or persons in need of protection"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

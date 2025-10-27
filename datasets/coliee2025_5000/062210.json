@@ -1,0 +1,109 @@
+{
+    "Case ID": "062210",
+    "Different Crime": [
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted"
+            ],
+            "procedural_fairness": [
+                "insufficient consideration of relevant evidence"
+            ],
+            "serious_criminality": [
+                "history of criminal activity",
+                "alleged gang membership"
+            ],
+            "appeal_outcome": [
+                "new detention review ordered"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a Police Officer",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Board's decision can be overturned if findings of fact are unsupported by evidence or legal analysis is incorrect"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "risk_assessment": [
+                "danger based on past gang involvement"
+            ],
+            "evidence_consideration": [
+                "insufficient consideration of relevant evidence and alternatives to detention"
+            ],
+            "reasonableness_of_decision": [
+                "The Board's decision was unreasonable"
+            ],
+            "rehabilitation_or_possibility": [
+                "rehabilitation evidence"
+            ]
+        },
+        {
+            "Crime Name": "Organized Criminality",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA",
+                "Charter"
+            ],
+            "decision_reasoning": [
+                "danger to the public",
+                "unlikely to appear for removal",
+                "past gang involvement",
+                "lack of credibility",
+                "unsuitable bondspersons"
+            ],
+            "evidence_assessment": [
+                "gang was defunct",
+                "past denials do not prove current danger",
+                "alternatives to detention inadequately considered"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was unreasonable",
+                "judicial review granted",
+                "new detention review ordered"
+            ],
+            "cause_of_action": [
+                "perceived danger",
+                "flight risk"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed Board's reasoning"
+            ],
+            "result_of_case": [
+                "Court overturned the Board's decision",
+                "new detention review granted"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "credibility_findings": [
+                "past gang involvement",
+                "credibility issues",
+                "unproven allegations"
+            ],
+            "evidence_sufficiency": [
+                "insufficient consideration of relevant evidence"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "new detention review ordered"
+            ],
+            "procedural_fairness": [
+                "Board's decision unreasonable"
+            ]
+        }
+    ]
+}

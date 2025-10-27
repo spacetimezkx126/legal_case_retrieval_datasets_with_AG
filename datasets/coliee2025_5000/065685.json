@@ -1,0 +1,32 @@
+{
+    "Case ID": "065685",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 113(a)"
+            ],
+            "evidence_assessment": [
+                "new evidence",
+                "pre-dated evidence",
+                "post-dated medical evidence"
+            ],
+            "decision_reasoning": [
+                "failure to adequately consider or explain rejection of new evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness for error of law"
+            ],
+            "application_details": [
+                "PRRA application dismissed",
+                "judicial review application filed"
+            ],
+            "result_of_case": [
+                "Application allowed",
+                "case referred back for reassessment"
+            ]
+        }
+    ]
+}

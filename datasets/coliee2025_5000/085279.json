@@ -1,0 +1,32 @@
+{
+    "Case ID": "085279",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "oral hearing in exceptional circumstances",
+                "respect RPD findings unless new evidence affects outcome"
+            ],
+            "evidence_assessment": [
+                "evaluated all evidence",
+                "no new material facts or credible threats",
+                "mental health letters and other documents deemed repetitive"
+            ],
+            "decision_reasoning": [
+                "PRRA Officer did not err",
+                "insufficient new evidence"
+            ],
+            "procedure_followed": [
+                "judicial review application assessed by Federal Court under IRPA standards"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no intervention warranted"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Case ID": "031826",
+    "Different Crime": [
+        {
+            "Crime Name": "Marital Status Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "concealed marriage",
+                "provided fraudulent documents",
+                "failed to disclose daughter"
+            ],
+            "legal_basis": [
+                "Citizenship Act, section 10"
+            ],
+            "decision_outcome": [
+                "citizenship revoked"
+            ],
+            "evidence_assessment": [
+                "no response with evidence from Laroche"
+            ],
+            "immigration_status": [
+                "Canadian citizenship obtained through fraud"
+            ],
+            "regulatory_compliance": [
+                "violation of Citizenship Act"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Documents Submission",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Citizenship Act, section 10"
+            ],
+            "decision_outcome": [
+                "summary judgment granted"
+            ],
+            "evidence_provided": [
+                "concealed Indian marriage and dependents",
+                "submitted fraudulent documents regarding divorce and family sponsorship"
+            ],
+            "material_misrepresentation": [
+                "concealment of marital status"
+            ],
+            "identity_documents": [
+                "fraudulent documents"
+            ],
+            "relationship_genuineness": [
+                "marital status concealed"
+            ]
+        },
+        {
+            "Crime Name": "Knowingly Concealing Material Circumstances",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act, section 10"
+            ],
+            "evidence_consideration": [
+                "deliberate deception in multiple instances",
+                "failure to disclose marital status and dependents",
+                "providing fraudulent documents regarding divorce and family sponsorship"
+            ],
+            "immigration_status": [
+                "Canadian citizenship"
+            ],
+            "risk_assessment": [
+                "obtained through false representations or fraud"
+            ]
+        }
+    ]
+}

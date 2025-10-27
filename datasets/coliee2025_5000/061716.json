@@ -1,0 +1,35 @@
+{
+    "Case ID": "061716",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade Marks Act"
+            ],
+            "claim_nature": [
+                "trademark ownership",
+                "registration validity"
+            ],
+            "evidence_provided": [
+                "first use by Beam Industries",
+                "abandonment or assignment",
+                "distinctiveness to Beam of Canada"
+            ],
+            "decision_outcome": [
+                "dismissed due to equitable remedies"
+            ],
+            "legal_basis": [
+                "assignor estoppel",
+                "laches",
+                "acquiescence"
+            ],
+            "distinctiveness_evaluation": [
+                "extensive use making mark distinctive"
+            ],
+            "appeal_outcome": [
+                "Court ruled in favor of Beam of Canada"
+            ]
+        }
+    ]
+}

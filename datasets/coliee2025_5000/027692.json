@@ -1,0 +1,77 @@
+{
+    "Case ID": "027692",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "not credible",
+                "failure to seek asylum",
+                "lack of independent corroborating evidence"
+            ],
+            "evidence_assessment": [
+                "insufficient or unreliable documents"
+            ],
+            "refugee_status_eligibility": [
+                "rejected"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Seek Asylum Promptly",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credible evidence"
+            ],
+            "procedural_fairness": [
+                "consider all evidence and provide clear reasoning"
+            ],
+            "reasonableness_standard": [
+                "standard of review for credibility assessments is reasonableness"
+            ],
+            "documentary_evidence": [
+                "insufficient evidence",
+                "submitted documents and oral testimony"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Disorderly Conduct",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies",
+                "lack of corroborating evidence",
+                "delay in seeking asylum"
+            ],
+            "decision_reasonableness": [
+                "Board's decision was reasonable"
+            ],
+            "evidence_assessment": [
+                "documents provided post-hearing were given low weight"
+            ],
+            "standard_of_review": [
+                "credibility assessments reviewed under reasonableness standard",
+                "procedural fairness issues reviewed under correctness"
+            ],
+            "refugee_status": [
+                "claimed refugee status based on alleged persecution in Turkey and conscientious objection to military service"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed the Board's findings on credibility, evidence, and procedural fairness"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ]
+        }
+    ]
+}

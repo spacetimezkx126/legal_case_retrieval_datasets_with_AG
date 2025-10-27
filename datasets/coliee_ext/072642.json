@@ -1,0 +1,232 @@
+{
+    "Case ID": "072642",
+    "Crimes": [
+        {
+            "Crime_Name": "Behaving in a threatening manner towards another person under Penitentiary Service Regulations s. 39(g)",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "Threatening behavior"
+            ],
+            "Perpetrator_Type": [
+                "Inmate"
+            ],
+            "Victim_Status": [
+                "Correctional officers (indirect)"
+            ],
+            "Location_of_Incident": [
+                "Penitentiary / Correctional facility"
+            ],
+            "Threat_Source": [
+                "Verbal threat"
+            ],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [
+                "Threat made to remain in protective custody, not out of malice"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Medium"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient but subject to interpretation"
+            ],
+            "Evidence_Type": [
+                "Testimonial",
+                "Disciplinary record"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Accepted by disciplinary body, reviewed by court"
+            ],
+            "Risk_Assessment": [
+                "Moderate risk of harm"
+            ],
+            "Risk_Type": [
+                "Interpersonal violence risk"
+            ],
+            "Risk_Nature": [
+                "Potential for future violence if not managed"
+            ],
+            "Targeted_Victimization": [
+                "No"
+            ],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Federal penitentiary, Canada"
+            ],
+            "Jurisdiction": [
+                "Federal"
+            ],
+            "Legal_Framework": [
+                "Administrative law",
+                "Penitentiary regulations"
+            ],
+            "Governing_Law": [
+                "Penitentiary Service Regulations"
+            ],
+            "Applicable_Statute": [
+                "Penitentiary Service Regulations"
+            ],
+            "Legal_Provision": [
+                "s. 39(g)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 39(g)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Charge possibly misapplied"
+            ],
+            "Outcome": [
+                "Further submissions ordered"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Potential misapplication of regulatory provision"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Certiorari under s. 18 of the Federal Court Act"
+            ],
+            "Decision_Maker": [
+                "Disciplinary court (initial), Federal Court (review)"
+            ],
+            "Government_Body_Involved": [
+                "Correctional Service of Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Jurisdictional error analysis"
+            ]
+        },
+        {
+            "Crime_Name": "Threatening to assault another person under Penitentiary Service Regulations s. 39(b)",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "Threat to assault"
+            ],
+            "Perpetrator_Type": [
+                "Inmate"
+            ],
+            "Victim_Status": [
+                "Correctional officers (potential, unspecified)"
+            ],
+            "Location_of_Incident": [
+                "Penitentiary / Correctional facility"
+            ],
+            "Threat_Source": [
+                "Verbal threat"
+            ],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [
+                "Threat made to avoid return to general population"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Medium"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient"
+            ],
+            "Evidence_Type": [
+                "Testimonial"
+            ],
+            "Evidence_Credibility": [
+                "Credible"
+            ],
+            "Credibility_Assessment": [
+                "Accepted as stated"
+            ],
+            "Risk_Assessment": [
+                "Moderate risk of harm"
+            ],
+            "Risk_Type": [
+                "Generalized threat of violence"
+            ],
+            "Risk_Nature": [
+                "Potential for future violence"
+            ],
+            "Targeted_Victimization": [
+                "No"
+            ],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Federal penitentiary, Canada"
+            ],
+            "Jurisdiction": [
+                "Federal"
+            ],
+            "Legal_Framework": [
+                "Administrative law",
+                "Penitentiary regulations"
+            ],
+            "Governing_Law": [
+                "Penitentiary Service Regulations"
+            ],
+            "Applicable_Statute": [
+                "Penitentiary Service Regulations"
+            ],
+            "Legal_Provision": [
+                "s. 39(b)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 39(b)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Likely correct charge under s. 39(b)"
+            ],
+            "Outcome": [
+                "Further submissions requested to confirm"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Incorrect initial charging under s. 39(g) instead of s. 39(b)"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Certiorari under s. 18 of the Federal Court Act"
+            ],
+            "Decision_Maker": [
+                "Disciplinary court (initial), Federal Court (review)"
+            ],
+            "Government_Body_Involved": [
+                "Correctional Service of Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Statutory interpretation and jurisdictional review"
+            ]
+        }
+    ]
+}

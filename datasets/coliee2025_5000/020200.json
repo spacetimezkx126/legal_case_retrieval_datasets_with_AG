@@ -1,0 +1,31 @@
+{
+    "Case ID": "020200",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "insufficient documentation",
+                "interview notes"
+            ],
+            "procedural_fairness": [
+                "opportunities to provide documentation"
+            ],
+            "material_misrepresentation": [
+                "inability to provide adequate proof"
+            ],
+            "judicial_authority": [
+                "court"
+            ],
+            "standard_of_review": [
+                "credibility issues"
+            ]
+        }
+    ]
+}

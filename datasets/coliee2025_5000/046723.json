@@ -1,0 +1,165 @@
+{
+    "Case ID": "046723",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "no nexus between fear and Convention grounds"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection available"
+            ],
+            "internal_flight_alternative": [
+                "internal flight alternative existed in Mexico City"
+            ],
+            "risk_assessment": [
+                "credible threats from corrupt police",
+                "lacked effective recourse"
+            ],
+            "decision_outcome": [
+                "Board's decision quashed",
+                "referred back for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "lacked a nexus to Convention grounds"
+            ],
+            "state_protection": [
+                "adequate state protection existed"
+            ],
+            "internal_flight_alternative": [
+                "internal flight alternative was viable"
+            ],
+            "risk_characterization": [
+                "immediate threat"
+            ],
+            "evidence_provided": [
+                "credible evidence suggesting otherwise"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "quashed"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "persecution_details": [
+                "refusal to participate in illegal activities",
+                "attempts to report corruption"
+            ],
+            "appeal_outcome": [
+                "allowed"
+            ],
+            "cause_of_action": [
+                "fear of persecution by Mexican federal security forces"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_of_persecution": [
+                "threats",
+                "assaults"
+            ],
+            "nexus_to_convention_grounds": [
+                "no nexus found by Board"
+            ],
+            "state_protection_analysis": [
+                "deemed sufficient by Board"
+            ],
+            "internal_flight_alternative": [
+                "Mexico City identified as alternative"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "corrupt police officers",
+                "refusing to transport drugs",
+                "reporting corruption"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "fear of persecution",
+                "nexus to Convention grounds"
+            ],
+            "state_protection_analysis": [
+                "adequate state protection",
+                "internal flight alternative"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_credibility": [
+                "credible evidence suggesting otherwise"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "immediate threat"
+            ],
+            "decision_outcome": [
+                "quashed"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_to_national_security": [],
+            "membership_in_organization": [],
+            "legal_basis": [
+                "Convention refugee",
+                "well-founded fear of persecution"
+            ],
+            "involvement_details": [
+                "refusal to transport illicit drugs",
+                "reporting corruption"
+            ],
+            "court_ruling": [
+                "referred back to another Board member for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "state_protection": [
+                "unavailable",
+                "other agencies could provide protection"
+            ],
+            "internal_flight_alternative": [
+                "Mexico City was a safe alternative"
+            ],
+            "risk_of_persecution": [
+                "credible evidence of ongoing persecution"
+            ],
+            "decision_reasoning": [
+                "Board erred by failing to consider severity of threat"
+            ],
+            "conclusion_outcome": [
+                "Decision unreasonable; case remanded for reconsideration"
+            ],
+            "cause_of_action": [
+                "Applicant feared Mexican security forces after refusing to transport drugs and reporting corruption"
+            ],
+            "procedure_followed": [
+                "Judicial review of Board decision rejecting refugee status"
+            ],
+            "result_of_case": [
+                "Court quashed Board's decision, referring it back for reconsideration"
+            ]
+        }
+    ]
+}

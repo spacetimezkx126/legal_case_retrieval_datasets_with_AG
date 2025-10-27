@@ -1,0 +1,31 @@
+{
+    "Case ID": "000796",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "3 years of residence in Canada within the 4 years preceding application",
+                "1095 days requirement"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "applicable_statute": [
+                "Citizenship Act, subsection 5(1)(c)"
+            ],
+            "decision_outcome": [
+                "citizenship application rejected"
+            ],
+            "legal_basis": [
+                "statutory interpretation"
+            ],
+            "mitigating_factors": [
+                "frequent but brief absences, primarily for business"
+            ]
+        }
+    ]
+}

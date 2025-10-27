@@ -1,0 +1,57 @@
+{
+    "Case ID": "030703",
+    "Different Crime": [
+        {
+            "Crime Name": "Acts of violence endangering lives or safety of persons",
+            "Crime Type": "Violence-related_Crimes",
+            "membership_in_organization": [
+                "MQM-A",
+                "APMSO"
+            ],
+            "complicity_in_crimes": [
+                "terrorism"
+            ],
+            "legal_basis": [
+                "s. 34(1)(f) of the Immigration and Refugee Protection Act",
+                "s. 72(1) of the Act"
+            ],
+            "evidence_consideration": [
+                "multiple sources indicating organizations engaged in terrorism",
+                "expert evidence questioning reliability"
+            ],
+            "reasonableness_of_decision": [
+                "no legal error in officer's decision"
+            ],
+            "result": [
+                "upheld officer's decision",
+                "dismissed application"
+            ]
+        },
+        {
+            "Crime Name": "Espionage",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 34(1)(f) of the Immigration and Refugee Protection Act"
+            ],
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "evidence_credibility": [
+                "documented evidence",
+                "expert testimony questioning reliability"
+            ],
+            "decision_outcome": [
+                "deemed inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable weighing of evidence"
+            ],
+            "applicable_law_section": [
+                "s. 34(1)(f)"
+            ]
+        }
+    ]
+}

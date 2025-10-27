@@ -1,0 +1,104 @@
+{
+    "Case ID": "036162",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.4"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage primarily for acquiring status",
+                "not genuine marriage"
+            ],
+            "procedural_fairness": [
+                "examined"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "officer's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "unreasonable determination",
+                "inconsistencies in testimonies"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "IRPA s. 4"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "upheld the officer's decision"
+            ],
+            "appeal_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "marriage fraud"
+            ],
+            "nature_of_offense": [
+                "entered into primarily for acquiring status or privilege"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 4"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "evidence_consideration": [
+                "inconsistencies in testimonies",
+                "family details",
+                "living arrangements"
+            ],
+            "immigration_status": [
+                "refugee status",
+                "permanent residence application"
+            ],
+            "applicant_involvement": [
+                "Corona and Santos married shortly after Santos gained refugee status"
+            ],
+            "procedural_fairness": [
+                "officer's decision reviewed under reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 4"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "inconsistencies in testimonies about family details and living arrangements"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "officer's decision deemed reasonable"
+            ],
+            "immigration_status": [
+                "refugee status",
+                "permanent residence application dismissed"
+            ],
+            "court_ruling": [
+                "Federal Court upheld the officer's decision"
+            ]
+        }
+    ]
+}

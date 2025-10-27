@@ -1,0 +1,31 @@
+{
+    "Case ID": "042979",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "prior credibility concerns",
+                "no central credibility issue"
+            ],
+            "evidence_assessment": [
+                "new evidence (arrest warrants, medical report)",
+                "deemed evidence insufficient"
+            ],
+            "procedural_fairness": [
+                "oral hearing not required",
+                "aligned with IRPA provisions"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "no errors found in PRRA officer's decision"
+            ],
+            "refugee_status_eligibility": [
+                "failed refugee claim due to credibility issues"
+            ],
+            "standard_of_review": [
+                "judicial review application under IRPA s.72(1)"
+            ]
+        }
+    ]
+}

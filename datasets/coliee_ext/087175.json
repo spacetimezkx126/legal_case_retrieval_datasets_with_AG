@@ -1,0 +1,50 @@
+{
+    "Case ID": "087175",
+    "Crimes": [
+        {
+            "Crime_Name": "Threatening",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Refugee Status Determination",
+            "Legal_Provision_Involved": "Immigration and Refugee Protection Act",
+            "Outcome": "Application for judicial review dismissed",
+            "Grounds_for_Claim": "Fear of persecution due to gang threats in Argentina",
+            "Remedy_Requested": "Recognition as Convention refugees or persons in need of protection"
+        },
+        {
+            "Crime_Name": "Failure to Testify in Court",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Failure to rebut presumption of state protection",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Procedural_Stage": "Judicial review of refugee claim determination",
+            "Evidence_Assessment": "Applicant's refusal to testify due to fear of gang retaliation",
+            "Decision_Outcome": "Application for judicial review dismissed"
+        },
+        {
+            "Crime_Name": "Kidnapping Attempt",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Attempted abduction",
+            "Perpetrator_Type": "Criminal gang",
+            "Victim_Status": "Individuals seeking refugee protection",
+            "Location_of_Incident": "Argentina",
+            "Risk_Nature": "Targeted violence by non-state actors"
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Economic coercion through threats",
+            "Perpetrator_Type": "Criminal gang",
+            "Victim_Status": "Individuals under threat for financial gain",
+            "Location_of_Incident": "Argentina",
+            "Risk_Assessment": "Serious possibility of harm if returned"
+        },
+        {
+            "Crime_Name": "Misrepresentation of State Protection Capability",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Legal_Issue": "Assessment of state protection adequacy in home country",
+            "Governing_Law": "Immigration and Refugee Protection Act",
+            "Credibility_Assessment": "Claimants failed to report ongoing threats despite prior police intervention",
+            "Evidence_Type": "Testimonial and documentary evidence on police response",
+            "Cause_of_Refusal": "Failure to demonstrate lack of effective state protection"
+        }
+    ]
+}

@@ -1,0 +1,741 @@
+{
+    "Case ID": "002512",
+    "Crimes": [
+        {
+            "Crime_Name": "Threatening death",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "corrupt police"
+            ],
+            "Victim_Status": [
+                "applicants",
+                "family members"
+            ],
+            "Location_of_Incident": [
+                "Mexico City",
+                "Veracruz"
+            ],
+            "Threat_Source": [
+                "corrupt police"
+            ],
+            "Aggravating_Factors": [
+                "political opinion",
+                "systemic corruption"
+            ],
+            "Mitigating_Factors": [
+                "population size of Mexico City",
+                "efforts to curb corruption"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "insufficient evidence that persecutors would pursue applicants in Mexico City"
+            ],
+            "Evidence_Type": [
+                "applicant testimony",
+                "country condition reports"
+            ],
+            "Evidence_Credibility": [
+                "credibility assessed but not fully accepted"
+            ],
+            "Credibility_Assessment": [
+                "Board found lack of clear evidence supporting continued threat"
+            ],
+            "Risk_Assessment": [
+                "risk deemed manageable in Mexico City"
+            ],
+            "Risk_Type": [
+                "persecution risk due to political opinion"
+            ],
+            "Risk_Nature": [
+                "targeted by state actors"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "male applicant and family"
+            ],
+            "Targeted_Individual_Status": [
+                "refugee claimants"
+            ],
+            "Geographic_Context": [
+                "urban relocation within Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada - Immigration and Refugee Board"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, sections related to Convention refugee status"
+            ],
+            "Applicable_Statute": [
+                "section 97(1) IRPA"
+            ],
+            "Legal_Provision": [
+                "internal flight alternative",
+                "state protection"
+            ],
+            "Legal_Provision_Cited": [
+                "section 97(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "application for refugee status denied"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "standard of review: reasonableness"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of IRB decision"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "torture"
+            ],
+            "Perpetrator_Type": [
+                "police officers"
+            ],
+            "Victim_Status": [
+                "male applicant"
+            ],
+            "Location_of_Incident": [
+                "Veracruz"
+            ],
+            "Threat_Source": [
+                "state actors (police)"
+            ],
+            "Aggravating_Factors": [
+                "state involvement",
+                "torture"
+            ],
+            "Mitigating_Factors": [
+                "relocation to large city with presumed protection"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "very high"
+            ],
+            "Evidence_Sufficiency": [
+                "evidence of torture acknowledged, but no proof of nationwide pursuit"
+            ],
+            "Evidence_Type": [
+                "personal testimony",
+                "medical or circumstantial evidence implied"
+            ],
+            "Evidence_Credibility": [
+                "partially accepted, but insufficient to prove ongoing danger"
+            ],
+            "Credibility_Assessment": [
+                "credible allegations but not sufficient to rebut state protection presumption"
+            ],
+            "Risk_Assessment": [
+                "risk not considered ongoing in Mexico City"
+            ],
+            "Risk_Type": [
+                "persecution by state actors"
+            ],
+            "Risk_Nature": [
+                "targeted due to prior incident"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "male applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "asylum seeker"
+            ],
+            "Geographic_Context": [
+                "internal relocation within Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA, section 96 and 97"
+            ],
+            "Applicable_Statute": [
+                "section 96 IRPA (refugee definition)"
+            ],
+            "Legal_Provision": [
+                "internal flight alternative",
+                "state protection"
+            ],
+            "Legal_Provision_Cited": [
+                "section 97(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "refugee claim rejected"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "standard of review on IFA and state protection"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "application for judicial review"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Government_Body_Involved": [
+                "IRB"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court of Canada"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Kidnapping",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "corrupt police",
+                "organized crime"
+            ],
+            "Victim_Status": [
+                "male applicant",
+                "family"
+            ],
+            "Location_of_Incident": [
+                "Veracruz"
+            ],
+            "Threat_Source": [
+                "state actors",
+                "organized crime"
+            ],
+            "Aggravating_Factors": [
+                "involvement of corrupt police",
+                "organized crime links"
+            ],
+            "Mitigating_Factors": [
+                "size of Mexico City",
+                "government anti-crime efforts"
+            ],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "extreme"
+            ],
+            "Evidence_Sufficiency": [
+                "evidence of kidnapping present, but not of nationwide reach"
+            ],
+            "Evidence_Type": [
+                "applicant testimony",
+                "country condition reports"
+            ],
+            "Evidence_Credibility": [
+                "allegations credible but not conclusive for IFA failure"
+            ],
+            "Credibility_Assessment": [
+                "consistent narrative but lacks corroborative evidence of ongoing threat"
+            ],
+            "Risk_Assessment": [
+                "risk not proven beyond Mexico City"
+            ],
+            "Risk_Type": [
+                "persecution by state-linked actors"
+            ],
+            "Risk_Nature": [
+                "targeted due to past victimization"
+            ],
+            "Targeted_Victimization": [
+                "yes"
+            ],
+            "Targeted_Individual": [
+                "male applicant and family"
+            ],
+            "Targeted_Individual_Status": [
+                "refugee claimants"
+            ],
+            "Geographic_Context": [
+                "internal relocation in Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "section 96 and 97 IRPA"
+            ],
+            "Legal_Provision": [
+                "internal flight alternative",
+                "state protection"
+            ],
+            "Legal_Provision_Cited": [
+                "section 97(1) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "refugee status not granted"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "reasonableness standard applied"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "federal court review of IRB decision"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Government_Body_Involved": [
+                "IRB"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to provide protection (state actors)",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "failure to protect from persecution"
+            ],
+            "Legal_Issue": [
+                "adequacy of state protection in Mexico City"
+            ],
+            "Governing_Law": [
+                "IRPA",
+                "Refugee Convention"
+            ],
+            "Application_Facts": [
+                "applicants feared persecution by corrupt police"
+            ],
+            "Decision_Outcome": [
+                "state protection deemed adequate"
+            ],
+            "Remedy_Requested": [
+                "refugee protection in Canada"
+            ],
+            "Court_Ruling": [
+                "no error in Board's assessment"
+            ],
+            "Claimant_Status": [
+                "refugee claimants"
+            ],
+            "Defendant_Behavior": [
+                "alleged inaction or complicity of Mexican authorities"
+            ],
+            "Grounds_for_Claim": [
+                "lack of effective state protection",
+                "risk of persecution"
+            ],
+            "Legal_Standard": [
+                "reasonableness"
+            ],
+            "Assessment_Factor": [
+                "presumption of state protection",
+                "feasibility of internal relocation"
+            ],
+            "Applicable_Legislation": [
+                "IRPA section 97(1)"
+            ],
+            "Procedural_Issue": [
+                "standard of review"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Credibility_Assessment": [
+                "claimants' fears noted but not substantiated sufficiently"
+            ],
+            "Evidence_Used": [
+                "country condition reports",
+                "applicant testimony"
+            ],
+            "Legal_Provision_Cited": [
+                "section 97(1) IRPA"
+            ],
+            "Application_Basis": [
+                "Convention refugee definition"
+            ],
+            "Evidence_Assessed": [
+                "lack of evidence showing active pursuit in Mexico City"
+            ],
+            "Relief_Sought": [
+                "refugee status"
+            ],
+            "Governing_Rule": [
+                "presumption of state protection unless rebutted"
+            ],
+            "Evidentiary_Deficiency": [
+                "no clear evidence of inability to access protection in Mexico City"
+            ],
+            "Outcome": [
+                "application dismissed"
+            ],
+            "Decisional_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Harm_Assessment": [
+                "potential harm not deemed unavoidable"
+            ],
+            "Cause_Description": [
+                "fear of persecution due to police corruption and organized crime"
+            ],
+            "Evidence_Handling": [
+                "evidence considered but not found persuasive"
+            ],
+            "Legal_Provision_Violated": [],
+            "Evidence_Issues": [
+                "insufficient corroboration"
+            ],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "section 97(1) IRPA"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "reasonable evaluation by Board"
+            ],
+            "Decision_Rationale": [
+                "IFA viable and state protection adequate"
+            ],
+            "Country_of_Origin": [
+                "Mexico"
+            ],
+            "Decision_Making_Body": [
+                "IRB"
+            ],
+            "Evidentiary_Issues": [
+                "lack of concrete evidence of nationwide threat"
+            ],
+            "Legal_Standard_Applied": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Bribery",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "corruption as basis for fear of persecution"
+            ],
+            "Governing_Law": [
+                "IRPA",
+                "Refugee Convention"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "evidence did not show nationwide reach of corrupt officers"
+            ],
+            "Decision_Outcome": [
+                "refugee claim denied"
+            ],
+            "Burden_of_Proof": [
+                "on applicants to show inadequate state protection"
+            ],
+            "Credibility_Factor": [
+                "testimony considered but not sufficient"
+            ],
+            "Legal_Rule": [
+                "presumption of state protection"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Procedural_Issue": [
+                "review of IFA and state protection"
+            ],
+            "Grounds_for_Claim": [
+                "fear of persecution due to bribery and corruption"
+            ],
+            "Outcome_on_Merits": [
+                "claim failed"
+            ],
+            "Decision_Maker": [
+                "Immigration and Refugee Board"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "process found fair"
+            ],
+            "Key_Evidence_Considered": [
+                "applicant testimony",
+                "country reports on corruption"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "challenged adequacy of IFA and state protection"
+            ],
+            "Court_Result": [
+                "Board’s decision upheld"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA",
+                "case law on IFA"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "testimonial",
+                "documentary"
+            ],
+            "Remedy_Requested": [
+                "refugee protection"
+            ],
+            "Outcome": [
+                "dismissed"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "refugee status"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "section 97(1) IRPA"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "refugee claimants"
+            ],
+            "Legal_Provision_Cited": [
+                "section 97(1) IRPA"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "corruption-related persecution"
+            ],
+            "Applicable_Process": [
+                "refugee determination process"
+            ],
+            "Outcome_of_Review": [
+                "upheld"
+            ],
+            "Pending_Relief_or_Application": [
+                "refugee claim"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Governing_Rule": [
+                "reasonableness standard for IFA and state protection"
+            ]
+        },
+        {
+            "Crime_Name": "Torture",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [],
+            "Legal_Provision_Involved": [
+                "Convention Against Torture",
+                "section 97(1) IRPA"
+            ],
+            "Outcome": [
+                "protection not granted"
+            ],
+            "Grounds_for_Claim": [
+                "past torture by state actors",
+                "fear of future torture"
+            ],
+            "Remedy_Requested": [
+                "refugee protection under CAT"
+            ],
+            "Legal_Framework": [
+                "IRPA",
+                "UN Convention Against Torture"
+            ],
+            "Standard_of_Review": [
+                "reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "clear and convincing evidence of risk"
+            ],
+            "Decision_Outcome": [
+                "no substantial risk of torture found in Mexico City"
+            ],
+            "Institutional_Action": [
+                "IRB denial of claim"
+            ],
+            "Government_Body_or_Authority": [
+                "Mexican police",
+                "IRB",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "presumption of state protection"
+            ],
+            "Evidence_Type": [
+                "personal testimony",
+                "country condition evidence"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "refugee claimant under risk of torture"
+            ],
+            "Nature_of_Participation": [
+                "victim of state-sponsored torture"
+            ],
+            "Temporal_Context": [
+                "after 2018 kidnapping and torture incident"
+            ],
+            "Geographic_Context": [
+                "Veracruz to Mexico City relocation"
+            ],
+            "Personal_Data_Implicated": [],
+            "Legal_Statute": [
+                "section 97(1) IRPA",
+                "CAT Article 3"
+            ],
+            "Assessment_Standard": [
+                "real risk test"
+            ],
+            "Governing_Body": [
+                "Immigration and Refugee Board"
+            ],
+            "Complaint_Issues": [
+                "state complicity in torture"
+            ],
+            "Grounds_for_Discrimination": [],
+            "Role_of_Person": [
+                "victim"
+            ],
+            "Protected_Group": [
+                "individuals targeted by state actors"
+            ],
+            "Legal_Standard": [
+                "real risk of torture"
+            ],
+            "Protection_Claim": [
+                "non-refoulement under CAT"
+            ],
+            "State_Protection_Assessment": [
+                "deemed adequate despite systemic issues"
+            ],
+            "Risk_Factor": [
+                "history of police abuse"
+            ],
+            "Credibility": [
+                "partially accepted"
+            ],
+            "Legal_Provision": [
+                "section 97(1) IRPA",
+                "Article 3 CAT"
+            ],
+            "Targeted_Group": [
+                "individuals opposing corrupt officials"
+            ],
+            "State_Protection_Adequacy": [
+                "presumed unless clearly rebutted"
+            ],
+            "Risk_Nature": [
+                "targeted state-perpetrated torture"
+            ],
+            "Enforcement_Action": [
+                "denial of refugee status"
+            ],
+            "Claimant_Status": [
+                "refugee claimant"
+            ],
+            "Perpetrator_Entity": [
+                "Mexican police"
+            ],
+            "Legal_Basis": [
+                "fear of persecution and torture"
+            ],
+            "Victim_Basis": [
+                "survivor of torture"
+            ]
+        }
+    ]
+}

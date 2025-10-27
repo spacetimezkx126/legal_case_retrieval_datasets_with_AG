@@ -1,0 +1,78 @@
+{
+    "Case ID": "087202",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Provide Protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "high-ranking official",
+                "abuse"
+            ],
+            "internal_flight_alternative": [
+                "not properly assessed"
+            ],
+            "evidence_assessment": [
+                "clear evidence rebutting presumption of state protection"
+            ],
+            "refugee_status_eligibility": [
+                "applicant claimed refugee status"
+            ],
+            "decision_outcome": [
+                "Board's decision set aside",
+                "remitted for redetermination",
+                "application granted"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequate",
+                "corruption",
+                "ineffective protection"
+            ],
+            "internal_flight_alternative": [
+                "not properly applied",
+                "two-step IFA test"
+            ],
+            "reasonableness_standard": [
+                "unreasonable decision"
+            ],
+            "risk_characterization": [
+                "specific targeting",
+                "high-ranking official"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee protection claim"
+            ],
+            "judicial_authority": [
+                "judicial review of the Board's decision"
+            ],
+            "appeal_outcome": [
+                "decision set aside",
+                "case remitted for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate analysis of applicant's personal situation regarding state protection"
+            ],
+            "internal_flight_alternative": [
+                "failed to properly apply the IFA test",
+                "focused only on Mexico City without addressing Hidalgo's inadequacies"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was unreasonable"
+            ],
+            "country_conditions": [
+                "applicant fled Mexico due to abuse by a high-ranking official"
+            ],
+            "risk_assessment": [
+                "lack of proper risk assessment in relation to state protection and internal flight alternative"
+            ]
+        }
+    ]
+}

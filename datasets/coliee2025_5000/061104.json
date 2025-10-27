@@ -1,0 +1,27 @@
+{
+    "Case ID": "061104",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistent actions",
+                "vague testimony",
+                "speculative testimony"
+            ],
+            "evidence_assessment": [
+                "failure to seek asylum in the UK",
+                "voluntary returns to Turkey"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected"
+            ],
+            "procedural_fairness": [
+                "clear and unmistakable reasons required"
+            ],
+            "risk_of_persecution": [
+                "implied skepticism about fear of persecution"
+            ]
+        }
+    ]
+}

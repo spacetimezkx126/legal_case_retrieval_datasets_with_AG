@@ -1,0 +1,78 @@
+{
+    "Case ID": "014374",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act",
+                "IRPA admissibility hearing"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraud charges"
+            ],
+            "decision_outcome": [
+                "No writ issued currently, court will reassess in two months"
+            ],
+            "regulatory_compliance": [
+                "delays beyond 60 days without valid reasons are unreasonable"
+            ],
+            "standard_of_review": [
+                "court analyzed delays and legislative requirements"
+            ]
+        },
+        {
+            "Crime Name": "Uttering a false statement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Citizenship Act",
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "No writ of mandamus issued"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed"
+            ],
+            "applicable_statute": [
+                "section 44 report"
+            ],
+            "judicial_authority": [
+                "court retains jurisdiction"
+            ],
+            "mitigating_factors": [
+                "Recent actions suggest progress"
+            ],
+            "cause_of_action": [
+                "Unreasonable delay in processing citizenship application"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act",
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "unreasonableness"
+            ],
+            "decision_reasoning": [
+                "delays in processing citizenship application",
+                "ongoing investigations into criminal record",
+                "recent progress but earlier significant delays"
+            ],
+            "application_details": [
+                "judicial review seeking mandamus to compel timely processing"
+            ],
+            "result_of_case": [
+                "no writ issued currently",
+                "court retains jurisdiction",
+                "Minister must act within two months"
+            ]
+        }
+    ]
+}

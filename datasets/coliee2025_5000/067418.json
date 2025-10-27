@@ -1,0 +1,33 @@
+{
+    "Case ID": "067418",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "violations of rights",
+                "improper record-keeping"
+            ],
+            "specific_rule_applied": [
+                "Federal Courts Rules, Rule 221(1)"
+            ],
+            "application_details": [
+                "lacked material facts",
+                "time-barred under Quebec's Civil Code",
+                "failed to establish fault or injury"
+            ],
+            "decision_reasoning": [
+                "did not meet simplified action criteria",
+                "non-compliance with procedural rules"
+            ],
+            "result_of_case": [
+                "appeal dismissed"
+            ],
+            "procedure_steps": [
+                "motion to strike",
+                "Prothonotary's order",
+                "appeal to the Federal Court"
+            ]
+        }
+    ]
+}

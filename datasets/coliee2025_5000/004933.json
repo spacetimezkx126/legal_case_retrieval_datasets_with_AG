@@ -1,0 +1,30 @@
+{
+    "Case ID": "004933",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "mootness": [
+                "yes"
+            ],
+            "discretion_exercise": [
+                "court discretion on moot cases"
+            ],
+            "cause_of_action": [
+                "judicial review of exemption granted by the Minister"
+            ],
+            "procedure_followed": [
+                "CUPE filed for judicial review",
+                "issue became moot after amendments"
+            ],
+            "decision_reasoning": [
+                "exemption issue regulated, no adversarial context",
+                "limited impact due to Minister's discretion under Aeronautics Act"
+            ],
+            "result_of_case": [
+                "motion and application dismissed",
+                "costs awarded to respondents"
+            ]
+        }
+    ]
+}

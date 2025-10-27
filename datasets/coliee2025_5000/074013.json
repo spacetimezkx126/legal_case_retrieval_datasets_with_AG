@@ -1,0 +1,89 @@
+{
+    "Case ID": "074013",
+    "Different Crime": [
+        {
+            "Crime Name": "Knowingly concealing material circumstances in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "knowingly concealing material circumstances"
+            ],
+            "evidence_assessment": [
+                "failed to disclose criminal charges",
+                "belief that charges were minor does not excuse non-disclosure"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "decision_outcome": [
+                "revocation of Canadian citizenship"
+            ],
+            "criminality_inadmissibility": [
+                "concealed criminal charges related to drug offenses"
+            ]
+        },
+        {
+            "Crime Name": "Resisting a peace officer",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "decision_reasoning": [
+                "Defendant failed to disclose indictable charges",
+                "Understood warnings and questions despite limited English",
+                "Belief that charges were minor does not justify nondisclosure"
+            ],
+            "evidence_assessment": [
+                "Testimonies from citizenship officials and defendant"
+            ],
+            "conclusion_outcome": [
+                "Citizenship obtained by false representation and knowingly concealing material circumstances"
+            ],
+            "result_of_case": [
+                "Citizenship revoked",
+                "No costs ordered against defendant"
+            ],
+            "relevant_statute": [
+                "Citizenship Act"
+            ],
+            "claim_nature": [
+                "False representation, fraud, or knowingly concealing material circumstances"
+            ],
+            "procedure_followed": [
+                "Minister referred case to Federal Court"
+            ],
+            "standard_of_proof": [
+                "Significance of undisclosed information"
+            ],
+            "discretion_exercise": [
+                "Materiality determination"
+            ],
+            "court_ruling": [
+                "Citizenship obtained by false means"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a narcotic",
+            "Crime Type": "Drug-related_Crimes",
+            "citizenship_eligibility": [
+                "revocation of citizenship"
+            ],
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "evidence_considered": [
+                "failure to disclose indictable charges"
+            ],
+            "decision_outcome": [
+                "citizenship obtained by false representation or fraud"
+            ],
+            "applicable_law_or_regulation": [
+                "a person cannot obtain citizenship through false representation, fraud, or knowingly concealing material circumstances"
+            ],
+            "parties_involved": [
+                "defendant",
+                "Minister",
+                "Federal Court"
+            ]
+        }
+    ]
+}

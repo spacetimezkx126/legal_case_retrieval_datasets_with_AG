@@ -1,0 +1,71 @@
+{
+    "Case ID": "099295",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "unsubstantiated belief",
+                "lack of objective evidence"
+            ],
+            "evidence_assessment": [
+                "clear evidence required",
+                "no documentary evidence provided"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "risk_assessment": [
+                "fear of persecution"
+            ],
+            "misrepresentation_or_fraud": [
+                "border document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Drug smuggling",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "unavailable_or_ineffective"
+            ],
+            "credibility_findings": [
+                "subjective_and_uncorroborated"
+            ],
+            "evidence_sufficiency": [
+                "insufficient_evidence"
+            ],
+            "refugee_status": [
+                "claim_denied"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "decision_made_by": [
+                "court"
+            ]
+        },
+        {
+            "Crime Name": "Forced prostitution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "unavailable",
+                "insufficient evidence rebutting this presumption"
+            ],
+            "procedural_fairness": [
+                "standard of review is patent unreasonableness"
+            ],
+            "credibility_findings": [
+                "story fabricated"
+            ],
+            "burden_of_proof": [
+                "objective evidence that state protection is unavailable or unreasonable to seek"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "judicial_review_process": [
+                "Board denied refugee claim; judicial review sought; Federal Court analyzed Board's decision on state protection"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Case ID": "076298",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "contradictions",
+                "omissions",
+                "discrepancies in dates",
+                "failure to report significant threats"
+            ],
+            "reasonableness_standard": [
+                "justification",
+                "transparency",
+                "intelligibility of the process"
+            ],
+            "evidence_assessment": [
+                "psychological assessments"
+            ],
+            "decision_outcome": [
+                "upheld the panel's decision"
+            ],
+            "burden_of_proof": [
+                "credibility was questioned"
+            ],
+            "specific_threats": [
+                "domestic violence"
+            ]
+        }
+    ]
+}

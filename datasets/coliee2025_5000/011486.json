@@ -1,0 +1,62 @@
+{
+    "Case ID": "011486",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "children's short-term welfare",
+                "irreparable harm",
+                "Canadian-born children"
+            ],
+            "decision_outcome": [
+                "stay of removal"
+            ],
+            "legal_basis": [
+                "IRPA s. 48",
+                "Convention on the Rights of the Child"
+            ],
+            "family_class_considerations": [
+                "removal of a parent",
+                "Canadian-born children",
+                "precarious care"
+            ],
+            "procedural_fairness": [
+                "limited discretion",
+                "adequately consider"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "short-term child welfare",
+                "serious issue",
+                "balance of convenience"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with reporting conditions",
+            "Crime Type": "others",
+            "best_interests_of_children": [
+                "best interests of children involved",
+                "children's best interests"
+            ],
+            "decision_reasoning": [
+                "removal officer did not adequately consider the children's best interests",
+                "constituting irreparable harm"
+            ],
+            "application_details": [
+                "applicant failed to comply with reporting conditions and resisted removal attempts"
+            ],
+            "relevant_statute": [
+                "IRPA s. 48"
+            ],
+            "procedure_followed": [
+                "Judicial review application and motion for stay of removal were filed"
+            ],
+            "result_of_case": [
+                "Removal was stayed pending full assessment of children's best interests or judicial review outcome"
+            ],
+            "cause_of_action": [
+                "Applicant's failure to comply with reporting conditions and removal attempts, coupled with concerns for her children's welfare"
+            ]
+        }
+    ]
+}

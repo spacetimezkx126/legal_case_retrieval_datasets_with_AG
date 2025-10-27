@@ -1,0 +1,48 @@
+{
+    "Case ID": "015134",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA Section 108(4)",
+                "IRPR paragraph 139(1)(d)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "involvement with the Civil Defense Unit"
+            ],
+            "decision_outcome": [
+                "complicity determination quashed",
+                "remainder of applications dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review of Officer Blouin's decision"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "compelling_reasons": [
+                "section 108(4) of IRPA"
+            ],
+            "evidence_assessment": [
+                "prima facie evidence of 'appalling' or 'atrocious' past persecution"
+            ],
+            "refugee_definition": [
+                "requirement for assessment before rejecting refugee claims"
+            ],
+            "burden_of_proof": [
+                "threshold for 'appalling' or 'atrocious' persecution not met"
+            ],
+            "decision_outcome": [
+                "Decision quashed regarding complicity in crimes against humanity; application dismissed on other grounds"
+            ],
+            "judicial_review_process": [
+                "analyzed whether Officer Blouin erred in rejecting applications without considering section 108(4)"
+            ]
+        }
+    ]
+}

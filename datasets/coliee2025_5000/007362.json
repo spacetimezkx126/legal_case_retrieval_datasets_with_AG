@@ -1,0 +1,58 @@
+{
+    "Case ID": "007362",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent gain of Convention refugee status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "vacated due to fraudulent concealment"
+            ],
+            "credibility_assessment": [
+                "inconsistent testimony",
+                "not credible"
+            ],
+            "evidence_assessment": [
+                "forensic evidence",
+                "expert evidence on passport authenticity"
+            ],
+            "misrepresentation_or_fraud": [
+                "concealment of material facts",
+                "fraudulent citizenship claim"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "refugee status vacated"
+            ]
+        },
+        {
+            "Crime Name": "Concealment of material fact",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 69.2(2) and (3) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "vacate refugee status"
+            ],
+            "evidence_provided": [
+                "forensic analysis",
+                "expert testimony"
+            ],
+            "material_misrepresentation": [
+                "concealed Djiboutian citizenship",
+                "used false Somali identities and passports"
+            ],
+            "judicial_authority": [
+                "CRDD"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "fraudulently obtained refugee status"
+            ],
+            "procedural_fairness": [
+                "judicial review of CRDD's decision"
+            ]
+        }
+    ]
+}

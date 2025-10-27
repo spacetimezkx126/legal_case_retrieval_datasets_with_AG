@@ -1,0 +1,26 @@
+{
+    "Case ID": "013969",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review of Immigration Decision",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "violation",
+                "failure to provide opportunity to respond"
+            ],
+            "document_authenticity": [
+                "concerns about document genuineness"
+            ],
+            "credibility_assessment": [
+                "credibility concerns"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case remanded for reassessment"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged fraudulent documents"
+            ]
+        }
+    ]
+}

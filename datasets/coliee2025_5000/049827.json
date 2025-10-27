@@ -1,0 +1,101 @@
+{
+    "Case ID": "049827",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 4(3) of the Regulations"
+            ],
+            "credibility_assessment": [
+                "discrepancies in testimony",
+                "concerns about marriage genuineness"
+            ],
+            "procedural_fairness": [
+                "Board's decision-making process examined"
+            ],
+            "decision_outcome": [
+                "Board's decision upheld",
+                "judicial review application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubts about marriage's genuineness"
+            ],
+            "family_class_considerations": [
+                "spouse cannot be part of family class if marriage primarily for immigration"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "not genuine",
+                "discrepancies in testimony"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 4(3) of the Regulations"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review",
+                "Board's determination upheld"
+            ],
+            "evidence_provided": [
+                "discrepancies in testimony regarding marriage ceremonies, birth control, and knowledge of each other"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "judicial_authority": [
+                "Court"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "subsection 4(3) of the Regulations"
+            ],
+            "credibility_findings": [
+                "discrepancies in testimony regarding marriage ceremonies, birth control, knowledge of each other"
+            ],
+            "procedural_fairness": [
+                "judicial review of the Board's decision"
+            ],
+            "evidence_consideration": [
+                "credible evidence supporting the Board's conclusion"
+            ],
+            "immigration_status": [
+                "visa application denied due to doubts about marriage authenticity"
+            ],
+            "reasonableness_of_decision": [
+                "Court upheld the Board's decision as reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 4(3) of the Regulations"
+            ],
+            "credibility_findings": [
+                "discrepancies in testimony regarding marriage ceremonies, birth control, and knowledge of each other"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review"
+            ],
+            "applicable_laws": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "claimant_burden": [
+                "to prove the marriage was bona fide"
+            ],
+            "court_ruling": [
+                "upholding the Board's determination that the marriage was not bona fide"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "063648",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Law"
+            ],
+            "patent_validity": [
+                "invalid"
+            ],
+            "evidence_provided": [
+                "insufficient evidence"
+            ],
+            "applicable_statute": [
+                "utility",
+                "sound prediction",
+                "overbreadth"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ]
+        }
+    ]
+}

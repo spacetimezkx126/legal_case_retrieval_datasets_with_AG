@@ -1,0 +1,26 @@
+{
+    "Case ID": "024069",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Infringement occurs when a device falls within the scope of a patent's claims."
+            ],
+            "patent_validity": [
+                "The patents were valid but not infringed by Nidek."
+            ],
+            "technical_details": [
+                "The EC-5000 does not ablate the anterior surface of the cornea as defined in the patents.",
+                "It uses different mechanisms (iris diaphragm, variable slit) rather than shaping and focusing the beam as claimed.",
+                "It lacks a topography-display unit required by one of the patents."
+            ],
+            "decision_outcome": [
+                "No infringement found."
+            ],
+            "applicable_statute": [
+                "Three Canadian patents related to ophthalmological surgery devices."
+            ]
+        }
+    ]
+}

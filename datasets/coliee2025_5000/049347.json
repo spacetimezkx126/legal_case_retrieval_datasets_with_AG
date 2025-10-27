@@ -1,0 +1,64 @@
+{
+    "Case ID": "049347",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related offences under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 162(1) of IRPA",
+                "s. 68(4) of IRPA"
+            ],
+            "procedural_fairness": [
+                "IAD jurisdiction",
+                "constitutional challenge"
+            ],
+            "decision_outcome": [
+                "IAD lacks jurisdiction",
+                "Federal Court dismissed application"
+            ],
+            "criminality_inadmissibility": [
+                "new conviction for serious offenses",
+                "narcotics conviction"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Possession of heroin for the purpose of trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "constitutional_challenge": [
+                "s. 68(4) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_made_by": [
+                "Immigration Appeal Division (IAD)",
+                "Federal Court"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA, s. 162(1)",
+                "IRPA, s. 68(4)"
+            ],
+            "parties_involved": [
+                "Ferri",
+                "Minister"
+            ],
+            "decision_outcome": [
+                "dismissed application",
+                "lack of jurisdiction"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "deportation_order": [
+                "stayed by IAD",
+                "cancellation of stay"
+            ],
+            "serious_criminality": [
+                "conviction of heroin possession"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "092507",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Case",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistent testimony",
+                "lack of corroborating evidence",
+                "implausible claims"
+            ],
+            "reasonableness_standard": [
+                "reviewable under reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "omitted facts",
+                "contradicted plausible practices"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "burden_of_proof": [
+                "high deference to factual findings"
+            ],
+            "legal_basis": [
+                "Federal Courts Act s. 18.1(4)(d)"
+            ]
+        }
+    ]
+}

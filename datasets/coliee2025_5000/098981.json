@@ -1,0 +1,74 @@
+{
+    "Case ID": "098981",
+    "Different Crime": [
+        {
+            "Crime Name": "Flight risk under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "risk_assessment": [
+                "flight risk"
+            ],
+            "evidence_assessment": [
+                "Interpol Red Notice",
+                "embezzlement"
+            ],
+            "decision_outcome": [
+                "Applications dismissed; no questions certified."
+            ],
+            "procedural_fairness": [
+                "Judicial review of decisions altering release conditions"
+            ]
+        },
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "partially granted or denied"
+            ],
+            "procedural_fairness": [
+                "Judicial review applications were filed"
+            ],
+            "standard_of_review": [
+                "reasonable and adequately justified"
+            ],
+            "serious_criminality": [
+                "embezzlement and corruption charges"
+            ],
+            "risk_characterization": [
+                "flight risk"
+            ],
+            "appeal_outcome": [
+                "Court dismissed both applications"
+            ]
+        },
+        {
+            "Crime Name": "Being a fugitive from justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.58"
+            ],
+            "decision_reasoning": [
+                "considered evidence",
+                "applied the correct legal principles"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "Applications dismissed",
+                "no questions certified"
+            ],
+            "risk_of_persecution": [
+                "flight risk"
+            ],
+            "evidence_assessment": [
+                "continued flight risk assessment"
+            ]
+        }
+    ]
+}

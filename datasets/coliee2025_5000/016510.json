@@ -1,0 +1,30 @@
+{
+    "Case ID": "016510",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Crown Liability and Proceedings Act",
+                "Income Tax Act"
+            ],
+            "procedural_fairness": [
+                "judicial review application under the Federal Court Act"
+            ],
+            "applicable_regulations": [
+                "Section 32 of the Crown Liability and Proceedings Act",
+                "specific limitations for assessments and collections in the Income Tax Act"
+            ],
+            "decision_reasoning": [
+                "Income Tax Act is a complete code with its own limitations, implying exclusion of general limitation periods"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed",
+                "no limitation period applies to the Crown's tax collection powers under the Income Tax Act"
+            ],
+            "cause_of_action": [
+                "large unpaid tax debt after years of inactivity"
+            ]
+        }
+    ]
+}

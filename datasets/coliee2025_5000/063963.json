@@ -1,0 +1,30 @@
+{
+    "Case ID": "063963",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Article 1F(a)",
+                "Article 1F(c)"
+            ],
+            "evidence_assessment": [
+                "lacked proof of the applicant's shared purpose or active participation in these crimes"
+            ],
+            "credibility_findings": [],
+            "complicity_in_crimes": [
+                "Complicity requires shared purpose and knowledge"
+            ],
+            "refugee_definition": [
+                "a person who has committed crimes against humanity or acts contrary to UN principles is not a Convention refugee"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed; case remitted for reconsideration by a different panel due to lack of evidence supporting exclusion"
+            ],
+            "burden_of_proof": [
+                "Mere membership without evidence of personal involvement does not suffice for exclusion"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "002912",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_of_persecution": [
+                "lack of credible evidence of persecution"
+            ],
+            "documentary_evidence": [
+                "lack of evidence supporting statelessness or persecution"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected by IRB"
+            ],
+            "procedural_fairness": [
+                "court reviewed evidence and legal arguments"
+            ],
+            "reasonableness_standard": [
+                "IRB's decision was reasonable"
+            ]
+        }
+    ]
+}

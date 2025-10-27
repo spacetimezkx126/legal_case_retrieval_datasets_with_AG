@@ -1,0 +1,63 @@
+{
+    "Case ID": "095143",
+    "Different Crime": [
+        {
+            "Crime Name": "Being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Amal"
+            ],
+            "inadmissibility_criteria": [
+                "subsection 34(1)(f)"
+            ],
+            "applicable_law_section": [
+                "IRPA s.34(1)(f)"
+            ],
+            "evidence_provided": [
+                "Nassereddine admitted membership",
+                "engaged in terrorism",
+                "no evidence supported civil wing distinction"
+            ],
+            "decision_outcome": [
+                "inadmissible"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "refugee_status_claim": [
+                "applied for refugee status"
+            ],
+            "reasoning_given": [
+                "long-term membership",
+                "awareness of terrorist activities"
+            ],
+            "court_ruling": [
+                "upheld the IRB's decision"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act subsection 34(1)(f)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 34(1)(f)"
+            ],
+            "decision_reasoning": [
+                "Membership in Amal, a group involved in terrorism",
+                "No evidence supporting division between civil and terrorist wings of Amal",
+                "Long membership and awareness of Amal's activities"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ],
+            "application_details": [
+                "Judicial review application before the Federal Court challenging the IRB's decision"
+            ],
+            "result_of_case": [
+                "Federal Court dismissed the application, upholding the IRB's decision"
+            ],
+            "relevant_rule": [
+                "Subsection 34(1)(f) deems individuals inadmissible if they are members of organizations engaging in terrorism"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Gang-related violence",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "insufficient efforts to seek state protection"
+            ],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [
+                "generalized risk for small business owners"
+            ],
+            "Risk_Type": [
+                "generalized risk"
+            ],
+            "Risk_Nature": [
+                "non-personalized"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Guatemala"
+            ],
+            "Jurisdiction": [
+                "Canada",
+                "Guatemala"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "Applicable_Statute": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "Legal_Provision": [
+                "s. 97(1)(b)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 97(1)(b)"
+            ],
+            "Standard_of_Proof": [
+                "reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "applicants not recognized as Convention refugees or persons in need of protection"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of Refugee Protection Division's decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Refugee Protection Division"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to report crime",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "personalized vs. generalized risk",
+                "adequacy of state protection"
+            ],
+            "Governing_Law": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Evidence_Assessment": [
+                "claimants failed to provide clear evidence of inadequate state protection"
+            ],
+            "Decision_Outcome": [
+                "application for judicial review dismissed"
+            ],
+            "Burden_of_Proof": [
+                "on claimants to rebut presumption of adequate state protection"
+            ],
+            "Credibility_Factor": [],
+            "Legal_Rule": [
+                "risk must be personalized under IRPA s. 97(1)(b)"
+            ],
+            "Standard_of_Review": [
+                "reasonableness standard"
+            ],
+            "Procedural_Issue": [],
+            "Grounds_for_Claim": [
+                "personalized risk",
+                "inadequate state protection"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [],
+            "Key_Evidence_Considered": [
+                "contact with local police insufficient"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Applicant_Challenge": [
+                "risk was personalized",
+                "state protection inadequate"
+            ],
+            "Court_Result": [
+                "Board’s decision upheld"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "Standard_of_Proof": [
+                "clear evidence required to rebut presumption"
+            ],
+            "Defendant_Response": [],
+            "Evidence_Type": [
+                "police contact records"
+            ],
+            "Remedy_Requested": [
+                "refugee status"
+            ],
+            "Outcome": [
+                "refugee status denied"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "recognition as Convention refugee or person in need of protection"
+            ],
+            "Resolution_Mechanism": [
+                "judicial review"
+            ],
+            "Legal_Provision": [
+                "s. 97(1)(b)"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Claimant_Status": [
+                "asylum seekers"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 97(1)(b)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [],
+            "Applicable_Process": [
+                "refugee protection process"
+            ],
+            "Outcome_of_Review": [
+                "dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "refugee protection application"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ]
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "gangs"
+            ],
+            "Victim_Status": [
+                "small business owners"
+            ],
+            "Location_of_Incident": [],
+            "Threat_Source": [
+                "gangs"
+            ],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "failed to demonstrate sufficient efforts to seek protection"
+            ],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [
+                "generalized risk due to business ownership"
+            ],
+            "Risk_Type": [
+                "generalized"
+            ],
+            "Risk_Nature": [
+                "non-personalized"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Guatemala"
+            ],
+            "Jurisdiction": [
+                "Canada",
+                "Guatemala"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA s. 97(1)(b)(ii)"
+            ],
+            "Applicable_Statute": [
+                "IRPA s. 97(1)(b)(ii)"
+            ],
+            "Legal_Provision": [
+                "s. 97(1)(b)(ii)"
+            ],
+            "Legal_Provision_Cited": [
+                "s. 97(1)(b)(ii)"
+            ],
+            "Standard_of_Proof": [
+                "reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "refugee status denied"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [
+                "judicial review"
+            ],
+            "Legal_Procedure": [
+                "judicial review of Refugee Protection Division’s decision"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Refugee Protection Division"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

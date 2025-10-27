@@ -1,0 +1,99 @@
+{
+    "Case ID": "065909",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "insufficiently detailed notice"
+            ],
+            "legal_basis": [
+                "Sections 4 and 27 of the Corrections and Conditional Release Act"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "referred back to CSC for reconsideration"
+            ],
+            "evidence_provided": [
+                "vague allegations",
+                "lacked specifics on dates, places, and circumstances"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "cause_of_action": [
+                "involuntary transfer"
+            ],
+            "nature_of_offense": [
+                "alleged offenses"
+            ]
+        },
+        {
+            "Crime Name": "Second-degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "insufficiently detailed notice"
+            ],
+            "evidence_consideration": [
+                "lack of specifics like dates, places, and circumstances"
+            ],
+            "legal_basis": [
+                "Sections 4 and 27 of the Corrections and Conditional Release Act"
+            ],
+            "risk_assessment": [],
+            "humanitarian_concerns": [],
+            "criminal_history": []
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness"
+            ],
+            "legal_basis": [
+                "Sections 4 and 27 of the Corrections and Conditional Release Act"
+            ],
+            "decision_reasoning": [
+                "inadequate notice"
+            ],
+            "application_details": [
+                "involuntary transfer",
+                "allegations of organizing tobacco smuggling"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "decision referred back to CSC for reconsideration with costs"
+            ],
+            "relevant_statute": [
+                "Corrections and Conditional Release Act"
+            ]
+        },
+        {
+            "Crime Name": "Organizing cannabis smuggling into a penal institution",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "insufficiently detailed notice"
+            ],
+            "evidence_considered": [
+                "allegations against him",
+                "dates, places, or circumstances of tobacco/cannabis smuggling"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "referred back to CSC for reconsideration with costs"
+            ],
+            "applicable_law_or_regulation": [
+                "Section 27 of the Corrections and Conditional Release Act"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "transfer_request": [
+                "involuntary transfer"
+            ]
+        }
+    ]
+}

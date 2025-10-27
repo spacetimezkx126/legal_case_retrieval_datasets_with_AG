@@ -1,0 +1,48 @@
+{
+    "Case ID": "099603",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 40 of the Immigration and Refugee Protection Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraudulent birth certificate"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed; case remitted to a different immigration officer for reconsideration"
+            ],
+            "evidence_assessment": [
+                "adoption deed disclosed from the start",
+                "birth certificate did not claim biological parenthood"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Document Procurement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "section 40 of the Immigration and Refugee Protection Act"
+            ],
+            "material_misrepresentation": [
+                "fraudulent birth certificate",
+                "adoption deed disclosed"
+            ],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "judicial_authority": [
+                "immigration officer"
+            ],
+            "appeal_outcome": [
+                "granted"
+            ],
+            "cause_of_action": [
+                "providing fraudulent birth certificate"
+            ],
+            "nature_of_offense": [
+                "misrepresentation"
+            ]
+        }
+    ]
+}

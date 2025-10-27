@@ -1,0 +1,103 @@
+{
+    "Case ID": "098878",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "gender_related_persecution_guidelines": [
+                "Chairperson's Gender Guidelines"
+            ],
+            "risk_of_persecution": [
+                "gender-based persecution in Albania"
+            ],
+            "psychological_impact": [
+                "PTSD"
+            ],
+            "evidence_consideration": [
+                "inadequate evaluation of claim under Gender Guidelines"
+            ],
+            "state_protection_analysis": [
+                "availability and accessibility of state protection for women"
+            ],
+            "reasonableness_of_decision": [
+                "reviewable error"
+            ],
+            "humanitarian_concerns": [
+                "past trauma and ongoing risk"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "lack_of_state_protection"
+            ],
+            "refugee_status": [
+                "refugee_claim_rejected"
+            ],
+            "credibility_findings": [
+                "current_evidence_accepted_as_credible"
+            ],
+            "decision_made_by": [
+                "RPD"
+            ],
+            "review_process": [
+                "Federal_Court_review"
+            ],
+            "applicable_law_or_regulation": [
+                "Chairperson's_Gender_Guidelines"
+            ],
+            "decision_outcome": [
+                "decision_set_aside",
+                "case_referred_back_for_redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Adequate State Protection",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "state_protection": [
+                "inadequate analysis of state protection for women in Albania"
+            ],
+            "credibility_findings": [
+                "focusing on credibility rather than systemic issues"
+            ],
+            "specific_legal_test_application": [
+                "application of the Chairperson's Gender Guidelines"
+            ],
+            "judicial_review_process": [
+                "judicial review of RPD's decision based on legal arguments and additional documentary evidence"
+            ],
+            "decision_outcome": [
+                "decision set aside; case referred back for redetermination with instructions to apply Gender Guidelines and accept existing evidence as credible"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Gender Guidelines"
+            ],
+            "state_protection": [
+                "lack of state protection in Albania"
+            ],
+            "credibility_findings": [
+                "current evidence as credible"
+            ],
+            "procedural_fairness": [
+                "reviewable error"
+            ],
+            "refugee_protection": [
+                "Dajana's refugee claim"
+            ],
+            "court_ruling": [
+                "decision is set aside",
+                "case is referred back for redetermination"
+            ],
+            "relevant_factors": [
+                "past trauma",
+                "fear of trafficking",
+                "speculative assumptions about potential state assistance"
+            ]
+        }
+    ]
+}

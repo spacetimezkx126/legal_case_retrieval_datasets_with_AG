@@ -1,0 +1,95 @@
+{
+    "Case ID": "088946",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation to Canadian officials.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 83(3) of the Act"
+            ],
+            "credibility_assessment": [
+                "denial of ties to Al-Qaeda",
+                "judicial findings",
+                "confidential evidence"
+            ],
+            "risk_assessment": [
+                "continuing danger to national security",
+                "ties to extremist ideologies and activities",
+                "document forgery"
+            ],
+            "evidence_assessment": [
+                "previous judicial findings",
+                "confidential evidence"
+            ],
+            "decision_outcome": [
+                "application for release from detention is dismissed",
+                "detention was ordered to continue"
+            ]
+        },
+        {
+            "Crime Name": "Forgery of documents",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application for release dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review under amended s. 83 of the Act"
+            ],
+            "evidence_provided": [
+                "Participated in jihad",
+                "Associated with Arab-Afghan connections",
+                "Involved in false documentation",
+                "Adopted Osama Bin Laden's ideology"
+            ],
+            "serious_criminality": [
+                "Suspected ties with extremist groups"
+            ],
+            "risk_characterization": [
+                "Substantial risk to national security"
+            ],
+            "standard_of_review": [
+                "Reasonable grounds to believe"
+            ]
+        },
+        {
+            "Crime Name": "Threatening national security",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "continuing danger",
+                "substantial threat"
+            ],
+            "applicable_law_section": [
+                "s. 83(3)",
+                "amended s. 83"
+            ],
+            "involvement_details": [
+                "involvement in jihad",
+                "connections with extremist groups",
+                "document forgery"
+            ],
+            "standard_of_proof": [
+                "objectively reasonable suspicion",
+                "reliable evidence"
+            ],
+            "release_conditions": [
+                "deemed inadequate to mitigate risks"
+            ],
+            "decision_outcome": [
+                "application for judicial release dismissed",
+                "detention continues"
+            ],
+            "evidence_quality": [
+                "evidence suggests"
+            ],
+            "reasonableness_standard": [
+                "reasonable suspicion"
+            ],
+            "judicial_review_result": [
+                "application for release was denied"
+            ]
+        }
+    ]
+}

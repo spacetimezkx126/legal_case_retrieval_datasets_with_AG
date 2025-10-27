@@ -1,0 +1,30 @@
+{
+    "Case ID": "037198",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "negative credibility finding",
+                "unfair questioning",
+                "severe negative inferences"
+            ],
+            "procedural_fairness": [
+                "lack of proper reasoning",
+                "unsupported inferences",
+                "unfairness"
+            ],
+            "evidence_assessment": [
+                "late-filed documents",
+                "questioned religious knowledge"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remanded for reconsideration"
+            ],
+            "review_standard": [
+                "reviewable error"
+            ]
+        }
+    ]
+}

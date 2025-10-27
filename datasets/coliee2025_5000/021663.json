@@ -1,0 +1,27 @@
+{
+    "Case ID": "021663",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Denial",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "procedural_fairness": [
+                "inadequate reasoning",
+                "inconsistent communication of reasons"
+            ],
+            "administrative_error": [
+                "conflicting reasons to applicants and Minister",
+                "failure to enumerate evidence or explain conclusions"
+            ],
+            "judicial_review_process": [
+                "Federal Court reviewed the decision"
+            ],
+            "decision_outcome": [
+                "appeals granted",
+                "rehearing by a different Citizenship Judge"
+            ]
+        }
+    ]
+}

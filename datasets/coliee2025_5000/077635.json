@@ -1,0 +1,38 @@
+{
+    "Case ID": "077635",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "visa officers must provide sufficient reasons for their decisions"
+            ],
+            "decision_reasoning": [
+                "lacked detailed reasoning",
+                "insufficient reasons provided"
+            ],
+            "application_details": [
+                "applicant argued that the visa officer failed to adequately assess his experience"
+            ],
+            "evidence_presented": [
+                "CAIPS notes",
+                "refusal letter",
+                "affidavit"
+            ],
+            "result_of_case": [
+                "judicial review application is allowed",
+                "decision is set aside",
+                "case is referred back for re-determination by a different visa officer"
+            ],
+            "cause_of_action": [
+                "immigration application was denied due to inadequate points and lack of relevant experience"
+            ],
+            "procedure_followed": [
+                "judicial review process"
+            ],
+            "relevant_rule": [
+                "Immigration Regulations"
+            ]
+        }
+    ]
+}

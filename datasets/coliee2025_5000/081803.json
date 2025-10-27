@@ -1,0 +1,101 @@
+{
+    "Case ID": "081803",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "employment",
+                "community involvement",
+                "risks",
+                "hardship"
+            ],
+            "best_interests_of_children": [],
+            "evidence_assessment": [
+                "insufficient evidence for hardship"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "child_best_interests": [
+                "lack of specific details",
+                "emotional, social, and cultural welfare",
+                "significant negative impacts from relocation"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "hardship if returned to Guyana",
+                "establishment in Canada"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "denying permanent residence"
+            ],
+            "reasonableness_standard": [
+                "reasonably assessed the best interests of the children"
+            ],
+            "evidence_provided": [
+                "limited evidence regarding the children’s welfare"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "child_best_interests": [
+                "lack of specific details",
+                "emotional, social, and cultural welfare",
+                "relocation impacts"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "establishment in Canada",
+                "hardship if returned to Guyana"
+            ],
+            "evidence_consideration": [
+                "limited evidence provided",
+                "potential impacts on the child documented"
+            ],
+            "reasonableness_of_decision": [
+                "officer reasonably assessed",
+                "no error in legal standard"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "humanitarian_and_compassionate_grounds": [
+                "best interests of the children",
+                "emotional, social, and cultural welfare",
+                "relocation impacts"
+            ],
+            "evidence_provided": [
+                "limited evidence regarding children’s welfare"
+            ],
+            "reasoning_given": [
+                "lack of specific details about children’s best interests"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "upholding immigration officer’s decision"
+            ],
+            "reasonableness_of_decision": [
+                "reasonably assessed"
+            ]
+        }
+    ]
+}

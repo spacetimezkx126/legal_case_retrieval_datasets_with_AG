@@ -1,0 +1,37 @@
+{
+    "Case ID": "063252",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "state_protection": [
+                "presumed state protection",
+                "inadequate state protection"
+            ],
+            "risk_of_persecution": [
+                "persecution risks",
+                "cumulative discriminatory measures"
+            ],
+            "decision_reasoning": [
+                "unreasonable decision",
+                "deeper analysis of evidence required"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "contradictory evidence"
+            ],
+            "refugee_status": [
+                "refugee status claimed",
+                "persecution risks due to Roma ethnicity"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "PRRA decision assessment"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "reconsideration by another immigration officer"
+            ]
+        }
+    ]
+}

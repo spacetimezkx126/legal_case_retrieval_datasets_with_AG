@@ -1,0 +1,30 @@
+{
+    "Case ID": "087835",
+    "Different Crime": [
+        {
+            "Crime Name": "False or misleading information in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act, s. 5(1)(c)",
+                "Citizenship Act s. 14(5)"
+            ],
+            "standard_of_review": [
+                "Reasonableness"
+            ],
+            "document_authenticity": [
+                "Diplomatic passport missing"
+            ],
+            "evidence_assessment": [
+                "Incomplete evidence",
+                "Gaps in presence claim"
+            ],
+            "decision_outcome": [
+                "Appeal allowed",
+                "Case remitted for reconsideration"
+            ],
+            "material_misrepresentation": [
+                "Omitted diplomatic passport"
+            ]
+        }
+    ]
+}

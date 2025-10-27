@@ -1,0 +1,32 @@
+{
+    "Case ID": "015684",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "false identity",
+                "incorrect details about work and travel",
+                "lied about passport"
+            ],
+            "procedural_fairness": [
+                "concerns over bias in decision-making process"
+            ],
+            "decision_outcome": [
+                "Decision set aside",
+                "case remitted for redetermination by a different panel member"
+            ],
+            "misrepresentation_or_fraud": [
+                "applicant used a false identity",
+                "provided incorrect details",
+                "lied about passport"
+            ],
+            "refugee_status_eligibility": [
+                "impacted by false information"
+            ],
+            "standard_of_review": [
+                "judicial review of the IRB decision"
+            ]
+        }
+    ]
+}

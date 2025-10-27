@@ -1,0 +1,80 @@
+{
+    "Case ID": "023148",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "relying on undisclosed documents"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "rejection of H&C application"
+            ],
+            "risk_assessment": [
+                "undisclosed risk assessment"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "decision set aside for redetermination"
+            ],
+            "standard_of_review": [
+                "meaningful opportunity to present case fully and fairly"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "relying on undisclosed documents",
+                "meaningful opportunity to present case",
+                "responding to evidence"
+            ],
+            "judicial_authority": [
+                "Immigration Officer",
+                "judicial review process"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision set aside",
+                "case remanded for reconsideration"
+            ],
+            "cause_of_action": [
+                "tax evasion conviction"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "H&C application"
+            ],
+            "appeal_outcome": [
+                "overturned"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "relying on undisclosed documents"
+            ],
+            "judicial_review_result": [
+                "application allowed",
+                "decision set aside for redetermination"
+            ],
+            "reasoning_given": [
+                "meaningful opportunity to present case fully and fairly",
+                "responding to any evidence against them"
+            ],
+            "evidence_assessment": [
+                "risk assessment based on undocumented sources"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "H&C application"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case remanded for reconsideration ensuring procedural fairness"
+            ]
+        }
+    ]
+}

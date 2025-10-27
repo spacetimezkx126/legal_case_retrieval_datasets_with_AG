@@ -1,0 +1,26 @@
+{
+    "Case ID": "004715",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "doubts due to omissions and discrepancies"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "inconsistent documentation"
+            ],
+            "identity_verification": [
+                "applicant falsely claimed to be his cousin",
+                "admitted true identity"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Case ID": "092622",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to disclose citizenship status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "stateless",
+                "refugee status claim dismissed"
+            ],
+            "identity_verification": [
+                "Indian identity document",
+                "citizenship by birth"
+            ],
+            "decision_outcome": [
+                "RAD decision upheld",
+                "judicial review dismissed"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "citizenship acquisition within applicant's control"
+            ],
+            "immigration_status": [
+                "claimed refugee status in Canada"
+            ],
+            "misrepresentation_or_fraud": [
+                "failure to disclose citizenship status"
+            ]
+        },
+        {
+            "Crime Name": "Refusing to exhaust local remedies.",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ],
+            "procedural_fairness": [
+                "opportunity to be heard"
+            ],
+            "decision_reasoning": [
+                "applicant did not attempt to acquire Indian citizenship despite legal entitlement"
+            ],
+            "evidence_assessment": [
+                "applicant failed to substantiate claims against India at the RPD stage"
+            ],
+            "conclusion_outcome": [
+                "RAD’s decision upheld; no breach of procedural fairness. Application dismissed"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed; RAD decision upheld"
+            ]
+        }
+    ]
+}

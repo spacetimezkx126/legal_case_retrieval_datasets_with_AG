@@ -1,0 +1,35 @@
+{
+    "Case ID": "079816",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid"
+            ],
+            "infringement_analysis": [
+                "obviousness",
+                "failure as a selection patent",
+                "lack of utility",
+                "insufficiency of specification",
+                "violation of section 53"
+            ],
+            "evidence_assessment": [
+                "routine processes",
+                "misleading data and omissions"
+            ],
+            "relevant_statute": [
+                "Patent Act"
+            ],
+            "decision_reasoning": [
+                "besylate salt development",
+                "testing several salts",
+                "no unique advantages"
+            ],
+            "result_of_case": [
+                "patent invalid",
+                "awarded costs"
+            ]
+        }
+    ]
+}

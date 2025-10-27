@@ -1,0 +1,28 @@
+{
+    "Case ID": "041199",
+    "Different Crime": [
+        {
+            "Crime Name": "False representation or fraud in obtaining citizenship",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 18(1)(b) of the Citizenship Act",
+                "Section 29(2)(a) of the Citizenship Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "knowingly concealing material circumstances",
+                "concealed criminal charges"
+            ],
+            "evidence_assessment": [
+                "respondent concealed criminal charges",
+                "aware of requirement to disclose information but failed to do so"
+            ],
+            "decision_outcome": [
+                "citizenship revocation warranted"
+            ],
+            "procedural_fairness": [
+                "Minister issued a notice of revocation",
+                "court proceedings with evidence and testimonies reviewed"
+            ]
+        }
+    ]
+}

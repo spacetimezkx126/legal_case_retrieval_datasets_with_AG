@@ -1,0 +1,64 @@
+{
+    "Case ID": "065768",
+    "Different Crime": [
+        {
+            "Crime Name": "Guarantee enforcement under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "adequate time to respond",
+                "refusal of extension"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "CBSA guidelines",
+                "principles of natural justice"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "CBSA breached procedural fairness"
+            ],
+            "standard_of_review": [
+                "principles of natural justice",
+                "procedural fairness review"
+            ],
+            "immigration_status": [
+                "guarantor obligations",
+                "breach of release conditions"
+            ]
+        },
+        {
+            "Crime Name": "Breaching conditions of release",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "right to be heard",
+                "make submissions"
+            ],
+            "decision_reasoning": [
+                "30-day limit insufficient",
+                "right to make submissions illusory"
+            ],
+            "application_details": [
+                "30 days to respond",
+                "requested 90-day extension",
+                "ongoing legal proceedings"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "CBSA breached procedural fairness"
+            ],
+            "cause_of_action": [
+                "son breached release conditions",
+                "$15,000 guarantee enforced"
+            ],
+            "procedure_followed": [
+                "applied for judicial review",
+                "reviewed under administrative law principles"
+            ],
+            "court_ruling": [
+                "Federal Court ruled in favor of Etienne",
+                "CBSA actions procedurally unfair"
+            ]
+        }
+    ]
+}

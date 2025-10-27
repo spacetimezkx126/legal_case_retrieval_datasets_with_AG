@@ -1,0 +1,85 @@
+{
+    "Case ID": "058602",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility based on membership in an organization engaged in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "MQM-A"
+            ],
+            "risk_to_national_security": [
+                "generalized population risks"
+            ],
+            "evidence_provided": [
+                "evidence of threats due to MQM-A membership"
+            ],
+            "reasonableness_of_decision": [
+                "insufficient evidence linking Ullah to personalized risk"
+            ],
+            "judicial_review_result": [
+                "Application for judicial review dismissed; removal decision upheld."
+            ],
+            "applicable_law_section": [
+                "IRPA s.113(a)",
+                "s.97"
+            ],
+            "decision_outcome": [
+                "deemed not at risk if returned to Pakistan"
+            ]
+        },
+        {
+            "Crime Name": "Risk to life",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA ss. 112-116",
+                "s. 97 of IRPA"
+            ],
+            "evidence_assessment": [
+                "vague evidence",
+                "insufficient objective evidence"
+            ],
+            "decision_reasoning": [
+                "no reviewable error in the officer's decision"
+            ],
+            "procedural_fairness": [
+                "procedural fairness and sufficiency of evidence"
+            ],
+            "risk_of_persecution": [
+                "personalized risk of torture, death, or cruel treatment"
+            ],
+            "application_details": [
+                "Ullah provided vague evidence about his involvement with MQM-A and threats from MQM-H"
+            ],
+            "conclusion_outcome": [
+                "The Federal Court dismissed the application"
+            ],
+            "result_of_case": [
+                "Court upheld the PRRA decision, rejecting claims of ignored evidence and lack of hearing"
+            ]
+        },
+        {
+            "Crime Name": "Risk of torture",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA ss. 112-116"
+            ],
+            "evidence_assessment": [
+                "vague evidence",
+                "insufficient details",
+                "lack of credible evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed"
+            ],
+            "human_rights_violations": [
+                "torture or cruel treatment"
+            ],
+            "burden_of_proof": [
+                "personal risk beyond generalized risks"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; removal to Pakistan approved"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "Case ID": "062140",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "refugee_status_eligibility": [
+                "not eligible"
+            ],
+            "state_protection_analysis": [
+                "state protection available"
+            ],
+            "risk_assessment": [
+                "no substantial risk"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "not applicable"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "IRPA sections 96 and 97"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Board",
+                "Court"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "upheld the Board's decision"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ],
+            "risk_characterization": [
+                "no substantial risk"
+            ],
+            "state_protection": [
+                "availability of state protection"
+            ],
+            "nexus_to_convention_grounds": [
+                "past domestic violence and threats"
+            ],
+            "persecution_details": [
+                "persecution by Simon Durrant"
+            ]
+        },
+        {
+            "Crime Name": "Making threats",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "sections 96 and 97 of the IRPA"
+            ],
+            "risk_assessment": [
+                "no substantial risk as Mr. Durrant was institutionalized and had not harmed her for years"
+            ],
+            "state_protection_analysis": [
+                "state protection availability"
+            ],
+            "criminal_history": [
+                "violent history"
+            ],
+            "specific_threats_or_incidents": [
+                "threats from Mr. Durrant"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable given the evidence"
+            ],
+            "refugee_status_nexus": [
+                "Ms. Matthews did not qualify as a Convention refugee or person in need of protection"
+            ]
+        }
+    ]
+}

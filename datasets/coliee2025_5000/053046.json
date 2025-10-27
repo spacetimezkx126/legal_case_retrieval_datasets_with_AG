@@ -1,0 +1,28 @@
+{
+    "Case ID": "053046",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirement",
+                "centralize mode of existence in Canada",
+                "physical presence requirement"
+            ],
+            "legal_basis": [
+                "Citizenship Act paragraph 5(1)(c)"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "citizenship denied"
+            ],
+            "standard_of_review": [
+                "reviewing Citizenship Judge's decision",
+                "analyzing errors"
+            ],
+            "regulatory_compliance": [
+                "did not comply with residency regulations"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Case ID": "073641",
+    "Different Crime": [
+        {
+            "Crime Name": "Entering the U.S. illegally",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "fair hearing",
+                "right to counsel"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "criminality_inadmissibility": [
+                "found inadmissible due to criminal convictions and residency violations"
+            ],
+            "standard_of_review": [
+                "judicial review of Immigration Appeal Board's decision"
+            ],
+            "misrepresentation_or_fraud": [],
+            "regulatory_compliance": []
+        },
+        {
+            "Crime Name": "Criminality leading to inadmissibility under the Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s.28",
+                "IRPA s.36(1)(b)"
+            ],
+            "procedural_fairness": [
+                "fair hearings",
+                "natural justice principles"
+            ],
+            "decision_reasoning": [
+                "Abrams failed to request an adjournment or indicate unpreparedness",
+                "no formal request was made"
+            ],
+            "conclusion_outcome": [
+                "The Federal Court dismissed the application",
+                "finding no breach of procedural fairness or bias"
+            ],
+            "cause_of_action": [
+                "Abrams' criminal history",
+                "failure to meet residency requirements"
+            ]
+        }
+    ]
+}

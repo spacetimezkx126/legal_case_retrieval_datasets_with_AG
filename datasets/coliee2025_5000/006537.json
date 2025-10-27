@@ -1,0 +1,65 @@
+{
+    "Case ID": "006537",
+    "Different Crime": [
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "not established"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "state_protection": [
+                "adequate"
+            ],
+            "persecution_details": [
+                "exposing bribery and facing threats"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "supported IRB’s findings"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "risk_characterization": [
+                "criminality, not persecution"
+            ],
+            "appeal_outcome": [
+                "upheld IRB’s decision"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "exposing bribery and facing threats"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "bribery and threats"
+            ],
+            "decision_outcome": [
+                "not Convention refugees",
+                "not in need of protection"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

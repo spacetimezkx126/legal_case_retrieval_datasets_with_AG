@@ -1,0 +1,27 @@
+{
+    "Case ID": "095431",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Citizenship Act"
+            ],
+            "residency_requirements": [
+                "permanent resident must reside in Canada for at least 1095 days in the four years preceding their citizenship application"
+            ],
+            "evidence_assessment": [
+                "vague and incomplete evidence of physical presence in Canada",
+                "inconsistencies and ambiguities in submitted documents"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "original decision overturned and referred to another citizenship judge"
+            ],
+            "document_authenticity": [
+                "mismatched addresses",
+                "lack of proof for certain periods"
+            ]
+        }
+    ]
+}

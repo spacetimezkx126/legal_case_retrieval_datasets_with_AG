@@ -1,0 +1,55 @@
+{
+    "Case ID": "020456",
+    "Different Crime": [
+        {
+            "Crime Name": "Willful blindness to crimes against humanity",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "not excluded"
+            ],
+            "exclusion_reason": [
+                "willful blindness",
+                "complicity in crimes against humanity"
+            ],
+            "evidence_assessment": [
+                "low-ranking officer",
+                "avoided involvement in abuses"
+            ],
+            "decision_outcome": [
+                "CRDD's decision overturned",
+                "referred to new panel for re-determination"
+            ],
+            "legal_basis": [
+                "Article 1F of the UN Refugee Convention"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F of the UN Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity",
+                "war crimes or crimes against humanity"
+            ],
+            "credibility_findings": [
+                "voluntary association with the Sri Lankan Police Force",
+                "no direct involvement in abuses"
+            ],
+            "evidentiary_standard": [
+                "mere membership without personal participation or knowledge does not meet the exclusion criteria"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "decision_outcome": [
+                "CRDD's decision was overturned",
+                "case referred for re-determination by a different panel"
+            ],
+            "refugee_definition": [
+                "ineligible for refugee status due to alleged complicity in human rights abuses"
+            ]
+        }
+    ]
+}

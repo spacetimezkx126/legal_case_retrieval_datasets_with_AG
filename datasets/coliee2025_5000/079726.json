@@ -1,0 +1,53 @@
+{
+    "Case ID": "079726",
+    "Different Crime": [
+        {
+            "Crime Name": "Breaching immigration requirements",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate analysis of Honduran state protection",
+                "focus on institutional existence rather than functionality"
+            ],
+            "risk_assessment": [
+                "dismissed gang-related risks without proper analysis"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "decision quashed and referred back"
+            ],
+            "standard_of_review": [
+                "reasonableness of PRRA Officer's conclusions"
+            ],
+            "criminality_inadmissibility": [
+                " Applicant faced deportation due to immigration breaches"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Offense / Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "inadequate evaluation of Honduran state protection",
+                "dismissed fear of police retaliation without sufficient evidence"
+            ],
+            "reasonableness_standard": [
+                "unreasonable conclusions by PRRA Officer"
+            ],
+            "risk_of_persecution": [
+                "persecution by MS-13 gang in Honduras"
+            ],
+            "country_conditions": [
+                "systemic failures in Honduras"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case referred back for reevaluation"
+            ],
+            "burden_of_proof": [
+                "insufficient evidence provided by PRRA Officer"
+            ],
+            "specific_threats": [
+                "police retaliation in Honduras"
+            ]
+        }
+    ]
+}

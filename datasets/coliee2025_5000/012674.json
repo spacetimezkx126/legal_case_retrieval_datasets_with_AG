@@ -1,0 +1,49 @@
+{
+    "Case ID": "012674",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "hardship if returned to Lebanon",
+                "no unusual or disproportionate hardship"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter",
+                "correctness for procedural fairness issues"
+            ],
+            "procedural_fairness": [
+                "procedural fairness was not violated"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "Officer's decision upheld"
+            ]
+        },
+        {
+            "Crime Name": "Failure to apply for asylum",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "burden_of_proof": [
+                "unusual and undeserved or disproportionate hardship"
+            ],
+            "documentary_evidence": [
+                "considered by the Officer"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ],
+            "specific_group_membership": [
+                "stateless Palestinian"
+            ],
+            "risk_personalization": [
+                "insufficient grounds for exemption"
+            ]
+        }
+    ]
+}

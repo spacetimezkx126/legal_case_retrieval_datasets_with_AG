@@ -1,0 +1,50 @@
+{
+    "Case ID": "024825",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "establishment in Canada",
+                "personalized risk"
+            ],
+            "procedural_fairness": [
+                "reasonableness",
+                "procedural fairness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "rejected"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "key consideration"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "establishment in Canada",
+                "personalized risk"
+            ],
+            "cause_of_action": [
+                "refugee claim rejection",
+                "H&C application denial"
+            ],
+            "appeal_outcome": [
+                "judicial review dismissed"
+            ]
+        }
+    ]
+}

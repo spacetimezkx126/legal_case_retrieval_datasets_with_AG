@@ -1,0 +1,25 @@
+{
+    "Case ID": "014329",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days of physical presence in Canada within four years preceding the application"
+            ],
+            "evidence_assessment": [
+                "inconsistent evidence (194 vs. 33 days absent)",
+                "lacked credible documentation",
+                "discrepancies in evidence",
+                "unreliable evidence"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "failed to meet residency requirement"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed Citizenship Judge’s decision based on legal standards and evidence analysis"
+            ]
+        }
+    ]
+}

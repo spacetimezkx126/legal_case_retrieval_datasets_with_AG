@@ -1,0 +1,33 @@
+{
+    "Case ID": "088407",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "patent_validity": [
+                "invalid"
+            ],
+            "applicable_statute": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "Patent Act"
+            ],
+            "expert_testimony": [
+                "properties were inherent in prior treatments"
+            ],
+            "legal_basis": [
+                "anticipation",
+                "obviousness"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "claim_nature": [
+                "patents were valid and infringed"
+            ],
+            "technical_details": [
+                "omeprazole’s antimicrobial effects",
+                "increased bioavailability of antibiotics"
+            ]
+        }
+    ]
+}

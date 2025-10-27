@@ -1,0 +1,33 @@
+{
+    "Case ID": "062618",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural Fairness Breach",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach"
+            ],
+            "decision_reasoning": [
+                "refusal to adjourn",
+                "pressure to proceed without counsel"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "application_details": [
+                "request for adjournment due to changing counsel"
+            ],
+            "court_ruling": [
+                "judicial review allowed"
+            ],
+            "result_of_case": [
+                "referred to differently constituted panel",
+                "new hearing on peremptory basis"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act",
+                "Immigration and Refugee Protection Rules, SOR/2002-228, rule 48(4)"
+            ]
+        }
+    ]
+}

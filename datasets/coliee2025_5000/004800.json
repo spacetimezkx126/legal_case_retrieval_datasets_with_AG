@@ -1,0 +1,84 @@
+{
+    "Case ID": "004800",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "fear of persecution",
+                "Convention ground",
+                "Tamil ethnicity",
+                "LTTE connections"
+            ],
+            "evidence_assessment": [
+                "targeting of young Tamil males",
+                "mixed motives involving racial elements"
+            ],
+            "decision_outcome": [
+                "case remanded for reconsideration",
+                "Board erred"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, s. 96",
+                "Convention refugee",
+                "well-founded fear of persecution"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "Refugee Protection Division's decision"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "race",
+                "ethnicity"
+            ],
+            "specific_targeting": [
+                "Tamil ethnicity"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application was allowed",
+                "Board's decision was quashed",
+                "case was sent back for reconsideration"
+            ],
+            "persecution_details": [
+                "repeated detentions",
+                "threats by pro-government groups"
+            ]
+        },
+        {
+            "Crime Name": "Racial Persecution",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "persecution_grounds": [
+                "race"
+            ],
+            "refugee_definition": [
+                "Convention refugee",
+                "well-founded fear of persecution"
+            ],
+            "credibility_findings": [
+                "mere extortion",
+                "not persecution linked to race"
+            ],
+            "judicial_review_process": [
+                "s. 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Board's decision quashed",
+                "reconsideration ordered"
+            ],
+            "legal_basis": [
+                "s. 96 of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

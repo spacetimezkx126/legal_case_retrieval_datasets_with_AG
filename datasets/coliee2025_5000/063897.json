@@ -1,0 +1,30 @@
+{
+    "Case ID": "063897",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "insufficient identity evidence"
+            ],
+            "reasonableness_standard": [
+                "patently unreasonable"
+            ],
+            "documentary_evidence": [
+                "photocopies",
+                "original birth certificate"
+            ],
+            "evidence_assessment": [
+                "disregards evidence",
+                "lacks justification"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "matter is remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        }
+    ]
+}

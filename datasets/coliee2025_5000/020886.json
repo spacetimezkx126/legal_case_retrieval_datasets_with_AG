@@ -1,0 +1,110 @@
+{
+    "Case ID": "020886",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in immigration process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 96",
+                "s. 97"
+            ],
+            "evidence_assessment": [
+                "new evidence showing ongoing threats",
+                "medical evidence dismissed without valid reasoning"
+            ],
+            "state_protection_analysis": [
+                "lacked depth",
+                "Kenya's impunity issues"
+            ],
+            "decision_outcome": [
+                "unreasonable dismissal of evidence and risks",
+                "matter is returned for reconsideration by a different Officer"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA, s. 96",
+                "IRPA, s. 97"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remanded for reconsideration"
+            ],
+            "procedural_fairness": [
+                "dismissed new evidence",
+                "inadequate state protection analysis"
+            ],
+            "standard_of_review": [
+                "reasonableness standard",
+                "correctness applies to legal tests"
+            ],
+            "state_protection": [
+                "inadequate analysis",
+                "ignoring Kenya's impunity issues"
+            ],
+            "risk_characterization": [
+                "threats and murders linked to dispute"
+            ],
+            "nexus_to_convention_grounds": [
+                "dispute over land ownership"
+            ],
+            "materiality_of_misrepresentation": [
+                "new evidence of threats"
+            ],
+            "judicial_authority": [
+                "Court quashed PRRA decision"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated sexual assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "new evidence (letters, medical reports) showing ongoing threats and PTSD"
+            ],
+            "state_protection_analysis": [
+                "flawed state protection reasoning"
+            ],
+            "evidence_consideration": [
+                "dismissed this evidence as insufficient without proper analysis"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable and lacked justification"
+            ],
+            "risk_of_persecution": [
+                "threats from his cousin over a land dispute, leading to violence and persecution concerns"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide necessaries of life",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "credible new evidence showing ongoing threats",
+                "medical report supporting PTSD diagnosis"
+            ],
+            "state_protection": [
+                "insufficient analysis",
+                "Kenya's impunity issues"
+            ],
+            "decision_reasoning": [
+                "unreasonable decision",
+                "failed to consider new evidence and state protection"
+            ],
+            "result_of_case": [
+                "Court allowed application",
+                "PRRA decision quashed",
+                "reconsideration ordered by different Officer"
+            ]
+        }
+    ]
+}

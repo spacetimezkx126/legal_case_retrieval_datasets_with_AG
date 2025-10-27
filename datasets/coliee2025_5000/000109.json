@@ -1,0 +1,57 @@
+{
+    "Case ID": "000109",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "patent unreasonableness"
+            ],
+            "evidence_consideration": [
+                "insufficient documentation",
+                "likelihood of departure",
+                "ties to Pakistan",
+                "lack of financial proof",
+                "international travel history"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "immigration_status": [
+                "temporary resident visa"
+            ],
+            "applicant_characteristics": [
+                "weak ties to home country"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "patent unreasonableness"
+            ],
+            "evidence_considered": [
+                "ties to Pakistan",
+                "financial proof",
+                "international travel history"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "decision quashed",
+                "re-determination by another officer"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        }
+    ]
+}

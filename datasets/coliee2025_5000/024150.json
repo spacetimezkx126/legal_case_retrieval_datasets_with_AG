@@ -1,0 +1,26 @@
+{
+    "Case ID": "024150",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-Removal Risk Assessment (PRRA) Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Applicants were not notified of a request for further evidence",
+                "Procedural fairness requires applicants to be informed of requests affecting their case"
+            ],
+            "evidence_assessment": [
+                "Lack of response to a request for additional information"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "Original decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicants failed to update contact information after firing lawyer"
+            ],
+            "standard_of_review": [
+                "Judicial review assessed procedural fairness breach"
+            ]
+        }
+    ]
+}

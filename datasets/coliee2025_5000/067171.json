@@ -1,0 +1,30 @@
+{
+    "Case ID": "067171",
+    "Different Crime": [
+        {
+            "Crime Name": "Forced conscription by terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "LTTE"
+            ],
+            "legal_basis": [
+                "IRPA s. 34(1)(f)"
+            ],
+            "evidence_credibility": [
+                "applicant avoided recruitment",
+                "did not support LTTE goals"
+            ],
+            "decision_outcome": [
+                "IAD's decision overturned",
+                "case remitted for reconsideration"
+            ],
+            "judicial_review_result": [
+                "Judicial review of IAD decision",
+                "Federal Court reviewed whether IAD applied correct legal test and reasonably weighed evidence"
+            ],
+            "inadmissibility_criteria": [
+                "foreign national is inadmissible if they are a member of an organization engaging in terrorism"
+            ]
+        }
+    ]
+}

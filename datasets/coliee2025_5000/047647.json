@@ -1,0 +1,53 @@
+{
+    "Case ID": "047647",
+    "Different Crime": [
+        {
+            "Crime Name": "Entering Canada with false documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "applicant's identity",
+                "false Japanese passport",
+                "lacked original identity documents"
+            ],
+            "evidence_assessment": [
+                "unreasonable dismissal of evidence",
+                "failed to thoroughly analyze additional documents with security features"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "establish identity through acceptable documentation"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "matter is remitted for re-determination by a new Board"
+            ],
+            "standard_of_review": [
+                "reasonableness of the Board's decision under applicable laws"
+            ]
+        },
+        {
+            "Crime Name": "Identity fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "reasonableness standard"
+            ],
+            "evidence_provided": [
+                "household register",
+                "school certificates",
+                "official stamps"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "remitted for re-determination"
+            ],
+            "decision_outcome": [
+                "unreasonable dismissal of evidence"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Case ID": "019620",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to Comply with Court Order",
+            "Crime Type": "others",
+            "legal_basis": [
+                "unless order"
+            ],
+            "procedure_followed": [
+                "defendant moved to dismiss the case",
+                "plaintiff sought an extension",
+                "court analyzed compliance and extenuating factors"
+            ],
+            "decision_reasoning": [
+                "delayed freight payments",
+                "bank transfers"
+            ],
+            "result_of_case": [
+                "plaintiff granted additional time to comply under specific conditions"
+            ],
+            "application_details": [
+                "full security is provided by July 11, 1997",
+                "amended claim",
+                "particulars",
+                "motion costs"
+            ]
+        }
+    ]
+}

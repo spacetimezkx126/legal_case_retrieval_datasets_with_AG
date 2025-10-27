@@ -1,0 +1,28 @@
+{
+    "Case ID": "042691",
+    "Different Crime": [
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Copyright Act"
+            ],
+            "evidence_assessment": [
+                "substantial reproduction",
+                "fair dealing",
+                "implied consent"
+            ],
+            "decision_reasoning": [
+                "no infringement proven",
+                "statute-barred under s. 41(1)"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "costs awarded to respondents"
+            ],
+            "relevant_statute": [
+                "s. 41(1)"
+            ]
+        }
+    ]
+}

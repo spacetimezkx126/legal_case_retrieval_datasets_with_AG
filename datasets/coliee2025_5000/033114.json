@@ -1,0 +1,27 @@
+{
+    "Case ID": "033114",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 446"
+            ],
+            "procedural_fairness": [
+                "plaintiff unrepresented and did not participate"
+            ],
+            "decision_reasoning": [
+                "defendant provided a reasonable cost estimate of $71,379, with projected taxed costs at about $65,000"
+            ],
+            "application_details": [
+                "plaintiff resides in Virginia, USA, and has no Canadian assets"
+            ],
+            "result_of_case": [
+                "court granted $50,000 security for costs, allowing further applications if needed"
+            ],
+            "relevant_rule": [
+                "rule 446 allows for security for costs if the plaintiff is ordinarily resident outside the jurisdiction and lacks assets within Canada"
+            ]
+        }
+    ]
+}

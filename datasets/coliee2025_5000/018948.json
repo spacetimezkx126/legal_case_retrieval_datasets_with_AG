@@ -1,0 +1,32 @@
+{
+    "Case ID": "018948",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud (Genuine Marriage)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not raising specific concerns",
+                "excluded relevant evidence"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in testimony",
+                "lack of financial intermingling",
+                "unreliable documentary evidence"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "IAD's decision quashed",
+                "matter returned for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage not genuine",
+                "entered into primarily for immigration purposes"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations",
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

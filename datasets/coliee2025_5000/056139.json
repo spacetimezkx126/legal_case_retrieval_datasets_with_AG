@@ -1,0 +1,34 @@
+{
+    "Case ID": "056139",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicines (Notice of Compliance) Regulations",
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "sufficiency",
+                "utility",
+                "obviousness"
+            ],
+            "expert_testimony": [
+                "yes"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "Pharmascience's allegation of invalidity not justified"
+            ],
+            "cause_of_action": [
+                "prohibition of regulatory approval for generic drug until patent expiration"
+            ],
+            "judicial_authority": [
+                "judicial review under the NOC Regulations"
+            ],
+            "appeal_outcome": [
+                "Pfizer succeeded in protecting its patent rights"
+            ]
+        }
+    ]
+}

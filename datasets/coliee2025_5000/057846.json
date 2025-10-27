@@ -1,0 +1,43 @@
+{
+    "Case ID": "057846",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "failure to disclose a change in marital status"
+            ],
+            "legal_basis": [
+                "s. 27(1)(e) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; removal order upheld"
+            ],
+            "regulatory_compliance": [
+                "non-compliance with immigration duties"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "failure to disclose a change in marital status"
+            ],
+            "applicable_statute": [
+                "s. 27(1)(e) of the Immigration Act"
+            ],
+            "decision_outcome": [
+                "removal order upheld"
+            ],
+            "judicial_authority": [
+                "Judicial review of Appeal Division’s decision"
+            ],
+            "relationship_genuineness": [
+                "not applicable due to non-disclosure"
+            ],
+            "standard_of_review": [
+                "not explicitly stated but implied as reasonableness"
+            ]
+        }
+    ]
+}

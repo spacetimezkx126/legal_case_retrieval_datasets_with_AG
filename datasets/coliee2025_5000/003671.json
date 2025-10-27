@@ -1,0 +1,26 @@
+{
+    "Case ID": "003671",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Minister bears the risk of failed communication unless proper evidence proves the communication was sent."
+            ],
+            "evidence_assessment": [
+                "No affidavit evidence provided by the Minister that the letter was sent.",
+                "Tribunal record and Delivery Status Notification were insufficient proof."
+            ],
+            "decision_outcome": [
+                "Refusal of the application is quashed.",
+                "Case remanded for reconsideration by a different official."
+            ],
+            "immigration_status": [
+                "Applicant's immigration application was refused due to alleged non-response to a communication never proven to have been sent."
+            ],
+            "standard_of_review": [
+                "Judicial review initiated by the applicant."
+            ]
+        }
+    ]
+}

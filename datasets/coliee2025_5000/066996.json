@@ -1,0 +1,54 @@
+{
+    "Case ID": "066996",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to report six trips abroad",
+                "memory issues",
+                "significant discrepancies"
+            ],
+            "evidence_assessment": [
+                "expired passport was destroyed",
+                "lacked corroborating evidence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "quashed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "misrepresented her absences from Canada",
+                "weak explanations for discrepancies"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose information",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Citizenship Act, s. 5(1)(c)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "weak explanations",
+                "lack of supporting evidence"
+            ],
+            "decision_reasoning": [
+                "unreasonably approved citizenship application",
+                "discrepancies in residency evidence"
+            ],
+            "result_of_case": [
+                "citizenship application approval overturned",
+                "Pereira can reapply"
+            ],
+            "procedure_followed": [
+                "judicial review by Federal Court"
+            ]
+        }
+    ]
+}

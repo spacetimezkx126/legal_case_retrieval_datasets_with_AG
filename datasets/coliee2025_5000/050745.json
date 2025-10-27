@@ -1,0 +1,32 @@
+{
+    "Case ID": "050745",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "unusual, undeserved or disproportionate hardship"
+            ],
+            "standard_of_review": [
+                "correctness for legal issues",
+                "reasonableness for mixed fact/law issues"
+            ],
+            "decision_reasoning": [
+                "officer used both H&C hardship and PRRA risk language",
+                "inconsistency in terminology raises doubts about the decision's validity"
+            ],
+            "application_details": [
+                "Applicants' H&C application was denied due to perceived insufficient hardship evidence"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review is granted",
+                "H&C decision is set aside",
+                "matter is referred back for re-determination by a different officer"
+            ],
+            "result_of_case": [
+                "Decision overturned",
+                "case remanded for reassessment"
+            ]
+        }
+    ]
+}

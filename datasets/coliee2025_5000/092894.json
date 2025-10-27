@@ -1,0 +1,32 @@
+{
+    "Case ID": "092894",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "fair hearings"
+            ],
+            "credibility_findings": [
+                "inconsistencies in testimony",
+                "lack of credible evidence"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "well-founded fear of persecution",
+                "durable solutions"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "no question certified"
+            ],
+            "burden_of_proof": [
+                "applicant must prove well-founded fear of persecution"
+            ],
+            "reasonableness_standard": [
+                "officer's decision was reasonable"
+            ]
+        }
+    ]
+}

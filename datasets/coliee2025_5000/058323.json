@@ -1,0 +1,59 @@
+{
+    "Case ID": "058323",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "FMLN membership"
+            ],
+            "procedural_fairness": [
+                "assessed"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "judicial review"
+            ],
+            "standard_of_review": [
+                "procedurally fair and substantively reasonable"
+            ],
+            "applicable_statute": [
+                "IRPA para 34(1)(f)"
+            ],
+            "serious_criminality": [
+                "terrorism involvement"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Membership in Terrorist Group",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "evidence_credibility": [
+                "contradictions in statements",
+                "past admissions and activities"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed procedural and factual errors"
+            ],
+            "membership_in_organization": [
+                "FMLN"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable and within acceptable legal standards"
+            ],
+            "judicial_review_result": [
+                "application for judicial review dismissed"
+            ],
+            "credibility_findings": [
+                "concerns about credibility due to denial of prior admissions"
+            ],
+            "decision_outcome": [
+                "Court upheld the Officer's decision"
+            ]
+        }
+    ]
+}

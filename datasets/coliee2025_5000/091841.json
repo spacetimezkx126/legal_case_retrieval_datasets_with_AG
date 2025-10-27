@@ -1,0 +1,29 @@
+{
+    "Case ID": "091841",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee status",
+                "judicial review"
+            ],
+            "credibility_findings": [
+                "implausibility findings",
+                "lack of objective fear"
+            ],
+            "evidence_assessment": [
+                "totality of evidence",
+                "corroborating evidence"
+            ],
+            "decision_reasoning": [
+                "ignored relevant evidence",
+                "unreasonable implausibility findings"
+            ],
+            "conclusion_outcome": [
+                "application allowed",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

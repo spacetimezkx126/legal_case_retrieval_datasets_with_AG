@@ -1,0 +1,65 @@
+{
+    "Case ID": "065007",
+    "Different Crime": [
+        {
+            "Crime Name": "Sale Promotion Restriction Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Tobacco Act",
+                "Section 29(a)"
+            ],
+            "decision_outcome": [
+                "No violation of Section 29"
+            ],
+            "procedural_fairness": [
+                "Judicial review in Federal Court"
+            ],
+            "applicable_statute": [
+                "Tobacco Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "Warnings from Health Canada"
+            ],
+            "nature_of_offense": [
+                "Promotional activity restriction"
+            ],
+            "mitigating_factors": [
+                "Internal pricing strategy"
+            ]
+        },
+        {
+            "Crime Name": "Contravention of Tobacco Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Tobacco Act",
+                "section 29(a)"
+            ],
+            "cause_of_action": [
+                "pricing strategy",
+                "indirect cash rebate"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "Federal Court"
+            ],
+            "decision_reasoning": [
+                "pricing strategies do not equate to prohibited promotions or cash rebates"
+            ],
+            "result_of_case": [
+                "court ruled in favor of the applicant"
+            ],
+            "relevant_statute": [
+                "Tobacco Act"
+            ],
+            "specific_rule_applied": [
+                "section 29(a)"
+            ],
+            "conclusion_outcome": [
+                "selling multi-packs at a reduced price does not constitute a 'cash rebate'"
+            ]
+        }
+    ]
+}

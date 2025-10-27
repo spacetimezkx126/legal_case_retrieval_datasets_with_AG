@@ -1,0 +1,81 @@
+{
+    "Case ID": "022449",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa.",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 34(1)(c), (d), (e), and (f) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "hearings where classified and public evidence were reviewed",
+                "opportunities to respond but failed to clarify inconsistencies"
+            ],
+            "evidence_assessment": [
+                "credible evidence indicating a serious possibility of inadmissibility",
+                "associations with violent extremists and support for hate groups"
+            ],
+            "criminality_inadmissibility": [
+                "pose a danger to Canada's security",
+                "engage in terrorism",
+                "incite violence"
+            ],
+            "decision_outcome": [
+                "security certificate is reasonable",
+                "court upheld the security certificate",
+                "Pre-Removal Risk Assessment decision lawful"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization engaging in acts of terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "sections 34(1)(c), (d), (e), and (f) of the Immigration and Refugee Protection Act"
+            ],
+            "risk_to_national_security": [
+                "credible grounds indicating inadmissibility",
+                "threat to national security through associations and activities linked to terrorism and extremism"
+            ],
+            "membership_in_organization": [
+                "white supremacist groups"
+            ],
+            "evidence_credibility": [
+                "classified information further indicated his threat to national security"
+            ],
+            "decision_outcome": [
+                "The certificate is reasonable"
+            ],
+            "judicial_review_result": [
+                "The court upheld the security certificate as reasonable"
+            ],
+            "reasoning_given": [
+                "Ernst Zündel’s long-standing ties with white supremacist movements and dissemination of hate propaganda led to concerns about his potential threat to Canadian security"
+            ],
+            "procedural_fairness": [
+                "hearings where evidence was presented both publicly and in camera. Zündel had opportunities to respond but failed to refute key allegations convincingly"
+            ]
+        },
+        {
+            "Crime Name": "Incitement to hatred",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "sections 34(1)(c), (d), (e), and (f) of the Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "judicial reviews ensuring procedural fairness while protecting classified information"
+            ],
+            "national_security_concerns": [
+                "poses a danger to Canada's security through his associations and activities promoting hatred and violence"
+            ],
+            "immigration_status": [
+                "deemed inadmissible due to security risks"
+            ],
+            "decision_outcome": [
+                "the court upheld the certificate"
+            ],
+            "burden_of_proof": [
+                "credible evidence indicating a serious possibility of inadmissibility"
+            ]
+        }
+    ]
+}

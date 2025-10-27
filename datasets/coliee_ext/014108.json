@@ -1,0 +1,1276 @@
+{
+    "Case ID": "014108",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "extensive criminal history"
+            ],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "sufficient"
+            ],
+            "Evidence_Type": [
+                "officer's notes",
+                "criminal record"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Assessment": [
+                "accurate reflection of criminal history"
+            ],
+            "Risk_Assessment": [
+                "risk to public safety"
+            ],
+            "Risk_Type": [
+                "public safety risk"
+            ],
+            "Risk_Nature": [
+                "due to disregard for laws"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Canadian immigration authorities"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "Section 48(2)"
+            ],
+            "Legal_Provision": [
+                "Section 48(2) mandates immediate removal"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to consider children's interests claimed"
+            ],
+            "Procedural_Stage": [
+                "post-removal risk assessment"
+            ],
+            "Legal_Procedure": [
+                "judicial review"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Government_Body_Involved": [
+                "Immigration, Refugees and Citizenship Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Removal Officer under IRPA"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Obstructing a peace officer",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "failure to consider children's interests",
+                "misinterpretation of criminal history"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "post-removal risk assessment"
+            ],
+            "Evidence_Assessment": [
+                "considered extensive criminal record"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Burden_of_Proof": [
+                "on applicant"
+            ],
+            "Credibility_Factor": [
+                "applicant's credibility questioned due to criminal behavior"
+            ],
+            "Legal_Rule": [
+                "deferral requires compelling circumstances"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Issue": [
+                "alleged failure to consider humanitarian factors"
+            ],
+            "Grounds_for_Claim": [
+                "harm to Canadian-born children"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "decision found fair"
+            ],
+            "Key_Evidence_Considered": [
+                "criminal record",
+                "lack of compelling evidence"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicant_Challenge": [
+                "denial of deferral"
+            ],
+            "Court_Result": [
+                "dismissed"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "argued family hardship"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "personal claims"
+            ],
+            "Remedy_Requested": [
+                "deferral of removal"
+            ],
+            "Outcome": [
+                "denied"
+            ],
+            "Decision_Authority": [
+                "Removal Officer"
+            ],
+            "Remedy_Sought": [
+                "stay of removal"
+            ],
+            "Resolution_Mechanism": [
+                "humanitarian and compassionate application recommended"
+            ],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Authority": [
+                "IRCC Removal Officer"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminal inadmissibility"
+            ],
+            "Applicable_Process": [
+                "removal order execution"
+            ],
+            "Outcome_of_Review": [
+                "no error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "H&C application possible"
+            ],
+            "Jurisdiction": [
+                "Federal Court of Canada"
+            ],
+            "Governing_Rule": [
+                "patent unreasonableness standard"
+            ]
+        },
+        {
+            "Crime_Name": "Escape from lawful custody",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "immigration detention breach"
+            ],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "applicant has long criminal record"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Remedy_Requested": [
+                "deferral based on family ties"
+            ],
+            "Court_Ruling": [
+                "no patent unreasonableness"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Defendant_Behavior": [
+                "escape from custody"
+            ],
+            "Grounds_for_Claim": [
+                "harm to children",
+                "speed of process"
+            ],
+            "Legal_Standard": [
+                "compelling circumstances required"
+            ],
+            "Assessment_Factor": [
+                "criminal history",
+                "disregard for laws"
+            ],
+            "Applicable_Legislation": [
+                "IRPA"
+            ],
+            "Procedural_Issue": [
+                "timing and fairness of process"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Credibility_Assessment": [
+                "applicant's claims not compelling"
+            ],
+            "Evidence_Used": [
+                "criminal record",
+                "removal timeline"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Application_Basis": [
+                "request for deferral"
+            ],
+            "Evidence_Assessed": [
+                "criminal history relevant"
+            ],
+            "Relief_Sought": [
+                "stay of removal"
+            ],
+            "Governing_Rule": [
+                "Section 48(2) IRPA"
+            ],
+            "Evidentiary_Deficiency": [
+                "lack of exceptional circumstances"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Decisional_Body": [
+                "Removal Officer"
+            ],
+            "Harm_Assessment": [
+                "claimed harm to children"
+            ],
+            "Cause_Description": [
+                "long criminal record, no exceptional circumstances"
+            ],
+            "Evidence_Handling": [
+                "properly considered"
+            ],
+            "Legal_Provision_Violated": [
+                "none directly, but breach of immigration conditions"
+            ],
+            "Evidence_Issues": [
+                "general hardship not sufficient"
+            ],
+            "Residency_Compliance": [
+                "non-compliant due to criminality"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "adequate"
+            ],
+            "Decision_Rationale": [
+                "no compelling reasons for deferral"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "IRCC"
+            ],
+            "Evidentiary_Issues": [
+                "no procedural unfairness"
+            ],
+            "Legal_Standard_Applied": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Obstruction of justice",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "post-removal risk assessment"
+            ],
+            "Evidence_Assessment": [
+                "criminal record considered"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Burden_of_Proof": [
+                "on applicant"
+            ],
+            "Credibility_Factor": [
+                "applicant's credibility affected by criminal past"
+            ],
+            "Legal_Rule": [
+                "deferral only for compelling circumstances"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Issue": [
+                "alleged lack of consideration of children's interests"
+            ],
+            "Grounds_for_Claim": [
+                "family hardship"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "decision within discretion"
+            ],
+            "Key_Evidence_Considered": [
+                "criminal history",
+                "family claims"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "denial of deferral"
+            ],
+            "Court_Result": [
+                "dismissed"
+            ],
+            "Legal_Rule_Source": [
+                "Section 48(2) IRPA"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "cited family ties"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "personal submissions"
+            ],
+            "Remedy_Requested": [
+                "deferral of removal"
+            ],
+            "Outcome": [
+                "denied"
+            ],
+            "Decision_Authority": [
+                "Removal Officer"
+            ],
+            "Remedy_Sought": [
+                "stay of removal"
+            ],
+            "Resolution_Mechanism": [
+                "H&C application suggested"
+            ],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Authority": [
+                "IRCC"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminal inadmissibility"
+            ],
+            "Applicable_Process": [
+                "removal order execution"
+            ],
+            "Outcome_of_Review": [
+                "no error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "H&C application available"
+            ],
+            "Jurisdiction": [
+                "Federal Court"
+            ],
+            "Governing_Rule": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Disguise with intent",
+            "Crime_Type": "Security Threats and Terrorism",
+            "National_Security_Element": [
+                "potential threat due to criminal behavior"
+            ],
+            "National_Security_Danger": [
+                "low, but pattern of lawlessness"
+            ],
+            "Threat_Assessment": [
+                "moderate due to repeated offenses"
+            ],
+            "Risk_Factor": [
+                "disregard for legal authority"
+            ],
+            "Nature_of_Acts": [
+                "deception to avoid legal consequences"
+            ],
+            "Target_Entity": [
+                "Canadian immigration system"
+            ],
+            "Organization_Involved": [],
+            "Admission_or_Involvement": [],
+            "Individual_Behavior": [
+                "evasive conduct"
+            ],
+            "Leadership_Role": [],
+            "Nature_of_Membership": [],
+            "Age_at_Time_of_Membership": [],
+            "Evidence_Type": [
+                "criminal record",
+                "behavioral patterns"
+            ],
+            "Key_Evidence_Issue": [
+                "intent to evade law enforcement"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Factors": [
+                "consistent pattern of non-compliance"
+            ],
+            "Credibility_Assessment": [
+                "applicant not credible due to history"
+            ],
+            "Evidence_Issues": [
+                "no dispute over facts"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Legal_Provision": [
+                "Section 48(2) IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Governing_Provision": [
+                "IRPA"
+            ],
+            "Legal_Standard": [
+                "patent unreasonableness"
+            ],
+            "Authority_Body": [
+                "IRCC"
+            ],
+            "Authority_Decision_Level": [
+                "operational level"
+            ],
+            "Decision_Level": [
+                "administrative"
+            ],
+            "Authority_Decision": [
+                "refuse deferral"
+            ],
+            "Decision_Outcome": [
+                "removal upheld"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Process": [
+                "administrative removal"
+            ],
+            "Procedural_Element": [
+                "right to request deferral"
+            ],
+            "Procedural_Issue": [
+                "fairness of decision-making"
+            ],
+            "Procedural_Fairness_Issue": [
+                "alleged lack of individualized assessment"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Institutional_Bias_Allegation": [],
+            "Reasoning_Deficiency": [],
+            "Detention_Factors": [],
+            "Length_of_Detention": [],
+            "Deportation_Risk": [
+                "high"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to comply with recognisance",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "post-conviction removal phase"
+            ],
+            "Evidence_Assessment": [
+                "criminal history considered, some outdated"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Burden_of_Proof": [
+                "on applicant"
+            ],
+            "Credibility_Factor": [
+                "past compliance issues"
+            ],
+            "Legal_Rule": [
+                "deferral requires compelling circumstances"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Issue": [
+                "consideration of outdated convictions"
+            ],
+            "Grounds_for_Claim": [
+                "emotional distress to children"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "decision reasonable"
+            ],
+            "Key_Evidence_Considered": [
+                "criminal record",
+                "recognizance violations"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "denial of deferral"
+            ],
+            "Court_Result": [
+                "dismissed"
+            ],
+            "Legal_Rule_Source": [
+                "Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "argued emotional harm"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "personal claims"
+            ],
+            "Remedy_Requested": [
+                "deferral of removal"
+            ],
+            "Outcome": [
+                "denied"
+            ],
+            "Decision_Authority": [
+                "Removal Officer"
+            ],
+            "Remedy_Sought": [
+                "stay of removal"
+            ],
+            "Resolution_Mechanism": [
+                "H&C application alternative"
+            ],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Authority": [
+                "IRCC"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminal inadmissibility"
+            ],
+            "Applicable_Process": [
+                "removal order execution"
+            ],
+            "Outcome_of_Review": [
+                "no error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "H&C application possible"
+            ],
+            "Jurisdiction": [
+                "Federal Court"
+            ],
+            "Governing_Rule": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Robbery",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "lengthy criminal record"
+            ],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "sufficient"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "officer's notes"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Assessment": [
+                "accurate documentation"
+            ],
+            "Risk_Assessment": [
+                "public safety risk"
+            ],
+            "Risk_Type": [
+                "violent recidivism"
+            ],
+            "Risk_Nature": [
+                "due to prior violent offenses"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Canadian immigration authorities"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "Section 48(2)"
+            ],
+            "Legal_Provision": [
+                "Section 48(2) mandates immediate removal"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to consider humanitarian grounds"
+            ],
+            "Procedural_Stage": [
+                "post-removal risk assessment"
+            ],
+            "Legal_Procedure": [
+                "judicial review"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Government_Body_Involved": [
+                "IRCC"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Removal Officer under IRPA"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Parole violation",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Procedural_Stage": [
+                "post-parole removal phase"
+            ],
+            "Evidence_Assessment": [
+                "long criminal record, no recent offenses"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Burden_of_Proof": [
+                "on applicant"
+            ],
+            "Credibility_Factor": [
+                "past non-compliance"
+            ],
+            "Legal_Rule": [
+                "deferral requires compelling circumstances"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Issue": [
+                "procedural fairness"
+            ],
+            "Grounds_for_Claim": [
+                "family ties",
+                "procedural concerns"
+            ],
+            "Outcome_on_Merits": [
+                "claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Judicial_Review_Outcome": [
+                "dismissed"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "decision within bounds"
+            ],
+            "Key_Evidence_Considered": [
+                "criminal history",
+                "time to prepare for removal"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "denial of deferral"
+            ],
+            "Court_Result": [
+                "dismissed"
+            ],
+            "Legal_Rule_Source": [
+                "Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "cited family hardship"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "personal submissions"
+            ],
+            "Remedy_Requested": [
+                "deferral of removal"
+            ],
+            "Outcome": [
+                "denied"
+            ],
+            "Decision_Authority": [
+                "Removal Officer"
+            ],
+            "Remedy_Sought": [
+                "stay of removal"
+            ],
+            "Resolution_Mechanism": [
+                "H&C application recommended"
+            ],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Authority": [
+                "IRCC"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "criminal inadmissibility"
+            ],
+            "Applicable_Process": [
+                "removal order execution"
+            ],
+            "Outcome_of_Review": [
+                "no error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "H&C application available"
+            ],
+            "Jurisdiction": [
+                "Federal Court"
+            ],
+            "Governing_Rule": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to attend court",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "failure to comply with court obligation"
+            ],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Application_Facts": [
+                "applicant has long criminal record"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Remedy_Requested": [
+                "deferral based on family ties"
+            ],
+            "Court_Ruling": [
+                "no patent unreasonableness"
+            ],
+            "Claimant_Status": [
+                "inadmissible permanent resident"
+            ],
+            "Defendant_Behavior": [
+                "failure to appear in court"
+            ],
+            "Grounds_for_Claim": [
+                "harm to children",
+                "speed of process"
+            ],
+            "Legal_Standard": [
+                "compelling circumstances required"
+            ],
+            "Assessment_Factor": [
+                "criminal history",
+                "disregard for legal process"
+            ],
+            "Applicable_Legislation": [
+                "IRPA"
+            ],
+            "Procedural_Issue": [
+                "failure to address children's interests"
+            ],
+            "Review_Standard": [
+                "patent unreasonableness"
+            ],
+            "Credibility_Assessment": [
+                "applicant's claims general"
+            ],
+            "Evidence_Used": [
+                "criminal record",
+                "removal timeline"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Application_Basis": [
+                "request for deferral"
+            ],
+            "Evidence_Assessed": [
+                "general hardship insufficient"
+            ],
+            "Relief_Sought": [
+                "stay of removal"
+            ],
+            "Governing_Rule": [
+                "Section 48(2) IRPA"
+            ],
+            "Evidentiary_Deficiency": [
+                "lack of compelling evidence"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Decisional_Body": [
+                "Removal Officer"
+            ],
+            "Harm_Assessment": [
+                "claimed emotional harm"
+            ],
+            "Cause_Description": [
+                "long criminal record, procedural non-compliance"
+            ],
+            "Evidence_Handling": [
+                "properly assessed"
+            ],
+            "Legal_Provision_Violated": [
+                "court attendance obligation"
+            ],
+            "Evidence_Issues": [
+                "no procedural unfairness found"
+            ],
+            "Residency_Compliance": [
+                "non-compliant"
+            ],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "Section 48(2)"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [
+                "adequate"
+            ],
+            "Decision_Rationale": [
+                "no exceptional circumstances"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "IRCC"
+            ],
+            "Evidentiary_Issues": [
+                "no error in evaluation"
+            ],
+            "Legal_Standard_Applied": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Possession of a weapon",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [
+                "long criminal record"
+            ],
+            "Criminality_Severity": [
+                "high"
+            ],
+            "Evidence_Sufficiency": [
+                "sufficient"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "officer's notes"
+            ],
+            "Evidence_Credibility": [
+                "credible"
+            ],
+            "Credibility_Assessment": [
+                "accurate documentation"
+            ],
+            "Risk_Assessment": [
+                "public safety risk"
+            ],
+            "Risk_Type": [
+                "weapon-related violence"
+            ],
+            "Risk_Nature": [
+                "potential for harm"
+            ],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [
+                "Canada"
+            ],
+            "Jurisdiction": [
+                "Canadian immigration authorities"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "Section 48(2)"
+            ],
+            "Legal_Provision": [
+                "Section 48(2) mandates immediate removal"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Standard_of_Proof": [
+                "balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "failure to consider humanitarian factors"
+            ],
+            "Procedural_Stage": [
+                "post-conviction removal"
+            ],
+            "Legal_Procedure": [
+                "judicial review"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Government_Body_Involved": [
+                "IRCC"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "judicial review"
+            ],
+            "Authority": [
+                "Removal Officer under IRPA"
+            ],
+            "Decision_Standard": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Providing false information to a police officer",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": [],
+            "Legal_Issue": [
+                "refusal to defer removal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Decision_Level": [
+                "administrative"
+            ],
+            "Review_Court": [
+                "Federal Court"
+            ],
+            "Outcome": [
+                "judicial review dismissed"
+            ],
+            "Procedural_Context": [
+                "post-removal risk assessment"
+            ],
+            "Credibility_Assessment": [
+                "applicant's credibility undermined by false statements"
+            ],
+            "Evidence_Type": [
+                "criminal record",
+                "false information documentation"
+            ],
+            "Legal_Provision": [
+                "Section 48(2) IRPA"
+            ],
+            "Basis_of_Claim": [
+                "harm to children",
+                "crime-free since 1996"
+            ],
+            "Evaluation_Standard": [
+                "patent unreasonableness"
+            ],
+            "Key_Factor_in_Determination": [
+                "extensive criminal history"
+            ],
+            "Proceeding_Type": [
+                "judicial review"
+            ],
+            "Decision_Maker": [
+                "Removal Officer"
+            ],
+            "Regulation_Cited": [
+                "Section 48(2)"
+            ],
+            "Application_Error": [],
+            "Review_Outcome": [
+                "no error found"
+            ],
+            "Assessment_Standard": [
+                "patent unreasonableness"
+            ],
+            "Evidence_Ignored": [],
+            "Legal_Standard": [
+                "patent unreasonableness"
+            ],
+            "Application_Factor": [
+                "lack of compelling evidence"
+            ],
+            "Decision_Outcome": [
+                "deferral denied"
+            ],
+            "Authority": [
+                "IRCC"
+            ],
+            "Decision_Review_Issue": [
+                "consideration of children's interests"
+            ],
+            "Standard_of_Review": [
+                "patent unreasonableness"
+            ],
+            "Governing_Rule_or_Provision": [
+                "Section 48(2) IRPA"
+            ],
+            "Outcome_of_Review": [
+                "dismissed"
+            ],
+            "Cause_of_Refusal": [
+                "criminal history, lack of compelling reasons"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 48(2)"
+            ],
+            "Evidentiary_Issues": [
+                "no procedural unfairness"
+            ],
+            "Procedural_Fairness": [
+                "decision within discretion"
+            ],
+            "Document_Fraud": [],
+            "Credibility_Issues": [
+                "false statements affect credibility"
+            ],
+            "Legal_Defense_or_Challenge": [
+                "humanitarian grounds"
+            ],
+            "Jurisdictional_Focus": [
+                "Federal Court jurisdiction"
+            ],
+            "Relevant_Law": [
+                "IRPA"
+            ],
+            "Procedural_Issue": [
+                "fairness of administrative decision"
+            ],
+            "Omission_Type": [
+                "failure to provide compelling evidence"
+            ],
+            "Grounds_for_Inadmissibility": [
+                "criminal inadmissibility"
+            ]
+        }
+    ]
+}

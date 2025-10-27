@@ -1,0 +1,30 @@
+{
+    "Case ID": "026376",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "delayed departure",
+                "returns to Haiti",
+                "no asylum claim in the U.S.",
+                "evasive testimony"
+            ],
+            "reasonableness_standard": [
+                "mixed questions of fact and law"
+            ],
+            "risk_of_persecution": [
+                "alleged persecution by an armed gang in Haiti"
+            ],
+            "evidence_assessment": [
+                "tribunal's findings regarding credibility, evidence treatment"
+            ],
+            "decision_outcome": [
+                "dismissed the judicial review application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Case ID": "021787",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to declare previous refusals",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Providing meaningful opportunity to respond",
+                "Risk of non-delivery shifts to applicant if no failure indication exists"
+            ],
+            "evidence_assessment": [
+                "Letter sent to correct address",
+                "No indication of delivery failure"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "No question for certification"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard"
+            ],
+            "legal_basis": [
+                "Judicial review application under subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

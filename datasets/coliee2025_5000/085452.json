@@ -1,0 +1,29 @@
+{
+    "Case ID": "085452",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "internal_flight_alternative": [
+                "Abuja"
+            ],
+            "reasonableness_standard": [
+                "unreasonable decision due to unaddressed contradictory evidence"
+            ],
+            "risk_of_persecution": [
+                "fear of persecution by MEND"
+            ],
+            "evidence_assessment": [
+                "ignored evidence of violence against new arrivals in Abuja"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "case remanded for reconsideration"
+            ],
+            "review_standard": [
+                "correctness for first branch",
+                "reasonableness for second branch"
+            ]
+        }
+    ]
+}

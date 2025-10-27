@@ -1,0 +1,30 @@
+{
+    "Case ID": "026292",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Section 16(1) of IRPA",
+                "IRPA section 72(1)"
+            ],
+            "procedural_fairness": [
+                "correctness standards"
+            ],
+            "evidence_assessment": [
+                "expert testimony",
+                "affidavits"
+            ],
+            "decision_reasoning": [
+                "Respondent failed to prove the email was properly sent"
+            ],
+            "result_of_case": [
+                "Judicial review granted",
+                "application remitted to a different visa officer for reassessment"
+            ],
+            "cause_of_action": [
+                "Visa Officer refused the application due to lack of response to an email request for additional information"
+            ]
+        }
+    ]
+}

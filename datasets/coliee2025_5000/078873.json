@@ -1,0 +1,51 @@
+{
+    "Case ID": "078873",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "compelling reasons exception in s. 108(4) of the IRPA"
+            ],
+            "procedural_fairness": [
+                "failure to assess s. 108(4)"
+            ],
+            "residency_requirements": [
+                "failed to meet under s. 139(1)(d)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed except for quashing inadmissibility on crimes against humanity"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissibility determination quashed"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "compelling_reasons": [
+                "not considered by officer"
+            ],
+            "legal_basis": [
+                "s. 108(4) of IRPA",
+                "s. 139(1)(d) of IRPA"
+            ],
+            "decision_outcome": [
+                "finding of complicity quashed",
+                "judicial review dismissed"
+            ],
+            "human_rights_violations": [
+                "involvement with groups accused of human rights violations"
+            ],
+            "burden_of_proof": [
+                "prima facie evidence of 'appalling' or 'atrocious' past persecution required"
+            ],
+            "judicial_review_process": [
+                "reviewed whether officer erred in application of IRPA provisions"
+            ]
+        }
+    ]
+}

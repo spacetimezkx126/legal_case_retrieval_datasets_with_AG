@@ -1,0 +1,24 @@
+{
+    "Case ID": "025354",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Applicant lied about meeting employer in 2001"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether Officer exceeded authority or breached fairness"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant provided inconsistent information during interview about relationship with employer"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed; no breach of duty found"
+            ],
+            "legal_basis": [
+                "Under IRPA, visa officers can assess applicant credibility but rely on HRSDC for employment offer genuineness"
+            ]
+        }
+    ]
+}

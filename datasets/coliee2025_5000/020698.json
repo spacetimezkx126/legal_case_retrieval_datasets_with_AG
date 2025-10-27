@@ -1,0 +1,63 @@
+{
+    "Case ID": "020698",
+    "Different Crime": [
+        {
+            "Crime Name": "False Documentation for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent testimony",
+                "doubts about credibility"
+            ],
+            "evidence_assessment": [
+                "false documentation",
+                "delayed birth certificate acquisition",
+                "hesitations",
+                "lack of security features",
+                "inconsistencies in testimony"
+            ],
+            "identity_verification": [
+                "failed to establish credible identity"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "applicable_statute": [
+                "Section 106 of IRPA",
+                "IRPA subsection 72(1)"
+            ],
+            "identity_documents": [
+                "acceptable documentation"
+            ],
+            "material_misrepresentation": [
+                "inconsistent and unverifiable information"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "hesitations, contradictions, lack of supporting documents",
+                "discrepancies in testimony regarding detention, itinerary, and medical evidence"
+            ],
+            "reasonableness_standard": [
+                "reasonable overall"
+            ]
+        }
+    ]
+}

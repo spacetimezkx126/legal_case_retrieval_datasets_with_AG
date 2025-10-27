@@ -1,0 +1,24 @@
+{
+    "Case ID": "099754",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with conditions of temporary resident status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breached",
+                "insufficient reasons"
+            ],
+            "immigration_status": [
+                "temporary resident status"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "decision quashed"
+            ],
+            "standard_of_review": [
+                "procedural fairness",
+                "sufficiency of reasons"
+            ]
+        }
+    ]
+}

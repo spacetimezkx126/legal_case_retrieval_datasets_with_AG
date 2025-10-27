@@ -1,0 +1,50 @@
+{
+    "Case ID": "089833",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "amended section 4(1) of Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_assessment": [
+                "applicant's wife used an English-only profile, had limited communication, and pursued relationship quickly"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "Court dismissed application, upholding IAD's determination that marriage was not genuine"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "lack of genuineness"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Court"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations, section 4(1)"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "evidence_provided": [
+                "applicant's wife used an English-only profile",
+                "limited communication",
+                "pursued relationship quickly"
+            ],
+            "cause_of_action": [
+                "visa refusal"
+            ]
+        }
+    ]
+}

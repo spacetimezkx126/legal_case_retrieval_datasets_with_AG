@@ -1,0 +1,101 @@
+{
+    "Case ID": "087093",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Misuse under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "officers not obligated to provide interpreters",
+                "applicants can bring interpreters"
+            ],
+            "credibility_assessment": [
+                "discrepancies in work history and marriage timeline"
+            ],
+            "decision_outcome": [
+                "visa application denied",
+                "Federal Court dismissed the case"
+            ],
+            "misrepresentation_or_fraud": [
+                "suspected marriage fraud for immigration benefits"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "reviewed"
+            ],
+            "relationship_genuineness": [
+                "suspected fraud"
+            ],
+            "evidence_provided": [
+                "discrepancies in meeting timeline",
+                "evidence of cohabitation"
+            ],
+            "reasonableness_standard": [
+                "upheld officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA marriage validity rules"
+            ],
+            "procedural_fairness": [
+                "review of procedural fairness"
+            ],
+            "evidence_consideration": [
+                "discrepancies in meeting timeline",
+                "doubts about motives",
+                "evidence of cohabitation"
+            ],
+            "reasonableness_of_decision": [
+                "court found no unreasonableness"
+            ],
+            "immigration_status": [
+                "visa application denied"
+            ],
+            "standard_of_proof": [
+                "officer's decision based on evidence"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "lack of interpreter",
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "visa application denied",
+                "judicial review dismissed"
+            ],
+            "evidence_considered": [
+                "discrepancies in meeting timeline",
+                "cohabitation evidence"
+            ],
+            "immigration_status": [
+                "Indian citizen",
+                "German resident",
+                "Canadian permanent resident spouse"
+            ],
+            "court_ruling": [
+                "no breach of fairness",
+                "upheld officer's decision"
+            ]
+        }
+    ]
+}

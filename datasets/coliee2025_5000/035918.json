@@ -1,0 +1,28 @@
+{
+    "Case ID": "035918",
+    "Different Crime": [
+        {
+            "Crime Name": "Using a passport that did not belong to him",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "fraudulent documents",
+                "suspected marriage fraud"
+            ],
+            "immigration_status": [
+                "applied for permanent residence through marriage"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review",
+                "upholding the Officer's decision"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in financial and social evidence",
+                "timing of the marriage post-refusal of refugee status",
+                "applicant's immigration history"
+            ]
+        }
+    ]
+}

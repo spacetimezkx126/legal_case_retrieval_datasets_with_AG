@@ -1,0 +1,367 @@
+{
+    "Case ID": "039504",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Police"
+            ],
+            "Victim_Status": [
+                "Political Activist"
+            ],
+            "Location_of_Incident": [
+                "Azerbaijan"
+            ],
+            "Threat_Source": [
+                "State Authorities"
+            ],
+            "Aggravating_Factors": [
+                "Linked to Political Activism"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "Serious"
+            ],
+            "Evidence_Sufficiency": [
+                "Insufficient"
+            ],
+            "Evidence_Type": [
+                "Medical Report",
+                "Personal Testimony"
+            ],
+            "Evidence_Credibility": [
+                "Dismissed as Potentially Forged"
+            ],
+            "Credibility_Assessment": [
+                "Speculative Rejection by Panel"
+            ],
+            "Risk_Assessment": [
+                "Ongoing Risk if Returned"
+            ],
+            "Risk_Type": [
+                "Physical Harm"
+            ],
+            "Risk_Nature": [
+                "Targeted"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Anna Ivanovna Ukleina"
+            ],
+            "Targeted_Individual_Status": [
+                "Refugee Claimant"
+            ],
+            "Geographic_Context": [
+                "Azerbaijan"
+            ],
+            "Jurisdiction": [
+                "Canada (Immigration and Refugee Board)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "Section 96, Section 97"
+            ],
+            "Legal_Provision": [
+                "Section 96, Section 97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 96, Section 97"
+            ],
+            "Standard_of_Proof": [
+                "Balance of Probabilities"
+            ],
+            "Decision_Outcome": [
+                "Claim Rejected Initially"
+            ],
+            "Outcome": [
+                "Judicial Review Granted"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Speculative Findings"
+            ],
+            "Procedural_Stage": [
+                "Judicial Review"
+            ],
+            "Legal_Procedure": [
+                "Refugee Status Determination"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board of Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "Judicial Review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Political Persecution",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Asylum Claim"
+            ],
+            "Legal_Provision_Involved": [
+                "Section 96, Section 97 of IRPA"
+            ],
+            "Outcome": [
+                "Claim Remanded for Reassessment"
+            ],
+            "Grounds_for_Claim": [
+                "Political Opinion",
+                "Membership in Particular Social Group"
+            ],
+            "Remedy_Requested": [
+                "Refugee Protection"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act",
+                "International Refugee Law"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Credible and Consistent Evidence"
+            ],
+            "Decision_Outcome": [
+                "Unreasonable Decision Set Aside"
+            ],
+            "Institutional_Action": [
+                "Refugee Protection Division Hearing"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board of Canada"
+            ],
+            "Exemptions_or_Defenses_Cited": [],
+            "Evidence_Type": [
+                "Medical Report",
+                "Affidavit",
+                "Activism Records"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Refugee Claimant"
+            ],
+            "Nature_of_Participation": [
+                "Non-violent Political Activism"
+            ],
+            "Temporal_Context": [
+                "Recent Past"
+            ],
+            "Geographic_Context": [
+                "Azerbaijan"
+            ],
+            "Personal_Data_Implicated": [
+                "Health Information",
+                "Political Affiliation"
+            ],
+            "Legal_Statute": [
+                "IRPA s. 96, s. 97"
+            ],
+            "Assessment_Standard": [
+                "Well-Founded Fear of Persecution"
+            ],
+            "Governing_Body": [
+                "Refugee Protection Division"
+            ],
+            "Complaint_Issues": [
+                "Credibility Assessment",
+                "Speculation vs Inference"
+            ],
+            "Grounds_for_Discrimination": [
+                "Political Opinion"
+            ],
+            "Role_of_Person": [
+                "Human Rights Activist"
+            ],
+            "Protected_Group": [
+                "Political Dissidents"
+            ],
+            "Legal_Standard": [
+                "Reasonableness"
+            ],
+            "Protection_Claim": [
+                "Refugee Status"
+            ],
+            "State_Protection_Assessment": [
+                "Inadequate State Protection"
+            ],
+            "Risk_Factor": [
+                "History of Harassment and Assault"
+            ],
+            "Credibility": [
+                "Improperly Dismissed"
+            ],
+            "Legal_Provision": [
+                "IRPA s. 96"
+            ],
+            "Targeted_Group": [
+                "Political Activists"
+            ],
+            "State_Protection_Adequacy": [
+                "Inadequate"
+            ],
+            "Risk_Nature": [
+                "Targeted Persecution"
+            ],
+            "Enforcement_Action": [
+                "Harassment, Assault, Surveillance"
+            ],
+            "Claimant_Status": [
+                "Refugee Claimant"
+            ],
+            "Perpetrator_Entity": [
+                "State Security Forces"
+            ],
+            "Legal_Basis": [
+                "Convention Relating to the Status of Refugees"
+            ],
+            "Victim_Basis": [
+                "Political Opinion"
+            ]
+        },
+        {
+            "Crime_Name": "Unlawful Imprisonment",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Asylum and Credibility Assessment"
+            ],
+            "Sub_Crime_Type": [
+                "Arbitrary Detention"
+            ],
+            "Perpetrator_Type": [
+                "State Authorities"
+            ],
+            "Victim_Status": [
+                "Political Activist"
+            ],
+            "Location_of_Incident": [
+                "Azerbaijan"
+            ],
+            "Threat_Source": [
+                "Police"
+            ],
+            "Aggravating_Factors": [
+                "Connected to Political Expression"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Deemed Insufficient Due to Speculation"
+            ],
+            "Evidence_Type": [
+                "Medical Documentation",
+                "Personal Testimony"
+            ],
+            "Evidence_Credibility": [
+                "Questioned Without Basis"
+            ],
+            "Credibility_Assessment": [
+                "Rejected on Speculative Grounds"
+            ],
+            "Risk_Assessment": [
+                "Continuing Risk Upon Return"
+            ],
+            "Risk_Type": [
+                "Detention or Reprisal"
+            ],
+            "Risk_Nature": [
+                "Targeted"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Anna Ivanovna Ukleina"
+            ],
+            "Targeted_Individual_Status": [
+                "Refugee Claimant"
+            ],
+            "Geographic_Context": [
+                "Azerbaijan"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "Section 96, Section 97"
+            ],
+            "Legal_Provision": [
+                "Section 96, Section 97 IRPA"
+            ],
+            "Legal_Provision_Cited": [
+                "Section 96, Section 97"
+            ],
+            "Standard_of_Proof": [
+                "Balance of Probabilities"
+            ],
+            "Decision_Outcome": [
+                "Initial Rejection Overturned"
+            ],
+            "Outcome": [
+                "Remanded for New Hearing"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to Base Findings on Evidence"
+            ],
+            "Procedural_Stage": [
+                "Judicial Review"
+            ],
+            "Legal_Procedure": [
+                "Refugee Status Determination"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board of Canada"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "Judicial Review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        }
+    ]
+}

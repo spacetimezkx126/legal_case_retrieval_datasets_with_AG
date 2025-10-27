@@ -1,0 +1,30 @@
+{
+    "Case ID": "045442",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "insufficient",
+                "lacking connection to applicant's specific profile"
+            ],
+            "procedural_fairness": [
+                "review for procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable conclusions",
+                "unsupported by evidence"
+            ],
+            "refugee_definition": [
+                "well-founded fear of persecution or risk to life"
+            ],
+            "specific_legal_test_application": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "remanded for reconsideration"
+            ]
+        }
+    ]
+}

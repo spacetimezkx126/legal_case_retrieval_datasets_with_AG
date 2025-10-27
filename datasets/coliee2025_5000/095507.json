@@ -1,0 +1,29 @@
+{
+    "Case ID": "095507",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide acceptable identity documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "identity_verification": [
+                "insufficient credible evidence",
+                "doubts about document authenticity"
+            ],
+            "evidence_assessment": [
+                "contradictory findings",
+                "failure to consider key evidence"
+            ],
+            "credibility_assessment": [
+                "RPD questioned plausibility",
+                "concerns over authenticity and discrepancies"
+            ],
+            "decision_outcome": [
+                "case remanded for reconsideration",
+                "application allowed",
+                "RPD decision quashed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

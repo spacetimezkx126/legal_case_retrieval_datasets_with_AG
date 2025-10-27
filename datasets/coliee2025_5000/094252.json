@@ -1,0 +1,53 @@
+{
+    "Case ID": "094252",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "yes"
+            ],
+            "irreparable_harm": [
+                "yes"
+            ],
+            "balance_of_convenience": [
+                "favorable_to_applicants"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "neglected_application"
+            ],
+            "child_best_interests": [
+                "potential_impact_on_education_and_well-being"
+            ],
+            "procedural_fairness": [
+                "lawyer_negligence"
+            ],
+            "immigration_status": [
+                "pending_judicial_review"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "lawyer's failure to file a humanitarian and compassionate application"
+            ],
+            "procedural_fairness": [
+                "evidence of irreparable harm",
+                "balance of convenience favors applicants"
+            ],
+            "humanitarian_concerns": [
+                "children's education and well-being"
+            ],
+            "decision_outcome": [
+                "stay of removal granted"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ],
+            "family_impact": [
+                "potential harm to family"
+            ]
+        }
+    ]
+}

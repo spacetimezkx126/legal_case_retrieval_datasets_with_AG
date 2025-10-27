@@ -1,0 +1,54 @@
+{
+    "Case ID": "085341",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a passport knowing it has been unlawfully used",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Misuse of a child's passport by an imposter due to parental negligence"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "procedural_fairness": [
+                "Judicial review of Passport Canada's decision"
+            ],
+            "document_authenticity": [
+                "Failed to report passport lost or stolen"
+            ],
+            "standard_of_review": [
+                "Reasonableness and lawfulness of Passport Canada's decision"
+            ]
+        },
+        {
+            "Crime Name": "Failure to report loss or theft of a passport",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Passport Order"
+            ],
+            "decision_reasoning": [
+                "revocation due to misuse",
+                "denial of services for abuse"
+            ],
+            "application_details": [
+                "urgent application for child's passport"
+            ],
+            "evidence_presented": [
+                "passport misuse by imposter",
+                "failure to report as lost or stolen",
+                "weak explanations from parents"
+            ],
+            "conclusion_outcome": [
+                "reasonable decision under circumstances"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "Passport Canada's actions upheld",
+                "costs awarded to applicants"
+            ]
+        }
+    ]
+}

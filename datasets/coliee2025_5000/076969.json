@@ -1,0 +1,59 @@
+{
+    "Case ID": "076969",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Federal Courts Rules (Rules 466-472)"
+            ],
+            "decision_outcome": [
+                "$62,000 in costs",
+                "$50,000 fine (reduced to $10,000 if paid within 30 days)",
+                "potential 14-day imprisonment for non-compliance"
+            ],
+            "procedural_fairness": [
+                "Plaintiff filed for contempt after defendant ignored previous judgments. Defendant pleaded guilty"
+            ],
+            "mitigating_factors": [
+                "fine reduced to $10,000 if paid within 30 days"
+            ],
+            "nature_of_offense": [
+                "continued trademark infringement",
+                "knowingly violated a permanent injunction"
+            ]
+        },
+        {
+            "Crime Name": "Passing Off",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "trademark infringement",
+                "contempt of court"
+            ],
+            "specific_rule_applied": [
+                "Federal Courts Rules (Rules 466-472)"
+            ],
+            "aggravating_factors": [
+                "deliberate non-compliance"
+            ],
+            "mitigating_factors": [
+                "first-time contempt",
+                "guilty pleas"
+            ],
+            "decision_reasoning": [
+                "knowingly violated permanent injunction",
+                "delayed compliance for over a year"
+            ],
+            "result_of_case": [
+                "$62,000 in solicitor-client costs",
+                "$50,000 fine reducible to $10,000",
+                "suspended 14-day imprisonment sentence"
+            ],
+            "procedure_steps": [
+                "initial trademark infringement ruling",
+                "enforcement via contempt proceedings",
+                "determination of penalties based on factors"
+            ]
+        }
+    ]
+}

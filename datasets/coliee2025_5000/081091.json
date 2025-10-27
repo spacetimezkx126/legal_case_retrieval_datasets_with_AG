@@ -1,0 +1,57 @@
+{
+    "Case ID": "081091",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA s. 97(1)(b)"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Refugee Protection Division's decision under IRPA"
+            ],
+            "risk_characterization": [
+                "personalized vs generalized risk"
+            ],
+            "specific_targeting": [
+                "not distinct from the general population's risk"
+            ],
+            "nexus_to_convention_grounds": [
+                "applicant's risk of extortion and violence in El Salvador"
+            ],
+            "appeal_outcome": [
+                "Board's decision was reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Threats to life",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion",
+                "threats from Mara Salvatrucha"
+            ],
+            "country_conditions": [
+                "widespread gang activity in El Salvador"
+            ],
+            "legal_basis": [
+                "IRPA s.97(1)(b)"
+            ],
+            "risk_assessment": [
+                "comparable to the general public's risk"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review under IRPA",
+                "Board analyzed risks under sections 96 and 97"
+            ]
+        }
+    ]
+}

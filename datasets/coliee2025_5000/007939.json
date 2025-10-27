@@ -1,0 +1,35 @@
+{
+    "Case ID": "007939",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "PRRA process requirements"
+            ],
+            "evidence_assessment": [
+                "ignored significant documentary evidence",
+                "contradictory evidence not considered"
+            ],
+            "decision_reasoning": [
+                "reviewable error in evidence assessment"
+            ],
+            "risk_of_persecution": [
+                "claimed due to ethnicity (Roma)"
+            ],
+            "state_protection": [
+                "lack of state protection for Roma in Hungary"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "case referred back for redetermination"
+            ],
+            "procedure_followed": [
+                "judicial review under IRPA"
+            ],
+            "conclusion_outcome": [
+                "PRRA officer made an error"
+            ]
+        }
+    ]
+}

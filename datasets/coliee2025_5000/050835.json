@@ -1,0 +1,59 @@
+{
+    "Case ID": "050835",
+    "Different Crime": [
+        {
+            "Crime Name": "Misleading Information in Visa Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "failure to inform applicant of extrinsic evidence",
+                "ignoring relevant work experience",
+                "not notifying about new language assessment requirements"
+            ],
+            "evidence_assessment": [
+                "employment history questioned based on extrinsic evidence",
+                "overlooked relevant work as a 'researcher/tutor'"
+            ],
+            "decision_outcome": [
+                "decision overturned",
+                "case referred back for reassessment"
+            ],
+            "standard_of_review": [
+                "judicial review analyzed procedural fairness during visa application process"
+            ],
+            "misrepresentation_or_fraud": [
+                "discrepancies in employment verification"
+            ]
+        },
+        {
+            "Crime Name": "False Representation in Immigration Application",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "evidence_considered": [
+                "extrinsic evidence",
+                "employment history",
+                "work experience as a researcher/tutor",
+                "language proficiency requirements"
+            ],
+            "decision_made_by": [
+                "visa officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "decision overturned",
+                "case referred to a different visa officer"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "parties_involved": [
+                "applicant",
+                "visa officer"
+            ]
+        }
+    ]
+}

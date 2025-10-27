@@ -1,0 +1,53 @@
+{
+    "Case ID": "019110",
+    "Different Crime": [
+        {
+            "Crime Name": "False Identity Document",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 106 of IRPA"
+            ],
+            "credibility_assessment": [
+                "identity and credibility"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "identity_verification": [
+                "failed to establish identity through credible documentation"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 106 of IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review assessed the RPD's decision under the reasonableness standard"
+            ],
+            "evidence_provided": [
+                "discrepancies between the applicant's appearance and his Resident Identity Card photo",
+                "blurry chef card",
+                "unnamed family photo"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "identity_documents": [
+                "Resident Identity Card",
+                "chef card",
+                "family photo"
+            ]
+        }
+    ]
+}

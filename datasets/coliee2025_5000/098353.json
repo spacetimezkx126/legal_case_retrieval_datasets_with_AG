@@ -1,0 +1,70 @@
+{
+    "Case ID": "098353",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility on grounds of organized criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.37(1)(a)"
+            ],
+            "procedural_fairness": [
+                "disclosure of relevant information",
+                "opportunity for response",
+                "impact of undisclosed documents"
+            ],
+            "criminality_inadmissibility": [
+                "reasonable grounds to believe",
+                "member of an organized crime group"
+            ],
+            "evidence_assessment": [
+                "relied on undisclosed documents",
+                "refused disclosure requests"
+            ],
+            "decision_outcome": [
+                "allowed re-examination",
+                "ordered inclusion of missing documents",
+                "deferred judgment"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "record completeness",
+                "cross-examination rights"
+            ]
+        },
+        {
+            "Crime Name": "Breach of procedural fairness",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "failure to disclose all relevant documents and information",
+                "providing applicants with sufficient information to respond adequately"
+            ],
+            "relevant_rule": [
+                "Rule 17 of the Immigration Rules"
+            ],
+            "evidence_consideration": [
+                "key documents omitted from the CTR",
+                "documents directly influencing her decision",
+                "documents impacting allegations of bias or procedural unfairness"
+            ],
+            "decision_reasoning": [
+                "CTR was incomplete",
+                "applicant should have access to all relevant documents"
+            ],
+            "cause_of_action": [
+                "permanent residency application denied due to alleged organized criminality ties",
+                "judicial review alleging procedural fairness breaches"
+            ],
+            "procedure_steps": [
+                "motions for disclosure",
+                "cross-examinations",
+                "disputes over document relevance",
+                "court analysis of omitted documents' impact on procedural fairness"
+            ],
+            "result_details": [
+                "additional documents added to the CTR",
+                "further cross-examination allowed",
+                "ensuring completeness for fair judicial review"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Case ID": "06326",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid due to anticipation"
+            ],
+            "infringement_analysis": [
+                "Apotex’s formulation infringes the '637 Patent if it were valid"
+            ],
+            "relevant_statute": [
+                "Patent Act"
+            ],
+            "specific_rule_applied": [
+                "s. 43(2)",
+                "s. 28.2(1)",
+                "s. 28.3"
+            ],
+            "evidence_presented": [
+                "expert testimonies",
+                "prior art"
+            ],
+            "decision_reasoning": [
+                "anticipation by the '060 Patent"
+            ],
+            "application_details": [
+                "SmithKline sought to prohibit Apotex from obtaining regulatory approval for generic paroxetine tablets"
+            ],
+            "procedure_followed": [
+                "Federal Court analyzed patent validity and infringement under the Patented Medicines (Notice of Compliance) Regulations"
+            ],
+            "result_of_case": [
+                "application was dismissed",
+                "'637 Patent was found invalid due to anticipation",
+                "no prohibition order was granted"
+            ]
+        }
+    ]
+}

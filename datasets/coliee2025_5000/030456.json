@@ -1,0 +1,39 @@
+{
+    "Case ID": "030456",
+    "Different Crime": [
+        {
+            "Crime Name": "Unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 36(4)(a)(i) of the Competition Act",
+                "s. 61(1)(a)",
+                "s. 61(1)(b)"
+            ],
+            "cause_of_action": [
+                "dealership terminations",
+                "price maintenance practices"
+            ],
+            "procedure_followed": [
+                "Motion for dismissal based on limitation periods; evidence weighed partially."
+            ],
+            "result_of_case": [
+                "Claims under s. 61(1)(a) are barred",
+                "Claims under s. 61(1)(b) for trucks dismissed",
+                "Parts claims unaffected"
+            ],
+            "decision_reasoning": [
+                "Plaintiffs' evidence suggests ongoing conduct but no clear threat or discrimination after May 28, 1991",
+                "Palings rule applied to parts sales until termination, within the limitation period"
+            ],
+            "relevant_statute": [
+                "Competition Act"
+            ],
+            "evidence_assessment": [
+                "Ongoing conduct but no clear threat or discrimination after May 28, 1991"
+            ],
+            "application_details": [
+                "Palings rule applied to parts sales until termination"
+            ]
+        }
+    ]
+}

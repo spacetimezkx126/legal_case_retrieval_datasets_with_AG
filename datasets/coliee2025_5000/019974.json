@@ -1,0 +1,101 @@
+{
+    "Case ID": "019974",
+    "Different Crime": [
+        {
+            "Crime Name": "Corruption",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "particularized",
+                "generalized"
+            ],
+            "nexus_to_convention_grounds": [
+                "Convention refugees",
+                "persons in need of protection"
+            ],
+            "persecution_details": [
+                "extortion",
+                "threats",
+                "sexual harassment"
+            ],
+            "gender_specific_persecution": [
+                "Mary Ann's gender-based claim"
+            ],
+            "applicable_statute": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "Board's decision unreasonable",
+                "judicial review granted",
+                "case remitted for re-determination"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "gender_related_persecution_guidelines": [
+                "gender-based claim",
+                "gender guidelines"
+            ],
+            "risk_assessment": [
+                "targeted extortion",
+                "threats",
+                "attempted kidnapping",
+                "sexual harassment"
+            ],
+            "country_conditions": [
+                "corrupt police officers",
+                "Philippines"
+            ],
+            "refugee_status_nexus": [
+                "refugee status",
+                "Convention grounds"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision unreasonable"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion",
+                "threats",
+                "violence",
+                "attempted kidnapping",
+                "sexual harassment"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of justice",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "specific persecution",
+                "generalized risks"
+            ],
+            "applicable_regulations": [
+                "sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_reasoning": [
+                "unreasonable decision",
+                "personal risk vs generalized risk"
+            ],
+            "refugee_status": [
+                "claimant's refugee status"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "Board's decision dismissal"
+            ],
+            "result_of_case": [
+                "judicial review granted",
+                "case remitted for re-determination"
+            ]
+        }
+    ]
+}

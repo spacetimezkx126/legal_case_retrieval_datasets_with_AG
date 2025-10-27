@@ -1,0 +1,42 @@
+{
+    "Case ID": "007418",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Veterans Review and Appeal Board Act",
+                "s. 39",
+                "s. 38"
+            ],
+            "procedural_fairness": [
+                "rejection of uncontradicted evidence",
+                "lack of contradictory evidence"
+            ],
+            "decision_reasoning": [
+                "Board erred in rejecting applicant's evidence",
+                "jurisdictional error"
+            ],
+            "application_details": [
+                "Veteran applied for pension",
+                "coronary disease linked to chronic anxiety"
+            ],
+            "result_of_case": [
+                "Court allowed judicial review",
+                "case remitted to Board for reconsideration with a new panel"
+            ],
+            "evidence_assessment": [
+                "medical evidence",
+                "Dr. Sestier's opinion",
+                "lack of medical consensus"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "procedure_followed": [
+                "judicial review sought",
+                "Federal Court analyzed Board's decision"
+            ]
+        }
+    ]
+}

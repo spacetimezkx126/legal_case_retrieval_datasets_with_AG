@@ -1,0 +1,63 @@
+{
+    "Case ID": "051602",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a terrorist organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "Dev Yol"
+            ],
+            "exclusion_reason": [
+                "mere membership in a terrorist organization"
+            ],
+            "legal_basis": [
+                "Article 1, subsection F(a) of the Immigration Act"
+            ],
+            "involvement_details": [
+                "knowing participation"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "decision_outcome": [
+                "set aside and referred to a differently constituted Board"
+            ],
+            "reasoning_given": [
+                "no analysis of the applicant's specific involvement or knowledge"
+            ],
+            "procedural_fairness": [
+                "need for detailed factual analysis"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in crime against peace",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "Article 1, subsection F(a)"
+            ],
+            "exclusion_reason": [
+                "membership in a terrorist organization"
+            ],
+            "credibility_findings": [
+                "knowledge of violent activities"
+            ],
+            "specific_legal_test_application": [
+                "insufficient unless primarily directed towards brutal purposes"
+            ],
+            "judicial_review_process": [
+                "assessed application of exclusion principles and evidence analysis"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "Board's decision set aside",
+                "case referred back for reconsideration"
+            ],
+            "complicity_in_crimes": [
+                "alleged complicity in crimes against peace"
+            ],
+            "burden_of_proof": [
+                "shared purpose or knowledge of specific crimes"
+            ]
+        }
+    ]
+}

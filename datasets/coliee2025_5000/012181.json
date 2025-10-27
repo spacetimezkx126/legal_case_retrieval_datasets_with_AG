@@ -1,0 +1,31 @@
+{
+    "Case ID": "012181",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "RPD doubted applicant's credibility",
+                "RAD upheld RPD's credibility findings"
+            ],
+            "reasonableness_of_decision": [
+                "RAD's decision was reasonable",
+                "deference to RPD's credibility findings"
+            ],
+            "refugee_definition": [
+                "Applicant sought refugee status"
+            ],
+            "persecution_grounds": [
+                "forced marriage",
+                "abuse"
+            ],
+            "judicial_review_process": [
+                "judicial review dismissed",
+                "no certification of general importance questions"
+            ],
+            "burden_of_proof": [
+                "inconsistencies in applicant's testimony"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Case ID": "080304",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "inconsistencies in statements",
+                "lack of wedding photos",
+                "limited English proficiency"
+            ],
+            "evidence_assessment": [
+                "cumulative evidence"
+            ],
+            "procedural_fairness": [
+                "reasonable apprehension of bias",
+                "behavior that would lead to impartiality concerns"
+            ],
+            "decision_outcome": [
+                "dismissal of judicial review application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "No reasonable apprehension of bias was established"
+            ],
+            "evidence_provided": [
+                "inconsistencies in the visa applicant's statements",
+                "lack of wedding photos",
+                "limited English proficiency"
+            ],
+            "relationship_genuineness": [
+                "doubts about marriage genuineness"
+            ],
+            "reasonableness_standard": [
+                "The Panel's decision was reasonable based on cumulative evidence"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division"
+            ]
+        }
+    ]
+}

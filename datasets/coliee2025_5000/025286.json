@@ -1,0 +1,50 @@
+{
+    "Case ID": "025286",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada due to criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "criminality_inadmissibility": [
+                "Turkish conviction for felonious injury",
+                "equivalence with Canadian assault laws"
+            ],
+            "legal_basis": [
+                "IRPA s.36(2)(b)",
+                "Criminal Code s.265-266"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "comparison of essential elements of the offence"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed equivalence assessment"
+            ],
+            "standard_of_review": [
+                "reasonableness of Officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Criminal Code sections 265-266"
+            ],
+            "risk_assessment": [
+                "equivalency of Turkish assault offense to Canadian assault"
+            ],
+            "evidence_consideration": [
+                "comparison of essential elements of offenses",
+                "self-defense argument"
+            ],
+            "reasonableness_of_decision": [
+                "Officer's decision was reasonable"
+            ],
+            "past_criminal_convictions": [
+                "prior assault conviction in Turkey"
+            ]
+        }
+    ]
+}

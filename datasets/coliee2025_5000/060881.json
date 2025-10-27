@@ -1,0 +1,45 @@
+{
+    "Case ID": "060881",
+    "Different Crime": [
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "distinctiveness_evaluation": [
+                "lost distinctiveness"
+            ],
+            "applicable_statute": [
+                "Trade Marks Act, Section 18(1)(b)"
+            ],
+            "evidence_provided": [
+                "public perception",
+                "respondents' actions"
+            ],
+            "legal_basis": [
+                "trademark must be distinctive"
+            ],
+            "decision_outcome": [
+                "expunged from trademark register"
+            ],
+            "cause_of_action": [
+                "misleading usage of trademark"
+            ]
+        },
+        {
+            "Crime Name": "False Pretences",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 18(1)(b) of the Trade Marks Act"
+            ],
+            "evidence_provided": [
+                "use of 'Heintzman' trademark on pianos from non-Canadian sources",
+                "misleading public perception"
+            ],
+            "decision_outcome": [
+                "expunged from trademark register"
+            ],
+            "reasoning_given": [
+                "trademark lost distinctiveness due to misleading usage"
+            ]
+        }
+    ]
+}

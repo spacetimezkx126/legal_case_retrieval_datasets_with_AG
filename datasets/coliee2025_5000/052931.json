@@ -1,0 +1,24 @@
+{
+    "Case ID": "052931",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration application misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "not knowingly misrepresenting facts"
+            ],
+            "immigration_status": [
+                "refusal of immigration application"
+            ],
+            "standard_of_review": [
+                "judicial review of the immigration officer’s decision"
+            ],
+            "decision_outcome": [
+                "application allowed, case remanded for reconsideration"
+            ],
+            "legal_basis": [
+                "IRPA s. 40(1)(a)"
+            ]
+        }
+    ]
+}

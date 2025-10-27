@@ -1,0 +1,30 @@
+{
+    "Case ID": "034050",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Section 87 of IRPR",
+                "consultation with the province",
+                "economic establishment likelihood"
+            ],
+            "immigration_status": [
+                "permanent resident visa"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "procedural compliance",
+                "reasonable evaluation"
+            ],
+            "standard_of_review": [
+                "procedural fairness on correctness",
+                "factual issues on reasonableness"
+            ],
+            "regulatory_compliance": [
+                "insufficient language skills",
+                "unclear economic establishment plan"
+            ]
+        }
+    ]
+}

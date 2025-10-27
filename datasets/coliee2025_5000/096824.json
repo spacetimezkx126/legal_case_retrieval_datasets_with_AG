@@ -1,0 +1,30 @@
+{
+    "Case ID": "096824",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "inadequate interpretation",
+                "serious breach"
+            ],
+            "translation_quality": [
+                "not perfect",
+                "resorting to another language",
+                "paraphrasing statements"
+            ],
+            "credibility_findings": [
+                "affected by inadequate interpretation"
+            ],
+            "legal_basis": [
+                "Section 14 of the Canadian Charter of Rights and Freedoms"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "remanded for redetermination"
+            ],
+            "burden_of_proof": [],
+            "standard_of_proof": []
+        }
+    ]
+}

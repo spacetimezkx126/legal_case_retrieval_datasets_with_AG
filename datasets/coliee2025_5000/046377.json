@@ -1,0 +1,95 @@
+{
+    "Case ID": "046377",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "generalized",
+                "personalized"
+            ],
+            "specific_targeting": [
+                "individual targeting",
+                "retaliatory threats"
+            ],
+            "nexus_to_convention_grounds": [
+                "gang extortion",
+                "reporting gang activity"
+            ],
+            "reasonableness_standard": [
+                "Board's decision unreasonable",
+                "mischaracterization of risk"
+            ],
+            "appeal_outcome": [
+                "decision quashed",
+                "case remitted for reconsideration"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Federal Court analysis"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "personalized risk",
+                "generalized risk"
+            ],
+            "specific_threats_or_incidents": [
+                "extortion",
+                "retaliatory threats",
+                "murder of employer",
+                "disappearance of brother"
+            ],
+            "risk_assessment": [
+                "gang retaliation",
+                "fearing further violence"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision",
+                "decision quashed"
+            ],
+            "country_conditions": [
+                "Guatemala"
+            ],
+            "legal_basis": [
+                "IRPA s. 97"
+            ],
+            "procedural_fairness": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "decision_reasonableness": [
+                "Board's decision did not meet the reasonableness standard"
+            ],
+            "personalized_vs_generalized_risk": [
+                "risk as generalized rather than personalized"
+            ],
+            "relevant_statute": [
+                "s. 97 of IRPA"
+            ],
+            "application_details": [
+                "Male Applicant fled Guatemala after gang retaliation for reporting extortion, fearing murder"
+            ],
+            "procedure_followed": [
+                "Judicial review sought; Federal Court analyzed Board's reasoning under reasonableness standard"
+            ],
+            "result_of_case": [
+                "Board's decision quashed for Male Applicant; case remitted for re-evaluation"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_consideration": [
+                "experiences but mischaracterized them as extortion-related rather than retaliatory threats"
+            ],
+            "reconsideration_order": [
+                "case was remanded for reconsideration"
+            ]
+        }
+    ]
+}

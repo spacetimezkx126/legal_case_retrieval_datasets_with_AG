@@ -1,0 +1,29 @@
+{
+    "Case ID": "038825",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "errors in credibility findings"
+            ],
+            "state_protection": [
+                "state protection analysis",
+                "ignored corroborative evidence",
+                "failed to address contradictory state protection data"
+            ],
+            "decision_reasoning": [
+                "Member made fact-based errors"
+            ],
+            "refugee_status": [
+                "Applicant claimed refugee status"
+            ],
+            "court_ruling": [
+                "Judicial review granted",
+                "case remitted for redetermination",
+                "Court found Member's decision unreasonable",
+                "ordered reconsideration by a new panel"
+            ]
+        }
+    ]
+}

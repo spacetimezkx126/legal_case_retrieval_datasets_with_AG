@@ -1,0 +1,107 @@
+{
+    "Case ID": "063218",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "establishment in Canada",
+                "risks in Guyana",
+                "children's best interests"
+            ],
+            "best_interests_of_children": [
+                "considered but insufficient evidence"
+            ],
+            "procedural_fairness": [
+                "no breach occurred"
+            ],
+            "evidence_assessment": [
+                "insufficient to prove unusual hardship or significant negative impact"
+            ],
+            "decision_outcome": [
+                "Court dismissed the judicial review application"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "insufficient evidence of hardship or strong ties to Canada"
+            ],
+            "child_best_interests": [
+                "minimal impact on children's best interests"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness breach despite missed extension request"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "appeal_outcome": [
+                "Judicial review dismissed; officer's decision upheld"
+            ],
+            "reasonableness_standard": [
+                "Officer's decision was reasonable, transparent, and within acceptable outcomes"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "establishment in Canada",
+                "best interests of children",
+                "procedural fairness"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "child_best_interests": [
+                "minimal impact on children's best interests"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence for hardship upon return to Guyana",
+                "limited evidence provided by applicants"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable, transparent, and within acceptable outcomes"
+            ],
+            "family_ties": [
+                "insufficient evidence of strong ties to Canada"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "humanitarian_and_compassionate_grounds": [
+                "establishment in Canada",
+                "best interests of children",
+                "procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "transparent",
+                "within acceptable outcomes"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "applicable_law_section": [
+                "IRPA subsection 25(1)",
+                "IRPA subsection 72(1)"
+            ],
+            "evidence_provided": [
+                "insufficient evidence for hardship upon return to Guyana",
+                "minimal impact on children's best interests"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness breach"
+            ],
+            "decision_outcome": [
+                "H&C application denied"
+            ]
+        }
+    ]
+}

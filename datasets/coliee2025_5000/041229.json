@@ -1,0 +1,49 @@
+{
+    "Case ID": "041229",
+    "Different Crime": [
+        {
+            "Crime Name": "Breach of natural justice in immigration proceedings",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "continuous, precise, competent, impartial, and contemporaneous interpretation"
+            ],
+            "judicial_review_process": [
+                "review of IAD's refusal to reopen case based on alleged interpretation issues"
+            ],
+            "administrative_error": [
+                "alleged interpretation errors deemed trivial by IAD"
+            ],
+            "reasonableness_of_decision": [
+                "court agreed with IAD's finding of no material impact on fairness"
+            ],
+            "decision_outcome": [
+                "no breach of natural justice; judicial review dismissed"
+            ],
+            "burden_of_proof": [
+                "no requirement to show actual prejudice for breach"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "continuous, precise, competent, impartial, and contemporaneous interpretation"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "appeal_process": [
+                "IAD's refusal to reopen the appeal"
+            ],
+            "court_ruling": [
+                "no breach of natural justice"
+            ],
+            "evidence_considered": [
+                "alleged interpretation errors"
+            ],
+            "claimant_burden": [
+                "show actual prejudice"
+            ]
+        }
+    ]
+}

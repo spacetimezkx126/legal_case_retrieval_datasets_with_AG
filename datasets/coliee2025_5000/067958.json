@@ -1,0 +1,120 @@
+{
+    "Case ID": "067958",
+    "Different Crime": [
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Privacy Act"
+            ],
+            "legal_basis": [
+                "sections 22(1)(a)(i), 22(1)(b), 26, and 27"
+            ],
+            "standard_of_review": [
+                "correctness for categorization",
+                "reasonableness for discretion"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "upheld RCMP exemptions"
+            ],
+            "claim_nature": [
+                "request for personal information"
+            ],
+            "party_involved": [
+                "RCMP",
+                "Privacy Commissioner"
+            ],
+            "material_misrepresentation": [
+                "false statements"
+            ],
+            "public_interest": [
+                "disclosure could harm law enforcement"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Misrepresentation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "procedural_fairness": [
+                "RCMP exemptions justified under Privacy Act"
+            ],
+            "evidence_consideration": [
+                "lawful investigation",
+                "potential harm to investigations",
+                "third-party privacy",
+                "solicitor-client privilege"
+            ],
+            "standard_of_proof": [
+                "aligned with the Privacy Act's purpose"
+            ],
+            "risk_assessment": [
+                "exemptions upheld due to potential harm to investigations"
+            ],
+            "humanitarian_concerns": [],
+            "family_ties": []
+        },
+        {
+            "Crime Name": "Perjury",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "22(1)(a)(i)",
+                "22(1)(b)",
+                "26",
+                "27"
+            ],
+            "evidence_provided": [
+                "RCMP withheld information"
+            ],
+            "decision_outcome": [
+                "upheld RCMP's decision"
+            ],
+            "reasoning_given": [
+                "information fit within exemption categories"
+            ],
+            "standard_of_proof": [
+                "correctness for categorization",
+                "reasonableness for discretion"
+            ],
+            "judicial_review_result": [
+                "application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Fraudulent Misrepresentation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Privacy Act"
+            ],
+            "exclusion_reason": [
+                "lawful investigation",
+                "potential harm to investigations",
+                "third-party privacy",
+                "solicitor-client privilege"
+            ],
+            "procedural_fairness": [
+                "RCMP exemptions justified"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_laws": [
+                "s.22(1)(a)",
+                "s.22(1)(b)",
+                "s.26",
+                "s.27",
+                "s.41 of the Privacy Act"
+            ],
+            "appeal_process": [
+                "Privacy Commissioner upheld RCMP exemptions; applicant appealed"
+            ]
+        }
+    ]
+}

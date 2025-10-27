@@ -1,0 +1,128 @@
+{
+    "Case ID": "043082",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "credibility_assessment": [
+                "marriage genuineness"
+            ],
+            "procedural_fairness": [
+                "IAD review de novo",
+                "balance of probabilities"
+            ],
+            "evidence_assessment": [
+                "phone bills",
+                "letters",
+                "age disparity",
+                "marital status",
+                "financial disparity",
+                "limited knowledge of each other's lives"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "natural justice",
+                "error in law"
+            ],
+            "evidence_provided": [
+                "phone bills",
+                "letters"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "relationship_genuineness": [
+                "age difference",
+                "financial status",
+                "knowledge of each other’s history"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "sponsorship refusal",
+                "marriage fraud"
+            ],
+            "nature_of_offense": [
+                "suspected marriage fraud"
+            ],
+            "appeal_outcome": [
+                "upheld the refusal"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "natural justice",
+                "error in law"
+            ],
+            "evidence_consideration": [
+                "phone bills",
+                "letters",
+                "age difference",
+                "financial status",
+                "knowledge of each other’s history"
+            ],
+            "reasonableness_of_decision": [
+                "patent unreasonableness"
+            ],
+            "immigration_status": [
+                "sponsorship refusal",
+                "marriage fraud"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the IAD's decision."
+            ],
+            "evidence_considered": [
+                "age difference",
+                "financial status",
+                "knowledge of each other’s history",
+                "phone bills",
+                "letters"
+            ],
+            "standard_of_review": [
+                "factual findings reviewed for patent unreasonableness",
+                "IAD reviews appeals de novo"
+            ],
+            "claimant_burden": [
+                "applicant argued the IAD ignored evidence"
+            ],
+            "applicable_laws": [
+                "marriage is invalid if not genuine or entered primarily for immigration benefits"
+            ],
+            "court_ruling": [
+                "IAD's decision was not patently unreasonable"
+            ]
+        }
+    ]
+}

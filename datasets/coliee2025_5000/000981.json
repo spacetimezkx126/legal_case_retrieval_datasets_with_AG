@@ -1,0 +1,27 @@
+{
+    "Case ID": "000981",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "s. 5(1)(c) of the Citizenship Act",
+                "three years of residence in Canada within four years"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed",
+                "Ineligible for citizenship"
+            ],
+            "evidence_assessment": [
+                "454 days absent due to business",
+                "Maintained family ties and formal connections"
+            ],
+            "legal_basis": [
+                "s. 5(1)(c) of the Citizenship Act"
+            ],
+            "standard_of_review": [
+                "Appeal to Federal Court Trial Division with new evidence"
+            ]
+        }
+    ]
+}

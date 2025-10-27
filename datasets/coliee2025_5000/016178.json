@@ -1,0 +1,25 @@
+{
+    "Case ID": "016178",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1095 days of physical presence in Canada over four years"
+            ],
+            "procedural_fairness": [
+                "consideration of all evidence unless immaterial"
+            ],
+            "evidence_assessment": [
+                "discrepancies between applicant's records and ICES data",
+                "inconsistencies and missing evidence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "material_misrepresentation": [
+                "Dr. Abdelhamid failed to prove residency or demonstrate material procedural unfairness"
+            ]
+        }
+    ]
+}

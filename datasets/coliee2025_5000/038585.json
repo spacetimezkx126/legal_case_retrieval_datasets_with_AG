@@ -1,0 +1,25 @@
+{
+    "Case ID": "038585",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of duty of fairness",
+                "failure to assess qualifications"
+            ],
+            "evidence_assessment": [
+                "assessed based on written information",
+                "ignored discrepancies in work history"
+            ],
+            "decision_outcome": [
+                "application rejection quashed",
+                "referred back for reconsideration"
+            ],
+            "standard_of_review": [
+                "judicial review",
+                "certiorari and mandamus orders"
+            ]
+        }
+    ]
+}

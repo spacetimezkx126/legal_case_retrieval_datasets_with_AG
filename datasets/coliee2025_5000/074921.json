@@ -1,0 +1,113 @@
+{
+    "Case ID": "074921",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "flight risk"
+            ],
+            "procedural_fairness": [
+                "decision-making process",
+                "evidence handling",
+                "fairness in evaluating detention alternatives"
+            ],
+            "legal_basis": [
+                "Section 58 of the Immigration and Refugee Protection Act",
+                "Section 248(e)"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "new detention review ordered"
+            ],
+            "misrepresentation_or_fraud": [
+                "Immigration document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Money laundering",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "Section 58",
+                "Section 248(e)"
+            ],
+            "decision_outcome": [
+                "Judicial review granted",
+                "case remitted for new detention review within seven days"
+            ],
+            "procedural_fairness": [
+                "errors in assessing flight risk and alternatives to detention"
+            ],
+            "evidence_provided": [
+                "Tursunbayev unlikely to appear due to his wealth, past flight from Kazakhstan, and alleged misrepresentations",
+                "alternatives like GPS monitoring and physical surveillance proposed by Tursunbayev"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "risk_characterization": [
+                "flight risk"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a criminal organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Section 58 of the Immigration and Refugee Protection Act",
+                "Section 248(e)"
+            ],
+            "procedural_fairness": [
+                "errors in assessing flight risk and alternatives to detention"
+            ],
+            "decision_outcome": [
+                "application allowed, case remitted for new review"
+            ],
+            "judicial_review_result": [
+                "remittance for a new review due to procedural and factual errors"
+            ],
+            "release_conditions": [
+                "GPS monitoring",
+                "security surveillance"
+            ],
+            "risk_assessment": [
+                "flight risk"
+            ],
+            "evidence_assessment": [
+                "wealth and past actions cited as evidence"
+            ],
+            "decision_making_process": [
+                "dismissed proposed alternatives without thorough analysis"
+            ]
+        },
+        {
+            "Crime Name": "Fugitive from justice",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "flight risk",
+                "wealth",
+                "past actions",
+                "ties to Kazakhstan",
+                "errors in assessing evidence",
+                "failed to consider alternatives"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "procedural fairness",
+                "evidence assessment",
+                "alternative detention measures"
+            ],
+            "result_of_case": [
+                "application for judicial review allowed",
+                "new detention review ordered",
+                "Board's decision set aside"
+            ]
+        }
+    ]
+}

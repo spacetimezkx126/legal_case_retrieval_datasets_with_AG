@@ -1,0 +1,39 @@
+{
+    "Case ID": "002489",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "sufficiency",
+                "utility",
+                "obviousness"
+            ],
+            "relevant_statute": [
+                "Patent Act"
+            ],
+            "specific_rule_applied": [
+                "sufficiency",
+                "utility",
+                "obviousness"
+            ],
+            "application_details": [
+                "Pharmascience challenged Pfizer's '393 patent"
+            ],
+            "decision_reasoning": [
+                "sufficient and useful based on disclosed data",
+                "obviousness precluded by prior litigation"
+            ],
+            "result_of_case": [
+                "'393 patent is valid",
+                "Pfizer entitled to prohibit Notice of Compliance until patent expires"
+            ],
+            "cause_of_action": [
+                "patent infringement"
+            ],
+            "procedure_followed": [
+                "Federal Court analyzed Pharmascience's allegations under Patented Medicines (Notice of Compliance) Regulations"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Case ID": "053474",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Document Possession under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "fraudulent birth certificate"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "judicial review granted",
+                "decision quashed",
+                "remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "document_authenticity": [
+                "fraudulent document"
+            ],
+            "criminality_inadmissibility": [
+                "inadmissible for misrepresentation"
+            ],
+            "regulatory_compliance": [
+                "Section 40 of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "fraudulent birth certificate"
+            ],
+            "applicable_statute": [
+                "Section 40 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "evidence_provided": [
+                "fraudulently obtained birth certificate",
+                "official documents disclosing adoption"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "judicial_authority": [
+                "judicial review"
+            ],
+            "cause_of_action": [
+                "submission of fraudulent birth certificate"
+            ],
+            "nature_of_offense": [
+                "misrepresentation in immigration application"
+            ]
+        }
+    ]
+}

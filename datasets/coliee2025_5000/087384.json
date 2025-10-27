@@ -1,0 +1,30 @@
+{
+    "Case ID": "087384",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade Marks Act"
+            ],
+            "evidence_provided": [
+                "Konica's packaging with the plaintiff's marks"
+            ],
+            "irreparable_harm": [
+                "unquantifiable harm to the plaintiff"
+            ],
+            "balance_of_convenience": [
+                "weighed irreparable harm"
+            ],
+            "decision_outcome": [
+                "granted interlocutory injunction"
+            ],
+            "use_in_trade": [
+                "association with wares or services"
+            ],
+            "confusion_likelihood": [
+                "visibility of marks in package could imply association"
+            ]
+        }
+    ]
+}

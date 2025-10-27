@@ -1,0 +1,50 @@
+{
+    "Case ID": "017698",
+    "Crimes": [
+        {
+            "Crime_Name": "Offence Relating to the Rights of Employees Under Spanish Penal Code Section 316",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration Inadmissibility",
+            "Legal_Issue": "Equivalency of foreign conviction to Canadian criminal offense",
+            "Governing_Law": "IRPA Section 36(1)(b)",
+            "Procedural_Stage": "Judicial Review",
+            "Evidence_Assessment": "Factual findings from Spanish court regarding workplace safety violations"
+        },
+        {
+            "Crime_Name": "Gross Negligence Manslaughter Under Spanish Penal Code Section 142.1",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Manslaughter by Gross Negligence",
+            "Perpetrator_Type": "Employer/Supervisor",
+            "Victim_Status": "Worker",
+            "Location_of_Incident": "Workplace",
+            "Threat_Source": "Failure to implement safety measures"
+        },
+        {
+            "Crime_Name": "Criminal Negligence Under Section 219",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Immigration Inadmissibility",
+            "Legal_Issue": "Equivalency of foreign conviction to Canadian criminal negligence",
+            "Governing_Law": "Criminal Code Section 219",
+            "Procedural_Stage": "Immigration Officer Assessment and Judicial Review",
+            "Evidence_Assessment": "Spanish court's determination of failure to ensure workplace safety"
+        },
+        {
+            "Crime_Name": "Criminal Negligence Causing Death",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Criminal Inadmissibility under IRPA",
+            "Legal_Issue": "Equivalence of Spanish conviction to Canadian criminal offense",
+            "Governing_Law": "IRPA Section 36(1)(b)",
+            "Application_Facts": "Conviction for workplace safety failures resulting in death",
+            "Decision_Outcome": "Inadmissible due to criminal conviction"
+        },
+        {
+            "Crime_Name": "Criminal Negligence Under Section 217.1",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Criminal Negligence by Legal Duty Holder",
+            "Perpetrator_Type": "Person with authority over workplace",
+            "Victim_Status": "Worker",
+            "Location_of_Incident": "Workplace",
+            "Threat_Source": "Reckless disregard for safety by person in charge"
+        }
+    ]
+}

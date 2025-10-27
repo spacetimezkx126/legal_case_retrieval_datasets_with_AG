@@ -1,0 +1,31 @@
+{
+    "Case ID": "095108",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "risk_of_persecution": [
+                "subjective fear of persecution",
+                "objective fear of persecution"
+            ],
+            "procedural_fairness": [
+                "implausible actions",
+                "failed to consider reasonable explanations"
+            ],
+            "inconsistencies_in_testimony": [
+                "returned to Ethiopia",
+                "delayed claiming asylum",
+                "omitted details about daughter’s sexual assault"
+            ],
+            "standard_of_proof": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "case is remitted for reconsideration by a different panel"
+            ],
+            "burden_of_proof": [
+                "claimant must demonstrate both subjective and objective fear of persecution"
+            ]
+        }
+    ]
+}

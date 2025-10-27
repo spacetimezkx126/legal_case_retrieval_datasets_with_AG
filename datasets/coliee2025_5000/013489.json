@@ -1,0 +1,27 @@
+{
+    "Case ID": "013489",
+    "Different Crime": [
+        {
+            "Crime Name": "Engaging in unauthorized work",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Officer did not violate procedural fairness"
+            ],
+            "immigration_status": [
+                "temporary resident status",
+                "unauthorized work"
+            ],
+            "decision_outcome": [
+                "refusal was reasonable",
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard",
+                "correctness for procedural fairness and legal errors"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence to prove future compliance"
+            ]
+        }
+    ]
+}

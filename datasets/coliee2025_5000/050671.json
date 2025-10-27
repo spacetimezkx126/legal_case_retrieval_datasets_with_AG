@@ -1,0 +1,95 @@
+{
+    "Case ID": "050671",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "risk_assessment": [
+                "generalized risk"
+            ],
+            "legal_basis": [
+                "IRPA s.97(1)(b)(ii)"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "refugee_status_eligibility": [
+                "not eligible"
+            ],
+            "criminality_inadmissibility": []
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "applicable_statute": [
+                "IRPA"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "Refugee claim denial"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "personalized_vs_generalized_risk": [
+                "generalized"
+            ],
+            "specific_threats_or_incidents": [
+                "threatened",
+                "assaulted"
+            ],
+            "risk_of_persecution": [
+                "refugee protection"
+            ],
+            "country_conditions": [
+                "Honduras"
+            ],
+            "standard_of_proof": [
+                "reasonableness standard"
+            ],
+            "refugee_status_nexus": [
+                "IRPA s. 97(1)(b)(ii)"
+            ],
+            "reasonableness_of_decision": [
+                "upheld"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "generalized"
+            ],
+            "specific_rule_applied": [
+                "IRPA, s. 97(1)(b)(ii)"
+            ],
+            "application_details": [
+                "refugee claimant must demonstrate a personalized risk"
+            ],
+            "decision_reasoning": [
+                "risk was generalized, not personalized"
+            ],
+            "result_of_case": [
+                "Judicial review dismissed"
+            ],
+            "procedure_followed": [
+                "RPD rejected his claim; judicial review analyzed under reasonableness standard"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "019050",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA",
+                "IRPR"
+            ],
+            "credibility_assessment": [
+                "genuineness of marriage",
+                "timing of relationship",
+                "lack of family introductions",
+                "intent to stay in Canada"
+            ],
+            "evidence_assessment": [
+                "phone bills",
+                "correspondence"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "IAD's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage fraud concerns"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}

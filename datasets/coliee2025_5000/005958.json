@@ -1,0 +1,83 @@
+{
+    "Case ID": "005958",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a forged identity card",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "dismissed"
+            ],
+            "risk_assessment": [
+                "insufficient evidence of serious risk"
+            ],
+            "procedural_fairness": [
+                "Federal Court reviewed PRRA decision"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "use of forged ID"
+            ],
+            "legal_basis": [
+                "IRPA s. 96",
+                "IRPA s. 97"
+            ]
+        },
+        {
+            "Crime Name": "Failed refugee re-entry risk",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA",
+                "Section 96",
+                "Section 97"
+            ],
+            "risk_of_persecution": [
+                "deteriorating conditions in Sri Lanka",
+                "risks as a failed refugee with a forged ID"
+            ],
+            "country_conditions": [
+                "changed country conditions",
+                "deteriorating conditions in Sri Lanka"
+            ],
+            "documentary_evidence": [
+                "insufficient evidence"
+            ],
+            "credibility_findings": [
+                "lack of credibility"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "Court upheld PRRA dismissal"
+            ],
+            "burden_of_proof": [
+                "no substantial evidence supports new risks"
+            ],
+            "inconsistencies_in_testimony": [
+                "credibility issues"
+            ],
+            "specific_vulnerabilities": [],
+            "standard_of_proof": [],
+            "nexus_to_convention_grounds": [],
+            "cumulative_persecution_effects": [],
+            "changed_country_conditions": [
+                "deteriorating conditions in Sri Lanka"
+            ],
+            "independent_review_by_rad": [],
+            "stay_of_removal": [],
+            "social_group_membership": [],
+            "personalized_risk_evaluation": [
+                "risks as a failed refugee with a forged ID"
+            ],
+            "contextual_factors": [],
+            "gender_guidelines": [],
+            "compelling_reasons_exception": [],
+            "standard_of_review": [],
+            "risk_personalization": [],
+            "changed_circumstances": [
+                "changed country conditions"
+            ],
+            "specific_threats": []
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Case ID": "033765",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "insufficient reasons",
+                "cryptic reasons",
+                "residency and employment ties not addressed"
+            ],
+            "decision_outcome": [
+                "appeal allowed",
+                "remanded for redetermination"
+            ],
+            "legal_basis": [
+                "Section 14(2) of the Citizenship Act",
+                "Section 14(5) of the Citizenship Act"
+            ],
+            "residency_requirements": [
+                "roots test",
+                "strict counting of days"
+            ],
+            "standard_of_review": [
+                "appellate review"
+            ]
+        }
+    ]
+}

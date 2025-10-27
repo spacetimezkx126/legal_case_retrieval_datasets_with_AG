@@ -1,0 +1,109 @@
+{
+    "Case ID": "050603",
+    "Different Crime": [
+        {
+            "Crime Name": "Uttering threats",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "perceived availability of state protection",
+                "police ineffectiveness",
+                "family court's limited enforcement power"
+            ],
+            "evidence_consideration": [
+                "panel ignored evidence",
+                "personal circumstances",
+                "documentary proof"
+            ],
+            "risk_assessment": [
+                "abusive father who threatened them"
+            ],
+            "reasonableness_of_decision": [
+                "decision was unreasonable"
+            ],
+            "availability_of_alternative_remedies": [
+                "state protection deemed inadequate upon review"
+            ],
+            "applicant_characteristics": [
+                "applicants fled due to threats"
+            ]
+        },
+        {
+            "Crime Name": "Failure to provide protection (non-criminal but relevant to immigration context)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "refugee claim",
+                "state protection"
+            ],
+            "decision_reasoning": [
+                "unreasonable rejection of evidence"
+            ],
+            "evidence_assessment": [
+                "testimonial and documentary evidence",
+                "limited state protection"
+            ],
+            "risk_of_persecution": [
+                "abusive father",
+                "no reasonable expectation of police protection"
+            ],
+            "application_details": [
+                "fled an abusive father after he attacked them with a machete"
+            ],
+            "result_of_case": [
+                "Decision overturned",
+                "new hearing ordered"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedure_followed": [
+                "judicial review application filed",
+                "Federal Court reviewed panel's decision and evidence"
+            ],
+            "conclusion_outcome": [
+                "court allowed judicial review",
+                "set aside the decision",
+                "remanded the case for redetermination"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "state_protection": [
+                "inability to seek state protection",
+                "credible threats from their father",
+                "police ineffectiveness",
+                "prior abuse reports",
+                "limited enforcement of protection orders"
+            ],
+            "credibility_findings": [],
+            "procedural_fairness": [
+                "failure to consider key evidence"
+            ],
+            "refugee_protection": [
+                "refugee claim denial",
+                "perceived failure to seek state protection"
+            ],
+            "evidence_considered": [
+                "documentary evidence",
+                "testimony about police ineffectiveness",
+                "country conditions",
+                "personal circumstances"
+            ],
+            "decision_outcome": [
+                "Judicial review application granted",
+                "case remitted to IRB for reevaluation",
+                "Decision overturned",
+                "new hearing ordered"
+            ],
+            "applicable_laws": [
+                "Canadian refugee law"
+            ],
+            "claimant_burden": [
+                "demonstrate inability to access state protection"
+            ],
+            "court_ruling": [
+                "unreasonable due to failure to consider key evidence"
+            ]
+        }
+    ]
+}

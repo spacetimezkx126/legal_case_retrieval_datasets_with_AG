@@ -1,0 +1,30 @@
+{
+    "Case ID": "015998",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "risk_of_persecution": [
+                "religious persecution"
+            ],
+            "credibility_findings": [
+                "lack of credible evidence about church activities",
+                "doubted knowledge and exit from China"
+            ],
+            "decision_outcome": [
+                "claim dismissed",
+                "judicial review granted",
+                "new hearing ordered"
+            ],
+            "evidence_assessment": [
+                "incomplete analysis by the Board"
+            ],
+            "specific_group_membership": [
+                "past church membership"
+            ],
+            "burden_of_proof": [
+                "Board must assess likelihood of persecution"
+            ]
+        }
+    ]
+}

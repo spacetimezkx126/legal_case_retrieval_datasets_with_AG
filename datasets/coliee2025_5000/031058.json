@@ -1,0 +1,72 @@
+{
+    "Case ID": "031058",
+    "Different Crime": [
+        {
+            "Crime Name": "Conduct to the prejudice of good order and discipline",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "mixed questions of fact and law",
+                "military expertise"
+            ],
+            "application_details": [
+                "refusal to rewrite personnel evaluation report (PER)",
+                "remove repatriation letter",
+                "declare harassment"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed",
+                "CDS's decision upheld as reasonable"
+            ],
+            "cause_of_action": [
+                "accidental firearm discharges"
+            ],
+            "procedure_followed": [
+                "grievances filed",
+                "reviewed by Grievance Board",
+                "decided by CDS"
+            ],
+            "evidence_consideration": [
+                "severe administrative actions",
+                "justified documents"
+            ],
+            "decision_conclusion": [
+                "reasonable",
+                "acceptable outcomes",
+                "judicial intervention unwarranted"
+            ]
+        },
+        {
+            "Crime Name": "Accidental discharge of a firearm",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "issues acknowledged"
+            ],
+            "decision_outcome": [
+                "reasonable",
+                "upheld by court"
+            ],
+            "applicable_laws": [
+                "mixed questions of fact and law within military expertise"
+            ],
+            "claimant_burden": [
+                "challenged CDS's decision"
+            ],
+            "relevant_factors": [
+                "administrative penalties",
+                "biased personnel evaluation report"
+            ],
+            "appeal_process": [
+                "grievances filed",
+                "reviewed by Grievance Board",
+                "CDS decision",
+                "judicial review"
+            ]
+        }
+    ]
+}

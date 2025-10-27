@@ -1,0 +1,106 @@
+{
+    "Case ID": "008545",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Sections 110 and 111 of IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness",
+                "palpable and overriding error"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "RAD's decision set aside",
+                "case remanded for reconsideration"
+            ],
+            "refugee_status_eligibility": [
+                "denied by RPD"
+            ],
+            "procedural_fairness": [
+                "challenged RAD's decision-making process"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose fundraising activities",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness_standard",
+                "palpable_and_overriding_error",
+                "hybrid_appeal_approach"
+            ],
+            "judicial_authority": [
+                "RAD",
+                "RPD"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "set aside RAD’s decision",
+                "remanded for redetermination"
+            ],
+            "applicable_statute": [
+                "Sections 110 and 111 of IRPA"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "risk_characterization": [
+                "risks in Syria"
+            ],
+            "procedural_fairness": [
+                "judicial review was sought"
+            ],
+            "material_misrepresentation": [
+                "failure to disclose fundraising activities"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping risk",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Sections 110 and 111 of the IRPA"
+            ],
+            "risk_assessment": [
+                "forced enlistment",
+                "perceived activism",
+                "kidnapping/extortion in Syria"
+            ],
+            "reasonableness_of_decision": [
+                "RAD's application of the reasonableness standard"
+            ],
+            "refugee_status_nexus": [
+                "rejected refugee claim"
+            ],
+            "standard_of_proof": [
+                "reasonableness or palpable and overriding error standards"
+            ],
+            "country_conditions": [
+                "risks in Syria"
+            ]
+        },
+        {
+            "Crime Name": "Potential war crime association",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "evidentiary_standard": [
+                "reasonableness standard",
+                "palpable and overriding error"
+            ],
+            "judicial_review_process": [
+                "RAD's decision-making process under IRPA sections 110 and 111"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "matter is returned to the RAD for redetermination"
+            ],
+            "legal_basis": [
+                "Sections 110 and 111 of IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "RAD erred by applying the reasonableness standard"
+            ]
+        }
+    ]
+}

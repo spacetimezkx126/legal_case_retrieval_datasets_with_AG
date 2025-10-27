@@ -1,0 +1,64 @@
+{
+    "Case ID": "015020",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act & Regulations"
+            ],
+            "procedural_fairness": [
+                "procedural fairness is assessed on correctness"
+            ],
+            "evidence_assessment": [
+                "lack of establishment in Pakistan and temporary status in UAE"
+            ],
+            "decision_outcome": [
+                "Sadiq's application for judicial review was dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Economic incentive misrepresentation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, R200(1)(b)"
+            ],
+            "decision_outcome": [
+                "denied work permit application"
+            ],
+            "procedural_fairness": [
+                "assessed on correctness"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "material_misrepresentation": [
+                "concerns about intent to return"
+            ],
+            "evidence_provided": [
+                "lack of establishment in Pakistan",
+                "temporary UAE status",
+                "strong economic incentives to stay in Canada"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "unreasonableness",
+                "procedural unfairness"
+            ],
+            "nature_of_offense": [
+                "misrepresentation of economic ties"
+            ]
+        }
+    ]
+}

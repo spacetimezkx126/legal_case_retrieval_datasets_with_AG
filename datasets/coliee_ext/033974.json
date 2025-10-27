@@ -1,0 +1,740 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Sexual Assault Threat",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Police officers"
+            ],
+            "Victim_Status": [
+                "Homosexual individual"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ],
+            "Threat_Source": [
+                "State actors (police)"
+            ],
+            "Aggravating_Factors": [
+                "Discrimination based on sexual orientation",
+                "Alleged police involvement"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient for claim but insufficient to prove lack of state protection"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Assessed as credible but not determinative"
+            ],
+            "Credibility_Assessment": [
+                "Considered by Board"
+            ],
+            "Risk_Assessment": [
+                "Well-founded fear of persecution"
+            ],
+            "Risk_Type": [
+                "Persecution based on sexual orientation"
+            ],
+            "Risk_Nature": [
+                "Targeted due to membership in a particular social group"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Mexican citizen, homosexual"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court review)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA subsection 72(1)"
+            ],
+            "Legal_Provision": [
+                "Convention refugee definition"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "Board's decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to exhaust local remedies"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [
+                "Police assault"
+            ],
+            "Perpetrator_Type": [
+                "Police officers"
+            ],
+            "Victim_Status": [
+                "Homosexual individual"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ],
+            "Threat_Source": [
+                "State actors (police)"
+            ],
+            "Aggravating_Factors": [
+                "Discrimination based on sexual orientation",
+                "Abuse of power"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient for claim but insufficient to prove lack of state protection"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Assessed as credible"
+            ],
+            "Credibility_Assessment": [
+                "Considered by Board"
+            ],
+            "Risk_Assessment": [
+                "Well-founded fear of persecution"
+            ],
+            "Risk_Type": [
+                "Persecution based on sexual orientation"
+            ],
+            "Risk_Nature": [
+                "Targeted due to membership in a particular social group"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Mexican citizen, homosexual"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court review)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA subsection 72(1)"
+            ],
+            "Legal_Provision": [
+                "Convention refugee definition"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "Board's decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to seek alternative state protection"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Kidnapping",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [
+                "Family members",
+                "Possible state or non-state actors"
+            ],
+            "Victim_Status": [
+                "Homosexual individual"
+            ],
+            "Location_of_Incident": [
+                "Mexico"
+            ],
+            "Threat_Source": [
+                "Family and possibly state actors"
+            ],
+            "Aggravating_Factors": [
+                "Discrimination based on sexual orientation",
+                "Personal vendetta"
+            ],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [
+                "High"
+            ],
+            "Evidence_Sufficiency": [
+                "Sufficient for claim but insufficient to prove lack of state protection"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Evidence_Credibility": [
+                "Assessed as credible"
+            ],
+            "Credibility_Assessment": [
+                "Considered by Board"
+            ],
+            "Risk_Assessment": [
+                "Well-founded fear of persecution"
+            ],
+            "Risk_Type": [
+                "Persecution based on sexual orientation"
+            ],
+            "Risk_Nature": [
+                "Targeted due to membership in a particular social group"
+            ],
+            "Targeted_Victimization": [
+                "Yes"
+            ],
+            "Targeted_Individual": [
+                "Applicant"
+            ],
+            "Targeted_Individual_Status": [
+                "Mexican citizen, homosexual"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Jurisdiction": [
+                "Canada (Federal Court review)"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Applicable_Statute": [
+                "IRPA subsection 72(1)"
+            ],
+            "Legal_Provision": [
+                "Convention refugee definition"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Outcome": [
+                "Board's decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Failure to utilize available state mechanisms"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review under IRPA"
+            ],
+            "Decision_Maker": [
+                "Refugee Protection Division"
+            ],
+            "Government_Body_Involved": [
+                "Immigration and Refugee Board (IRB)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court of Canada"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "Federal Court"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Police Brutality",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Asylum claim based on persecution"
+            ],
+            "Legal_Provision_Involved": [
+                "IRPA",
+                "Refugee Convention"
+            ],
+            "Outcome": [
+                "Claim dismissed"
+            ],
+            "Grounds_for_Claim": [
+                "Persecution based on sexual orientation"
+            ],
+            "Remedy_Requested": [
+                "Refugee protection in Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Demonstrate inability to access state protection"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Institutional_Action": [
+                "Refugee Protection Division assessment"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board (IRB)",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "Existence of alternative state protection mechanisms"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Convention refugee claimant"
+            ],
+            "Nature_of_Participation": [
+                "Victim of state violence"
+            ],
+            "Temporal_Context": [
+                "Recent past prior to application"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Personal_Data_Implicated": [
+                "Sexual orientation"
+            ],
+            "Legal_Statute": [
+                "IRPA"
+            ],
+            "Assessment_Standard": [
+                "Reasonableness"
+            ],
+            "Governing_Body": [
+                "Refugee Protection Division"
+            ],
+            "Complaint_Issues": [
+                "Police abuse due to homosexuality"
+            ],
+            "Grounds_for_Discrimination": [
+                "Sexual orientation"
+            ],
+            "Role_of_Person": [
+                "Applicant/victim"
+            ],
+            "Protected_Group": [
+                "Particular social group (homosexuals)"
+            ],
+            "Legal_Standard": [
+                "Well-founded fear of persecution"
+            ],
+            "Protection_Claim": [
+                "Lack of effective state protection"
+            ],
+            "State_Protection_Assessment": [
+                "Adequate mechanisms exist despite corruption"
+            ],
+            "Risk_Factor": [
+                "Homophobia",
+                "Police misconduct"
+            ],
+            "Credibility": [
+                "Assessed as credible"
+            ],
+            "Legal_Provision": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Targeted_Group": [
+                "Homosexuals in Mexico"
+            ],
+            "State_Protection_Adequacy": [
+                "Found adequate by Board"
+            ],
+            "Risk_Nature": [
+                "Systemic discrimination and targeted violence"
+            ],
+            "Enforcement_Action": [
+                "None pursued by applicant"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Perpetrator_Entity": [
+                "Mexican police"
+            ],
+            "Legal_Basis": [
+                "Membership in a particular social group"
+            ],
+            "Victim_Basis": [
+                "Sexual orientation"
+            ]
+        },
+        {
+            "Crime_Name": "Homosexual Persecution",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Asylum claim based on persecution"
+            ],
+            "Legal_Provision_Involved": [
+                "IRPA",
+                "Refugee Convention"
+            ],
+            "Outcome": [
+                "Claim dismissed"
+            ],
+            "Grounds_for_Claim": [
+                "Persecution based on sexual orientation"
+            ],
+            "Remedy_Requested": [
+                "Refugee protection in Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Demonstrate inability to access state protection"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Institutional_Action": [
+                "Refugee Protection Division assessment"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board (IRB)",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "Availability of state protection mechanisms"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Convention refugee claimant"
+            ],
+            "Nature_of_Participation": [
+                "Victim of societal and state-based discrimination"
+            ],
+            "Temporal_Context": [
+                "Ongoing at time of claim"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Personal_Data_Implicated": [
+                "Sexual orientation"
+            ],
+            "Legal_Statute": [
+                "IRPA"
+            ],
+            "Assessment_Standard": [
+                "Reasonableness"
+            ],
+            "Governing_Body": [
+                "Refugee Protection Division"
+            ],
+            "Complaint_Issues": [
+                "Violence and abuse due to homosexuality"
+            ],
+            "Grounds_for_Discrimination": [
+                "Sexual orientation"
+            ],
+            "Role_of_Person": [
+                "Applicant/victim"
+            ],
+            "Protected_Group": [
+                "Particular social group (homosexuals)"
+            ],
+            "Legal_Standard": [
+                "Well-founded fear of persecution"
+            ],
+            "Protection_Claim": [
+                "Lack of effective state protection"
+            ],
+            "State_Protection_Assessment": [
+                "Adequate mechanisms exist despite systemic issues"
+            ],
+            "Risk_Factor": [
+                "Homophobia",
+                "Corruption"
+            ],
+            "Credibility": [
+                "Assessed as credible"
+            ],
+            "Legal_Provision": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Targeted_Group": [
+                "Homosexuals in Mexico"
+            ],
+            "State_Protection_Adequacy": [
+                "Found adequate by Board"
+            ],
+            "Risk_Nature": [
+                "Systemic and targeted persecution"
+            ],
+            "Enforcement_Action": [
+                "No attempt to report or seek protection"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Perpetrator_Entity": [
+                "Police and family members"
+            ],
+            "Legal_Basis": [
+                "Membership in a particular social group"
+            ],
+            "Victim_Basis": [
+                "Sexual orientation"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to Report Crime",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [
+                "Asylum claim involving failure to seek state protection"
+            ],
+            "Legal_Provision_Involved": [
+                "IRPA",
+                "Refugee Convention"
+            ],
+            "Outcome": [
+                "Claim dismissed"
+            ],
+            "Grounds_for_Claim": [
+                "Persecution based on sexual orientation"
+            ],
+            "Remedy_Requested": [
+                "Refugee protection in Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Evidence_Requirement": [
+                "Demonstrate inability to access state protection"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Institutional_Action": [
+                "Refugee Protection Division assessment"
+            ],
+            "Government_Body_or_Authority": [
+                "Immigration and Refugee Board (IRB)",
+                "Federal Court"
+            ],
+            "Exemptions_or_Defenses_Cited": [
+                "Existence of functional state protection mechanisms"
+            ],
+            "Evidence_Type": [
+                "Documentary evidence",
+                "Personal testimony"
+            ],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Individual_Status_or_Claim": [
+                "Convention refugee claimant"
+            ],
+            "Nature_of_Participation": [
+                "Non-utilization of state mechanisms"
+            ],
+            "Temporal_Context": [
+                "Prior to fleeing Mexico"
+            ],
+            "Geographic_Context": [
+                "Mexico"
+            ],
+            "Personal_Data_Implicated": [
+                "Sexual orientation"
+            ],
+            "Legal_Statute": [
+                "IRPA"
+            ],
+            "Assessment_Standard": [
+                "Reasonableness"
+            ],
+            "Governing_Body": [
+                "Refugee Protection Division"
+            ],
+            "Complaint_Issues": [
+                "Fear of reporting due to distrust in police"
+            ],
+            "Grounds_for_Discrimination": [
+                "Sexual orientation"
+            ],
+            "Role_of_Person": [
+                "Applicant"
+            ],
+            "Protected_Group": [
+                "Particular social group (homosexuals)"
+            ],
+            "Legal_Standard": [
+                "Well-founded fear of persecution"
+            ],
+            "Protection_Claim": [
+                "Lack of effective state protection"
+            ],
+            "State_Protection_Assessment": [
+                "Available but not accessed"
+            ],
+            "Risk_Factor": [
+                "Distrust in law enforcement",
+                "Corruption"
+            ],
+            "Credibility": [
+                "Assessed as credible"
+            ],
+            "Legal_Provision": [
+                "IRPA, section related to Convention refugees"
+            ],
+            "Targeted_Group": [
+                "Homosexuals in Mexico"
+            ],
+            "State_Protection_Adequacy": [
+                "Found adequate by Board"
+            ],
+            "Risk_Nature": [
+                "Perceived risk due to institutional distrust"
+            ],
+            "Enforcement_Action": [
+                "No formal complaint filed"
+            ],
+            "Claimant_Status": [
+                "Refugee claimant"
+            ],
+            "Perpetrator_Entity": [
+                "Police officers"
+            ],
+            "Legal_Basis": [
+                "Membership in a particular social group"
+            ],
+            "Victim_Basis": [
+                "Sexual orientation"
+            ]
+        }
+    ]
+}

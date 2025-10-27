@@ -1,0 +1,487 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Human trafficking",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [],
+            "Evidence_Type": [],
+            "Evidence_Credibility": [],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [],
+            "Legal_Framework": [],
+            "Governing_Law": [],
+            "Applicable_Statute": [],
+            "Legal_Provision": [],
+            "Legal_Provision_Cited": [],
+            "Standard_of_Proof": [],
+            "Decision_Outcome": [],
+            "Outcome": [],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [],
+            "Procedural_Stage": [],
+            "Legal_Procedure": [],
+            "Decision_Maker": [],
+            "Government_Body_Involved": [],
+            "Reviewing_Body": [],
+            "Review_Mechanism": [],
+            "Authority": [],
+            "Decision_Standard": []
+        },
+        {
+            "Crime_Name": "Serious criminality under Immigration and Refugee Protection Act",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [],
+            "Legal_Issue": [
+                "Whether the IAD erred in refusing to reopen the appeal"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Application_Facts": [
+                "Applicant convicted of fraud over $5000, sentenced to 30 months including pre-sentence custody"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Remedy_Requested": [
+                "Reopening of appeal based on alleged breach of natural justice"
+            ],
+            "Court_Ruling": [
+                "IAD decision was reasonable and aligned with legislative intent"
+            ],
+            "Claimant_Status": [],
+            "Defendant_Behavior": [
+                "Convicted of serious criminality under IRPA"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged breach of natural justice regarding sentence calculation"
+            ],
+            "Legal_Standard": [
+                "Reasonableness standard applied to IAD decision"
+            ],
+            "Assessment_Factor": [
+                "Inclusion of pre-sentence custody in sentence calculation"
+            ],
+            "Applicable_Legislation": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Procedural_Issue": [
+                "Refusal to reopen appeal"
+            ],
+            "Review_Standard": [
+                "Standard of reasonableness"
+            ],
+            "Credibility_Assessment": [],
+            "Evidence_Used": [
+                "Sentence length, pre-sentence custody credit"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Application_Basis": [
+                "Deportation due to serious criminality"
+            ],
+            "Evidence_Assessed": [
+                "Legality of counting pre-sentence custody toward two-year threshold"
+            ],
+            "Relief_Sought": [
+                "Judicial review of IAD decision"
+            ],
+            "Governing_Rule": [
+                "No appeal if crime punishable by two years or more imprisonment"
+            ],
+            "Evidentiary_Deficiency": [],
+            "Outcome": [
+                "Deportation order upheld"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Harm_Assessment": [],
+            "Cause_Description": [
+                "Conviction for fraud over $5000 leading to serious criminality finding"
+            ],
+            "Evidence_Handling": [],
+            "Legal_Provision_Violated": [
+                "IRPA s. 64(2) – serious criminality"
+            ],
+            "Evidence_Issues": [],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [],
+            "Decision_Rationale": [
+                "Pre-sentence custody is legally part of sentence under IRPA"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Federal Court"
+            ],
+            "Evidentiary_Issues": [],
+            "Legal_Standard_Applied": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Smuggling",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Immigration inadmissibility due to criminality"
+            ],
+            "Legal_Issue": [
+                "Whether IAD erred in refusing to reopen appeal"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Procedural_Stage": [
+                "Judicial review after IAD refusal"
+            ],
+            "Evidence_Assessment": [
+                "Pre-sentence custody counted toward sentence"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to show breach of natural justice"
+            ],
+            "Credibility_Factor": [],
+            "Legal_Rule": [
+                "IRPA s. 64(2): no appeal if sentence ≥ 2 years"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Refusal to reopen appeal"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged breach of natural justice"
+            ],
+            "Outcome_on_Merits": [
+                "Claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "No breach of natural justice found"
+            ],
+            "Key_Evidence_Considered": [
+                "30-month sentence including pre-sentence custody"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "Calculation of sentence for serious criminality"
+            ],
+            "Court_Result": [
+                "Upheld IAD decision"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA s. 64(2)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "Sentence included pre-sentence custody as per law"
+            ],
+            "Evidence_Type": [
+                "Criminal sentencing record"
+            ],
+            "Remedy_Requested": [
+                "Reopening of deportation appeal"
+            ],
+            "Outcome": [
+                "Deportation order upheld"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Judicial review"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review under Federal Courts Act"
+            ],
+            "Legal_Provision": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Authority": [
+                "Immigration Appeal Division"
+            ],
+            "Claimant_Status": [],
+            "Legal_Provision_Cited": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Serious criminality due to sentence ≥ 2 years"
+            ],
+            "Applicable_Process": [
+                "Appeal and motion to reopen before IAD"
+            ],
+            "Outcome_of_Review": [
+                "No error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "Motion to reopen appeal"
+            ],
+            "Jurisdiction": [
+                "Federal jurisdiction – immigration law"
+            ],
+            "Governing_Rule": [
+                "Pre-sentence custody counts toward sentence under IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Fraud over $5000",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Immigration inadmissibility due to criminality"
+            ],
+            "Legal_Issue": [
+                "Whether IAD erred in refusing to reopen appeal"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Procedural_Stage": [
+                "Judicial review after IAD refusal"
+            ],
+            "Evidence_Assessment": [
+                "30-month sentence including pre-sentence custody"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to prove breach of natural justice"
+            ],
+            "Credibility_Factor": [],
+            "Legal_Rule": [
+                "IRPA s. 64(2): no appeal if sentence ≥ 2 years"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Refusal to reopen appeal"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged breach of natural justice in sentence calculation"
+            ],
+            "Outcome_on_Merits": [
+                "Claim dismissed"
+            ],
+            "Decision_Maker": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "No breach of natural justice found"
+            ],
+            "Key_Evidence_Considered": [
+                "Conviction for fraud over $5000, 30-month sentence"
+            ],
+            "Legal_Framework": [
+                "IRPA"
+            ],
+            "Applicant_Challenge": [
+                "Pre-sentence custody should not count toward two-year threshold"
+            ],
+            "Court_Result": [
+                "Upheld IAD decision"
+            ],
+            "Legal_Rule_Source": [
+                "IRPA s. 64(2)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "Sentence legally includes pre-sentence custody"
+            ],
+            "Evidence_Type": [
+                "Criminal conviction and sentencing documents"
+            ],
+            "Remedy_Requested": [
+                "Reopening of deportation appeal"
+            ],
+            "Outcome": [
+                "Deportation order upheld"
+            ],
+            "Decision_Authority": [
+                "Federal Court"
+            ],
+            "Remedy_Sought": [
+                "Judicial review"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review under Federal Courts Act"
+            ],
+            "Legal_Provision": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Authority": [
+                "Immigration Appeal Division"
+            ],
+            "Claimant_Status": [],
+            "Legal_Provision_Cited": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Serious criminality due to sentence ≥ 2 years"
+            ],
+            "Applicable_Process": [
+                "Appeal and motion to reopen before IAD"
+            ],
+            "Outcome_of_Review": [
+                "No error found"
+            ],
+            "Pending_Relief_or_Application": [
+                "Motion to reopen appeal"
+            ],
+            "Jurisdiction": [
+                "Federal jurisdiction – immigration law"
+            ],
+            "Governing_Rule": [
+                "Pre-sentence custody counts toward sentence under IRPA"
+            ]
+        },
+        {
+            "Crime_Name": "Possession of counterfeit money",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Serious criminality under IRPA"
+            ],
+            "Legal_Issue": [
+                "Whether IAD erred in refusing to reopen appeal"
+            ],
+            "Governing_Law": [
+                "IRPA"
+            ],
+            "Application_Facts": [
+                "Convicted of fraud over $5000 and possession of counterfeit money, total sentence 30 months including pre-sentence custody"
+            ],
+            "Decision_Outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "Remedy_Requested": [
+                "Reopening of appeal based on alleged breach of natural justice"
+            ],
+            "Court_Ruling": [
+                "IAD decision was reasonable"
+            ],
+            "Claimant_Status": [],
+            "Defendant_Behavior": [
+                "Multiple criminal convictions leading to serious criminality"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged improper inclusion of pre-sentence custody in sentence calculation"
+            ],
+            "Legal_Standard": [
+                "Reasonableness standard"
+            ],
+            "Assessment_Factor": [
+                "Total sentence exceeding two years including pre-sentence custody"
+            ],
+            "Applicable_Legislation": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Procedural_Issue": [
+                "Refusal to reopen appeal"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Credibility_Assessment": [],
+            "Evidence_Used": [
+                "Criminal record, sentencing details"
+            ],
+            "Legal_Provision_Cited": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Application_Basis": [
+                "Deportation due to serious criminality"
+            ],
+            "Evidence_Assessed": [
+                "Validity of sentence calculation under IRPA"
+            ],
+            "Relief_Sought": [
+                "Judicial review"
+            ],
+            "Governing_Rule": [
+                "No appeal if sentence ≥ 2 years including pre-sentence custody"
+            ],
+            "Evidentiary_Deficiency": [],
+            "Outcome": [
+                "Deportation order upheld"
+            ],
+            "Decisional_Body": [
+                "Immigration Appeal Division (IAD)"
+            ],
+            "Harm_Assessment": [],
+            "Cause_Description": [
+                "Criminal convictions resulting in sentence over two years"
+            ],
+            "Evidence_Handling": [],
+            "Legal_Provision_Violated": [
+                "IRPA s. 64(2)"
+            ],
+            "Evidence_Issues": [],
+            "Residency_Compliance": [],
+            "Misrepresentation_Element": [],
+            "Legal_Provision": [
+                "IRPA s. 64(2), s. 71"
+            ],
+            "Jurisdictional_Issue": [],
+            "Evidence_Assessment": [],
+            "Decision_Rationale": [
+                "Pre-sentence custody properly included in sentence"
+            ],
+            "Country_of_Origin": [],
+            "Decision_Making_Body": [
+                "Federal Court"
+            ],
+            "Evidentiary_Issues": [],
+            "Legal_Standard_Applied": [
+                "Reasonableness"
+            ]
+        }
+    ]
+}

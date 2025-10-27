@@ -1,0 +1,30 @@
+{
+    "Case ID": "028292",
+    "Different Crime": [
+        {
+            "Crime Name": "Residency requirement non-compliance",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "insufficient justification",
+                "conflicting evidence",
+                "undisclosed trips"
+            ],
+            "decision_outcome": [
+                "appeal succeeded",
+                "citizenship grant quashed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "inconsistent reporting",
+                "potential misrepresentation"
+            ],
+            "legal_basis": [
+                "Citizenship Act s. 5(1)(c)",
+                "Citizenship Act s. 14(5)",
+                "Federal Courts Act s. 21"
+            ]
+        }
+    ]
+}

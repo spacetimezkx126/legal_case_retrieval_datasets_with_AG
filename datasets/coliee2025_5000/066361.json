@@ -1,0 +1,30 @@
+{
+    "Case ID": "066361",
+    "Different Crime": [
+        {
+            "Crime Name": "False refugee claim under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "unusual, undeserved, or disproportionate hardship"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "false refugee claim",
+                "H&C application denial"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "Section 25(1) of the IRPA",
+                "IRPA subsection 72(1)"
+            ],
+            "misrepresentation_or_fraud": [
+                "false refugee claim"
+            ]
+        }
+    ]
+}

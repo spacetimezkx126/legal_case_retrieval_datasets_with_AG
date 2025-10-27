@@ -1,0 +1,34 @@
+{
+    "Case ID": "012377",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration-related claims (refugee status and humanitarian grounds)",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "PRRA: Adequate state protection test",
+                "H&C: Unusual, undeserved, or disproportionate hardship test"
+            ],
+            "procedural_fairness": [
+                "Officer reviewed state protection adequacy and hardship factors"
+            ],
+            "standard_of_proof": [
+                "Reasonableness for procedural issues, correctness for legal tests"
+            ],
+            "documentary_evidence": [
+                "Applicant lacked corroborative evidence"
+            ],
+            "decision_outcome": [
+                "Court dismissed both applications for judicial review, upholding Officer's decisions"
+            ],
+            "risk_of_persecution": [
+                "Applicant claimed domestic violence risks in Turkey"
+            ],
+            "evidence_assessment": [
+                "Concluding evidence was insufficient"
+            ],
+            "review_standard": [
+                "Federal Court reviewed Officer's decisions under applicable legal standards"
+            ]
+        }
+    ]
+}

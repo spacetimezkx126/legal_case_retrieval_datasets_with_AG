@@ -1,0 +1,82 @@
+{
+    "Case ID": "074138",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA sections 33 and 34(1)"
+            ],
+            "criminality_inadmissibility": [
+                "danger to national security",
+                "terrorism",
+                "incite violence"
+            ],
+            "evidence_assessment": [
+                "credible evidence",
+                "serious possibility of inadmissibility"
+            ],
+            "decision_outcome": [
+                "certificate upheld",
+                "inadmissible",
+                "Pre-Removal Risk Assessment decision confirmed lawful"
+            ]
+        },
+        {
+            "Crime Name": "Membership in an organization that engages in terrorism",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 34(1)(c), (d), (e), and (f) of the Immigration and Refugee Protection Act"
+            ],
+            "involvement_details": [
+                "linked to white supremacist groups",
+                "provided materials promoting hate",
+                "associated with individuals advocating violence",
+                "influence over extremist networks globally"
+            ],
+            "risk_to_national_security": [
+                "poses a danger to Canada's security through his involvement with terrorist organizations"
+            ],
+            "decision_outcome": [
+                "security certificate is reasonable",
+                "deemed inadmissible due to threats to national security"
+            ],
+            "evidence_provided": [
+                "classified and public evidence reviewed"
+            ],
+            "judicial_review_result": [
+                "court upheld the security certificate"
+            ],
+            "membership_in_organization": [
+                "belong to an organization involved in such activities"
+            ]
+        },
+        {
+            "Crime Name": "Incitement to hatred",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "sections 34(1)(c), (d), (e), and (f) of the Immigration and Refugee Protection Act"
+            ],
+            "national_security_concerns": [
+                "danger to Canada's security",
+                "engagement in terrorism",
+                "incitement to violence"
+            ],
+            "evidence_assessment": [
+                "serious possibilities based on credible evidence",
+                "influence over white supremacist groups",
+                "role in financing and directing extremist groups"
+            ],
+            "decision_outcome": [
+                "upheld the security certificate",
+                "reasonable"
+            ],
+            "immigration_status": [
+                "inadmissible"
+            ],
+            "burden_of_proof": [
+                "serious possibilities based on credible evidence"
+            ]
+        }
+    ]
+}

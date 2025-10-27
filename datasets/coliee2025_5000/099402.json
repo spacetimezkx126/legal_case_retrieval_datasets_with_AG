@@ -1,0 +1,37 @@
+{
+    "Case ID": "099402",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies",
+                "omissions",
+                "contradictions"
+            ],
+            "documentary_evidence": [
+                "testimony",
+                "PIF",
+                "supporting affidavit"
+            ],
+            "evidence_assessment": [
+                "Board's credibility assessment"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "inconsistencies_in_testimony": [
+                "death of Benedicto",
+                "threats against family",
+                "death of grandmother"
+            ],
+            "risk_of_persecution": [
+                "persecution by former employer"
+            ],
+            "procedural_fairness": [
+                "Refugee Protection Division assessment",
+                "judicial review application"
+            ]
+        }
+    ]
+}

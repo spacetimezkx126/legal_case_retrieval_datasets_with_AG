@@ -1,0 +1,34 @@
+{
+    "Case ID": "016203",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Refusal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "NOC 5125"
+            ],
+            "decision_outcome": [
+                "Judicial review granted; case referred to another visa officer."
+            ],
+            "procedural_fairness": [
+                "Judicial review sought by applicant"
+            ],
+            "applicable_statute": [
+                "NOC requirements"
+            ],
+            "party_involved": [
+                "visa officer",
+                "applicant"
+            ],
+            "claim_nature": [
+                "misinterpretation of NOC requirements"
+            ],
+            "judicial_authority": [
+                "Judicial review application allowed"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ]
+        }
+    ]
+}

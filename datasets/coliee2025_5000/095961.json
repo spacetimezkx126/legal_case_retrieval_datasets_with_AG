@@ -1,0 +1,79 @@
+{
+    "Case ID": "095961",
+    "Different Crime": [
+        {
+            "Crime Name": "Sale of Counterfeit Goods",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "contempt of court"
+            ],
+            "evidence_assessment": [
+                "knowledge and willful disobedience of the order",
+                "acknowledged the order and shrugged when confronted about contempt"
+            ],
+            "decision_outcome": [
+                "guilty of contempt",
+                "fined $50,000",
+                "ordered to pay $35,000 in costs"
+            ]
+        },
+        {
+            "Crime Name": "Trademark Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "court order prohibiting sale of counterfeit products"
+            ],
+            "decision_outcome": [
+                "guilty of civil contempt"
+            ],
+            "evidence_provided": [
+                "served with Anton Piller order",
+                "knowingly sold counterfeit products"
+            ],
+            "standard_of_review": [
+                "beyond a reasonable doubt"
+            ],
+            "nature_of_offense": [
+                "selling counterfeit Louis Vuitton products"
+            ],
+            "cause_of_action": [
+                "violation of court order"
+            ],
+            "procedural_fairness": [
+                "show cause order issued"
+            ]
+        },
+        {
+            "Crime Name": "Contempt of Court",
+            "Crime Type": "others",
+            "legal_basis": [
+                "existence of the order",
+                "knowledge of the order",
+                "deliberate disobedience"
+            ],
+            "evidence_presented": [
+                "Chun was served with an Anton Piller order",
+                "acknowledged the order",
+                "sold counterfeit items at a night market",
+                "sold from his van",
+                "witness testimonies",
+                "photographs"
+            ],
+            "decision_reasoning": [
+                "knowingly disobey a court order",
+                "violating the court order"
+            ],
+            "result_of_case": [
+                "fined $50,000",
+                "ordered to pay $35,000 in costs",
+                "up to 60 days imprisonment if unpaid within 90 days"
+            ],
+            "procedure_followed": [
+                "Federal Court held a hearing"
+            ],
+            "cause_of_action": [
+                "repeated sales of counterfeit Louis Vuitton goods"
+            ]
+        }
+    ]
+}

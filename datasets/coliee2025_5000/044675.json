@@ -1,0 +1,43 @@
+{
+    "Case ID": "044675",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "rejected",
+                "upheld"
+            ],
+            "internal_flight_alternative": [
+                "existence"
+            ],
+            "review_standard": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "legal_basis": [
+                "IRPA provisions"
+            ],
+            "independent_review_by_rad": [
+                "upheld"
+            ],
+            "risk_of_persecution": [
+                "fear of forced marriage and persecution"
+            ],
+            "specific_group_membership": [
+                "not specified"
+            ],
+            "standard_of_proof": [
+                "not specified"
+            ],
+            "burden_of_proof": [
+                "not specified"
+            ],
+            "evidence_assessment": [
+                "independent evaluation of evidence"
+            ]
+        }
+    ]
+}

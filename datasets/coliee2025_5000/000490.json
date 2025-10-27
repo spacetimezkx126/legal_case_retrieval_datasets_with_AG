@@ -1,0 +1,31 @@
+{
+    "Case ID": "000490",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Hearing Case",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "fair hearing",
+                "representation by counsel",
+                "Board obligation",
+                "waiver of counsel rights"
+            ],
+            "risk_assessment": [
+                "unprepared claimants",
+                "lack of understanding legal issues",
+                "prejudice from procedural shortcomings"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "new hearing before a different panel"
+            ],
+            "applicant_involvement": [
+                "dismissed consultant",
+                "hired lawyer with short notice"
+            ],
+            "reasonableness_of_decision": [
+                "judicial review allowed",
+                "violation of rights to counsel and fair hearing"
+            ]
+        }
+    ]
+}

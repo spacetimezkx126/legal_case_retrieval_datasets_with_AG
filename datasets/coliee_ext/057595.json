@@ -1,0 +1,41 @@
+{
+    "Case ID": "057595",
+    "Crimes": [
+        {
+            "Crime_Name": "Criminal Organization Activity",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Legal_Provision_Involved": "IRPA sections 96 and 97",
+            "Procedural_Fairness_Issue": "Board's failure to properly assess personal vs. generalized risk",
+            "Decision_Outcome": "Initial denial of refugee status by Refugee Protection Division",
+            "Review_Mechanism": "Judicial review under IRPA s. 72(1)",
+            "Judicial_Review_Outcome": "Application granted, decision found unreasonable"
+        },
+        {
+            "Crime_Name": "Police Inaction in the Face of Criminal Activity",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": "Whether the risk was personal or generalized under IRPA s. 97",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA) s. 97",
+            "Evidence_Assessment": "Specific threats due to refusal to pay extortion fees",
+            "Standard_of_Review": "Reasonableness",
+            "Judicial_Review_Outcome": "Application granted, case remanded for de novo hearing"
+        },
+        {
+            "Crime_Name": "Failure to Protect Citizens",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "State failure to protect individuals from criminal gangs",
+            "Legal_Issue": "Personal risk assessment under IRPA s. 97",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA) s. 97",
+            "Harm_Assessment": "Targeted persecution due to non-payment of extortion",
+            "Country_of_Origin": "Mexico"
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Economic extortion by criminal gang",
+            "Perpetrator_Type": "Criminal gang",
+            "Victim_Status": "Business owner who refused to pay",
+            "Threat_Source": "Criminal gang demanding payment",
+            "Targeted_Victimization": "Yes, due to specific refusal to comply with extortion demands"
+        }
+    ]
+}

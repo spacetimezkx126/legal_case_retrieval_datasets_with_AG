@@ -1,0 +1,49 @@
+{
+    "Case ID": "077346",
+    "Different Crime": [
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "infringement_analysis": [
+                "substantial part reproduced",
+                "without consent"
+            ],
+            "relevant_statute": [
+                "Copyright Act Section 5(1)"
+            ],
+            "evidence_presented": [
+                "original draft form",
+                "access and photocopying",
+                "minor changes"
+            ],
+            "decision_reasoning": [
+                "original work",
+                "skill and judgment",
+                "business impact"
+            ],
+            "result_of_case": [
+                "damages awarded",
+                "counterclaim dismissed"
+            ],
+            "court_ruling": [
+                "in favor of U&R"
+            ],
+            "remedy_requested": [
+                "damages"
+            ],
+            "standard_of_proof": [
+                "substantial copying"
+            ],
+            "application_details": [
+                "H&R accessed and photocopied"
+            ],
+            "procedure_followed": [
+                "lawsuit filed",
+                "Federal Court of Canada Trial Division"
+            ],
+            "result_details": [
+                "$145,010 damages"
+            ]
+        }
+    ]
+}

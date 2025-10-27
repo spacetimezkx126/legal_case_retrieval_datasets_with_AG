@@ -1,0 +1,61 @@
+{
+    "Case ID": "056210",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "document_authenticity": [
+                "LP membership card tampered",
+                "incomplete seal"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's LP membership card"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "patently unreasonable"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status based on political persecution"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining documents by deception",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Board's specialized knowledge"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Provided opportunity for Applicant to respond"
+            ],
+            "evidence_provided": [
+                "LP membership card with incomplete seal"
+            ],
+            "standard_of_review": [
+                "Patently unreasonable standard"
+            ],
+            "applicable_statute": [],
+            "party_involved": [
+                "Applicant",
+                "Board"
+            ],
+            "claim_nature": [
+                "Refugee status based on political persecution"
+            ],
+            "judicial_authority": [
+                "Judicial review analyzed reasonableness"
+            ],
+            "material_misrepresentation": [
+                "Tampered LP membership card"
+            ],
+            "reasonableness_standard": [
+                "Board's decision not patently unreasonable"
+            ]
+        }
+    ]
+}

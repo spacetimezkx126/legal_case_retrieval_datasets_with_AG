@@ -1,0 +1,59 @@
+{
+    "Case ID": "087186",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "assessing the best interests of the child",
+                "impact of family separation"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "considering humanitarian and compassionate grounds"
+            ],
+            "standard_of_review": [
+                "unusual, undeserved, or disproportionate standard"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "case remanded for reconsideration"
+            ],
+            "criminality_inadmissibility": [
+                "deemed inadmissible due to a conviction"
+            ]
+        },
+        {
+            "Crime Name": "Impaired Driving",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "best_interests_of_children": [
+                "child's interests",
+                "irreparable harm",
+                "speculation about re-entry"
+            ],
+            "financial_impact": [
+                "underestimated",
+                "removal"
+            ],
+            "decision_reasoning": [
+                "unusual, undeserved, or disproportionate",
+                "certain return"
+            ],
+            "application_details": [
+                "humanitarian and compassionate relief",
+                "impaired driving conviction"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "errors in legal reasoning",
+                "factual assessment"
+            ],
+            "result_of_case": [
+                "reconsideration by another decision-maker",
+                "judicial review allowed"
+            ]
+        }
+    ]
+}

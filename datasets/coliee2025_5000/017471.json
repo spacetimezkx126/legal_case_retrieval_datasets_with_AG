@@ -1,0 +1,60 @@
+{
+    "Case ID": "017471",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession with intent to traffic in a Schedule I substance",
+            "Crime Type": "Drug-related_Crimes",
+            "serious_criminality": [
+                "yes"
+            ],
+            "refugee_status": [
+                "excluded"
+            ],
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "decision_made_by": [
+                "Board"
+            ],
+            "review_process": [
+                "Judicial review application"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "criminal_history": [
+                "drug trafficking",
+                "assault"
+            ],
+            "procedural_fairness": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Article 1F(b) of the Refugee Convention"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "refugee_protection": [
+                "excluded from refugee protection"
+            ],
+            "criminal_history": [
+                "U.S. convictions for assault with a weapon and drug trafficking"
+            ],
+            "applicable_laws": [
+                "Canadian law",
+                "New York statutes"
+            ],
+            "court_ruling": [
+                "Judicial review application dismissed"
+            ],
+            "decision_outcome": [
+                "excluded from refugee protection"
+            ]
+        }
+    ]
+}

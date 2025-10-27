@@ -1,0 +1,137 @@
+{
+    "Case ID": "084618",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Financial Transactions",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "decision_outcome": [
+                "upheld"
+            ],
+            "evidence_provided": [
+                "affidavits alleging irregular financial transactions"
+            ],
+            "applicable_statute": [
+                "Income Tax Act"
+            ],
+            "party_involved": [
+                "CRA",
+                "Tony Papa",
+                "Micheline Gallo"
+            ],
+            "claim_nature": [
+                "setting aside ex parte orders"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "cause_of_action": [
+                "jeopardy orders"
+            ],
+            "nature_of_offense": [
+                "large tax liabilities"
+            ],
+            "mitigating_factors": [
+                "errors and omissions deemed immaterial"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "procedural_fairness": [
+                "ex parte application",
+                "judicial review under s. 225.2(8)"
+            ],
+            "evidence_consideration": [
+                "affidavits alleging irregular financial transactions",
+                "alleged errors and omissions deemed immaterial"
+            ],
+            "risk_assessment": [
+                "risks of asset concealment"
+            ],
+            "balance_of_convenience": [
+                "$3.3 million additional deposit mandated"
+            ],
+            "serious_issue": [
+                "CRA must show reasonable grounds to believe tax collection would be jeopardized by delay"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act"
+            ],
+            "evidence_credibility": [
+                "affidavits alleging irregular financial transactions",
+                "use of trusts and offshore transfers"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe delaying collection would jeopardize it"
+            ],
+            "decision_outcome": [
+                "jeopardy order against Tony Papa upheld",
+                "jeopardy order against Micheline Gallo dismissed"
+            ],
+            "standard_of_proof": [
+                "lower than balance of probabilities but requires credible evidence"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "evidence_sufficiency": [
+                "affidavits alleging irregular financial transactions"
+            ],
+            "decision_outcome": [
+                "jeopardy order upheld for Tony Papa",
+                "order against Micheline Gallo rescinded"
+            ],
+            "procedural_fairness": [
+                "ex parte application",
+                "judicial review under s. 225.2(8)"
+            ],
+            "consequences_of_decision": [
+                "$3.3 million additional deposit mandated",
+                "jeopardy order set aside due to zero tax owing"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Disclose Material Information",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "procedural_fairness": [
+                "Ex parte application",
+                "judicial review under s. 225.2(8)"
+            ],
+            "decision_outcome": [
+                "Jeopardy order upheld for Tony Papa",
+                "Order against Micheline Gallo rescinded"
+            ],
+            "evidence_considered": [
+                "affidavits alleging irregular financial transactions"
+            ],
+            "claimant_burden": [
+                "CRA must show reasonable grounds to believe tax collection would be jeopardized by delay"
+            ],
+            "court_ruling": [
+                "Tony Papa's application dismissed",
+                "Micheline Gallo's jeopardy order set aside"
+            ]
+        }
+    ]
+}

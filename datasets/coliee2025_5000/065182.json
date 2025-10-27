@@ -1,0 +1,36 @@
+{
+    "Case ID": "065182",
+    "Different Crime": [
+        {
+            "Crime Name": "Second Degree Murder",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Corrections and Conditional Release Act (CCRA)"
+            ],
+            "procedural_fairness": [
+                "least restrictive determination",
+                "public safety",
+                "rehabilitation",
+                "statutory principles"
+            ],
+            "decision_made_by": [
+                "National Parole Board",
+                "Appeal Division"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remitted for reconsideration",
+                "set aside Appeal Division’s decision"
+            ],
+            "evidence_considered": [
+                "low re-offense risk",
+                "community support",
+                "successful reintegration",
+                "family responsibilities"
+            ]
+        }
+    ]
+}

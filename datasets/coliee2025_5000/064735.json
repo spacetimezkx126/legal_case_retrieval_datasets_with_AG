@@ -1,0 +1,114 @@
+{
+    "Case ID": "064735",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in Inadmissible Class under Immigration Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration Act s. 19(1)(c.1)(i)"
+            ],
+            "criminality_inadmissibility": [
+                "Irish conviction for false imprisonment",
+                "Canadian forcible confinement criteria"
+            ],
+            "charter_rights": [
+                "deportation concerns",
+                "no specific destination determined"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "deportation order upheld"
+            ],
+            "standard_of_review": [
+                "Judicial review of adjudicator's decision"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration Act s. 19(1)(c.1)(i)"
+            ],
+            "decision_outcome": [
+                "deportation order upheld",
+                "application for judicial review dismissed"
+            ],
+            "applicable_statute": [
+                "Immigration Act"
+            ],
+            "judicial_authority": [
+                "adjudicator"
+            ],
+            "nature_of_offense": [
+                "false imprisonment",
+                "forcible confinement"
+            ],
+            "serious_criminality": [
+                "involvement in detaining hostages"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration Act s. 19(1)(c.1)(i)"
+            ],
+            "risk_assessment": [
+                "equivalence between Irish and Canadian offences"
+            ],
+            "criminal_history": [
+                "conviction of false imprisonment in Ireland"
+            ],
+            "applicant_involvement": [
+                "detaining hostages"
+            ],
+            "standard_of_proof": [
+                "similar elements and mens rea requirements"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "applicable_law_section": [
+                "Immigration Act s. 19(1)(c.1)(i)"
+            ],
+            "decision_outcome": [
+                "deportation order upheld"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "involvement_details": [
+                "detaining hostages"
+            ],
+            "admissibility_criteria": [
+                "equivalence to Canadian crime with max sentence of 10 years or more"
+            ],
+            "reasoning_given": [
+                "similar elements and mens rea requirements"
+            ]
+        },
+        {
+            "Crime Name": "False Imprisonment",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Canadian forcible confinement"
+            ],
+            "procedural_fairness": [
+                "Judicial review of deportation order"
+            ],
+            "evidence_sufficiency": [
+                "admitting actus reus and mens rea"
+            ],
+            "decision_made_by": [
+                "adjudicator"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "charter_rights_analysis": [
+                "no Charter rights violation found"
+            ]
+        }
+    ]
+}

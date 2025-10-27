@@ -1,0 +1,27 @@
+{
+    "Case ID": "030036",
+    "Different Crime": [
+        {
+            "Crime Name": "Humanitarian and Compassionate (H&C) Grounds Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "best interests of children",
+                "health condition of grandchildren"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "use of extrinsic evidence without notice"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "set aside"
+            ],
+            "best_interests_of_children": [
+                "inadequate analysis of grandchildren's best interests"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        }
+    ]
+}

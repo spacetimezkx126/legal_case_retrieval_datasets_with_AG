@@ -1,0 +1,56 @@
+{
+    "Case ID": "006944",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "theft under $5,000"
+            ],
+            "immigration_status": [
+                "overstayed visitor status",
+                "previously denied permanent residency"
+            ],
+            "decision_outcome": [
+                "TRP application denied",
+                "judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "Federal Court upheld Minister's decision"
+            ],
+            "family_class_considerations": [
+                "insufficient compelling reasons related to family situation"
+            ]
+        },
+        {
+            "Crime Name": "Theft under $5000",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "decision_reasoning": [
+                "history of non-compliance with immigration laws",
+                "lack of evidence supporting 'best interests of the child'"
+            ],
+            "application_details": [
+                "convicted of theft under $5000",
+                "inadmissible due to criminality",
+                "excluded from Canada for one year",
+                "applied for a TRP but failed to provide compelling reasons"
+            ],
+            "result_of_case": [
+                "Minister's decision not patently unreasonable",
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "sought a TRP after being found inadmissible due to a criminal conviction and exclusion from Canada"
+            ],
+            "procedure_followed": [
+                "judicial review of the Minister's decision under the standard of patent unreasonableness"
+            ]
+        }
+    ]
+}

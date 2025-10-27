@@ -1,0 +1,28 @@
+{
+    "Case ID": "090292",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canada Pension Plan"
+            ],
+            "decision_reasoning": [
+                "did not address all required factors",
+                "provided insufficient reasons",
+                "based the decision on unsupported evidence"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "result_of_case": [
+                "application for judicial review was allowed",
+                "case was remitted for reconsideration without costs"
+            ],
+            "specific_rule_applied": [
+                "90-day deadline for appeals",
+                "extension granted if specific criteria are met: continuing intention to pursue the appeal, reasonable explanation for delay, arguable case, and no prejudice to the other party"
+            ]
+        }
+    ]
+}

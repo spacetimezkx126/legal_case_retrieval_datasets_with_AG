@@ -1,0 +1,160 @@
+{
+    "Case ID": "043388",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a forged passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "risk_assessment": [
+                "fear of persecution",
+                "potential detention"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence"
+            ],
+            "internal_flight_alternative": [
+                "Internal Flight Alternative (IFA) in Colombo"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "PRRA decision set aside for re-determination"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "short-term detentions",
+                "lack of state protection"
+            ],
+            "state_protection": [
+                "lack of state protection"
+            ],
+            "nexus_to_convention_grounds": [
+                "past torture",
+                "Tamils from Jaffna"
+            ],
+            "serious_criminality": [],
+            "decision_outcome": [
+                "unreasonable"
+            ],
+            "procedural_fairness": [
+                "evidence dismissed",
+                "elevated standard used"
+            ],
+            "judicial_authority": [
+                "PRRA officer",
+                "Judicial review"
+            ],
+            "appeal_outcome": [
+                "application for judicial review granted",
+                "case remanded for re-determination"
+            ],
+            "cause_of_action": [
+                "fears persecution in Sri Lanka"
+            ],
+            "standard_of_review": [
+                "serious possibility"
+            ],
+            "applicable_statute": [
+                "IRPA sections 96 and 97"
+            ],
+            "material_misrepresentation": [],
+            "expert_testimony": [
+                "UNHCR reports favoring Tamils from the North/East"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "evidence_assessment": [
+                "dismissed evidence of torture, discriminatory arrests, lack of state protection"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "standard_of_proof": [
+                "serious possibility"
+            ],
+            "state_protection_analysis": [
+                "lack of state protection"
+            ],
+            "judicial_review_result": [
+                "granted"
+            ],
+            "decision_outcome": [
+                "PRRA decision set aside; case referred back for reassessment"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "fears persecution in Sri Lanka due to past torture"
+            ],
+            "procedural_fairness": [
+                "analysis of evidence assessment, legal standards, and procedural fairness"
+            ],
+            "discrepancies_identified": [
+                "used an elevated standard ('will/would')"
+            ],
+            "risk_to_national_security": [],
+            "membership_in_organization": [],
+            "complicity_in_crimes": [],
+            "refugee_status_claim": [
+                "Tamils from Jaffna"
+            ],
+            "internal_flight_alternative": [],
+            "document_disclosure_issues": [],
+            "balance_of_interests": []
+        },
+        {
+            "Crime Name": "Arrest without cause",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "evidence_assessment": [
+                "doctor’s letter",
+                "lawyer’s letter",
+                "UNHCR reports"
+            ],
+            "risk_of_persecution": [
+                "Tamils from Jaffna",
+                "past torture",
+                "current vulnerabilities"
+            ],
+            "decision_reasoning": [
+                "unreasonable due to incorrect evidence assessment",
+                "failure to apply proper standards"
+            ],
+            "result_of_case": [
+                "Court granted judicial review",
+                "set aside PRRA decision",
+                "referred case back for reassessment"
+            ]
+        },
+        {
+            "Crime Name": "Discriminatory detention",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "sections 96 and 97 of IRPA"
+            ],
+            "evidence_assessment": [
+                "dismissed evidence of past torture",
+                "failed to consider discriminatory arrests",
+                "overlooked UNHCR reports indicating risks for Tamils in Colombo"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed PRRA decision on reasonableness, focusing on evidence assessment, legal standard application, and procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA decision was unreasonable"
+            ],
+            "persecution_grounds": [
+                "Applicant feared persecution in Sri Lanka due to being Tamil and past experiences with SLA and LTTE"
+            ]
+        }
+    ]
+}

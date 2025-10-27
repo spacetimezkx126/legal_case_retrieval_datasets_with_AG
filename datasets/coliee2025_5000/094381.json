@@ -1,0 +1,28 @@
+{
+    "Case ID": "094381",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Fraud (Potential)",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "failed to meet residency requirements"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of residency",
+                "gaps in documentation",
+                "low reported income"
+            ],
+            "decision_outcome": [
+                "appeal dismissed",
+                "ineligible for citizenship"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "legal_basis": [
+                "Citizenship Act",
+                "section 14(5)"
+            ]
+        }
+    ]
+}

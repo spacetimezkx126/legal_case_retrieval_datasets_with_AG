@@ -1,0 +1,30 @@
+{
+    "Case ID": "030675",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Discretion Misapplication",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "procedural_fairness": [
+                "neglected procedural fairness"
+            ],
+            "decision_reasoning": [
+                "failed to consider particular circumstances",
+                "misinterpreted discretion regarding time limit"
+            ],
+            "cause_of_action": [
+                "ITPR application dismissed for exceeding deadline"
+            ],
+            "procedure_followed": [
+                "Judicial review under the Federal Courts Act"
+            ],
+            "result_of_case": [
+                "court allowed judicial review",
+                "CRA decision set aside",
+                "ordered reconsideration of ITPR application"
+            ]
+        }
+    ]
+}

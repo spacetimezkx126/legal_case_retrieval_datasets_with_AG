@@ -1,0 +1,53 @@
+{
+    "Case ID": "034633",
+    "Different Crime": [
+        {
+            "Crime Name": "Theft over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "judicial_authority": [
+                "Federal Courts Act"
+            ],
+            "nature_of_offense": [
+                "fraud over $5000"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review under section 18.1"
+            ],
+            "serious_criminality": [
+                "criminal record for fraud over $5000"
+            ],
+            "risk_characterization": [
+                "perceived risk to civil aviation"
+            ]
+        },
+        {
+            "Crime Name": "Impersonating a peace officer",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "not manifestly unreasonable"
+            ],
+            "judicial_review_process": [
+                "section 18.1 of the Federal Courts Act",
+                "Dr Q framework"
+            ],
+            "burden_of_proof": [
+                "patent unreasonableness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "national_security_concerns": [
+                "risk to civil aviation"
+            ],
+            "legal_basis": [
+                "I.4(d) of the Program"
+            ]
+        }
+    ]
+}

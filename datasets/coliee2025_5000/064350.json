@@ -1,0 +1,57 @@
+{
+    "Case ID": "064350",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "correctness",
+                "no violation of fairness"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "insufficient evidence",
+                "weak establishment claims"
+            ],
+            "standard_of_proof": [
+                "reasonableness for establishment assessments"
+            ],
+            "evidence_consideration": [
+                "unsubstantiated claims disregarded",
+                "peripheral issues not impactful"
+            ],
+            "immigration_status": [
+                "establishment in Canada assessed"
+            ],
+            "applicant_involvement": [
+                "Mr. Buio's ties to Canada misjudged claim dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "procedural_fairness": [
+                "correctness"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "applicable_laws": [
+                "procedural fairness standards",
+                "establishment assessment standards"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_considered": [
+                "unsubstantiated claims",
+                "ties to Canada"
+            ],
+            "humanitarian_concerns": [
+                "insufficient evidence"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

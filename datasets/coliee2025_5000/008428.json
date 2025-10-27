@@ -1,0 +1,75 @@
+{
+    "Case ID": "008428",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-Removal Risk Assessment Irregularities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.113",
+                "Regulations s.167"
+            ],
+            "procedural_fairness": [
+                "no hearing required due to insufficient evidence"
+            ],
+            "credibility_assessment": [
+                "serious issue of credibility not present"
+            ],
+            "evidence_assessment": [
+                "insufficient corroborative evidence of sexual orientation"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "Federal Court reviewed procedural fairness"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "evidence_provided": [
+                "insufficient evidence proving her sexual orientation"
+            ],
+            "procedural_fairness": [
+                "no oral hearing required"
+            ],
+            "claim_nature": [
+                "risk due to sexual orientation"
+            ],
+            "judicial_authority": [
+                "PRRA officer"
+            ],
+            "serious_criminality": [
+                "drug trafficking conviction"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "insufficient evidence proving sexual orientation"
+            ],
+            "evidence_sufficiency": [
+                "decision based on evidence sufficiency"
+            ],
+            "procedural_fairness": [
+                "no error in not holding an oral hearing"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "PRRA application reviewed"
+            ]
+        }
+    ]
+}

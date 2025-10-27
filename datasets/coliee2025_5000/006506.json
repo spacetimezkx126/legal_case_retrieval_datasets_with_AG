@@ -1,0 +1,31 @@
+{
+    "Case ID": "006506",
+    "Different Crime": [
+        {
+            "Crime Name": "Trademark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "distinctiveness_evaluation": [
+                "lack of distinctiveness"
+            ],
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "evidence_provided": [
+                "existence of many red-brown pills in the market",
+                "pharmacists primarily identify tablets by other means"
+            ],
+            "appeal_outcome": [
+                "Appeals allowed",
+                "trademark applications denied"
+            ],
+            "cause_of_action": [
+                "opposition to trademark applications"
+            ],
+            "judicial_authority": [
+                "Federal Court",
+                "Court of Appeal",
+                "Registrar"
+            ]
+        }
+    ]
+}

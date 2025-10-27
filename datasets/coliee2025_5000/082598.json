@@ -1,0 +1,28 @@
+{
+    "Case ID": "082598",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Rejection",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "non-disclosure of documents",
+                "failure to consider fear of extortion"
+            ],
+            "legal_basis": [
+                "Procedural fairness requires disclosure of significant post-submission documents affecting country conditions",
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "evidence_assessment": [
+                "UNHCR and UK Reports not disclosed but relied upon",
+                "extortion minimally referenced in application"
+            ],
+            "decision_reasoning": [
+                "documents not novel or significant",
+                "fear of extortion not adequately advanced by Applicant"
+            ],
+            "result_of_case": [
+                "Judicial review dismissed"
+            ]
+        }
+    ]
+}

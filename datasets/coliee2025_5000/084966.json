@@ -1,0 +1,27 @@
+{
+    "Case ID": "084966",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid due to obviousness"
+            ],
+            "infringement_analysis": [
+                "obviousness, lack of novelty, inventive step"
+            ],
+            "expert_testimony": [
+                "analyzed prior art and expert testimonies"
+            ],
+            "relevant_factors": [
+                "routine methods, regulatory trends motivating testing"
+            ],
+            "decision_reasoning": [
+                "self-evident to test enantiomers for pharmacokinetic properties"
+            ],
+            "result_of_case": [
+                "application dismissed, patent invalid"
+            ]
+        }
+    ]
+}

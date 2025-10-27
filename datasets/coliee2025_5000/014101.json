@@ -1,0 +1,30 @@
+{
+    "Case ID": "014101",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Access to Information Act",
+                "paragraphs 20(1)(b) and (c)"
+            ],
+            "evidence_assessment": [
+                "uncontradicted evidence"
+            ],
+            "decision_reasoning": [
+                "confidential commercial information",
+                "shared only due to contractual relations",
+                "not publicly disclosed except in limited litigation contexts"
+            ],
+            "conclusion_outcome": [
+                "application is allowed",
+                "documents shall not be disclosed"
+            ],
+            "procedure_followed": [
+                "reviewing affidavits",
+                "analyzing relevant sections of the Act",
+                "determining if exemptions applied"
+            ]
+        }
+    ]
+}

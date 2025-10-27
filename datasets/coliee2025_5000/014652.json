@@ -1,0 +1,31 @@
+{
+    "Case ID": "014652",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Credibility Assessment",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "standard_of_review": [
+                "reasonableness_standard"
+            ],
+            "evidence_assessment": [
+                "documentary_evidence",
+                "medical_evidence"
+            ],
+            "specific_vulnerabilities": [
+                "mental_health_condition"
+            ],
+            "decision_outcome": [
+                "application_dismissed"
+            ],
+            "burden_of_proof": [
+                "sufficient_evidence_required"
+            ],
+            "legal_basis": [
+                "Immigration_and_Refugee_Protection_Act"
+            ]
+        }
+    ]
+}

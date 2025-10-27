@@ -1,0 +1,25 @@
+{
+    "Case ID": "037074",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "lacked_corroboration"
+            ],
+            "state_protection_analysis": [
+                "state_protection_presumed_available"
+            ],
+            "internal_flight_alternative": [
+                "internal_flight_alternative_existed"
+            ],
+            "reasonableness_standard": [
+                "reasonableness_standard_applied"
+            ],
+            "decision_outcome": [
+                "judicial_review_dismissed"
+            ]
+        }
+    ]
+}

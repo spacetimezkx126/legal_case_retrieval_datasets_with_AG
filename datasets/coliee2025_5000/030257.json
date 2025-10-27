@@ -1,0 +1,54 @@
+{
+    "Case ID": "030257",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "principles of procedural fairness",
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in financial documentation",
+                "reliance on extrinsic evidence"
+            ],
+            "decision_outcome": [
+                "application rejected",
+                "judicial review dismissed",
+                "original rejection upheld"
+            ],
+            "immigration_status": [
+                "investor class requirements"
+            ],
+            "material_misrepresentation": [
+                "inability to clarify business operations"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "decision_outcome": [
+                "unreasonable decision-making not found"
+            ],
+            "evidence_provided": [
+                "inconsistencies in financial documentation",
+                "inability to clarify business operations"
+            ],
+            "standard_of_review": [
+                "reasonableness of visa officer's decision"
+            ],
+            "judicial_authority": [
+                "court dismissed the application"
+            ],
+            "appeal_outcome": [
+                "application for judicial review dismissed; original rejection upheld"
+            ]
+        }
+    ]
+}

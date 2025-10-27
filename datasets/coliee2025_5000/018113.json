@@ -1,0 +1,50 @@
+{
+    "Case ID": "018113",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "hardship due to perceived wealth upon return"
+            ],
+            "reasonableness_of_decision": [
+                "no reviewable errors"
+            ],
+            "availability_of_alternative_remedies": [
+                "judicial review in Federal Court"
+            ],
+            "immigration_status": [
+                "exemption from returning to El Salvador"
+            ],
+            "balance_of_convenience": [
+                "disproportionate hardship not found"
+            ],
+            "standard_of_proof": [
+                "Section 25 of IRPA for discretionary exemptions"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "hardship due to perceived wealth upon return to El Salvador"
+            ],
+            "applicable_laws": [
+                "Section 25 of IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "court_ruling": [
+                "no reviewable errors",
+                "dismissed the judicial review application"
+            ],
+            "decision_outcome": [
+                "Application for judicial review denied"
+            ],
+            "relevant_factors": [
+                "unusual, undeserved, or disproportionate hardship"
+            ]
+        }
+    ]
+}

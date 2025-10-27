@@ -1,0 +1,27 @@
+{
+    "Case ID": "016916",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "denied procedural fairness"
+            ],
+            "legal_basis": [
+                "visa officers must inform applicants if concerns relate to document veracity"
+            ],
+            "decision_reasoning": [
+                "officer questioned the authenticity of the experience letter, implying fraud"
+            ],
+            "application_details": [
+                "permanent residence application denied due to insufficient evidence of work experience"
+            ],
+            "procedure_followed": [
+                "judicial review application filed challenging the visa officer's decision based on procedural fairness"
+            ],
+            "result_of_case": [
+                "court allowed the judicial review, amending the case to include family members, and ordered redetermination"
+            ]
+        }
+    ]
+}

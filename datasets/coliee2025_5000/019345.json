@@ -1,0 +1,53 @@
+{
+    "Case ID": "019345",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 4(3) of the Immigration Regulations"
+            ],
+            "evidence_assessment": [
+                "misapprehension of evidence",
+                "opinions, not concrete evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "Appeal Division's decision set aside",
+                "case remanded for reconsideration"
+            ],
+            "burden_of_proof": [
+                "erroneously placed on visa officer instead of sponsored applicant"
+            ],
+            "misrepresentation_or_fraud": [
+                "entered marriage primarily for immigration purposes"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 4(3) of the Immigration Regulations"
+            ],
+            "decision_outcome": [
+                "judicial review application allowed",
+                "Appeal Division's decision set aside"
+            ],
+            "procedural_fairness": [
+                "misapprehension of evidence",
+                "improper focus on husband's beliefs"
+            ],
+            "evidence_provided": [
+                "wife's cousin's opinion",
+                "husband's opinion"
+            ],
+            "burden_of_proof": [
+                "placed on visa officer instead of sponsored applicant"
+            ],
+            "appeal_outcome": [
+                "overturned",
+                "remanded for reconsideration"
+            ]
+        }
+    ]
+}

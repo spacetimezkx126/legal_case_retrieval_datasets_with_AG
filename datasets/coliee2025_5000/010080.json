@@ -1,0 +1,33 @@
+{
+    "Case ID": "010080",
+    "Different Crime": [
+        {
+            "Crime Name": "Pre-Removal Risk Assessment (PRRA) Appeal",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "justified",
+                "transparent",
+                "intelligible",
+                "acceptable outcomes"
+            ],
+            "state_protection": [
+                "failure to seek state protection",
+                "non-police agencies for protection",
+                "disregarding country condition evidence"
+            ],
+            "judicial_authority": [
+                "judicial review",
+                "reevaluation by a different officer"
+            ],
+            "risk_characterization": [
+                "domestic abuse",
+                "asylum in Canada",
+                "negative PRRA decision"
+            ],
+            "appeal_outcome": [
+                "application for judicial review granted",
+                "case referred back for reconsideration"
+            ]
+        }
+    ]
+}

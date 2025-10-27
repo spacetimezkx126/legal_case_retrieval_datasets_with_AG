@@ -1,0 +1,30 @@
+{
+    "Case ID": "042290",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of corroborating documents",
+                "ignored existing evidence",
+                "improperly drawn negative inferences"
+            ],
+            "procedural_fairness": [
+                "Board's decision was not procedurally fair"
+            ],
+            "reasonableness_standard": [
+                "Board's decision was not reasonable"
+            ],
+            "documentary_evidence": [
+                "overlooked evidence supporting threats to family"
+            ],
+            "decision_outcome": [
+                "judicial review application granted",
+                "case remitted to a different panel"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ]
+        }
+    ]
+}

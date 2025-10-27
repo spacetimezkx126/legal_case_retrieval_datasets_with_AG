@@ -1,0 +1,71 @@
+{
+    "Case ID": "046001",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Immigration Application",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "subparagraph 1F(a) of the Convention",
+                "Immigration and Refugee Protection Act"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "decision_outcome": [
+                "exclusion from refugee status",
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "serious reasons to believe",
+                "less stringent than civil law"
+            ],
+            "party_involved": [
+                "Mr. Ryivuze",
+                "Burundi's government"
+            ],
+            "claim_nature": [
+                "refugee protection"
+            ],
+            "judicial_authority": [
+                "Board's decision"
+            ],
+            "material_misrepresentation": [
+                "concealed identity as a Burundian civil servant"
+            ],
+            "serious_criminality": [
+                "crimes against humanity"
+            ],
+            "relationship_genuineness": [
+                "voluntary association with the government"
+            ],
+            "risk_characterization": [
+                "failure to disengage from the government committing crimes"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "subparagraph 1F(a) of the Convention"
+            ],
+            "exclusion_reason": [
+                "complicity in crimes against humanity"
+            ],
+            "evidentiary_standard": [
+                "lower standard than criminal or civil law"
+            ],
+            "senior_official_involvement": [
+                "high-ranking position in Burundi's government"
+            ],
+            "complicity_in_crimes": [
+                "knew about its crimes, and did not disassociate"
+            ],
+            "decision_outcome": [
+                "excluded from refugee status"
+            ],
+            "judicial_review_process": [
+                "Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

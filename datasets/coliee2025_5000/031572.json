@@ -1,0 +1,53 @@
+{
+    "Case ID": "031572",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage primarily for acquiring status",
+                "not genuine marriage"
+            ],
+            "evidence_assessment": [
+                "financial support",
+                "visits",
+                "communication",
+                "inconsistencies in statements"
+            ],
+            "decision_outcome": [
+                "tribunal's decision upheld",
+                "judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "standard of reasonableness"
+            ],
+            "criminal_history": [
+                "criminal record for sexual offenses"
+            ],
+            "evidence_consideration": [
+                "financial support and visits",
+                "hasty proposal",
+                "female applicant's intentions"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable based on the evidence presented and applicable law"
+            ],
+            "immigration_status": [
+                "acquiring Canadian status"
+            ]
+        }
+    ]
+}

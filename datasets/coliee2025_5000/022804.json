@@ -1,0 +1,52 @@
+{
+    "Case ID": "022804",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "upheld",
+                "no breach"
+            ],
+            "evidence_assessment": [
+                "properly considered",
+                "gaps in documentation"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ],
+            "misrepresentation_or_fraud": [
+                "doubts about intentions and financial support"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "evidence_provided": [
+                "gaps in documentation",
+                "regional concerns"
+            ],
+            "decision_outcome": [
+                "denial of study permit application"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "judicial review"
+            ],
+            "material_misrepresentation": [
+                "doubts about applicant's intentions and financial support"
+            ],
+            "appeal_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

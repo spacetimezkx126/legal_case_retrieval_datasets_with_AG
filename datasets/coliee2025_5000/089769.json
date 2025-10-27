@@ -1,0 +1,36 @@
+{
+    "Case ID": "089769",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Act",
+                "Public Service Employment Regulations"
+            ],
+            "cause_of_action": [
+                "disability priority entitlement"
+            ],
+            "procedure_followed": [
+                "judicial review application"
+            ],
+            "decision_reasoning": [
+                "mootness",
+                "no live controversy",
+                "no error in Commission's decision"
+            ],
+            "result_of_case": [
+                "application dismissed"
+            ],
+            "relevant_statute": [
+                "Public Service Employment Regulations"
+            ],
+            "standard_of_review": [
+                "mootness analysis"
+            ],
+            "evidence_presented": [
+                "lack of proper certification"
+            ]
+        }
+    ]
+}

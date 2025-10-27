@@ -1,0 +1,106 @@
+{
+    "Case ID": "061668",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Was the referral procedurally unfair or unreasonable due to reliance on extraneous evidence"
+            ],
+            "criminality_inadmissibility": [
+                "Applicant had a drug trafficking conviction and was linked to organized crime"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard applies, focusing on justification, transparency, and intelligibility in decision-making"
+            ],
+            "decision_outcome": [
+                "Application dismissed; referral was reasonable and not influenced by unproven allegations"
+            ],
+            "misrepresentation_or_fraud": [
+                "Border document misrepresentation"
+            ]
+        },
+        {
+            "Crime Name": "Real estate fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "no prejudice from unproven allegations"
+            ],
+            "serious_criminality": [
+                "drug trafficking conviction",
+                "real estate fraud"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "justification",
+                "transparency",
+                "acceptable outcomes"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Judicial review under IRPA subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "criminal_history": [
+                "cocaine trafficking",
+                "assault charges"
+            ],
+            "procedural_fairness": [
+                "reliance on extraneous evidence"
+            ],
+            "serious_issue": [
+                "referral to admissibility hearing"
+            ],
+            "risk_assessment": [
+                "serious criminality"
+            ],
+            "availability_of_alternative_remedies": [
+                "admissibility hearing for serious criminality"
+            ],
+            "reasonableness_of_decision": [
+                "justification, transparency, acceptable outcomes under IRPA"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in cocaine",
+            "Crime Type": "Drug-related_Crimes",
+            "procedural_fairness": [
+                "procedurally unfair or unreasonable",
+                "reliance on extraneous evidence"
+            ],
+            "serious_criminality": [
+                "referral to an admissibility hearing"
+            ],
+            "evidence_considered": [
+                "convictions of cocaine trafficking",
+                "ties to organized crime",
+                "unproven allegations"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "criminal_history": [
+                "convicted of drug trafficking",
+                "recent convictions"
+            ],
+            "parties_involved": [
+                "Applicant",
+                "Minister of Public Safety and Emergency Preparedness"
+            ]
+        }
+    ]
+}

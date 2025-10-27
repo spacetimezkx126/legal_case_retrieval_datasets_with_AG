@@ -1,0 +1,33 @@
+{
+    "Case ID": "024379",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "genuineness of marriage",
+                "cultural factors",
+                "shared responsibilities"
+            ],
+            "legal_basis": [
+                "Section 4 of the Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Federal Court",
+                "reconsideration by a different member"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "remanded to the Board"
+            ],
+            "misrepresentation_or_fraud": [
+                "marriage not primarily for immigration purposes"
+            ],
+            "evidence_assessment": [
+                "peripheral inconsistencies",
+                "arranged marriage"
+            ]
+        }
+    ]
+}

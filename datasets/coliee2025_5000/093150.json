@@ -1,0 +1,77 @@
+{
+    "Case ID": "093150",
+    "Different Crime": [
+        {
+            "Crime Name": "False representation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "false representations about his involvement in the Rwandan genocide"
+            ],
+            "evidence_assessment": [
+                "witnesses fear reprisals",
+                "affidavit supports these fears as genuine and serious"
+            ],
+            "decision_outcome": [
+                "Confidentiality order granted"
+            ],
+            "identity_verification": [
+                "protect witness identities"
+            ],
+            "procedural_fairness": [
+                "Rule 151 of the Federal Courts Rules",
+                "Court analyzed the necessity and effects of the confidentiality order"
+            ]
+        },
+        {
+            "Crime Name": "Knowingly concealing material circumstances",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Rule 151 of the Federal Courts Rules"
+            ],
+            "decision_outcome": [
+                "Confidentiality order granted"
+            ],
+            "procedural_fairness": [
+                "Public interest in open proceedings vs witness safety"
+            ],
+            "evidence_provided": [
+                "RCMP investigations",
+                "Witness fear of reprisals",
+                "Past cases confirming genuine fears"
+            ],
+            "risk_characterization": [
+                "Risk to witness safety"
+            ],
+            "public_interest": [
+                "Public interest in open proceedings"
+            ]
+        },
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Rule 151 of the Federal Courts Rules"
+            ],
+            "procedural_fairness": [
+                "confidentiality order",
+                "open proceedings"
+            ],
+            "credibility_findings": [
+                "genuine fears of reprisals"
+            ],
+            "human_rights_violations": [
+                "Rwandan genocide"
+            ],
+            "immigration_status": [
+                "Canadian citizenship"
+            ],
+            "administrative_error": [
+                "false representations"
+            ],
+            "judicial_review_process": [
+                "motion for confidentiality",
+                "default judgment hearing"
+            ]
+        }
+    ]
+}

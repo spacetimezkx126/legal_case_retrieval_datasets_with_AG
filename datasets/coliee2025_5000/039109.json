@@ -1,0 +1,54 @@
+{
+    "Case ID": "039109",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal Inadmissibility under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 24(1) of the IRPA"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "extortion conviction"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the visa officer's decision"
+            ],
+            "procedural_fairness": [
+                "Judicial review application argued statutory misinterpretation and unreasonableness of visa officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 24(1) of the IRPA",
+                "Section 36(1)(b) of IRPA"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed",
+                "standard of review was reasonableness"
+            ],
+            "nature_of_offense": [
+                "Extortion"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "serious_criminality": [
+                "Convicted of extortion"
+            ],
+            "risk_characterization": [
+                "Risk of recidivism"
+            ],
+            "appeal_outcome": [
+                "No question certified"
+            ]
+        }
+    ]
+}

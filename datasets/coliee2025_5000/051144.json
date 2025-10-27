@@ -1,0 +1,130 @@
+{
+    "Case ID": "051144",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "political opinion",
+                "particular social group"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "inconsistencies in testimony deemed non-fatal"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no serious general importance question certified"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "nexus_to_convention_grounds": [
+                "political opinion"
+            ],
+            "reasonableness_standard": [
+                "mixed questions of law and fact under IRPA Section 96"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "persecution_details": [
+                "torture by Sri Lankan authorities",
+                "association with MV Ocean Lady",
+                "link to LTTE"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Respondent retained refugee status"
+            ],
+            "claim_nature": [
+                "refugee status based on past torture and fear of future persecution"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "refugee_status_nexus": [
+                "political opinion"
+            ],
+            "risk_of_persecution": [
+                "ethnicity",
+                "association with MV Ocean Lady",
+                "perceived LTTE links"
+            ],
+            "credibility_findings": [
+                "past mistreatment",
+                "potential future persecution"
+            ],
+            "reasonableness_of_decision": [
+                "established nexus",
+                "sufficient reasons"
+            ],
+            "membership_in_organization": [
+                "MV Ocean Lady",
+                "LTTE links"
+            ],
+            "country_conditions": [
+                "Sri Lanka"
+            ],
+            "standard_of_proof": [
+                "Reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "past torture",
+                "fear of future persecution",
+                "LTTE association"
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision was reasonable"
+            ],
+            "credibility_findings": [
+                "Respondent credible regarding torture",
+                "inconsistencies in narrative"
+            ],
+            "risk_assessment": [
+                "persecution due to association with MV Ocean Lady"
+            ],
+            "applicable_law_section": [
+                "IRPA Section 96"
+            ],
+            "reasoning_given": [
+                "sufficiently established nexus to political opinion",
+                "intelligible reasons"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "Respondent retained refugee status"
+            ],
+            "judicial_review_result": [
+                "Judicial review application by Minister challenging RPD's decision granting refugee status"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling of migrants",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "nexus to a ground in the Convention refugee definition under IRPA"
+            ],
+            "reasonableness_of_decision": [
+                "Reasonableness standard applies for mixed questions of law and fact"
+            ],
+            "credibility_findings": [
+                "Respondent would be perceived as linked to the LTTE due to traveling on the MV Ocean Lady"
+            ],
+            "judicial_review_process": [
+                "Judicial review by Federal Court under IRPA, assessing RPD's decision reasonableness"
+            ],
+            "decision_outcome": [
+                "The application for judicial review is dismissed; the RPD's decision was reasonable"
+            ]
+        }
+    ]
+}

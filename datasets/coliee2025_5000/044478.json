@@ -1,0 +1,28 @@
+{
+    "Case ID": "044478",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "state_protection_analysis": [
+                "documentary_evidence",
+                "country_conditions"
+            ],
+            "decision_outcome": [
+                "stay_of_removal"
+            ],
+            "review_standard": [
+                "independent_review_by_rad"
+            ],
+            "risk_of_persecution": [
+                "specific_vulnerabilities"
+            ],
+            "evidence_assessment": [
+                "translation_quality"
+            ]
+        }
+    ]
+}

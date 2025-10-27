@@ -1,0 +1,32 @@
+{
+    "Case ID": "054099",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination and Harassment",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "incomplete investigation",
+                "failure to interview key witnesses",
+                "inadequate addressing of race/ethnicity aspects",
+                "potential bias"
+            ],
+            "evidence_credibility": [
+                "insufficient consideration of relevant evidence"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "remitted for redetermination"
+            ],
+            "judicial_review_result": [
+                "overturned decision",
+                "ordered fresh investigation"
+            ],
+            "reasoning_given": [
+                "investigator's failure to meet procedural fairness standards"
+            ],
+            "human_rights_concerns": [
+                "alleged harassment and discrimination based on sex, race, and ethnicity"
+            ]
+        }
+    ]
+}

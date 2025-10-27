@@ -1,0 +1,31 @@
+{
+    "Case ID": "050486",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony"
+            ],
+            "procedural_fairness": [
+                "translation_quality"
+            ],
+            "reasonableness_standard": [
+                "cumulative_persecution_effects"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "review_standard": [
+                "reasonableness",
+                "correctness"
+            ],
+            "specific_group_membership": [
+                "Kurdish ethnicity",
+                "political activities"
+            ],
+            "burden_of_proof": [],
+            "legal_basis": []
+        }
+    ]
+}

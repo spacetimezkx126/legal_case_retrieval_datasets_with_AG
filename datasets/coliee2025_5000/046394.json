@@ -1,0 +1,54 @@
+{
+    "Case ID": "046394",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of fraudulent documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 109(1) and (2) of IRPA"
+            ],
+            "misrepresentation_or_fraud": [
+                "refugee claim obtained through misrepresentation",
+                "new evidence regarding Russian citizenship"
+            ],
+            "decision_outcome": [
+                "RPD's decision set aside",
+                "new hearing ordered"
+            ],
+            "procedural_fairness": [
+                "improper consideration of new evidence",
+                "inadequate explanation of reasoning"
+            ]
+        },
+        {
+            "Crime Name": "Obtaining documents by fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "Russian citizenship"
+            ],
+            "legal_basis": [
+                "IRPA s. 109(1)",
+                "IRPA s. 109(2)"
+            ],
+            "decision_outcome": [
+                "set aside",
+                "new hearing required"
+            ],
+            "judicial_authority": [
+                "RPD"
+            ],
+            "cause_of_action": [
+                "Minister's application to vacate refugee protection"
+            ],
+            "procedural_fairness": [
+                "Judicial review of RPD's decision"
+            ],
+            "evidence_provided": [
+                "new evidence"
+            ],
+            "standard_of_review": [
+                "errors in applying IRPA s. 109(1) and (2)"
+            ]
+        }
+    ]
+}

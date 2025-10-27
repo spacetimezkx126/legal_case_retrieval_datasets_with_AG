@@ -1,0 +1,49 @@
+{
+    "Case ID": "063387",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "reasonableness standard"
+            ],
+            "evidence_assessment": [
+                "insufficient weight to AI report",
+                "selective evidence analysis",
+                "contradictory findings"
+            ],
+            "risk_assessment": [
+                "persecution risk",
+                "potential detention"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected",
+                "case remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "judicial review"
+            ]
+        },
+        {
+            "Crime Name": "Human Smuggling Association",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "reasonableness_of_decision": [
+                "contradictory findings",
+                "selective evidence analysis"
+            ],
+            "evidentiary_standard": [
+                "dismissed Amnesty International's report without explanation"
+            ],
+            "judicial_review_process": [
+                "B381 applied for judicial review"
+            ],
+            "decision_outcome": [
+                "Federal Court found the Board's decision unreasonable",
+                "case remitted for reconsideration"
+            ],
+            "burden_of_proof": [
+                "justification, transparency, and intelligibility"
+            ]
+        }
+    ]
+}

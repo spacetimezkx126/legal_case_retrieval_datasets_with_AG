@@ -1,0 +1,31 @@
+{
+    "Case ID": "018243",
+    "Different Crime": [
+        {
+            "Crime Name": "Judicial Review Application Dismissal",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules 1602(2)(c), (e), (f), 1602(4)",
+                "Section 18.1 of the Federal Court Act",
+                "Royal Canadian Mounted Police Act s. 5, 22(1)"
+            ],
+            "procedural_fairness": [
+                "non-compliance with procedural rules"
+            ],
+            "decision_reasoning": [
+                "unexercised jurisdiction by the Commissioner",
+                "incomplete grievance process",
+                "Rule 1602 does not allow class actions or general orders"
+            ],
+            "application_details": [
+                "Applicants claim RCMP improperly refuses meal allowances"
+            ],
+            "result_of_case": [
+                "Application dismissed"
+            ],
+            "cost_awards": [
+                "costs awarded against respondents"
+            ]
+        }
+    ]
+}

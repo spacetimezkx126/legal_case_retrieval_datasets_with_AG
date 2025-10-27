@@ -1,0 +1,51 @@
+{
+    "Case ID": "075182",
+    "Different Crime": [
+        {
+            "Crime Name": "Work Permit Refusal under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of natural justice principles",
+                "no interview conducted"
+            ],
+            "evidence_assessment": [
+                "erroneous facts",
+                "inadequate consideration of evidence"
+            ],
+            "decision_outcome": [
+                "Court overturned the decision"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "immigration_status": [
+                "work permit denial"
+            ],
+            "identity_verification": [
+                "doubted applicant’s intent to leave Canada post-expiry"
+            ]
+        },
+        {
+            "Crime Name": "Breach of procedural fairness/Breach of natural justice in immigration context",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "Visa officers must provide applicants an opportunity to respond",
+                "Procedural fairness requires interviews or responses under certain circumstances"
+            ],
+            "judicial_review_process": [
+                "Judicial review application heard in Federal Court",
+                "analyzed standards of review, factual errors, and procedural fairness"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "ruling in favor of the applicant due to breached natural justice principles"
+            ],
+            "burden_of_proof": [
+                "undisclosed concerns (e.g., higher salary, limited family ties)"
+            ],
+            "immigration_status": [
+                "work permit was denied"
+            ]
+        }
+    ]
+}

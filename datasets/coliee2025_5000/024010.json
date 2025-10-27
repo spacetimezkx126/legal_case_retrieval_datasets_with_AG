@@ -1,0 +1,55 @@
+{
+    "Case ID": "024010",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "officer cited credibility issues",
+                "provided chance to respond",
+                "documented in CAIPS notes"
+            ],
+            "credibility_assessment": [
+                "inconsistencies in the applicants' story"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "ineligible for Convention refugee or humanitarian-protected person status"
+            ],
+            "standard_of_review": [
+                "judicial review application filed with Federal Court"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "adequate reasons",
+                "opportunity to address concerns",
+                "credibility issues",
+                "inconsistencies in story",
+                "CAIPS notes"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "ineligible for Convention refugee or humanitarian-protected person status"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "claim_nature": [
+                "refugee status"
+            ],
+            "relationship_genuineness": [
+                "not credible due to inconsistencies"
+            ],
+            "legal_basis": [
+                "visa officers must provide reasons",
+                "applicants must be given an opportunity to respond"
+            ]
+        }
+    ]
+}

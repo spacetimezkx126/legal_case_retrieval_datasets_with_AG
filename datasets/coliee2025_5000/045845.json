@@ -1,0 +1,31 @@
+{
+    "Case ID": "045845",
+    "Different Crime": [
+        {
+            "Crime Name": "Income Tax Evasion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act"
+            ],
+            "decision_outcome": [
+                "jeopardy collection orders confirmed",
+                "applications dismissed"
+            ],
+            "procedural_fairness": [
+                "reasonable doubt about order's justification",
+                "sufficient justification and full disclosure required"
+            ],
+            "evidence_provided": [
+                "significant tax arrears",
+                "net worth statements",
+                "large cash holdings",
+                "unorthodox financial practices",
+                "potential to conceal assets"
+            ],
+            "applicable_statute": [
+                "s. 225.2(2)",
+                "s. 225.2(8)"
+            ]
+        }
+    ]
+}

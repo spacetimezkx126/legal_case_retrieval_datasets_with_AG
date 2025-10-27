@@ -1,0 +1,89 @@
+{
+    "Case ID": "022457",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of a fraudulent passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 57"
+            ],
+            "decision_outcome": [
+                "Application granted; matter remitted for reconsideration"
+            ],
+            "misrepresentation_or_fraud": [
+                "Possession of a fraudulent passport"
+            ],
+            "procedural_fairness": [
+                "The Member incorrectly believed prior decisions stood until overturned by the Federal Court, ignoring the requirement to reconsider detention grounds"
+            ],
+            "criminality_inadmissibility": [
+                "Kippax's detention based on a deportation order and possession of a fraudulent passport"
+            ]
+        },
+        {
+            "Crime Name": "Assault on a peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA s. 57"
+            ],
+            "procedural_fairness": [
+                "erroneous belief about jurisdiction",
+                "ignoring clear and compelling reasons for reconsideration"
+            ],
+            "risk_assessment": [
+                "danger findings",
+                "appearance findings"
+            ],
+            "reasonableness_of_decision": [
+                "Member incorrectly believed prior decisions stand until overturned by the Federal Court"
+            ],
+            "availability_of_alternative_remedies": [
+                "reconsideration by a different ID Member"
+            ]
+        },
+        {
+            "Crime Name": "Serious criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 57"
+            ],
+            "decision_reasoning": [
+                "Member incorrectly believed prior decisions stood until overturned by the Federal Court, failing to conduct a fresh review as required"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed; Federal Court reviewed ID's jurisdiction and decision-making process"
+            ],
+            "result_of_case": [
+                "Court found error in Member's jurisdictional understanding; case remanded for reconsideration"
+            ],
+            "conclusion_outcome": [
+                "The application for judicial review is granted; the matter is remitted for reconsideration by a different ID Member"
+            ]
+        },
+        {
+            "Crime Name": "Marijuana grow operation related offences",
+            "Crime Type": "Drug-related_Crimes",
+            "decision_made_by": [
+                "ID Member"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "deportation_order": [
+                "yes"
+            ],
+            "criminal_history": [
+                "unresolved criminal charges"
+            ],
+            "decision_outcome": [
+                "Application granted; matter remitted for reconsideration"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA s. 57"
+            ],
+            "procedural_fairness": [
+                "Member erred in belief that prior decisions stand until overturned by Federal Court"
+            ]
+        }
+    ]
+}

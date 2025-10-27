@@ -1,0 +1,116 @@
+{
+    "Case ID": "082154",
+    "Different Crime": [
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_outcome": [
+                "judicial review application granted"
+            ],
+            "risk_characterization": [
+                "risk of torture or mistreatment"
+            ],
+            "nexus_to_convention_grounds": [
+                "diplomatic assurances against torture"
+            ],
+            "procedural_fairness": [
+                "PRRA process"
+            ],
+            "serious_criminality": [
+                "massive smuggling and bribery"
+            ],
+            "relationship_genuineness": [
+                "notoriety of the case"
+            ],
+            "reasonableness_standard": [
+                "reliability and effectiveness of diplomatic assurances"
+            ]
+        },
+        {
+            "Crime Name": "Bribery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 97(1) of the Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "risk_to_national_security": [],
+            "state_protection_analysis": [
+                "reliability and effectiveness of diplomatic assurances against torture"
+            ],
+            "reasonableness_of_decision": [
+                "deficient assessment of torture risk"
+            ],
+            "judicial_review_result": [
+                "granted due to errors in evaluating reliability of diplomatic assurances"
+            ],
+            "decision_outcome": [
+                "flaws in PRRA decision's assessment of torture risks"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "risk_of_persecution": [
+                "torture",
+                "mistreatment"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA), s. 97(1)"
+            ],
+            "decision_reasoning": [
+                "deficient assessment of torture risk",
+                "improper reliance on diplomatic assurances"
+            ],
+            "evidence_assessment": [
+                "credible reports of systematic torture in China",
+                "reliability of diplomatic assurances"
+            ],
+            "application_details": [
+                "Pre-Removal Risk Assessment (PRRA)"
+            ],
+            "conclusion_outcome": [
+                "judicial review granted"
+            ],
+            "cause_of_action": [
+                "fled Hong Kong to Canada",
+                "accused of masterminding smuggling operation"
+            ],
+            "procedure_followed": [
+                "excluded from Convention refugee status under Article 1F(b)",
+                "serious non-political crimes"
+            ],
+            "result_of_case": [
+                "Federal Court granted judicial review"
+            ],
+            "specific_rule_applied": [
+                "Article 1F(b)"
+            ],
+            "relevant_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "claim_nature": [
+                "refugee status claim"
+            ],
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "dispute_focus": [
+                "substantial risk of torture upon return"
+            ],
+            "standard_of_proof": [
+                "reliability of diplomatic assurances"
+            ],
+            "reasonableness_of_decision": [
+                "flawed reliance on diplomatic assurances"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "not explicitly addressed"
+            ],
+            "administrative_decision": [
+                "PRRA decision"
+            ]
+        }
+    ]
+}

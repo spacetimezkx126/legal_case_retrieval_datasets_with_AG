@@ -1,0 +1,114 @@
+{
+    "Case ID": "085516",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "clear communication",
+                "opportunity to present evidence",
+                "consideration of relevant factors"
+            ],
+            "evidence_assessment": [
+                "discrepancies in key details (meeting place, sexual relations, witnesses, activities, education)"
+            ],
+            "decision_outcome": [
+                "permanent residency application rejected",
+                "judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged marriage of convenience"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "doubts about the marriage's authenticity"
+            ],
+            "procedural_fairness": [
+                "reasonable, justified, transparent, intelligible",
+                "informing parties of issues, allowing representation, ensuring comprehensible communication"
+            ],
+            "decision_outcome": [
+                "officer's decision was reasonable and procedurally fair"
+            ],
+            "evidence_provided": [
+                "Discrepancies in the couple's statements",
+                "inconsistent evidence"
+            ],
+            "judicial_authority": [
+                "Court dismissed the application for judicial review"
+            ],
+            "cause_of_action": [
+                "Applicant's permanent residency application was rejected due to suspected marriage fraud"
+            ],
+            "appeal_outcome": [
+                "judicial review application is dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable",
+                "justified",
+                "transparent",
+                "intelligible"
+            ],
+            "procedural_fairness": [
+                "issues informed",
+                "representation allowed",
+                "comprehensible communication ensured"
+            ],
+            "evidence_consideration": [
+                "discrepancies in statements",
+                "inconsistent evidence provided by applicant"
+            ],
+            "immigration_status": [
+                "permanent residence application rejected"
+            ],
+            "standard_of_proof": [
+                "suspected marriage fraud"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "procedural_fairness": [
+                "reasonable",
+                "justified",
+                "transparent",
+                "intelligible",
+                "within acceptable outcomes",
+                "informing parties of issues",
+                "allowing representation",
+                "comprehensible communication"
+            ],
+            "evidence_considered": [
+                "discrepancies in couple's statements",
+                "relationship details",
+                "interview notes"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "officer's decision upheld"
+            ],
+            "claimant_burden": [
+                "suspected marriage fraud"
+            ],
+            "appeal_process": [
+                "judicial review"
+            ]
+        }
+    ]
+}

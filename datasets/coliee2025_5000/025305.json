@@ -1,0 +1,110 @@
+{
+    "Case ID": "025305",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Irregularities",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "adherence to prescribed factors",
+                "no breach of procedural fairness"
+            ],
+            "evidence_assessment": [
+                "insufficient proof of personalized risk",
+                "extrinsic evidence claims dismissed as common knowledge"
+            ],
+            "credibility_assessment": [
+                "no credibility issues were found"
+            ],
+            "decision_outcome": [
+                "Applications for judicial review dismissed",
+                "Officer's decisions were reasonable and upheld"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "denied due to insufficient evidence proving personalized risk or hardship"
+            ]
+        },
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "risk assessment",
+                "evidence evaluation"
+            ],
+            "personalized_vs_generalized_risk": [
+                "insufficient evidence",
+                "link to country conditions"
+            ],
+            "procedural_fairness": [
+                "no breach found"
+            ],
+            "judicial_authority": [
+                "PRRA",
+                "H&C applications"
+            ],
+            "risk_characterization": [
+                "family disputes"
+            ],
+            "expert_testimony": [
+                "medical certificates",
+                "letters"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "criminal convictions"
+            ],
+            "nature_of_offense": [
+                "Fraud"
+            ]
+        },
+        {
+            "Crime Name": "Domestic Violence",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "insufficient evidence for personalized risk"
+            ],
+            "child_best_interests": [
+                "children's interests weighed",
+                "alternative support options unexplored"
+            ],
+            "procedural_fairness": [
+                "reasonable opportunity for participation"
+            ],
+            "criminal_history": [
+                "criminal record mentioned"
+            ],
+            "reasonableness_of_decision": [
+                "decisions were reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "officers must consider evidence reasonably and ensure procedural fairness"
+            ],
+            "risk_assessment": [
+                "evaluating personal and country conditions"
+            ],
+            "evidence_provided": [
+                "documentary evidence"
+            ],
+            "credibility_findings": [
+                "insufficient proof of personalized risk",
+                "low weight to children’s interests due to their autonomy"
+            ],
+            "decision_outcome": [
+                "refugee claim rejected",
+                "PRRA and H&C applications denied"
+            ],
+            "judicial_review_result": [
+                "Applications for judicial review dismissed",
+                "no grounds for intervention"
+            ],
+            "reasoning_given": [
+                "The Officer's decision was reasonable and did not breach procedural fairness or misinterpret evidence"
+            ]
+        }
+    ]
+}

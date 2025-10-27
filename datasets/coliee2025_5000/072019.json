@@ -1,0 +1,30 @@
+{
+    "Case ID": "072019",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Law Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 112(1)",
+                "IRPA s. 25(1)"
+            ],
+            "procedural_fairness": [
+                "officer disregarded evidence without explanation"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "H&C applications impacted by flawed PRRA analysis"
+            ],
+            "risk_assessment": [
+                "incorrect application of 'balance of probabilities' test"
+            ],
+            "standard_of_review": [
+                "correctness",
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "decisions annulled",
+                "case remanded for reassessment"
+            ]
+        }
+    ]
+}

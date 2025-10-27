@@ -1,0 +1,33 @@
+{
+    "Case ID": "073785",
+    "Different Crime": [
+        {
+            "Crime Name": "Trade-mark Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Trade-marks Act"
+            ],
+            "legal_basis": [
+                "sections 12(1)(b), 12(1)(c), and 10"
+            ],
+            "distinctiveness_evaluation": [
+                "not distinctive enough"
+            ],
+            "confusion_likelihood": [
+                "alleged confusion"
+            ],
+            "evidence_provided": [
+                "cross-examinations",
+                "newspaper articles",
+                "Yellow Pages listings",
+                "corporate/trade-name searches"
+            ],
+            "decision_outcome": [
+                "invalid"
+            ],
+            "cause_of_action": [
+                "invalidation of trade-mark"
+            ]
+        }
+    ]
+}

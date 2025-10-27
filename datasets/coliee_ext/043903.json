@@ -1,0 +1,86 @@
+{
+    "Case ID": "043903",
+    "Crimes": [
+        {
+            "Crime_Name": "Border document misrepresentation",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refugee protection decision",
+            "Legal_Issue": "Whether the Board erred in finding applicants not in need of protection under IRPA s. 97(1)(b)(ii)",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Decision_Level": "Refugee Protection Division",
+            "Review_Court": "Federal Court"
+        },
+        {
+            "Crime_Name": "Ransom",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Judicial review of refugee protection decision",
+            "Legal_Issue": "Whether the Board erred in finding applicants not in need of protection under IRPA s. 97(1)(b)(ii)",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review",
+            "Evidence_Assessment": "Incidents deemed random crimes, not linked to Convention grounds"
+        },
+        {
+            "Crime_Name": "Death Threats",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Judicial review of refugee protection decision",
+            "Sub_Crime_Type": "Threats based on perceived wealth",
+            "Perpetrator_Type": "Criminal actors in Honduras",
+            "Victim_Status": "Applicants and family members",
+            "Risk_Assessment": "Generalized crime risk, not personal targeting"
+        },
+        {
+            "Crime_Name": "Abduction",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Failure to meet criteria for person in need of protection",
+            "Legal_Issue": "Whether risks were personal or generalized under IRPA",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Application_Facts": "Perceived wealth leading to family targeting",
+            "Decision_Outcome": "Claim dismissed due to generalized risk"
+        },
+        {
+            "Crime_Name": "Assault",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Judicial review of refugee protection decision",
+            "Sub_Crime_Type": "Random and isolated criminal acts",
+            "Perpetrator_Type": "Unknown criminals in Honduras",
+            "Victim_Status": "Applicants as targets due to perceived wealth",
+            "Risk_Assessment": "Generalized violence, not individual persecution"
+        },
+        {
+            "Crime_Name": "Theft",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": "Refugee status denial based on generalized crime",
+            "Legal_Provision_Involved": "IRPA s. 97(1)(b)(ii)",
+            "Procedural_Fairness_Issue": "Assessment of credibility and evidence",
+            "Country_of_Origin": "Honduras",
+            "Risk_Nexus": "Perceived wealth as basis for criminal targeting"
+        },
+        {
+            "Crime_Name": "Harassment",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": "Judicial review of refugee protection decision",
+            "Sub_Crime_Type": "Ongoing threats due to perceived wealth",
+            "Perpetrator_Type": "Unidentified individuals in Honduras",
+            "Victim_Status": "Applicants and immediate family",
+            "Targeted_Victimization": "No evidence of individualized targeting"
+        },
+        {
+            "Crime_Name": "Torture",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": "Claim for protection under IRPA based on risk of harm",
+            "Legal_Framework": "International human rights standards and IRPA",
+            "Standard_of_Review": "Reasonableness standard applied by Federal Court",
+            "State_Protection_Adequacy": "Insufficient state protection claimed but not proven",
+            "Risk_Nature": "Generalized crime rather than systematic persecution"
+        },
+        {
+            "Crime_Name": "Misrepresentation of official reports",
+            "Crime_Type": "False Statements and Immigration Fraud",
+            "Dispute_Type": "Judicial review of refugee claim rejection",
+            "Legal_Issue": "Whether applicants faced personal risk under IRPA",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Credibility_Assessment": "Incidents attributed to generalized crime, not specific threats",
+            "Document_Fraud": "Alleged misrepresentation in reporting incidents"
+        }
+    ]
+}

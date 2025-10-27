@@ -1,0 +1,77 @@
+{
+    "Case ID": "072065",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "untrustworthy",
+                "implausibilities"
+            ],
+            "evidence_assessment": [
+                "documentary evidence supported this view"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible"
+            ],
+            "standard_of_review": [
+                "no reviewable error"
+            ]
+        },
+        {
+            "Crime Name": "Treason under Romanian penal code",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "refugee_status_claim": [
+                "fear of persecution for treason due to political activities"
+            ],
+            "credibility_findings": [
+                "testimony implausible",
+                "lack of severe consequences for similar actions",
+                "willingness to return to Romania twice without seeking asylum elsewhere"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "refugee status claim denied"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was reasonable and supported by evidence"
+            ],
+            "evidence_credibility": [
+                "claimants must demonstrate credible evidence of persecution risk"
+            ],
+            "humanitarian_and_compassionate_grounds": [],
+            "internal_flight_alternative": []
+        },
+        {
+            "Crime Name": "Persecution for political opinion",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "untrustworthy",
+                "implausibility of claims"
+            ],
+            "evidentiary_standard": [
+                "documentary evidence"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable",
+                "not subject to intervention"
+            ],
+            "judicial_review_process": [
+                "dismissed",
+                "upholding the Board's decision"
+            ],
+            "refugee_definition": [
+                "claimed refugee status"
+            ],
+            "persecution_grounds": [
+                "political activities"
+            ],
+            "procedural_fairness": [
+                "Board has discretion to assess credibility"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "023667",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dismissal",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "financials",
+                "ESL attendance",
+                "prior claims",
+                "child's best interests",
+                "pregnancy",
+                "psychological reports"
+            ],
+            "procedural_fairness": [
+                "reasonableness",
+                "hardship",
+                "fairness"
+            ],
+            "evidence_assessment": [
+                "no undue hardship found",
+                "child’s young age",
+                "family in Albania"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review under IRPA"
+            ]
+        }
+    ]
+}

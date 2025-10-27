@@ -1,0 +1,70 @@
+{
+    "Case ID": "053333",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation Order Under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.64(2)"
+            ],
+            "criminality_inadmissibility": [
+                "serious criminality"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "charter_rights": [
+                "constitutional arguments"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "aggravated assault, four-year sentence"
+            ],
+            "applicable_statute": [
+                "IRPA Section 64(2)"
+            ],
+            "judicial_authority": [
+                "Immigration Appeal Division (IAD)",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "IAD lacked jurisdiction",
+                "judicial review dismissed"
+            ],
+            "legal_basis": [
+                "serious criminality applies to crimes punished by imprisonment of at least two years"
+            ],
+            "procedural_fairness": [
+                "pre-sentencing custody included in calculation"
+            ]
+        },
+        {
+            "Crime Name": "Aggravated Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA) Section 64(2)"
+            ],
+            "criminal_history": [
+                "aggravated assault conviction"
+            ],
+            "risk_assessment": [
+                "serious criminality"
+            ],
+            "procedural_fairness": [
+                "judicial review dismissed"
+            ],
+            "immigration_status": [
+                "inadmissible due to serious criminality"
+            ],
+            "standard_of_proof": [
+                "sentence calculation including pre-sentencing custody"
+            ]
+        }
+    ]
+}

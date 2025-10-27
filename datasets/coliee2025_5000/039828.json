@@ -1,0 +1,85 @@
+{
+    "Case ID": "039828",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "foreign hardship",
+                "likelihood of removal country"
+            ],
+            "past_criminal_convictions": [
+                "Mr. Bulgak's criminal convictions"
+            ],
+            "immigration_status": [
+                "deportation order",
+                "inadmissible under IRPA"
+            ],
+            "humanitarian_compassionate_grounds": [
+                "foreign hardship"
+            ],
+            "reasonableness_of_decision": [
+                "IAD's decision is set aside"
+            ],
+            "availability_of_alternative_remedies": [
+                "redetermination by a different panel"
+            ],
+            "standard_of_proof": [
+                "likely country of removal"
+            ]
+        },
+        {
+            "Crime Name": "Mischief under $5000",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration Appeal Division (IAD) must consider potential foreign hardship if a likely country of removal is established on a balance of probabilities"
+            ],
+            "decision_reasoning": [
+                "IAD erred in requiring a 'confirmed' country of removal instead of a 'likely' one"
+            ],
+            "evidence_assessment": [
+                "evidence suggested Sudan as the likely country of removal, and Mr. Bulgak had no connections there"
+            ],
+            "application_details": [
+                "Mr. Bulgak's case involved criminal convictions, including mischief under $5000"
+            ],
+            "conclusion_outcome": [
+                "The decision is set aside, and the matter is remitted for redetermination"
+            ],
+            "result_of_case": [
+                "The Federal Court granted the application, setting aside the IAD's decision and ordering a new hearing"
+            ],
+            "cause_of_action": [
+                "Mr. Bulgak's deportation order and the IAD's refusal to grant a stay based on humanitarian grounds"
+            ],
+            "procedure_followed": [
+                "Judicial review application challenging the IAD's decision, arguing failure to consider foreign hardship"
+            ]
+        },
+        {
+            "Crime Name": "Carrying a concealed weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "incorrect_test_applied"
+            ],
+            "evidence_considered": [
+                "Sudan_as_likely_country_of_removal",
+                "instability_in_Sudan"
+            ],
+            "decision_outcome": [
+                "set_aside",
+                "remitted_for_redetermination"
+            ],
+            "appeal_process": [
+                "judicial_review_application_granted",
+                "new_hearing_ordered"
+            ]
+        }
+    ]
+}

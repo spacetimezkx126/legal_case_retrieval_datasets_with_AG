@@ -1,0 +1,93 @@
+{
+    "Case ID": "070740",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Misrepresentation in Immigration Context",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "non-credible",
+                "inconsistencies"
+            ],
+            "legal_basis": [
+                "IRPA Sections 96 and 97"
+            ],
+            "evidence_assessment": [
+                "insufficient",
+                "general evidence",
+                "speculative harm claims"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "removal order upheld",
+                "no stay granted"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "balance of convenience"
+            ],
+            "risk_assessment": [
+                "personal risk",
+                "irreparable harm"
+            ]
+        },
+        {
+            "Crime Name": "Making False Statements to Obtain Immigration Benefits",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "decision_outcome": [
+                "dismissed application",
+                "rejected stay motions"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed credibility, relevance of new evidence"
+            ],
+            "evidence_provided": [
+                "inconsistencies in testimony and evidence",
+                "new evidence failed to establish credible fear"
+            ],
+            "standard_of_review": [
+                "serious issue or irreparable harm"
+            ],
+            "risk_characterization": [
+                "personal risk of persecution",
+                "credible fear"
+            ],
+            "irreparable_harm": [
+                "lack of irreparable harm"
+            ],
+            "relationship_genuineness": [
+                "claims deemed non-credible"
+            ],
+            "nexus_to_convention_grounds": [
+                "alleged political persecution"
+            ]
+        },
+        {
+            "Crime Name": "Making False Statements to Obtain Immigration Benefits",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "non-credible due to inconsistencies in testimony and evidence"
+            ],
+            "refugee_status_claim": [
+                "political persecution"
+            ],
+            "legal_basis": [
+                "sections 96 and 97 of the IRPA"
+            ],
+            "evidence_provided": [
+                "new evidence failed to establish credible fear"
+            ],
+            "decision_outcome": [
+                "dismissed the application"
+            ],
+            "reasoning_given": [
+                "lack of credible evidence showing personal risk or irreparable harm"
+            ],
+            "judicial_review_result": [
+                "rejected the stay motions, upholding removal orders"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Case ID": "073854",
+    "Different Crime": [
+        {
+            "Crime Name": "Second degree murder",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Judicial review of the Appeal Division's dismissal",
+                "issues of procedural fairness, bias, and consideration of pertinent information"
+            ],
+            "legal_basis": [
+                "test for reasonable apprehension of bias",
+                "Committee for Justice and Liberty test"
+            ],
+            "risk_assessment": [
+                "behavior and past as a Montreal Police officer"
+            ],
+            "reasonableness_of_decision": [
+                "Appeal Division did not explicitly or implicitly consider the key elements",
+                "error in bias analysis"
+            ],
+            "standard_of_proof": [
+                "likelihood of bias perceived by a reasonable and right-minded person"
+            ]
+        },
+        {
+            "Crime Name": "Manslaughter",
+            "Crime Type": "others",
+            "legal_basis": [
+                "reasonable apprehension of bias"
+            ],
+            "decision_reasoning": [
+                "Appeal Division did not apply the four-fold test for bias"
+            ],
+            "standard_of_review": [
+                "objective analysis by a reasonable and right-minded person"
+            ],
+            "result_of_case": [
+                "judicial review granted, case remanded"
+            ],
+            "relevant_rule": [
+                "Committee for Justice and Liberty test"
+            ]
+        }
+    ]
+}

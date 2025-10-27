@@ -1,0 +1,36 @@
+{
+    "Case ID": "051489",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "request_for_oral_hearing",
+                "failure_to_provide_reasons"
+            ],
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_reasoning": [
+                "credibility_concerns",
+                "timing_of_decision",
+                "forthcoming_evidence"
+            ],
+            "result_of_case": [
+                "judicial_review_allowed",
+                "PRRA_decision_set_aside",
+                "new_hearing_ordered"
+            ],
+            "application_details": [
+                "risk_of_persecution",
+                "request_for_PRRA_hearing_denied"
+            ],
+            "procedure_followed": [
+                "judicial_review",
+                "analysis_of_procedural_fairness",
+                "focus_on_oral_hearing_necessity"
+            ]
+        }
+    ]
+}

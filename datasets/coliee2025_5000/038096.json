@@ -1,0 +1,46 @@
+{
+    "Case ID": "038096",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to comply with immigration release conditions",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s. 72",
+                "IRPR s. 49(4)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [],
+            "decision_outcome": [
+                "Application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Breach of recognizance conditions",
+            "Crime Type": "others",
+            "forfeiture_proportionality": [
+                "$50,000"
+            ],
+            "rule_regulation": [
+                "IRPA s. 49(4)",
+                "CIC Enforcement Manual"
+            ],
+            "discretion_exercise": [
+                "case-specific factors",
+                "mitigating factors"
+            ],
+            "decision_reasoning": [
+                "breach of release conditions",
+                "awareness of conditions"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "certified question on proportionality"
+            ]
+        }
+    ]
+}

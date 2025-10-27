@@ -1,0 +1,96 @@
+{
+    "Case ID": "089481",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault Causing Bodily Harm",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "unproven charges cannot be used as evidence"
+            ],
+            "evidence_provided": [
+                "withdrawn kidnapping charge",
+                "underlying evidence",
+                "police report"
+            ],
+            "decision_outcome": [
+                "judicial review application is allowed"
+            ],
+            "standard_of_review": [
+                "reasonable decision"
+            ],
+            "procedural_fairness": [
+                "IAD erred in considering unproven charges and allegations"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a Weapon",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "unproven charges cannot independently support a decision, but underlying evidence may if credible and reliable"
+            ],
+            "evidence_consideration": [
+                "underlying evidence of withdrawn charge",
+                "police report",
+                "witness statements",
+                "inconsistencies",
+                "lack of cross-examination"
+            ],
+            "procedural_fairness": [
+                "IAD erred by either relying on the withdrawn charge or using unreliable evidence"
+            ],
+            "serious_issue": [
+                "applicant's appeal against deportation was dismissed by IAD based partly on unproven charges"
+            ],
+            "reasonableness_of_decision": [
+                "judicial review analyzed whether IAD improperly considered unproven charges and their evidence"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing a Peace Officer",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IAD cannot rely solely on withdrawn charges but may consider credible evidence underlying those charges"
+            ],
+            "evidence_assessment": [
+                "unreliable evidence, lacking witness or police testimony verification"
+            ],
+            "decision_reasoning": [
+                "IAD erred by either relying on the withdrawn charge or on unreliable evidence"
+            ],
+            "application_details": [
+                "applicant appealed a removal order based on his criminal record, arguing the IAD improperly considered unproven charges"
+            ],
+            "procedure_followed": [
+                "judicial review of the IAD's decision involved analyzing whether reliance on unproven charges constituted legal error"
+            ],
+            "result_of_case": [
+                "court allowed the application, finding the IAD's decision flawed due to reliance on improper evidence"
+            ]
+        },
+        {
+            "Crime Name": "Attempting to Obstruct Justice",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IAD rules on unproven charges and evidence reliability"
+            ],
+            "evidence_sufficiency": [
+                "Unreliable evidence, withdrawn charges"
+            ],
+            "decision_made_by": [
+                "IAD"
+            ],
+            "review_process": [
+                "Judicial review"
+            ],
+            "consequences_of_decision": [
+                "Case remanded for proper analysis"
+            ],
+            "applicable_law_or_regulation": [
+                "Rules regarding reliance on withdrawn charges and credible evidence"
+            ],
+            "decision_outcome": [
+                "Application allowed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Case ID": "089265",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness",
+                "correctness for procedural fairness or errors of law"
+            ],
+            "evidence_assessment": [
+                "lack of corroborative evidence",
+                "detailed affidavit evidence"
+            ],
+            "decision_reasoning": [
+                "unreasonable demands for corroborating evidence",
+                "procedural fairness breaches"
+            ],
+            "application_details": [
+                "asylum in Canada",
+                "perceived Jewish identity",
+                "sexual orientation",
+                "mental health issues"
+            ],
+            "conclusion_outcome": [
+                "judicial review application is granted",
+                "decisions remitted for re-determination"
+            ],
+            "cause_of_action": [
+                "risks due to perceived Jewish identity",
+                "sexual orientation",
+                "mental health issues"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed officer's decisions"
+            ],
+            "result_of_case": [
+                "officer's decisions unreasonable",
+                "case remanded for re-evaluation"
+            ]
+        }
+    ]
+}

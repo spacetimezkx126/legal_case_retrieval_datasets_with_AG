@@ -1,0 +1,28 @@
+{
+    "Case ID": "035777",
+    "Different Crime": [
+        {
+            "Crime Name": "Copyright Infringement",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Anton Piller Order"
+            ],
+            "procedural_fairness": [
+                "ex parte application",
+                "review requested by defendants"
+            ],
+            "evidence_assessment": [
+                "proof of serious damage",
+                "likelihood of evidence destruction"
+            ],
+            "decision_reasoning": [
+                "failed to prove serious damage",
+                "improper labeling as 'John Doe'"
+            ],
+            "result_of_case": [
+                "Order set aside",
+                "action dismissed"
+            ]
+        }
+    ]
+}

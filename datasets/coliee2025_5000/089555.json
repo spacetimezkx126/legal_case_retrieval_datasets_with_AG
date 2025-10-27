@@ -1,0 +1,132 @@
+{
+    "Case ID": "089555",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "Persecution related to whistleblowing activities"
+            ],
+            "misrepresentation_or_fraud": [
+                "Not claiming asylum in a safe third country",
+                "Conflating 'abuse' with 'sexual abuse'"
+            ],
+            "evidence_assessment": [
+                "Rejecting the medical certificate without proper reasoning"
+            ],
+            "decision_outcome": [
+                "Application allowed, Board's decision quashed and remitted for reconsideration"
+            ],
+            "standard_of_review": [
+                "Judicial review of the Board's decision"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Board must provide reasons for rejecting evidence",
+                "cannot base decision solely on failure to seek asylum in safe third country"
+            ],
+            "decision_outcome": [
+                "Federal Court allowed the application",
+                "quashing the Board's decision",
+                "remitting the matter for reconsideration by a different panel"
+            ],
+            "procedural_fairness": [
+                "Board erred by conflating subjective and objective medical evidence",
+                "misinterpreting PIF details",
+                "characterizing claims as personal vengeance without considering political persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "Mendez claimed refugee status due to persecution in Peru"
+            ],
+            "appeal_outcome": [
+                "case was sent back to a differently constituted panel of the Board for re-evaluation"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act, ss. 96 and 97"
+            ],
+            "credibility_findings": [
+                "alleged inconsistencies",
+                "conflating personal vengeance with political persecution",
+                "misinterpreting evidence"
+            ],
+            "risk_of_persecution": [
+                "whistleblowing activities as a priest"
+            ],
+            "refugee_status_nexus": [
+                "persecution on Convention grounds or need for protection"
+            ],
+            "procedural_fairness": [
+                "errors in the Board’s reasoning",
+                "unreasonable factual findings"
+            ],
+            "humanitarian_concerns": [
+                "seeking refugee status in Canada"
+            ],
+            "reasonableness_of_decision": [
+                "Board’s decision was overturned"
+            ]
+        },
+        {
+            "Crime Name": "Persecution based on membership in a particular social group",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "refugee_definition": [
+                "credible evidence of persecution based on Convention grounds"
+            ],
+            "procedural_fairness": [
+                "errors of law",
+                "patently unreasonable findings of fact"
+            ],
+            "credibility_findings": [
+                "inconsistencies in Mendez's claim"
+            ],
+            "judicial_review_process": [
+                "Federal Court analyzed legal errors and factual findings"
+            ],
+            "decision_outcome": [
+                "Board’s decision quashed; case remanded for a new hearing"
+            ],
+            "persecution_grounds": [
+                "religion",
+                "political opinions",
+                "social group membership"
+            ],
+            "immigration_policy": [
+                "Immigration and Refugee Protection Act, ss. 96 and 97"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "refugee_protection": [
+                "persecution due to religion, political opinions, social group"
+            ],
+            "standard_of_review": [
+                "patently unreasonable findings of fact"
+            ],
+            "applicable_laws": [
+                "safe third country asylum claims"
+            ],
+            "decision_outcome": [
+                "application allowed, case remitted for reconsideration"
+            ],
+            "court_ruling": [
+                "Board's decision quashed; new hearing ordered"
+            ],
+            "relevant_factors": [
+                "explanation for not claiming asylum in U.S.",
+                "conflation of subjective/objective evidence",
+                "mischaracterization of claim"
+            ],
+            "appeal_process": [
+                "judicial review of Board’s decision"
+            ]
+        }
+    ]
+}

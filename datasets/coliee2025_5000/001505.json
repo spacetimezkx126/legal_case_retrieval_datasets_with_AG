@@ -1,0 +1,68 @@
+{
+    "Case ID": "001505",
+    "Different Crime": [
+        {
+            "Crime Name": "Failure to provide necessaries of life (negligence claim dismissed)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "vicarious liability for negligence"
+            ],
+            "evidence_assessment": [
+                "no evidence of acting below standard of care",
+                "multiple checks conducted without signs of distress"
+            ],
+            "decision_reasoning": [
+                "plaintiff’s condition not visibly obvious",
+                "no breach of duty of care"
+            ],
+            "result_of_case": [
+                "action dismissed"
+            ],
+            "cost_awards": [
+                "costs to the defendant"
+            ]
+        },
+        {
+            "Crime Name": "Trafficking in a controlled substance",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Prison authorities owe a duty of care to inmates, requiring reasonable measures to ensure health and safety. Liability arises if actions fall below the standard of a reasonably prudent person."
+            ],
+            "procedural_fairness": [
+                "Trial bifurcated into liability and damages phases; focus on whether prison staff breached duty of care."
+            ],
+            "decision_outcome": [
+                "Action dismissed with costs fixed at $1,500 payable by plaintiff to defendant."
+            ],
+            "evidence_considered": [
+                "Bastarache was injured but concealed it, locking his cell after refusing medical attention. Officers conducted regular checks without noticing issues. Blanchard’s claim of alerting officers was deemed unreliable."
+            ],
+            "parties_involved": [
+                "prison officials",
+                "inmates"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Prison authorities owe a duty of care to inmates, requiring reasonable measures to ensure health and safety. Liability arises if acts or omissions fall below the standard of a reasonably prudent person."
+            ],
+            "procedural_fairness": [
+                "Trial bifurcated into liability and damages phases; focus on whether prison staff breached duty of care."
+            ],
+            "credibility_findings": [
+                "Blanchard’s claim of alerting officers was deemed unreliable."
+            ],
+            "decision_outcome": [
+                "Action dismissed; no breach of duty found; costs awarded to defendant."
+            ],
+            "evidence_considered": [
+                "Bastarache was injured but conscious, locked his cell, and appeared fine during nine checks by corrections officers. Staff followed procedures, and no visible signs of distress were noticed."
+            ],
+            "court_ruling": [
+                "No breach of duty of care occurred as staff acted reasonably under the circumstances."
+            ]
+        }
+    ]
+}

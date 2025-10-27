@@ -1,0 +1,94 @@
+{
+    "Case ID": "048154",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "family ties",
+                "health issues",
+                "conditions in Haiti"
+            ],
+            "criminal_history": [
+                "multiple crimes",
+                "serious criminality"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence linking general conditions to personal situation"
+            ],
+            "availability_of_alternative_remedies": [
+                "exemption from applying for a permanent resident visa outside Canada"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable"
+            ],
+            "immigration_status": [
+                "permanent resident of Canada",
+                "deemed inadmissible due to serious criminality"
+            ]
+        },
+        {
+            "Crime Name": "Inadmissibility on grounds of serious criminality under Immigration and Refugee Protection Act",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "s. 25 of IRPA"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "unusual or disproportionate hardship",
+                "best interests of his children",
+                "medical risks due to his pacemaker",
+                "moratorium on removals to Haiti"
+            ],
+            "decision_reasoning": [
+                "officer reasonably considered all factors",
+                "applied the correct legal test"
+            ],
+            "result_of_case": [
+                "Federal Court upheld the immigration officer's decision",
+                "dismissed Lalane's application for judicial review"
+            ],
+            "application_details": [
+                "Lalane applied for permanent residence on H&C grounds"
+            ],
+            "procedure_followed": [
+                "judicial review in the Federal Court"
+            ],
+            "evidence_assessment": [
+                "officer improperly assessed evidence",
+                "ignored the moratorium on removals to Haiti",
+                "undervalued the best interests of his children",
+                "misjudged medical risks due to his pacemaker"
+            ],
+            "conclusion_outcome": [
+                "immigration officer's decision was reasonable and based on sufficient evidence"
+            ]
+        },
+        {
+            "Crime Name": "Importing Narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "health issues",
+                "family ties",
+                "conditions in Haiti"
+            ],
+            "evidence_sufficiency": [
+                "insufficient evidence linking general conditions to specific situation"
+            ],
+            "serious_criminality": [
+                "convicted of serious crimes"
+            ],
+            "decision_outcome": [
+                "application denied",
+                "judicial review dismissed"
+            ],
+            "applicable_law_or_regulation": [
+                "s. 25 of the Immigration and Refugee Protection Act"
+            ],
+            "decision_made_by": [
+                "immigration officer",
+                "Federal Court"
+            ]
+        }
+    ]
+}

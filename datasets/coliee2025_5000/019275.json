@@ -1,0 +1,55 @@
+{
+    "Case ID": "019275",
+    "Different Crime": [
+        {
+            "Crime Name": "Sexual Harassment",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "no_violation"
+            ],
+            "charter_rights_violation": [
+                "no_violation",
+                "sections_7_and_11(d)"
+            ],
+            "judicial_review_result": [
+                "dismissed_application"
+            ],
+            "decision_outcome": [
+                "upholding_authority"
+            ],
+            "reasoning_given": [
+                "disciplinary_process_focus",
+                "no_special_circumstances"
+            ]
+        },
+        {
+            "Crime Name": "Breach of Code of Conduct",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "insufficient evidence",
+                "within the board's procedural authority"
+            ],
+            "charter_rights": [
+                "section 7",
+                "section 11(d)"
+            ],
+            "decision_reasoning": [
+                "no violation of procedural fairness or Charter rights",
+                "board acted within its jurisdiction"
+            ],
+            "application_details": [
+                "Cannon sought to summon a prosecuting officer as a witness, alleging conspiracy"
+            ],
+            "relevant_statute": [
+                "Royal Canadian Mounted Police Act"
+            ],
+            "court_ruling": [
+                "Federal Court dismissed Cannon's application"
+            ],
+            "result_of_case": [
+                "upheld the board's decision",
+                "denied solicitor-client costs"
+            ]
+        }
+    ]
+}

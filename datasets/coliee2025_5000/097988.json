@@ -1,0 +1,40 @@
+{
+    "Case ID": "097988",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 97 of IRPA",
+                "balance of probabilities test"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "ignored_or_misinterpreted_evidence"
+            ],
+            "evidence_assessment": [
+                "inconsistencies_in_applicants_evidence",
+                "country_conditions"
+            ],
+            "decision_reasoning": [
+                "no_personalized_risk",
+                "new_evidence_post_dated_decision"
+            ],
+            "conclusion_outcome": [
+                "no_breach_of_fairness_or_error_in_law",
+                "applications_for_judicial_review_dismissed"
+            ],
+            "cause_of_action": [
+                "denied_PRRA",
+                "humanitarian_and_compassionate_status"
+            ],
+            "procedure_followed": [
+                "judicial_review_analysis"
+            ],
+            "result_of_case": [
+                "applications_dismissed",
+                "question_certified_s_97_IRPA"
+            ]
+        }
+    ]
+}

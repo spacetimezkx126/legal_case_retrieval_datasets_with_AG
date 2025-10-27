@@ -1,0 +1,151 @@
+{
+    "Case ID": "041335",
+    "Different Crime": [
+        {
+            "Crime Name": "Uttering Threats",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "adequate state protection",
+                "laws, protective orders, legal aid, NGOs",
+                "measures to combat police corruption"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter"
+            ],
+            "evidence_provided": [
+                "psychological report",
+                "external support systems identified"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "no intervention warranted"
+            ],
+            "risk_characterization": [
+                "fears persecution and threats",
+                "domestic abuse",
+                "ongoing harassment by ex-husband"
+            ],
+            "procedural_fairness": [
+                "PRRA officer reviewed evidence"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "laws, NGOs, state initiatives"
+            ],
+            "risk_assessment": [
+                "risk of persecution",
+                "torture or harm"
+            ],
+            "evidence_consideration": [
+                "clear evidence rebutting presumption of state protection",
+                "police corruption and systemic issues"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA officer's decision was reasonable"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "humanitarian_concerns": [
+                "domestic abuse"
+            ],
+            "country_conditions": [
+                "Albania protections for abused women"
+            ]
+        },
+        {
+            "Crime Name": "Forcible Confinement",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "adequate state protection",
+                "laws, NGOs, and state initiatives in Albania"
+            ],
+            "evidence_provided": [
+                "evidence showing available protections for abused women in Albania"
+            ],
+            "reasonableness_of_decision": [
+                "PRRA officer's decision was reasonable"
+            ],
+            "judicial_review_result": [
+                "application for judicial review dismissed"
+            ],
+            "risk_to_national_security": [],
+            "decision_outcome": [
+                "Court upheld PRRA decision"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "state_protection": [
+                "inadequate state protection in Albania",
+                "sufficient protective measures exist"
+            ],
+            "applicable_law_or_regulation": [
+                "IRPA"
+            ],
+            "evidence_sufficiency": [
+                "clear evidence of a state's inability or unwillingness to protect them",
+                "PRRA officer reviewed evidence"
+            ],
+            "decision_outcome": [
+                "court dismissed the application",
+                "PRRA decision reasonable"
+            ],
+            "review_process": [
+                "Judicial review of PRRA decision"
+            ],
+            "risk_assessment": [
+                "risk of persecution, torture, or cruel treatment upon return to Albania"
+            ],
+            "procedural_fairness": [
+                "analysis focused on state protection adequacy and application of IRPA provisions"
+            ],
+            "decision_made_by": [
+                "PRRA officer",
+                "court"
+            ]
+        },
+        {
+            "Crime Name": "Human Trafficking",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "state_protection": [
+                "adequate",
+                "laws",
+                "legal aid",
+                "NGOs"
+            ],
+            "evidence_considered": [
+                "systems in Albania for abused women",
+                "police corruption",
+                "actively addressing issues"
+            ],
+            "decision_outcome": [
+                "dismissed",
+                "reasonable",
+                "supported by evidence"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "claimant_burden": [
+                "clear evidence",
+                "state unable or unwilling to protect"
+            ],
+            "court_ruling": [
+                "upheld PRRA officer's decision"
+            ],
+            "risk_assessment": [
+                "risk of persecution",
+                "torture",
+                "cruel treatment",
+                "domestic abuse",
+                "threats from ex-husband"
+            ]
+        }
+    ]
+}

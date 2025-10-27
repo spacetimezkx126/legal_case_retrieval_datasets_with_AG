@@ -1,0 +1,31 @@
+{
+    "Case ID": "076483",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "reasonable opportunity to make submissions"
+            ],
+            "decision_reasoning": [
+                "CBSA denied an extension",
+                "not bound by parallel proceedings"
+            ],
+            "application_details": [
+                "applicant's son breached release conditions",
+                "triggering the guarantee"
+            ],
+            "standard_of_review": [
+                "judicial review application under IRPA"
+            ],
+            "result_of_case": [
+                "Court allowed the judicial review",
+                "set aside the CBSA's decision"
+            ],
+            "cause_of_action": [
+                "CBSA demanding $15,000 from the applicant as a guarantor"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Case ID": "013551",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "subparagraph 97(1)(b)(i) of the Immigration and Refugee Protection Act",
+                "sections 72 and following of the Immigration and Refugee Protection Act"
+            ],
+            "evidence_assessment": [
+                "selectively used evidence",
+                "ignored negative aspects of state protection"
+            ],
+            "state_protection": [
+                "unwilling or unable to avail themselves of the country's protection",
+                "lack of state protection in home country"
+            ],
+            "reasonableness_of_decision": [
+                "decision was unreasonable"
+            ],
+            "judicial_review_process": [
+                "judicial review of the Panel's decision"
+            ],
+            "decision_outcome": [
+                "application for judicial review is granted",
+                "case is referred back for a fresh determination",
+                "Panel's decision was overturned",
+                "case was remanded for reconsideration by a new Panel"
+            ]
+        }
+    ]
+}

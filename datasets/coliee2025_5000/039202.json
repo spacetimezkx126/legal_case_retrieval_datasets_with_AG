@@ -1,0 +1,49 @@
+{
+    "Case ID": "039202",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 87.1",
+                "Section 80(3)"
+            ],
+            "evidence_assessment": [
+                "discrepancies between stated duties and employer confirmation"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness breach occurred"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "conflicting information about job duties"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations",
+                "Section 87.1",
+                "Section 80(3)"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "no procedural fairness breach occurred"
+            ],
+            "evidence_provided": [
+                "discrepancies between the applicant's stated duties and those confirmed by his employer"
+            ],
+            "standard_of_review": [
+                "reasonableness based on evidence and applicable law"
+            ],
+            "cause_of_action": [
+                "challenging visa officer’s denial of permanent residency under Canadian Experience Class"
+            ]
+        }
+    ]
+}

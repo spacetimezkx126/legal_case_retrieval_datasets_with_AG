@@ -1,0 +1,33 @@
+{
+    "Case ID": "007118",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "abuse of process"
+            ],
+            "discretion_exercise": [
+                "Federal Courts discretion to dismiss motions"
+            ],
+            "procedural_fairness": [
+                "judicial economy",
+                "finality"
+            ],
+            "decision_reasoning": [
+                "multiple proceedings on the same issues",
+                "risking conflicting decisions",
+                "wasting resources",
+                "substantive issues already addressed"
+            ],
+            "result_of_case": [
+                "motion dismissed",
+                "costs awarded to the respondent"
+            ],
+            "procedure_followed": [
+                "Prothonotary granted motions to strike",
+                "applicant appealed"
+            ]
+        }
+    ]
+}

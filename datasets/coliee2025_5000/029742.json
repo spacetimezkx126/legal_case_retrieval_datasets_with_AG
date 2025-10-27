@@ -1,0 +1,39 @@
+{
+    "Case ID": "029742",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "s. 2(1) of the Immigration Act"
+            ],
+            "risk_of_persecution": [
+                "past persecution",
+                "credible fear of future persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "race",
+                "religion",
+                "nationality",
+                "membership in a particular social group",
+                "political opinion"
+            ],
+            "cumulative_persecution_effects": [
+                "mistreatment by police",
+                "harassment by LTTE",
+                "targeting as a Tamil"
+            ],
+            "evidence_assessment": [
+                "failed to consider cumulative evidence of persecution"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "tribunal's decision is set aside",
+                "case is referred back for reconsideration"
+            ],
+            "specific_group_membership": [
+                "Tamil"
+            ]
+        }
+    ]
+}

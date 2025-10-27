@@ -1,0 +1,32 @@
+{
+    "Case ID": "085841",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Application Rejection",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "residency_requirements": [
+                "1,095 days",
+                "four-year period"
+            ],
+            "evidence_provided": [
+                "1,098 days of presence",
+                "discrepancies in documentation"
+            ],
+            "decision_outcome": [
+                "Appeal dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "applicable_statute": [
+                "Section 5(1)(c) of the Citizenship Act"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "inability to prove physical presence"
+            ]
+        }
+    ]
+}

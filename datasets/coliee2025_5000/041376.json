@@ -1,0 +1,29 @@
+{
+    "Case ID": "041376",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Rule 105 of the Federal Court Rules",
+                "Section 50(1) of the Federal Court Act"
+            ],
+            "application_details": [
+                "Canning sought to consolidate two separate legal actions or stay one pending resolution of the other to avoid multiplicity of proceedings."
+            ],
+            "procedure_followed": [
+                "Canning filed a Rule 369 motion for consolidation or stay. McKeil opposed, arguing lack of commonality. The court analyzed whether consolidation or stay would serve justice and proper administration."
+            ],
+            "decision_reasoning": [
+                "The court found no substantive commonality of legal and factual issues between the actions."
+            ],
+            "result_of_case": [
+                "The motion for consolidation and stay was dismissed as there were no sufficient common issues to justify consolidation or a stay under Rule 105 or Section 50(1)."
+            ],
+            "cause_of_action": [
+                "McKeil's claim involves breach of transportation contract",
+                "Canning's claim against Tripap concerns unlawful termination of a wood supply contract"
+            ]
+        }
+    ]
+}

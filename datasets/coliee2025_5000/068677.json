@@ -1,0 +1,28 @@
+{
+    "Case ID": "068677",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patented Medicine (Notice of Compliance) Regulations"
+            ],
+            "patent_validity": [
+                "valid",
+                "not a selection patent",
+                "non-obvious",
+                "inventive"
+            ],
+            "applicable_statute": [
+                "PM(NOC) Regulations"
+            ],
+            "decision_outcome": [
+                "prohibition orders issued"
+            ],
+            "evidence_provided": [
+                "resolving citalopram into enantiomers was non-obvious and inventive",
+                "no prior art disclosing escitalopram's utility"
+            ]
+        }
+    ]
+}

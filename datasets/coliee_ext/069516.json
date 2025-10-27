@@ -1,0 +1,790 @@
+{
+    "Case ID": "069516",
+    "Crimes": [
+        {
+            "Crime_Name": "Assault causing bodily harm",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "Sufficient evidence of breach"
+            ],
+            "Evidence_Type": [
+                "Admission during hearing",
+                "Police reports"
+            ],
+            "Evidence_Credibility": [
+                "Admission by Mr. Falcon"
+            ],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Applicable_Statute": [
+                "Subsection 49(4)"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Legal_Provision_Cited": [
+                "Subsection 49(4)"
+            ],
+            "Standard_of_Proof": [
+                "Reasonableness standard"
+            ],
+            "Decision_Outcome": [
+                "Judicial review dismissed"
+            ],
+            "Outcome": [
+                "CBSA decision upheld"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "Procedural fairness upheld"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Judicial review application"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "Canada Border Services Agency (CBSA)"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "CBSA discretionary authority"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Breach of release conditions",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Interpretation and enforcement of immigration release conditions"
+            ],
+            "Legal_Issue": [
+                "Whether CBSA reasonably determined a breach of conditions"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Admission by Mr. Falcon",
+                "Officer's evidence"
+            ],
+            "Decision_Outcome": [
+                "Judicial review dismissed"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to show unreasonableness"
+            ],
+            "Credibility_Factor": [
+                "Mr. Falcon admitted entering clothing store"
+            ],
+            "Legal_Rule": [
+                "Subsection 49(4) IRPR – guarantee enforceable upon breach"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Procedural fairness"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged error in enforcing full $20,000"
+            ],
+            "Outcome_on_Merits": [
+                "Claim dismissed"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Federal Court judge"
+            ],
+            "Judicial_Review_Outcome": [
+                "Application dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "No procedural unfairness found"
+            ],
+            "Key_Evidence_Considered": [
+                "Admission of entry into clothing store"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Applicant_Challenge": [
+                "Enforcement of $20,000 guarantee"
+            ],
+            "Court_Result": [
+                "Upheld CBSA decision"
+            ],
+            "Legal_Rule_Source": [
+                "Subsection 49(4) of IRPR"
+            ],
+            "Standard_of_Proof": [
+                "Preponderance of evidence"
+            ],
+            "Defendant_Response": [
+                "Admitted breach"
+            ],
+            "Evidence_Type": [
+                "Oral admission",
+                "Hearing record"
+            ],
+            "Remedy_Requested": [
+                "Judicial review to set aside enforcement"
+            ],
+            "Outcome": [
+                "Remedy denied"
+            ],
+            "Decision_Authority": [
+                "CBSA officer under IRPR"
+            ],
+            "Remedy_Sought": [
+                "Cancellation of guarantee enforcement"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Authority": [
+                "CBSA enforcement authority"
+            ],
+            "Claimant_Status": [
+                "Sister as guarantor"
+            ],
+            "Legal_Provision_Cited": [
+                "Subsection 49(4)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Breach of condition: entering non-food business"
+            ],
+            "Applicable_Process": [
+                "Post-release monitoring and enforcement"
+            ],
+            "Outcome_of_Review": [
+                "Dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "Judicial review application"
+            ],
+            "Jurisdiction": [
+                "Federal Court of Canada"
+            ],
+            "Governing_Rule": [
+                "Subsection 49(4) IRPR"
+            ]
+        },
+        {
+            "Crime_Name": "Theft",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": [
+                "Enforcement of financial guarantee due to condition breach"
+            ],
+            "Legal_Provision_Involved": [
+                "Subsection 49(4) IRPR"
+            ],
+            "Procedural_Fairness_Issue": [
+                "Whether process was fair before enforcement"
+            ],
+            "Evidence_Disclosure_Status": [
+                "Evidence disclosed during hearing"
+            ],
+            "Decision_Outcome": [
+                "Enforcement upheld"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority_Responsible": [
+                "CBSA"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Assessment_Factor": [
+                "Nature and severity of breach"
+            ],
+            "Evidentiary_Issue": [
+                "Reliance on admission as key evidence"
+            ],
+            "Procedural_Requirement": [
+                "Opportunity to respond to allegations"
+            ],
+            "Risk_Nexus": [],
+            "Country_of_Origin": [],
+            "Legal_Standard": [
+                "Reasonableness of administrative decision"
+            ],
+            "Evidence_Source": [
+                "Hearing testimony",
+                "CBSA investigation"
+            ],
+            "Decision_Maker": [
+                "CBSA officer"
+            ],
+            "Outcome": [
+                "Guarantee enforced"
+            ],
+            "Procedural_Stage": [
+                "Post-breach enforcement and judicial review"
+            ],
+            "Basis_for_Decision": [
+                "Admission of violating release condition"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Grounds_for_Inadmissibility_or_Denial": [
+                "Non-compliance with release terms"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Charter_Issues": [],
+            "Evidence_Type": [
+                "Direct admission",
+                "Official records"
+            ],
+            "Credibility_Assessment": [
+                "Admission deemed credible"
+            ],
+            "Procedural_Fairness_Issues": [
+                "No denial of natural justice"
+            ],
+            "Basis_for_Inadmissibility": [],
+            "Risk_Assessment_Factors": [],
+            "Judicial_Review_Outcome": [
+                "Application dismissed"
+            ],
+            "Accusation": [
+                "Entering unauthorized premises"
+            ],
+            "Procedural_Issue": [
+                "Timing of enforcement without conviction"
+            ],
+            "Review_Type": [
+                "Judicial review of administrative action"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Credibility_Findings": [
+                "Applicant’s brother admitted breach"
+            ],
+            "Risk_Persecution": [],
+            "Mode_of_Entry": [],
+            "Applicant_Status": [
+                "Guarantor (sister)"
+            ],
+            "Legal_Issue": [
+                "Validity of guarantee enforcement"
+            ],
+            "Charter_Section_Involved": [],
+            "Relevant_Factors_Considered": [
+                "Admission, timing, regulatory framework"
+            ],
+            "Decision_Level": [
+                "Administrative and judicial"
+            ]
+        },
+        {
+            "Crime_Name": "Breaking and entering",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [],
+            "Sub_Crime_Type": [],
+            "Perpetrator_Type": [],
+            "Victim_Status": [],
+            "Location_of_Incident": [
+                "Clothing store"
+            ],
+            "Threat_Source": [],
+            "Aggravating_Factors": [],
+            "Mitigating_Factors": [],
+            "Prior_Criminality": [],
+            "Criminality_Severity": [],
+            "Evidence_Sufficiency": [
+                "Sufficient based on admission"
+            ],
+            "Evidence_Type": [
+                "Admission",
+                "Police report"
+            ],
+            "Evidence_Credibility": [
+                "High – direct admission"
+            ],
+            "Credibility_Assessment": [],
+            "Risk_Assessment": [],
+            "Risk_Type": [],
+            "Risk_Nature": [],
+            "Targeted_Victimization": [],
+            "Targeted_Individual": [],
+            "Targeted_Individual_Status": [],
+            "Geographic_Context": [],
+            "Jurisdiction": [
+                "Canada"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Applicable_Statute": [
+                "Subsection 49(4)"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Legal_Provision_Cited": [
+                "Subsection 49(4)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Decision_Outcome": [
+                "Enforcement upheld"
+            ],
+            "Outcome": [
+                "Guarantee enforced"
+            ],
+            "Sentencing_Issue": [],
+            "Procedural_Issues": [
+                "No requirement for criminal conviction"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Legal_Procedure": [
+                "Administrative enforcement and court challenge"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Federal Court"
+            ],
+            "Government_Body_Involved": [
+                "CBSA"
+            ],
+            "Reviewing_Body": [
+                "Federal Court"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority": [
+                "CBSA authority under IRPR"
+            ],
+            "Decision_Standard": [
+                "Reasonableness"
+            ]
+        },
+        {
+            "Crime_Name": "Shoplifting",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Enforcement of immigration guarantee"
+            ],
+            "Legal_Issue": [
+                "Was the breach sufficient to trigger full forfeiture?"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Admission of presence in store"
+            ],
+            "Decision_Outcome": [
+                "Application dismissed"
+            ],
+            "Burden_of_Proof": [
+                "On applicant to prove unreasonableness"
+            ],
+            "Credibility_Factor": [
+                "Admission by Mr. Falcon"
+            ],
+            "Legal_Rule": [
+                "Subsection 49(4) – enforceability upon breach"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Timeliness and notice of enforcement"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged disproportionate enforcement"
+            ],
+            "Outcome_on_Merits": [
+                "Claim rejected"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Court"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Fair process followed"
+            ],
+            "Key_Evidence_Considered": [
+                "Admission of entering clothing store"
+            ],
+            "Legal_Framework": [
+                "IRPA and IRPR"
+            ],
+            "Applicant_Challenge": [
+                "Enforcement of $20,000"
+            ],
+            "Court_Result": [
+                "Upheld enforcement"
+            ],
+            "Legal_Rule_Source": [
+                "Subsection 49(4) IRPR"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "Admitted breach"
+            ],
+            "Evidence_Type": [
+                "Testimonial",
+                "Documentary"
+            ],
+            "Remedy_Requested": [
+                "Set aside enforcement decision"
+            ],
+            "Outcome": [
+                "Denied"
+            ],
+            "Decision_Authority": [
+                "CBSA"
+            ],
+            "Remedy_Sought": [
+                "Refund or reduction of guarantee"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Authority": [
+                "CBSA"
+            ],
+            "Claimant_Status": [
+                "Guarantor"
+            ],
+            "Legal_Provision_Cited": [
+                "Subsection 49(4)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Violation of release condition"
+            ],
+            "Applicable_Process": [
+                "Administrative enforcement of guarantee"
+            ],
+            "Outcome_of_Review": [
+                "Dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "Judicial review"
+            ],
+            "Jurisdiction": [
+                "Federal jurisdiction"
+            ],
+            "Governing_Rule": [
+                "Subsection 49(4) IRPR"
+            ]
+        },
+        {
+            "Crime_Name": "Failure to comply with conditions",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": [
+                "Enforcement of financial guarantee"
+            ],
+            "Legal_Issue": [
+                "Reasonableness of enforcing full $20,000"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Procedural_Stage": [
+                "Judicial review"
+            ],
+            "Evidence_Assessment": [
+                "Admission and supporting documentation"
+            ],
+            "Decision_Outcome": [
+                "Enforcement upheld"
+            ],
+            "Burden_of_Proof": [
+                "On applicant"
+            ],
+            "Credibility_Factor": [
+                "Admission by subject"
+            ],
+            "Legal_Rule": [
+                "Subsection 49(4) – guarantee enforceable upon breach"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Procedural_Issue": [
+                "Procedural fairness in enforcement"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged lack of discretion in amount"
+            ],
+            "Outcome_on_Merits": [
+                "Claim dismissed"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Court"
+            ],
+            "Judicial_Review_Outcome": [
+                "Dismissed"
+            ],
+            "Review_Standard": [
+                "Reasonableness"
+            ],
+            "Procedural_Fairness_Assessment": [
+                "Process was fair"
+            ],
+            "Key_Evidence_Considered": [
+                "Admission of entering clothing store"
+            ],
+            "Legal_Framework": [
+                "IRPA/IRPR"
+            ],
+            "Applicant_Challenge": [
+                "Full enforcement of guarantee"
+            ],
+            "Court_Result": [
+                "Upheld CBSA"
+            ],
+            "Legal_Rule_Source": [
+                "Subsection 49(4)"
+            ],
+            "Standard_of_Proof": [
+                "Balance of probabilities"
+            ],
+            "Defendant_Response": [
+                "Admitted breach"
+            ],
+            "Evidence_Type": [
+                "Oral admission",
+                "Hearing record"
+            ],
+            "Remedy_Requested": [
+                "Judicial review"
+            ],
+            "Outcome": [
+                "Denied"
+            ],
+            "Decision_Authority": [
+                "CBSA"
+            ],
+            "Remedy_Sought": [
+                "Cancel enforcement"
+            ],
+            "Resolution_Mechanism": [
+                "Judicial review"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Authority": [
+                "CBSA"
+            ],
+            "Claimant_Status": [
+                "Guarantor"
+            ],
+            "Legal_Provision_Cited": [
+                "Subsection 49(4)"
+            ],
+            "Grounds_for_Inadmissibility_or_Allegation": [
+                "Entering non-food business"
+            ],
+            "Applicable_Process": [
+                "Post-breach enforcement"
+            ],
+            "Outcome_of_Review": [
+                "Dismissed"
+            ],
+            "Pending_Relief_or_Application": [
+                "Judicial review"
+            ],
+            "Jurisdiction": [
+                "Federal"
+            ],
+            "Governing_Rule": [
+                "Subsection 49(4) IRPR"
+            ]
+        },
+        {
+            "Crime_Name": "Organized crime activities",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Dispute_Type": [
+                "Administrative enforcement of immigration guarantee"
+            ],
+            "Legal_Provision_Involved": [
+                "Subsection 49(4) IRPR"
+            ],
+            "Procedural_Fairness_Issue": [
+                "Right to be heard before enforcement"
+            ],
+            "Evidence_Disclosure_Status": [
+                "Evidence available at hearing"
+            ],
+            "Decision_Outcome": [
+                "Enforcement upheld"
+            ],
+            "Review_Mechanism": [
+                "Judicial review"
+            ],
+            "Authority_Responsible": [
+                "CBSA"
+            ],
+            "Legal_Provision": [
+                "Subsection 49(4)"
+            ],
+            "Assessment_Factor": [
+                "Nature of breach and regulatory context"
+            ],
+            "Evidentiary_Issue": [
+                "Use of admission as primary evidence"
+            ],
+            "Procedural_Requirement": [
+                "Compliance with procedural fairness"
+            ],
+            "Risk_Nexus": [],
+            "Country_of_Origin": [],
+            "Legal_Standard": [
+                "Reasonableness standard"
+            ],
+            "Evidence_Source": [
+                "Hearing transcript",
+                "Investigation file"
+            ],
+            "Decision_Maker": [
+                "CBSA officer",
+                "Federal Court"
+            ],
+            "Outcome": [
+                "Guarantee enforced"
+            ],
+            "Procedural_Stage": [
+                "Judicial review stage"
+            ],
+            "Basis_for_Decision": [
+                "Breach confirmed by admission"
+            ],
+            "Legal_Framework": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "Grounds_for_Inadmissibility_or_Denial": [
+                "Breach of release condition"
+            ],
+            "Standard_of_Review": [
+                "Reasonableness"
+            ],
+            "Charter_Issues": [],
+            "Evidence_Type": [
+                "Admission",
+                "Official report"
+            ],
+            "Credibility_Assessment": [
+                "Admission accepted as truthful"
+            ],
+            "Procedural_Fairness_Issues": [
+                "No breach of natural justice"
+            ],
+            "Basis_for_Inadmissibility": [],
+            "Risk_Assessment_Factors": [],
+            "Judicial_Review_Outcome": [
+                "Application dismissed"
+            ],
+            "Accusation": [
+                "Entering unauthorized store"
+            ],
+            "Procedural_Issue": [
+                "Enforcement without criminal conviction"
+            ],
+            "Review_Type": [
+                "Judicial review of administrative decision"
+            ],
+            "Governing_Law": [
+                "Immigration and Refugee Protection Regulations"
+            ],
+            "Credibility_Findings": [
+                "Admission credible and sufficient"
+            ],
+            "Risk_Persecution": [],
+            "Mode_of_Entry": [],
+            "Applicant_Status": [
+                "Relative/guarantor"
+            ],
+            "Legal_Issue": [
+                "Legality of guarantee enforcement"
+            ],
+            "Charter_Section_Involved": [],
+            "Relevant_Factors_Considered": [
+                "Regulatory changes post-Feb 2007",
+                "Admission"
+            ],
+            "Decision_Level": [
+                "Administrative and judicial"
+            ]
+        }
+    ]
+}

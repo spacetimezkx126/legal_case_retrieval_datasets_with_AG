@@ -1,0 +1,30 @@
+{
+    "Case ID": "029174",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "reasonableness",
+                "Rule 48(4) of the Refugee Protection Division Rules"
+            ],
+            "procedural_fairness": [
+                "breach_of_fairness",
+                "no breach of procedural fairness"
+            ],
+            "decision_reasoning": [
+                "insufficient factors for refusal",
+                "applicant failed to prove prejudice"
+            ],
+            "application_details": [
+                "request for postponement",
+                "counsel's prior vacation request",
+                "lack of medical evidence"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "RPD's decision upheld"
+            ]
+        }
+    ]
+}

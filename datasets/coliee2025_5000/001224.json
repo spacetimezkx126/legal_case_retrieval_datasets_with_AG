@@ -1,0 +1,51 @@
+{
+    "Case ID": "001224",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "marriage primarily for immigration purposes",
+                "lacked genuineness"
+            ],
+            "legal_basis": [
+                "subsection 4(1) of the Immigration and Refugee Protection Regulations"
+            ],
+            "procedural_fairness": [
+                "IAD acted reasonably regarding primary purpose but unreasonably on genuineness"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "legal question certified"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "subsection 4(1) of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "certification of legal question"
+            ],
+            "procedural_fairness": [
+                "IAD acted reasonably regarding primary purpose but unreasonably on genuineness"
+            ],
+            "relationship_genuineness": [
+                "marriage primarily for immigration purposes",
+                "improperly tied genuineness to primary purpose"
+            ],
+            "judicial_authority": [
+                "IAD",
+                "visa officer"
+            ],
+            "appeal_outcome": [
+                "IAD appeal dismissal"
+            ],
+            "cause_of_action": [
+                "second sponsorship application denied"
+            ]
+        }
+    ]
+}

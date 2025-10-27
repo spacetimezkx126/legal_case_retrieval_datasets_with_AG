@@ -1,0 +1,43 @@
+{
+    "Case ID": "018577",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies",
+                "delays",
+                "insufficient evidence"
+            ],
+            "risk_of_persecution": [
+                "ethnicity",
+                "religion",
+                "political views"
+            ],
+            "documentary_evidence": [
+                "general police actions rather than targeted persecution"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "review_standard": [
+                "reasonableness for credibility findings",
+                "correctness for legal obligations"
+            ],
+            "specific_group_membership": [
+                "Kurdish ethnicity",
+                "Alevi religion",
+                "political activities"
+            ],
+            "evidence_assessment": [
+                "undermining claims"
+            ],
+            "burden_of_proof": [
+                "not met"
+            ],
+            "nexus_to_convention_grounds": [
+                "claimed but not substantiated"
+            ]
+        }
+    ]
+}

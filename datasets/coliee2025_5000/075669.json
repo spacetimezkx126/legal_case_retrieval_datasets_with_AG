@@ -1,0 +1,74 @@
+{
+    "Case ID": "075669",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized representation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "unauthorized representation"
+            ],
+            "procedural_fairness": [
+                "special circumstances",
+                "miscarriage of justice"
+            ],
+            "evidence_assessment": [
+                "supplemental reply affidavit",
+                "undertaking not to practice law",
+                "incompetence"
+            ],
+            "decision_outcome": [
+                "motion denied"
+            ],
+            "standard_of_review": [
+                "unusual, uncommon, or exceptional circumstances"
+            ],
+            "regulatory_compliance": [
+                "immigration consultant overstepping legal boundaries"
+            ]
+        },
+        {
+            "Crime Name": "Misrepresentation of professional capabilities",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "material_misrepresentation": [
+                "undertaking by an immigration consultant to not practice law"
+            ],
+            "procedural_fairness": [
+                "Supplemental reply affidavits require unusual or exceptional circumstances"
+            ],
+            "evidence_provided": [
+                "undertaking from the immigration consultant"
+            ],
+            "standard_of_review": [
+                "substantial prejudice affecting the outcome"
+            ],
+            "appeal_outcome": [
+                "denied"
+            ],
+            "cause_of_action": [
+                "overstepping legal boundaries and being incompetent"
+            ],
+            "nature_of_offense": [
+                "unauthorized representation"
+            ]
+        },
+        {
+            "Crime Name": "Overstepping professional jurisdiction",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Immigration and Refugee Rule 13"
+            ],
+            "application_details": [
+                "Applicant sought to file an affidavit with an undertaking from the immigration consultant not to practice law."
+            ],
+            "decision_reasoning": [
+                "Evidence only bolsters existing claims of incompetence and does not meet the threshold for exceptional circumstances."
+            ],
+            "procedure_followed": [
+                "Motion hearing before Prothonotary Hargrave in Federal Court with legal arguments presented by both parties."
+            ],
+            "result_of_case": [
+                "Motion denied; no supplemental reply affidavit allowed."
+            ]
+        }
+    ]
+}

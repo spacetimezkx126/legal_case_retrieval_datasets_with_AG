@@ -1,0 +1,151 @@
+{
+    "Case ID": "001934",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistencies in narrative"
+            ],
+            "state_protection_analysis": [
+                "credible state protection"
+            ],
+            "internal_flight_alternative": [
+                "viable in Mexico City or Guadalajara"
+            ],
+            "refugee_status_eligibility": [
+                "claim due to domestic violence and cartel ties"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "reasonableness_standard": [
+                "Credibility findings are reviewed on a reasonableness standard"
+            ],
+            "evidence_provided": [
+                "no evidence supporting this claim",
+                "inconsistencies in her narratives"
+            ],
+            "state_protection": [],
+            "relationship_genuineness": [
+                "former spouse's involvement in drug trafficking"
+            ],
+            "risk_characterization": [
+                "risk of harm"
+            ],
+            "nexus_to_convention_grounds": [],
+            "appeal_outcome": [
+                "The court dismissed the application for judicial review"
+            ],
+            "cause_of_action": [
+                "refugee protection"
+            ],
+            "nature_of_offense": [
+                "drug trafficking and organized crime"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "upholding the panel's decision"
+            ]
+        },
+        {
+            "Crime Name": "Kidnapping",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "risk_assessment": [
+                "no credible risk of kidnapping"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence linking ex-spouse to organized crime",
+                "ex-spouse never harmed the children during visitations"
+            ],
+            "family_ties": [
+                "children",
+                "ex-spouse"
+            ],
+            "humanitarian_concerns": [
+                "domestic violence",
+                "fear of kidnapping"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Seek State Protection",
+            "Crime Type": "others",
+            "state_protection": [
+                "applicant failed to adequately seek state protection",
+                "state protection was unavailable or inadequate"
+            ],
+            "evidence_assessment": [
+                "credible evidence showing Mexican authorities were willing and able to protect victims of domestic violence",
+                "statistical evidence alone was insufficient to rebut the presumption of state protection"
+            ],
+            "decision_reasoning": [
+                "based on credible evidence indicating adequate state protection and the applicant's lack of effort to seek it"
+            ],
+            "application_details": [
+                "did not seek police or judicial help despite her former spouse's repeated arrests"
+            ],
+            "conclusion_outcome": [
+                "panel's decision was reasonable"
+            ],
+            "cause_of_action": [
+                "refugee status due to domestic violence and alleged involvement of her former spouse in organized crime"
+            ],
+            "procedure_followed": [
+                "judicial review application challenging the Refugee Protection Division's decision denying refugee status"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed; no general importance question certified"
+            ]
+        },
+        {
+            "Crime Name": "Drug Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in narratives",
+                "omission of critical details"
+            ],
+            "evidence_sufficiency": [
+                "lack of evidence supporting claims"
+            ],
+            "refugee_status": [
+                "not Convention refugees",
+                "not persons in need of protection"
+            ],
+            "decision_made_by": [
+                "Refugee Protection Division"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "applicable_law_or_regulation": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "state_protection": [
+                "analysis conducted"
+            ],
+            "parties_involved": [
+                "applicant",
+                "Federal Court",
+                "panel"
+            ]
+        }
+    ]
+}

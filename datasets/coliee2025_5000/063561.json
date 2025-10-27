@@ -1,0 +1,29 @@
+{
+    "Case ID": "063561",
+    "Different Crime": [
+        {
+            "Crime Name": "Possession of fraudulent documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Unfair suspicion about Chinese documents",
+                "Misinterpretation of forensic analysis on marriage certificate",
+                "Overbroad conclusion linking fraudulent documents to overall credibility"
+            ],
+            "procedural_fairness": [
+                "Inadmissible specialized knowledge about Hukou features"
+            ],
+            "evidence_assessment": [
+                "Unfair suspicion about Chinese documents without evidence"
+            ],
+            "decision_outcome": [
+                "Decision overturned, case remanded to a different panel"
+            ],
+            "standard_of_review": [
+                "Judicial review by Federal Court analyzing RPD's factual findings and legal reasoning"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant's refugee claim was rejected due to alleged fraudulent identity documents"
+            ]
+        }
+    ]
+}

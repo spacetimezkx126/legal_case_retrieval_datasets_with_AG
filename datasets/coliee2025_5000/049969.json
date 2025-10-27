@@ -1,0 +1,35 @@
+{
+    "Case ID": "049969",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 43(4)",
+                "section 27(1)(a)",
+                "section 27(1)(b)"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "decision_reasoning": [
+                "reasonably limited analysis to prior art",
+                "presuming dates would undermine conflict proceedings' purpose"
+            ],
+            "result_of_case": [
+                "judicial review dismissed",
+                " Applicant granted six months to file affidavits"
+            ],
+            "relevant_statute": [
+                "Patent Act",
+                "Federal Courts Act"
+            ],
+            "cause_of_action": [
+                "refusal to fully assess patentability before requiring invention date evidence"
+            ],
+            "procedure_followed": [
+                "judicial review filed under Federal Courts Act"
+            ]
+        }
+    ]
+}

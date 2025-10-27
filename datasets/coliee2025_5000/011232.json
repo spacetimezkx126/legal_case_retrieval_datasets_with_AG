@@ -1,0 +1,31 @@
+{
+    "Case ID": "011232",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Act, s. 18.1",
+                "Crown Liability and Proceedings Act, s. 32",
+                "Income Tax Act",
+                "Limitation Act"
+            ],
+            "cause_of_action": [
+                "tax debt collection"
+            ],
+            "procedure_followed": [
+                "Judicial review application filed in 1996 challenging earlier decisions by the Minister."
+            ],
+            "decision_reasoning": [
+                "The June 26, 1996, conversation with a collection officer does not constitute a formal 'decision' subject to judicial review.",
+                "The actual decisions (GST retention and Requirements to Pay) were made in 1991 and 1994, outside the 30-day limit for judicial review."
+            ],
+            "result_of_case": [
+                "Application dismissed; no judicial review allowed."
+            ],
+            "standard_of_review": [
+                "untimeliness"
+            ]
+        }
+    ]
+}

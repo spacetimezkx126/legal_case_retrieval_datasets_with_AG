@@ -1,0 +1,30 @@
+{
+    "Case ID": "038270",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Residency Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Did not meet residency obligations",
+                "spent only 500 days in Canada over five years"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "family ties",
+                "investments justified relief",
+                "insufficient evidence of hardship or establishment in Canada"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "IAD's decision affirmed"
+            ],
+            "legal_basis": [
+                "IRPA s.28",
+                "Section 67(1)(c)"
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging IAD's dismissal of Shaath's appeal",
+                "Federal Court upheld the IAD's decision as reasonable"
+            ]
+        }
+    ]
+}

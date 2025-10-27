@@ -1,0 +1,48 @@
+{
+    "Case ID": "060859",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "irreparable_harm": [
+                "sexual orientation harm claim",
+                "psychological harm due to deportation"
+            ],
+            "evidence_consideration": [
+                "insufficient and untimely claims",
+                "no clear evidence of negligence by previous counsel"
+            ],
+            "balance_of_convenience": [],
+            "humanitarian_compassionate_grounds": [],
+            "risk_assessment": [
+                "new risk allegations"
+            ],
+            "procedural_fairness": [
+                "judicial review of refusal to defer removal"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "tri-partite test for judicial review in immigration cases"
+            ],
+            "procedural_fairness": [
+                "insufficient and untimely claims",
+                "no clear evidence of negligence by previous counsel"
+            ],
+            "decision_outcome": [
+                "motion for a stay is dismissed",
+                "removal order remains in effect",
+                "applicants' motion for stay is denied"
+            ],
+            "humanitarian_concerns": [
+                "potential harm due to sexual orientation",
+                "psychological harm due to possible deportation"
+            ],
+            "appeal_process": [
+                "judicial review of the refusal to defer removal"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Case ID": "070040",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Law Violation",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "section C.08.002 of the Food and Drug Regulations",
+                "s. 18.1 of the Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "Health Canada's decision was reasonable",
+                "application for judicial review is dismissed"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "evidence_provided": [
+                "literature references instead of clinical data"
+            ],
+            "applicable_statute": [
+                "Food and Drug Regulations"
+            ],
+            "judicial_authority": [
+                "Health Canada",
+                "Court"
+            ],
+            "reasonableness_standard": [
+                "Health Canada's decision was reasonable"
+            ],
+            "cause_of_action": [
+                "Applicant filed an NDS without required clinical trial data"
+            ]
+        }
+    ]
+}

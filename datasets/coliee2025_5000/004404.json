@@ -1,0 +1,80 @@
+{
+    "Case ID": "004404",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership or association with a criminal organization under Immigration and Refugee Protection Act",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "membership_in_organization": [
+                "A.K. Kannan gang"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "subsection 121(2)"
+            ],
+            "decision_outcome": [
+                "Tribunal's decision overturned; case remanded for reconsideration"
+            ],
+            "judicial_review_result": [
+                "Judicial review examined whether the Tribunal applied the correct legal test for public danger"
+            ],
+            "reasonableness_of_decision": [
+                "The Tribunal incorrectly focused on membership rather than association with a criminal organization"
+            ],
+            "evidence_provided": [
+                "Evidence showed the A.K. Kannan gang engaged in organized criminal activities, meeting the definition of a criminal organization"
+            ],
+            "involvement_details": [
+                "Respondent's alleged association with A.K. Kannan gang led to deportation concerns"
+            ]
+        },
+        {
+            "Crime Name": "Fail to comply with recognizance",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_reasoning": [
+                "Tribunal incorrectly focused on gang membership rather than association"
+            ],
+            "evidence_assessment": [
+                "Evidence shows A.K. Kannan is a criminal organization under IRPA definitions"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed whether the Tribunal applied correct legal standards in assessing public danger"
+            ],
+            "result_of_case": [
+                "Tribunal's decision overturned; case remanded for reconsideration by another panel"
+            ],
+            "relevant_rule": [
+                "Under IRPA, a person must be detained if they are a danger to the public, assessed by association with a criminal organization, not membership"
+            ]
+        },
+        {
+            "Crime Name": "Carry concealed weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "misapplication of legal tests"
+            ],
+            "risk_assessment": [
+                "danger to the public",
+                "association with a criminal organization"
+            ],
+            "decision_outcome": [
+                "Tribunal's decision overturned; case remanded for reevaluation by a different panel"
+            ],
+            "applicable_laws": [
+                "IRPA"
+            ],
+            "standard_of_review": [
+                "Judicial review"
+            ],
+            "security_concerns": [
+                "association with a criminal organization",
+                "past convictions"
+            ]
+        }
+    ]
+}

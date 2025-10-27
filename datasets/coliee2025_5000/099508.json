@@ -1,0 +1,28 @@
+{
+    "Case ID": "099508",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_proof": [
+                "high standard of proof"
+            ],
+            "evidence_presented": [
+                "affidavits",
+                "financial status",
+                "case law"
+            ],
+            "decision_reasoning": [
+                "insufficient evidence of financial hardship",
+                "contradictory history of affording legal fees"
+            ],
+            "result_of_case": [
+                "appeal dismissed",
+                "security for costs required"
+            ],
+            "cost_awards": [
+                "$500 in costs"
+            ]
+        }
+    ]
+}

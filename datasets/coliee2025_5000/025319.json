@@ -1,0 +1,55 @@
+{
+    "Case ID": "025319",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "misrepresentation_or_fraud": [
+                "fraud conviction"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "criminality_inadmissibility": [
+                "serious non-political crimes"
+            ]
+        },
+        {
+            "Crime Name": "Fraud over $5000",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "serious_criminality": [
+                "presumptively serious crime"
+            ],
+            "mitigating_factors": [
+                "less serious end of sentencing range",
+                "short sentence served"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "case remanded for reconsideration"
+            ],
+            "applicable_statute": [
+                "Article 1F(b)"
+            ],
+            "nature_of_offense": [
+                "fraud involving $50,000"
+            ],
+            "legal_basis": [
+                "Canadian sentencing range for fraud over $5000 is 0-14 years"
+            ]
+        }
+    ]
+}

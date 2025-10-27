@@ -1,0 +1,30 @@
+{
+    "Case ID": "048408",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "patent_validity": [
+                "invalid due to anticipation, obviousness, and overbreadth"
+            ],
+            "infringement_analysis": [
+                "non-infringement not justified"
+            ],
+            "evidence_presented": [
+                "expert evidence",
+                "cross-examinations"
+            ],
+            "relevant_rule": [
+                "NOC Regulations"
+            ],
+            "decision_reasoning": [
+                "second person must prove invalidity on a balance of probabilities",
+                "first person must prove infringement"
+            ],
+            "result_details": [
+                "application dismissed",
+                "costs awarded to Apotex, reduced by 25%"
+            ]
+        }
+    ]
+}

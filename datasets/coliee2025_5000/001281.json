@@ -1,0 +1,59 @@
+{
+    "Case ID": "001281",
+    "Different Crime": [
+        {
+            "Crime Name": "Natural justice violation",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "refusal of a longer adjournment"
+            ],
+            "legal_basis": [
+                "Immigration Act, s. 69.1(5)",
+                "s. 69(6)"
+            ],
+            "decision_reasoning": [
+                "insufficient time for meaningful preparation",
+                "statutory requirements not met"
+            ],
+            "application_details": [
+                "Yang's exclusion under Article 1F(a) raised mid-hearing",
+                "80-minute adjournment granted"
+            ],
+            "conclusion_outcome": [
+                "judicial review granted",
+                "redetermination ordered"
+            ],
+            "procedure_followed": [
+                "Yang sought judicial review",
+                "Federal Court reviewed the case"
+            ],
+            "result_of_case": [
+                "case referred for rehearing before a new panel"
+            ]
+        },
+        {
+            "Crime Name": "Crimes against humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration Act",
+                "Article 1F(a)"
+            ],
+            "procedural_fairness": [
+                "breaching procedural fairness",
+                "reasonable opportunity for the claimant to present evidence and make representations"
+            ],
+            "judicial_review_process": [
+                "Yang sought judicial review",
+                "The Federal Court reviewed the matter"
+            ],
+            "decision_outcome": [
+                "Judicial review application allowed",
+                "case referred for rehearing with a different panel"
+            ],
+            "exclusion_reason": [
+                "Exclusion issue under Article 1F(a) was raised unexpectedly during Yang's refugee hearing"
+            ]
+        }
+    ]
+}

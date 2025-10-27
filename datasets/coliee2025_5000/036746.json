@@ -1,0 +1,34 @@
+{
+    "Case ID": "036746",
+    "Different Crime": [
+        {
+            "Crime Name": "Procedural Fairness Breach in Refugee Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "breach",
+                "withdrawal of counsel",
+                "refusal to adjourn",
+                "disregarding medical evidence"
+            ],
+            "legal_basis": [
+                "Refugee Protection Division Rules",
+                "Section 15",
+                "Section 65"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "original decision set aside",
+                "rehearing ordered"
+            ],
+            "review_standard": [
+                "judicial review"
+            ],
+            "documentary_evidence": [
+                "medical certificates"
+            ],
+            "burden_of_proof": [
+                "compliance with procedural fairness"
+            ]
+        }
+    ]
+}

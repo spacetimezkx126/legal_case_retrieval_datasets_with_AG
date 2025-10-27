@@ -1,0 +1,29 @@
+{
+    "Case ID": "045401",
+    "Different Crime": [
+        {
+            "Crime Name": "Civil Procedure Violation",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Canadian Federal Court rules"
+            ],
+            "procedural_fairness": [
+                "lack of prosecution",
+                "unjustified delays"
+            ],
+            "decision_reasoning": [
+                "flagrant and reckless neglect of court-imposed timelines"
+            ],
+            "application_details": [
+                "Plaintiffs filed a claim in 1995 but repeatedly delayed key procedural steps despite court-set deadlines. They failed to provide adequate explanations or comply with schedules."
+            ],
+            "result_of_case": [
+                "Appeal dismissed",
+                "defendant awarded $5,000 in costs"
+            ],
+            "procedure_followed": [
+                "Court issued notices for status reviews, set schedules, and eventually ordered plaintiffs to show cause why the case shouldn't be dismissed."
+            ]
+        }
+    ]
+}

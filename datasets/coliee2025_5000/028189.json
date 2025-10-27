@@ -1,0 +1,50 @@
+{
+    "Case ID": "028189",
+    "Different Crime": [
+        {
+            "Crime Name": "Voluntary reavailment of protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s.108(1)(a)"
+            ],
+            "reasonableness_standard": [
+                "RPD's decision is reasonable"
+            ],
+            "risk_of_persecution": [],
+            "decision_outcome": [
+                "Court upheld the RPD's decision; refugee protection ceased."
+            ],
+            "documentary_evidence": [
+                "Applicants returned to Mexico with Mexican passports"
+            ],
+            "burden_of_proof": [
+                "Presumption of reavailment unrebutted by explanations"
+            ],
+            "review_standard": [
+                "Judicial review of RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Cessation of refugee protection under Immigration and Refugee Protection Act",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "IRPA s.108(1)(a)"
+            ],
+            "procedural_fairness": [
+                "Judicial review of RPD's cessation decision under IRPA s.108."
+            ],
+            "reasonableness_of_decision": [
+                "RPD's decision is reasonable; judicial review application dismissed."
+            ],
+            "refugee_definition": [
+                "voluntarily reavails themselves of their country's protection"
+            ],
+            "immigration_status": [
+                "Applicants voluntarily returned to Mexico after obtaining refugee status in Canada."
+            ],
+            "judicial_review_process": [
+                "Court upheld RPD's decision; refugee protection ceased."
+            ]
+        }
+    ]
+}

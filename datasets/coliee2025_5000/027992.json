@@ -1,0 +1,33 @@
+{
+    "Case ID": "027992",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Claim Abandonment",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "procedural_fairness": [
+                "exceptional circumstances",
+                "readiness to proceed"
+            ],
+            "standard_of_proof": [
+                "reasonable explanations"
+            ],
+            "immigration_status": [
+                "refugee claim abandoned"
+            ],
+            "applicant_characteristics": [
+                "language barriers",
+                "financial constraints",
+                "delays in securing legal counsel"
+            ],
+            "reasonableness_of_decision": [
+                "RPD erred by applying the wrong test"
+            ],
+            "availability_of_alternative_remedies": [
+                "new hearing with a different RPD member"
+            ]
+        }
+    ]
+}

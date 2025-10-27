@@ -1,0 +1,54 @@
+{
+    "Case ID": "044332",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration status violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "refugee_status_eligibility": [
+                "exclusion_reason",
+                "Article 1(E)"
+            ],
+            "procedural_fairness": [
+                "incorrect_assumption",
+                "rights_under_Article_1(E)"
+            ],
+            "decision_outcome": [
+                "case_remanded",
+                "redetermination_by_different_panel"
+            ],
+            "standard_of_review": [
+                "judicial_review",
+                "Federal_Court_Trial_Division"
+            ],
+            "immigration_status": [
+                "lost_re-entry_rights",
+                "fled_criminal_charges"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing justice",
+            "Crime Type": "others",
+            "exclusion_reason": [
+                "Article 1(E) of the UN Refugee Convention"
+            ],
+            "refugee_status": [
+                "fled US charges to Canada, claiming refugee status"
+            ],
+            "decision_reasoning": [
+                "misapprehension of facts and law"
+            ],
+            "procedural_fairness": [
+                " Judicial review challenged the Board's credibility findings and legal errors"
+            ],
+            "conclusion_outcome": [
+                "Federal Court quashed the Board's decision"
+            ],
+            "reconsideration_order": [
+                "remanding for redetermination by a different panel"
+            ],
+            "result_of_case": [
+                "Case remitted for reconsideration ensuring proper application of Article 1(E)"
+            ]
+        }
+    ]
+}

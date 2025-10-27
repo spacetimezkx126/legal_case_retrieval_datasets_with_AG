@@ -1,0 +1,28 @@
+{
+    "Case ID": "005954",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 49(1)(c)(i) of the Immigration Act",
+                "Section 82.1(5)"
+            ],
+            "immigration_status": [
+                "overstayed visa",
+                "refugee claim rejected"
+            ],
+            "decision_outcome": [
+                "removal order stayed",
+                "motion for stay dismissed"
+            ],
+            "standard_of_review": [
+                "judicial review application filed out of time"
+            ],
+            "regulatory_compliance": [
+                "application for judicial review",
+                "request for extension due to late filing"
+            ]
+        }
+    ]
+}

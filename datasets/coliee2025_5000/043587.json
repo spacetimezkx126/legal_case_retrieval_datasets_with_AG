@@ -1,0 +1,26 @@
+{
+    "Case ID": "043587",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "claimed residency days inconsistent with documented evidence"
+            ],
+            "evidence_assessment": [
+                "discrepancies in passport stamps, ICES reports, and bank statements",
+                "lacked critical examination of contradictory evidence"
+            ],
+            "decision_outcome": [
+                "judicial review application is granted",
+                "remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "legal_basis": [
+                "section 22.1 of the Citizenship Act"
+            ]
+        }
+    ]
+}

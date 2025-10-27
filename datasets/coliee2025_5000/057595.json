@@ -1,0 +1,87 @@
+{
+    "Case ID": "057595",
+    "Different Crime": [
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "risk_characterization": [
+                "general risk",
+                "personal risk"
+            ],
+            "specific_targeting": [
+                "specifically targeted"
+            ],
+            "nexus_to_convention_grounds": [
+                "refusal to pay extortion fees"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "new hearing ordered"
+            ],
+            "applicable_statute": [
+                "IRPA s. 97"
+            ],
+            "procedural_fairness": [
+                "judicial review application granted"
+            ]
+        },
+        {
+            "Crime Name": "Criminal Organization Activity",
+            "Crime Type": "Violence-related_Crimes",
+            "risk_assessment": [
+                "personalized_vs_generalized_risk"
+            ],
+            "legal_basis": [
+                "IRPA sections 96 and 97"
+            ],
+            "specific_threats_or_incidents": [
+                "refusal to pay extortion fees",
+                "threats and persecution"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable"
+            ],
+            "procedural_fairness": [
+                "judicial review application granted"
+            ],
+            "nexus_to_convention_grounds": [
+                "risk of persecution"
+            ],
+            "internal_flight_alternative": [
+                "wealthy business owners in Mexico"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Protect Citizens",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA s. 97"
+            ],
+            "decision_reasoning": [
+                "Olvera's risk was generalized because criminal gangs target wealthy business owners disproportionately",
+                "Board's decision unreasonable"
+            ],
+            "decision_standard": [
+                "personal risk not shared generally by others in their country"
+            ],
+            "application_details": [
+                "Olvera and his family fled Mexico after being targeted by a criminal gang for refusing to pay extortion fees"
+            ],
+            "procedure_followed": [
+                "Refugee Protection Division denied their claim",
+                "judicial review application in the Federal Court"
+            ],
+            "result_of_case": [
+                "Federal Court granted the application",
+                "ruling the Board's decision irrational",
+                "remanding the case for a new hearing"
+            ],
+            "de_novo_hearing": [
+                "ordered"
+            ]
+        }
+    ]
+}

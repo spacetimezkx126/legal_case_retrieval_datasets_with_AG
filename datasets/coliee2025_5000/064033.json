@@ -1,0 +1,30 @@
+{
+    "Case ID": "064033",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "procedural_fairness": [
+                "violation of Rule 30",
+                "failure to assess relevance and probative value"
+            ],
+            "documentary_evidence": [
+                "late-submitted letter"
+            ],
+            "legal_basis": [
+                "Rule 29",
+                "Rule 30 of the Refugee Protection Division Rules"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case referred for rehearing"
+            ],
+            "burden_of_proof": [
+                "relevance and probative value assessment required"
+            ],
+            "risk_personalization": [
+                "assassination of brother as cause for refugee claim"
+            ]
+        }
+    ]
+}

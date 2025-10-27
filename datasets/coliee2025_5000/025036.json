@@ -1,0 +1,69 @@
+{
+    "Case ID": "025036",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "inconsistent",
+                "implausible",
+                "lacked detail"
+            ],
+            "state_protection_analysis": [
+                "Mexico's efforts to combat corruption",
+                "undermining claims of inadequate state protection"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to alleged persecution"
+            ],
+            "evidence_assessment": [
+                "documentary evidence showed Mexico's efforts"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "credibility_assessment": [
+                "unreasonable",
+                "inconsistent_testimonies"
+            ],
+            "state_protection": [
+                " incapacity_to_protect",
+                "corruption_in_Mexico"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "judicial_authority": [
+                "Federal_Court"
+            ],
+            "reasonableness_standard": [
+                "Board's_decision_reasonable"
+            ]
+        },
+        {
+            "Crime Name": "Vandalism",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions",
+                "implausibilities"
+            ],
+            "evidence_assessment": [
+                "documentary evidence",
+                "state protection"
+            ],
+            "decision_reasoning": [
+                "complete analysis of evidence"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed"
+            ],
+            "refugee_status": [
+                "claimed refugee status"
+            ]
+        }
+    ]
+}

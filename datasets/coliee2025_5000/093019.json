@@ -1,0 +1,79 @@
+{
+    "Case ID": "093019",
+    "Different Crime": [
+        {
+            "Crime Name": "Illegal entry into Canada",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "lacked credibility overall",
+                "numerous inconsistencies and implausibilities"
+            ],
+            "identity_verification": [
+                "failed to establish his identity as a North Korean citizen"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed to be a North Korean defector seeking refugee status"
+            ],
+            "decision_outcome": [
+                "application was allowed",
+                "Decision was quashed",
+                "case referred back for reconsideration"
+            ],
+            "legal_basis": [
+                "s. 96 and 97 of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Obstruction of Justice",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "justification, transparency, and intelligibility in decision-making process"
+            ],
+            "decision_outcome": [
+                "reviewable errors affecting credibility assessment"
+            ],
+            "standard_of_review": [
+                "reasonableness standards"
+            ],
+            "identity_documents": [
+                "inconsistencies and implausibilities in identity"
+            ],
+            "expert_testimony": [
+                "Helen Park's affidavit",
+                "Jinsa Park's letter"
+            ],
+            "relationship_genuineness": [
+                "Applicant's credibility questioned"
+            ],
+            "appeal_outcome": [
+                "application allowed; decision quashed; matter referred back for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling of persons",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "credibility_findings": [
+                "lacked credibility",
+                "inconsistencies",
+                "implausibilities"
+            ],
+            "evidentiary_standard": [
+                "errors in dismissing key evidence",
+                "speculative reasoning"
+            ],
+            "judicial_review_process": [
+                "reasonableness and correctness standards"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "referred back for reconsideration"
+            ],
+            "administrative_error": [
+                "reviewable errors"
+            ],
+            "burden_of_proof": [
+                "prove their identity and nationality"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Case ID": "013073",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Section 6(1) of the Patented Medicines (Notice of Compliance) Regulations",
+                "Subsection 27(3) of the Patent Act"
+            ],
+            "decision_outcome": [
+                "The 768 Patent allegations were unjustified",
+                "The 546 Patent allegations were justified due to insufficient data"
+            ],
+            "expert_testimony": [
+                "The court analyzed claim construction, expert testimonies, and data sufficiency"
+            ],
+            "patent_validity": [
+                "non-infringement of the 768 Patent",
+                "invalidity of the 546 Patent"
+            ],
+            "technical_details": [
+                "context showed it was not limited to racemates",
+                "issues arose over averaging results, solubility problems, and reliance on sodium salt data for calcium claims"
+            ],
+            "applicable_statute": [
+                "Section 6(1) of the NOC Regulations"
+            ],
+            "cause_of_action": [
+                "Ranbaxy sought approval for a generic version of Pfizer's atorvastatin calcium"
+            ],
+            "appeal_outcome": [
+                "prohibited issuance of a Notice of Compliance for Ranbaxy's product concerning the 768 Patent",
+                "dismissed Pfizer's application regarding the 546 Patent due to insufficiency"
+            ]
+        }
+    ]
+}

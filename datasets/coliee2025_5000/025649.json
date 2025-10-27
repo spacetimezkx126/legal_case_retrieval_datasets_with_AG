@@ -1,0 +1,139 @@
+{
+    "Case ID": "025649",
+    "Different Crime": [
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "rehabilitation",
+                "risk in Iran"
+            ],
+            "procedural_fairness": [
+                "considering all evidence",
+                "meaningful opportunity for submissions"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "decision_outcome": [
+                "denial of H&C application"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "procedural unfairness",
+                "disregard of evidence"
+            ],
+            "nature_of_offense": [
+                "criminal history",
+                "limited time since release"
+            ],
+            "risk_characterization": [
+                "religious or political risk in Iran"
+            ],
+            "reasonableness_standard": [
+                "reasonable and procedurally fair"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "hardship due to religious persecution"
+            ],
+            "procedural_fairness": [
+                "no breach of procedural fairness"
+            ],
+            "criminal_history": [
+                "convicted of assault and attempted murder"
+            ],
+            "risk_assessment": [
+                "insufficient evidence of risk"
+            ],
+            "reasonableness_of_decision": [
+                "decision was reasonable"
+            ],
+            "rehabilitation_or_possibility": [
+                "insufficient evidence of rehabilitation"
+            ]
+        },
+        {
+            "Crime Name": "Attempted Murder",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "reasonableness_of_decision": [
+                "reasonable"
+            ],
+            "procedural_fairness": [
+                "procedurally fair"
+            ],
+            "humanitarian_and_compassionate_grounds": [
+                "H&C application",
+                "rehabilitation",
+                "risk in Iran"
+            ],
+            "evidence_provided": [
+                "criminal history",
+                "limited time since release",
+                "insufficient evidence of religious or political risk in Iran"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "denial of H&C application"
+            ],
+            "court_ruling": [
+                "upheld the officer's decision"
+            ]
+        },
+        {
+            "Crime Name": "Serious Criminality under Immigration Act",
+            "Crime Type": "others",
+            "humanitarian_and_compassionate_considerations": [
+                "family separation",
+                "religious persecution"
+            ],
+            "procedural_fairness": [
+                "review of rehabilitation",
+                "consideration of family ties",
+                "assessment of risk of harm"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence for exemption"
+            ],
+            "decision_reasoning": [
+                "reasonable and procedurally fair"
+            ],
+            "result_of_case": [
+                "judicial review application dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Possession of a Dangerous Weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "humanitarian_concerns": [
+                "unusual or disproportionate hardship",
+                "religious and political risks"
+            ],
+            "evidence_considered": [
+                "conversion to Christianity",
+                "past anti-government activities",
+                "insufficient proof of current risk"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "officer's decision upheld"
+            ],
+            "procedural_fairness": [
+                "immigration officer erred in denying the H&C application"
+            ],
+            "claimant_burden": [
+                "applicant bears the onus of proving such hardship"
+            ],
+            "court_ruling": [
+                "officer's decision was reasonable and supported by evidence"
+            ]
+        }
+    ]
+}

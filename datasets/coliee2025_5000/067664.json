@@ -1,0 +1,79 @@
+{
+    "Case ID": "067664",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board's assessment of credibility"
+            ],
+            "refugee_status_eligibility": [
+                "Applicant claimed refugee status"
+            ],
+            "risk_assessment": [
+                "Generalized gang risks in Honduras"
+            ],
+            "standard_of_review": [
+                "Reasonableness standard applies"
+            ],
+            "decision_outcome": [
+                "Court dismissed application"
+            ]
+        },
+        {
+            "Crime Name": "Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "credibility_findings": [
+                "inconsistencies in testimony"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "risk_assessment": [
+                "gang violence",
+                "subjective fear"
+            ],
+            "country_conditions": [
+                "gang violence and recruitment in Honduras"
+            ],
+            "refugee_status_nexus": [
+                "seeking refugee status in Canada"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Robbery",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "inconsistencies in testimony"
+            ],
+            "personalized_vs_generalized_risk": [
+                "generalized risk"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_reasoning": [
+                "no reviewable error",
+                "reasonable and defensible"
+            ],
+            "cause_of_action": [
+                "gang violence",
+                "recruitment threats"
+            ],
+            "procedure_followed": [
+                "judicial review application",
+                "Immigration and Refugee Protection Act"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "no certification question"
+            ]
+        }
+    ]
+}

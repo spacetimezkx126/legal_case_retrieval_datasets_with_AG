@@ -1,0 +1,79 @@
+{
+    "Case ID": "028159",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Visa Application",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s.34(1)(f)"
+            ],
+            "procedural_fairness": [
+                "assessed"
+            ],
+            "reasonableness_standard": [
+                "applied"
+            ],
+            "risk_of_persecution": [],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ],
+            "inconsistencies_in_testimony": [
+                "present"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "specific_group_membership": [
+                "suspected LTTE membership"
+            ],
+            "burden_of_proof": [
+                "more than suspicion but less than a balance of probabilities"
+            ],
+            "humanitarian_considerations": [
+                "not outweighing security concerns"
+            ]
+        },
+        {
+            "Crime Name": "Membership in a Terrorist Organization",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 34(1)(f) of IRPA"
+            ],
+            "membership_in_organization": [
+                "LTTE"
+            ],
+            "evidence_credibility": [
+                "inconsistencies in statements",
+                "behavior during interviews"
+            ],
+            "procedural_fairness": [
+                "assessed procedural fairness"
+            ],
+            "reasonableness_of_decision": [
+                "reasonable grounds to believe"
+            ],
+            "decision_outcome": [
+                "application for permanent residence denied"
+            ],
+            "judicial_review_result": [
+                "court dismissed judicial review"
+            ],
+            "applicable_law_section": [
+                "s. 34(1)(f) of IRPA"
+            ],
+            "involvement_details": [
+                "concealed arrest",
+                "trained cadre of LTTE"
+            ],
+            "credibility_findings": [
+                "suspicions of membership"
+            ],
+            "decision_made": [
+                "officer's decision upheld"
+            ],
+            "reasoning_given": [
+                "based on evidence provided"
+            ]
+        }
+    ]
+}

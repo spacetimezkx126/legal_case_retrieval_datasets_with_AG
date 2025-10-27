@@ -1,0 +1,83 @@
+{
+    "Case ID": "001621",
+    "Different Crime": [
+        {
+            "Crime Name": "Border document misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "process was procedurally fair"
+            ],
+            "evidence_assessment": [
+                "evidence reasonably supported the revocation",
+                "alleged involvement in loading a handgun onto an aircraft",
+                "uncooperative behavior during investigations"
+            ],
+            "standard_of_review": [
+                "standard of review is reasonableness"
+            ],
+            "decision_outcome": [
+                "Application dismissed"
+            ],
+            "misrepresentation_or_fraud": [
+                "alleged involvement in security breaches"
+            ]
+        },
+        {
+            "Crime Name": "Possession of stolen property",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "adequate disclosure",
+                "opportunity to respond"
+            ],
+            "evidence_provided": [
+                "involvement in a handgun incident",
+                "uncooperative behavior during investigations"
+            ],
+            "standard_of_review": [
+                "balance of probabilities"
+            ],
+            "applicable_statute": [
+                "Aeronautics Act",
+                "Transportation Security Clearance Program"
+            ],
+            "decision_outcome": [
+                "TSC revocation upheld"
+            ],
+            "judicial_authority": [
+                "court dismissed the application"
+            ],
+            "nature_of_offense": [
+                "potential to unlawfully interfere with civil aviation"
+            ]
+        },
+        {
+            "Crime Name": "Unlawfully interfering with civil aviation",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "procedural_fairness": [
+                "adequate disclosure",
+                "opportunity to respond",
+                "represented by counsel"
+            ],
+            "evidence_quality": [
+                "alleged uncooperativeness",
+                "involvement in loading a handgun onto an aircraft"
+            ],
+            "reasonableness_of_decision": [
+                "Director must reasonably believe",
+                "balance of probabilities"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "standard_of_proof": [
+                "lower than criminal proof"
+            ],
+            "decision_outcome": [
+                "revocation of TSC"
+            ],
+            "decision_making_process": [
+                "judicial review assessed procedural fairness and reasonableness of evidence"
+            ]
+        }
+    ]
+}

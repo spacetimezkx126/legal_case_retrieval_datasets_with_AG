@@ -1,0 +1,76 @@
+{
+    "Case ID": "034428",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "best_interests_of_children": [
+                "considered children's adaptation in Canada"
+            ],
+            "humanitarian_and_compassionate_factors": [
+                "claimed inadequate consideration of children's interests"
+            ],
+            "evidence_assessment": [
+                "financial and threat evidence not submitted",
+                "insufficient proof of incompetence affecting the outcome"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "procedural_fairness": [
+                "officer's decision was reasonable and adequately explained"
+            ]
+        },
+        {
+            "Crime Name": "Immigration consultant negligence",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "humanitarian_compassionate_considerations": [
+                "lack of compelling circumstances"
+            ],
+            "judicial_authority": [
+                "officer's decision was reasonable"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "child_best_interests": [
+                "considered but no disproportionate hardship found"
+            ],
+            "evidence_provided": [
+                "failed to submit updated financials and police reports"
+            ],
+            "reasonableness_standard": [
+                "applied in reviewing the officer's decision"
+            ],
+            "relationship_genuineness": [
+                "not directly addressed but implied in H&C considerations"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose criminal threats",
+            "Crime Type": "others",
+            "legal_basis": [
+                "judicial review"
+            ],
+            "new_evidence": [
+                "criminal threats",
+                "updated financials",
+                "police reports"
+            ],
+            "decision_reasoning": [
+                "no reasonable probability of a different outcome",
+                "officer aware of business success and ceased threats"
+            ],
+            "standard_of_review": [
+                "clear proof of incompetence"
+            ],
+            "conclusion_outcome": [
+                "no breach of natural justice",
+                "application for judicial review dismissed"
+            ],
+            "evidentiary_standard": [
+                "inadequate consideration of children's best interests"
+            ]
+        }
+    ]
+}

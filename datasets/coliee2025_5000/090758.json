@@ -1,0 +1,49 @@
+{
+    "Case ID": "090758",
+    "Different Crime": [
+        {
+            "Crime Name": "Knowingly concealing material circumstances in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Section 10(1) of the Citizenship Act"
+            ],
+            "misrepresentation_or_fraud": [
+                "no proof of fraudulent intent or deliberate concealment"
+            ],
+            "evidence_assessment": [
+                "Minhas did not disclose a criminal charge but was not convicted at that time",
+                "court found no intent to deceive"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "citizenship was not revoked"
+            ],
+            "standard_of_review": [
+                "Federal Court Trial Division reviewed evidence regarding intent and disclosure"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Citizenship Act s. 10(1)"
+            ],
+            "procedural_fairness": [
+                "presumed innocent until proven guilty"
+            ],
+            "decision_outcome": [
+                "citizenship not revoked",
+                "Minister's application dismissed"
+            ],
+            "applicable_laws": [
+                "Citizenship Act s. 10(1)"
+            ],
+            "claimant_burden": [
+                "no intent to deceive"
+            ],
+            "criminal_history": [
+                "charged with assault before becoming a citizen"
+            ]
+        }
+    ]
+}

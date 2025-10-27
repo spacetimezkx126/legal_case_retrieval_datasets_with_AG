@@ -1,0 +1,50 @@
+{
+    "Case ID": "098808",
+    "Different Crime": [
+        {
+            "Crime Name": "Forfeiture of performance bond under Immigration and Refugee Protection Regulations",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "IRPR s. 49(4)"
+            ],
+            "decision_outcome": [
+                "Decision set aside; case remitted for redetermination"
+            ],
+            "procedural_fairness": [
+                "Judicial review application filed; Federal Court reviewed Officer's decision"
+            ],
+            "standard_of_review": [
+                "Officer erred in law"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Regulations"
+            ]
+        },
+        {
+            "Crime Name": "Violation of release conditions",
+            "Crime Type": "others",
+            "bond_forfeiture": [
+                "full $80,000 bond",
+                "partial forfeiture"
+            ],
+            "discretion_exercise": [
+                "Officer's discretion to enforce less than the full amount"
+            ],
+            "rule_regulation": [
+                "s. 49(4) of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_reasoning": [
+                "Officer failed to consider partial forfeiture"
+            ],
+            "witness_testimony": [
+                "Testimony confirmed the Officer's misunderstanding"
+            ],
+            "court_ruling": [
+                "Application allowed; decision set aside; remitted for redetermination"
+            ],
+            "result_of_case": [
+                "Decision set aside; remitted for reconsideration"
+            ]
+        }
+    ]
+}

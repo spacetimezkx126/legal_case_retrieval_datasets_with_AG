@@ -1,0 +1,115 @@
+{
+    "Case ID": "006980",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "contradictions",
+                "lack of evidence"
+            ],
+            "procedural_fairness": [
+                "failed to adequately consider explanations",
+                "mischaracterized evidence"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "remitted for reconsideration"
+            ],
+            "family_class_considerations": [
+                "genuineness of marriage",
+                "delays in marriage due to financial issues",
+                "voluntary support for family",
+                "infrequent visits due to costs"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "relationship_genuineness": [
+                "not genuine",
+                "entered into primarily for acquiring immigration status"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted to a different panel for redetermination"
+            ],
+            "evidence_provided": [
+                "delays in marriage due to financial issues",
+                "voluntary support for his family in Grenada",
+                "unrelated nature of a one-night stand"
+            ],
+            "cause_of_action": [
+                "Visa officer denied spousal sponsorship"
+            ],
+            "nature_of_offense": [
+                "marriage not genuine"
+            ],
+            "procedural_fairness": [
+                "Board's decision relied on speculation and ignored explanations"
+            ],
+            "appeal_outcome": [
+                "judicial review allowed",
+                "reconsideration ordered by a differently constituted panel"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Violence-related_Crimes",
+            "standard_of_proof": [
+                "reasonableness"
+            ],
+            "credibility_findings": [
+                "speculation",
+                "ignored explanations"
+            ],
+            "evidence_consideration": [
+                "delays in marriage",
+                "financial issues",
+                "voluntary support for family",
+                "unrelated one-night stand"
+            ],
+            "procedural_fairness": [
+                "judicial review",
+                "Board's decision analyzed"
+            ],
+            "reasonableness_of_decision": [
+                "unreasonable decision"
+            ],
+            "immigration_status": [
+                "spousal sponsorship denied"
+            ]
+        },
+        {
+            "Crime Name": "Marriage Fraud under Immigration and Refugee Protection Act",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "explanations regarding delays in marriage, financial issues, voluntary support for family, unrelated one-night stand"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "unreasonable decision remitted for redetermination"
+            ],
+            "evidence_considered": [
+                "delays in marriage, financial issues, voluntary support for family, unrelated one-night stand"
+            ],
+            "court_ruling": [
+                "judicial review allowed, reconsideration ordered by a differently constituted panel"
+            ]
+        }
+    ]
+}

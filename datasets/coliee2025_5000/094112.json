@@ -1,0 +1,38 @@
+{
+    "Case ID": "094112",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Rejection",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "lack of credible evidence"
+            ],
+            "evidence_assessment": [
+                "failure to assess the minor's claim independently",
+                "mistakenly dismissed NIC",
+                "evidence of persecution against young Tamil women"
+            ],
+            "procedural_fairness": [
+                "errors in evidence handling",
+                "independent evaluation of claims"
+            ],
+            "risk_of_persecution": [
+                "risks to the minor",
+                "persecution against young Tamil women"
+            ],
+            "decision_outcome": [
+                "application for judicial review granted",
+                "case remanded for reevaluation"
+            ],
+            "standard_of_proof": [
+                "objective assessment of all evidence"
+            ],
+            "specific_group_membership": [
+                "young Tamil women"
+            ],
+            "burden_of_proof": [
+                "reasons for rejecting claims"
+            ]
+        }
+    ]
+}

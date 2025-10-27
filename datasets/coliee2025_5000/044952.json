@@ -1,0 +1,27 @@
+{
+    "Case ID": "044952",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "evidence_assessment": [
+                "psychological evidence"
+            ],
+            "internal_flight_alternative": [
+                "IFA"
+            ],
+            "decision_reasoning": [
+                "insufficient consideration of psychological evidence"
+            ],
+            "procedural_fairness": [
+                "judicial review process"
+            ],
+            "result_of_case": [
+                "case remitted for reassessment"
+            ],
+            "reconsideration_order": [
+                "redetermination by a different panel"
+            ]
+        }
+    ]
+}

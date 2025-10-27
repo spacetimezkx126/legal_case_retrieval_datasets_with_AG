@@ -1,0 +1,101 @@
+{
+    "Case ID": "025322",
+    "Different Crime": [
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "judicial_authority": [
+                "Refugee Protection Division (RPD)",
+                "Federal Court"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "remanded for redetermination"
+            ],
+            "standard_of_review": [
+                "reasonableness",
+                "correctness"
+            ],
+            "procedural_fairness": [
+                "lack of transparency",
+                "factual errors"
+            ],
+            "burden_of_proof": [
+                "rebuttable presumption of complicity"
+            ],
+            "membership_status": [
+                "alleged membership in VSN"
+            ],
+            "cause_of_action": [
+                "complicity in crimes against humanity"
+            ],
+            "appeal_outcome": [
+                "set aside RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "membership_in_organization": [
+                "VSN"
+            ],
+            "complicity_in_crimes": [
+                "crimes against humanity"
+            ],
+            "reasonableness_of_decision": [
+                "lack of transparency",
+                "factual errors"
+            ],
+            "burden_of_proof_analysis": [
+                "rebuttable presumption of complicity",
+                "shifts to member to prove non-complicity"
+            ],
+            "judicial_review_result": [
+                "RPD's decision overturned",
+                "case remanded for redetermination"
+            ],
+            "applicable_law_section": [
+                "IRPA subsection 72(1)"
+            ],
+            "standard_of_proof": [
+                "reasonableness for mixed fact/law questions",
+                "correctness for legal framework"
+            ],
+            "decision_outcome": [
+                "set aside the RPD's decision"
+            ]
+        },
+        {
+            "Crime Name": "Crimes Against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "burden_of_proof": [
+                "rebuttable presumption of complicity",
+                "shift to member to prove non-complicity"
+            ],
+            "administrative_error": [
+                "factual errors about age and profession",
+                "lack of transparency"
+            ],
+            "reasonableness_of_decision": [
+                "undermined due to factual inaccuracies"
+            ],
+            "judicial_review_process": [
+                "subsection 72(1) of IRPA",
+                "standard of review: reasonableness for mixed fact/law, correctness for legal framework"
+            ],
+            "decision_outcome": [
+                "RPD's decision overturned",
+                "case remanded for redetermination"
+            ]
+        }
+    ]
+}

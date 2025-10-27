@@ -1,0 +1,28 @@
+{
+    "Case ID": "008277",
+    "Different Crime": [
+        {
+            "Crime Name": "Discrimination Complaint",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "not providing sufficient reasons"
+            ],
+            "legal_basis": [
+                "s. 42(1) of the Canadian Human Rights Act",
+                "s. 44(3)"
+            ],
+            "judicial_review_process": [
+                "application for judicial review",
+                "judicial review application dismissed"
+            ],
+            "burden_of_proof": [
+                "no obligation to provide reasons when not requested"
+            ],
+            "decision_outcome": [
+                "dismissal of complaint",
+                "costs awarded to the respondent"
+            ]
+        }
+    ]
+}

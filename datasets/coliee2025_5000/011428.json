@@ -1,0 +1,34 @@
+{
+    "Case ID": "011428",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness",
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "authenticity of the arrest warrant",
+                "lacked reasoning"
+            ],
+            "decision_reasoning": [
+                "dismissed the arrest warrant's validity without sufficient justification"
+            ],
+            "result_of_case": [
+                "PRRA decision is quashed",
+                "case is remitted for re-assessment"
+            ],
+            "application_details": [
+                "negative PRRA decision",
+                "errors in risk assessment and evidence evaluation"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed the PRRA officer's reasoning"
+            ],
+            "relevant_statute": [
+                "IRPA sections 96 and 97"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Case ID": "061232",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Protection Claim",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "review_standard": [
+                "reasonableness"
+            ],
+            "risk_of_persecution": [
+                "potential persecution"
+            ],
+            "decision_outcome": [
+                "refugee claim denied",
+                "judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "no evidence of visa denials"
+            ],
+            "burden_of_proof": [
+                "applicant failed to prove inability to return"
+            ]
+        }
+    ]
+}

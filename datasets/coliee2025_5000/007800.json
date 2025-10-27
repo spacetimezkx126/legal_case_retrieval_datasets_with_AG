@@ -1,0 +1,25 @@
+{
+    "Case ID": "007800",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Proceeding",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "right to counsel",
+                "reasonable opportunity to retain counsel",
+                "balance of expedition and fairness"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "matter returned to new adjudicator"
+            ],
+            "standard_of_review": [
+                "judicial review under s. 18.1 of the Federal Court Act"
+            ],
+            "legal_basis": [
+                "right to counsel",
+                "Federal Court Act"
+            ]
+        }
+    ]
+}

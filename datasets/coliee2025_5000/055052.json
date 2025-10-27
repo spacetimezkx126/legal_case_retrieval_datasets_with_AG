@@ -1,0 +1,27 @@
+{
+    "Case ID": "055052",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Infringement occurs if all essential elements of a patent claim are present in the product. Claims must be construed purposively, identifying essential and non-essential elements."
+            ],
+            "expert_testimony": [
+                "The case involved extensive expert testimonies"
+            ],
+            "patent_validity": [
+                "The court ruled that claim 15 of the '787 Patent is valid"
+            ],
+            "technical_details": [
+                "Bell's Legacy gear was found to contain all essential elements of claim 15 of the '787 Patent, while the Production gear lacked the double curvature and integrated front cross piece"
+            ],
+            "decision_outcome": [
+                "Eurocopter succeeded partially; an injunction against the Legacy gear was granted, and punitive damages were awarded. However, most claims were invalidated, limiting Eurocopter's remedy."
+            ],
+            "cause_of_action": [
+                "Eurocopter alleged that Bell's helicopter landing gears (Legacy and Production) infringed its '787 Patent, specifically claims related to skid-type landing gear design."
+            ]
+        }
+    ]
+}

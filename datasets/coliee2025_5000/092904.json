@@ -1,0 +1,56 @@
+{
+    "Case ID": "092904",
+    "Different Crime": [
+        {
+            "Crime Name": "Non-capital murder",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "correctness",
+                "reasonableness standard"
+            ],
+            "risk_assessment": [
+                "past conduct"
+            ],
+            "evidence_consideration": [
+                "denied entry for partner",
+                "ambiguous parole conditions"
+            ],
+            "reasonableness_of_decision": [
+                "justified",
+                "transparent",
+                "intelligible"
+            ],
+            "availability_of_alternative_remedies": [
+                "Board's actions"
+            ],
+            "criminal_history": [
+                "revocation of full parole"
+            ]
+        },
+        {
+            "Crime Name": "Breaching parole conditions",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "no bias",
+                "procedural fairness requires correctness review"
+            ],
+            "decision_reasoning": [
+                "condition requiring relationship reporting was clear",
+                "past conduct was appropriately considered"
+            ],
+            "standard_of_review": [
+                "reasonableness standard applies to factual/mixed law issues"
+            ],
+            "cause_of_action": [
+                "Applicant's failure to report a change in living arrangements as required by parole conditions"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Appeal Division's upholding of the National Parole Board's revocation of full parole"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed",
+                "Board's decision upheld"
+            ]
+        }
+    ]
+}

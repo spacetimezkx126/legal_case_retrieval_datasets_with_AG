@@ -1,0 +1,29 @@
+{
+    "Case ID": "068625",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "three years of residence in Canada within four years preceding citizenship application"
+            ],
+            "decision_outcome": [
+                "Minister's appeal allowed",
+                "Citizenship Court's decision set aside",
+                "Case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "material_misrepresentation": [
+                "reliance on family ties to claim residency"
+            ],
+            "legal_basis": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

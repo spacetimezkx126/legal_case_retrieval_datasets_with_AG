@@ -1,0 +1,60 @@
+{
+    "Case ID": "063929",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "adverse credibility findings",
+                "inconsistencies",
+                "implausible explanations",
+                "contradictions about travel documents and interactions with a smuggler"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "evidence_assessment": [
+                "multiple inconsistencies",
+                "valid concerns"
+            ],
+            "refugee_status_eligibility": [
+                "deemed not credible"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "legal_basis": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "evidence_provided": [
+                "inconsistencies in testimony",
+                "implausible explanations",
+                "contradictions about travel documents",
+                "interactions with a smuggler"
+            ],
+            "mitigating_factors": [
+                "some mitigating factors mentioned"
+            ],
+            "judicial_authority": [
+                "tribunal",
+                "Board"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status application deemed not credible"
+            ],
+            "applicable_statute": [
+                "subsection 72(1) of the Immigration and Refugee Protection Act"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "063358",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Claim Dismissal",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "inconsistencies_in_testimony",
+                "discrepancies_in_documents"
+            ],
+            "procedural_fairness": [
+                "judicial_review",
+                "Board_decision"
+            ],
+            "review_standard": [
+                "perverse",
+                "capricious",
+                "disregarded_material_evidence"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "specific_group_membership": [
+                "Pentecost_religion"
+            ],
+            "burden_of_proof": [
+                "Board_credibility_assessment"
+            ]
+        }
+    ]
+}

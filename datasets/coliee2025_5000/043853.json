@@ -1,0 +1,30 @@
+{
+    "Case ID": "043853",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "multiple causes of action"
+            ],
+            "procedural_fairness": [
+                "pleadings must define issues between parties",
+                "particulars must clarify unclear allegations"
+            ],
+            "evidence_assessment": [
+                "failed to specify key details"
+            ],
+            "decision_reasoning": [
+                "many allegations lacked clarity and specificity"
+            ],
+            "result_of_case": [
+                "plaintiffs required to provide more details for some claims",
+                "defendants excused from filing a defense until further order"
+            ],
+            "application_details": [
+                "motion for further and better particulars",
+                "analysis of pleading sufficiency under procedural rules"
+            ]
+        }
+    ]
+}

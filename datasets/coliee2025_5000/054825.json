@@ -1,0 +1,29 @@
+{
+    "Case ID": "054825",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days of residence",
+                "four years preceding the application",
+                "physical presence"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "appeal granted",
+                "decision set aside"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "identity_verification": [
+                "residence in Canada",
+                "absence from Canada"
+            ],
+            "regulatory_compliance": [
+                "paragraph 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

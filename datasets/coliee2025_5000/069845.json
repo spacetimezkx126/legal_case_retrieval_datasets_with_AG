@@ -1,0 +1,113 @@
+{
+    "Case ID": "069845",
+    "Different Crime": [
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "exclusion_reason": [
+                "complicity in crimes against humanity",
+                "torture"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "excluded from refugee protection"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed evidence"
+            ],
+            "applicable_statute": [
+                "Article 1F(a) of the Refugee Convention"
+            ],
+            "party_involved": [
+                "MQM",
+                "Mr. Ali"
+            ],
+            "claim_nature": [
+                "refugee claim"
+            ],
+            "judicial_authority": [
+                "Judicial review"
+            ],
+            "serious_criminality": [
+                "torture crimes"
+            ],
+            "nexus_to_convention_grounds": [
+                "complicity in crimes against humanity"
+            ],
+            "materiality_of_misrepresentation": [
+                "knowledge of MQM's violent activities"
+            ],
+            "evidence_provided": [
+                "credible evidence shows MQM's systematic use of torture"
+            ]
+        },
+        {
+            "Crime Name": "Torture",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Article 1F(a) of the Refugee Convention"
+            ],
+            "complicity_in_crimes": [
+                "complicit in torture crimes"
+            ],
+            "membership_in_organization": [
+                "active MQM member",
+                "leadership roles"
+            ],
+            "evidence_credibility": [
+                "credible evidence"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "excluded from refugee protection"
+            ],
+            "refugee_status_claim": [
+                "challenged based on alleged complicity"
+            ]
+        },
+        {
+            "Crime Name": "Murder",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 1F(a) of the Refugee Convention"
+            ],
+            "evidence_assessment": [
+                "credible evidence shows he supported MQM’s operations linked to murder and torture"
+            ],
+            "decision_reasoning": [
+                "Mr. Ali is complicit in the MQM's crimes against humanity due to his active role and knowledge"
+            ],
+            "application_details": [
+                "Mr. Ali was an active MQM member for 7 years, held leadership roles, fundraised, and had knowledge of the organization's violent activities"
+            ],
+            "conclusion_outcome": [
+                "Mr. Ali was excluded from refugee protection under Article 1F(a), and the judicial review application was dismissed"
+            ],
+            "procedure_followed": [
+                "The Immigration and Refugee Board reviewed Mr. Ali's case, considering documentary evidence and testimony. The Federal Court analyzed legal precedents on complicity"
+            ],
+            "cause_of_action": [
+                "Mr. Ali's involvement with MQM, a group known for human rights abuses, led to allegations of complicity in crimes against humanity"
+            ]
+        },
+        {
+            "Crime Name": "Complicity in Crimes against Humanity",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "legal_basis": [
+                "Article 1F(a) of the Refugee Convention"
+            ],
+            "complicity_in_crimes": [
+                "knowledge and participation in shared common purpose"
+            ],
+            "credibility_findings": [
+                "denial of knowledge despite credible evidence"
+            ],
+            "decision_outcome": [
+                "excluded from protection under Article 1F(a)"
+            ],
+            "judicial_review_process": [
+                "Judicial review under IRPA Section 72(1)"
+            ]
+        }
+    ]
+}

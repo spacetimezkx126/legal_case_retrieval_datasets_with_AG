@@ -1,0 +1,35 @@
+{
+    "Case ID": "057070",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "natural justice",
+                "procedural fairness"
+            ],
+            "cause_of_action": [
+                "lawyer incompetence",
+                "negligence"
+            ],
+            "decision_reasoning": [
+                "incorrect advice on divorce status",
+                "substantial prejudice affecting case outcome"
+            ],
+            "application_details": [
+                "sponsorship application termination",
+                "invalidity of first divorce"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "adjournment for additional evidence",
+                "analysis of legal precedents"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "original decision set aside",
+                "reconsideration by new officer"
+            ]
+        }
+    ]
+}

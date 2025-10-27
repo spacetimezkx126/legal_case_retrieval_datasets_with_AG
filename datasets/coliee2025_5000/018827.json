@@ -1,0 +1,26 @@
+{
+    "Case ID": "018827",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation of residency status",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "less than 50% time in Canada",
+                "failed to meet 1,095 days requirement"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "redetermination ordered"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "misrepresentation_or_fraud": [
+                "citizenship approved despite significant absences"
+            ],
+            "regulatory_compliance": [
+                "did not meet s. 5(1)(c) of the Citizenship Act"
+            ]
+        }
+    ]
+}

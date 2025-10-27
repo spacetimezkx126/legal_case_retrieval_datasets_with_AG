@@ -1,0 +1,27 @@
+{
+    "Case ID": "031818",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "Applicant must accumulate at least three years of residence in Canada within four years preceding the application, with physical presence being a key factor."
+            ],
+            "credibility_assessment": [
+                "Discrepancies in his reported absences undermined his credibility."
+            ],
+            "decision_outcome": [
+                "Appeal dismissed; applicant can reapply in the future."
+            ],
+            "standard_of_review": [
+                "Appeal reviewed under reasonableness standard"
+            ],
+            "identity_verification": [
+                "The Citizenship Judge reasonably determined that the applicant did not meet the residency requirements."
+            ],
+            "material_misrepresentation": [
+                "Applicant's frequent absences from Canada and insufficient ties to the country."
+            ]
+        }
+    ]
+}

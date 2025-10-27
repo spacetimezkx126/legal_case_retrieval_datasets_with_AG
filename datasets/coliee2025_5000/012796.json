@@ -1,0 +1,54 @@
+{
+    "Case ID": "012796",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s. 117(9)(d) of the Regulations"
+            ],
+            "procedural_fairness": [
+                "Judicial review of Immigration Appeal Division’s dismissal; analyzed under reasonableness standard."
+            ],
+            "evidence_consideration": [
+                "applicant signed a declaration acknowledging her daughter would not be examined",
+                "Board found this acknowledgment valid despite signing errors"
+            ],
+            "family_ties": [
+                "Applicant sought to sponsor her daughter"
+            ],
+            "reasonableness_of_decision": [
+                "Federal Court upheld the Board's decision, finding it reasonable based on evidence and applicable law"
+            ],
+            "immigration_status": [
+                "foreign national is not considered a family class member if they were not examined during the sponsor’s permanent residence application"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Violation",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "s. 117(9)(d) of the Regulations"
+            ],
+            "exclusion_reason": [
+                "not examined during sponsor’s permanent residence application"
+            ],
+            "procedural_fairness": [
+                "acknowledgment valid despite signing errors"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed",
+                "daughter remains excluded from family class"
+            ],
+            "applicable_laws": [
+                "s. 117(9)(d)"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "family_impact": [
+                "applicant sought to sponsor her daughter"
+            ]
+        }
+    ]
+}

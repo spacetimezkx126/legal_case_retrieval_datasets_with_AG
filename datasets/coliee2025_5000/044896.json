@@ -1,0 +1,32 @@
+{
+    "Case ID": "044896",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Patent Act"
+            ],
+            "patent_validity": [
+                "valid for Claims 5, 7, 29, 44, 46",
+                "invalid for Claims 1-4"
+            ],
+            "expert_testimony": [
+                "provided"
+            ],
+            "technical_details": [
+                "utility of compounds",
+                "sound prediction",
+                "adequacy of disclosure",
+                "selective inhibition of kinases by Group 2 compounds"
+            ],
+            "decision_outcome": [
+                "upheld most claims",
+                "invalidated Claims 1-4"
+            ],
+            "applicable_statute": [
+                "Patent Act"
+            ]
+        }
+    ]
+}

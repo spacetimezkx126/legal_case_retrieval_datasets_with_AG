@@ -1,0 +1,33 @@
+{
+    "Case ID": "060380",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "tort of abuse of process claim",
+                "trademark dispute"
+            ],
+            "relevant_rule": [
+                "Rule 221 of the Federal Courts Rules"
+            ],
+            "application_details": [
+                "TSC alleged Tractor Supply initiated litigation to devalue TSC's business during a takeover bid"
+            ],
+            "decision_reasoning": [
+                "not plain and obvious that TSC could not succeed",
+                "does not meet the two-part test for abuse of process (improper purpose + overt act)"
+            ],
+            "result_of_case": [
+                "appeal dismissed"
+            ],
+            "procedure_steps": [
+                "Prothonotary Milczynski initially dismissed the motion to strike",
+                "Tractor Supply appealed, arguing lack of jurisdiction and failure to meet the abuse of process test"
+            ]
+        }
+    ]
+}

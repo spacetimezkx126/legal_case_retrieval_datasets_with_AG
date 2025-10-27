@@ -1,0 +1,54 @@
+{
+    "Case ID": "084131",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "negative credibility determination",
+                "inconsistent documentation"
+            ],
+            "evidence_assessment": [
+                "discrepancies in addresses, logos, document errors",
+                "explanations deemed insufficient"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "denied refugee claim"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed"
+            ],
+            "legal_basis": [
+                "IRPA subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "evidence_provided": [
+                "discrepancies in addresses, logos, document errors"
+            ],
+            "decision_outcome": [
+                "negative credibility determination"
+            ],
+            "judicial_authority": [
+                "Court"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "refugee status claim due to persecution"
+            ],
+            "procedural_fairness": [
+                "credibility assessments reviewed under IRPA subsection 72(1)"
+            ]
+        }
+    ]
+}

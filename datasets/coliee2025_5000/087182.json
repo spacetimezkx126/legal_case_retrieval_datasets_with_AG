@@ -1,0 +1,49 @@
+{
+    "Case ID": "087182",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Protection Application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "subsection 112(1) of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_assessment": [
+                "credibility issues"
+            ],
+            "evidence_assessment": [
+                "no new evidence to rebut these findings or address inconsistencies"
+            ],
+            "decision_outcome": [
+                "application for judicial review was dismissed"
+            ],
+            "standard_of_review": [
+                "PRRA decisions are based on written submissions unless oral hearings are required under section 167 of the Regulations"
+            ],
+            "procedural_fairness": [
+                "Judicial review analyzed whether the PRRA officer followed legal standards and properly assessed new evidence"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Protection Application",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "subsection 112(1) of the Immigration and Refugee Protection Act"
+            ],
+            "credibility_findings": [
+                "credibility issues"
+            ],
+            "evidence_sufficiency": [
+                "no new evidence"
+            ],
+            "decision_made_by": [
+                "PRRA officer"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ]
+        }
+    ]
+}

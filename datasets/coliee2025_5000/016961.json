@@ -1,0 +1,47 @@
+{
+    "Case ID": "016961",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation order under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA Regulations s.49(4)"
+            ],
+            "procedural_fairness": [
+                "CBSA followed procedures outlined in Guide ENF 8"
+            ],
+            "evidence_assessment": [
+                "CBSA had evidence of the breach"
+            ],
+            "decision_outcome": [
+                "Judicial review dismissed",
+                "CBSA's decision upheld"
+            ],
+            "misrepresentation_or_fraud": [
+                "Breach of release conditions"
+            ]
+        },
+        {
+            "Crime Name": "Shoplifting",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Subsection 49(4) of the Immigration and Refugee Protection Regulations"
+            ],
+            "decision_reasoning": [
+                "officer's decision reasonable and compliant with applicable laws"
+            ],
+            "evidence_presented": [
+                "Mr. Falcon admitted to entering a clothing store, violating his release condition"
+            ],
+            "discretion_exercise": [
+                "Officers have discretion to decide if a breach justifies forfeiture"
+            ],
+            "result_of_case": [
+                "The court upheld the CBSA's decision, rejecting the applicant's challenge"
+            ],
+            "cause_of_action": [
+                "breach of release conditions by entering a prohibited store"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "Case ID": "035694",
+    "Different Crime": [
+        {
+            "Crime Name": "Making untrue statements in Personal Information Form",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "contradictions between testimony and form",
+                "implausible elements",
+                "inconsistencies in documents"
+            ],
+            "legal_basis": [
+                "Immigration and Refugee Protection Act",
+                "subsection 72(1)"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "insufficient credible evidence supporting claim"
+            ]
+        },
+        {
+            "Crime Name": "Illegal economic activity without permit",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "reasonableness_standard": [
+                "Credibility findings by the Board are reviewed on a reasonableness standard"
+            ],
+            "evidence_provided": [
+                "contradictions and implausibilities in the applicant's story, such as delivering videos while reporting to police and inconsistencies in documents"
+            ],
+            "decision_outcome": [
+                "The application for judicial review was dismissed, upholding the Board's decision"
+            ],
+            "procedural_fairness": [
+                "Judicial review under subsection 72(1) of the Immigration and Refugee Protection Act, assessing the Board's credibility determination"
+            ],
+            "claim_nature": [
+                "asylum based on alleged persecution for delivering anti-revolutionary videos"
+            ],
+            "applicable_statute": [
+                "Immigration and Refugee Protection Act"
+            ],
+            "material_misrepresentation": [
+                "failed to provide credible evidence"
+            ]
+        },
+        {
+            "Crime Name": "Possession of anti-revolutionary materials",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "credibility_findings": [
+                "contradictions",
+                "implausibilities in the applicant's story",
+                "inconsistencies in documents"
+            ],
+            "reasonableness_standard": [
+                "Board's decision within acceptable and rational solutions"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "evidence_quality": [
+                "failed to provide credible evidence"
+            ],
+            "decision_outcome": [
+                "Court upheld Board's findings as reasonable"
+            ],
+            "applicable_law_section": [
+                "Immigration and Refugee Protection Act subsection 72(1)"
+            ]
+        },
+        {
+            "Crime Name": "Failure to comply with police reporting requirements",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "contradictions",
+                "implausibilities",
+                "document authenticity"
+            ],
+            "decision_reasonableness": [
+                "Board's decision reasonable",
+                "within acceptable and rational solutions"
+            ],
+            "evidence_assessment": [
+                "lack of credible evidence",
+                "contradictions in documentation"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "conclusion_outcome": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "asylum based on alleged persecution"
+            ],
+            "procedure_followed": [
+                "Federal Court reviewed under reasonableness standard"
+            ],
+            "result_of_case": [
+                "Court dismissed application"
+            ]
+        }
+    ]
+}

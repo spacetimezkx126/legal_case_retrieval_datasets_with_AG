@@ -1,0 +1,66 @@
+{
+    "Case ID": "042556",
+    "Different Crime": [
+        {
+            "Crime Name": "Assault Causing Bodily Harm",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "incomplete transcripts",
+                "undisclosed confidential reports",
+                "use of pictures",
+                "language barriers",
+                "adequately informed",
+                "relevant pictures",
+                "no language issues impacting fairness"
+            ],
+            "legal_basis": [
+                "Parole Act, s. 21.4(4)(a)"
+            ],
+            "decision_outcome": [
+                "detain until the end of their sentence"
+            ],
+            "judicial_authority": [
+                "National Parole Board",
+                "Federal Court Act"
+            ],
+            "cause_of_action": [
+                "procedural unfairness"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Assault Causing Bodily Harm",
+            "Crime Type": "Violence-related_Crimes",
+            "procedural_fairness": [
+                "Parole Act, s. 21.4(4)(a)",
+                "likelihood of future harm",
+                "natural justice principles",
+                "context-based fairness"
+            ],
+            "evidence_consideration": [
+                "incomplete transcripts",
+                "undisclosed confidential reports",
+                "use of pictures",
+                "language barriers"
+            ],
+            "risk_assessment": [
+                "likelihood of future harm"
+            ],
+            "legal_basis": [
+                "Parole Act, s. 21.4(4)(a)",
+                "Federal Court Act",
+                "Charter compliance"
+            ],
+            "reasonableness_of_decision": [
+                "fair and lawful"
+            ],
+            "standard_of_proof": [
+                "adequately informed",
+                "relevant pictures",
+                "no evidence of language issues"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Case ID": "022376",
+    "Different Crime": [
+        {
+            "Crime Name": "Overstaying visa",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "procedural_fairness": [
+                "Judicial review of the Board's decision"
+            ],
+            "criminality_inadmissibility": [
+                "two assaults with deadly weapons"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Committing a serious non-political crime under Article 1F(b) of the United Nations Convention Relating to the Status of Refugees",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "procedural_fairness": [
+                "Judicial review application"
+            ],
+            "decision_outcome": [
+                "Court dismissed the application, upholding the Board's decision"
+            ],
+            "review_standard": [
+                "reasonableness standard"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a deadly weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "exclusion_reason": [
+                "serious non-political crimes"
+            ],
+            "legal_basis": [
+                "Article 1F(b)"
+            ],
+            "refugee_protection": [
+                "excluded"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_laws": [
+                "Article 1F(b)"
+            ],
+            "claimant_burden": [
+                "rehabilitation is irrelevant"
+            ],
+            "court_ruling": [
+                "rehabilitation is not considered under Article 1F(b)"
+            ]
+        }
+    ]
+}

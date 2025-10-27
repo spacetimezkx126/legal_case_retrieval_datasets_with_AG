@@ -1,0 +1,32 @@
+{
+    "Case ID": "082827",
+    "Different Crime": [
+        {
+            "Crime Name": "Unjust Dismissal Complaint",
+            "Crime Type": "others",
+            "legal_basis": [
+                "s. 242(3.1)(a) of the Canada Labour Code"
+            ],
+            "decision_reasoning": [
+                "adjudicator failed to examine decision-making process",
+                "did not require economic justification",
+                "improperly shifted burden to complainant"
+            ],
+            "cause_of_action": [
+                "mass layoffs",
+                "financial crisis",
+                "alleged retaliatory dismissal for whistleblowing"
+            ],
+            "procedure_followed": [
+                "filed unjust dismissal complaint",
+                "adjudicator dismissed complaint",
+                "judicial review appeal"
+            ],
+            "result_of_case": [
+                "reviewable error",
+                "decision quashed",
+                "rehearing ordered with new adjudicator"
+            ]
+        }
+    ]
+}

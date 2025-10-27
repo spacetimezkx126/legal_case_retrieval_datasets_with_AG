@@ -1,0 +1,33 @@
+{
+    "Case ID": "067658",
+    "Different Crime": [
+        {
+            "Crime Name": "Patent Infringement Dispute",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Canadian Patent Law"
+            ],
+            "patent_validity": [
+                "valid"
+            ],
+            "applicable_statute": [
+                "utility",
+                "obviousness-type double patenting"
+            ],
+            "expert_testimony": [
+                "support sound prediction of utility"
+            ],
+            "technical_details": [
+                "tadalafil's use in treating ED",
+                "'377 Patent discloses tadalafil as a PDE V inhibitor"
+            ],
+            "decision_outcome": [
+                "upheld the '784 Patent's validity"
+            ],
+            "cause_of_action": [
+                "lack of utility",
+                "obviousness-type double patenting"
+            ]
+        }
+    ]
+}

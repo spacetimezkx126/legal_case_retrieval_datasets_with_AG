@@ -1,0 +1,35 @@
+{
+    "Case ID": "095055",
+    "Different Crime": [
+        {
+            "Crime Name": "Contractual Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 50 of the Federal Courts Act",
+                "Article 8 of the Commercial Arbitration Code"
+            ],
+            "application_details": [
+                "Booking Note contained a valid arbitration clause"
+            ],
+            "decision_reasoning": [
+                "Prothonotary incorrectly applied discretion under section 50",
+                "mandatorily referring the dispute to arbitration as required by Article 8"
+            ],
+            "conclusion_outcome": [
+                "appeal is allowed",
+                "proceedings are stayed in favor of arbitration"
+            ],
+            "cause_of_action": [
+                "Dispute over the application of an arbitration clause in a Booking Note"
+            ],
+            "procedure_followed": [
+                "Defendant appealed the Prothonotary's decision",
+                "Court reviewed the case de novo"
+            ],
+            "result_of_case": [
+                "action was stayed",
+                "dispute must proceed through arbitration"
+            ]
+        }
+    ]
+}

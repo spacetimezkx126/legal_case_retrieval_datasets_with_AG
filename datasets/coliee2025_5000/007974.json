@@ -1,0 +1,30 @@
+{
+    "Case ID": "007974",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Denial",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "meaningful opportunity to respond"
+            ],
+            "decision_reasonableness": [
+                "officer's decision reviewed for reasonableness"
+            ],
+            "application_details": [
+                "applicant missed deadline by one day"
+            ],
+            "decision_conclusion": [
+                "no breach of procedural fairness; decision upheld as reasonable despite minor error"
+            ],
+            "cause_of_action": [
+                "failed to provide proof of funds within extended deadlines due to birth of child requiring updated financials"
+            ],
+            "procedure_followed": [
+                "judicial review analyzed procedural fairness and reasonableness of officer’s decision based on IRPA/IRPR"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed; no question certified"
+            ]
+        }
+    ]
+}

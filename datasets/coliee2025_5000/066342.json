@@ -1,0 +1,108 @@
+{
+    "Case ID": "066342",
+    "Different Crime": [
+        {
+            "Crime Name": "Deportation order violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "humanitarian_and_compassionate_factors": [
+                "long-term establishment in Canada",
+                "risk from ex-husband",
+                "daughter’s best interests"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of hardship or risk"
+            ],
+            "best_interests_of_children": [
+                "considered"
+            ],
+            "immigration_status": [
+                "deportation order violation"
+            ]
+        },
+        {
+            "Crime Name": "Refugee claim denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "IRPA s. 25(1)"
+            ],
+            "procedural_fairness": [
+                "officer considered relevant factors"
+            ],
+            "reasonableness_standard": [
+                "standard of review is reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence to justify exemption"
+            ],
+            "decision_outcome": [
+                "judicial review dismissed"
+            ],
+            "risk_of_persecution": [
+                "risk in India"
+            ]
+        },
+        {
+            "Crime Name": "Spousal abuse (alleged, not proven)",
+            "Crime Type": "Violence-related_Crimes",
+            "humanitarian_compassionate_grounds": [
+                "spousal abuse",
+                "risk from ex-husband",
+                "hardships as a divorced woman in India"
+            ],
+            "evidence_consideration": [
+                "insufficient evidence of abuse",
+                "credible risk",
+                "disproportionate hardship"
+            ],
+            "legal_basis": [
+                "IRPA subsection 25(1)"
+            ],
+            "reasonableness_of_decision": [
+                "adequately considered all relevant factors",
+                "applied the correct legal test"
+            ],
+            "risk_assessment": [
+                "no credible risk identified"
+            ],
+            "family_ties": [
+                "divorced status"
+            ],
+            "country_conditions": [
+                "hardships for divorced women in India"
+            ],
+            "applicant_characteristics": [
+                "establishment in Canada deemed normal"
+            ]
+        },
+        {
+            "Crime Name": "Heart disease (medical inadmissibility)",
+            "Crime Type": "others",
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "establishment in Canada",
+                "risk of harm",
+                "best interests of the child"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence of hardship or risk",
+                "lack of corroborative evidence",
+                "reasonable adaptation for the child in India"
+            ],
+            "decision_reasoning": [
+                "considered all relevant factors",
+                "provided adequate reasons"
+            ],
+            "result_of_case": [
+                "Application for judicial review dismissed"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Case ID": "073287",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "section 18.1 of the Federal Courts Act"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "procedural_fairness": [
+                "lack of standing",
+                "untimeliness"
+            ],
+            "applicable_statute": [
+                "Federal Courts Act"
+            ],
+            "party_involved": [
+                "Peace Hills Trust Company",
+                "INAC"
+            ],
+            "claim_nature": [
+                "judicial review"
+            ],
+            "judicial_authority": [
+                "Saskatchewan Court of Appeal"
+            ],
+            "standard_of_review": [
+                "Judicial review under section 18.1 of the Federal Courts Act"
+            ]
+        },
+        {
+            "Crime Name": "Breach of trust",
+            "Crime Type": "others",
+            "legal_basis": [
+                "section 18.1 of the Federal Courts Act"
+            ],
+            "procedural_fairness": [
+                "judicial review application filed"
+            ],
+            "decision_reasoning": [
+                "lack of standing",
+                "untimeliness",
+                "private commercial matters"
+            ],
+            "application_details": [
+                " Applicant seeks judicial review of a BCR that halted loan repayments"
+            ],
+            "result_of_case": [
+                "Application dismissed; costs awarded to Respondents"
+            ],
+            "cause_of_action": [
+                "Dispute over unpaid loans and BCR halting repayments pending litigation outcome"
+            ],
+            "relevant_statute": [
+                "Federal Courts Act"
+            ]
+        }
+    ]
+}

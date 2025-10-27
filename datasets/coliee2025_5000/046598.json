@@ -1,0 +1,89 @@
+{
+    "Case ID": "046598",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation in Official Proceedings",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Judges Act subsection 63(3)"
+            ],
+            "procedural_fairness": [
+                "principles of fairness and jurisdictional limits"
+            ],
+            "decision_outcome": [
+                "motion to strike allowed",
+                "judicial review application dismissed as premature"
+            ],
+            "applicable_statute": [
+                "Judges Act"
+            ],
+            "judicial_authority": [
+                "Canadian Judicial Council"
+            ],
+            "material_misrepresentation": [
+                "past conduct as a lawyer"
+            ],
+            "appeal_outcome": [
+                "premature"
+            ],
+            "cause_of_action": [
+                "investigation into past conduct"
+            ]
+        },
+        {
+            "Crime Name": "Breaching Solicitor-Client Privilege",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Judges Act"
+            ],
+            "procedural_fairness": [
+                "respect constitutional rights",
+                "procedural fairness"
+            ],
+            "decision_reasoning": [
+                "claims premature",
+                "inquiry hasn't begun",
+                "committee hasn’t ruled on its jurisdiction or privilege issues"
+            ],
+            "cause_of_action": [
+                "allegations about a judge's past conduct as a lawyer"
+            ],
+            "procedure_followed": [
+                "court analyzed whether the judicial review was timely and if the Inquiry Committee had proper jurisdiction under the Judges Act"
+            ],
+            "result_of_case": [
+                "motion to strike the judicial review was granted",
+                "application premature"
+            ]
+        },
+        {
+            "Crime Name": "Possession of Cocaine for Purpose of Trafficking",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Judges Act subsection 63(3)"
+            ],
+            "procedural_fairness": [
+                "conflicting witness statements",
+                "claims of procedural unfairness"
+            ],
+            "constitutional_challenge": [
+                "jurisdictional and constitutional issues"
+            ],
+            "decision_made_by": [
+                "Federal Court",
+                "Canadian Judicial Council (CJC)"
+            ],
+            "review_process": [
+                "CJC’s six-stage process",
+                "Inquiry Committee investigation"
+            ],
+            "consequences_of_decision": [
+                "judicial review application dismissed as premature"
+            ],
+            "evidence_considered": [
+                "criminal investigation",
+                "witness claiming the judge purchased cocaine"
+            ]
+        }
+    ]
+}

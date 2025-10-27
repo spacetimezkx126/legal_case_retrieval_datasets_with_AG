@@ -1,0 +1,27 @@
+{
+    "Case ID": "075142",
+    "Different Crime": [
+        {
+            "Crime Name": "Unauthorized disclosure of personal information",
+            "Crime Type": "others",
+            "legal_basis": [
+                "sections 14 and 16(c) of the Personal Information Protection and Electronic Documents Act"
+            ],
+            "evidence_assessment": [
+                "the bank disclosed the applicant's account details without consent"
+            ],
+            "decision_reasoning": [
+                "violating PIPEDA principles",
+                "applicant concealed accounts during divorce proceedings"
+            ],
+            "result_of_case": [
+                "court awarded $4,500 in damages"
+            ],
+            "procedure_followed": [
+                "applicant filed a complaint with the Privacy Commissioner",
+                "investigation and report confirming the breach",
+                "sought damages in Federal Court"
+            ]
+        }
+    ]
+}

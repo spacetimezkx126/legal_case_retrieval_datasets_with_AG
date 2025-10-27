@@ -1,0 +1,58 @@
+{
+    "Case ID": "021269",
+    "Different Crime": [
+        {
+            "Crime Name": "Use of a False Passport",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "opportunity to respond",
+                "identity doubts",
+                "credibility analysis"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for substantive issues"
+            ],
+            "identity_verification": [
+                "doubts despite stating otherwise"
+            ],
+            "decision_outcome": [
+                "quashed",
+                "re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "used a false passport"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "awareness of concerns",
+                "chance to address concerns"
+            ],
+            "standard_of_review": [
+                "correctness for procedural fairness",
+                "reasonableness for substantive issues"
+            ],
+            "judicial_authority": [
+                "Judicial review under IRPA subsection 72(1)"
+            ],
+            "decision_outcome": [
+                "Decision quashed",
+                "case remitted for re-determination"
+            ],
+            "relationship_genuineness": [
+                "identity and credibility challenges"
+            ],
+            "cause_of_action": [
+                "religious persecution"
+            ],
+            "appeal_outcome": [
+                "case sent back to another panel for re-determination"
+            ]
+        }
+    ]
+}

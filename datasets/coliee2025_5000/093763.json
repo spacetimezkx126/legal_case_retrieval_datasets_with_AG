@@ -1,0 +1,54 @@
+{
+    "Case ID": "093763",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Inconsistencies in the sponsoree's sibling list"
+            ],
+            "credibility_assessment": [
+                "Suspicions of a contrived plan and doubts about the marriage's validity"
+            ],
+            "decision_outcome": [
+                "The application was granted, case remitted for redetermination"
+            ],
+            "standard_of_review": [
+                "Judicial review of the Immigration Appeal Division's decision"
+            ],
+            "family_class_considerations": [
+                "Marriage genuineness and purpose analysis"
+            ],
+            "legal_basis": [
+                "A marriage is not genuine if it was not entered into primarily for acquiring status under the Act"
+            ]
+        },
+        {
+            "Crime Name": "Failure to disclose family member",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Act"
+            ],
+            "decision_reasoning": [
+                "misapplying the test for marriage genuineness"
+            ],
+            "evidence_assessment": [
+                "no evidence supporting the claim that the marriage was for immigration purposes"
+            ],
+            "application_details": [
+                "omission of a half-sister",
+                "failed to analyze relevant factors like the couple's relationship history, financial situations, or knowledge of each other"
+            ],
+            "result_of_case": [
+                "case is remanded for redetermination",
+                "court granted the application and remitted the case to a new panel for reconsideration"
+            ],
+            "cause_of_action": [
+                "Visa application denial due to alleged inconsistencies in family disclosures"
+            ],
+            "procedure_followed": [
+                "Judicial review of the Immigration Appeal Division's decision dismissing the sponsorship appeal"
+            ]
+        }
+    ]
+}

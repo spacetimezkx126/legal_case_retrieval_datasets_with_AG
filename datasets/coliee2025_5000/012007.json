@@ -1,0 +1,26 @@
+{
+    "Case ID": "012007",
+    "Different Crime": [
+        {
+            "Crime Name": "Administrative Error in Immigration Process",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "proper notification of scheduled interview",
+                "judicial review process"
+            ],
+            "evidence_assessment": [
+                "lack of direct evidence for correct address notification"
+            ],
+            "decision_outcome": [
+                "application for judicial review allowed",
+                "re-assessment by a different officer ordered"
+            ],
+            "immigration_status": [
+                "denied due to alleged failure to attend interview"
+            ],
+            "standard_of_review": [
+                "evaluation of proper procedures followed in notifying applicant"
+            ]
+        }
+    ]
+}

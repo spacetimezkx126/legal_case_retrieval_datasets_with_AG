@@ -1,0 +1,49 @@
+{
+    "Case ID": "099037",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "health_grounds_inadmissibility": [
+                "excessive demand on health services"
+            ],
+            "evidence_assessment": [
+                "reliance on incomplete medical analysis",
+                "failure to consider financial assurances"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ],
+            "decision_outcome": [
+                "judicial review granted",
+                "decision overturned",
+                "case remanded for reconsideration"
+            ],
+            "criminality_inadmissibility": []
+        },
+        {
+            "Crime Name": "Excessive demand on health or social services",
+            "Crime Type": "others",
+            "legal_basis": [
+                "IRPA"
+            ],
+            "decision_reasoning": [
+                "Discrepancy between medical opinions and failure to consider financial evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "Dr. Hindle's narrative",
+                "Dr. Belli's reports",
+                "applicant's financial plan"
+            ],
+            "result_of_case": [
+                "Decision overturned; case remanded for reconsideration"
+            ],
+            "relevant_rule": [
+                "a person is inadmissible if their health condition might reasonably be expected to cause excessive demand on health or social services over five to ten years"
+            ]
+        }
+    ]
+}

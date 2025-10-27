@@ -1,0 +1,32 @@
+{
+    "Case ID": "016394",
+    "Different Crime": [
+        {
+            "Crime Name": "Contract Dispute",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Court Rules 432.3 and 432.6",
+                "Commercial Arbitration Act"
+            ],
+            "evidence_assessment": [
+                "genuine disputes over charterparty interpretation",
+                "deductions",
+                "agency fees",
+                "vessel delays"
+            ],
+            "procedure_followed": [
+                "Plaintiff filed for summary judgment and arbitration referral",
+                "Defendants opposed, citing unresolved factual disputes"
+            ],
+            "decision_reasoning": [
+                "unresolved factual issues",
+                "plaintiff's delay in invoking arbitration",
+                "waiver of arbitration rights"
+            ],
+            "result_of_case": [
+                "Motion for summary judgment and arbitration referral dismissed",
+                "case proceeds to trial"
+            ]
+        }
+    ]
+}

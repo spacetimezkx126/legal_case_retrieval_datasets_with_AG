@@ -1,0 +1,59 @@
+{
+    "Case ID": "047415",
+    "Different Crime": [
+        {
+            "Crime Name": "Membership in a terrorist group",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "risk_to_national_security": [
+                "considered a threat to national security"
+            ],
+            "release_conditions": [
+                "home alone during specific hours with safeguards",
+                "no subway use"
+            ],
+            "balance_of_interests": [
+                "balance individual liberty with national security interests"
+            ],
+            "reasonableness_of_decision": [
+                "proportionality analysis ensuring conditions remain necessary and not overly restrictive"
+            ],
+            "evidence_provided": [
+                "Evidence shows no breaches but acknowledges potential risks"
+            ],
+            "decision_outcome": [
+                "Conditions partially modified"
+            ],
+            "judicial_review_result": [
+                "Judicial review analyzed conditions’ legality and necessity post-Charkaoui decision"
+            ],
+            "special_advocate_involvement": [
+                "involving evidence from both parties and special advocates"
+            ],
+            "risk_assessment": [
+                "individualized risk assessment"
+            ]
+        },
+        {
+            "Crime Name": "Unknown (Potential unauthorized communication with prohibited individuals)",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Immigration and Refugee Protection Act (IRPA)"
+            ],
+            "decision_reasoning": [
+                "balancing liberty interests with national security concerns"
+            ],
+            "evidence_assessment": [
+                "behavior, CBSA monitoring practices, potential risks"
+            ],
+            "application_details": [
+                "request for modification of release conditions"
+            ],
+            "result_of_case": [
+                "conditions partially modified"
+            ],
+            "procedural_fairness": [
+                "judicial review involving arguments from both parties"
+            ]
+        }
+    ]
+}

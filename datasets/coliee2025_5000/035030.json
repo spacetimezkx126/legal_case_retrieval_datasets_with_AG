@@ -1,0 +1,33 @@
+{
+    "Case ID": "035030",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "credibility_findings": [
+                "applicant's story not credible or trustworthy",
+                "reasonable explanations and supporting documents"
+            ],
+            "legal_basis": [
+                "board must provide clear reasons for doubting credibility",
+                "cannot rely on extrinsic criteria without evidence"
+            ],
+            "decision_reasoning": [
+                "relying on extrinsic criteria",
+                "drawing negative inferences without total evidence consideration",
+                "requiring documentary evidence for uncontradicted testimony"
+            ],
+            "refugee_status": [
+                "claimed refugee status based on political persecution"
+            ],
+            "procedure_followed": [
+                "judicial review application was filed",
+                "Federal Court analyzed CRDD's decision and legal principles"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "case remitted to a different panel for reconsideration"
+            ]
+        }
+    ]
+}

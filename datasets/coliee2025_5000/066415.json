@@ -1,0 +1,39 @@
+{
+    "Case ID": "066415",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "no breach of procedural fairness",
+                "reasonable decision"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "inconsistencies",
+                "lack of corroborative evidence"
+            ],
+            "decision_reasoning": [
+                "justified doubts",
+                "reasonable decision"
+            ],
+            "applicable_regulations": [
+                "Citizenship Act"
+            ],
+            "cause_of_action": [
+                "dispute over citizenship status"
+            ],
+            "procedure_followed": [
+                "judicial review",
+                "administrative law principles"
+            ],
+            "result_of_case": [
+                "application dismissed",
+                "not granted Canadian citizenship"
+            ]
+        }
+    ]
+}

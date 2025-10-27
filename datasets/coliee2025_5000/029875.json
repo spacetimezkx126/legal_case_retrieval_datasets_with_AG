@@ -1,0 +1,78 @@
+{
+    "Case ID": "029875",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representation by Immigration Consultant",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "consultant misrepresented himself as a lawyer"
+            ],
+            "procedural_fairness": [
+                "breach of natural justice"
+            ],
+            "evidence_assessment": [
+                "incompetence of consultant",
+                "omitted key medical letters",
+                "professional judgment"
+            ],
+            "decision_outcome": [
+                "application dismissed",
+                "no breach of natural justice found"
+            ]
+        },
+        {
+            "Crime Name": "Misleading Affidavit Evidence",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "breach of natural justice",
+                "competence of immigration consultant"
+            ],
+            "evidence_provided": [
+                "medical letters",
+                "consultant's presence at interview"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "judicial_authority": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "dissatisfaction with PRRA decision",
+                "alleged consultant incompetence"
+            ],
+            "nature_of_offense": [
+                "misleading affidavit evidence"
+            ],
+            "appeal_outcome": [
+                "no breach of natural justice found"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Material Evidence",
+            "Crime Type": "others",
+            "natural_justice_principles": [
+                "breach of natural justice"
+            ],
+            "evidence_presented": [
+                "medical letters",
+                "consultant's actions"
+            ],
+            "decision_reasoning": [
+                "professional judgments, not negligence"
+            ],
+            "result_of_case": [
+                "application for judicial review dismissed"
+            ],
+            "cause_of_action": [
+                "incompetence of immigration consultants"
+            ],
+            "procedure_followed": [
+                "judicial review in Federal Court"
+            ],
+            "relevant_rule": [
+                "Incompetence of an immigration consultant may constitute a breach of natural justice if there is clear evidence of incompetence and resulting prejudice."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Case ID": "049315",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Denial",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "translation_quality": [
+                "interpreter errors",
+                "factual inconsistencies"
+            ],
+            "credibility_findings": [
+                "negative credibility findings"
+            ],
+            "procedural_fairness": [
+                "violation of Charter rights",
+                "right to a fair hearing"
+            ],
+            "legal_basis": [
+                "Section 14 of the Canadian Charter"
+            ],
+            "decision_outcome": [
+                "overturned",
+                "remitted for rehearing"
+            ],
+            "inconsistencies_in_testimony": [
+                "errors affecting key facts",
+                "dates and actions"
+            ]
+        }
+    ]
+}

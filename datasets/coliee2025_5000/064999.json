@@ -1,0 +1,31 @@
+{
+    "Case ID": "064999",
+    "Different Crime": [
+        {
+            "Crime Name": "Citizenship Residency Requirement Violation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "1,095 days",
+                "four years preceding application",
+                "physically present in Canada"
+            ],
+            "decision_outcome": [
+                "appeal granted",
+                "decision overturned",
+                "citizenship application rejected"
+            ],
+            "standard_of_review": [
+                "reasonableness simpliciter",
+                "deference to Citizenship Judge's decision"
+            ],
+            "evidence_assessment": [
+                "406 days of physical presence",
+                "travel pattern indicating life centralized in Hong Kong",
+                "insufficient passive indicia like tax returns and leases"
+            ],
+            "legal_basis": [
+                "Citizenship Act paragraph 5(1)(c)"
+            ]
+        }
+    ]
+}

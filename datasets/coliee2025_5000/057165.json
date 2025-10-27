@@ -1,0 +1,46 @@
+{
+    "Case ID": "057165",
+    "Different Crime": [
+        {
+            "Crime Name": "Submitting Incorrect Documentation for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "No breach of procedural fairness occurred"
+            ],
+            "regulatory_compliance": [
+                "Regulations require points based on recognized credentials and years of study"
+            ],
+            "evidence_assessment": [
+                "Principal Applicant claimed 19 years of education but only had one recognized post-secondary diploma"
+            ],
+            "decision_outcome": [
+                "Application dismissed; no basis for judicial intervention"
+            ],
+            "standard_of_review": [
+                "correctness and reasonableness standards"
+            ],
+            "misrepresentation_or_fraud": [
+                "Applicant's submission of incorrect documentation"
+            ]
+        },
+        {
+            "Crime Name": "False Representation in Immigration Application",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Immigration and Refugee Protection Regulations, SOR/2002-227"
+            ],
+            "procedural_fairness": [
+                "No breach of fairness occurred as the applicant was aware of regulatory requirements."
+            ],
+            "evidence_sufficiency": [
+                "The Principal Applicant claimed 19 years of education but only had one recognized post-secondary diploma."
+            ],
+            "decision_outcome": [
+                "Application dismissed; question certified regarding point allocation under Regulation 78(4)."
+            ],
+            "applicable_law_or_regulation": [
+                "Subsection 78(4) addresses special circumstances."
+            ]
+        }
+    ]
+}

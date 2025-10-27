@@ -1,0 +1,106 @@
+{
+    "Case ID": "057661",
+    "Different Crime": [
+        {
+            "Crime Name": "Making false statements to obtain refugee protection",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate state protection",
+                "unresponsiveness",
+                "fear of reprisals"
+            ],
+            "refugee_status_eligibility": [
+                "well-founded fear of persecution"
+            ],
+            "decision_outcome": [
+                "application granted",
+                "case remanded"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "credibility_assessment": [
+                "credible fear of FARC reprisals"
+            ]
+        },
+        {
+            "Crime Name": "Failure to exhaust local remedies before seeking asylum",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "state_protection_analysis": [
+                "inadequate state apparatus",
+                "fear of reprisals"
+            ],
+            "risk_of_persecution": [
+                "threats from FARC"
+            ],
+            "procedural_fairness": [
+                "Board's decision unreasonable"
+            ],
+            "decision_outcome": [
+                "case remanded for reconsideration"
+            ],
+            "specific_threats": [
+                "FARC's specific targeting"
+            ],
+            "burden_of_proof": [
+                "well-founded fear of persecution"
+            ],
+            "nexus_to_convention_grounds": [
+                "unable to obtain protection in their home country"
+            ]
+        },
+        {
+            "Crime Name": "Extortion",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "inadequacy",
+                "unresponsiveness",
+                "fear of reprisals"
+            ],
+            "risk_characterization": [
+                "well-founded fear of persecution"
+            ],
+            "specific_targeting": [
+                "Gutierrez Infante's specific situation"
+            ],
+            "reasonableness_standard": [
+                "Board's conclusion was unreasonable"
+            ],
+            "appeal_outcome": [
+                "application for judicial review was allowed"
+            ],
+            "judicial_authority": [
+                "different panel for reconsideration"
+            ]
+        },
+        {
+            "Crime Name": "Threatening death or bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "inadequate state protection in Colombia",
+                "specific risks not considered"
+            ],
+            "specific_threats_or_incidents": [
+                "threats from FARC",
+                "harm to family if police contacted"
+            ],
+            "risk_of_persecution": [
+                "well-founded fear of persecution"
+            ],
+            "reasonableness_of_decision": [
+                "Board's conclusion unreasonable"
+            ],
+            "country_conditions": [
+                "improved security situation in Colombia",
+                "FARC still posing specific threats"
+            ],
+            "nexus_to_convention_grounds": [
+                "refugee status due to inability to obtain state protection"
+            ],
+            "procedural_fairness": [
+                "judicial review application allowed",
+                "case remanded for reconsideration"
+            ]
+        }
+    ]
+}

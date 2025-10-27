@@ -1,0 +1,27 @@
+{
+    "Case ID": "097153",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "cause_of_action": [
+                "stay of execution of the costs order pending appeal"
+            ],
+            "specific_rule_applied": [
+                "test for a stay requires: a serious issue to be determined, irreparable harm if the stay is not granted, and the balance of convenience favoring the stay"
+            ],
+            "decision_reasoning": [
+                "plaintiff failed to meet the irreparable harm criterion"
+            ],
+            "evidence_presented": [
+                "no evidence showed irreparable harm from paying costs"
+            ],
+            "procedure_followed": [
+                "motion heard orally; judge referenced legal tests for stays and interlocutory injunctions, analyzing irreparable harm and balance of convenience"
+            ],
+            "result_of_case": [
+                "motion was dismissed, and defendant was awarded $200 in costs"
+            ]
+        }
+    ]
+}

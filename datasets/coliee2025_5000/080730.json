@@ -1,0 +1,29 @@
+{
+    "Case ID": "080730",
+    "Different Crime": [
+        {
+            "Crime Name": "Misrepresentation under Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "misrepresentation_or_fraud": [
+                "Applicant claimed false employment status"
+            ],
+            "procedural_fairness": [
+                "No procedural fairness breach occurred"
+            ],
+            "decision_outcome": [
+                "Application for judicial review dismissed",
+                "applicant found inadmissible"
+            ],
+            "evidence_assessment": [
+                "Numerous inconsistencies were found between the applicant's claims and employee statements"
+            ],
+            "legal_basis": [
+                "IRPA s.40(1)"
+            ],
+            "standard_of_review": [
+                "Reasonableness of decision",
+                "Adequacy of reasons"
+            ]
+        }
+    ]
+}

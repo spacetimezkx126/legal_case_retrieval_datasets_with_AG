@@ -1,0 +1,53 @@
+{
+    "Case ID": "069618",
+    "Different Crime": [
+        {
+            "Crime Name": "Criminal organization offence",
+            "Crime Type": "others",
+            "legal_basis": [
+                "ITOA"
+            ],
+            "decision_reasoning": [
+                "Minister ignored relevant facts",
+                "failed to assess future organized crime risk"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "result_of_case": [
+                "application allowed",
+                "case remitted for reconsideration"
+            ],
+            "relevant_statute": [
+                "ITOA"
+            ],
+            "dispute_focus": [
+                "transfer request refusal"
+            ]
+        },
+        {
+            "Crime Name": "Conspiracy to distribute narcotics",
+            "Crime Type": "Drug-related_Crimes",
+            "transfer_request": [
+                "denied"
+            ],
+            "decision_made_by": [
+                "Minister"
+            ],
+            "applicable_law_or_regulation": [
+                "ITOA"
+            ],
+            "evidence_considered": [
+                "co-conspirators' transfers",
+                "lack of evidence on Del Vecchio's ongoing ties to organized crime"
+            ],
+            "review_process": [
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "unreasonable",
+                "remitted for reconsideration"
+            ]
+        }
+    ]
+}

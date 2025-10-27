@@ -1,0 +1,79 @@
+{
+    "Case ID": "049502",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "decision_outcome": [
+                "Deportation order stayed"
+            ],
+            "balance_of_convenience": [
+                "Favored Melo"
+            ],
+            "irreparable_harm": [
+                "Children's interests not adequately considered"
+            ],
+            "judicial_authority": [
+                "Federal Court Act, section 18.2"
+            ],
+            "cause_of_action": [
+                "Criminal history leading to deportation order"
+            ],
+            "nature_of_offense": [
+                "Fraud"
+            ],
+            "humanitarian_compassionate_considerations": [
+                "Strong family ties in Canada"
+            ],
+            "appeal_outcome": [
+                "Stay granted until judicial review completed"
+            ],
+            "residency_requirements": [
+                "Long residence in Canada"
+            ],
+            "mitigating_factors": [
+                "Avoiding further criminal charges"
+            ]
+        },
+        {
+            "Crime Name": "Assault causing bodily harm",
+            "Crime Type": "Violence-related_Crimes",
+            "serious_issue": [
+                "children's best interests"
+            ],
+            "irreparable_harm": [
+                "losing the judicial review benefit"
+            ],
+            "family_ties": [
+                "strong family ties in Canada"
+            ],
+            "balance_of_convenience": [],
+            "child_best_interests": [
+                "potential harm to children if deported"
+            ],
+            "past_criminal_convictions": [
+                "criminal record"
+            ]
+        },
+        {
+            "Crime Name": "Carrying a concealed weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "section 18.2 of the Federal Court Act"
+            ],
+            "family_impact": [
+                "family ties",
+                "potential harm to children"
+            ],
+            "decision_outcome": [
+                "deportation order stayed"
+            ],
+            "procedural_fairness": [
+                "tri-partite test: serious issue, irreparable harm, and balance of convenience"
+            ],
+            "criminal_history": [
+                "criminal record led to a deportation order"
+            ]
+        }
+    ]
+}

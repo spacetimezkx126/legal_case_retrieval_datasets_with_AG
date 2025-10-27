@@ -1,0 +1,30 @@
+{
+    "Case ID": "048137",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "breach of procedural fairness"
+            ],
+            "standard_of_review": [
+                "correctness"
+            ],
+            "evidence_presented": [
+                "no copy of email in certified tribunal record",
+                "no email in sent box"
+            ],
+            "decision_reasoning": [
+                "refusal based on non-compliance with alleged request"
+            ],
+            "result_of_case": [
+                "judicial review allowed",
+                "re-determination ordered",
+                "costs awarded"
+            ],
+            "cost_awards": [
+                "$3,000"
+            ]
+        }
+    ]
+}

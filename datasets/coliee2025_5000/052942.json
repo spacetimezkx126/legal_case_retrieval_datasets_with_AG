@@ -1,0 +1,76 @@
+{
+    "Case ID": "052942",
+    "Different Crime": [
+        {
+            "Crime Name": "Excessive use of force by peace officer",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "s.25 of the Criminal Code"
+            ],
+            "risk_assessment": [
+                "use of force during cell extraction"
+            ],
+            "evidence_consideration": [
+                "witness testimonies",
+                "medical evidence"
+            ],
+            "procedural_fairness": [
+                "trial held with examination of testimonies and reports"
+            ],
+            "serious_issue": [
+                "alleged excessive force and mistreatment"
+            ],
+            "standard_of_proof": [
+                "plaintiff failed to prove harm or cruel treatment"
+            ]
+        },
+        {
+            "Crime Name": "False imprisonment",
+            "Crime Type": "others",
+            "legal_basis": [
+                "false imprisonment occurs when someone is confined within fixed boundaries without legal authorization"
+            ],
+            "evidence_assessment": [
+                "plaintiff was held in a strip cell for two and a half months",
+                "evidence of unusual behavior justifying concern",
+                "lack of sanitary products",
+                "absence of suicide watch"
+            ],
+            "decision_reasoning": [
+                "action is dismissed as the tort of false imprisonment was not argued before the court"
+            ],
+            "procedure_followed": [
+                "case was tried in the Federal Court of Canada",
+                "testimony from prison staff and medical personnel",
+                "judge analyzed claims of negligence, assault, and constitutional violations"
+            ],
+            "result_of_case": [
+                "plaintiff's claims were dismissed"
+            ]
+        },
+        {
+            "Crime Name": "Assault with a weapon",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Crown Liability and Proceedings Act",
+                "s.25 of Criminal Code"
+            ],
+            "procedural_fairness": [
+                "Trial involved witness testimonies, medical reports, legal interpretations"
+            ],
+            "evidence_considered": [
+                "Medical evidence",
+                "Witness testimonies"
+            ],
+            "decision_outcome": [
+                "Action dismissed"
+            ],
+            "claimant_burden": [
+                "Plaintiff failed to prove lack of reasonable grounds or causation of injuries"
+            ],
+            "court_ruling": [
+                "Crown not liable"
+            ]
+        }
+    ]
+}

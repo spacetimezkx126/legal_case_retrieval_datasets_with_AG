@@ -1,0 +1,53 @@
+{
+    "Case ID": "035369",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "family_class_considerations": [
+                "adoption",
+                "genuine parent-child relationship"
+            ],
+            "evidence_assessment": [
+                "delayed sponsorship",
+                "conflicting testimonies"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "identity_verification": [
+                "adoption authenticity"
+            ],
+            "regulatory_compliance": [
+                "Immigration Regulations",
+                "amendments"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "relationship_genuineness": [
+                "genuine parent-child relationship"
+            ],
+            "evidence_provided": [
+                "delayed sponsorship",
+                "conflicting testimonies"
+            ],
+            "applicable_statute": [
+                "Canadian Immigration Regulations"
+            ],
+            "appeal_outcome": [
+                "dismissed"
+            ],
+            "cause_of_action": [
+                "eligibility as a family class member based on adoption"
+            ],
+            "judicial_authority": [
+                "Appeal Division"
+            ],
+            "legal_basis": [
+                "adoption creating a genuine parent-child relationship, not for immigration purposes"
+            ]
+        }
+    ]
+}

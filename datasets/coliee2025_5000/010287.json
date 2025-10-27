@@ -1,0 +1,53 @@
+{
+    "Case ID": "010287",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "Board ignored credible evidence",
+                "Inconsistencies not addressed"
+            ],
+            "procedural_fairness": [
+                "Errors in law and fairness principles"
+            ],
+            "evidence_assessment": [
+                "Misinterpreting evidence",
+                "Drawing conclusions without sufficient basis"
+            ],
+            "decision_outcome": [
+                "Court allowed judicial review",
+                "Set aside the decision",
+                "Remitted the case for redetermination"
+            ],
+            "standard_of_review": [
+                "Judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "procedural_fairness": [
+                "errors in law and fairness principles",
+                "ignoring relevant evidence",
+                "drawing unreasonable inferences"
+            ],
+            "evidence_provided": [
+                "phone bills",
+                "letters"
+            ],
+            "relationship_genuineness": [
+                "alleged lack of genuine marriage intent"
+            ],
+            "appeal_outcome": [
+                "Court allowed judicial review",
+                "set aside the decision",
+                "remitted the case for redetermination"
+            ],
+            "decision_outcome": [
+                "Board erred",
+                "case is remanded for reconsideration"
+            ]
+        }
+    ]
+}

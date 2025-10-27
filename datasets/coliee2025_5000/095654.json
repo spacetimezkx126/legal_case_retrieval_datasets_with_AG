@@ -1,0 +1,35 @@
+{
+    "Case ID": "095654",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Claim Dispute",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "unreasonable credibility findings"
+            ],
+            "risk_of_persecution": [
+                "objective risk of persecution",
+                "fears",
+                "ethnic violence"
+            ],
+            "legal_basis": [
+                "Section 97 of IRPA",
+                "judicial review"
+            ],
+            "decision_outcome": [
+                "application allowed",
+                "decision set aside",
+                "redetermination by a different panel"
+            ],
+            "country_conditions": [
+                "ethnic violence in Iraq"
+            ],
+            "evidence_assessment": [
+                "misinterpreted his fears"
+            ],
+            "review_standard": [
+                "deference unless patently unreasonable"
+            ]
+        }
+    ]
+}

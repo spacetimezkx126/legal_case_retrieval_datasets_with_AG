@@ -1,0 +1,89 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Failure to provide medical treatment",
+            "Crime_Type": "Human Rights Violations and Serious International Law Offenses",
+            "Dispute_Type": [],
+            "Legal_Provision_Involved": [
+                "Section 111 of the Pension Act",
+                "Section 9 of the Crown Liability and Proceedings Act"
+            ],
+            "Outcome": [
+                "Motion to strike denied except for 'wrongfully' in termination allegation"
+            ],
+            "Grounds_for_Claim": [
+                "Alleged negligence",
+                "Breach of fiduciary duty",
+                "Inadequate medical treatment"
+            ],
+            "Remedy_Requested": [
+                "Damages for post-deployment injuries"
+            ]
+        },
+        {
+            "Crime_Name": "Negligence causing bodily harm",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": [
+                "Negligence",
+                "Failure to inform",
+                "Lack of medical care"
+            ],
+            "Legal_Issue": [
+                "Whether statutory bars prevent claims despite pension receipt"
+            ],
+            "Governing_Law": [
+                "Section 111 of the Pension Act",
+                "Section 9 of the Crown Liability and Proceedings Act"
+            ],
+            "Application_Facts": [
+                "Plaintiff suffered injuries during and after deployment; claims distinct from pension-compensated disabilities"
+            ],
+            "Decision_Outcome": [
+                "Motion to strike denied except for 'wrongfully' termination language"
+            ]
+        },
+        {
+            "Crime_Name": "Poisoning",
+            "Crime_Type": "Violent Crimes",
+            "Dispute_Type": [
+                "Toxic exposure",
+                "Health-related harm"
+            ],
+            "Sub_Crime_Type": [
+                "Chemical poisoning",
+                "Deliberate exposure to hazardous substances"
+            ],
+            "Perpetrator_Type": [
+                "Crown",
+                "Military superiors"
+            ],
+            "Victim_Status": [
+                "Military veteran with service-related injuries"
+            ],
+            "Location_of_Incident": [
+                "Post-deployment military context"
+            ]
+        },
+        {
+            "Crime_Name": "Breach of fiduciary duty",
+            "Crime_Type": "Property Crimes",
+            "Legal_Issue": [
+                "Whether fiduciary duties extend post-discharge and allow additional damages beyond pension"
+            ],
+            "Governing_Law": [
+                "Section 111 of the Pension Act",
+                "Section 9 of the Crown Liability and Proceedings Act"
+            ],
+            "Procedural_Stage": [
+                "Motion to strike under Rule 221(1)(a) of the Federal Court Rules"
+            ],
+            "Evidence_Assessment": [
+                "Not plain and obvious that injuries were covered by pension"
+            ],
+            "Decision_Outcome": [
+                "Claim allowed to proceed, except for 'wrongful' termination allegation"
+            ]
+        }
+    ]
+}

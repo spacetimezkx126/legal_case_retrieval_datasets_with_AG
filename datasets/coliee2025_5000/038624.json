@@ -1,0 +1,81 @@
+{
+    "Case ID": "038624",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "inadequate assessment of state protection",
+                "ignored relevant evidence",
+                "police inaction in similar cases"
+            ],
+            "refugee_status_eligibility": [
+                "fear of persecution due to perceived homosexuality",
+                "refugee claim rejected by Refugee Protection Division"
+            ],
+            "evidence_assessment": [
+                "failure to address relevance of similar case",
+                "dismissed evidence without proper consideration"
+            ],
+            "decision_outcome": [
+                "judicial review allowed",
+                "Board's decision set aside",
+                "case remanded for reconsideration"
+            ],
+            "procedural_fairness": [
+                "Board failed to consider key evidence",
+                "error in assessing state protection"
+            ]
+        },
+        {
+            "Crime Name": "Endangering Life",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "availability of state protection",
+                "reasonableness standard"
+            ],
+            "evidence_consideration": [
+                "evidence of similarly situated individual",
+                "police protection ignored"
+            ],
+            "risk_of_persecution": [
+                "perceived homosexuality"
+            ],
+            "legal_basis": [
+                "IRPA",
+                "Convention refugee definition"
+            ],
+            "refugee_status_nexus": [
+                "well-founded fear of persecution"
+            ],
+            "country_conditions": [
+                "St. Vincent's stable government and legal system"
+            ]
+        },
+        {
+            "Crime Name": "Failure to Provide Necessities of Life",
+            "Crime Type": "others",
+            "state_protection": [
+                "not reasonably forthcoming and effective"
+            ],
+            "evidence_presented": [
+                "similar individual not receiving protection"
+            ],
+            "decision_reasoning": [
+                "Board ignored evidence, focused on general assumptions"
+            ],
+            "conclusion_outcome": [
+                "Board erred in conclusion about state protection"
+            ],
+            "refugee_status": [
+                "claimed due to perceived homosexuality and lack of state protection"
+            ],
+            "procedure_followed": [
+                "judicial review of Refugee Protection Division’s decision"
+            ],
+            "result_of_case": [
+                "judicial review allowed, Board’s decision set aside, case remitted for redetermination"
+            ]
+        }
+    ]
+}

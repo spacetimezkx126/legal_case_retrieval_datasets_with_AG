@@ -1,0 +1,35 @@
+{
+    "Case ID": "009152",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Federal Courts Rules"
+            ],
+            "evidence_assessment": [
+                "new evidence after cross-examinations",
+                "content already relevant in earlier stages"
+            ],
+            "procedural_fairness": [
+                "splitting its case and potentially prejudicing Sanofi-Aventis",
+                "did not align with procedural fairness"
+            ],
+            "decision_reasoning": [
+                "set aside as it split Riva's case, caused prejudice"
+            ],
+            "application_details": [
+                "Riva sought to introduce new evidence via the Lefebvre Affidavit"
+            ],
+            "procedure_steps": [
+                "Sanofi-Aventis opposed Riva's motion",
+                "Prothonotary initially granted leave",
+                "decision was appealed and overturned by the judge"
+            ],
+            "result_of_case": [
+                "Prothonotary's Order allowing the Lefebvre Affidavit was rescinded",
+                "costs were awarded to Sanofi-Aventis"
+            ]
+        }
+    ]
+}

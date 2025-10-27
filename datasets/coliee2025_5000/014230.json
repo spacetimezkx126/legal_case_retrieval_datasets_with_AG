@@ -1,0 +1,70 @@
+{
+    "Case ID": "014230",
+    "Different Crime": [
+        {
+            "Crime Name": "Facilitating a Terrorist Activity",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "disclosure_of_sensitive_information": [
+                "section 38.06(3) of the Canada Evidence Act",
+                "harm national security or international relations"
+            ],
+            "balance_of_interests": [
+                "national security/international relations",
+                "accused's right to a fair trial"
+            ],
+            "applicable_law_section": [
+                "Section 38 of the Canada Evidence Act"
+            ],
+            "evidence_provided": [
+                "evidence partly sourced from foreign agencies",
+                "inadvertently disclosed information"
+            ],
+            "decision_outcome": [
+                "prohibition of most information disclosures",
+                "summary of some information will be provided"
+            ],
+            "reasoning_given": [
+                "would harm national security or international relations",
+                "necessary for a fair defense"
+            ],
+            "risk_to_national_security": [
+                "disclosure would harm national security"
+            ],
+            "procedural_fairness": [
+                "extensive ex parte hearings and submissions",
+                "detailed examination of documents and claims"
+            ],
+            "legal_basis": [
+                "section 38.04 of the Canada Evidence Act"
+            ]
+        },
+        {
+            "Crime Name": "Possession of Explosives for Dangerous Purpose",
+            "Crime Type": "Weapons_or_Explosives-related_Crimes",
+            "legal_basis": [
+                "Section 38 of the Canada Evidence Act"
+            ],
+            "procedural_fairness": [
+                "balance between national security and the accused's right to a fair trial"
+            ],
+            "evidence_considered": [
+                "sensitive information",
+                "relevant by the prosecutor but potentially injurious if disclosed",
+                "details about witness Babar"
+            ],
+            "decision_outcome": [
+                "prohibition on disclosing most information confirmed",
+                "summary of some information will be provided"
+            ],
+            "applicable_laws": [
+                "section 38.06(3) of the Canada Evidence Act"
+            ],
+            "security_concerns": [
+                "harm national security or international relations"
+            ],
+            "court_ruling": [
+                "Most information remains protected, but a summary will be provided"
+            ]
+        }
+    ]
+}

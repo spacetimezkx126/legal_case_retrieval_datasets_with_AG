@@ -1,0 +1,27 @@
+{
+    "Case ID": "075872",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "no breach of fairness occurred"
+            ],
+            "decision_outcome": [
+                "Court dismissed application"
+            ],
+            "immigration_status": [
+                "refusal of permanent residency"
+            ],
+            "evidence_assessment": [
+                "Officer found 10 primary school years incorrect and unexplained gap in O-Level studies"
+            ],
+            "regulatory_compliance": [
+                "Under IRPA and Regulations, applicants must score 67 points for permanent residency"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed Officer’s assessment, duty of fairness, and discretionary power under IRPA and Regulations"
+            ]
+        }
+    ]
+}

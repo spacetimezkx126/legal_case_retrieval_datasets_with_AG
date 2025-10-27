@@ -1,0 +1,37 @@
+{
+    "Case ID": "016954",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "court_jurisdiction": [
+                "Federal Court"
+            ],
+            "cause_of_action": [
+                "tort claims",
+                "defamation",
+                "loss of benefits"
+            ],
+            "relevant_statute": [
+                "Section 17(5)(b) of the Federal Court Act"
+            ],
+            "application_context": [
+                "public servant sued jointly with the federal Crown"
+            ],
+            "procedure_followed": [
+                "Fairweather filed a conditional appearance",
+                "challenging the court's jurisdiction",
+                "reviewed relevant statutes and case law"
+            ],
+            "decision_reasoning": [
+                "claims were based on provincial tort law",
+                "not federal statutes"
+            ],
+            "result_of_case": [
+                "Federal Court lacks jurisdiction over Fairweather",
+                "Fairweather's name was removed as a defendant",
+                "case dismissed against him"
+            ]
+        }
+    ]
+}

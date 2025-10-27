@@ -1,0 +1,64 @@
+{
+    "Case ID": "009580",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Canadian immigration law",
+                "Hindu Marriage Act"
+            ],
+            "evidence_assessment": [
+                "insufficient evidence",
+                "no expert testimony"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "misrepresentation_or_fraud": [
+                "invalid marriage",
+                "lack of genuineness"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "Hindu Marriage Act",
+                "Canadian regulations"
+            ],
+            "decision_outcome": [
+                "dismissed"
+            ],
+            "procedural_fairness": [
+                "judicial review application filed in Federal Court"
+            ],
+            "standard_of_review": [
+                "reasonableness for mixed fact and law questions"
+            ],
+            "applicable_statute": [
+                "Canadian immigration law"
+            ],
+            "party_involved": [
+                "applicant",
+                "visa officer",
+                "Immigration Appeal Division (IAD)"
+            ],
+            "claim_nature": [
+                "invalid marriage"
+            ],
+            "expert_testimony": [
+                "no expert testimony was provided"
+            ],
+            "material_misrepresentation": [
+                "lack of genuineness"
+            ],
+            "relationship_genuineness": [
+                "marriage between first cousins"
+            ]
+        }
+    ]
+}

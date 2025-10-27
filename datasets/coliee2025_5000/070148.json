@@ -1,0 +1,141 @@
+{
+    "Case ID": "070148",
+    "Different Crime": [
+        {
+            "Crime Name": "Border Document Misrepresentation",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "state_protection_analysis": [
+                "presumed unless clear and convincing evidence shows otherwise",
+                "local failures do not equate to state refusal"
+            ],
+            "risk_assessment": [
+                "domestic violence",
+                "future risk"
+            ],
+            "evidence_assessment": [
+                "insufficient efforts to seek state protection",
+                "disregarding evidence of violence against women in Jamaica"
+            ],
+            "refugee_status_eligibility": [
+                "applicant claimed refugee status due to domestic violence in Jamaica"
+            ],
+            "decision_outcome": [
+                "Board's decision was patently unreasonable",
+                "case remanded for reconsideration"
+            ],
+            "standard_of_review": [
+                "judicial review application"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "state_protection": [
+                "failure to consider systemic issues",
+                "presumption unless clear evidence"
+            ],
+            "evidence_provided": [
+                "documentary evidence of systemic issues",
+                "multiple police reports"
+            ],
+            "decision_outcome": [
+                "patently unreasonable",
+                "remanded for reconsideration"
+            ],
+            "judicial_authority": [
+                "Immigration and Refugee Board",
+                "Court allowing judicial review"
+            ],
+            "risk_characterization": [
+                "domestic violence",
+                "violence against women in Jamaica"
+            ],
+            "relationship_genuineness": [
+                "stepfather relationship"
+            ],
+            "appeal_outcome": [
+                "referred back to a different Board panel"
+            ],
+            "cause_of_action": [
+                "refugee status claim due to lack of state protection"
+            ]
+        },
+        {
+            "Crime Name": "Sexual Assault",
+            "Crime Type": "Violence-related_Crimes",
+            "state_protection_analysis": [
+                "Inadequate state protection for women facing domestic violence in Jamaica"
+            ],
+            "evidence_consideration": [
+                "Disregarding evidence of violence against women",
+                "Credible testimony dismissed as insufficient"
+            ],
+            "reasonableness_of_decision": [
+                "Board's decision was patently unreasonable"
+            ],
+            "risk_assessment": [
+                "Sexual abuse faced by the applicant"
+            ],
+            "gender_related_persecution_guidelines": [
+                "State protection for women facing domestic violence"
+            ],
+            "procedural_fairness": [
+                "Judicial review application challenging the Board’s decision"
+            ]
+        },
+        {
+            "Crime Name": "Threatening Death",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "state_protection_analysis": [
+                "failure to consider systemic issues with state protection for women in Jamaica",
+                "presumption of state protection unless 'clear and convincing' evidence shows otherwise"
+            ],
+            "refugee_status_claim": [
+                "domestic violence",
+                "lack of state protection in Jamaica"
+            ],
+            "judicial_review_result": [
+                "allowed"
+            ],
+            "reasonableness_of_decision": [
+                "patently unreasonable"
+            ],
+            "evidence_provided": [
+                "documentary evidence of systemic issues",
+                "applicant's reports of police inaction"
+            ],
+            "decision_outcome": [
+                "remanded for reconsideration"
+            ],
+            "human_rights_concerns": [
+                "violence against women"
+            ]
+        },
+        {
+            "Crime Name": "Obstructing Justice",
+            "Crime Type": "others",
+            "state_protection": [
+                "presumed unless clear and convincing evidence shows otherwise",
+                "local failures do not equate to state refusal without broader policy"
+            ],
+            "evidence_assessment": [
+                "systemic issues with Jamaican police protecting women from domestic violence"
+            ],
+            "decision_reasoning": [
+                "failed to address contradictory evidence and the applicant’s specific circumstances"
+            ],
+            "refugee_status": [
+                "applicant claimed refugee status due to lack of state protection against domestic violence in Jamaica"
+            ],
+            "procedure_followed": [
+                "judicial review application challenging the Board's decision denying refugee protection"
+            ],
+            "result_of_case": [
+                "court allowed the application, referring the matter back to a different Board panel for reconsideration"
+            ],
+            "conclusion_outcome": [
+                "Board's decision was patently unreasonable"
+            ]
+        }
+    ]
+}

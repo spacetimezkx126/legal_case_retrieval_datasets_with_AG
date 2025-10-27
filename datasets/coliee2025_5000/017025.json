@@ -1,0 +1,57 @@
+{
+    "Case ID": "017025",
+    "Different Crime": [
+        {
+            "Crime Name": "Using counterfeit travel documents",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "Board's rejection of summonses and letters",
+                "independent analysis of evidence"
+            ],
+            "credibility_assessment": [
+                "perceived inconsistencies in testimony"
+            ],
+            "evidence_assessment": [
+                "dismissed summonses and letters"
+            ],
+            "decision_outcome": [
+                "unreasonable decision",
+                "remanded for re-determination"
+            ],
+            "misrepresentation_or_fraud": [
+                "counterfeit travel documents"
+            ]
+        },
+        {
+            "Crime Name": "Smuggling",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Board's rejection of summons' authenticity"
+            ],
+            "decision_reasoning": [
+                "lack of independent analysis of objective evidence"
+            ],
+            "standard_of_review": [
+                "reasonableness"
+            ],
+            "evidence_assessment": [
+                "summons authenticity"
+            ],
+            "procedural_fairness": [
+                "violation of legal standards"
+            ],
+            "conclusion_outcome": [
+                "unreasonable decision, remanded for re-determination"
+            ],
+            "cause_of_action": [
+                "fled China after church raid, smuggler assistance"
+            ],
+            "procedure_followed": [
+                "judicial review of Board's decision"
+            ],
+            "result_of_case": [
+                "Court allowed application, set aside Board's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Case ID": "018075",
+    "Different Crime": [
+        {
+            "Crime Name": "Fraudulent Financial Transactions",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "decision_outcome": [
+                "jeopardy order against Tony Papa remains valid",
+                "application under s. 225.2(8) dismissed with costs"
+            ],
+            "evidence_provided": [
+                "irregular financial transactions",
+                "loans",
+                "stock purchases",
+                "offshore transfers"
+            ],
+            "material_misrepresentation": [
+                "alleged errors and omissions deemed immaterial"
+            ],
+            "nature_of_offense": [
+                "irregular financial activities"
+            ],
+            "judicial_authority": [
+                "CRA"
+            ],
+            "appeal_outcome": [
+                "jeopardy order against Gallo set aside",
+                "order against Papa upheld"
+            ]
+        },
+        {
+            "Crime Name": "Tax Evasion",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "s. 225.2(2) of the Income Tax Act",
+                "Rule 399"
+            ],
+            "evidence_provided": [
+                "affidavits alleging irregular financial transactions"
+            ],
+            "judicial_review_result": [
+                "dismissed"
+            ],
+            "decision_outcome": [
+                "jeopardy order upheld against Tony Papa",
+                "jeopardy order set aside against Micheline Gallo"
+            ],
+            "reasoning_given": [
+                "alleged errors immaterial",
+                "evidence sufficient to justify the jeopardy order"
+            ],
+            "applicable_law_section": [
+                "s. 225.2(2)",
+                "s. 225.2(8)"
+            ],
+            "standard_of_proof": [
+                "reasonable grounds to believe"
+            ]
+        }
+    ]
+}

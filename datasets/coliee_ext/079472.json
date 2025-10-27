@@ -1,0 +1,77 @@
+{
+    "Case ID": "",
+    "Crimes": [
+        {
+            "Crime_Name": "Aggravated Assault",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Stay of removal",
+            "Legal_Issue": "Does the applicant pose a substantial risk upon return to Sri Lanka, warranting a stay of removal?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial review and appeals",
+            "Evidence_Assessment": "Evidence shows improved conditions in Sri Lanka and no personal targeting; criminal history undermines claims of risk"
+        },
+        {
+            "Crime_Name": "Participation in Organized Criminality",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Legal_Provision_Involved": "IRPA - serious criminality and danger opinion",
+            "Procedural_Fairness_Issue": "Assessment of danger and risk by Minister's Delegate",
+            "Decision_Outcome": "Stay application denied",
+            "Risk_Nexus": "Sri Lanka",
+            "Country_of_Origin": "Sri Lanka"
+        },
+        {
+            "Crime_Name": "Obstructing a Peace Officer",
+            "Crime_Type": "Property Crimes",
+            "Dispute_Type": "Stay of removal",
+            "Legal_Issue": "Does the applicant present a serious issue to be tried regarding risk of harm if deported?",
+            "Governing_Law": "Immigration and Refugee Protection Act (IRPA)",
+            "Procedural_Stage": "Judicial reviews and repeated motions for stay",
+            "Evidence_Assessment": "Delegate’s assessment found no personal risk based on current conditions in Sri Lanka"
+        },
+        {
+            "Crime_Name": "Trafficking in Narcotics",
+            "Crime_Type": "Organized Crime and Smuggling",
+            "Legal_Provision_Involved": "IRPA - serious criminality and deportation authority",
+            "Procedural_Fairness_Issue": "Redetermination of risk assessment required despite upheld danger opinion",
+            "Decision_Outcome": "Stay application denied",
+            "Risk_Nexus": "Sri Lanka",
+            "Country_of_Origin": "Sri Lanka"
+        },
+        {
+            "Crime_Name": "Attempted Murder",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Indictable offence involving violence",
+            "Perpetrator_Type": "Permanent resident linked to gang activity",
+            "Prior_Criminality": "Multiple convictions including trafficking, assault, firearm use",
+            "Criminality_Severity": "High – involves attempted murder and organized crime",
+            "Risk_Assessment": "No substantial personal risk established in Sri Lanka"
+        },
+        {
+            "Crime_Name": "Use of a Firearm during the Commission of an Indictable Offence",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Firearm-related indictable offence",
+            "Perpetrator_Type": "Gang leader involved in organized crime",
+            "Aggravating_Factors": "Use of firearm, leadership role in criminal organization",
+            "Evidence_Sufficiency": "Adequate evidence supporting Delegate’s decision",
+            "Decision_Maker": "Minister's Delegate under IRPA"
+        },
+        {
+            "Crime_Name": "Extortion",
+            "Crime_Type": "Violent Crimes",
+            "Sub_Crime_Type": "Coercive criminal demand with threat",
+            "Threat_Source": "Organized criminal group (Tamil street gang)",
+            "Targeted_Victimization": "Pattern of intimidation and coercion",
+            "Credibility_Assessment": "Applicant denied gang involvement but identified as leader",
+            "Risk_Assessment": "Public safety threat in Canada outweighs claimed risk in Sri Lanka"
+        },
+        {
+            "Crime_Name": "Possession of Instruments of Forgery",
+            "Crime_Type": "Violations of Immigration Regulations",
+            "Violation_Type": "Document fraud related to immigration or identity",
+            "Legal_Issue": "Criminal inadmissibility under IRPA due to forgery",
+            "Application_Facts": "Convicted of forgery and other crimes; denies gang ties",
+            "Evidence_Used": "Criminal record, law enforcement intelligence",
+            "Outcome": "Stay denied; removal order upheld"
+        }
+    ]
+}

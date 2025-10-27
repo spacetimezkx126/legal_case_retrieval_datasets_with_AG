@@ -1,0 +1,29 @@
+{
+    "Case ID": "092592",
+    "Different Crime": [
+        {
+            "Crime Name": "Marriage Fraud for Immigration Purposes",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "procedural_fairness": [
+                "Delayed decision",
+                "Failure to assess marriage genuineness"
+            ],
+            "evidence_assessment": [
+                "Marriage inception focus",
+                "Current state of marriage ignored"
+            ],
+            "decision_outcome": [
+                "Judicial review allowed",
+                "Decision set aside",
+                "Reconsideration ordered"
+            ],
+            "immigration_status": [
+                "Permanent residency application denied"
+            ],
+            "standard_of_review": [
+                "Factual errors reviewed",
+                "Procedural fairness analyzed"
+            ]
+        }
+    ]
+}

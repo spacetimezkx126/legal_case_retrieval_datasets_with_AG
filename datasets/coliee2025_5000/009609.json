@@ -1,0 +1,31 @@
+{
+    "Case ID": "009609",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "mootness": [
+                "appeal moot",
+                "abandonment of trademark application"
+            ],
+            "cause_incident": [
+                "BASF applied for trademark",
+                "Dura opposed application",
+                "Registrar rejected opposition",
+                "BASF abandoned application"
+            ],
+            "procedure_followed": [
+                "Dura appealed despite abandonment",
+                "Court analyzed mootness principles"
+            ],
+            "decision_reasoning": [
+                "Mootness doctrine applies",
+                "No live controversy",
+                "Concerns about precedent and future prejudice insufficient"
+            ],
+            "result_of_case": [
+                "Appeal dismissed as moot"
+            ]
+        }
+    ]
+}

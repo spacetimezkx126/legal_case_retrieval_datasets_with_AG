@@ -1,0 +1,30 @@
+{
+    "Case ID": "020537",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Customs Tariff sections 109, 110, 120-122"
+            ],
+            "cause_of_action": [
+                "customs duty refund for leftover textile cuttings"
+            ],
+            "application_details": [
+                "judicial review application filed with Federal Court"
+            ],
+            "standard_of_review": [
+                "correctness standard of review"
+            ],
+            "relevant_statute": [
+                "Customs Tariff"
+            ],
+            "decision_reasoning": [
+                "leftover cuttings classified as 'scrap and waste', not 'goods'"
+            ],
+            "result_of_case": [
+                "application dismissed; no refund granted"
+            ]
+        }
+    ]
+}

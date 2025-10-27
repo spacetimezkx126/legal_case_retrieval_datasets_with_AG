@@ -1,0 +1,25 @@
+{
+    "Case ID": "008653",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Misrepresentation under the Immigration and Refugee Protection Act",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "s. 40(1)(a) of the IRPA"
+            ],
+            "misrepresentation_or_fraud": [
+                "falsified bank statement"
+            ],
+            "immigration_status": [
+                "student visa application"
+            ],
+            "decision_outcome": [
+                "Application dismissed",
+                "found inadmissible"
+            ],
+            "standard_of_review": [
+                "balance of probabilities"
+            ]
+        }
+    ]
+}

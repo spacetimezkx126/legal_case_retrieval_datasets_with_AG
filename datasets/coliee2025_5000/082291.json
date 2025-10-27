@@ -1,0 +1,33 @@
+{
+    "Case ID": "082291",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "legal_basis": [
+                "natural justice principles",
+                "interpretation standards"
+            ],
+            "documentary_evidence": [
+                "personal information form"
+            ],
+            "translation_quality": [
+                "omitting answers",
+                "altering questions",
+                "unsolicited responses",
+                "giving directions"
+            ],
+            "evidence_assessment": [
+                "misconstruction of evidence",
+                "breaches of interpretation standards"
+            ],
+            "procedural_fairness": [
+                "judicial review analyzed interpretation quality and factual findings"
+            ],
+            "decision_outcome": [
+                "Decision overturned",
+                "case remanded for reevaluation"
+            ]
+        }
+    ]
+}

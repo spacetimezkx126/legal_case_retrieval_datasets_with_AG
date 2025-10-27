@@ -1,0 +1,47 @@
+{
+    "Case ID": "045073",
+    "Different Crime": [
+        {
+            "Crime Name": "Inadmissibility to Canada for serious criminality",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s 36(1)(a)"
+            ],
+            "criminality_inadmissibility": [
+                "convicted of an offense punishable by at least 10 years or sentenced to more than 6 months' imprisonment"
+            ],
+            "evidence_assessment": [
+                "Tran received a 12-month conditional sentence for marijuana production"
+            ],
+            "decision_outcome": [
+                "Application granted; another officer will reconsider Tran's case"
+            ],
+            "standard_of_review": [
+                "Judicial review analyzed whether the officer's decision was reasonable based on IRPA definitions"
+            ]
+        },
+        {
+            "Crime Name": "Producing marijuana",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "IRPA s.36(1)(a)"
+            ],
+            "serious_criminality": [
+                "not serious criminality"
+            ],
+            "decision_outcome": [
+                "application granted"
+            ],
+            "immigration_status": [
+                "permanent resident"
+            ],
+            "evidence_considered": [
+                "conviction of marijuana production",
+                "12-month conditional sentence"
+            ],
+            "admissibility_hearing": [
+                "challenged CBSA's decision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Case ID": "015009",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "legal_basis": [
+                "Article 482 of the Code of Civil Procedure",
+                "Section 316 of the Excise Tax Act"
+            ],
+            "cause_of_action": [
+                "motion to revoke judgment",
+                "constitutional challenge"
+            ],
+            "application_details": [
+                "defendant argues certificate was served late",
+                "challenges constitutionality of Section 316"
+            ],
+            "decision_reasoning": [
+                "service was timely based on when the president became aware of the certificate",
+                "motion to revoke judgment is not applicable as the certificate is not a court judgment"
+            ],
+            "relevant_statute": [
+                "Code of Civil Procedure",
+                "Excise Tax Act"
+            ],
+            "result_of_case": [
+                "motion to revoke judgment is refused",
+                "constitutional challenge is improperly framed"
+            ],
+            "procedure_followed": [
+                "court reviewed timeliness of service",
+                "jurisdictional limits",
+                "applicability of motion to revoke judgment"
+            ]
+        }
+    ]
+}

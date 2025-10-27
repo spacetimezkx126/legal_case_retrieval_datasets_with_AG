@@ -1,0 +1,29 @@
+{
+    "Case ID": "033402",
+    "Different Crime": [
+        {
+            "Crime Name": "False or misleading information in citizenship application",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "residency_requirements": [
+                "strict day-counting",
+                "maintaining strong ties while temporarily absent",
+                "centralizing mode of existence in Canada"
+            ],
+            "evidence_assessment": [
+                "contradictions (missing stamps, tax year discrepancies, limited banking transactions)",
+                "implausibilities (shared addresses, inconsistent work/school records)"
+            ],
+            "decision_outcome": [
+                "Appeal granted",
+                "case remanded to a new citizenship judge for reassessment"
+            ],
+            "standard_of_review": [
+                "Appeal filed under subsection 14(5) of the Citizenship Act",
+                "analyzed by Federal Court"
+            ],
+            "misrepresentation_or_fraud": [
+                "Contradictions and omissions in the applicants' documentation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Case ID": "010458",
+    "Different Crime": [
+        {
+            "Crime Name": "Refugee Status Determination",
+            "Crime Type": "Refugee_Claim-related_Issues",
+            "credibility_findings": [
+                "disbelieving the Applicant's identity",
+                "errors in assessing identity"
+            ],
+            "documentary_evidence": [
+                "dismissed valid identity documents without proof of fraud"
+            ],
+            "procedural_fairness": [
+                "failed to assess country conditions despite credible identity",
+                "presumed knowledge of Canadian requirements"
+            ],
+            "country_conditions": [
+                "failed to assess country conditions"
+            ],
+            "evidence_assessment": [
+                "must assess evidence fairly, consider all documents unless proven fraudulent"
+            ],
+            "decision_outcome": [
+                "refugee claim was denied"
+            ],
+            "review_standard": [
+                "Judicial review application challenging the Board's decision on legal and procedural grounds"
+            ],
+            "burden_of_proof": [
+                "alleged lack of credible identity and insufficient evidence of persecution risk"
+            ],
+            "risk_of_persecution": [
+                "insufficient evidence of persecution risk"
+            ]
+        }
+    ]
+}

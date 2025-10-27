@@ -1,0 +1,61 @@
+{
+    "Case ID": "089608",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "credibility_assessment": [
+                "numerous contradictions in testimony",
+                "deemed non-credible"
+            ],
+            "procedural_fairness": [
+                "breach of procedural fairness regarding specialized knowledge",
+                "did not affect credibility findings"
+            ],
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "refugee_status_eligibility": [
+                "claimed refugee status due to persecution in DRC"
+            ],
+            "decision_outcome": [
+                "application for judicial review dismissed",
+                "no new hearing granted"
+            ],
+            "legal_basis": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ]
+        },
+        {
+            "Crime Name": "Immigration Fraud",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "standard_of_review": [
+                "patent unreasonableness"
+            ],
+            "procedural_fairness": [
+                "breach identified but不影响 credibility findings"
+            ],
+            "decision_outcome": [
+                "application dismissed"
+            ],
+            "applicable_statute": [
+                "Sections 96 and 97 of the Immigration and Refugee Protection Act"
+            ],
+            "claim_nature": [
+                "refugee status claim"
+            ],
+            "judicial_authority": [
+                "Board"
+            ],
+            "persecution_details": [
+                "persecution in DRC"
+            ],
+            "reasonableness_standard": [
+                "patently unreasonable"
+            ],
+            "material_misrepresentation": [
+                "numerous contradictions in testimony"
+            ]
+        }
+    ]
+}

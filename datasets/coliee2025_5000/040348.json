@@ -1,0 +1,36 @@
+{
+    "Case ID": "040348",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration and Refugee Protection Act Violation",
+            "Crime Type": "Human_Rights_or_International_Law_Violations",
+            "procedural_fairness": [
+                "breach of procedural fairness",
+                "relying on undisclosed extrinsic evidence",
+                "disclosing novel and significant evidence affecting the decision"
+            ],
+            "credibility_findings": [
+                "question the applicant's credibility",
+                "no chance to address"
+            ],
+            "judicial_review_process": [
+                "judicial review under Immigration and Refugee Protection Act subsection 72(1)",
+                "Federal Court analyzed procedural fairness breach"
+            ],
+            "decision_outcome": [
+                "application for judicial review is allowed",
+                "case will be re-determined by a different Board",
+                "decision was overturned"
+            ],
+            "refugee_definition": [
+                "applicant claimed refugee status in Canada"
+            ],
+            "evidentiary_standard": [
+                "undisclosed document ERT43035.E"
+            ],
+            "immigration_status": [
+                "deemed not credible due to undisclosed evidence about Eritrean citizenship"
+            ]
+        }
+    ]
+}

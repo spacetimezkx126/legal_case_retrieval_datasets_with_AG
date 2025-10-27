@@ -1,0 +1,38 @@
+{
+    "Case ID": "097421",
+    "Different Crime": [
+        {
+            "Crime Name": "unknown",
+            "Crime Type": "others",
+            "procedural_fairness": [
+                "adherence to procedural fairness"
+            ],
+            "legal_basis": [
+                "correct legal test application"
+            ],
+            "decision_reasonableness": [
+                "reasonableness of decision"
+            ],
+            "humanitarian_and_compassionate_considerations": [
+                "hardship",
+                "establishment",
+                "family ties",
+                "children's best interests"
+            ],
+            "court_ruling": [
+                "dismissed judicial review application"
+            ],
+            "standard_of_review": [
+                "correctness for legal questions",
+                "reasonableness for factual assessments"
+            ],
+            "result_details": [
+                "no breach of fairness",
+                "no bias",
+                "no legal error",
+                "reasonable decision",
+                "no costs awarded"
+            ]
+        }
+    ]
+}

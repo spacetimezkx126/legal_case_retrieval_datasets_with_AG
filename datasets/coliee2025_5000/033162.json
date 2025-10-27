@@ -1,0 +1,92 @@
+{
+    "Case ID": "033162",
+    "Different Crime": [
+        {
+            "Crime Name": "False Representations under Patent Act",
+            "Crime Type": "Economic_Crimes_or_Fraud-related_Offenses",
+            "legal_basis": [
+                "s. 76 of the Patent Act",
+                "ss. 366 and 368 of the Criminal Code"
+            ],
+            "applicable_statute": [
+                "Patent Act",
+                "Criminal Code"
+            ],
+            "decision_outcome": [
+                "Struck out references to the Criminal Code",
+                "Allowed potential amendment regarding s. 76 of the Patent Act"
+            ],
+            "cause_of_action": [
+                "Plaintiffs sought to strike out parts of the Defendant's defense"
+            ],
+            "nature_of_offense": [
+                "false representations",
+                "forgery"
+            ]
+        },
+        {
+            "Crime Name": "Uttering a Forged Document",
+            "Crime Type": "Violence-related_Crimes",
+            "legal_basis": [
+                "Sections 366 and 368 of the Criminal Code",
+                "Section 76 of the Patent Act"
+            ],
+            "procedural_fairness": [
+                "Federal Court jurisdiction limits"
+            ],
+            "evidence_consideration": [
+                "No direct connection between alleged conduct and Criminal Code provisions"
+            ],
+            "serious_issue": [
+                "Defendant's reliance on criminal statutes in a civil case"
+            ],
+            "reasonableness_of_decision": [
+                "Plea deemed scandalous, prejudicial, and delaying"
+            ],
+            "immigration_status": [],
+            "humanitarian_concerns": []
+        },
+        {
+            "Crime Name": "Forgery",
+            "Crime Type": "Terrorism_or_National_Security-related_Crimes",
+            "legal_basis": [
+                "Patent Act",
+                "Criminal Code"
+            ],
+            "procedural_fairness": [
+                "Motion brought by Plaintiffs to strike out paragraph 22"
+            ],
+            "applicable_law_section": [
+                "s. 76 of the Patent Act"
+            ],
+            "decision_outcome": [
+                "Part of paragraph 22 was struck out"
+            ],
+            "reasoning_given": [
+                "No direct connection to the harm suffered and does not provide a reasonable cause of action"
+            ]
+        },
+        {
+            "Crime Name": "Uttering a Forged Document",
+            "Crime Type": "Drug-related_Crimes",
+            "legal_basis": [
+                "Sections 366 and 368 of the Criminal Code",
+                "Section 76 of the Patent Act"
+            ],
+            "procedural_fairness": [
+                "motion to strike out parts of the Defence and Counterclaim"
+            ],
+            "decision_outcome": [
+                "portions of paragraph 22 struck out",
+                "potential amendment regarding the Patent Act allowed"
+            ],
+            "applicable_law_or_regulation": [
+                "Criminal Code",
+                "Patent Act"
+            ],
+            "decision_made_by": [
+                "Federal Court"
+            ]
+        }
+    ]
+}

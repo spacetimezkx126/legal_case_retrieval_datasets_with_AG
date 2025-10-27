@@ -1,0 +1,30 @@
+{
+    "Case ID": "091886",
+    "Different Crime": [
+        {
+            "Crime Name": "Immigration Application Dispute",
+            "Crime Type": "Immigration-related_Fraud_or_Misrepresentation",
+            "legal_basis": [
+                "IRPA s.76(3)",
+                "IRPA s.72"
+            ],
+            "procedural_fairness": [
+                "substituted evaluation process"
+            ],
+            "evidence_assessment": [
+                "interview",
+                "concluding her skills were insufficient"
+            ],
+            "immigration_status": [
+                "permanent residency application denied"
+            ],
+            "decision_outcome": [
+                "judicial review application dismissed",
+                "Court dismissed the judicial review"
+            ],
+            "standard_of_review": [
+                "reasonableness standard"
+            ]
+        }
+    ]
+}
